@@ -1,0 +1,3712 @@
+{
+    "listItems": [
+        {
+            "name": "Fashionable Winter Long Sweater  for Women",
+            "nid": "200130184",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "200130184",
+                "scene_pre": "search",
+                "current_price": "530",
+                "x_sku_ids": "1147370850",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "200130184"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i200130184-s1147370850.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ba30199f62d0deaed24ddf3ef1fdc4d8.jpg",
+            "originalPrice": "1200.00",
+            "originalPriceShow": "৳ 1,200",
+            "price": "530",
+            "promotionId": "null",
+            "priceShow": "৳ 530",
+            "discount": "-56%",
+            "ratingScore": "4.70175",
+            "review": "57",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "200130184_BD-1147370850",
+            "sku": "200130184_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508790145",
+            "mainSellerId": "",
+            "sellerName": "Classic-Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ba30199f62d0deaed24ddf3ef1fdc4d8.jpg",
+                    "productUrl": "/products/-i200130184-s1147370850.html",
+                    "sku": "200130184_BD",
+                    "skuId": "1147370850"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/de78903caa3b300df468f17df5763f78.jpg",
+                    "productUrl": "/products/-i200130184-s1147370861.html",
+                    "sku": "200130184_BD",
+                    "skuId": "1147370861"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e24a131456bc7b1dc096600f8606fab5.jpg",
+                    "productUrl": "/products/-i200130184-s1147370858.html",
+                    "sku": "200130184_BD",
+                    "skuId": "1147370858"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2ee90af4c893b45a07a5b01048dbc890.jpg",
+                    "productUrl": "/products/-i200130184-s1147370855.html",
+                    "sku": "200130184_BD",
+                    "skuId": "1147370855"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:200130184;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:200130184_BD;price:530;client:desktop;supplier_id:700508790145;asc_category_id:4405;item_id:200130184;sku_id:1147370850;shop_id:185181",
+            "addToCartSkus": [
+                {
+                    "sku": "200130184_BD-1147370850",
+                    "title": "Int M",
+                    "skuId": "1147370850",
+                    "count": 0
+                },
+                {
+                    "sku": "200130184_BD-1147370851",
+                    "title": "Int L",
+                    "skuId": "1147370851",
+                    "count": 0
+                },
+                {
+                    "sku": "200130184_BD-1147370852",
+                    "title": "Int XL",
+                    "skuId": "1147370852",
+                    "count": 0
+                }
+            ],
+            "itemId": "200130184",
+            "skuId": "1147370850",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Long Sleeve Ladies Sweater With Button",
+            "nid": "213355233",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "213355233",
+                "scene_pre": "search",
+                "current_price": "581",
+                "x_sku_ids": "1162702221",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "213355233"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i213355233-s1162702221.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4169652e5ad6f57e1c4728160f9e38d7.jpg",
+            "originalPrice": "1000.00",
+            "originalPriceShow": "৳ 1,000",
+            "price": "581",
+            "promotionId": "null",
+            "priceShow": "৳ 581",
+            "discount": "-42%",
+            "ratingScore": "5",
+            "review": "12",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "213355233_BD-1162702221",
+            "sku": "213355233_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508319892",
+            "mainSellerId": "",
+            "sellerName": "SMART SELLER",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4169652e5ad6f57e1c4728160f9e38d7.jpg",
+                    "productUrl": "/products/-i213355233-s1162702221.html",
+                    "sku": "213355233_BD",
+                    "skuId": "1162702221"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:213355233;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:213355233_BD;price:581;client:desktop;supplier_id:700508319892;asc_category_id:4405;item_id:213355233;sku_id:1162702221;shop_id:146956",
+            "addToCartSkus": [
+                {
+                    "sku": "213355233_BD-1162702221",
+                    "title": "Int: One size",
+                    "skuId": "1162702221",
+                    "count": 0
+                }
+            ],
+            "itemId": "213355233",
+            "skuId": "1162702221",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "High Quality Solid Crewneck Casual Women Cashmere Sweater",
+            "nid": "209726946",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209726946",
+                "scene_pre": "search",
+                "current_price": "449.00",
+                "x_sku_ids": "1160029763",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "209726946"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i209726946-s1160029763.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2481b5df9021d904a1389c18a00c498b.jpg",
+            "originalPrice": "699.00",
+            "originalPriceShow": "৳ 699",
+            "price": "449.00",
+            "promotionId": "null",
+            "priceShow": "৳ 449",
+            "discount": "-36%",
+            "ratingScore": "5",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209726946_BD-1160029763",
+            "sku": "209726946_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "201674",
+            "brandName": "NS Fashion",
+            "sellerId": "700508886131",
+            "mainSellerId": "",
+            "sellerName": "NS Fashion Official Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2481b5df9021d904a1389c18a00c498b.jpg",
+                    "productUrl": "/products/-i209726946-s1160029763.html",
+                    "sku": "209726946_BD",
+                    "skuId": "1160029763"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9e5f1fa38c19195797884b8c4c2336be.jpg",
+                    "productUrl": "/products/-i209726946-s1160029764.html",
+                    "sku": "209726946_BD",
+                    "skuId": "1160029764"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:209726946;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:209726946_BD;price:449.00;client:desktop;supplier_id:700508886131;asc_category_id:4405;item_id:209726946;sku_id:1160029763;shop_id:200359",
+            "addToCartSkus": [
+                {
+                    "sku": "209726946_BD-1160029763",
+                    "title": "Int: One size",
+                    "skuId": "1160029763",
+                    "count": 0
+                }
+            ],
+            "itemId": "209726946",
+            "skuId": "1160029763",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Women's Sweater O-neck Cashmere Solid Pullovers Slim Bottoming Sweater",
+            "nid": "209738818",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209738818",
+                "scene_pre": "search",
+                "current_price": "499.00",
+                "x_sku_ids": "1160034801",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "209738818"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i209738818-s1160034801.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/016cfdbf51fac35bd31166d5a9041856.jpg",
+            "originalPrice": "599.00",
+            "originalPriceShow": "৳ 599",
+            "price": "499.00",
+            "promotionId": "null",
+            "priceShow": "৳ 499",
+            "discount": "-17%",
+            "ratingScore": "5",
+            "review": "17",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209738818_BD-1160034801",
+            "sku": "209738818_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "201674",
+            "brandName": "NS Fashion",
+            "sellerId": "700508886131",
+            "mainSellerId": "",
+            "sellerName": "NS Fashion Official Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/016cfdbf51fac35bd31166d5a9041856.jpg",
+                    "productUrl": "/products/-i209738818-s1160034801.html",
+                    "sku": "209738818_BD",
+                    "skuId": "1160034801"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/3349990ba3c1de9913247b6380299c06.jpg",
+                    "productUrl": "/products/-i209738818-s1164602377.html",
+                    "sku": "209738818_BD",
+                    "skuId": "1164602377"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:209738818;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:209738818_BD;price:499.00;client:desktop;supplier_id:700508886131;asc_category_id:4405;item_id:209738818;sku_id:1160034801;shop_id:200359",
+            "addToCartSkus": [
+                {
+                    "sku": "209738818_BD-1160034801",
+                    "title": "Int: One size",
+                    "skuId": "1160034801",
+                    "count": 0
+                }
+            ],
+            "itemId": "209738818",
+            "skuId": "1160034801",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Exclusive Hand Knit Fashionable Stylish and Comfortable Short Cardigan for Women Free Size",
+            "nid": "214722717",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "214722717",
+                "scene_pre": "search",
+                "current_price": "700.00",
+                "x_sku_ids": "1163493771",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "214722717"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i214722717-s1163493771.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/32c85bca7025a36c1f3c3cd4f16e9941.jpg",
+            "price": "700.00",
+            "promotionId": "null",
+            "priceShow": "৳ 700",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "214722717_BD-1163493771",
+            "sku": "214722717_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504959052",
+            "mainSellerId": "",
+            "sellerName": "Smart-Accessories",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/32c85bca7025a36c1f3c3cd4f16e9941.jpg",
+                    "productUrl": "/products/-i214722717-s1163493771.html",
+                    "sku": "214722717_BD",
+                    "skuId": "1163493771"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:214722717;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:214722717_BD;price:700.00;client:desktop;supplier_id:700504959052;asc_category_id:4405;item_id:214722717;sku_id:1163493771;shop_id:51226",
+            "addToCartSkus": [
+                {
+                    "sku": "214722717_BD-1163493771",
+                    "title": "Int: One size",
+                    "skuId": "1163493771",
+                    "count": 0
+                }
+            ],
+            "itemId": "214722717",
+            "skuId": "1163493771",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Women`s Winter Cotton Long Sleeve Jacket",
+            "nid": "216849138",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "216849138",
+                "scene_pre": "search",
+                "current_price": "350.00",
+                "x_sku_ids": "1165026788",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "216849138"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i216849138-s1165026788.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/14c5fb56c8b04a73b15d61159f5746c6.jpg",
+            "originalPrice": "600.00",
+            "originalPriceShow": "৳ 600",
+            "price": "350.00",
+            "promotionId": "null",
+            "priceShow": "৳ 350",
+            "discount": "-42%",
+            "ratingScore": "4.6",
+            "review": "10",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "216849138_BD-1165026788",
+            "sku": "216849138_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509735078",
+            "mainSellerId": "",
+            "sellerName": "Grameen Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/14c5fb56c8b04a73b15d61159f5746c6.jpg",
+                    "productUrl": "/products/-i216849138-s1165026788.html",
+                    "sku": "216849138_BD",
+                    "skuId": "1165026788"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:216849138;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:216849138_BD;price:350.00;client:desktop;supplier_id:700509735078;asc_category_id:4405;item_id:216849138;sku_id:1165026788;shop_id:217381",
+            "addToCartSkus": [
+                {
+                    "sku": "216849138_BD-1165026788",
+                    "title": "Int M",
+                    "skuId": "1165026788",
+                    "count": 0
+                },
+                {
+                    "sku": "216849138_BD-1165026789",
+                    "title": "Int L",
+                    "skuId": "1165026789",
+                    "count": 0
+                },
+                {
+                    "sku": "216849138_BD-1165026790",
+                    "title": "Int XL",
+                    "skuId": "1165026790",
+                    "count": 0
+                }
+            ],
+            "itemId": "216849138",
+            "skuId": "1165026788",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Exclusive Hand Knit Fashionable  Stylish Short Cardigan ( Free Size )",
+            "nid": "132256196",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132256196",
+                "scene_pre": "search",
+                "current_price": "670.00",
+                "x_sku_ids": "1053120783",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "132256196"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i132256196-s1053120783.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/03ff5c874dadf328e1606541e7dd56f0.jpg",
+            "originalPrice": "950.00",
+            "originalPriceShow": "৳ 950",
+            "price": "670.00",
+            "promotionId": "null",
+            "priceShow": "৳ 670",
+            "discount": "-29%",
+            "ratingScore": "4.68182",
+            "review": "22",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132256196_BD-1053120783",
+            "sku": "132256196_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504959052",
+            "mainSellerId": "",
+            "sellerName": "Smart-Accessories",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/03ff5c874dadf328e1606541e7dd56f0.jpg",
+                    "productUrl": "/products/-i132256196-s1053120783.html",
+                    "sku": "132256196_BD",
+                    "skuId": "1053120783"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1a772a7af5cc8cd43301b1018b932af8.jpg",
+                    "productUrl": "/products/-i132256196-s1053120786.html",
+                    "sku": "132256196_BD",
+                    "skuId": "1053120786"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ef4d0cee92d51457a77f1bd777b9f74c.jpg",
+                    "productUrl": "/products/-i132256196-s1161716865.html",
+                    "sku": "132256196_BD",
+                    "skuId": "1161716865"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b6b24b38331cf99a7b4d44b8cc9d39e5.jpg",
+                    "productUrl": "/products/-i132256196-s1053120784.html",
+                    "sku": "132256196_BD",
+                    "skuId": "1053120784"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2bd0166ab36d247e21f18509560f0478.jpg",
+                    "productUrl": "/products/-i132256196-s1053120785.html",
+                    "sku": "132256196_BD",
+                    "skuId": "1053120785"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:132256196;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:132256196_BD;price:670.00;client:desktop;supplier_id:700504959052;asc_category_id:4405;item_id:132256196;sku_id:1053120783;shop_id:51226",
+            "addToCartSkus": [
+                {
+                    "sku": "132256196_BD-1053120783",
+                    "title": "Int: One size",
+                    "skuId": "1053120783",
+                    "count": 0
+                }
+            ],
+            "itemId": "132256196",
+            "skuId": "1053120783",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Women’s High neck sweater (black)",
+            "nid": "181590514",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "181590514",
+                "scene_pre": "search",
+                "current_price": "199.00",
+                "x_sku_ids": "1126347874",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "181590514"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i181590514-s1126347874.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ec68dc4727e0570eb147bf8baeb76789.jpg",
+            "originalPrice": "444.00",
+            "originalPriceShow": "৳ 444",
+            "price": "199.00",
+            "promotionId": "null",
+            "priceShow": "৳ 199",
+            "discount": "-55%",
+            "ratingScore": "4.33333",
+            "review": "24",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "181590514_BD-1126347874",
+            "sku": "181590514_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508328396",
+            "mainSellerId": "",
+            "sellerName": "AWAY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ec68dc4727e0570eb147bf8baeb76789.jpg",
+                    "productUrl": "/products/-i181590514-s1126347874.html",
+                    "sku": "181590514_BD",
+                    "skuId": "1126347874"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:181590514;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:181590514_BD;price:199.00;client:desktop;supplier_id:700508328396;asc_category_id:4405;item_id:181590514;sku_id:1126347874;shop_id:145053",
+            "addToCartSkus": [
+                {
+                    "sku": "181590514_BD-1126347877",
+                    "title": "Int:38",
+                    "skuId": "1126347877",
+                    "count": 0
+                },
+                {
+                    "sku": "181590514_BD-1126347878",
+                    "title": "Int:40",
+                    "skuId": "1126347878",
+                    "count": 0
+                },
+                {
+                    "sku": "181590514_BD-1126347875",
+                    "title": "Int:L",
+                    "skuId": "1126347875",
+                    "count": 0
+                },
+                {
+                    "sku": "181590514_BD-1126347874",
+                    "title": "Int:M",
+                    "skuId": "1126347874",
+                    "count": 0
+                }
+            ],
+            "itemId": "181590514",
+            "skuId": "1126347874",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ladies Winter Long Sleeve Open Cardian Sweater with Button",
+            "nid": "157864779",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "157864779",
+                "scene_pre": "search",
+                "current_price": "525.00",
+                "x_sku_ids": "1088956277",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "157864779"
+            },
+            "productUrl": "//www.daraz.com.bd/products/aaaaaaaa-aaaa-aaaaa-aa-aaaaaaaa-aaaaa-aaaaa-aaaa-aaaaaaaaa-aaaaaaaa-i157864779-s1088956277.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6c1b7649f37ae41a98150b1b60fbe9bf.jpg",
+            "originalPrice": "1060.00",
+            "originalPriceShow": "৳ 1,060",
+            "price": "525.00",
+            "promotionId": "null",
+            "priceShow": "৳ 525",
+            "discount": "-50%",
+            "ratingScore": "4.47619",
+            "review": "21",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "157864779_BD-1088956277",
+            "sku": "157864779_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507494216",
+            "mainSellerId": "",
+            "sellerName": "LR Fashion BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6c1b7649f37ae41a98150b1b60fbe9bf.jpg",
+                    "productUrl": "/products/aaaaaaaa-aaaa-aaaaa-aa-aaaaaaaa-aaaaa-aaaaa-aaaa-aaaaaaaaa-aaaaaaaa-i157864779-s1088956277.html",
+                    "sku": "157864779_BD",
+                    "skuId": "1088956277"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/93396e1d0bdd62e571bb31489abbc074.jpg",
+                    "productUrl": "/products/aaaaaaaa-aaaa-aaaaa-aa-aaaaaaaa-aaaaa-aaaaa-aaaa-aaaaaaaaa-aaaaaaaa-i157864779-s1088956279.html",
+                    "sku": "157864779_BD",
+                    "skuId": "1088956279"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:157864779;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:157864779_BD;price:525.00;client:desktop;supplier_id:700507494216;asc_category_id:4405;item_id:157864779;sku_id:1088956277;shop_id:97366",
+            "addToCartSkus": [
+                {
+                    "sku": "157864779_BD-1088956277",
+                    "title": "Int M",
+                    "skuId": "1088956277",
+                    "count": 0
+                }
+            ],
+            "itemId": "157864779",
+            "skuId": "1088956277",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ladies Winter Long Sleeve Open Cardian Sweater with Button",
+            "nid": "157876049",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "157876049",
+                "scene_pre": "search",
+                "current_price": "578",
+                "x_sku_ids": "1088946771",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "157876049"
+            },
+            "productUrl": "//www.daraz.com.bd/products/aaaaaaaa-aaaa-aaaaa-aa-aaaaaaaa-aaaaa-aaaaa-aaaa-aaaaaaaaa-aaaaaaaa-i157876049-s1088946771.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/570a20598a8703c6d79d4b23a4107057.jpg",
+            "originalPrice": "1025.00",
+            "originalPriceShow": "৳ 1,025",
+            "price": "578",
+            "promotionId": "null",
+            "priceShow": "৳ 578",
+            "discount": "-44%",
+            "ratingScore": "4.66667",
+            "review": "9",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "157876049_BD-1088946771",
+            "sku": "157876049_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507302023",
+            "mainSellerId": "",
+            "sellerName": "WD Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/570a20598a8703c6d79d4b23a4107057.jpg",
+                    "productUrl": "/products/aaaaaaaa-aaaa-aaaaa-aa-aaaaaaaa-aaaaa-aaaaa-aaaa-aaaaaaaaa-aaaaaaaa-i157876049-s1088946771.html",
+                    "sku": "157876049_BD",
+                    "skuId": "1088946771"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/54df962ca1f5e38ea8f40c66aaaf140c.jpg",
+                    "productUrl": "/products/aaaaaaaa-aaaa-aaaaa-aa-aaaaaaaa-aaaaa-aaaaa-aaaa-aaaaaaaaa-aaaaaaaa-i157876049-s1088946773.html",
+                    "sku": "157876049_BD",
+                    "skuId": "1088946773"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:157876049;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:157876049_BD;price:578;client:desktop;supplier_id:700507302023;asc_category_id:4405;item_id:157876049;sku_id:1088946771;shop_id:89491",
+            "addToCartSkus": [
+                {
+                    "sku": "157876049_BD-1088946771",
+                    "title": "Int M",
+                    "skuId": "1088946771",
+                    "count": 0
+                }
+            ],
+            "itemId": "157876049",
+            "skuId": "1088946771",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Casual Long Sleeve Turtleneck Cashmere Women Cardigan Sweater",
+            "nid": "208564777",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "208564777",
+                "scene_pre": "search",
+                "current_price": "739",
+                "x_sku_ids": "1158829336",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "208564777"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i208564777-s1158829336.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/f3977f1bc77e87252a1d034d86dce075.jpg",
+            "originalPrice": "999.00",
+            "originalPriceShow": "৳ 999",
+            "price": "739",
+            "promotionId": "null",
+            "priceShow": "৳ 739",
+            "discount": "-26%",
+            "ratingScore": "5",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "208564777_BD-1158829336",
+            "sku": "208564777_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "201674",
+            "brandName": "NS Fashion",
+            "sellerId": "700508886131",
+            "mainSellerId": "",
+            "sellerName": "NS Fashion Official Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/f3977f1bc77e87252a1d034d86dce075.jpg",
+                    "productUrl": "/products/-i208564777-s1158829336.html",
+                    "sku": "208564777_BD",
+                    "skuId": "1158829336"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/b280458e5b6b4c3c2b9b9cfee33c98da.jpg",
+                    "productUrl": "/products/-i208564777-s1158829334.html",
+                    "sku": "208564777_BD",
+                    "skuId": "1158829334"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/0e13c9b7a25a511b5db24291af129d16.jpg",
+                    "productUrl": "/products/-i208564777-s1158829337.html",
+                    "sku": "208564777_BD",
+                    "skuId": "1158829337"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:208564777;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:208564777_BD;price:739;client:desktop;supplier_id:700508886131;asc_category_id:4405;item_id:208564777;sku_id:1158829336;shop_id:200359",
+            "addToCartSkus": [
+                {
+                    "sku": "208564777_BD-1158829336",
+                    "title": "Int: One size",
+                    "skuId": "1158829336",
+                    "count": 0
+                }
+            ],
+            "itemId": "208564777",
+            "skuId": "1158829336",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fashonable Ladies Winter Long Sleeve Open Cardian Sweater",
+            "nid": "199929698",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "199929698",
+                "scene_pre": "search",
+                "current_price": "350.00",
+                "x_sku_ids": "1147350741",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "199929698"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i199929698-s1147350741.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a800ee9578f8854b5e821c26b4ceac0a.jpg",
+            "originalPrice": "800.00",
+            "originalPriceShow": "৳ 800",
+            "price": "350.00",
+            "promotionId": "null",
+            "priceShow": "৳ 350",
+            "discount": "-56%",
+            "ratingScore": "4.85714",
+            "review": "14",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "199929698_BD-1147350741",
+            "sku": "199929698_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508790145",
+            "mainSellerId": "",
+            "sellerName": "Classic-Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a800ee9578f8854b5e821c26b4ceac0a.jpg",
+                    "productUrl": "/products/-i199929698-s1147350741.html",
+                    "sku": "199929698_BD",
+                    "skuId": "1147350741"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:199929698;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:199929698_BD;price:350.00;client:desktop;supplier_id:700508790145;asc_category_id:4405;item_id:199929698;sku_id:1147350741;shop_id:185181",
+            "addToCartSkus": [
+                {
+                    "sku": "199929698_BD-1147350741",
+                    "title": "Int: One size",
+                    "skuId": "1147350741",
+                    "count": 0
+                }
+            ],
+            "itemId": "199929698",
+            "skuId": "1147350741",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Women`s Winter Cotton Long Sleeve Jacket",
+            "nid": "216847303",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "216847303",
+                "scene_pre": "search",
+                "current_price": "350.00",
+                "x_sku_ids": "1165032422",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "216847303"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i216847303-s1165032422.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/368300053c6e4d34babe46203086ae43.jpg",
+            "originalPrice": "600.00",
+            "originalPriceShow": "৳ 600",
+            "price": "350.00",
+            "promotionId": "null",
+            "priceShow": "৳ 350",
+            "discount": "-42%",
+            "ratingScore": "4",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "216847303_BD-1165032422",
+            "sku": "216847303_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509735078",
+            "mainSellerId": "",
+            "sellerName": "Grameen Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/368300053c6e4d34babe46203086ae43.jpg",
+                    "productUrl": "/products/-i216847303-s1165032422.html",
+                    "sku": "216847303_BD",
+                    "skuId": "1165032422"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:216847303;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:216847303_BD;price:350.00;client:desktop;supplier_id:700509735078;asc_category_id:4405;item_id:216847303;sku_id:1165032422;shop_id:217381",
+            "addToCartSkus": [
+                {
+                    "sku": "216847303_BD-1165032421",
+                    "title": "Int M",
+                    "skuId": "1165032421",
+                    "count": 0
+                },
+                {
+                    "sku": "216847303_BD-1165032422",
+                    "title": "Int L",
+                    "skuId": "1165032422",
+                    "count": 0
+                },
+                {
+                    "sku": "216847303_BD-1165032423",
+                    "title": "Int XL",
+                    "skuId": "1165032423",
+                    "count": 0
+                }
+            ],
+            "itemId": "216847303",
+            "skuId": "1165032422",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Exclusive Hand Knit Fashionable Stylish and Comfortable Short Cardigan for Women Free Size",
+            "nid": "156756685",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "156756685",
+                "scene_pre": "search",
+                "current_price": "374",
+                "x_sku_ids": "1086514991",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "156756685"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i156756685-s1086514991.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3e2e0db225d15ba859e9debdfadb35e7.jpg",
+            "originalPrice": "950.00",
+            "originalPriceShow": "৳ 950",
+            "price": "374",
+            "promotionId": "null",
+            "priceShow": "৳ 374",
+            "discount": "-61%",
+            "ratingScore": "3.92308",
+            "review": "13",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "156756685_BD-1086514991",
+            "sku": "156756685_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504959052",
+            "mainSellerId": "",
+            "sellerName": "Smart-Accessories",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3e2e0db225d15ba859e9debdfadb35e7.jpg",
+                    "productUrl": "/products/-i156756685-s1086514991.html",
+                    "sku": "156756685_BD",
+                    "skuId": "1086514991"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:156756685;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:156756685_BD;price:374;client:desktop;supplier_id:700504959052;asc_category_id:4405;item_id:156756685;sku_id:1086514991;shop_id:51226",
+            "addToCartSkus": [
+                {
+                    "sku": "156756685_BD-1086514991",
+                    "title": "Int: One size",
+                    "skuId": "1086514991",
+                    "count": 0
+                }
+            ],
+            "itemId": "156756685",
+            "skuId": "1086514991",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Women Sleeve Less Open Front Shrug",
+            "nid": "132202285",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132202285",
+                "scene_pre": "search",
+                "current_price": "130.00",
+                "x_sku_ids": "1053002424",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "132202285"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i132202285-s1053002424.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4ddf46d85be0b73e44cdc9f50d9efb5b.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "130.00",
+            "promotionId": "null",
+            "priceShow": "৳ 130",
+            "discount": "-13%",
+            "ratingScore": "4.83333",
+            "review": "6",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132202285_BD-1053002424",
+            "sku": "132202285_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504959052",
+            "mainSellerId": "",
+            "sellerName": "Smart-Accessories",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4ddf46d85be0b73e44cdc9f50d9efb5b.jpg",
+                    "productUrl": "/products/-i132202285-s1053002424.html",
+                    "sku": "132202285_BD",
+                    "skuId": "1053002424"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/94d4891df4d686383a726880e718495e.jpg",
+                    "productUrl": "/products/-i132202285-s1053002425.html",
+                    "sku": "132202285_BD",
+                    "skuId": "1053002425"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/712aa634d4873dcf02815e0120ff8350.jpg",
+                    "productUrl": "/products/-i132202285-s1053002426.html",
+                    "sku": "132202285_BD",
+                    "skuId": "1053002426"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:132202285;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:132202285_BD;price:130.00;client:desktop;supplier_id:700504959052;asc_category_id:4405;item_id:132202285;sku_id:1053002424;shop_id:51226",
+            "addToCartSkus": [
+                {
+                    "sku": "132202285_BD-1053002424",
+                    "title": "Int: One size",
+                    "skuId": "1053002424",
+                    "count": 0
+                }
+            ],
+            "itemId": "132202285",
+            "skuId": "1053002424",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ladies Long Sleeve V Neck Front Pocket Rib Sweater Jumper",
+            "nid": "214126421",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "214126421",
+                "scene_pre": "search",
+                "current_price": "335",
+                "x_sku_ids": "1163207624",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "214126421"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i214126421-s1163207624.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a9b069879ee8e8978e9920191214d6dc.jpg",
+            "originalPrice": "499.00",
+            "originalPriceShow": "৳ 499",
+            "price": "335",
+            "promotionId": "null",
+            "priceShow": "৳ 335",
+            "discount": "-33%",
+            "ratingScore": "5",
+            "review": "8",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "214126421_BD-1163207624",
+            "sku": "214126421_BD",
+            "skus": [],
+            "description": [
+                "V Neck Jumper",
+                "Black",
+                "Front Pocker Design",
+                "Classic V neckline",
+                "Warm long sleeves",
+                "Soft touch knitted fabric",
+                "Deep ribbed hem",
+                "Material Content: 50% Viscose, 23% Polyester, 27% Polyamide",
+                "Washing Instructions: Machine Washable",
+                "Dress Length:Knee-Length",
+                "Pull on Closure",
+                "Regular fit"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508265735",
+            "mainSellerId": "",
+            "sellerName": "Levin Mall",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a9b069879ee8e8978e9920191214d6dc.jpg",
+                    "productUrl": "/products/-i214126421-s1163207624.html",
+                    "sku": "214126421_BD",
+                    "skuId": "1163207624"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:214126421;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:214126421_BD;price:335;client:desktop;supplier_id:700508265735;asc_category_id:4405;item_id:214126421;sku_id:1163207624;shop_id:140359",
+            "addToCartSkus": [
+                {
+                    "sku": "214126421_BD-1163207624",
+                    "title": "Int S",
+                    "skuId": "1163207624",
+                    "count": 0
+                },
+                {
+                    "sku": "214126421_BD-1163207625",
+                    "title": "Int M",
+                    "skuId": "1163207625",
+                    "count": 0
+                },
+                {
+                    "sku": "214126421_BD-1163207626",
+                    "title": "Int L",
+                    "skuId": "1163207626",
+                    "count": 0
+                },
+                {
+                    "sku": "214126421_BD-1163207627",
+                    "title": "Int XL",
+                    "skuId": "1163207627",
+                    "count": 0
+                }
+            ],
+            "itemId": "214126421",
+            "skuId": "1163207624",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Comfortable Fashionable Winter Long Sweater for Women",
+            "nid": "217162227",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "217162227",
+                "scene_pre": "search",
+                "current_price": "1099.00",
+                "x_sku_ids": "1165243232",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "217162227"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i217162227-s1165243232.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9e1fabb2d2f7ad5635045d62089c73b1.jpg",
+            "originalPrice": "1599.00",
+            "originalPriceShow": "৳ 1,599",
+            "price": "1099.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,099",
+            "discount": "-31%",
+            "ratingScore": "5",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "217162227_BD-1165243232",
+            "sku": "217162227_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1032289",
+            "mainSellerId": "",
+            "sellerName": "NS Network",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9e1fabb2d2f7ad5635045d62089c73b1.jpg",
+                    "productUrl": "/products/-i217162227-s1165243232.html",
+                    "sku": "217162227_BD",
+                    "skuId": "1165243232"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:217162227;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:217162227_BD;price:1099.00;client:desktop;supplier_id:1032289;asc_category_id:4405;item_id:217162227;sku_id:1165243232;shop_id:38291",
+            "addToCartSkus": [
+                {
+                    "sku": "217162227_BD-1165243232",
+                    "title": "Int: One size",
+                    "skuId": "1165243232",
+                    "count": 0
+                }
+            ],
+            "itemId": "217162227",
+            "skuId": "1165243232",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fashionable Elegant Winter Sweaters for Women",
+            "nid": "209472866",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209472866",
+                "scene_pre": "search",
+                "current_price": "369.00",
+                "x_sku_ids": "1159723770",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "209472866"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i209472866-s1159723770.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1f816c297528f24f5464c09040ef7694.png",
+            "originalPrice": "900.00",
+            "originalPriceShow": "৳ 900",
+            "price": "369.00",
+            "promotionId": "null",
+            "priceShow": "৳ 369",
+            "discount": "-59%",
+            "ratingScore": "5",
+            "review": "8",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209472866_BD-1159723770",
+            "sku": "209472866_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508538704",
+            "mainSellerId": "",
+            "sellerName": "Clicked bbuy",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1f816c297528f24f5464c09040ef7694.png",
+                    "productUrl": "/products/-i209472866-s1159723770.html",
+                    "sku": "209472866_BD",
+                    "skuId": "1159723770"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b6acce9382755bf24f0cb0ef9df61318.png",
+                    "productUrl": "/products/-i209472866-s1159723774.html",
+                    "sku": "209472866_BD",
+                    "skuId": "1159723774"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7e872ecee213cca1ecddbcabd2937068.png",
+                    "productUrl": "/products/-i209472866-s1159723778.html",
+                    "sku": "209472866_BD",
+                    "skuId": "1159723778"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:209472866;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:209472866_BD;price:369.00;client:desktop;supplier_id:700508538704;asc_category_id:4405;item_id:209472866;sku_id:1159723770;shop_id:167744",
+            "addToCartSkus": [
+                {
+                    "sku": "209472866_BD-1159723770",
+                    "title": "Int S",
+                    "skuId": "1159723770",
+                    "count": 0
+                },
+                {
+                    "sku": "209472866_BD-1159723771",
+                    "title": "Int M",
+                    "skuId": "1159723771",
+                    "count": 0
+                },
+                {
+                    "sku": "209472866_BD-1159723772",
+                    "title": "Int L",
+                    "skuId": "1159723772",
+                    "count": 0
+                },
+                {
+                    "sku": "209472866_BD-1159723773",
+                    "title": "Int XL",
+                    "skuId": "1159723773",
+                    "count": 0
+                }
+            ],
+            "itemId": "209472866",
+            "skuId": "1159723770",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Women’s High neck sweater (Grey)",
+            "nid": "181612358",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "181612358",
+                "scene_pre": "search",
+                "current_price": "199.00",
+                "x_sku_ids": "1126351627",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "181612358"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i181612358-s1126351627.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/13c5d4ec0659f1fb0577317483b9a564.jpg",
+            "originalPrice": "444.00",
+            "originalPriceShow": "৳ 444",
+            "price": "199.00",
+            "promotionId": "null",
+            "priceShow": "৳ 199",
+            "discount": "-55%",
+            "ratingScore": "3.83333",
+            "review": "12",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "181612358_BD-1126351627",
+            "sku": "181612358_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508328396",
+            "mainSellerId": "",
+            "sellerName": "AWAY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/13c5d4ec0659f1fb0577317483b9a564.jpg",
+                    "productUrl": "/products/-i181612358-s1126351627.html",
+                    "sku": "181612358_BD",
+                    "skuId": "1126351627"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:181612358;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:181612358_BD;price:199.00;client:desktop;supplier_id:700508328396;asc_category_id:4405;item_id:181612358;sku_id:1126351627;shop_id:145053",
+            "addToCartSkus": [
+                {
+                    "sku": "181612358_BD-1126351630",
+                    "title": "Int:36",
+                    "skuId": "1126351630",
+                    "count": 0
+                },
+                {
+                    "sku": "181612358_BD-1126351631",
+                    "title": "Int:38",
+                    "skuId": "1126351631",
+                    "count": 0
+                },
+                {
+                    "sku": "181612358_BD-1126351632",
+                    "title": "Int:40",
+                    "skuId": "1126351632",
+                    "count": 0
+                },
+                {
+                    "sku": "181612358_BD-1126351629",
+                    "title": "Int:L",
+                    "skuId": "1126351629",
+                    "count": 0
+                },
+                {
+                    "sku": "181612358_BD-1126351627",
+                    "title": "Int:S",
+                    "skuId": "1126351627",
+                    "count": 0
+                }
+            ],
+            "itemId": "181612358",
+            "skuId": "1126351627",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Women’s High neck sweater (Maroon)",
+            "nid": "181593471",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "181593471",
+                "scene_pre": "search",
+                "current_price": "222.00",
+                "x_sku_ids": "1126355435",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "181593471"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i181593471-s1126355435.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b516f4d57e43ada70c8cfd34ea70ed30.jpg",
+            "originalPrice": "444.00",
+            "originalPriceShow": "৳ 444",
+            "price": "222.00",
+            "promotionId": "null",
+            "priceShow": "৳ 222",
+            "discount": "-50%",
+            "ratingScore": "3.22222",
+            "review": "9",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "181593471_BD-1126355435",
+            "sku": "181593471_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508328396",
+            "mainSellerId": "",
+            "sellerName": "AWAY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b516f4d57e43ada70c8cfd34ea70ed30.jpg",
+                    "productUrl": "/products/-i181593471-s1126355435.html",
+                    "sku": "181593471_BD",
+                    "skuId": "1126355435"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:181593471;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:181593471_BD;price:222.00;client:desktop;supplier_id:700508328396;asc_category_id:4405;item_id:181593471;sku_id:1126355435;shop_id:145053",
+            "addToCartSkus": [
+                {
+                    "sku": "181593471_BD-1126355438",
+                    "title": "Int:36",
+                    "skuId": "1126355438",
+                    "count": 0
+                },
+                {
+                    "sku": "181593471_BD-1126355439",
+                    "title": "Int:38",
+                    "skuId": "1126355439",
+                    "count": 0
+                },
+                {
+                    "sku": "181593471_BD-1126355440",
+                    "title": "Int:40",
+                    "skuId": "1126355440",
+                    "count": 0
+                },
+                {
+                    "sku": "181593471_BD-1126355437",
+                    "title": "Int:L",
+                    "skuId": "1126355437",
+                    "count": 0
+                },
+                {
+                    "sku": "181593471_BD-1126355436",
+                    "title": "Int:M",
+                    "skuId": "1126355436",
+                    "count": 0
+                },
+                {
+                    "sku": "181593471_BD-1126355435",
+                    "title": "Int:S",
+                    "skuId": "1126355435",
+                    "count": 0
+                }
+            ],
+            "itemId": "181593471",
+            "skuId": "1126355435",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Women's Classic Long Sleeve Knit Short Cardigan Sweaters Casual Open Front Button Down Cardigan",
+            "nid": "220571541",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "220571541",
+                "scene_pre": "search",
+                "current_price": "450",
+                "x_sku_ids": "1167817671",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "220571541"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i220571541-s1167817671.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/98d11f3a9f5ef3e2c03053f8899e01bb.jpg",
+            "originalPrice": "800.00",
+            "originalPriceShow": "৳ 800",
+            "price": "450",
+            "promotionId": "null",
+            "priceShow": "৳ 450",
+            "discount": "-44%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "220571541_BD-1167817671",
+            "sku": "220571541_BD",
+            "skus": [],
+            "description": [
+                "Button Down closure",
+                "MATERIAL - 65% Viscose, 35% Acrylic. Lightweight and breathable material, high stretchy, the cardigans for women are skin-friendly, soft and comfortable to wear everyday during any sort of activity.",
+                "DESIGN - Chic button down, crew neck, casual style, slim fit design, solid color, ultra soft and breathable material, the cardigans for women are so comfy and flattering on all body types!",
+                "FEATURES - The classic fitted silhouette with slim sleeves and crew neck design make these cardigan sweaters for women a must-have addition in your wardrobe. Our button-down cardigans for women provides you with ultra comfy and flattering feeling, making you more confident and attractive all day in any season.",
+                "OCCASIONS - The women&#39;s cardigans are versatile and easy to style with any other clothes, pair perfectly with shorts, jeans, leggings, or dress to have a look in normal or sports ; Suitable for office, daily, school or any other occasions.",
+                "SIZE - M/L/XL/2XL/3XL. Please refer to our size chart image before ordering. If you are between sizes, choosing a size up is recommended. With any further question, please feel free to contact us."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509315051",
+            "mainSellerId": "",
+            "sellerName": "Softtex",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/98d11f3a9f5ef3e2c03053f8899e01bb.jpg",
+                    "productUrl": "/products/-i220571541-s1167817671.html",
+                    "sku": "220571541_BD",
+                    "skuId": "1167817671"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:220571541;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:220571541_BD;price:450;client:desktop;supplier_id:700509315051;asc_category_id:4405;item_id:220571541;sku_id:1167817671;shop_id:206088",
+            "addToCartSkus": [
+                {
+                    "sku": "220571541_BD-1167817671",
+                    "title": "Int: One size",
+                    "skuId": "1167817671",
+                    "count": 0
+                },
+                {
+                    "sku": "220571541_BD-1167817672",
+                    "title": "Int:L",
+                    "skuId": "1167817672",
+                    "count": 0
+                },
+                {
+                    "sku": "220571541_BD-1167817673",
+                    "title": "Int:XL",
+                    "skuId": "1167817673",
+                    "count": 0
+                }
+            ],
+            "itemId": "220571541",
+            "skuId": "1167817671",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Women's Classic Fit Lightweight Long-Sleeve Cardigan",
+            "nid": "181684611",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "181684611",
+                "scene_pre": "search",
+                "current_price": "350",
+                "x_sku_ids": "1123427410",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "181684611"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i181684611-s1123427410.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2360ce4acad023f68a6b6f4b41df1dd1.jpg",
+            "originalPrice": "499.00",
+            "originalPriceShow": "৳ 499",
+            "price": "350",
+            "promotionId": "null",
+            "priceShow": "৳ 350",
+            "discount": "-30%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "181684611_BD-1123427410",
+            "sku": "181684611_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507401003",
+            "mainSellerId": "",
+            "sellerName": "Genial e-Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2360ce4acad023f68a6b6f4b41df1dd1.jpg",
+                    "productUrl": "/products/-i181684611-s1123427410.html",
+                    "sku": "181684611_BD",
+                    "skuId": "1123427410"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1f8f41d8e0334f9d4431bf5616ae9de0.jpg",
+                    "productUrl": "/products/-i181684611-s1123427421.html",
+                    "sku": "181684611_BD",
+                    "skuId": "1123427421"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e5751359e49cd1e116f8e5092b84f9a3.jpg",
+                    "productUrl": "/products/-i181684611-s1123427430.html",
+                    "sku": "181684611_BD",
+                    "skuId": "1123427430"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/498ddf3c5b6cb99ce7273a827c521160.jpg",
+                    "productUrl": "/products/-i181684611-s1123427436.html",
+                    "sku": "181684611_BD",
+                    "skuId": "1123427436"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e0e34527431c9d8f0dbf7ed108e37c0b.jpg",
+                    "productUrl": "/products/-i181684611-s1123427415.html",
+                    "sku": "181684611_BD",
+                    "skuId": "1123427415"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b433560e02530c24bd2c67eefdcbc943.jpg",
+                    "productUrl": "/products/-i181684611-s1123427427.html",
+                    "sku": "181684611_BD",
+                    "skuId": "1123427427"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/32e3f7de7b850a566a9acb28c103a4d9.jpg",
+                    "productUrl": "/products/-i181684611-s1123427424.html",
+                    "sku": "181684611_BD",
+                    "skuId": "1123427424"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b86c9044614fdf787089f26264d29d53.jpg",
+                    "productUrl": "/products/-i181684611-s1123427418.html",
+                    "sku": "181684611_BD",
+                    "skuId": "1123427418"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:181684611;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:181684611_BD;price:350;client:desktop;supplier_id:700507401003;asc_category_id:4405;item_id:181684611;sku_id:1123427410;shop_id:91285",
+            "addToCartSkus": [
+                {
+                    "sku": "181684611_BD-1123427410",
+                    "title": "Int M",
+                    "skuId": "1123427410",
+                    "count": 0
+                },
+                {
+                    "sku": "181684611_BD-1123427411",
+                    "title": "Int L",
+                    "skuId": "1123427411",
+                    "count": 0
+                },
+                {
+                    "sku": "181684611_BD-1123427412",
+                    "title": "Int XL",
+                    "skuId": "1123427412",
+                    "count": 0
+                }
+            ],
+            "itemId": "181684611",
+            "skuId": "1123427410",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Exclusive Hand Knit Fashionable Stylish and Comfortable Short Cardigan for Women Free Size",
+            "nid": "156652383",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "156652383",
+                "scene_pre": "search",
+                "current_price": "450.00",
+                "x_sku_ids": "1086334390",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "156652383"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i156652383-s1086334390.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5959b57f961975762b42ac4d10d3679c.jpg",
+            "originalPrice": "490.00",
+            "originalPriceShow": "৳ 490",
+            "price": "450.00",
+            "promotionId": "null",
+            "priceShow": "৳ 450",
+            "discount": "-8%",
+            "ratingScore": "4.75",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "156652383_BD-1086334390",
+            "sku": "156652383_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504959052",
+            "mainSellerId": "",
+            "sellerName": "Smart-Accessories",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5959b57f961975762b42ac4d10d3679c.jpg",
+                    "productUrl": "/products/-i156652383-s1086334390.html",
+                    "sku": "156652383_BD",
+                    "skuId": "1086334390"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:156652383;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:156652383_BD;price:450.00;client:desktop;supplier_id:700504959052;asc_category_id:4405;item_id:156652383;sku_id:1086334390;shop_id:51226",
+            "addToCartSkus": [
+                {
+                    "sku": "156652383_BD-1086334390",
+                    "title": "Int: One size",
+                    "skuId": "1086334390",
+                    "count": 0
+                }
+            ],
+            "itemId": "156652383",
+            "skuId": "1086334390",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Women's Classic Long Sleeve Knit Short Cardigan Sweaters Casual Open Front Button Down Cardigan",
+            "nid": "220573568",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "220573568",
+                "scene_pre": "search",
+                "current_price": "480.00",
+                "x_sku_ids": "1167818523",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "220573568"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i220573568-s1167818523.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/38f423e70d67e8c03d6b9c6e8ef155a8.jpg",
+            "originalPrice": "899.00",
+            "originalPriceShow": "৳ 899",
+            "price": "480.00",
+            "promotionId": "null",
+            "priceShow": "৳ 480",
+            "discount": "-47%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "220573568_BD-1167818523",
+            "sku": "220573568_BD",
+            "skus": [],
+            "description": [
+                "Button Down closure",
+                "MATERIAL - 65% Viscose, 35% Acrylic. Lightweight and breathable material, high stretchy, the cardigans for women are skin-friendly, soft and comfortable to wear everyday during any sort of activity.",
+                "DESIGN - Chic button down, crew neck, casual style, slim fit design, solid color, ultra soft and breathable material, the cardigans for women are so comfy and flattering on all body types!",
+                "FEATURES - The classic fitted silhouette with slim sleeves and crew neck design make these cardigan sweaters for women a must-have addition in your wardrobe. Our button-down cardigans for women provides you with ultra comfy and flattering feeling, making you more confident and attractive all day in any season.",
+                "OCCASIONS - The women&#39;s cardigans are versatile and easy to style with any other clothes, pair perfectly with shorts, jeans, leggings, or dress to have a look in normal or sports ; Suitable for office, daily, school or any other occasions.",
+                "SIZE - M/L/XL/2XL/3XL. Please refer to our size chart image before ordering. If you are between sizes, choosing a size up is recommended. With any further question, please feel free to contact us."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509315051",
+            "mainSellerId": "",
+            "sellerName": "Softtex",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/38f423e70d67e8c03d6b9c6e8ef155a8.jpg",
+                    "productUrl": "/products/-i220573568-s1167818523.html",
+                    "sku": "220573568_BD",
+                    "skuId": "1167818523"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:220573568;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:220573568_BD;price:480.00;client:desktop;supplier_id:700509315051;asc_category_id:4405;item_id:220573568;sku_id:1167818523;shop_id:206088",
+            "addToCartSkus": [
+                {
+                    "sku": "220573568_BD-1167818523",
+                    "title": "Int: One size",
+                    "skuId": "1167818523",
+                    "count": 0
+                },
+                {
+                    "sku": "220573568_BD-1167818524",
+                    "title": "Int:L",
+                    "skuId": "1167818524",
+                    "count": 0
+                },
+                {
+                    "sku": "220573568_BD-1167818525",
+                    "title": "Int:XL",
+                    "skuId": "1167818525",
+                    "count": 0
+                }
+            ],
+            "itemId": "220573568",
+            "skuId": "1167818523",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Women Maroon Jacquard Fashion  Design Front-Open Sweater",
+            "nid": "139016102",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "139016102",
+                "scene_pre": "search",
+                "current_price": "1320.00",
+                "x_sku_ids": "1062064545",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "139016102"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i139016102-s1062064545.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ca931a104839755fc7729b11e723c817.jpg",
+            "originalPrice": "2150.00",
+            "originalPriceShow": "৳ 2,150",
+            "price": "1320.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,320",
+            "discount": "-39%",
+            "ratingScore": "4.63636",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "139016102_BD-1062064545",
+            "sku": "139016102_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504959052",
+            "mainSellerId": "",
+            "sellerName": "Smart-Accessories",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ca931a104839755fc7729b11e723c817.jpg",
+                    "productUrl": "/products/-i139016102-s1062064545.html",
+                    "sku": "139016102_BD",
+                    "skuId": "1062064545"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:139016102;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:139016102_BD;price:1320.00;client:desktop;supplier_id:700504959052;asc_category_id:4405;item_id:139016102;sku_id:1062064545;shop_id:51226",
+            "addToCartSkus": [
+                {
+                    "sku": "139016102_BD-1062064545",
+                    "title": "Int M",
+                    "skuId": "1062064545",
+                    "count": 0
+                },
+                {
+                    "sku": "139016102_BD-1062064546",
+                    "title": "Int L",
+                    "skuId": "1062064546",
+                    "count": 0
+                },
+                {
+                    "sku": "139016102_BD-1062064547",
+                    "title": "Int XL",
+                    "skuId": "1062064547",
+                    "count": 0
+                },
+                {
+                    "sku": "139016102_BD-1062064548",
+                    "title": "Int XXL",
+                    "skuId": "1062064548",
+                    "count": 0
+                }
+            ],
+            "itemId": "139016102",
+            "skuId": "1062064545",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Women’s High neck sweater (Navy Blue)",
+            "nid": "181604433",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "181604433",
+                "scene_pre": "search",
+                "current_price": "199.00",
+                "x_sku_ids": "1126354565",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "181604433"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i181604433-s1126354565.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b4a28ec8b02d5aeda9a2972434b6c0c9.jpg",
+            "originalPrice": "444.00",
+            "originalPriceShow": "৳ 444",
+            "price": "199.00",
+            "promotionId": "null",
+            "priceShow": "৳ 199",
+            "discount": "-55%",
+            "ratingScore": "3.5",
+            "review": "10",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "181604433_BD-1126354565",
+            "sku": "181604433_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508328396",
+            "mainSellerId": "",
+            "sellerName": "AWAY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b4a28ec8b02d5aeda9a2972434b6c0c9.jpg",
+                    "productUrl": "/products/-i181604433-s1126354565.html",
+                    "sku": "181604433_BD",
+                    "skuId": "1126354565"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:181604433;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:181604433_BD;price:199.00;client:desktop;supplier_id:700508328396;asc_category_id:4405;item_id:181604433;sku_id:1126354565;shop_id:145053",
+            "addToCartSkus": [
+                {
+                    "sku": "181604433_BD-1126354568",
+                    "title": "Int:36",
+                    "skuId": "1126354568",
+                    "count": 0
+                },
+                {
+                    "sku": "181604433_BD-1126354569",
+                    "title": "Int:38",
+                    "skuId": "1126354569",
+                    "count": 0
+                },
+                {
+                    "sku": "181604433_BD-1126354570",
+                    "title": "Int:40",
+                    "skuId": "1126354570",
+                    "count": 0
+                },
+                {
+                    "sku": "181604433_BD-1126354567",
+                    "title": "Int:L",
+                    "skuId": "1126354567",
+                    "count": 0
+                },
+                {
+                    "sku": "181604433_BD-1126354566",
+                    "title": "Int:M",
+                    "skuId": "1126354566",
+                    "count": 0
+                },
+                {
+                    "sku": "181604433_BD-1126354565",
+                    "title": "Int:S",
+                    "skuId": "1126354565",
+                    "count": 0
+                }
+            ],
+            "itemId": "181604433",
+            "skuId": "1126354565",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Women Maroon   Solid Hooded Sweaters ( Free Size )",
+            "nid": "153374912",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "153374912",
+                "scene_pre": "search",
+                "current_price": "1820.00",
+                "x_sku_ids": "1081806857",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "153374912"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i153374912-s1081806857.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/188b75a7226cf3106bd60f2040c204ab.jpg",
+            "originalPrice": "2500.00",
+            "originalPriceShow": "৳ 2,500",
+            "price": "1820.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,820",
+            "discount": "-27%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "153374912_BD-1081806857",
+            "sku": "153374912_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504959052",
+            "mainSellerId": "",
+            "sellerName": "Smart-Accessories",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/188b75a7226cf3106bd60f2040c204ab.jpg",
+                    "productUrl": "/products/-i153374912-s1081806857.html",
+                    "sku": "153374912_BD",
+                    "skuId": "1081806857"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:153374912;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:153374912_BD;price:1820.00;client:desktop;supplier_id:700504959052;asc_category_id:4405;item_id:153374912;sku_id:1081806857;shop_id:51226",
+            "addToCartSkus": [
+                {
+                    "sku": "153374912_BD-1081806857",
+                    "title": "Int: One size",
+                    "skuId": "1081806857",
+                    "count": 0
+                }
+            ],
+            "itemId": "153374912",
+            "skuId": "1081806857",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Heart Designed O-neck Cashmere Solid Pullovers Slim Bottoming Sweater For Woman",
+            "nid": "219893047",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "219893047",
+                "scene_pre": "search",
+                "current_price": "549.00",
+                "x_sku_ids": "1167368771",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "219893047"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i219893047-s1167368771.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/17712626a1bf232762876a05bd988222.jpg",
+            "originalPrice": "699.00",
+            "originalPriceShow": "৳ 699",
+            "price": "549.00",
+            "promotionId": "null",
+            "priceShow": "৳ 549",
+            "discount": "-21%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "219893047_BD-1167368771",
+            "sku": "219893047_BD",
+            "skus": [],
+            "description": [
+                "Brand: NS Fashion",
+                "Pattern Type: Solid",
+                "Clothing Length: Regular",
+                "Material: Polyester",
+                "Material: Acrylic",
+                "Collar: O-Neck",
+                "Season: Winter",
+                "Decoration: None",
+                "Sleeve Length(cm): Full",
+                "Sleeve Style: Regular",
+                "Thickness: STANDARD",
+                "Closure Type: None",
+                "Style: Casual",
+                "Pattern: SLIM",
+                "Age: Ages 18-35 Years Old",
+                "Percentage of Material: 31%-50%",
+                "Gender: WOMEN",
+                "Yarn Thickness: Fine yarn"
+            ],
+            "brandId": "201674",
+            "brandName": "NS Fashion",
+            "sellerId": "700508886131",
+            "mainSellerId": "",
+            "sellerName": "NS Fashion Official Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/17712626a1bf232762876a05bd988222.jpg",
+                    "productUrl": "/products/-i219893047-s1167368771.html",
+                    "sku": "219893047_BD",
+                    "skuId": "1167368771"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:219893047;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:219893047_BD;price:549.00;client:desktop;supplier_id:700508886131;asc_category_id:4405;item_id:219893047;sku_id:1167368771;shop_id:200359",
+            "addToCartSkus": [
+                {
+                    "sku": "219893047_BD-1167368771",
+                    "title": "Int: One size",
+                    "skuId": "1167368771",
+                    "count": 0
+                }
+            ],
+            "itemId": "219893047",
+            "skuId": "1167368771",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "2Xtremz Dresses Kimonos White",
+            "nid": "220991192",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "220991192",
+                "scene_pre": "search",
+                "current_price": "3490.00",
+                "x_sku_ids": "1168011962",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "220991192"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2xtremz-dresses-kimonos-white-i220991192-s1168011962.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/7784805beaba6765a2f507b3511b505b.jpg",
+            "price": "3490.00",
+            "promotionId": "null",
+            "priceShow": "৳ 3,490",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "220991192_BD-1168011962",
+            "sku": "220991192_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Dresses",
+                "Brand: 2Xtremz",
+                "Color: White",
+                "Material: Polyester",
+                "Gender: Women"
+            ],
+            "brandId": "123772242",
+            "brandName": "2Xtremz",
+            "sellerId": "700505247035",
+            "mainSellerId": "",
+            "sellerName": "SPLASH BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/7784805beaba6765a2f507b3511b505b.jpg",
+                    "productUrl": "/products/2xtremz-dresses-kimonos-white-i220991192-s1168011962.html",
+                    "sku": "220991192_BD",
+                    "skuId": "1168011962"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:220991192;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:220991192_BD;price:3490.00;client:desktop;supplier_id:700505247035;asc_category_id:4405;item_id:220991192;sku_id:1168011962;shop_id:59245",
+            "addToCartSkus": [
+                {
+                    "sku": "220991192_BD-1168011962",
+                    "title": "Int M",
+                    "skuId": "1168011962",
+                    "count": 0
+                }
+            ],
+            "itemId": "220991192",
+            "skuId": "1168011962",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ladies Irregular Hollow Out Tassels Color Stripe Shawl Knitted Cardigan Coat",
+            "nid": "222636655",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "222636655",
+                "scene_pre": "search",
+                "current_price": "1490.00",
+                "x_sku_ids": "1168996938",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "222636655"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i222636655-s1168996938.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/403c51b9bcc86325003a0f4f74fcec3c.jpg",
+            "originalPrice": "1950.00",
+            "originalPriceShow": "৳ 1,950",
+            "price": "1490.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,490",
+            "discount": "-24%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "222636655_BD-1168996938",
+            "sku": "222636655_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1003894",
+            "mainSellerId": "",
+            "sellerName": "Rayyan's Point",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/403c51b9bcc86325003a0f4f74fcec3c.jpg",
+                    "productUrl": "/products/-i222636655-s1168996938.html",
+                    "sku": "222636655_BD",
+                    "skuId": "1168996938"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:222636655;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:222636655_BD;price:1490.00;client:desktop;supplier_id:1003894;asc_category_id:4405;item_id:222636655;sku_id:1168996938;shop_id:10041",
+            "addToCartSkus": [
+                {
+                    "sku": "222636655_BD-1168996938",
+                    "title": "Int: One size",
+                    "skuId": "1168996938",
+                    "count": 0
+                }
+            ],
+            "itemId": "222636655",
+            "skuId": "1168996938",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Women’s High neck sweater (White)",
+            "nid": "181598539",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "181598539",
+                "scene_pre": "search",
+                "current_price": "199.00",
+                "x_sku_ids": "1126361080",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "181598539"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i181598539-s1126361080.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d5442e0f844cccf2097d98ce0a6fc50c.jpg",
+            "originalPrice": "444.00",
+            "originalPriceShow": "৳ 444",
+            "price": "199.00",
+            "promotionId": "null",
+            "priceShow": "৳ 199",
+            "discount": "-55%",
+            "ratingScore": "4.42857",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "181598539_BD-1126361080",
+            "sku": "181598539_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508328396",
+            "mainSellerId": "",
+            "sellerName": "AWAY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d5442e0f844cccf2097d98ce0a6fc50c.jpg",
+                    "productUrl": "/products/-i181598539-s1126361080.html",
+                    "sku": "181598539_BD",
+                    "skuId": "1126361080"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:181598539;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:181598539_BD;price:199.00;client:desktop;supplier_id:700508328396;asc_category_id:4405;item_id:181598539;sku_id:1126361080;shop_id:145053",
+            "addToCartSkus": [
+                {
+                    "sku": "181598539_BD-1126361083",
+                    "title": "Int:36",
+                    "skuId": "1126361083",
+                    "count": 0
+                },
+                {
+                    "sku": "181598539_BD-1126361084",
+                    "title": "Int:38",
+                    "skuId": "1126361084",
+                    "count": 0
+                },
+                {
+                    "sku": "181598539_BD-1126361085",
+                    "title": "Int:40",
+                    "skuId": "1126361085",
+                    "count": 0
+                },
+                {
+                    "sku": "181598539_BD-1126361082",
+                    "title": "Int:L",
+                    "skuId": "1126361082",
+                    "count": 0
+                },
+                {
+                    "sku": "181598539_BD-1126361080",
+                    "title": "Int:S",
+                    "skuId": "1126361080",
+                    "count": 0
+                }
+            ],
+            "itemId": "181598539",
+            "skuId": "1126361080",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Girls/Women's Kashmiri Long Sleeve Button Down Long Cardigan Open Front  Cable Knit Sweater",
+            "nid": "220561699",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "220561699",
+                "scene_pre": "search",
+                "current_price": "599",
+                "x_sku_ids": "1167810941",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "220561699"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i220561699-s1167810941.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/faa5b142fa217560fedca23ff3e35686.jpg",
+            "originalPrice": "1200.00",
+            "originalPriceShow": "৳ 1,200",
+            "price": "599",
+            "promotionId": "null",
+            "priceShow": "৳ 599",
+            "discount": "-50%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "220561699_BD-1167810941",
+            "sku": "220561699_BD",
+            "skus": [],
+            "description": [
+                "100% Acrylic",
+                "Hand Wash Only",
+                "Material:This women long cardigans is made of high quality Knitted fabric, soft,comfy and skin friendly, cable knit sweater keep you warm and comfortable on cold days",
+                "Unique design: The Womens Cardigan Features with button up,twist cable knit, ,long sleeve,round color neck,open front,ribbed cuffs and hem,knee Length,soft basic cardigan",
+                "cable knit cardigan sweater with unique twist patterns, cardigan with buttons design, which makes you can leave it open, as a cardigan ,or button it up, wear as a coat, casual boyfriend style make it fits for all shape.",
+                "Occasion: Casual, daily life, office, outdoor, school; Suitable for Spring, Fall, Winter. Perfect for skinny jeans, leggings, dresses, boots or sneakers",
+                "Size GuideL((((( Medium Size= Chest 36 InchLong 33 inch))))) ((((((Large Size=Chest 40 Inch, Long 33 inch)))))) please according to our size chart to ensure the fit,Washing Instruction: Machine wash with a laundry bag, hand wash cold, do not bleach."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509315051",
+            "mainSellerId": "",
+            "sellerName": "Softtex",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/faa5b142fa217560fedca23ff3e35686.jpg",
+                    "productUrl": "/products/-i220561699-s1167810941.html",
+                    "sku": "220561699_BD",
+                    "skuId": "1167810941"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:220561699;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:220561699_BD;price:599;client:desktop;supplier_id:700509315051;asc_category_id:4405;item_id:220561699;sku_id:1167810941;shop_id:206088",
+            "addToCartSkus": [
+                {
+                    "sku": "220561699_BD-1167810944",
+                    "title": "Int: One size",
+                    "skuId": "1167810944",
+                    "count": 0
+                },
+                {
+                    "sku": "220561699_BD-1167810942",
+                    "title": "Int:L",
+                    "skuId": "1167810942",
+                    "count": 0
+                },
+                {
+                    "sku": "220561699_BD-1167810941",
+                    "title": "Int:M",
+                    "skuId": "1167810941",
+                    "count": 0
+                },
+                {
+                    "sku": "220561699_BD-1167810943",
+                    "title": "Int:XL",
+                    "skuId": "1167810943",
+                    "count": 0
+                }
+            ],
+            "itemId": "220561699",
+            "skuId": "1167810941",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fashonable Women Winter Long Cardian Sweater",
+            "nid": "209881860",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209881860",
+                "scene_pre": "search",
+                "current_price": "590.00",
+                "x_sku_ids": "1160128344",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "209881860"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i209881860-s1160128344.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/07c0cdcf02eeb05de26c41ee44f98031.jpg",
+            "originalPrice": "1200.00",
+            "originalPriceShow": "৳ 1,200",
+            "price": "590.00",
+            "promotionId": "null",
+            "priceShow": "৳ 590",
+            "discount": "-51%",
+            "ratingScore": "4.57143",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209881860_BD-1160128344",
+            "sku": "209881860_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508790145",
+            "mainSellerId": "",
+            "sellerName": "Classic-Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/07c0cdcf02eeb05de26c41ee44f98031.jpg",
+                    "productUrl": "/products/-i209881860-s1160128344.html",
+                    "sku": "209881860_BD",
+                    "skuId": "1160128344"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/328bc87f6c24fd7b1368fd7f474b1862.jpg",
+                    "productUrl": "/products/-i209881860-s1160128345.html",
+                    "sku": "209881860_BD",
+                    "skuId": "1160128345"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/de78903caa3b300df468f17df5763f78.jpg",
+                    "productUrl": "/products/-i209881860-s1160128346.html",
+                    "sku": "209881860_BD",
+                    "skuId": "1160128346"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:209881860;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:209881860_BD;price:590.00;client:desktop;supplier_id:700508790145;asc_category_id:4405;item_id:209881860;sku_id:1160128344;shop_id:185181",
+            "addToCartSkus": [
+                {
+                    "sku": "209881860_BD-1160128344",
+                    "title": "Int: One size",
+                    "skuId": "1160128344",
+                    "count": 0
+                }
+            ],
+            "itemId": "209881860",
+            "skuId": "1160128344",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "◆Fall & Winter◆ Womens Autumn Solid Casual Long Sleeve Printed Pullover T Shirts Tops",
+            "nid": "238044766",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "238044766",
+                "scene_pre": "search",
+                "current_price": "580.00",
+                "x_sku_ids": "1181580760",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "238044766"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fall-winter-womens-autumn-solid-casual-long-sleeve-printed-pullover-t-shirts-tops-i238044766-s1181580760.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/b49758c056d5339973627c989772b9da.jpg",
+            "price": "580.00",
+            "promotionId": "null",
+            "priceShow": "৳ 580",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "238044766_BD-1181580760",
+            "sku": "238044766_BD",
+            "skus": [],
+            "description": [
+                "High quality materials, comfortable and soft",
+                "Fashionable personality leisure clothes",
+                "High quality products and affordable prices",
+                "Good looking clothes, welcome everyone to buy",
+                "Follow the shop then purchases,you will get big voucher"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511901554",
+            "mainSellerId": "",
+            "sellerName": "Babu Shop BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/b49758c056d5339973627c989772b9da.jpg",
+                    "productUrl": "/products/fall-winter-womens-autumn-solid-casual-long-sleeve-printed-pullover-t-shirts-tops-i238044766-s1181580760.html",
+                    "sku": "238044766_BD",
+                    "skuId": "1181580760"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:238044766;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:238044766_BD;price:580.00;client:desktop;supplier_id:700511901554;asc_category_id:4405;item_id:238044766;sku_id:1181580760;shop_id:238607",
+            "addToCartSkus": [
+                {
+                    "sku": "238044766_BD-1181580760",
+                    "title": "Int: One size",
+                    "skuId": "1181580760",
+                    "count": 0
+                }
+            ],
+            "itemId": "238044766",
+            "skuId": "1181580760",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "◆Fall & Winter◆ Womens Autumn Solid Casual Long Sleeve Printed Pullover T Shirts Tops",
+            "nid": "238043847",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "238043847",
+                "scene_pre": "search",
+                "current_price": "500.00",
+                "x_sku_ids": "1181588253",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "238043847"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fall-winter-womens-autumn-solid-casual-long-sleeve-printed-pullover-t-shirts-tops-i238043847-s1181588253.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/34d58f6db713298fa6a361f8c4c0b5df.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "500.00",
+            "promotionId": "null",
+            "priceShow": "৳ 500",
+            "discount": "-23%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "238043847_BD-1181588253",
+            "sku": "238043847_BD",
+            "skus": [],
+            "description": [
+                "High quality materials, comfortable and soft",
+                "Fashionable personality leisure clothes",
+                "High quality products and affordable prices",
+                "Good looking clothes, welcome everyone to buy",
+                "Follow the shop then purchases,you will get big voucher"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511901554",
+            "mainSellerId": "",
+            "sellerName": "Babu Shop BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/34d58f6db713298fa6a361f8c4c0b5df.jpg",
+                    "productUrl": "/products/fall-winter-womens-autumn-solid-casual-long-sleeve-printed-pullover-t-shirts-tops-i238043847-s1181588253.html",
+                    "sku": "238043847_BD",
+                    "skuId": "1181588253"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:238043847;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:238043847_BD;price:500.00;client:desktop;supplier_id:700511901554;asc_category_id:4405;item_id:238043847;sku_id:1181588253;shop_id:238607",
+            "addToCartSkus": [
+                {
+                    "sku": "238043847_BD-1181588253",
+                    "title": "Int: One size",
+                    "skuId": "1181588253",
+                    "count": 0
+                }
+            ],
+            "itemId": "238043847",
+            "skuId": "1181588253",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Women`s Navy Color Star Winter Jacket Sweatshirt by Green Stitch",
+            "nid": "232330010",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "232330010",
+                "scene_pre": "search",
+                "current_price": "650.00",
+                "x_sku_ids": "1175200562",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "232330010"
+            },
+            "productUrl": "//www.daraz.com.bd/products/womens-navy-color-star-winter-jacket-sweatshirt-by-green-stitch-i232330010-s1175200562.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f01f0434c82f954d69a2cf576858b235.jpg",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "650.00",
+            "promotionId": "null",
+            "priceShow": "৳ 650",
+            "discount": "-13%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "232330010_BD-1175200562",
+            "sku": "232330010_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Printed Winter Jacket",
+                "Fabrics: Philies",
+                "GSM: 250+",
+                "Color: Pink"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511343124",
+            "mainSellerId": "",
+            "sellerName": "Green Stitch",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f01f0434c82f954d69a2cf576858b235.jpg",
+                    "productUrl": "/products/womens-navy-color-star-winter-jacket-sweatshirt-by-green-stitch-i232330010-s1175200562.html",
+                    "sku": "232330010_BD",
+                    "skuId": "1175200562"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:232330010;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:232330010_BD;price:650.00;client:desktop;supplier_id:700511343124;asc_category_id:4405;item_id:232330010;sku_id:1175200562;shop_id:236286",
+            "addToCartSkus": [
+                {
+                    "sku": "232330010_BD-1175200564",
+                    "title": "Int M",
+                    "skuId": "1175200564",
+                    "count": 0
+                },
+                {
+                    "sku": "232330010_BD-1175200563",
+                    "title": "Int L",
+                    "skuId": "1175200563",
+                    "count": 0
+                },
+                {
+                    "sku": "232330010_BD-1175200562",
+                    "title": "Int XL",
+                    "skuId": "1175200562",
+                    "count": 0
+                }
+            ],
+            "itemId": "232330010",
+            "skuId": "1175200562",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ladies Winter Long Sleeve Open Cardian Sweater with Button – Maroon",
+            "nid": "157862964",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "157862964",
+                "scene_pre": "search",
+                "current_price": "599.00",
+                "x_sku_ids": "1088950505",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "157862964"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i157862964-s1088950505.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/5230592cd3993d7bf073a00da5ae067e.jpg",
+            "originalPrice": "1050.00",
+            "originalPriceShow": "৳ 1,050",
+            "price": "599.00",
+            "promotionId": "null",
+            "priceShow": "৳ 599",
+            "discount": "-43%",
+            "ratingScore": "4.875",
+            "review": "8",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "157862964_BD-1088950505",
+            "sku": "157862964_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506903004",
+            "mainSellerId": "",
+            "sellerName": "Welldeal BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/5230592cd3993d7bf073a00da5ae067e.jpg",
+                    "productUrl": "/products/-i157862964-s1088950505.html",
+                    "sku": "157862964_BD",
+                    "skuId": "1088950505"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:157862964;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:157862964_BD;price:599.00;client:desktop;supplier_id:700506903004;asc_category_id:4405;item_id:157862964;sku_id:1088950505;shop_id:86696",
+            "addToCartSkus": [
+                {
+                    "sku": "157862964_BD-1088950505",
+                    "title": "Int M",
+                    "skuId": "1088950505",
+                    "count": 0
+                }
+            ],
+            "itemId": "157862964",
+            "skuId": "1088950505",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ladies Winter Sweater",
+            "nid": "124916940",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "124916940",
+                "scene_pre": "search",
+                "current_price": "299.00",
+                "x_sku_ids": "1045130490",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "124916940"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ladies-winter-sweater-i124916940-s1045130490.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c0d2d30863cc375070fad25acac6c909.jpg",
+            "originalPrice": "600.00",
+            "originalPriceShow": "৳ 600",
+            "price": "299.00",
+            "promotionId": "null",
+            "priceShow": "৳ 299",
+            "discount": "-50%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "124916940_BD-1045130490",
+            "sku": "124916940_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Sweater",
+                "Color: Multicolor as given",
+                "Main Material: Woolen Cotton",
+                "Gender: Women",
+                "Pattern: Full Sleeve"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1000753",
+            "mainSellerId": "",
+            "sellerName": "Friends Unit",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c0d2d30863cc375070fad25acac6c909.jpg",
+                    "productUrl": "/products/ladies-winter-sweater-i124916940-s1045130490.html",
+                    "sku": "124916940_BD",
+                    "skuId": "1045130490"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:124916940;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:124916940_BD;price:299.00;client:desktop;supplier_id:1000753;asc_category_id:4405;item_id:124916940;sku_id:1045130490;shop_id:6954",
+            "addToCartSkus": [
+                {
+                    "sku": "124916940_BD-1045130490",
+                    "title": "Int: One size",
+                    "skuId": "1045130490",
+                    "count": 0
+                }
+            ],
+            "itemId": "124916940",
+            "skuId": "1045130490",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "High Neck sweater for women",
+            "nid": "161032016",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "161032016",
+                "scene_pre": "search",
+                "current_price": "202.00",
+                "x_sku_ids": "1092912378",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "161032016"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i161032016-s1092912378.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/33717c59779d959a95b1dd0c0915c23d.jpg",
+            "originalPrice": "333.00",
+            "originalPriceShow": "৳ 333",
+            "price": "202.00",
+            "promotionId": "null",
+            "priceShow": "৳ 202",
+            "discount": "-39%",
+            "ratingScore": "4",
+            "review": "9",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "161032016_BD-1092912378",
+            "sku": "161032016_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1020746",
+            "mainSellerId": "",
+            "sellerName": "Sells BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/33717c59779d959a95b1dd0c0915c23d.jpg",
+                    "productUrl": "/products/-i161032016-s1092912378.html",
+                    "sku": "161032016_BD",
+                    "skuId": "1092912378"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:161032016;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:161032016_BD;price:202.00;client:desktop;supplier_id:1020746;asc_category_id:4405;item_id:161032016;sku_id:1092912378;shop_id:26977",
+            "addToCartSkus": [
+                {
+                    "sku": "161032016_BD-1092912378",
+                    "title": "Int S",
+                    "skuId": "1092912378",
+                    "count": 0
+                },
+                {
+                    "sku": "161032016_BD-1092912379",
+                    "title": "Int M",
+                    "skuId": "1092912379",
+                    "count": 0
+                },
+                {
+                    "sku": "161032016_BD-1092912380",
+                    "title": "Int L",
+                    "skuId": "1092912380",
+                    "count": 0
+                }
+            ],
+            "itemId": "161032016",
+            "skuId": "1092912378",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ladies' Hybrid Knitted Vest- Grey & Pink",
+            "nid": "222454981",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "222454981",
+                "scene_pre": "search",
+                "current_price": "420.00",
+                "x_sku_ids": "1168837525",
+                "SN": "8c810087523fa92d4376062074c61b2e",
+                "x_ad": "1",
+                "x_object_id": "222454981"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i222454981-s1168837525.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f14b7b54fe8e0a4e831a57f0219d6552.jpg",
+            "originalPrice": "800.00",
+            "originalPriceShow": "৳ 800",
+            "price": "420.00",
+            "promotionId": "null",
+            "priceShow": "৳ 420",
+            "discount": "-48%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "222454981_BD-1168837525",
+            "sku": "222454981_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509354043",
+            "mainSellerId": "",
+            "sellerName": "Attitude  Republic",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f14b7b54fe8e0a4e831a57f0219d6552.jpg",
+                    "productUrl": "/products/-i222454981-s1168837525.html",
+                    "sku": "222454981_BD",
+                    "skuId": "1168837525"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1820,
+                1738,
+                4405
+            ],
+            "clickTrace": "query:;nid:222454981;src:LazadaMainSrp;rn:8c810087523fa92d4376062074c61b2e;region:bd;sku:222454981_BD;price:420.00;client:desktop;supplier_id:700509354043;asc_category_id:4405;item_id:222454981;sku_id:1168837525;shop_id:209996",
+            "addToCartSkus": [
+                {
+                    "sku": "222454981_BD-1169691483",
+                    "title": "Int S",
+                    "skuId": "1169691483",
+                    "count": 0
+                },
+                {
+                    "sku": "222454981_BD-1168837525",
+                    "title": "Int M",
+                    "skuId": "1168837525",
+                    "count": 0
+                }
+            ],
+            "itemId": "222454981",
+            "skuId": "1168837525",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/fashion/",
+            "title": "Fashion"
+        },
+        {
+            "url": "/womens-fashion/",
+            "title": "Women"
+        },
+        {
+            "url": "/womens-clothing/",
+            "title": "Clothing"
+        },
+        {
+            "url": "/womens-sweaters/",
+            "title": "Sweaters & Cardigans"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/womens-sweaters/?referer_rn=8c810087523fa92d4376062074c61b2e&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Ch2%3EWomen%E2%80%99s%20Jumpers%20%26%20Cardigans%20in%20Bangladesh%3C%2Fh2%3E%0A%3Cp%20align%3D%22justify%22%3EWhen%20winter%20comes%20around%2C%20you%20find%20yourself%20covering%20up%20with%20layers%20after%20layers%20to%20stay%20warm%20as%20the%20temperature%20drops.%20You%20dive%20deep%20in%20to%20your%20closet%20to%20bring%20out%20the%20old%20sweaters%20and%20pullovers%20from%20yesteryear%20that%20you%20only%20wear%20for%20a%20limited%20period%20every%20year.%20However%2C%20that%20does%20not%20mean%20that%20you%20cannot%20look%20good%20as%20you%20protect%20yourself%20from%20the%20chilly%20weather.%20%3Ca%20href%3Dhttps%3A%2F%2Fwww.daraz.com.bd%2Fwomens-jumpers%2F%3EWomen%27s%20jumpers%3C%2Fa%3E%20and%20%3Ca%20href%3Dhttps%3A%2F%2Fwww.daraz.com.bd%2Fwomens-cardigans%2F%3Ewomen%27s%20cardigans%3C%2Fa%3E%20allow%20you%20to%20stay%20stylish%20with%20their%20trendy%20designs%20and%20colors%20that%20you%20can%20mix%20and%20match%20with%20your%20attire.%3C%2Fp%3E%20%0A%0A%3Ch3%3EStay%20Trendy%20with%20Different%20Designs%3C%2Fh3%3E%0A%3Cp%20align%3D%22justify%22%3EDaraz.com.bd%20brings%20to%20you%20a%20large%20collection%20of%20women%E2%80%99s%20jumpers%20online.%20With%20different%20sweater%20types%20like%20round%20necks%2C%20V-necks%2C%20with%20sleeves%2C%20without%20sleeves%20etc%20and%20other%20winter%20wear%20such%20as%20shrugs%20and%20coats%3B%20you%20have%20a%20style%20for%20every%20occasion%20and%20setting.%20%3C%2Fp%3E%0A%0A%3Cp%20align%3D%22justify%22%3EDress%20up%20with%20vibrant%20colors%20to%20reflect%20your%20personality.%20From%20the%20traditionally%20sober%20blue%2C%20black%20and%20white%20to%20the%20more%20exciting%20yellow%2C%20pink%20and%20even%20multicolored%20designs%2C%20you%20have%20a%20range%20of%20colors%20of%20women%27s%20cardigans%20online%20to%20choose%20from%20that%20you%20will%20not%20find%20anywhere%20else.%20%20Fill%20your%20wardrobe%20with%20various%20colors%20so%20that%20you%20have%20a%20nice%20collection%20to%20choose%20from%20when%20you%20have%20to%20dress%20up%20for%20an%20occasion.%20%20Solid%20colors%20can%20be%20used%20for%20a%20formal%20set-up%20whereas%20flashy%20colors%20are%20ideal%20for%20hanging%20out%20with%20friends%2C%20a%20casual%20party%20or%20just%20lazing%20around%20at%20home.%20%3C%2Fp%3E%0A%0A%3Cp%20align%3D%22justify%22%3EWhen%20you%20buy%20%3Ca%20href%3Dhttps%3A%2F%2Fwww.daraz.com.bd%2Fwomens-winter-clothing%2F%3Ewomen%E2%80%99s%20winter%20clothing%3C%2Fa%3E%2C%20you%20can%20invest%20in%20knits%20and%20designs%20that%20will%20last%20for%20seasons%20to%20come.%20So%20even%20when%20you%20take%20out%20your%20warm%20clothes%20after%20a%20few%20years%2C%20their%20durability%20and%20timeless%20design%20make%20sure%20that%20your%20investment%20was%20well%20worth%20it.%20%3C%2Fp%3E%0A%0A%3Ch3%3EBe%20Snug%20and%20Cozy%20in%20The%20Warmest%20Materials%3C%2Fh3%3E%0A%3Cp%20align%3D%22justify%22%3EAt%20daraz.com.bd%2C%20you%20will%20find%20ladies%20cardigans%20made%20from%20the%20best%20quality%20material%20that%20makes%20sure%20that%20you%20feel%20warm%20and%20cozy.%20%20Georgette%20cardigans%20and%20jumpers%20allow%20you%20to%20stay%20fashionable%20while%20putting%20an%20extra%20layer%20of%20clothing%20that%20does%20not%20carry%20that%20much%20weight.%20Cotton%20is%20another%20material%20commonly%20used%20in%20winter%20wear%20to%20give%20comfort%20to%20the%20wearer.%20Lycra%20and%20nylon%20are%20the%20other%20materials%20you%20will%20find%20here%20at%20daraz.com.bd.%20%3C%2Fp%3E%0A%0A%3Ch3%3EBuy%20Women%E2%80%99s%20Jumpers%20%26%20Cardigans%20at%20Daraz.com.bd%3C%2Fh3%3E%0A%3Cp%20align%3D%22justify%22%3EBuy%20ladies%20cardigans%20online%20in%20Bangladesh%20at%20the%20best%20prices%2C%20only%20at%20daraz.com.bd.%20%20Stay%20cozy%20wherever%20you%20are%20and%20wherever%20you%20go.%20Do%20not%20compromise%20on%20comfort%20and%20warmth%20in%20the%20bid%20to%20look%20fashionable%20when%20you%20can%20have%20it%20all%20with%20the%20jumpers%20and%20cardigans%20offered%20by%20brands%20such%20as%20Doors%2C%20Desire%20and%20Euromart.%20%3Ca%20href%3Dhttps%3A%2F%2Fwww.daraz.com.bd%2F%3EOnline%20shopping%20in%20Bangladesh%3C%2Fa%3E%20has%20its%20privilege%20due%20to%20the%20convenience%20of%20delivery%20to%20your%20door%20and%20amazing%20prices.%20Get%20the%20latest%20in%20%3Ca%20href%3Dhttps%3A%2F%2Fwww.daraz.com.bd%2Fwomens-fashion%2F%3Ewomen%E2%80%99s%20fashion%3C%2Fa%3E%20at%20daraz.com.bd.%3C%2Fp%3E"
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "6019 items found in {$0}",
+        "title": "Ladies Sweaters & Cardigans",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Sweaters & Cardigans"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Ladies Sweaters & Cardigans",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "8c810087523fa92d4376062074c61b2e",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "4405",
+            "category": "4405"
+        },
+        "categoryRegionalKey": "090105050000",
+        "mainCategoryRegionalKey": "090000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Ladies Sweater In Bangladesh - Buy Women Cardigan at Daraz.com.bd",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "true",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Fashion,Women,Clothing,Sweaters & Cardigans",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "090105050000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=4405&_p_asc_cateid=4405",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "womens-sweaters",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "8c810087523fa92d4376062074c61b2e",
+                "resultNr": 6019,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1147370860",
+                "1162702221",
+                "1160029763"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "4405",
+            "category": "4405"
+        }
+    }
+}

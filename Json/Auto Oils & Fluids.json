@@ -1,0 +1,3676 @@
+{
+    "listItems": [
+        {
+            "name": "Annex Fuel-Fuel save for Bike/Car-6 Piece Bundle",
+            "nid": "157430740",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "157430740",
+                "scene_pre": "search",
+                "current_price": "264",
+                "x_sku_ids": "1088206359",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "157430740"
+            },
+            "productUrl": "//www.daraz.com.bd/products/annex-6-i157430740-s1088206359.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/22b8c63541a93962dafb28fb5578d286.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "264",
+            "promotionId": "null",
+            "priceShow": "৳ 264",
+            "discount": "-12%",
+            "ratingScore": "4.76531",
+            "review": "98",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "157430740_BD-1088206359",
+            "sku": "157430740_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "55246",
+            "brandName": "ANNEX",
+            "sellerId": "700507521098",
+            "mainSellerId": "",
+            "sellerName": "ImranAman's Creations (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/22b8c63541a93962dafb28fb5578d286.jpg",
+                    "productUrl": "/products/annex-6-i157430740-s1088206359.html",
+                    "sku": "157430740_BD",
+                    "skuId": "1088206359"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:157430740;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:157430740_BD;price:264;client:desktop;supplier_id:700507521098;asc_category_id:10001050;item_id:157430740;sku_id:1088206359;shop_id:92893",
+            "addToCartSkus": [
+                {
+                    "sku": "157430740_BD-1088206359",
+                    "skuId": "1088206359",
+                    "count": 0
+                }
+            ],
+            "itemId": "157430740",
+            "skuId": "1088206359",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Annex Fuel Octane Booster for Motorcycle & Car - 30ml (1pcs)",
+            "nid": "211166409",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "211166409",
+                "scene_pre": "search",
+                "current_price": "50",
+                "x_sku_ids": "1161026181",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "211166409"
+            },
+            "productUrl": "//www.daraz.com.bd/products/annex-30ml-1-pcs-i211166409-s1161026181.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bb77c3dc5aebd3714ceae11bef7dcefb.jpg",
+            "originalPrice": "60.00",
+            "originalPriceShow": "৳ 60",
+            "price": "50",
+            "promotionId": "null",
+            "priceShow": "৳ 50",
+            "discount": "-17%",
+            "ratingScore": "4.80645",
+            "review": "31",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "211166409_BD-1161026181",
+            "sku": "211166409_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1041477",
+            "mainSellerId": "",
+            "sellerName": "Auto Choice",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bb77c3dc5aebd3714ceae11bef7dcefb.jpg",
+                    "productUrl": "/products/annex-30ml-1-pcs-i211166409-s1161026181.html",
+                    "sku": "211166409_BD",
+                    "skuId": "1161026181"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:211166409;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:211166409_BD;price:50;client:desktop;supplier_id:1041477;asc_category_id:10001050;item_id:211166409;sku_id:1161026181;shop_id:47220",
+            "addToCartSkus": [
+                {
+                    "sku": "211166409_BD-1161026181",
+                    "skuId": "1161026181",
+                    "count": 0
+                }
+            ],
+            "itemId": "211166409",
+            "skuId": "1161026181",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Annex Fuel-Fuel save for Bike/Car-12 Piece Bundle",
+            "nid": "182998670",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "182998670",
+                "scene_pre": "search",
+                "current_price": "520",
+                "x_sku_ids": "1127040226",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "182998670"
+            },
+            "productUrl": "//www.daraz.com.bd/products/annex-12-i182998670-s1127040226.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/941c036823f1f8d685885d05e8872d5b.jpg",
+            "originalPrice": "600.00",
+            "originalPriceShow": "৳ 600",
+            "price": "520",
+            "promotionId": "null",
+            "priceShow": "৳ 520",
+            "discount": "-13%",
+            "ratingScore": "4.94286",
+            "review": "35",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "182998670_BD-1127040226",
+            "sku": "182998670_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "55246",
+            "brandName": "ANNEX",
+            "sellerId": "700507521098",
+            "mainSellerId": "",
+            "sellerName": "ImranAman's Creations (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/941c036823f1f8d685885d05e8872d5b.jpg",
+                    "productUrl": "/products/annex-12-i182998670-s1127040226.html",
+                    "sku": "182998670_BD",
+                    "skuId": "1127040226"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:182998670;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:182998670_BD;price:520;client:desktop;supplier_id:700507521098;asc_category_id:10001050;item_id:182998670;sku_id:1127040226;shop_id:92893",
+            "addToCartSkus": [
+                {
+                    "sku": "182998670_BD-1127040226",
+                    "skuId": "1127040226",
+                    "count": 0
+                }
+            ],
+            "itemId": "182998670",
+            "skuId": "1127040226",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Hipro Motor Engine Flush Oil 700 ML",
+            "nid": "190896067",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "190896067",
+                "scene_pre": "search",
+                "current_price": "336",
+                "x_sku_ids": "1138128342",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "190896067"
+            },
+            "productUrl": "//www.daraz.com.bd/products/hipro-700-ml-i190896067-s1138128342.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ad23e52b072b02c9baed9dd9d3e976cc.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "336",
+            "promotionId": "null",
+            "priceShow": "৳ 336",
+            "discount": "-16%",
+            "ratingScore": "5",
+            "review": "23",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "190896067_BD-1138128342",
+            "sku": "190896067_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1027359",
+            "mainSellerId": "",
+            "sellerName": "Innovation (SYL)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ad23e52b072b02c9baed9dd9d3e976cc.jpg",
+                    "productUrl": "/products/hipro-700-ml-i190896067-s1138128342.html",
+                    "sku": "190896067_BD",
+                    "skuId": "1138128342"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:190896067;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:190896067_BD;price:336;client:desktop;supplier_id:1027359;asc_category_id:10001050;item_id:190896067;sku_id:1138128342;shop_id:33488",
+            "addToCartSkus": [
+                {
+                    "sku": "190896067_BD-1138128342",
+                    "skuId": "1138128342",
+                    "count": 0
+                }
+            ],
+            "itemId": "190896067",
+            "skuId": "1138128342",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Flamingo Octane Booster for Motorcycle/Car 250ml (F047) Fuel Additive fuel saver Gasoline Octane booster",
+            "nid": "174498354",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "174498354",
+                "scene_pre": "search",
+                "current_price": "255",
+                "x_sku_ids": "1111736547",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "174498354"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i174498354-s1111736547.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3fe22fe83c060981c38a842fd7bfe305.jpg",
+            "originalPrice": "310.00",
+            "originalPriceShow": "৳ 310",
+            "price": "255",
+            "promotionId": "null",
+            "priceShow": "৳ 255",
+            "discount": "-18%",
+            "ratingScore": "4.73958",
+            "review": "96",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "174498354_BD-1111736547",
+            "sku": "174498354_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1016095",
+            "mainSellerId": "",
+            "sellerName": "Darun Online Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3fe22fe83c060981c38a842fd7bfe305.jpg",
+                    "productUrl": "/products/-i174498354-s1111736547.html",
+                    "sku": "174498354_BD",
+                    "skuId": "1111736547"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:174498354;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:174498354_BD;price:255;client:desktop;supplier_id:1016095;asc_category_id:10001050;item_id:174498354;sku_id:1111736547;shop_id:22380",
+            "addToCartSkus": [
+                {
+                    "sku": "174498354_BD-1111736547",
+                    "skuId": "1111736547",
+                    "count": 0
+                }
+            ],
+            "itemId": "174498354",
+            "skuId": "1111736547",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "GLADIATOR  - Multi Cleaning ANTI RUST Spray-450 ML",
+            "nid": "156826306",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "156826306",
+                "scene_pre": "search",
+                "current_price": "246",
+                "x_sku_ids": "1086700842",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "156826306"
+            },
+            "productUrl": "//www.daraz.com.bd/products/450-ml-i156826306-s1086700842.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/12d1e4738a637580cb998d8c9986c3ab.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "246",
+            "promotionId": "null",
+            "priceShow": "৳ 246",
+            "discount": "-39%",
+            "ratingScore": "4.61538",
+            "review": "104",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "156826306_BD-1086700842",
+            "sku": "156826306_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1040757",
+            "mainSellerId": "",
+            "sellerName": "Swift Ride",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/12d1e4738a637580cb998d8c9986c3ab.jpg",
+                    "productUrl": "/products/450-ml-i156826306-s1086700842.html",
+                    "sku": "156826306_BD",
+                    "skuId": "1086700842"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001054
+            ],
+            "clickTrace": "query:;nid:156826306;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:156826306_BD;price:246;client:desktop;supplier_id:1040757;asc_category_id:10001054;item_id:156826306;sku_id:1086700842;shop_id:46522",
+            "addToCartSkus": [
+                {
+                    "sku": "156826306_BD-1086700842",
+                    "skuId": "1086700842",
+                    "count": 0
+                }
+            ],
+            "itemId": "156826306",
+            "skuId": "1086700842",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Annex Fuel Octane Booster for Motorcycle & Car - 30ml (4pcs)",
+            "nid": "203647860",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "203647860",
+                "scene_pre": "search",
+                "current_price": "200",
+                "x_sku_ids": "1151700713",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "203647860"
+            },
+            "productUrl": "//www.daraz.com.bd/products/annex-30ml-4pcs-i203647860-s1151700713.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/bb77c3dc5aebd3714ceae11bef7dcefb.jpg",
+            "originalPrice": "220.00",
+            "originalPriceShow": "৳ 220",
+            "price": "200",
+            "promotionId": "null",
+            "priceShow": "৳ 200",
+            "discount": "-9%",
+            "ratingScore": "4.73333",
+            "review": "30",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "203647860_BD-1151700713",
+            "sku": "203647860_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1041477",
+            "mainSellerId": "",
+            "sellerName": "Auto Choice",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/bb77c3dc5aebd3714ceae11bef7dcefb.jpg",
+                    "productUrl": "/products/annex-30ml-4pcs-i203647860-s1151700713.html",
+                    "sku": "203647860_BD",
+                    "skuId": "1151700713"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:203647860;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:203647860_BD;price:200;client:desktop;supplier_id:1041477;asc_category_id:10001050;item_id:203647860;sku_id:1151700713;shop_id:47220",
+            "addToCartSkus": [
+                {
+                    "sku": "203647860_BD-1151700713",
+                    "skuId": "1151700713",
+                    "count": 0
+                }
+            ],
+            "itemId": "203647860",
+            "skuId": "1151700713",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Annex Fuel-Fuel save for Bike/Car",
+            "nid": "157428964",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "157428964",
+                "scene_pre": "search",
+                "current_price": "47",
+                "x_sku_ids": "1088204463",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "157428964"
+            },
+            "productUrl": "//www.daraz.com.bd/products/annex-i157428964-s1088204463.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/22b8c63541a93962dafb28fb5578d286.jpg",
+            "originalPrice": "60.00",
+            "originalPriceShow": "৳ 60",
+            "price": "47",
+            "promotionId": "null",
+            "priceShow": "৳ 47",
+            "discount": "-22%",
+            "ratingScore": "4.78626",
+            "review": "131",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "157428964_BD-1088204463",
+            "sku": "157428964_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "55246",
+            "brandName": "ANNEX",
+            "sellerId": "700507521098",
+            "mainSellerId": "",
+            "sellerName": "ImranAman's Creations (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/22b8c63541a93962dafb28fb5578d286.jpg",
+                    "productUrl": "/products/annex-i157428964-s1088204463.html",
+                    "sku": "157428964_BD",
+                    "skuId": "1088204463"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:157428964;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:157428964_BD;price:47;client:desktop;supplier_id:700507521098;asc_category_id:10001050;item_id:157428964;sku_id:1088204463;shop_id:92893",
+            "addToCartSkus": [
+                {
+                    "sku": "157428964_BD-1088204463",
+                    "skuId": "1088204463",
+                    "count": 0
+                }
+            ],
+            "itemId": "157428964",
+            "skuId": "1088204463",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Flamingo Octane Booster for Motorbike/Car – 250ml (F047)",
+            "nid": "184361971",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184361971",
+                "scene_pre": "search",
+                "current_price": "240",
+                "x_sku_ids": "1129259018",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "184361971"
+            },
+            "productUrl": "//www.daraz.com.bd/products/250ml-f047-i184361971-s1129259018.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/667face294377adb5bc1e31107c4cf6b.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "240",
+            "promotionId": "null",
+            "priceShow": "৳ 240",
+            "discount": "-31%",
+            "ratingScore": "4.23077",
+            "review": "13",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184361971_BD-1129259018",
+            "sku": "184361971_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1024868",
+            "mainSellerId": "",
+            "sellerName": "INSAF MOTORS",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/667face294377adb5bc1e31107c4cf6b.jpg",
+                    "productUrl": "/products/250ml-f047-i184361971-s1129259018.html",
+                    "sku": "184361971_BD",
+                    "skuId": "1129259018"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:184361971;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:184361971_BD;price:240;client:desktop;supplier_id:1024868;asc_category_id:10001050;item_id:184361971;sku_id:1129259018;shop_id:31048",
+            "addToCartSkus": [
+                {
+                    "sku": "184361971_BD-1129259018",
+                    "skuId": "1129259018",
+                    "count": 0
+                }
+            ],
+            "itemId": "184361971",
+            "skuId": "1129259018",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Annex Fuel-Fuel save for Bike/Car-24 Piece Bundle",
+            "nid": "183948056",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183948056",
+                "scene_pre": "search",
+                "current_price": "1010",
+                "x_sku_ids": "1128562856",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "183948056"
+            },
+            "productUrl": "//www.daraz.com.bd/products/annex-24-i183948056-s1128562856.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2db7e753c6e8a5eab463209fca0d8a3f.jpg",
+            "originalPrice": "1200.00",
+            "originalPriceShow": "৳ 1,200",
+            "price": "1010",
+            "promotionId": "null",
+            "priceShow": "৳ 1,010",
+            "discount": "-16%",
+            "ratingScore": "4.46667",
+            "review": "15",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183948056_BD-1128562856",
+            "sku": "183948056_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "55246",
+            "brandName": "ANNEX",
+            "sellerId": "700507521098",
+            "mainSellerId": "",
+            "sellerName": "ImranAman's Creations (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2db7e753c6e8a5eab463209fca0d8a3f.jpg",
+                    "productUrl": "/products/annex-24-i183948056-s1128562856.html",
+                    "sku": "183948056_BD",
+                    "skuId": "1128562856"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:183948056;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:183948056_BD;price:1010;client:desktop;supplier_id:700507521098;asc_category_id:10001050;item_id:183948056;sku_id:1128562856;shop_id:92893",
+            "addToCartSkus": [
+                {
+                    "sku": "183948056_BD-1128562856",
+                    "skuId": "1128562856",
+                    "count": 0
+                }
+            ],
+            "itemId": "183948056",
+            "skuId": "1128562856",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "UNITED MX 2T II API TB II SIZE 1L",
+            "nid": "179126725",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "179126725",
+                "scene_pre": "search",
+                "current_price": "402",
+                "x_sku_ids": "1120216987",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "179126725"
+            },
+            "productUrl": "//www.daraz.com.bd/products/united-mx-2t-ii-api-tb-ii-size-1l-i179126725-s1120216987.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/251f773335979ba8359303b429ec5d68.jpg",
+            "originalPrice": "425.00",
+            "originalPriceShow": "৳ 425",
+            "price": "402",
+            "promotionId": "null",
+            "priceShow": "৳ 402",
+            "discount": "-5%",
+            "ratingScore": "5",
+            "review": "17",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "179126725_BD-1120216987",
+            "sku": "179126725_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507509219",
+            "mainSellerId": "",
+            "sellerName": "United Oil",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/251f773335979ba8359303b429ec5d68.jpg",
+                    "productUrl": "/products/united-mx-2t-ii-api-tb-ii-size-1l-i179126725-s1120216987.html",
+                    "sku": "179126725_BD",
+                    "skuId": "1120216987"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001057
+            ],
+            "clickTrace": "query:;nid:179126725;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:179126725_BD;price:402;client:desktop;supplier_id:700507509219;asc_category_id:10001057;item_id:179126725;sku_id:1120216987;shop_id:97428",
+            "addToCartSkus": [
+                {
+                    "sku": "179126725_BD-1120216987",
+                    "skuId": "1120216987",
+                    "count": 0
+                }
+            ],
+            "itemId": "179126725",
+            "skuId": "1120216987",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "RX Extreme Octane or petrol Booster & Carbon Cleaner",
+            "nid": "162952661",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "162952661",
+                "scene_pre": "search",
+                "current_price": "52",
+                "x_sku_ids": "1095246556",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "162952661"
+            },
+            "productUrl": "//www.daraz.com.bd/products/rx-i162952661-s1095246556.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/7b6585ce473861e8683fbadb0900fd5a.jpg",
+            "originalPrice": "100.00",
+            "originalPriceShow": "৳ 100",
+            "price": "52",
+            "promotionId": "null",
+            "priceShow": "৳ 52",
+            "discount": "-48%",
+            "ratingScore": "4.45517",
+            "review": "145",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "162952661_BD-1095246556",
+            "sku": "162952661_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1000651",
+            "mainSellerId": "",
+            "sellerName": "PART AUTO",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/7b6585ce473861e8683fbadb0900fd5a.jpg",
+                    "productUrl": "/products/rx-i162952661-s1095246556.html",
+                    "sku": "162952661_BD",
+                    "skuId": "1095246556"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001057
+            ],
+            "clickTrace": "query:;nid:162952661;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:162952661_BD;price:52;client:desktop;supplier_id:1000651;asc_category_id:10001057;item_id:162952661;sku_id:1095246556;shop_id:6879",
+            "addToCartSkus": [
+                {
+                    "sku": "162952661_BD-1095246556",
+                    "skuId": "1095246556",
+                    "count": 0
+                }
+            ],
+            "itemId": "162952661",
+            "skuId": "1095246556",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Flamingo Octane Booster for Motorbike/Car – 250ml (F047)",
+            "nid": "156362128",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "156362128",
+                "scene_pre": "search",
+                "current_price": "280",
+                "x_sku_ids": "1085854535",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "156362128"
+            },
+            "productUrl": "//www.daraz.com.bd/products/250ml-f047-i156362128-s1085854535.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/99e7f8e7a20955cd40e3fba130a05666.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "280",
+            "promotionId": "null",
+            "priceShow": "৳ 280",
+            "discount": "-7%",
+            "ratingScore": "4.44318",
+            "review": "88",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "156362128_BD-1085854535",
+            "sku": "156362128_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1041477",
+            "mainSellerId": "",
+            "sellerName": "Auto Choice",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/99e7f8e7a20955cd40e3fba130a05666.jpg",
+                    "productUrl": "/products/250ml-f047-i156362128-s1085854535.html",
+                    "sku": "156362128_BD",
+                    "skuId": "1085854535"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:156362128;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:156362128_BD;price:280;client:desktop;supplier_id:1041477;asc_category_id:10001050;item_id:156362128;sku_id:1085854535;shop_id:47220",
+            "addToCartSkus": [
+                {
+                    "sku": "156362128_BD-1085854535",
+                    "skuId": "1085854535",
+                    "count": 0
+                }
+            ],
+            "itemId": "156362128",
+            "skuId": "1085854535",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Flamingo Octane Booster for Motorbike/Car – 250ml",
+            "nid": "171488814",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171488814",
+                "scene_pre": "search",
+                "current_price": "243",
+                "x_sku_ids": "1107484271",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "171488814"
+            },
+            "productUrl": "//www.daraz.com.bd/products/250ml-i171488814-s1107484271.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/967f95d6605495707d22a734e0b54be5.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "243",
+            "promotionId": "null",
+            "priceShow": "৳ 243",
+            "discount": "-46%",
+            "ratingScore": "5",
+            "review": "10",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171488814_BD-1107484271",
+            "sku": "171488814_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1024039",
+            "mainSellerId": "",
+            "sellerName": "RS Enterprise",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/967f95d6605495707d22a734e0b54be5.jpg",
+                    "productUrl": "/products/250ml-i171488814-s1107484271.html",
+                    "sku": "171488814_BD",
+                    "skuId": "1107484271"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:171488814;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:171488814_BD;price:243;client:desktop;supplier_id:1024039;asc_category_id:10001050;item_id:171488814;sku_id:1107484271;shop_id:30227",
+            "addToCartSkus": [
+                {
+                    "sku": "171488814_BD-1107484271",
+                    "skuId": "1107484271",
+                    "count": 0
+                }
+            ],
+            "itemId": "171488814",
+            "skuId": "1107484271",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Gladiator Octane Booster 354 ML",
+            "nid": "224074808",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "224074808",
+                "scene_pre": "search",
+                "current_price": "239",
+                "x_sku_ids": "1169860520",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "224074808"
+            },
+            "productUrl": "//www.daraz.com.bd/products/354-ml-i224074808-s1169860520.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3acfcf793b3c2e3d2e77c56c55e96024.png",
+            "originalPrice": "499.00",
+            "originalPriceShow": "৳ 499",
+            "price": "239",
+            "promotionId": "null",
+            "priceShow": "৳ 239",
+            "discount": "-52%",
+            "ratingScore": "4.6",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "224074808_BD-1169860520",
+            "sku": "224074808_BD",
+            "skus": [],
+            "description": [
+                "Reduces fuel consumption",
+                "Improves combustion",
+                "Produces maximum power and torque",
+                "Quantity: 354ml",
+                "Improves engine performance and helps run smoother",
+                "Increases acceleration",
+                "Easy and soft start of the engine",
+                "Improves the quality of gasoline"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508190206",
+            "mainSellerId": "",
+            "sellerName": "24 Hut",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3acfcf793b3c2e3d2e77c56c55e96024.png",
+                    "productUrl": "/products/354-ml-i224074808-s1169860520.html",
+                    "sku": "224074808_BD",
+                    "skuId": "1169860520"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:224074808;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:224074808_BD;price:239;client:desktop;supplier_id:700508190206;asc_category_id:10001050;item_id:224074808;sku_id:1169860520;shop_id:132684",
+            "addToCartSkus": [
+                {
+                    "sku": "224074808_BD-1169860520",
+                    "skuId": "1169860520",
+                    "count": 0
+                }
+            ],
+            "itemId": "224074808",
+            "skuId": "1169860520",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Liqui Moly MoS2 Shooter Anti-Friction Oil Additive Made in Germany â 20ml",
+            "nid": "166378995",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "166378995",
+                "scene_pre": "search",
+                "current_price": "350.00",
+                "x_sku_ids": "1099976990",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "166378995"
+            },
+            "productUrl": "//www.daraz.com.bd/products/liqui-moly-mos2-shooter-anti-friction-oil-additive-made-in-germany-a-20ml-i166378995-s1099976990.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/b7e90760ff17051cb6941e80d53bcedc.jpg",
+            "price": "350.00",
+            "promotionId": "null",
+            "priceShow": "৳ 350",
+            "ratingScore": "4.7561",
+            "review": "41",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "166378995_BD-1099976990",
+            "sku": "166378995_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1041477",
+            "mainSellerId": "",
+            "sellerName": "Auto Choice",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/b7e90760ff17051cb6941e80d53bcedc.jpg",
+                    "productUrl": "/products/liqui-moly-mos2-shooter-anti-friction-oil-additive-made-in-germany-a-20ml-i166378995-s1099976990.html",
+                    "sku": "166378995_BD",
+                    "skuId": "1099976990"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:166378995;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:166378995_BD;price:350.00;client:desktop;supplier_id:1041477;asc_category_id:10001050;item_id:166378995;sku_id:1099976990;shop_id:47220",
+            "addToCartSkus": [
+                {
+                    "sku": "166378995_BD-1099976990",
+                    "skuId": "1099976990",
+                    "count": 0
+                }
+            ],
+            "itemId": "166378995",
+            "skuId": "1099976990",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Flamingo Motor Flush Engine Cleaner (Engine Flush) for Motorcycle/Car/Bus/Truck, Remove gums, varnishes and sludge from internal parts All Petrol, Octen, Cng & Diesel Engine",
+            "nid": "190139393",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "190139393",
+                "scene_pre": "search",
+                "current_price": "257",
+                "x_sku_ids": "1137579406",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "190139393"
+            },
+            "productUrl": "//www.daraz.com.bd/products/octen-cng-i190139393-s1137579406.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/151d78f53a5297a22746a2da5e49e853.jpg",
+            "originalPrice": "330.00",
+            "originalPriceShow": "৳ 330",
+            "price": "257",
+            "promotionId": "null",
+            "priceShow": "৳ 257",
+            "discount": "-22%",
+            "ratingScore": "4.78947",
+            "review": "19",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "190139393_BD-1137579406",
+            "sku": "190139393_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1016095",
+            "mainSellerId": "",
+            "sellerName": "Darun Online Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/151d78f53a5297a22746a2da5e49e853.jpg",
+                    "productUrl": "/products/octen-cng-i190139393-s1137579406.html",
+                    "sku": "190139393_BD",
+                    "skuId": "1137579406"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:190139393;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:190139393_BD;price:257;client:desktop;supplier_id:1016095;asc_category_id:10001050;item_id:190139393;sku_id:1137579406;shop_id:22380",
+            "addToCartSkus": [
+                {
+                    "sku": "190139393_BD-1137579406",
+                    "skuId": "1137579406",
+                    "count": 0
+                }
+            ],
+            "itemId": "190139393",
+            "skuId": "1137579406",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Liqui Moly Motorbike Engine Flush Shooter Made in Germany – 80ml",
+            "nid": "167146392",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "167146392",
+                "scene_pre": "search",
+                "current_price": "300",
+                "x_sku_ids": "1100786480",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "167146392"
+            },
+            "productUrl": "//www.daraz.com.bd/products/liqui-moly-80ml-i167146392-s1100786480.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/4c3022fe7681425dab48fc15fcc29bfd.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "300",
+            "promotionId": "null",
+            "priceShow": "৳ 300",
+            "discount": "-14%",
+            "ratingScore": "4.92308",
+            "review": "13",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "167146392_BD-1100786480",
+            "sku": "167146392_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4652",
+            "mainSellerId": "",
+            "sellerName": "Luham",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/4c3022fe7681425dab48fc15fcc29bfd.jpg",
+                    "productUrl": "/products/liqui-moly-80ml-i167146392-s1100786480.html",
+                    "sku": "167146392_BD",
+                    "skuId": "1100786480"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:167146392;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:167146392_BD;price:300;client:desktop;supplier_id:4652;asc_category_id:10001050;item_id:167146392;sku_id:1100786480;shop_id:4701",
+            "addToCartSkus": [
+                {
+                    "sku": "167146392_BD-1100786480",
+                    "skuId": "1100786480",
+                    "count": 0
+                }
+            ],
+            "itemId": "167146392",
+            "skuId": "1100786480",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "6pcs Turbo Engine Booster & Carbon Cleaner For Your Bike / Car | Better than Annex fuel & Rx Extreame",
+            "nid": "203517383",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "203517383",
+                "scene_pre": "search",
+                "current_price": "243",
+                "x_sku_ids": "1151562839",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "203517383"
+            },
+            "productUrl": "//www.daraz.com.bd/products/6-rx-i203517383-s1151562839.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/de220947162cfd0430e4dd6366f13f03.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "243",
+            "promotionId": "null",
+            "priceShow": "৳ 243",
+            "discount": "-19%",
+            "ratingScore": "5",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "203517383_BD-1151562839",
+            "sku": "203517383_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508826962",
+            "mainSellerId": "",
+            "sellerName": "Curnival Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/de220947162cfd0430e4dd6366f13f03.jpg",
+                    "productUrl": "/products/6-rx-i203517383-s1151562839.html",
+                    "sku": "203517383_BD",
+                    "skuId": "1151562839"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:203517383;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:203517383_BD;price:243;client:desktop;supplier_id:700508826962;asc_category_id:10001050;item_id:203517383;sku_id:1151562839;shop_id:193697",
+            "addToCartSkus": [
+                {
+                    "sku": "203517383_BD-1151562839",
+                    "skuId": "1151562839",
+                    "count": 0
+                }
+            ],
+            "itemId": "203517383",
+            "skuId": "1151562839",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "STOP Power Steering Fluid 325ml Made in USA",
+            "nid": "229409908",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "229409908",
+                "scene_pre": "search",
+                "current_price": "270.00",
+                "x_sku_ids": "1173067110",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "229409908"
+            },
+            "productUrl": "//www.daraz.com.bd/products/325ml-i229409908-s1173067110.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ff0f0741fa664c4ef0a8a046b45efa1c.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "270.00",
+            "promotionId": "null",
+            "priceShow": "৳ 270",
+            "discount": "-23%",
+            "ratingScore": "4",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "229409908_BD-1173067110",
+            "sku": "229409908_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "104445",
+            "brandName": "STOPOIL",
+            "sellerId": "1024868",
+            "mainSellerId": "",
+            "sellerName": "INSAF MOTORS",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ff0f0741fa664c4ef0a8a046b45efa1c.jpg",
+                    "productUrl": "/products/325ml-i229409908-s1173067110.html",
+                    "sku": "229409908_BD",
+                    "skuId": "1173067110"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:229409908;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:229409908_BD;price:270.00;client:desktop;supplier_id:1024868;asc_category_id:10001050;item_id:229409908;sku_id:1173067110;shop_id:31048",
+            "addToCartSkus": [
+                {
+                    "sku": "229409908_BD-1173067110",
+                    "skuId": "1173067110",
+                    "count": 0
+                }
+            ],
+            "itemId": "229409908",
+            "skuId": "1173067110",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "LIQUI MOLY INJECTION CLEANER 300ML",
+            "nid": "181150381",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "181150381",
+                "scene_pre": "search",
+                "current_price": "620",
+                "x_sku_ids": "1122673999",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "181150381"
+            },
+            "productUrl": "//www.daraz.com.bd/products/liqui-moly-300ml-i181150381-s1122673999.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/528b9dec9f5a6963f13920180695a1c4.jpg",
+            "originalPrice": "850.00",
+            "originalPriceShow": "৳ 850",
+            "price": "620",
+            "promotionId": "null",
+            "priceShow": "৳ 620",
+            "discount": "-27%",
+            "ratingScore": "4.85714",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "181150381_BD-1122673999",
+            "sku": "181150381_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1024868",
+            "mainSellerId": "",
+            "sellerName": "INSAF MOTORS",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/528b9dec9f5a6963f13920180695a1c4.jpg",
+                    "productUrl": "/products/liqui-moly-300ml-i181150381-s1122673999.html",
+                    "sku": "181150381_BD",
+                    "skuId": "1122673999"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:181150381;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:181150381_BD;price:620;client:desktop;supplier_id:1024868;asc_category_id:10001050;item_id:181150381;sku_id:1122673999;shop_id:31048",
+            "addToCartSkus": [
+                {
+                    "sku": "181150381_BD-1122673999",
+                    "skuId": "1122673999",
+                    "count": 0
+                }
+            ],
+            "itemId": "181150381",
+            "skuId": "1122673999",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Annex Fuel-Fuel save for Bike/Car-3 Piece Bundle",
+            "nid": "198107790",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "198107790",
+                "scene_pre": "search",
+                "current_price": "142",
+                "x_sku_ids": "1144916457",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "198107790"
+            },
+            "productUrl": "//www.daraz.com.bd/products/annex-3-i198107790-s1144916457.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/59504d4cbef101146953a825d7ecef9f.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "142",
+            "promotionId": "null",
+            "priceShow": "৳ 142",
+            "discount": "-5%",
+            "ratingScore": "4.84615",
+            "review": "13",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "198107790_BD-1144916457",
+            "sku": "198107790_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "55246",
+            "brandName": "ANNEX",
+            "sellerId": "700507521098",
+            "mainSellerId": "",
+            "sellerName": "ImranAman's Creations (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/59504d4cbef101146953a825d7ecef9f.jpg",
+                    "productUrl": "/products/annex-3-i198107790-s1144916457.html",
+                    "sku": "198107790_BD",
+                    "skuId": "1144916457"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:198107790;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:198107790_BD;price:142;client:desktop;supplier_id:700507521098;asc_category_id:10001050;item_id:198107790;sku_id:1144916457;shop_id:92893",
+            "addToCartSkus": [
+                {
+                    "sku": "198107790_BD-1144916457",
+                    "skuId": "1144916457",
+                    "count": 0
+                }
+            ],
+            "itemId": "198107790",
+            "skuId": "1144916457",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "GETSUN 2L Long Life Coolant_Green color",
+            "nid": "183101119",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183101119",
+                "scene_pre": "search",
+                "current_price": "650.00",
+                "x_sku_ids": "1127183907",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "183101119"
+            },
+            "productUrl": "//www.daraz.com.bd/products/getsun-2l-_-i183101119-s1127183907.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0e1f0b7632e2a082da6b6968d652d85f.jpg",
+            "price": "650.00",
+            "promotionId": "null",
+            "priceShow": "৳ 650",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183101119_BD-1127183907",
+            "sku": "183101119_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4198",
+            "mainSellerId": "",
+            "sellerName": "Manik Car Decoration",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0e1f0b7632e2a082da6b6968d652d85f.jpg",
+                    "productUrl": "/products/getsun-2l-_-i183101119-s1127183907.html",
+                    "sku": "183101119_BD",
+                    "skuId": "1127183907"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001051
+            ],
+            "clickTrace": "query:;nid:183101119;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:183101119_BD;price:650.00;client:desktop;supplier_id:4198;asc_category_id:10001051;item_id:183101119;sku_id:1127183907;shop_id:4305",
+            "addToCartSkus": [
+                {
+                    "sku": "183101119_BD-1127183907",
+                    "skuId": "1127183907",
+                    "count": 0
+                }
+            ],
+            "itemId": "183101119",
+            "skuId": "1127183907",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Flamingo Octane Booster 250ML",
+            "nid": "132208080",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132208080",
+                "scene_pre": "search",
+                "current_price": "245",
+                "x_sku_ids": "1053026509",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "132208080"
+            },
+            "productUrl": "//www.daraz.com.bd/products/250ml-i132208080-s1053026509.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/56c1dc8f07ce5267075993430cebfe73.jpg",
+            "originalPrice": "320.00",
+            "originalPriceShow": "৳ 320",
+            "price": "245",
+            "promotionId": "null",
+            "priceShow": "৳ 245",
+            "discount": "-23%",
+            "ratingScore": "5",
+            "review": "22",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132208080_BD-1053026509",
+            "sku": "132208080_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1013864",
+            "mainSellerId": "",
+            "sellerName": "Hotshot Automotive",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/56c1dc8f07ce5267075993430cebfe73.jpg",
+                    "productUrl": "/products/250ml-i132208080-s1053026509.html",
+                    "sku": "132208080_BD",
+                    "skuId": "1053026509"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:132208080;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:132208080_BD;price:245;client:desktop;supplier_id:1013864;asc_category_id:10001050;item_id:132208080;sku_id:1053026509;shop_id:19971",
+            "addToCartSkus": [
+                {
+                    "sku": "132208080_BD-1053026509",
+                    "skuId": "1053026509",
+                    "count": 0
+                }
+            ],
+            "itemId": "132208080",
+            "skuId": "1053026509",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Annex Fuel-Fuel save for Bike/Car",
+            "nid": "197750854",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "197750854",
+                "scene_pre": "search",
+                "current_price": "50.00",
+                "x_sku_ids": "1144444757",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "197750854"
+            },
+            "productUrl": "//www.daraz.com.bd/products/annex-i197750854-s1144444757.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2db7e753c6e8a5eab463209fca0d8a3f.jpg",
+            "price": "50.00",
+            "promotionId": "null",
+            "priceShow": "৳ 50",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "197750854_BD-1144444757",
+            "sku": "197750854_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508724344",
+            "mainSellerId": "",
+            "sellerName": "Mishu Store BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2db7e753c6e8a5eab463209fca0d8a3f.jpg",
+                    "productUrl": "/products/annex-i197750854-s1144444757.html",
+                    "sku": "197750854_BD",
+                    "skuId": "1144444757"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:197750854;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:197750854_BD;price:50.00;client:desktop;supplier_id:700508724344;asc_category_id:10001050;item_id:197750854;sku_id:1144444757;shop_id:178154",
+            "addToCartSkus": [
+                {
+                    "sku": "197750854_BD-1144444757",
+                    "skuId": "1144444757",
+                    "count": 0
+                }
+            ],
+            "itemId": "197750854",
+            "skuId": "1144444757",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Annex Fuel Octane Booster for Motorcycle & Car - 125ml",
+            "nid": "212494602",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "212494602",
+                "scene_pre": "search",
+                "current_price": "146",
+                "x_sku_ids": "1162065500",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "212494602"
+            },
+            "productUrl": "//www.daraz.com.bd/products/annex-125ml-i212494602-s1162065500.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e8662fb6bcf76ae9d40ed034f511cc24.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "146",
+            "promotionId": "null",
+            "priceShow": "৳ 146",
+            "discount": "-3%",
+            "ratingScore": "3.6",
+            "review": "10",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "212494602_BD-1162065500",
+            "sku": "212494602_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1041477",
+            "mainSellerId": "",
+            "sellerName": "Auto Choice",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e8662fb6bcf76ae9d40ed034f511cc24.jpg",
+                    "productUrl": "/products/annex-125ml-i212494602-s1162065500.html",
+                    "sku": "212494602_BD",
+                    "skuId": "1162065500"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:212494602;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:212494602_BD;price:146;client:desktop;supplier_id:1041477;asc_category_id:10001050;item_id:212494602;sku_id:1162065500;shop_id:47220",
+            "addToCartSkus": [
+                {
+                    "sku": "212494602_BD-1162065500",
+                    "skuId": "1162065500",
+                    "count": 0
+                }
+            ],
+            "itemId": "212494602",
+            "skuId": "1162065500",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Flamingo Fuel Injector Cleaner Additives for Motorcycle/Car 250ml (F045) Fuel Gasoline Injector Cleaner Car System Petrol Saver Save Gas Oil Additive Restore Peak Performance 7.25OZ",
+            "nid": "212073673",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "212073673",
+                "scene_pre": "search",
+                "current_price": "265",
+                "x_sku_ids": "1161824868",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "212073673"
+            },
+            "productUrl": "//www.daraz.com.bd/products/flamingo-fuel-injector-cleaner-additives-for-motorcyclecar-250ml-f045-fuel-gasoline-injector-cleaner-car-system-petrol-saver-save-gas-oil-additive-restore-peak-performance-725oz-i212073673-s1161824868.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d5f8de5ef93df676896505fa555a3435.jpg",
+            "originalPrice": "290.00",
+            "originalPriceShow": "৳ 290",
+            "price": "265",
+            "promotionId": "null",
+            "priceShow": "৳ 265",
+            "discount": "-9%",
+            "ratingScore": "4.72727",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "212073673_BD-1161824868",
+            "sku": "212073673_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1016095",
+            "mainSellerId": "",
+            "sellerName": "Darun Online Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d5f8de5ef93df676896505fa555a3435.jpg",
+                    "productUrl": "/products/flamingo-fuel-injector-cleaner-additives-for-motorcyclecar-250ml-f045-fuel-gasoline-injector-cleaner-car-system-petrol-saver-save-gas-oil-additive-restore-peak-performance-725oz-i212073673-s1161824868.html",
+                    "sku": "212073673_BD",
+                    "skuId": "1161824868"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:212073673;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:212073673_BD;price:265;client:desktop;supplier_id:1016095;asc_category_id:10001050;item_id:212073673;sku_id:1161824868;shop_id:22380",
+            "addToCartSkus": [
+                {
+                    "sku": "212073673_BD-1161824868",
+                    "skuId": "1161824868",
+                    "count": 0
+                }
+            ],
+            "itemId": "212073673",
+            "skuId": "1161824868",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "STOP Fuel Injection Cleaner & Treatment 325 ml",
+            "nid": "184891938",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184891938",
+                "scene_pre": "search",
+                "current_price": "290",
+                "x_sku_ids": "1130166864",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "184891938"
+            },
+            "productUrl": "//www.daraz.com.bd/products/325-ml-i184891938-s1130166864.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d64dedf528c4446e4a4ae3d729f276af.jpg",
+            "originalPrice": "299.00",
+            "originalPriceShow": "৳ 299",
+            "price": "290",
+            "promotionId": "null",
+            "priceShow": "৳ 290",
+            "discount": "-3%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184891938_BD-1130166864",
+            "sku": "184891938_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4198",
+            "mainSellerId": "",
+            "sellerName": "Manik Car Decoration",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d64dedf528c4446e4a4ae3d729f276af.jpg",
+                    "productUrl": "/products/325-ml-i184891938-s1130166864.html",
+                    "sku": "184891938_BD",
+                    "skuId": "1130166864"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001054
+            ],
+            "clickTrace": "query:;nid:184891938;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:184891938_BD;price:290;client:desktop;supplier_id:4198;asc_category_id:10001054;item_id:184891938;sku_id:1130166864;shop_id:4305",
+            "addToCartSkus": [
+                {
+                    "sku": "184891938_BD-1130166864",
+                    "skuId": "1130166864",
+                    "count": 0
+                }
+            ],
+            "itemId": "184891938",
+            "skuId": "1130166864",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bike Oil Filter",
+            "nid": "193072789",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "193072789",
+                "scene_pre": "search",
+                "current_price": "50.00",
+                "x_sku_ids": "1139845568",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "193072789"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i193072789-s1139845568.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/68d045e73e3e0c2cde2253f7074fb0bd.jpg",
+            "price": "50.00",
+            "promotionId": "null",
+            "priceShow": "৳ 50",
+            "ratingScore": "4.83333",
+            "review": "12",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "193072789_BD-1139845568",
+            "sku": "193072789_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508754137",
+            "mainSellerId": "",
+            "sellerName": "MNS Enterprice",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/68d045e73e3e0c2cde2253f7074fb0bd.jpg",
+                    "productUrl": "/products/-i193072789-s1139845568.html",
+                    "sku": "193072789_BD",
+                    "skuId": "1139845568"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001054
+            ],
+            "clickTrace": "query:;nid:193072789;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:193072789_BD;price:50.00;client:desktop;supplier_id:700508754137;asc_category_id:10001054;item_id:193072789;sku_id:1139845568;shop_id:180710",
+            "addToCartSkus": [
+                {
+                    "sku": "193072789_BD-1139845568",
+                    "skuId": "1139845568",
+                    "count": 0
+                }
+            ],
+            "itemId": "193072789",
+            "skuId": "1139845568",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Rx Extreme Octane or petrol Booster & Carbon Cleaner For Bike And Car 40 ML",
+            "nid": "225975732",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225975732",
+                "scene_pre": "search",
+                "current_price": "160.00",
+                "x_sku_ids": "1176290467",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "225975732"
+            },
+            "productUrl": "//www.daraz.com.bd/products/rx-i225975732-s1176290467.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/708177f00b7b5ad5808f9f45e9cba92d.jpg",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "160.00",
+            "promotionId": "null",
+            "priceShow": "৳ 160",
+            "discount": "-11%",
+            "ratingScore": "4.66667",
+            "review": "6",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225975732_BD-1176290467",
+            "sku": "225975732_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507677043",
+            "mainSellerId": "",
+            "sellerName": "Gallerie Vespa",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/708177f00b7b5ad5808f9f45e9cba92d.jpg",
+                    "productUrl": "/products/rx-i225975732-s1176290467.html",
+                    "sku": "225975732_BD",
+                    "skuId": "1176290467"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/708177f00b7b5ad5808f9f45e9cba92d.jpg",
+                    "productUrl": "/products/rx-i225975732-s1170793252.html",
+                    "sku": "225975732_BD",
+                    "skuId": "1170793252"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001054
+            ],
+            "clickTrace": "query:;nid:225975732;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:225975732_BD;price:160.00;client:desktop;supplier_id:700507677043;asc_category_id:10001054;item_id:225975732;sku_id:1176290467;shop_id:103381",
+            "addToCartSkus": [
+                {
+                    "sku": "225975732_BD-1176290467",
+                    "skuId": "1176290467",
+                    "count": 0
+                }
+            ],
+            "itemId": "225975732",
+            "skuId": "1176290467",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Annex Fuel for Motorcycle & Car 30ml (1pcs)",
+            "nid": "216963732",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "216963732",
+                "scene_pre": "search",
+                "current_price": "50.00",
+                "x_sku_ids": "1165118786",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "216963732"
+            },
+            "productUrl": "//www.daraz.com.bd/products/annex-30ml-1-i216963732-s1165118786.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c44346715b5a8ea16d75991a136b001c.jpg",
+            "price": "50.00",
+            "promotionId": "null",
+            "priceShow": "৳ 50",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "216963732_BD-1165118786",
+            "sku": "216963732_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509282062",
+            "mainSellerId": "",
+            "sellerName": "Mishu Mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c44346715b5a8ea16d75991a136b001c.jpg",
+                    "productUrl": "/products/annex-30ml-1-i216963732-s1165118786.html",
+                    "sku": "216963732_BD",
+                    "skuId": "1165118786"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:216963732;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:216963732_BD;price:50.00;client:desktop;supplier_id:700509282062;asc_category_id:10001050;item_id:216963732;sku_id:1165118786;shop_id:205833",
+            "addToCartSkus": [
+                {
+                    "sku": "216963732_BD-1165118786",
+                    "skuId": "1165118786",
+                    "count": 0
+                }
+            ],
+            "itemId": "216963732",
+            "skuId": "1165118786",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "LIQUI MOLY MOTORBIKE MOS2 SHOOTER 20 ML.",
+            "nid": "185857175",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "185857175",
+                "scene_pre": "search",
+                "current_price": "339",
+                "x_sku_ids": "1131757662",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "185857175"
+            },
+            "productUrl": "//www.daraz.com.bd/products/liqui-moly-mos2-20-ml-i185857175-s1131757662.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/9c766096a2789f65ea6bce6efe1a4943.jpg",
+            "originalPrice": "349.00",
+            "originalPriceShow": "৳ 349",
+            "price": "339",
+            "promotionId": "null",
+            "priceShow": "৳ 339",
+            "discount": "-3%",
+            "ratingScore": "5",
+            "review": "20",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "185857175_BD-1131757662",
+            "sku": "185857175_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508385571",
+            "mainSellerId": "",
+            "sellerName": "Usama Enterprise",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/9c766096a2789f65ea6bce6efe1a4943.jpg",
+                    "productUrl": "/products/liqui-moly-mos2-20-ml-i185857175-s1131757662.html",
+                    "sku": "185857175_BD",
+                    "skuId": "1131757662"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:185857175;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:185857175_BD;price:339;client:desktop;supplier_id:700508385571;asc_category_id:10001050;item_id:185857175;sku_id:1131757662;shop_id:157617",
+            "addToCartSkus": [
+                {
+                    "sku": "185857175_BD-1131757662",
+                    "skuId": "1131757662",
+                    "count": 0
+                }
+            ],
+            "itemId": "185857175",
+            "skuId": "1131757662",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "LIQUI MOLY SUPER DIESEL ADDITIVE.250 ML.",
+            "nid": "185560584",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "185560584",
+                "scene_pre": "search",
+                "current_price": "700.00",
+                "x_sku_ids": "1131255506",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "185560584"
+            },
+            "productUrl": "//www.daraz.com.bd/products/liqui-moly-additive250-ml-i185560584-s1131255506.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/919c382a7dc3138ea211cd0cb83010a1.jpg",
+            "price": "700.00",
+            "promotionId": "null",
+            "priceShow": "৳ 700",
+            "ratingScore": "4.5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "185560584_BD-1131255506",
+            "sku": "185560584_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508385571",
+            "mainSellerId": "",
+            "sellerName": "Usama Enterprise",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/919c382a7dc3138ea211cd0cb83010a1.jpg",
+                    "productUrl": "/products/liqui-moly-additive250-ml-i185560584-s1131255506.html",
+                    "sku": "185560584_BD",
+                    "skuId": "1131255506"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:185560584;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:185560584_BD;price:700.00;client:desktop;supplier_id:700508385571;asc_category_id:10001050;item_id:185560584;sku_id:1131255506;shop_id:157617",
+            "addToCartSkus": [
+                {
+                    "sku": "185560584_BD-1131255506",
+                    "skuId": "1131255506",
+                    "count": 0
+                }
+            ],
+            "itemId": "185560584",
+            "skuId": "1131255506",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "LIQUI MOLY MOTORBIKE ENGINE FLUSH SHOOTER OIL CIRCUIT FLASH AND CLEAN. 80ML",
+            "nid": "184589344",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184589344",
+                "scene_pre": "search",
+                "current_price": "350.00",
+                "x_sku_ids": "1129686576",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "184589344"
+            },
+            "productUrl": "//www.daraz.com.bd/products/liqui-moly-80ml-i184589344-s1129686576.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/67c269a104b433566b566f035c19283c.jpg",
+            "price": "350.00",
+            "promotionId": "null",
+            "priceShow": "৳ 350",
+            "ratingScore": "5",
+            "review": "22",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184589344_BD-1129686576",
+            "sku": "184589344_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508385571",
+            "mainSellerId": "",
+            "sellerName": "Usama Enterprise",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/67c269a104b433566b566f035c19283c.jpg",
+                    "productUrl": "/products/liqui-moly-80ml-i184589344-s1129686576.html",
+                    "sku": "184589344_BD",
+                    "skuId": "1129686576"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:184589344;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:184589344_BD;price:350.00;client:desktop;supplier_id:700508385571;asc_category_id:10001050;item_id:184589344;sku_id:1129686576;shop_id:157617",
+            "addToCartSkus": [
+                {
+                    "sku": "184589344_BD-1129686576",
+                    "skuId": "1129686576",
+                    "count": 0
+                }
+            ],
+            "itemId": "184589344",
+            "skuId": "1129686576",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Flamingo Motor Flush Engine Cleaner (Engine Flush) for Motorcycle/Car/Bus/Truck, Remove gums, varnishes and sludge from internal parts All Petrol, Octen, Cng & Diesel Engine",
+            "nid": "222010438",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "222010438",
+                "scene_pre": "search",
+                "current_price": "240",
+                "x_sku_ids": "1168576081",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "222010438"
+            },
+            "productUrl": "//www.daraz.com.bd/products/octen-cng-i222010438-s1168576081.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6b96579b4ceadd156a7e339066b4c34e.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "240",
+            "promotionId": "null",
+            "priceShow": "৳ 240",
+            "discount": "-40%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "222010438_BD-1168576081",
+            "sku": "222010438_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1024868",
+            "mainSellerId": "",
+            "sellerName": "INSAF MOTORS",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6b96579b4ceadd156a7e339066b4c34e.jpg",
+                    "productUrl": "/products/octen-cng-i222010438-s1168576081.html",
+                    "sku": "222010438_BD",
+                    "skuId": "1168576081"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:222010438;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:222010438_BD;price:240;client:desktop;supplier_id:1024868;asc_category_id:10001050;item_id:222010438;sku_id:1168576081;shop_id:31048",
+            "addToCartSkus": [
+                {
+                    "sku": "222010438_BD-1168576081",
+                    "skuId": "1168576081",
+                    "count": 0
+                }
+            ],
+            "itemId": "222010438",
+            "skuId": "1168576081",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Flamingo CAR LONGLIFE COOLANT-   Red  - 2L",
+            "nid": "100741916",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "100741916",
+                "scene_pre": "search",
+                "current_price": "599.00",
+                "x_sku_ids": "1014730477",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "100741916"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2l-i100741916-s1014730477.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/48f3d1ea65b9a06ede73725fde314af1.jpg",
+            "price": "599.00",
+            "promotionId": "null",
+            "priceShow": "৳ 599",
+            "ratingScore": "4.66667",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "100741916_BD-1014730477",
+            "sku": "100741916_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4198",
+            "mainSellerId": "",
+            "sellerName": "Manik Car Decoration",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/48f3d1ea65b9a06ede73725fde314af1.jpg",
+                    "productUrl": "/products/2l-i100741916-s1014730477.html",
+                    "sku": "100741916_BD",
+                    "skuId": "1014730477"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001062
+            ],
+            "clickTrace": "query:;nid:100741916;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:100741916_BD;price:599.00;client:desktop;supplier_id:4198;asc_category_id:10001062;item_id:100741916;sku_id:1014730477;shop_id:4305",
+            "addToCartSkus": [
+                {
+                    "sku": "100741916_BD-1014730477",
+                    "skuId": "1014730477",
+                    "count": 0
+                }
+            ],
+            "itemId": "100741916",
+            "skuId": "1014730477",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Flamingo Motor Flush (Engine Flush) for Motorbike/Car 443ml (F048)",
+            "nid": "156364273",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "156364273",
+                "scene_pre": "search",
+                "current_price": "291",
+                "x_sku_ids": "1085868285",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "156364273"
+            },
+            "productUrl": "//www.daraz.com.bd/products/443ml-f048-i156364273-s1085868285.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/6e3ab2d24d54bea8453a50d6e4617e5a.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "291",
+            "promotionId": "null",
+            "priceShow": "৳ 291",
+            "discount": "-3%",
+            "ratingScore": "4.85106",
+            "review": "94",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "156364273_BD-1085868285",
+            "sku": "156364273_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1041477",
+            "mainSellerId": "",
+            "sellerName": "Auto Choice",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/6e3ab2d24d54bea8453a50d6e4617e5a.jpg",
+                    "productUrl": "/products/443ml-f048-i156364273-s1085868285.html",
+                    "sku": "156364273_BD",
+                    "skuId": "1085868285"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:156364273;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:156364273_BD;price:291;client:desktop;supplier_id:1041477;asc_category_id:10001050;item_id:156364273;sku_id:1085868285;shop_id:47220",
+            "addToCartSkus": [
+                {
+                    "sku": "156364273_BD-1085868285",
+                    "skuId": "1085868285",
+                    "count": 0
+                }
+            ],
+            "itemId": "156364273",
+            "skuId": "1085868285",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Hipro Motorbike Engine Flushing Oil - 700 ml (Refill)",
+            "nid": "231602813",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "231602813",
+                "scene_pre": "search",
+                "current_price": "300.00",
+                "x_sku_ids": "1174748863",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "231602813"
+            },
+            "productUrl": "//www.daraz.com.bd/products/hipro-700-ml-i231602813-s1174748863.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/67216e603513724ea6b86eb194cf0198.jpg",
+            "price": "300.00",
+            "promotionId": "null",
+            "priceShow": "৳ 300",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "231602813_BD-1174748863",
+            "sku": "231602813_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1041477",
+            "mainSellerId": "",
+            "sellerName": "Auto Choice",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/67216e603513724ea6b86eb194cf0198.jpg",
+                    "productUrl": "/products/hipro-700-ml-i231602813-s1174748863.html",
+                    "sku": "231602813_BD",
+                    "skuId": "1174748863"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001054
+            ],
+            "clickTrace": "query:;nid:231602813;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:231602813_BD;price:300.00;client:desktop;supplier_id:1041477;asc_category_id:10001054;item_id:231602813;sku_id:1174748863;shop_id:47220",
+            "addToCartSkus": [
+                {
+                    "sku": "231602813_BD-1174748863",
+                    "skuId": "1174748863",
+                    "count": 0
+                }
+            ],
+            "itemId": "231602813",
+            "skuId": "1174748863",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WD-40 Rust Remover Multi-Use Product 191ml (wd40 Rust Cleaner for car, home, Automotive, Office, garden, bicycle, motorcycle, kitchen, vehicle)",
+            "nid": "214247638",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "214247638",
+                "scene_pre": "search",
+                "current_price": "257",
+                "x_sku_ids": "1163298115",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "214247638"
+            },
+            "productUrl": "//www.daraz.com.bd/products/wd-40-191ml-wd40-i214247638-s1163298115.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a8e3f0bfc09c5a11880c78b4c911c15a.jpg",
+            "originalPrice": "320.00",
+            "originalPriceShow": "৳ 320",
+            "price": "257",
+            "promotionId": "null",
+            "priceShow": "৳ 257",
+            "discount": "-20%",
+            "ratingScore": "4.625",
+            "review": "8",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "214247638_BD-1163298115",
+            "sku": "214247638_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1016095",
+            "mainSellerId": "",
+            "sellerName": "Darun Online Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a8e3f0bfc09c5a11880c78b4c911c15a.jpg",
+                    "productUrl": "/products/wd-40-191ml-wd40-i214247638-s1163298115.html",
+                    "sku": "214247638_BD",
+                    "skuId": "1163298115"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001054
+            ],
+            "clickTrace": "query:;nid:214247638;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:214247638_BD;price:257;client:desktop;supplier_id:1016095;asc_category_id:10001054;item_id:214247638;sku_id:1163298115;shop_id:22380",
+            "addToCartSkus": [
+                {
+                    "sku": "214247638_BD-1163298115",
+                    "skuId": "1163298115",
+                    "count": 0
+                }
+            ],
+            "itemId": "214247638",
+            "skuId": "1163298115",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "RX Extreme Octane Booster & Carbon Cleaner 40 ml (8-pc)",
+            "nid": "221820030",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "221820030",
+                "scene_pre": "search",
+                "current_price": "485",
+                "x_sku_ids": "1168411886",
+                "SN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "x_ad": "1",
+                "x_object_id": "221820030"
+            },
+            "productUrl": "//www.daraz.com.bd/products/rx-40-ml-8-pc-i221820030-s1168411886.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/794d0c776c53184db8e10b095049416f.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "485",
+            "promotionId": "null",
+            "priceShow": "৳ 485",
+            "discount": "-3%",
+            "ratingScore": "4.66667",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "221820030_BD-1168411886",
+            "sku": "221820030_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1041477",
+            "mainSellerId": "",
+            "sellerName": "Auto Choice",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/794d0c776c53184db8e10b095049416f.jpg",
+                    "productUrl": "/products/rx-40-ml-8-pc-i221820030-s1168411886.html",
+                    "sku": "221820030_BD",
+                    "skuId": "1168411886"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3257,
+                10001050
+            ],
+            "clickTrace": "query:;nid:221820030;src:LazadaMainSrp;rn:e6bd1df7f49f0d5c0c5eab0b95436720;region:bd;sku:221820030_BD;price:485;client:desktop;supplier_id:1041477;asc_category_id:10001050;item_id:221820030;sku_id:1168411886;shop_id:47220",
+            "addToCartSkus": [
+                {
+                    "sku": "221820030_BD-1168411886",
+                    "skuId": "1168411886",
+                    "count": 0
+                }
+            ],
+            "itemId": "221820030",
+            "skuId": "1168411886",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/motors-vehicles/",
+            "title": "Motors"
+        },
+        {
+            "url": "/automotive/",
+            "title": "Automotive"
+        },
+        {
+            "url": "/oils-fluids/",
+            "title": "Auto Oils & Fluids"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/oils-fluids/?referer_rn=e6bd1df7f49f0d5c0c5eab0b95436720&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {},
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/engine-oils/?item_id=162952661&from=onesearch_category_3257",
+                "name": "Oils",
+                "image": "//static-01.daraz.com.bd/p/mdc/7b6585ce473861e8683fbadb0900fd5a.jpg",
+                "id": "10001057"
+            },
+            {
+                "url": "/car-treatment-lubricants/?item_id=211166409&from=onesearch_category_3257",
+                "name": "Additives",
+                "image": "//static-01.daraz.com.bd/p/bb77c3dc5aebd3714ceae11bef7dcefb.jpg",
+                "id": "10001050"
+            },
+            {
+                "url": "/automotive-cleaners/?item_id=204031403&from=onesearch_category_3257",
+                "name": "Cleaners",
+                "image": "//static-01.daraz.com.bd/p/0b973342e05ab3b7b456cde848eecf10.jpg",
+                "id": "10001054"
+            },
+            {
+                "url": "/car-care-lubricants/?item_id=208948750&from=onesearch_category_3257",
+                "name": "Greases & Lubricants",
+                "image": "//static-01.daraz.com.bd/p/93dea08b429bc1b79d43671feaa4fa17.jpg",
+                "id": "10001056"
+            },
+            {
+                "url": "/automotive-adhesives/?item_id=168414314&from=onesearch_category_3257",
+                "name": "Adhesives",
+                "image": "//static-01.daraz.com.bd/p/c54e9d817b33c3b3e3b05649bebe96d3.jpg",
+                "id": "10001052"
+            },
+            {
+                "url": "/automotive-antifreezes-coolants/?item_id=221407226&from=onesearch_category_3257",
+                "name": "Antifreezes & Coolants",
+                "image": "//static-01.daraz.com.bd/p/720cd643656dc65f6dace9fca49fd341.png",
+                "id": "10001051"
+            },
+            {
+                "url": "/gear-oil/?item_id=115014671&from=onesearch_category_3257",
+                "name": "Transmission Fluids",
+                "image": "//static-01.daraz.com.bd/p/e248d6ef568c94e4163efca3f9e3ec94.jpg",
+                "id": "10001062"
+            },
+            {
+                "url": "/brake-oil/?item_id=188542444&from=onesearch_category_3257",
+                "name": "Brake Fluids",
+                "image": "//static-01.daraz.com.bd/p/9f912f6472b2980b61ab40307f2ca653.jpg",
+                "id": "10001053"
+            },
+            {
+                "url": "/automotive-radiator-conditioners-protectants/?item_id=223369536&from=onesearch_category_3257",
+                "name": "Radiator Conditioners & Protectants",
+                "image": "//static-01.daraz.com.bd/p/667a4d35c65389c36fa4a96505a8ae77.jpg",
+                "id": "10001059"
+            },
+            {
+                "url": "/automotive-power-steering-fluids/?item_id=196300032&from=onesearch_category_3257",
+                "name": "Power Steering Fluids",
+                "image": "//static-01.daraz.com.bd/p/9d4f6b72c3865423290611bb0928f38d.jpg",
+                "id": "10001058"
+            },
+            {
+                "url": "/automotive-flushes/?item_id=208535108&from=onesearch_category_3257",
+                "name": "Flushes",
+                "image": "//static-01.daraz.com.bd/p/44629c9c844efd0b9b6bbf9032570d28.jpg",
+                "id": "10001055"
+            },
+            {
+                "url": "/automotive-windshield-washer-fluids/?item_id=180949218&from=onesearch_category_3257",
+                "name": "Windshield Washer Fluids",
+                "image": "//static-01.daraz.com.bd/p/f3f9482e81c99c7761c34b43ad075a0a.jpg",
+                "id": "10001063"
+            },
+            {
+                "url": "/automotive-refrigerants/?item_id=182944976&from=onesearch_category_3257",
+                "name": "Refrigerants",
+                "image": "//static-01.daraz.com.bd/p/fd39d03211954172fc06386684b04b3c.jpg",
+                "id": "10001060"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_3257"
+        },
+        "title": "",
+        "bizId": "onesearch_category_3257",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "3044 items found in {$0}",
+        "title": "Auto Oils & Fluids",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Auto Oils & Fluids"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Auto Oils & Fluids",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "3044",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "e6bd1df7f49f0d5c0c5eab0b95436720",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "3257",
+            "category": "3257"
+        },
+        "categoryRegionalKey": "120107000000",
+        "mainCategoryRegionalKey": "120000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "অটো তেল ও তরল at Best Price | 20% Off on Daraz | Buy Online",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Motors,Automotive,Auto Oils & Fluids",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "120107000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=3257&_p_asc_cateid=3257",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "oils-fluids",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "e6bd1df7f49f0d5c0c5eab0b95436720",
+                "resultNr": 3044,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1088206359",
+                "1161026181",
+                "1127040226"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "3257",
+            "category": "3257"
+        }
+    }
+}

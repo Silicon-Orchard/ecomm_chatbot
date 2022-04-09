@@ -1,0 +1,3908 @@
+{
+    "listItems": [
+        {
+            "name": "Ziko Brass Wound Guitar String",
+            "nid": "100119613",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "100119613",
+                "scene_pre": "search",
+                "current_price": "116",
+                "x_sku_ids": "1014009502",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "100119613"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i100119613-s1014009502.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/a5b838b69d074c9d2165624459a181f4.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "116",
+            "promotionId": "null",
+            "priceShow": "৳ 116",
+            "discount": "-42%",
+            "ratingScore": "4.73003",
+            "review": "889",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "100119613_BD-1014009502",
+            "sku": "100119613_BD",
+            "skus": [],
+            "description": [
+                "Model:DAG Series",
+                "Model: DAG-010, DAG-011",
+                "Material:Brass Wound",
+                "Package :Poly-bag"
+            ],
+            "brandId": "56398",
+            "brandName": "ZIKO",
+            "sellerId": "891",
+            "mainSellerId": "",
+            "sellerName": "Labu Flutes",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/a5b838b69d074c9d2165624459a181f4.jpg",
+                    "productUrl": "/products/-i100119613-s1014009502.html",
+                    "sku": "100119613_BD",
+                    "skuId": "1014009502"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3652,
+                3712,
+                3713
+            ],
+            "clickTrace": "query:;nid:100119613;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:100119613_BD;price:116;client:desktop;supplier_id:891;asc_category_id:3713;item_id:100119613;sku_id:1014009502;shop_id:1857",
+            "addToCartSkus": [
+                {
+                    "sku": "100119613_BD-1014009502",
+                    "skuId": "1014009502",
+                    "count": 0
+                }
+            ],
+            "itemId": "100119613",
+            "skuId": "1014009502",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Guitar & Ukulele Capo",
+            "nid": "209401329",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209401329",
+                "scene_pre": "search",
+                "current_price": "112",
+                "x_sku_ids": "1159639856",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "209401329"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i209401329-s1159639856.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/39e9cdb76fd6c97d7eb498b02ed0b46f.png",
+            "originalPrice": "130.00",
+            "originalPriceShow": "৳ 130",
+            "price": "112",
+            "promotionId": "null",
+            "priceShow": "৳ 112",
+            "discount": "-14%",
+            "ratingScore": "4.88235",
+            "review": "51",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209401329_BD-1159639856",
+            "sku": "209401329_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "124116462",
+            "brandName": "Kabat",
+            "sellerId": "700508784048",
+            "mainSellerId": "",
+            "sellerName": "Guitar Mela",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/39e9cdb76fd6c97d7eb498b02ed0b46f.png",
+                    "productUrl": "/products/-i209401329-s1159639856.html",
+                    "sku": "209401329_BD",
+                    "skuId": "1159639856"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3652,
+                3656,
+                3662
+            ],
+            "clickTrace": "query:;nid:209401329;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:209401329_BD;price:112;client:desktop;supplier_id:700508784048;asc_category_id:3662;item_id:209401329;sku_id:1159639856;shop_id:184616",
+            "addToCartSkus": [
+                {
+                    "sku": "209401329_BD-1159639856",
+                    "skuId": "1159639856",
+                    "count": 0
+                }
+            ],
+            "itemId": "209401329",
+            "skuId": "1159639856",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Acoustic Guitar Capo",
+            "nid": "191996001",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "191996001",
+                "scene_pre": "search",
+                "current_price": "147",
+                "x_sku_ids": "1138854940",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "191996001"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i191996001-s1138854940.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7c774d9b0bbc78b6210604530ce129eb.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "147",
+            "promotionId": "null",
+            "priceShow": "৳ 147",
+            "discount": "-27%",
+            "ratingScore": "4.40625",
+            "review": "32",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "191996001_BD-1138854940",
+            "sku": "191996001_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "124116462",
+            "brandName": "Kabat",
+            "sellerId": "700508784048",
+            "mainSellerId": "",
+            "sellerName": "Guitar Mela",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7c774d9b0bbc78b6210604530ce129eb.jpg",
+                    "productUrl": "/products/-i191996001-s1138854940.html",
+                    "sku": "191996001_BD",
+                    "skuId": "1138854940"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3652,
+                3656,
+                3662
+            ],
+            "clickTrace": "query:;nid:191996001;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:191996001_BD;price:147;client:desktop;supplier_id:700508784048;asc_category_id:3662;item_id:191996001;sku_id:1138854940;shop_id:184616",
+            "addToCartSkus": [
+                {
+                    "sku": "191996001_BD-1138854940",
+                    "skuId": "1138854940",
+                    "count": 0
+                }
+            ],
+            "itemId": "191996001",
+            "skuId": "1138854940",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Alice A306 acoustic acoustic guitar string",
+            "nid": "100122663",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "100122663",
+                "scene_pre": "search",
+                "current_price": "123",
+                "x_sku_ids": "1014009507",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "100122663"
+            },
+            "productUrl": "//www.daraz.com.bd/products/a306-i100122663-s1014009507.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/db1c497b08b50296a265fc3e01edd8cf.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "123",
+            "promotionId": "null",
+            "priceShow": "৳ 123",
+            "discount": "-39%",
+            "ratingScore": "4.75669",
+            "review": "411",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "100122663_BD-1014009507",
+            "sku": "100122663_BD",
+            "skus": [],
+            "description": [
+                "Stainless Steel",
+                "Steel Core",
+                "Silver-Plated Copper Alloy Wound",
+                "Plastic Bag"
+            ],
+            "brandId": "41453",
+            "brandName": "Alice",
+            "sellerId": "891",
+            "mainSellerId": "",
+            "sellerName": "Labu Flutes",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/db1c497b08b50296a265fc3e01edd8cf.jpg",
+                    "productUrl": "/products/a306-i100122663-s1014009507.html",
+                    "sku": "100122663_BD",
+                    "skuId": "1014009507"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3652,
+                3712,
+                3713
+            ],
+            "clickTrace": "query:;nid:100122663;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:100122663_BD;price:123;client:desktop;supplier_id:891;asc_category_id:3713;item_id:100122663;sku_id:1014009507;shop_id:1857",
+            "addToCartSkus": [
+                {
+                    "sku": "100122663_BD-1014009507",
+                    "skuId": "1014009507",
+                    "count": 0
+                }
+            ],
+            "itemId": "100122663",
+            "skuId": "1014009507",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cambridge IELTS Academic (9-16) Set - Self Study Student's Book (Without CD)",
+            "nid": "213987828",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "213987828",
+                "scene_pre": "search",
+                "current_price": "279",
+                "x_sku_ids": "1163119434",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "213987828"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cambridge-ielts-academic-9-16-set-self-study-students-book-without-cd-i213987828-s1163119434.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6cbedc6568e0afecaaffe95b25fcc2f7.jpg",
+            "originalPrice": "305.00",
+            "originalPriceShow": "৳ 305",
+            "price": "279",
+            "promotionId": "null",
+            "priceShow": "৳ 279",
+            "discount": "-9%",
+            "ratingScore": "4.7037",
+            "review": "27",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "213987828_BD-1163119434",
+            "sku": "213987828_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508361405",
+            "mainSellerId": "",
+            "sellerName": "The Last Book Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6cbedc6568e0afecaaffe95b25fcc2f7.jpg",
+                    "productUrl": "/products/cambridge-ielts-academic-9-16-set-self-study-students-book-without-cd-i213987828-s1163119434.html",
+                    "sku": "213987828_BD",
+                    "skuId": "1163119434"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3427
+            ],
+            "clickTrace": "query:;nid:213987828;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:213987828_BD;price:279;client:desktop;supplier_id:700508361405;asc_category_id:3427;item_id:213987828;sku_id:1163119434;shop_id:151110",
+            "addToCartSkus": [
+                {
+                    "sku": "213987828_BD-1163119434",
+                    "skuId": "1163119434",
+                    "count": 0
+                }
+            ],
+            "itemId": "213987828",
+            "skuId": "1163119434",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "The Alchemist (quality print) : Paulo Coelho",
+            "nid": "111042896",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "111042896",
+                "scene_pre": "search",
+                "current_price": "79",
+                "x_sku_ids": "1028054082",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "111042896"
+            },
+            "productUrl": "//www.daraz.com.bd/products/the-alchemist-white-print-paulo-coelho-i111042896-s1028054082.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d4fc5b79c6258fe1816b98995bb5dd09.jpg",
+            "originalPrice": "220.00",
+            "originalPriceShow": "৳ 220",
+            "price": "79",
+            "promotionId": "null",
+            "priceShow": "৳ 79",
+            "discount": "-64%",
+            "ratingScore": "4.90344",
+            "review": "611",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "111042896_BD-1028054082",
+            "sku": "111042896_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1008413",
+            "mainSellerId": "",
+            "sellerName": "Dot Books",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d4fc5b79c6258fe1816b98995bb5dd09.jpg",
+                    "productUrl": "/products/the-alchemist-white-print-paulo-coelho-i111042896-s1028054082.html",
+                    "sku": "111042896_BD",
+                    "skuId": "1028054082"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3442
+            ],
+            "clickTrace": "query:;nid:111042896;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:111042896_BD;price:79;client:desktop;supplier_id:1008413;asc_category_id:3442;item_id:111042896;sku_id:1028054082;shop_id:14651",
+            "addToCartSkus": [
+                {
+                    "sku": "111042896_BD-1028054082",
+                    "skuId": "1028054082",
+                    "count": 0
+                }
+            ],
+            "itemId": "111042896",
+            "skuId": "1028054082",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mans Search for Meaning - White Print",
+            "nid": "125666565",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "125666565",
+                "scene_pre": "search",
+                "current_price": "119",
+                "x_sku_ids": "1045810259",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "125666565"
+            },
+            "productUrl": "//www.daraz.com.bd/products/mans-search-for-meaning-white-print-i125666565-s1045810259.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d10f9fad9b30914ccbb1132a548a1f98.jpg",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "119",
+            "promotionId": "null",
+            "priceShow": "৳ 119",
+            "discount": "-34%",
+            "ratingScore": "4.96078",
+            "review": "102",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "125666565_BD-1045810259",
+            "sku": "125666565_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1008413",
+            "mainSellerId": "",
+            "sellerName": "Dot Books",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d10f9fad9b30914ccbb1132a548a1f98.jpg",
+                    "productUrl": "/products/mans-search-for-meaning-white-print-i125666565-s1045810259.html",
+                    "sku": "125666565_BD",
+                    "skuId": "1045810259"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3441
+            ],
+            "clickTrace": "query:;nid:125666565;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:125666565_BD;price:119;client:desktop;supplier_id:1008413;asc_category_id:3441;item_id:125666565;sku_id:1045810259;shop_id:14651",
+            "addToCartSkus": [
+                {
+                    "sku": "125666565_BD-1045810259",
+                    "skuId": "1045810259",
+                    "count": 0
+                }
+            ],
+            "itemId": "125666565",
+            "skuId": "1045810259",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Makkar IELTS Speaking 2022 (JAN-APR)",
+            "nid": "213980802",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "213980802",
+                "scene_pre": "search",
+                "current_price": "92",
+                "x_sku_ids": "1163107865",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "213980802"
+            },
+            "productUrl": "//www.daraz.com.bd/products/makkar-ielts-speaking-2022-jan-apr-i213980802-s1163107865.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/dc48c525c15c44d78ddcbc94c9c683cc.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "92",
+            "promotionId": "null",
+            "priceShow": "৳ 92",
+            "discount": "-39%",
+            "ratingScore": "4.73913",
+            "review": "23",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "213980802_BD-1163107865",
+            "sku": "213980802_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507659123",
+            "mainSellerId": "",
+            "sellerName": "Student's Choice",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/dc48c525c15c44d78ddcbc94c9c683cc.jpg",
+                    "productUrl": "/products/makkar-ielts-speaking-2022-jan-apr-i213980802-s1163107865.html",
+                    "sku": "213980802_BD",
+                    "skuId": "1163107865"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3427
+            ],
+            "clickTrace": "query:;nid:213980802;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:213980802_BD;price:92;client:desktop;supplier_id:700507659123;asc_category_id:3427;item_id:213980802;sku_id:1163107865;shop_id:102952",
+            "addToCartSkus": [
+                {
+                    "sku": "213980802_BD-1163107865",
+                    "skuId": "1163107865",
+                    "count": 0
+                }
+            ],
+            "itemId": "213980802",
+            "skuId": "1163107865",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cambridge IELTS 11-16 (Academic) with D.V.D",
+            "nid": "149712489",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "149712489",
+                "scene_pre": "search",
+                "current_price": "265",
+                "x_sku_ids": "1076078928",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "149712489"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cambridge-ielts-11-16-academic-with-dvd-i149712489-s1076078928.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/423a4fdce979257d7b4aa171261ed9d8.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "265",
+            "promotionId": "null",
+            "priceShow": "৳ 265",
+            "discount": "-41%",
+            "ratingScore": "4.78102",
+            "review": "137",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "149712489_BD-1076078928",
+            "sku": "149712489_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507659123",
+            "mainSellerId": "",
+            "sellerName": "Student's Choice",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/423a4fdce979257d7b4aa171261ed9d8.jpg",
+                    "productUrl": "/products/cambridge-ielts-11-16-academic-with-dvd-i149712489-s1076078928.html",
+                    "sku": "149712489_BD",
+                    "skuId": "1076078928"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3427
+            ],
+            "clickTrace": "query:;nid:149712489;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:149712489_BD;price:265;client:desktop;supplier_id:700507659123;asc_category_id:3427;item_id:149712489;sku_id:1076078928;shop_id:102952",
+            "addToCartSkus": [
+                {
+                    "sku": "149712489_BD-1076078928",
+                    "skuId": "1076078928",
+                    "count": 0
+                }
+            ],
+            "itemId": "149712489",
+            "skuId": "1076078928",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Eat That Frog (Third Edition)",
+            "nid": "101320194",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101320194",
+                "scene_pre": "search",
+                "current_price": "98",
+                "x_sku_ids": "1015302900",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "101320194"
+            },
+            "productUrl": "//www.daraz.com.bd/products/eat-that-frog-third-edition-i101320194-s1015302900.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/79704a7bb89ee4254b288310ff958d16.jpg",
+            "originalPrice": "155.00",
+            "originalPriceShow": "৳ 155",
+            "price": "98",
+            "promotionId": "null",
+            "priceShow": "৳ 98",
+            "discount": "-37%",
+            "ratingScore": "4.92245",
+            "review": "245",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101320194_BD-1015302900",
+            "sku": "101320194_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1008413",
+            "mainSellerId": "",
+            "sellerName": "Dot Books",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/79704a7bb89ee4254b288310ff958d16.jpg",
+                    "productUrl": "/products/eat-that-frog-third-edition-i101320194-s1015302900.html",
+                    "sku": "101320194_BD",
+                    "skuId": "1015302900"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3441
+            ],
+            "clickTrace": "query:;nid:101320194;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:101320194_BD;price:98;client:desktop;supplier_id:1008413;asc_category_id:3441;item_id:101320194;sku_id:1015302900;shop_id:14651",
+            "addToCartSkus": [
+                {
+                    "sku": "101320194_BD-1015302900",
+                    "skuId": "1015302900",
+                    "count": 0
+                }
+            ],
+            "itemId": "101320194",
+            "skuId": "1015302900",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "The art of thinking Clearly",
+            "nid": "184577667",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184577667",
+                "scene_pre": "search",
+                "current_price": "96",
+                "x_sku_ids": "1129680402",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "184577667"
+            },
+            "productUrl": "//www.daraz.com.bd/products/the-art-of-thinking-clearly-i184577667-s1129680402.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/a160f52d10e76e40aa43103e021ab677.png",
+            "originalPrice": "199.00",
+            "originalPriceShow": "৳ 199",
+            "price": "96",
+            "promotionId": "null",
+            "priceShow": "৳ 96",
+            "discount": "-52%",
+            "ratingScore": "4.69355",
+            "review": "62",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184577667_BD-1129680402",
+            "sku": "184577667_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508331309",
+            "mainSellerId": "",
+            "sellerName": "BookBarns Publications",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/a160f52d10e76e40aa43103e021ab677.png",
+                    "productUrl": "/products/the-art-of-thinking-clearly-i184577667-s1129680402.html",
+                    "sku": "184577667_BD",
+                    "skuId": "1129680402"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3441
+            ],
+            "clickTrace": "query:;nid:184577667;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:184577667_BD;price:96;client:desktop;supplier_id:700508331309;asc_category_id:3441;item_id:184577667;sku_id:1129680402;shop_id:148437",
+            "addToCartSkus": [
+                {
+                    "sku": "184577667_BD-1129680402",
+                    "skuId": "1129680402",
+                    "count": 0
+                }
+            ],
+            "itemId": "184577667",
+            "skuId": "1129680402",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Steal Like an Artist: 10 Things Nobody Told You About Being Creative",
+            "nid": "210040645",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "210040645",
+                "scene_pre": "search",
+                "current_price": "137",
+                "x_sku_ids": "1160202437",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "210040645"
+            },
+            "productUrl": "//www.daraz.com.bd/products/steal-like-an-artist-10-things-nobody-told-you-about-being-creative-i210040645-s1160202437.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c82fe5151b0c4616f758016eeb79f5ab.jpg",
+            "originalPrice": "188.00",
+            "originalPriceShow": "৳ 188",
+            "price": "137",
+            "promotionId": "null",
+            "priceShow": "৳ 137",
+            "discount": "-27%",
+            "ratingScore": "4.48649",
+            "review": "37",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "210040645_BD-1160202437",
+            "sku": "210040645_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508541069",
+            "mainSellerId": "",
+            "sellerName": "Book Palace",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c82fe5151b0c4616f758016eeb79f5ab.jpg",
+                    "productUrl": "/products/steal-like-an-artist-10-things-nobody-told-you-about-being-creative-i210040645-s1160202437.html",
+                    "sku": "210040645_BD",
+                    "skuId": "1160202437"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3441
+            ],
+            "clickTrace": "query:;nid:210040645;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:210040645_BD;price:137;client:desktop;supplier_id:700508541069;asc_category_id:3441;item_id:210040645;sku_id:1160202437;shop_id:165365",
+            "addToCartSkus": [
+                {
+                    "sku": "210040645_BD-1160202437",
+                    "skuId": "1160202437",
+                    "count": 0
+                }
+            ],
+            "itemId": "210040645",
+            "skuId": "1160202437",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "নফসের বিরুদ্ধে লড়াই  by মাহমুদ বিন নূর - Nofser Biruddhe Lorai by Mahmud Bin Noor",
+            "nid": "188916765",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "188916765",
+                "scene_pre": "search",
+                "current_price": "137",
+                "x_sku_ids": "1136658268",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "188916765"
+            },
+            "productUrl": "//www.daraz.com.bd/products/by-nofser-biruddhe-lorai-by-mahmud-bin-noor-i188916765-s1136658268.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a2def7b007b727e9a784cecb3551675f.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "137",
+            "promotionId": "null",
+            "priceShow": "৳ 137",
+            "discount": "-32%",
+            "ratingScore": "4.90741",
+            "review": "54",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "188916765_BD-1136658268",
+            "sku": "188916765_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1000557",
+            "mainSellerId": "",
+            "sellerName": "Amar Priyo Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a2def7b007b727e9a784cecb3551675f.jpg",
+                    "productUrl": "/products/by-nofser-biruddhe-lorai-by-mahmud-bin-noor-i188916765-s1136658268.html",
+                    "sku": "188916765_BD",
+                    "skuId": "1136658268"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3376,
+                3387
+            ],
+            "clickTrace": "query:;nid:188916765;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:188916765_BD;price:137;client:desktop;supplier_id:1000557;asc_category_id:3387;item_id:188916765;sku_id:1136658268;shop_id:6035",
+            "addToCartSkus": [
+                {
+                    "sku": "188916765_BD-1136658268",
+                    "skuId": "1136658268",
+                    "count": 0
+                }
+            ],
+            "itemId": "188916765",
+            "skuId": "1136658268",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Who Moved My Cheese By Johnson Spencer",
+            "nid": "105952381",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "105952381",
+                "scene_pre": "search",
+                "current_price": "90",
+                "x_sku_ids": "1020884283",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "105952381"
+            },
+            "productUrl": "//www.daraz.com.bd/products/who-moved-my-cheese-by-johnson-spencer-i105952381-s1020884283.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/a4025718029a5a249ae4f2e572119a49.jpg",
+            "originalPrice": "129.00",
+            "originalPriceShow": "৳ 129",
+            "price": "90",
+            "promotionId": "null",
+            "priceShow": "৳ 90",
+            "discount": "-30%",
+            "ratingScore": "4.84737",
+            "review": "190",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "105952381_BD-1020884283",
+            "sku": "105952381_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1008413",
+            "mainSellerId": "",
+            "sellerName": "Dot Books",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/a4025718029a5a249ae4f2e572119a49.jpg",
+                    "productUrl": "/products/who-moved-my-cheese-by-johnson-spencer-i105952381-s1020884283.html",
+                    "sku": "105952381_BD",
+                    "skuId": "1020884283"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3441
+            ],
+            "clickTrace": "query:;nid:105952381;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:105952381_BD;price:90;client:desktop;supplier_id:1008413;asc_category_id:3441;item_id:105952381;sku_id:1020884283;shop_id:14651",
+            "addToCartSkus": [
+                {
+                    "sku": "105952381_BD-1020884283",
+                    "skuId": "1020884283",
+                    "count": 0
+                }
+            ],
+            "itemId": "105952381",
+            "skuId": "1020884283",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ikigai: The Japanese Secret to a Long and Happy Life",
+            "nid": "183749149",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183749149",
+                "scene_pre": "search",
+                "current_price": "101",
+                "x_sku_ids": "1128246483",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "183749149"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ikigai-the-japanese-secret-to-a-long-and-happy-life-i183749149-s1128246483.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/6888af986a23a6c1ebbb3698b6042e07.jpg",
+            "originalPrice": "199.00",
+            "originalPriceShow": "৳ 199",
+            "price": "101",
+            "promotionId": "null",
+            "priceShow": "৳ 101",
+            "discount": "-49%",
+            "ratingScore": "4.86207",
+            "review": "58",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183749149_BD-1128246483",
+            "sku": "183749149_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508331309",
+            "mainSellerId": "",
+            "sellerName": "BookBarns Publications",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/6888af986a23a6c1ebbb3698b6042e07.jpg",
+                    "productUrl": "/products/ikigai-the-japanese-secret-to-a-long-and-happy-life-i183749149-s1128246483.html",
+                    "sku": "183749149_BD",
+                    "skuId": "1128246483"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3441
+            ],
+            "clickTrace": "query:;nid:183749149;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:183749149_BD;price:101;client:desktop;supplier_id:700508331309;asc_category_id:3441;item_id:183749149;sku_id:1128246483;shop_id:148437",
+            "addToCartSkus": [
+                {
+                    "sku": "183749149_BD-1128246483",
+                    "skuId": "1128246483",
+                    "count": 0
+                }
+            ],
+            "itemId": "183749149",
+            "skuId": "1128246483",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Electric Guitar Strings - 1 Set",
+            "nid": "692429",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "503000",
+                "scene_pre": "search",
+                "current_price": "109",
+                "x_sku_ids": "1027052130",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "503000"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i503000-s1027052130.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/aa549a5f13c77c73dca9e3196bd16b67.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "109",
+            "promotionId": "null",
+            "priceShow": "৳ 109",
+            "discount": "-46%",
+            "ratingScore": "4.55279",
+            "review": "161",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "503000_BD-1027052130",
+            "sku": "503000_BD",
+            "skus": [],
+            "description": [
+                "Fit for regular size of the electric guitar greatly.",
+                "2 strings in Stainless Steel; 4 strings in Steel Core with Coated Copper Alloy Wound.",
+                "E string -1st Stainless Steel .010\" 0.25mm; B string -2nd Stainless Steel .013\" 0.33mm.",
+                "G string -3rd Coated Copper Alloy Wound .017\" 0.43mm",
+                "D string -4th Coated Copper Alloy Wound .026\" 0.66mm;",
+                "A string -5th Coated Copper Alloy Wound .036\" 0.91mm;",
+                "E string -6th Coated Copper Alloy Wound .046\" 1.17mm.",
+                "Package including: 1 set electric guitar strings."
+            ],
+            "brandId": "200588",
+            "brandName": "Doeel",
+            "sellerId": "4493",
+            "mainSellerId": "",
+            "sellerName": "Doeel Guitar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/aa549a5f13c77c73dca9e3196bd16b67.jpg",
+                    "productUrl": "/products/1-i503000-s1027052130.html",
+                    "sku": "503000_BD",
+                    "skuId": "1027052130"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3652,
+                3712,
+                3722
+            ],
+            "clickTrace": "query:;nid:692429;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:503000_BD;price:109;client:desktop;supplier_id:4493;asc_category_id:3722;item_id:503000;sku_id:1027052130;shop_id:4557",
+            "addToCartSkus": [
+                {
+                    "sku": "503000_BD-1027052130",
+                    "skuId": "1027052130",
+                    "count": 0
+                }
+            ],
+            "itemId": "503000",
+            "skuId": "1027052130",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Atomic Habits",
+            "nid": "184552271",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184552271",
+                "scene_pre": "search",
+                "current_price": "101",
+                "x_sku_ids": "1129613937",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "184552271"
+            },
+            "productUrl": "//www.daraz.com.bd/products/atomic-habits-i184552271-s1129613937.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/6dd9388504adeb9f4bce03fcf6584e72.jpg",
+            "originalPrice": "221.00",
+            "originalPriceShow": "৳ 221",
+            "price": "101",
+            "promotionId": "null",
+            "priceShow": "৳ 101",
+            "discount": "-54%",
+            "ratingScore": "4.71212",
+            "review": "66",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184552271_BD-1129613937",
+            "sku": "184552271_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508331309",
+            "mainSellerId": "",
+            "sellerName": "BookBarns Publications",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/6dd9388504adeb9f4bce03fcf6584e72.jpg",
+                    "productUrl": "/products/atomic-habits-i184552271-s1129613937.html",
+                    "sku": "184552271_BD",
+                    "skuId": "1129613937"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3441
+            ],
+            "clickTrace": "query:;nid:184552271;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:184552271_BD;price:101;client:desktop;supplier_id:700508331309;asc_category_id:3441;item_id:184552271;sku_id:1129613937;shop_id:148437",
+            "addToCartSkus": [
+                {
+                    "sku": "184552271_BD-1129613937",
+                    "skuId": "1129613937",
+                    "count": 0
+                }
+            ],
+            "itemId": "184552271",
+            "skuId": "1129613937",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Orphee TX620 Acoustic Guitar Strings",
+            "nid": "170478423",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "170478423",
+                "scene_pre": "search",
+                "current_price": "121",
+                "x_sku_ids": "1105612184",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "170478423"
+            },
+            "productUrl": "//www.daraz.com.bd/products/orphee-tx620-i170478423-s1105612184.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/979b40f37532088ec24c5ceb75becfcb.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "121",
+            "promotionId": "null",
+            "priceShow": "৳ 121",
+            "discount": "-52%",
+            "ratingScore": "4.82418",
+            "review": "91",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "170478423_BD-1105612184",
+            "sku": "170478423_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "59306",
+            "brandName": "Orphee",
+            "sellerId": "891",
+            "mainSellerId": "",
+            "sellerName": "Labu Flutes",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/979b40f37532088ec24c5ceb75becfcb.jpg",
+                    "productUrl": "/products/orphee-tx620-i170478423-s1105612184.html",
+                    "sku": "170478423_BD",
+                    "skuId": "1105612184"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3652,
+                3712,
+                3713
+            ],
+            "clickTrace": "query:;nid:170478423;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:170478423_BD;price:121;client:desktop;supplier_id:891;asc_category_id:3713;item_id:170478423;sku_id:1105612184;shop_id:1857",
+            "addToCartSkus": [
+                {
+                    "sku": "170478423_BD-1105612184",
+                    "skuId": "1105612184",
+                    "count": 0
+                }
+            ],
+            "itemId": "170478423",
+            "skuId": "1105612184",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Alice E B G D A E 6-Strings Light Acoustic Guitar Strings",
+            "nid": "158838223",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "158838223",
+                "scene_pre": "search",
+                "current_price": "98",
+                "x_sku_ids": "1138478930",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "158838223"
+            },
+            "productUrl": "//www.daraz.com.bd/products/alice-e-b-g-d-a-e-6-i158838223-s1138478930.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/142fe3b6177783f845aed20f61335679.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "98",
+            "promotionId": "null",
+            "priceShow": "৳ 98",
+            "discount": "-76%",
+            "ratingScore": "4.49123",
+            "review": "57",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "158838223_BD-1138478930",
+            "sku": "158838223_BD",
+            "skus": [],
+            "description": [
+                "Brand Name: Alice",
+                "Type: Strings",
+                "Model Number: A206",
+                "Product Name: Alice Acoustic Guitar String",
+                "Color: Silver, phosphor bronze",
+                "Size:.011 .015 .024 .032 .042 .052 inch",
+                "Tone:1E 2B 3G 4D 5A 6E",
+                "String Material:Stainless Steel"
+            ],
+            "brandId": "41453",
+            "brandName": "Alice",
+            "sellerId": "700506372009",
+            "mainSellerId": "",
+            "sellerName": "Music Mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/142fe3b6177783f845aed20f61335679.jpg",
+                    "productUrl": "/products/alice-e-b-g-d-a-e-6-i158838223-s1138478930.html",
+                    "sku": "158838223_BD",
+                    "skuId": "1138478930"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3652,
+                3712,
+                3713
+            ],
+            "clickTrace": "query:;nid:158838223;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:158838223_BD;price:98;client:desktop;supplier_id:700506372009;asc_category_id:3713;item_id:158838223;sku_id:1138478930;shop_id:72054",
+            "addToCartSkus": [
+                {
+                    "sku": "158838223_BD-1138478930",
+                    "skuId": "1138478930",
+                    "count": 0
+                }
+            ],
+            "itemId": "158838223",
+            "skuId": "1138478930",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Orphee TX630 Acoustic Guitar Strings",
+            "nid": "131488798",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "131488798",
+                "scene_pre": "search",
+                "current_price": "119",
+                "x_sku_ids": "1051682205",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "131488798"
+            },
+            "productUrl": "//www.daraz.com.bd/products/orphee-tx630-i131488798-s1051682205.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/51ad5a38526e4042cfa822bc55ba54f8.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "119",
+            "promotionId": "null",
+            "priceShow": "৳ 119",
+            "discount": "-52%",
+            "ratingScore": "4.77193",
+            "review": "114",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "131488798_BD-1051682205",
+            "sku": "131488798_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "59306",
+            "brandName": "Orphee",
+            "sellerId": "891",
+            "mainSellerId": "",
+            "sellerName": "Labu Flutes",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/51ad5a38526e4042cfa822bc55ba54f8.jpg",
+                    "productUrl": "/products/orphee-tx630-i131488798-s1051682205.html",
+                    "sku": "131488798_BD",
+                    "skuId": "1051682205"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3652,
+                3712,
+                3713
+            ],
+            "clickTrace": "query:;nid:131488798;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:131488798_BD;price:119;client:desktop;supplier_id:891;asc_category_id:3713;item_id:131488798;sku_id:1051682205;shop_id:1857",
+            "addToCartSkus": [
+                {
+                    "sku": "131488798_BD-1051682205",
+                    "skuId": "1051682205",
+                    "count": 0
+                }
+            ],
+            "itemId": "131488798",
+            "skuId": "1051682205",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "1 Piece Guitar and Ukulele Stand Wall Mount Hanger Hook Guitar Holder",
+            "nid": "165990527",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "165990527",
+                "scene_pre": "search",
+                "current_price": "179",
+                "x_sku_ids": "1099518343",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "165990527"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-piece-guitar-stand-wall-mount-hanger-hook-guitar-holder-i165990527-s1099518343.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/4f702d93ea3780aa8b6c94fce8af5b61.png",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "179",
+            "promotionId": "null",
+            "priceShow": "৳ 179",
+            "discount": "-72%",
+            "ratingScore": "4.69048",
+            "review": "84",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "165990527_BD-1099518343",
+            "sku": "165990527_BD",
+            "skus": [],
+            "description": [
+                "Material: metal &amp; sponge",
+                "Color: black",
+                "Size: 133*35*67mm"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506372009",
+            "mainSellerId": "",
+            "sellerName": "Music Mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/4f702d93ea3780aa8b6c94fce8af5b61.png",
+                    "productUrl": "/products/1-piece-guitar-stand-wall-mount-hanger-hook-guitar-holder-i165990527-s1099518343.html",
+                    "sku": "165990527_BD",
+                    "skuId": "1099518343"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3652,
+                3656,
+                3662
+            ],
+            "clickTrace": "query:;nid:165990527;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:165990527_BD;price:179;client:desktop;supplier_id:700506372009;asc_category_id:3662;item_id:165990527;sku_id:1099518343;shop_id:72054",
+            "addToCartSkus": [
+                {
+                    "sku": "165990527_BD-1099518343",
+                    "skuId": "1099518343",
+                    "count": 0
+                }
+            ],
+            "itemId": "165990527",
+            "skuId": "1099518343",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nurani Kaida",
+            "nid": "225710189",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225710189",
+                "scene_pre": "search",
+                "current_price": "9",
+                "x_sku_ids": "1170710583",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "225710189"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nurani-kaida-i225710189-s1170710583.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ded05bbf731a0aa121c9329dfac9ad5d.jpg",
+            "originalPrice": "10.00",
+            "originalPriceShow": "৳ 10",
+            "price": "9",
+            "promotionId": "null",
+            "priceShow": "৳ 9",
+            "discount": "-10%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225710189_BD-1170710583",
+            "sku": "225710189_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506570015",
+            "mainSellerId": "",
+            "sellerName": "Ideal B2B Bazar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ded05bbf731a0aa121c9329dfac9ad5d.jpg",
+                    "productUrl": "/products/nurani-kaida-i225710189-s1170710583.html",
+                    "sku": "225710189_BD",
+                    "skuId": "1170710583"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3376,
+                3387
+            ],
+            "clickTrace": "query:;nid:225710189;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:225710189_BD;price:9;client:desktop;supplier_id:700506570015;asc_category_id:3387;item_id:225710189;sku_id:1170710583;shop_id:81038",
+            "addToCartSkus": [
+                {
+                    "sku": "225710189_BD-1170710583",
+                    "skuId": "1170710583",
+                    "count": 0
+                }
+            ],
+            "itemId": "225710189",
+            "skuId": "1170710583",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+            "nid": "182274739",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "182274739",
+                "scene_pre": "search",
+                "current_price": "104",
+                "x_sku_ids": "1125739843",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "182274739"
+            },
+            "productUrl": "//www.daraz.com.bd/products/the-7-habits-of-highly-effective-people-powerful-lessons-in-personal-change-i182274739-s1125739843.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/8fc14aa39b8aa5b87537975b61ac95e4.jpg",
+            "originalPrice": "259.00",
+            "originalPriceShow": "৳ 259",
+            "price": "104",
+            "promotionId": "null",
+            "priceShow": "৳ 104",
+            "discount": "-60%",
+            "ratingScore": "4.84848",
+            "review": "33",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "182274739_BD-1125739843",
+            "sku": "182274739_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508331309",
+            "mainSellerId": "",
+            "sellerName": "BookBarns Publications",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/8fc14aa39b8aa5b87537975b61ac95e4.jpg",
+                    "productUrl": "/products/the-7-habits-of-highly-effective-people-powerful-lessons-in-personal-change-i182274739-s1125739843.html",
+                    "sku": "182274739_BD",
+                    "skuId": "1125739843"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3441
+            ],
+            "clickTrace": "query:;nid:182274739;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:182274739_BD;price:104;client:desktop;supplier_id:700508331309;asc_category_id:3441;item_id:182274739;sku_id:1125739843;shop_id:148437",
+            "addToCartSkus": [
+                {
+                    "sku": "182274739_BD-1125739843",
+                    "skuId": "1125739843",
+                    "count": 0
+                }
+            ],
+            "itemId": "182274739",
+            "skuId": "1125739843",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "ZIKO DAG 011 Wound Acoustic Guitar String",
+            "nid": "100124681",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "100124681",
+                "scene_pre": "search",
+                "current_price": "107",
+                "x_sku_ids": "1014010520",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "100124681"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ziko-dag-011-i100124681-s1014010520.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/29b829cce1c9249ac4ad01d43d068bc3.jpg",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "107",
+            "promotionId": "null",
+            "priceShow": "৳ 107",
+            "discount": "-41%",
+            "ratingScore": "4.54167",
+            "review": "72",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "100124681_BD-1014010520",
+            "sku": "100124681_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "56398",
+            "brandName": "ZIKO",
+            "sellerId": "891",
+            "mainSellerId": "",
+            "sellerName": "Labu Flutes",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/29b829cce1c9249ac4ad01d43d068bc3.jpg",
+                    "productUrl": "/products/ziko-dag-011-i100124681-s1014010520.html",
+                    "sku": "100124681_BD",
+                    "skuId": "1014010520"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3652,
+                3712,
+                3713
+            ],
+            "clickTrace": "query:;nid:100124681;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:100124681_BD;price:107;client:desktop;supplier_id:891;asc_category_id:3713;item_id:100124681;sku_id:1014010520;shop_id:1857",
+            "addToCartSkus": [
+                {
+                    "sku": "100124681_BD-1014010520",
+                    "skuId": "1014010520",
+                    "count": 0
+                }
+            ],
+            "itemId": "100124681",
+            "skuId": "1014010520",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Atomic Habits : An Easy and Proven Way to Build Good Habits and Break Bad Ones",
+            "nid": "121117747",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "121117747",
+                "scene_pre": "search",
+                "current_price": "168.00",
+                "x_sku_ids": "1040722286",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "121117747"
+            },
+            "productUrl": "//www.daraz.com.bd/products/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones-i121117747-s1040722286.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fe04292aa558bf0c4fdeb40a12f568dc.jpg",
+            "originalPrice": "199.00",
+            "originalPriceShow": "৳ 199",
+            "price": "168.00",
+            "promotionId": "null",
+            "priceShow": "৳ 168",
+            "discount": "-16%",
+            "ratingScore": "4.90708",
+            "review": "226",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "121117747_BD-1040722286",
+            "sku": "121117747_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1008413",
+            "mainSellerId": "",
+            "sellerName": "Dot Books",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fe04292aa558bf0c4fdeb40a12f568dc.jpg",
+                    "productUrl": "/products/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones-i121117747-s1040722286.html",
+                    "sku": "121117747_BD",
+                    "skuId": "1040722286"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3441
+            ],
+            "clickTrace": "query:;nid:121117747;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:121117747_BD;price:168.00;client:desktop;supplier_id:1008413;asc_category_id:3441;item_id:121117747;sku_id:1040722286;shop_id:14651",
+            "addToCartSkus": [
+                {
+                    "sku": "121117747_BD-1040722286",
+                    "skuId": "1040722286",
+                    "count": 0
+                }
+            ],
+            "itemId": "121117747",
+            "skuId": "1040722286",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "The One Minute Manager By Ken Blanchard",
+            "nid": "112620630",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "112620630",
+                "scene_pre": "search",
+                "current_price": "88",
+                "x_sku_ids": "1029514343",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "112620630"
+            },
+            "productUrl": "//www.daraz.com.bd/products/the-one-minute-manager-by-ken-blanchard-i112620630-s1029514343.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/22490bb6007189736d46d9bea9b73229.jpg",
+            "originalPrice": "155.00",
+            "originalPriceShow": "৳ 155",
+            "price": "88",
+            "promotionId": "null",
+            "priceShow": "৳ 88",
+            "discount": "-43%",
+            "ratingScore": "4.91837",
+            "review": "98",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "112620630_BD-1029514343",
+            "sku": "112620630_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1008413",
+            "mainSellerId": "",
+            "sellerName": "Dot Books",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/22490bb6007189736d46d9bea9b73229.jpg",
+                    "productUrl": "/products/the-one-minute-manager-by-ken-blanchard-i112620630-s1029514343.html",
+                    "sku": "112620630_BD",
+                    "skuId": "1029514343"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3441
+            ],
+            "clickTrace": "query:;nid:112620630;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:112620630_BD;price:88;client:desktop;supplier_id:1008413;asc_category_id:3441;item_id:112620630;sku_id:1029514343;shop_id:14651",
+            "addToCartSkus": [
+                {
+                    "sku": "112620630_BD-1029514343",
+                    "skuId": "1029514343",
+                    "count": 0
+                }
+            ],
+            "itemId": "112620630",
+            "skuId": "1029514343",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Alice Acoustic Guitar Strings 1 No - 1 Pcs",
+            "nid": "124064875",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "124064875",
+                "scene_pre": "search",
+                "current_price": "20",
+                "x_sku_ids": "1044358269",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "124064875"
+            },
+            "productUrl": "//www.daraz.com.bd/products/alice-1-1-i124064875-s1044358269.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/e7dfd515f011d1d1fe27892bc48ea29f.jpg",
+            "originalPrice": "35.00",
+            "originalPriceShow": "৳ 35",
+            "price": "20",
+            "promotionId": "null",
+            "priceShow": "৳ 20",
+            "discount": "-43%",
+            "ratingScore": "4.67925",
+            "review": "53",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "124064875_BD-1044358269",
+            "sku": "124064875_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "41453",
+            "brandName": "Alice",
+            "sellerId": "1029059",
+            "mainSellerId": "",
+            "sellerName": "Ime Way International",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/e7dfd515f011d1d1fe27892bc48ea29f.jpg",
+                    "productUrl": "/products/alice-1-1-i124064875-s1044358269.html",
+                    "sku": "124064875_BD",
+                    "skuId": "1044358269"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3652,
+                3656,
+                3662
+            ],
+            "clickTrace": "query:;nid:124064875;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:124064875_BD;price:20;client:desktop;supplier_id:1029059;asc_category_id:3662;item_id:124064875;sku_id:1044358269;shop_id:35147",
+            "addToCartSkus": [
+                {
+                    "sku": "124064875_BD-1044358269",
+                    "skuId": "1044358269",
+                    "count": 0
+                }
+            ],
+            "itemId": "124064875",
+            "skuId": "1044358269",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ikigai By Hector Garcia Paperback",
+            "nid": "157260622",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "157260622",
+                "scene_pre": "search",
+                "current_price": "103",
+                "x_sku_ids": "1087800878",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "157260622"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ikigai-by-hector-garcia-paperback-i157260622-s1087800878.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/f51fba55aafca78cb22b26ed93be0272.jpg",
+            "originalPrice": "149.00",
+            "originalPriceShow": "৳ 149",
+            "price": "103",
+            "promotionId": "null",
+            "priceShow": "৳ 103",
+            "discount": "-31%",
+            "ratingScore": "4.8342",
+            "review": "193",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "157260622_BD-1087800878",
+            "sku": "157260622_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1008413",
+            "mainSellerId": "",
+            "sellerName": "Dot Books",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/f51fba55aafca78cb22b26ed93be0272.jpg",
+                    "productUrl": "/products/ikigai-by-hector-garcia-paperback-i157260622-s1087800878.html",
+                    "sku": "157260622_BD",
+                    "skuId": "1087800878"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3441
+            ],
+            "clickTrace": "query:;nid:157260622;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:157260622_BD;price:103;client:desktop;supplier_id:1008413;asc_category_id:3441;item_id:157260622;sku_id:1087800878;shop_id:14651",
+            "addToCartSkus": [
+                {
+                    "sku": "157260622_BD-1087800878",
+                    "skuId": "1087800878",
+                    "count": 0
+                }
+            ],
+            "itemId": "157260622",
+            "skuId": "1087800878",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Alice Acoustic Guitar Strings 1 No - 3 Pcs",
+            "nid": "749241",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "267828",
+                "scene_pre": "search",
+                "current_price": "80",
+                "x_sku_ids": "1225127",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "267828"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-3-i267828-s1225127.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/433c4a9b221f48586a8d5dccf8ae7687.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "80",
+            "promotionId": "null",
+            "priceShow": "৳ 80",
+            "discount": "-47%",
+            "ratingScore": "4.94444",
+            "review": "90",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "TH042EL08IDV0NAFAMZ-1070514",
+            "sku": "TH042EL08IDV0NAFAMZ",
+            "skus": [],
+            "description": [
+                "Brand Name: Alice",
+                "Use: Acoustic Guitar",
+                "Type: guitar strings",
+                "Name: Rose guitar strings",
+                "Advantage: High quality",
+                "Material: Copper",
+                "Package: One"
+            ],
+            "brandId": "41453",
+            "brandName": "Alice",
+            "sellerId": "4493",
+            "mainSellerId": "",
+            "sellerName": "Doeel Guitar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/433c4a9b221f48586a8d5dccf8ae7687.jpg",
+                    "productUrl": "/products/1-3-i267828-s1225127.html",
+                    "sku": "TH042EL08IDV0NAFAMZ",
+                    "skuId": "1225127"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3652,
+                3656,
+                3662
+            ],
+            "clickTrace": "query:;nid:749241;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:TH042EL08IDV0NAFAMZ;price:80;client:desktop;supplier_id:4493;asc_category_id:3662;item_id:267828;sku_id:1225127;shop_id:4557",
+            "addToCartSkus": [
+                {
+                    "sku": "TH042EL08IDV0NAFAMZ-1070514",
+                    "skuId": "1225127",
+                    "count": 0
+                }
+            ],
+            "itemId": "267828",
+            "skuId": "1225127",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "The 7 Habits of Highly Effective People: 25th Anniversary Edition",
+            "nid": "120730152",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "120730152",
+                "scene_pre": "search",
+                "current_price": "148",
+                "x_sku_ids": "1040410129",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "120730152"
+            },
+            "productUrl": "//www.daraz.com.bd/products/the-7-habits-of-highly-effective-people-25th-anniversary-edition-i120730152-s1040410129.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/5fe93e68975f3e00b385b6d07b163355.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "148",
+            "promotionId": "null",
+            "priceShow": "৳ 148",
+            "discount": "-41%",
+            "ratingScore": "4.85971",
+            "review": "278",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "120730152_BD-1040410129",
+            "sku": "120730152_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1008413",
+            "mainSellerId": "",
+            "sellerName": "Dot Books",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/5fe93e68975f3e00b385b6d07b163355.jpg",
+                    "productUrl": "/products/the-7-habits-of-highly-effective-people-25th-anniversary-edition-i120730152-s1040410129.html",
+                    "sku": "120730152_BD",
+                    "skuId": "1040410129"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3441
+            ],
+            "clickTrace": "query:;nid:120730152;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:120730152_BD;price:148;client:desktop;supplier_id:1008413;asc_category_id:3441;item_id:120730152;sku_id:1040410129;shop_id:14651",
+            "addToCartSkus": [
+                {
+                    "sku": "120730152_BD-1040410129",
+                    "skuId": "1040410129",
+                    "count": 0
+                }
+            ],
+            "itemId": "120730152",
+            "skuId": "1040410129",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Steal Like an Artist: 10 Things Nobody Told You About Being Creative",
+            "nid": "179081460",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "179081460",
+                "scene_pre": "search",
+                "current_price": "177",
+                "x_sku_ids": "1120147743",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "179081460"
+            },
+            "productUrl": "//www.daraz.com.bd/products/steal-like-an-artist-10-things-nobody-told-you-about-being-creative-i179081460-s1120147743.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/73dd4b06b6ecb96ab3587581129453fe.jpg",
+            "originalPrice": "249.00",
+            "originalPriceShow": "৳ 249",
+            "price": "177",
+            "promotionId": "null",
+            "priceShow": "৳ 177",
+            "discount": "-29%",
+            "ratingScore": "4.88679",
+            "review": "106",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "179081460_BD-1120147743",
+            "sku": "179081460_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1008413",
+            "mainSellerId": "",
+            "sellerName": "Dot Books",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/73dd4b06b6ecb96ab3587581129453fe.jpg",
+                    "productUrl": "/products/steal-like-an-artist-10-things-nobody-told-you-about-being-creative-i179081460-s1120147743.html",
+                    "sku": "179081460_BD",
+                    "skuId": "1120147743"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3441
+            ],
+            "clickTrace": "query:;nid:179081460;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:179081460_BD;price:177;client:desktop;supplier_id:1008413;asc_category_id:3441;item_id:179081460;sku_id:1120147743;shop_id:14651",
+            "addToCartSkus": [
+                {
+                    "sku": "179081460_BD-1120147743",
+                    "skuId": "1120147743",
+                    "count": 0
+                }
+            ],
+            "itemId": "179081460",
+            "skuId": "1120147743",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "The Things You Can See Only When You Slow Down",
+            "nid": "221738846",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "221738846",
+                "scene_pre": "search",
+                "current_price": "199.00",
+                "x_sku_ids": "1168375584",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "221738846"
+            },
+            "productUrl": "//www.daraz.com.bd/products/the-things-you-can-see-only-when-you-slow-down-i221738846-s1168375584.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ea9b524a2035efc8a3223ea77da81956.jpg",
+            "originalPrice": "249.00",
+            "originalPriceShow": "৳ 249",
+            "price": "199.00",
+            "promotionId": "null",
+            "priceShow": "৳ 199",
+            "discount": "-20%",
+            "ratingScore": "4.85106",
+            "review": "47",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "221738846_BD-1168375584",
+            "sku": "221738846_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1008413",
+            "mainSellerId": "",
+            "sellerName": "Dot Books",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ea9b524a2035efc8a3223ea77da81956.jpg",
+                    "productUrl": "/products/the-things-you-can-see-only-when-you-slow-down-i221738846-s1168375584.html",
+                    "sku": "221738846_BD",
+                    "skuId": "1168375584"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3441
+            ],
+            "clickTrace": "query:;nid:221738846;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:221738846_BD;price:199.00;client:desktop;supplier_id:1008413;asc_category_id:3441;item_id:221738846;sku_id:1168375584;shop_id:14651",
+            "addToCartSkus": [
+                {
+                    "sku": "221738846_BD-1168375584",
+                    "skuId": "1168375584",
+                    "count": 0
+                }
+            ],
+            "itemId": "221738846",
+            "skuId": "1168375584",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Atomic Habits",
+            "nid": "229210136",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "229210136",
+                "scene_pre": "search",
+                "current_price": "105",
+                "x_sku_ids": "1172888411",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "229210136"
+            },
+            "productUrl": "//www.daraz.com.bd/products/atomic-habits-i229210136-s1172888411.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6dd9388504adeb9f4bce03fcf6584e72.jpg",
+            "originalPrice": "340.00",
+            "originalPriceShow": "৳ 340",
+            "price": "105",
+            "promotionId": "null",
+            "priceShow": "৳ 105",
+            "discount": "-69%",
+            "ratingScore": "5",
+            "review": "6",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "229210136_BD-1172888411",
+            "sku": "229210136_BD",
+            "skus": [],
+            "description": [
+                "The #1 New York Times bestseller. Over 2 million copies sold!",
+                "Tiny Changes, Remarkable Results",
+                "No matter your goals, Atomic Habits offers a proven framework for improving--every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.",
+                "If you're having trouble changing your habits, the problem isn't you. The problem is your system. Bad habits repeat themselves again and again not because you don't want to change, but because you have the wrong system for change. You do not rise to the level of your goals. You fall to the level of your systems. Here, you'll get a proven system that can take you to new heights.",
+                "Clear is known for his ability to distill complex topics into simple behaviors that can be easily applied to daily life and work. Here, he draws on the most proven ideas from biology, psychology, and neuroscience to create an easy-to-understand guide for making good habits inevitable and bad habits impossible. Along the way, readers will be inspired and entertained with true stories from Olympic gold medalists, award-winning artists, business leaders, life-saving physicians, and star comedians who have used the science of small habits to master their craft and vault to the top of their field.",
+                "Learn how to:",
+                "• make time for new habits (even when life gets crazy);",
+                "• overcome a lack of motivation and willpower;",
+                "• design your environment to make success easier;",
+                "• get back on track when you fall off course;",
+                "...and much more.",
+                "Atomic Habits will reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship, an organization hoping to redefine an industry, or simply an individual who wishes to quit smoking, lose weight, reduce stress, or achieve any other goal."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508769334",
+            "mainSellerId": "",
+            "sellerName": "A R Shopping Zone",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6dd9388504adeb9f4bce03fcf6584e72.jpg",
+                    "productUrl": "/products/atomic-habits-i229210136-s1172888411.html",
+                    "sku": "229210136_BD",
+                    "skuId": "1172888411"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3441
+            ],
+            "clickTrace": "query:;nid:229210136;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:229210136_BD;price:105;client:desktop;supplier_id:700508769334;asc_category_id:3441;item_id:229210136;sku_id:1172888411;shop_id:184458",
+            "addToCartSkus": [
+                {
+                    "sku": "229210136_BD-1172888411",
+                    "skuId": "1172888411",
+                    "count": 0
+                }
+            ],
+            "itemId": "229210136",
+            "skuId": "1172888411",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Alice Acoustic Guitar Strings 2 No - 1 Pcs",
+            "nid": "124069236",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "124069236",
+                "scene_pre": "search",
+                "current_price": "22",
+                "x_sku_ids": "1044354839",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "124069236"
+            },
+            "productUrl": "//www.daraz.com.bd/products/alice-2-1-i124069236-s1044354839.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/00140340c4fb3f9bb931e20c39291caa.jpg",
+            "originalPrice": "35.00",
+            "originalPriceShow": "৳ 35",
+            "price": "22",
+            "promotionId": "null",
+            "priceShow": "৳ 22",
+            "discount": "-37%",
+            "ratingScore": "4.63636",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "124069236_BD-1044354839",
+            "sku": "124069236_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "41453",
+            "brandName": "Alice",
+            "sellerId": "1029059",
+            "mainSellerId": "",
+            "sellerName": "Ime Way International",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/00140340c4fb3f9bb931e20c39291caa.jpg",
+                    "productUrl": "/products/alice-2-1-i124069236-s1044354839.html",
+                    "sku": "124069236_BD",
+                    "skuId": "1044354839"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3652,
+                3656,
+                3662
+            ],
+            "clickTrace": "query:;nid:124069236;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:124069236_BD;price:22;client:desktop;supplier_id:1029059;asc_category_id:3662;item_id:124069236;sku_id:1044354839;shop_id:35147",
+            "addToCartSkus": [
+                {
+                    "sku": "124069236_BD-1044354839",
+                    "skuId": "1044354839",
+                    "count": 0
+                }
+            ],
+            "itemId": "124069236",
+            "skuId": "1044354839",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "A Brief History of Time: From the Big Bang to Black Holes",
+            "nid": "127236054",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "127236054",
+                "scene_pre": "search",
+                "current_price": "104",
+                "x_sku_ids": "1047235603",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "127236054"
+            },
+            "productUrl": "//www.daraz.com.bd/products/a-brief-history-of-time-from-the-big-bang-to-black-holes-i127236054-s1047235603.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0d2a917e0740081a0b8775a84b06b841.jpg",
+            "originalPrice": "199.00",
+            "originalPriceShow": "৳ 199",
+            "price": "104",
+            "promotionId": "null",
+            "priceShow": "৳ 104",
+            "discount": "-48%",
+            "ratingScore": "4.85246",
+            "review": "122",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "127236054_BD-1047235603",
+            "sku": "127236054_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1008413",
+            "mainSellerId": "",
+            "sellerName": "Dot Books",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0d2a917e0740081a0b8775a84b06b841.jpg",
+                    "productUrl": "/products/a-brief-history-of-time-from-the-big-bang-to-black-holes-i127236054-s1047235603.html",
+                    "sku": "127236054_BD",
+                    "skuId": "1047235603"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3440
+            ],
+            "clickTrace": "query:;nid:127236054;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:127236054_BD;price:104;client:desktop;supplier_id:1008413;asc_category_id:3440;item_id:127236054;sku_id:1047235603;shop_id:14651",
+            "addToCartSkus": [
+                {
+                    "sku": "127236054_BD-1047235603",
+                    "skuId": "1047235603",
+                    "count": 0
+                }
+            ],
+            "itemId": "127236054",
+            "skuId": "1047235603",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Muhammad: His Life Based on the Earliest Sources by Martin Lings",
+            "nid": "207819868",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "207819868",
+                "scene_pre": "search",
+                "current_price": "298.00",
+                "x_sku_ids": "1157675497",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "207819868"
+            },
+            "productUrl": "//www.daraz.com.bd/products/muhammad-his-life-based-on-the-earliest-sources-by-martin-lings-i207819868-s1157675497.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fbb82226496f6e55771d7de035b04712.jpg",
+            "originalPrice": "520.00",
+            "originalPriceShow": "৳ 520",
+            "price": "298.00",
+            "promotionId": "null",
+            "priceShow": "৳ 298",
+            "discount": "-43%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "207819868_BD-1157675497",
+            "sku": "207819868_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508541069",
+            "mainSellerId": "",
+            "sellerName": "Book Palace",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fbb82226496f6e55771d7de035b04712.jpg",
+                    "productUrl": "/products/muhammad-his-life-based-on-the-earliest-sources-by-martin-lings-i207819868-s1157675497.html",
+                    "sku": "207819868_BD",
+                    "skuId": "1157675497"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3422
+            ],
+            "clickTrace": "query:;nid:207819868;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:207819868_BD;price:298.00;client:desktop;supplier_id:700508541069;asc_category_id:3422;item_id:207819868;sku_id:1157675497;shop_id:165365",
+            "addToCartSkus": [
+                {
+                    "sku": "207819868_BD-1157675497",
+                    "skuId": "1157675497",
+                    "count": 0
+                }
+            ],
+            "itemId": "207819868",
+            "skuId": "1157675497",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Graph Algorithm by Shafaayet Ashraf",
+            "nid": "126190183",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "126190183",
+                "scene_pre": "search",
+                "current_price": "179.00",
+                "x_sku_ids": "1046298335",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "126190183"
+            },
+            "productUrl": "//www.daraz.com.bd/products/graph-algorithm-by-shafaayet-ashraf-i126190183-s1046298335.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7865ff9dd6a1b646b658b0dda409799a.jpg",
+            "originalPrice": "235.00",
+            "originalPriceShow": "৳ 235",
+            "price": "179.00",
+            "promotionId": "null",
+            "priceShow": "৳ 179",
+            "discount": "-24%",
+            "ratingScore": "5",
+            "review": "6",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "126190183_BD-1046298335",
+            "sku": "126190183_BD",
+            "skus": [],
+            "description": [
+                "Book Name: Graph Algorithm",
+                "Product Type: Book",
+                "Author: Shafaayet Ashraf",
+                "Publisher's Name: Dimik Prokashoni",
+                "Cover Tupe: Paperback",
+                "ISBN: 9789849216438",
+                "Year of Publication: 2016"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1000557",
+            "mainSellerId": "",
+            "sellerName": "Amar Priyo Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7865ff9dd6a1b646b658b0dda409799a.jpg",
+                    "productUrl": "/products/graph-algorithm-by-shafaayet-ashraf-i126190183-s1046298335.html",
+                    "sku": "126190183_BD",
+                    "skuId": "1046298335"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3430
+            ],
+            "clickTrace": "query:;nid:126190183;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:126190183_BD;price:179.00;client:desktop;supplier_id:1000557;asc_category_id:3430;item_id:126190183;sku_id:1046298335;shop_id:6035",
+            "addToCartSkus": [
+                {
+                    "sku": "126190183_BD-1046298335",
+                    "skuId": "1046298335",
+                    "count": 0
+                }
+            ],
+            "itemId": "126190183",
+            "skuId": "1046298335",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mindset: The Psychology Of Success",
+            "nid": "126978420",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "126978420",
+                "scene_pre": "search",
+                "current_price": "155",
+                "x_sku_ids": "1047010837",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "126978420"
+            },
+            "productUrl": "//www.daraz.com.bd/products/mindset-the-new-psychology-of-success-i126978420-s1047010837.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/f3368bdf4a66de5bc88b90eb3b07fda0.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "155",
+            "promotionId": "null",
+            "priceShow": "৳ 155",
+            "discount": "-38%",
+            "ratingScore": "5",
+            "review": "38",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "126978420_BD-1047010837",
+            "sku": "126978420_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1008413",
+            "mainSellerId": "",
+            "sellerName": "Dot Books",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/f3368bdf4a66de5bc88b90eb3b07fda0.jpg",
+                    "productUrl": "/products/mindset-the-new-psychology-of-success-i126978420-s1047010837.html",
+                    "sku": "126978420_BD",
+                    "skuId": "1047010837"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3411,
+                3441
+            ],
+            "clickTrace": "query:;nid:126978420;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:126978420_BD;price:155;client:desktop;supplier_id:1008413;asc_category_id:3441;item_id:126978420;sku_id:1047010837;shop_id:14651",
+            "addToCartSkus": [
+                {
+                    "sku": "126978420_BD-1047010837",
+                    "skuId": "1047010837",
+                    "count": 0
+                }
+            ],
+            "itemId": "126978420",
+            "skuId": "1047010837",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Leadership Intelligence",
+            "nid": "181877713",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "181877713",
+                "scene_pre": "search",
+                "current_price": "150.00",
+                "x_sku_ids": "1124157465",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "181877713"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i181877713-s1124157465.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6350154c55608aee0304847e8f2c2f2d.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "150.00",
+            "promotionId": "null",
+            "priceShow": "৳ 150",
+            "discount": "-25%",
+            "ratingScore": "4.71429",
+            "review": "14",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "181877713_BD-1124157465",
+            "sku": "181877713_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "154346",
+            "brandName": "Adarsha",
+            "sellerId": "2257",
+            "mainSellerId": "",
+            "sellerName": "Adarsha",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6350154c55608aee0304847e8f2c2f2d.jpg",
+                    "productUrl": "/products/-i181877713-s1124157465.html",
+                    "sku": "181877713_BD",
+                    "skuId": "1124157465"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3375,
+                3376,
+                20000396
+            ],
+            "clickTrace": "query:;nid:181877713;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:181877713_BD;price:150.00;client:desktop;supplier_id:2257;asc_category_id:20000396;item_id:181877713;sku_id:1124157465;shop_id:2781",
+            "addToCartSkus": [
+                {
+                    "sku": "181877713_BD-1124157465",
+                    "skuId": "1124157465",
+                    "count": 0
+                }
+            ],
+            "itemId": "181877713",
+            "skuId": "1124157465",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Alice acoustic string for Guitar -  1 set",
+            "nid": "794581",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "1004045",
+                "scene_pre": "search",
+                "current_price": "121",
+                "x_sku_ids": "1137534504",
+                "SN": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "x_ad": "1",
+                "x_object_id": "1004045"
+            },
+            "productUrl": "//www.daraz.com.bd/products/alice-1-i1004045-s1137534504.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d18133072b4834715bdb805803567b9a.png",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "121",
+            "promotionId": "null",
+            "priceShow": "৳ 121",
+            "discount": "-40%",
+            "ratingScore": "4.78169",
+            "review": "142",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "1004045_BD-1137534504",
+            "sku": "1004045_BD",
+            "skus": [],
+            "description": [
+                "Gauges: .0125 - .055",
+                "Ultra-high quality steel core",
+                "Core wires",
+                "Plain strings plated with an acoustic bronze finish"
+            ],
+            "brandId": "41453",
+            "brandName": "Alice",
+            "sellerId": "4493",
+            "mainSellerId": "",
+            "sellerName": "Doeel Guitar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d18133072b4834715bdb805803567b9a.png",
+                    "productUrl": "/products/alice-1-i1004045-s1137534504.html",
+                    "sku": "1004045_BD",
+                    "skuId": "1137534504"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3374,
+                3652,
+                3656,
+                3662
+            ],
+            "clickTrace": "query:;nid:794581;src:LazadaMainSrp;rn:2546cbdcbe472a3d1a4fda479c10d82c;region:bd;sku:1004045_BD;price:121;client:desktop;supplier_id:4493;asc_category_id:3662;item_id:1004045;sku_id:1137534504;shop_id:4557",
+            "addToCartSkus": [
+                {
+                    "sku": "1004045_BD-1137534504",
+                    "skuId": "1137534504",
+                    "count": 0
+                }
+            ],
+            "itemId": "1004045",
+            "skuId": "1137534504",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/books-games-music/",
+            "title": "Media, Music & Books"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/books-games-music/?referer_rn=2546cbdcbe472a3d1a4fda479c10d82c&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {},
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/religion-books/?item_id=170970145&from=onesearch_category_3374",
+                "name": "Religious Books",
+                "image": "//static-01.daraz.com.bd/p/ac6ccaa017dd7611136c5f4f06be7e0e.jpg",
+                "id": "3387"
+            },
+            {
+                "url": "/academics-professionalism/?item_id=127252819&from=onesearch_category_3374",
+                "name": "Education Books",
+                "image": "//static-01.daraz.com.bd/p/mdc/d9eb55fd37388d95cbf1477232b40c30.jpg",
+                "id": "3393"
+            },
+            {
+                "url": "/self-help-english/?item_id=184855678&from=onesearch_category_3374",
+                "name": "Self Help and Meditation",
+                "image": "//static-01.daraz.com.bd/p/mdc/92395af08dbe05e3c17a61a90fe232fd.jpg",
+                "id": "3441"
+            },
+            {
+                "url": "/literature-books-novels/?item_id=186367058&from=onesearch_category_3374",
+                "name": "Literature",
+                "image": "//static-01.daraz.com.bd/p/62e97bdb2518ca5e48d5ac450d4c4aa9.jpg",
+                "id": "3377"
+            },
+            {
+                "url": "/guitar-bass-accessories-instruments/?item_id=165990527&from=onesearch_category_3374",
+                "name": "Guitar & Bass Accessories",
+                "image": "//static-01.daraz.com.bd/p/mdc/4f702d93ea3780aa8b6c94fce8af5b61.png",
+                "id": "3662"
+            },
+            {
+                "url": "/guitar-bass-accessories/?item_id=192228852&from=onesearch_category_3374",
+                "name": "Guitar & Bass Accessories",
+                "image": "//static-01.daraz.com.bd/p/mdc/9d195cf2e87016de30915b65a327b8ae.jpg",
+                "id": "3713"
+            },
+            {
+                "url": "/educational-books-english/?item_id=213980802&from=onesearch_category_3374",
+                "name": "Education Books",
+                "image": "//static-01.daraz.com.bd/p/dc48c525c15c44d78ddcbc94c9c683cc.jpg",
+                "id": "3427"
+            },
+            {
+                "url": "/acoustic-guitars/?item_id=132522988&from=onesearch_category_3374",
+                "name": "Acoustic Guitars",
+                "image": "//static-01.daraz.com.bd/p/317ab61740ee346d64aa8120962eb5a8.jpg",
+                "id": "3658"
+            },
+            {
+                "url": "/literature/?item_id=148676203&from=onesearch_category_3374",
+                "name": "Literature",
+                "image": "//static-01.daraz.com.bd/p/mdc/91c6524e016d167837e3e6bb18f31e04.png",
+                "id": "3442"
+            },
+            {
+                "url": "/other-instruments-accessories/?item_id=129454742&from=onesearch_category_3374",
+                "name": "Others",
+                "image": "//static-01.daraz.com.bd/p/f1ce3f587b2835f5922264442fcf3763.jpg",
+                "id": "4603"
+            },
+            {
+                "url": "/thrillers-english/?item_id=147894822&from=onesearch_category_3374",
+                "name": "Mystery Detective Horror Thriller and Adventure",
+                "image": "//static-01.daraz.com.bd/p/b1130e68c5804fef4c5d65b2aa12296c.jpg",
+                "id": "3434"
+            },
+            {
+                "url": "/teen-books/?item_id=175260006&from=onesearch_category_3374",
+                "name": "Teens and Children",
+                "image": "//static-01.daraz.com.bd/p/de8f4d2cd8da3753c049a6c47b69fa6a.jpg",
+                "id": "3379"
+            },
+            {
+                "url": "/romance-english/?item_id=226146558&from=onesearch_category_3374",
+                "name": "Romance",
+                "image": "//static-01.daraz.com.bd/p/dc372c49f62f8873506539541ccf7af2.jpg",
+                "id": "3438"
+            },
+            {
+                "url": "/general-accessories/?item_id=503000&from=onesearch_category_3374",
+                "name": "General Accessories",
+                "image": "//static-01.daraz.com.bd/p/mdc/aa549a5f13c77c73dca9e3196bd16b67.jpg",
+                "id": "3722"
+            },
+            {
+                "url": "/music-lighting/?item_id=208551962&from=onesearch_category_3374",
+                "name": "Lighting",
+                "image": "//static-01.daraz.com.bd/p/61087239e172dfef75929e9d3c95bae8.jpg",
+                "id": "3694"
+            },
+            {
+                "url": "/ukulele/?item_id=192316045&from=onesearch_category_3374",
+                "name": "Ukulele",
+                "image": "//static-01.daraz.com.bd/p/1434d99c15020ed1c4d15423feb22080.png",
+                "id": "3664"
+            },
+            {
+                "url": "/english-teen-young-adult-books/?item_id=182508832&from=onesearch_category_3374",
+                "name": "Teens and Children",
+                "image": "//static-01.daraz.com.bd/p/mdc/e242971e8a6f299749a93c7f5084a98a.jpg",
+                "id": "3414"
+            },
+            {
+                "url": "/traditional-instruments/?item_id=160270544&from=onesearch_category_3374",
+                "name": "Traditional instruments",
+                "image": "//static-01.daraz.com.bd/p/8f05b134e0735bd0042e8706a5ef9d49.jpg",
+                "id": "3723"
+            },
+            {
+                "url": "/flute-instruments/?item_id=2415723&from=onesearch_category_3374",
+                "name": "Flute",
+                "image": "//static-01.daraz.com.bd/p/mdc/4a36a30fe4573916a5df36e81cf4982d.jpg",
+                "id": "3670"
+            },
+            {
+                "url": "/self-development-books/?item_id=184850731&from=onesearch_category_3374",
+                "name": "Self Help and Meditation",
+                "image": "//static-01.daraz.com.bd/p/mdc/fb4c17edbb69f6186a8c1b954716c4ae.jpg",
+                "id": "3407"
+            },
+            {
+                "url": "/english-comics/?item_id=223005376&from=onesearch_category_3374",
+                "name": "Comics",
+                "image": "//static-01.daraz.com.bd/p/32b9e1ce0043f532cf31c3d5bd7b883e.jpg",
+                "id": "3423"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_3374"
+        },
+        "title": "",
+        "bizId": "onesearch_category_3374",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "508653 items found in {$0}",
+        "title": "Media, Music & Books",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Media, Music & Books"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Media, Music & Books",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "2546cbdcbe472a3d1a4fda479c10d82c",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "3374",
+            "category": "3374"
+        },
+        "categoryRegionalKey": "130000000000",
+        "mainCategoryRegionalKey": "130000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Media, Music & Books - Buy Media, Music & Books at Best Price in Bangladesh | www.daraz.com.bd",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Media, Music & Books",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "130000000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=3374&_p_asc_cateid=3374",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "books-games-music",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "2546cbdcbe472a3d1a4fda479c10d82c",
+                "resultNr": 508653,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1014009502",
+                "1159639856",
+                "1138854940"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "3374",
+            "category": "3374"
+        }
+    }
+}

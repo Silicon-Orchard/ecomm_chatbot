@@ -1,0 +1,3888 @@
+{
+    "listItems": [
+        {
+            "name": "Xiaomi Mi Wi-Fi Range Extender Pro Global Version  - Black",
+            "nid": "102436060",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "102436060",
+                "scene_pre": "search",
+                "current_price": "849.00",
+                "x_sku_ids": "1016600769",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "102436060"
+            },
+            "productUrl": "//www.daraz.com.bd/products/xiaomi-mi-wi-fi-range-extender-pro-global-version-black-i102436060-s1016600769.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/50889fe10e582b1baaebd3b2b98bd28e.jpg",
+            "originalPrice": "999.00",
+            "originalPriceShow": "৳ 999",
+            "price": "849.00",
+            "promotionId": "null",
+            "priceShow": "৳ 849",
+            "discount": "-15%",
+            "ratingScore": "4.65849",
+            "review": "2038",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "102436060_BD-1016600769",
+            "sku": "102436060_BD",
+            "skus": [],
+            "description": [
+                "Main Features:",
+                "Two powerful high-gain external antennas give wider coverage and better performance",
+                "Wireless function, make your wireless coverage larger",
+                "Compatible with other brands router",
+                "Transmission rate: 300Mbps",
+                "Support up to 64 devices to fulfill the needs of the whole family",
+                "Manage your network settings easily with the Xiaomi Mi WiFi APP",
+                "This amplifier will upgrade automatically without any setting",
+                "Plug and play, easy to use"
+            ],
+            "brandId": "12960",
+            "brandName": "Xiaomi",
+            "sellerId": "5406",
+            "mainSellerId": "",
+            "sellerName": "Smart Gadget Home",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/50889fe10e582b1baaebd3b2b98bd28e.jpg",
+                    "productUrl": "/products/xiaomi-mi-wi-fi-range-extender-pro-global-version-black-i102436060-s1016600769.html",
+                    "sku": "102436060_BD",
+                    "skuId": "1016600769"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                7869
+            ],
+            "clickTrace": "query:;nid:102436060;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:102436060_BD;price:849.00;client:desktop;supplier_id:5406;asc_category_id:7869;item_id:102436060;sku_id:1016600769;shop_id:5411",
+            "addToCartSkus": [
+                {
+                    "sku": "102436060_BD-1016600769",
+                    "skuId": "1016600769",
+                    "count": 0
+                }
+            ],
+            "itemId": "102436060",
+            "skuId": "1016600769",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Tenda W311MI 150Mbps Wireless N150 USB Adapter Wireless network Card WIFI Receiver Wi-Fi card AP function",
+            "nid": "186376371",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "186376371",
+                "scene_pre": "search",
+                "current_price": "419",
+                "x_sku_ids": "1132857210",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "186376371"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tenda-w311mi-150mbps-n150-usb-wifi-wi-fi-ap-i186376371-s1132857210.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/941c51f80caa8140ad509dbf59166258.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "419",
+            "promotionId": "null",
+            "priceShow": "৳ 419",
+            "discount": "-24%",
+            "ratingScore": "4.81013",
+            "review": "79",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "186376371_BD-1132857210",
+            "sku": "186376371_BD",
+            "skus": [],
+            "description": [
+                "ModelTenda W311MIInterface.USB 2.0Data Transfer Rates150 MbpsNetwork StandardsIEEE 802.11 b, g, nWarranty1 yearOthersWireless N150 Pico USB Wireless LAN Card, Antenna: 1 x 2dBi fixed antenna (internal PCB), Frequency: 2.4GHz, Button: None, Wireless Speed: Up to 150Mbps over 11n, Channel: 1-13, Transmit Power: 17dBm (Max), Security: 64-/128-bit WEP, WPA-PSK,WPA2-PSK,WPA-PSK/WPA2-PSK, WPS, OS Supported: Windows 7, 8, 8.1, 10, Vista, Xp, Mac OS X 10.7-10.10, Linux, Dimension: 21 x 15 x 7.7 mmSpecialtyCompatible with 802.11g/b devices, W311MI is a wireless USB Adapter with WiFi transmission speed 3 times faster than 802.11g devices. This wireless adapter features a sleek compact design that fits into your computer`s USB port with minimal protrusion making it ideal for use when traveling or in a crowded workspace The W311MI connects your desktop or notebook computer with an available USB port to your wireless network for Internet access and file sharing. Desktop users can easily add wireless connectivity without having to open the PC case. Laptop users can easily upgrade to the latest 802.11n and get better range. It is ideal for email, web browsing and file sharing in the home."
+            ],
+            "brandId": "31875",
+            "brandName": "Tenda",
+            "sellerId": "700508223034",
+            "mainSellerId": "",
+            "sellerName": "GADGET PALLI",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/941c51f80caa8140ad509dbf59166258.jpg",
+                    "productUrl": "/products/tenda-w311mi-150mbps-n150-usb-wifi-wi-fi-ap-i186376371-s1132857210.html",
+                    "sku": "186376371_BD",
+                    "skuId": "1132857210"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                7870,
+                7872
+            ],
+            "clickTrace": "query:;nid:186376371;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:186376371_BD;price:419;client:desktop;supplier_id:700508223034;asc_category_id:7872;item_id:186376371;sku_id:1132857210;shop_id:136349",
+            "addToCartSkus": [
+                {
+                    "sku": "186376371_BD-1132857210",
+                    "skuId": "1132857210",
+                    "count": 0
+                }
+            ],
+            "itemId": "186376371",
+            "skuId": "1132857210",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "MI WiFi Amplifier Pro 300Mbps Router Repeater 2 Antenna",
+            "nid": "132432383",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132432383",
+                "scene_pre": "search",
+                "current_price": "910",
+                "x_sku_ids": "1053432780",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "132432383"
+            },
+            "productUrl": "//www.daraz.com.bd/products/mi-wifi-300mbps-2-i132432383-s1053432780.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/876115a09de226fcb3f7810a7725b9c3.jpg",
+            "originalPrice": "1600.00",
+            "originalPriceShow": "৳ 1,600",
+            "price": "910",
+            "promotionId": "null",
+            "priceShow": "৳ 910",
+            "discount": "-43%",
+            "ratingScore": "4.61154",
+            "review": "520",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132432383_BD-1053432780",
+            "sku": "132432383_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "33623",
+            "brandName": "MI",
+            "sellerId": "5918",
+            "mainSellerId": "",
+            "sellerName": "System Zone (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/876115a09de226fcb3f7810a7725b9c3.jpg",
+                    "productUrl": "/products/mi-wifi-300mbps-2-i132432383-s1053432780.html",
+                    "sku": "132432383_BD",
+                    "skuId": "1053432780"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                7869
+            ],
+            "clickTrace": "query:;nid:132432383;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:132432383_BD;price:910;client:desktop;supplier_id:5918;asc_category_id:7869;item_id:132432383;sku_id:1053432780;shop_id:6539",
+            "addToCartSkus": [
+                {
+                    "sku": "132432383_BD-1053432780",
+                    "skuId": "1053432780",
+                    "count": 0
+                }
+            ],
+            "itemId": "132432383",
+            "skuId": "1053432780",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WGP Mini UPS DC UPS for Router, Onu, CC Camera 5, 9, 12 Volt Output",
+            "nid": "123751806",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "123751806",
+                "scene_pre": "search",
+                "current_price": "1436",
+                "x_sku_ids": "1044047020",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "123751806"
+            },
+            "productUrl": "//www.daraz.com.bd/products/wgp-ups-dc-ups-5-9-12-i123751806-s1044047020.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/95e98a3b2947d2380544ab24d4185674.jpg",
+            "originalPrice": "1500.00",
+            "originalPriceShow": "৳ 1,500",
+            "price": "1436",
+            "promotionId": "null",
+            "priceShow": "৳ 1,436",
+            "discount": "-4%",
+            "ratingScore": "4.80889",
+            "review": "1125",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "123751806_BD-1044047020",
+            "sku": "123751806_BD",
+            "skus": [],
+            "description": [
+                "Router, Onu, CCTV camera, PON, MC, switch back up for 5-10 hours.",
+                "You can also charge your mobile using it as a power bank.",
+                "Our Mini UPS is 100% guaranteed that your router and Onu together will back up for at least 5-10 hours.",
+                "It is kindly requested to check your router and Onu volt before ordering and order the product of correct variation."
+            ],
+            "brandId": "121067618",
+            "brandName": "WGP",
+            "sellerId": "1023368",
+            "mainSellerId": "",
+            "sellerName": "UniShop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/95e98a3b2947d2380544ab24d4185674.jpg",
+                    "productUrl": "/products/wgp-ups-dc-ups-5-9-12-i123751806-s1044047020.html",
+                    "sku": "123751806_BD",
+                    "skuId": "1044047020"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                122
+            ],
+            "clickTrace": "query:;nid:123751806;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:123751806_BD;price:1436;client:desktop;supplier_id:1023368;asc_category_id:122;item_id:123751806;sku_id:1044047020;shop_id:29567",
+            "addToCartSkus": [
+                {
+                    "sku": "123751806_BD-1044047020",
+                    "skuId": "1044047020",
+                    "count": 0
+                }
+            ],
+            "itemId": "123751806",
+            "skuId": "1044047020",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "TP-Link Archer C64 AC1200 Wireless MU-MIMO Gigabit WiFi Router",
+            "nid": "207559864",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "207559864",
+                "scene_pre": "search",
+                "current_price": "3085",
+                "x_sku_ids": "1157343485",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "207559864"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tp-link-archer-c64-ac1200-wireless-mu-mimo-gigabit-wifi-router-i207559864-s1157343485.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ef16429b2fc41ddb7c2bed17d1564719.jpg",
+            "originalPrice": "3490.00",
+            "originalPriceShow": "৳ 3,490",
+            "price": "3085",
+            "promotionId": "null",
+            "priceShow": "৳ 3,085",
+            "discount": "-12%",
+            "ratingScore": "4.91667",
+            "review": "60",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "207559864_BD-1157343485",
+            "sku": "207559864_BD",
+            "skus": [],
+            "description": [
+                "802.11ac Wave2 WiFi &ndash; 867 Mbps on the 5 GHz band and 400 Mbps on the 2.4 GHz band&dagger;",
+                "Boosted WiFi Coverage &ndash; 4 external antennas provide stable wireless connections and optimal coverage",
+                "MU-MIMO &ndash; Easy network management at your fingertips with TP-Link TetherMU-MIMO achieves 2X efficiency by communicating with up to 2 devices at once&Dagger;",
+                "Beamforming &ndash; Beamforming technology delivers a highly efficient wireless connection",
+                "AP Mode &ndash; Supports Access Point mode to create a new WiFi access point",
+                "Intelligent Connection &ndash; Smart Connect directs clients to the less congested band and Airtime Fairness optimizes the time usage",
+                "Easy Setup &ndash; Easy network management at your fingertips with TP-Link Tether"
+            ],
+            "brandId": "25292",
+            "brandName": "TP Link",
+            "sellerId": "5885",
+            "mainSellerId": "",
+            "sellerName": "TP-Link Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ef16429b2fc41ddb7c2bed17d1564719.jpg",
+                    "productUrl": "/products/tp-link-archer-c64-ac1200-wireless-mu-mimo-gigabit-wifi-router-i207559864-s1157343485.html",
+                    "sku": "207559864_BD",
+                    "skuId": "1157343485"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                128
+            ],
+            "clickTrace": "query:;nid:207559864;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:207559864_BD;price:3085;client:desktop;supplier_id:5885;asc_category_id:128;item_id:207559864;sku_id:1157343485;shop_id:5641",
+            "addToCartSkus": [
+                {
+                    "sku": "207559864_BD-1157343485",
+                    "skuId": "1157343485",
+                    "count": 0
+                }
+            ],
+            "itemId": "207559864",
+            "skuId": "1157343485",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WGP Mini UPS DC UPS for Router, Onu, CC Camera 5 12 12 Volt Output",
+            "nid": "113812173",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "113812173",
+                "scene_pre": "search",
+                "current_price": "1465",
+                "x_sku_ids": "1031110216",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "113812173"
+            },
+            "productUrl": "//www.daraz.com.bd/products/wgp-ups-dc-ups-5-12-12-i113812173-s1031110216.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b1956275fc9c6233faf0170cdda721c6.jpg",
+            "originalPrice": "1500.00",
+            "originalPriceShow": "৳ 1,500",
+            "price": "1465",
+            "promotionId": "null",
+            "priceShow": "৳ 1,465",
+            "discount": "-2%",
+            "ratingScore": "4.76505",
+            "review": "864",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "113812173_BD-1031110216",
+            "sku": "113812173_BD",
+            "skus": [],
+            "description": [
+                "Router, Onu, CCTV camera, PON, MC, switch back up for 5-10 hours.",
+                "You can also charge your mobile using it as a power bank.",
+                "Our Mini UPS is 100% guaranteed that your router and Onu together will back up for at least 5-10 hours.",
+                "It is kindly requested to check your router and Onu volt before ordering and order the product of correct variation."
+            ],
+            "brandId": "121067618",
+            "brandName": "WGP",
+            "sellerId": "1023368",
+            "mainSellerId": "",
+            "sellerName": "UniShop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b1956275fc9c6233faf0170cdda721c6.jpg",
+                    "productUrl": "/products/wgp-ups-dc-ups-5-12-12-i113812173-s1031110216.html",
+                    "sku": "113812173_BD",
+                    "skuId": "1031110216"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                122
+            ],
+            "clickTrace": "query:;nid:113812173;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:113812173_BD;price:1465;client:desktop;supplier_id:1023368;asc_category_id:122;item_id:113812173;sku_id:1031110216;shop_id:29567",
+            "addToCartSkus": [
+                {
+                    "sku": "113812173_BD-1031110216",
+                    "skuId": "1031110216",
+                    "count": 0
+                }
+            ],
+            "itemId": "113812173",
+            "skuId": "1031110216",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Xiaomi Mi 4C Wireless Router 2.4GHz / 300Mbps / Four Antennas - WHITE",
+            "nid": "115488056",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "115488056",
+                "scene_pre": "search",
+                "current_price": "864",
+                "x_sku_ids": "1053190407",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "115488056"
+            },
+            "productUrl": "//www.daraz.com.bd/products/xiaomi-mi-4c-24ghz300mbps-i115488056-s1053190407.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d967a8ac33f71ef8d0c0599af4a2ce87.jpg",
+            "originalPrice": "2500.00",
+            "originalPriceShow": "৳ 2,500",
+            "price": "864",
+            "promotionId": "null",
+            "priceShow": "৳ 864",
+            "discount": "-65%",
+            "ratingScore": "4.49864",
+            "review": "369",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "115488056_BD-1053190407",
+            "sku": "115488056_BD",
+            "skus": [],
+            "description": [
+                "Brand: Xiaomi",
+                "Router Connectivity Type: Ethernet, Wireless",
+                "Transmission Rate: 300Mbps",
+                "Speed of Ethernet Port: 10/100Mbps",
+                "Network Protocols: IEEE 802.11b/g/n,IEEE 802.3/3u",
+                "Wireless Standard: Wireless AC",
+                "Wireless Security: WPA-PSK,WPA2-PSK",
+                "Processor: MT76228DA",
+                "RAM: 64MB DDR2",
+                "WiFi Distance: 10m",
+                "LAN Ports: 2 ports",
+                "Max. LAN Data Rate: 300Mbps",
+                "DC Port: 5.5 x 2.1",
+                "Gain dBi: 5dBi",
+                "Quantity of Antenna: 4",
+                "Working Voltage: 12V / 1A",
+                "Language: English",
+                "Firewall Settings: Support",
+                "Product weight: 0.4400 kg",
+                "Product size: 24.00 x 16.00 x 3.00 cm / 9.45 x 6.3 x 1.18 inches"
+            ],
+            "brandId": "12960",
+            "brandName": "Xiaomi",
+            "sellerId": "6024",
+            "mainSellerId": "",
+            "sellerName": "Gadgets Lab",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d967a8ac33f71ef8d0c0599af4a2ce87.jpg",
+                    "productUrl": "/products/xiaomi-mi-4c-24ghz300mbps-i115488056-s1053190407.html",
+                    "sku": "115488056_BD",
+                    "skuId": "1053190407"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                128
+            ],
+            "clickTrace": "query:;nid:115488056;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:115488056_BD;price:864;client:desktop;supplier_id:6024;asc_category_id:128;item_id:115488056;sku_id:1053190407;shop_id:5616",
+            "addToCartSkus": [
+                {
+                    "sku": "115488056_BD-1053190407",
+                    "skuId": "1053190407",
+                    "count": 0
+                }
+            ],
+            "itemId": "115488056",
+            "skuId": "1053190407",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "TP-Link TL-WR844N 300 Mbps Multi-Mode Wi-Fi Router",
+            "nid": "147400365",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "147400365",
+                "scene_pre": "search",
+                "current_price": "1090",
+                "x_sku_ids": "1073108082",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "147400365"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tl-wr844n-mbps-i147400365-s1073108082.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b59e4252d687e3a718d60ea3348bf165.jpg",
+            "originalPrice": "1449.00",
+            "originalPriceShow": "৳ 1,449",
+            "price": "1090",
+            "promotionId": "null",
+            "priceShow": "৳ 1,090",
+            "discount": "-25%",
+            "ratingScore": "4.69111",
+            "review": "450",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "147400365_BD-1073108082",
+            "sku": "147400365_BD",
+            "skus": [],
+            "description": [
+                "No warranty card is required, Product serial number is enough for claiming warranty.",
+                "In case Product package is opened, we will not accept the return of the product. You should claim warranty in case you face any trouble.",
+                "High-Speed Wi-Fi - 300 Mbps wireless transmission rate is ideal for both bandwidth sensitive tasks and basic work.",
+                "Boosted Coverage - Two omnidirectional antennas and 2&times;2 MIMO deliver strong Wi-Fi signal and reliable connections.",
+                "Multi-Mode 4 in 1 - Supports Router, Access Point, Range Extender, and WISP modes to meet any network need.",
+                "Parental Controls - Manages when and how connected devices can access the internet.",
+                "Guest Network -  Provides separate access for guests while securing the host network.",
+                "Smooth HD Streaming - Supports IGMP Proxy/Snooping, Bridge and Tag VLAN to optimize IPTV streaming.",
+                "IPv6 Supported - Compatible with the IPv6 (the latest Internet Protocol version 6)."
+            ],
+            "brandId": "25292",
+            "brandName": "TP Link",
+            "sellerId": "5885",
+            "mainSellerId": "",
+            "sellerName": "TP-Link Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b59e4252d687e3a718d60ea3348bf165.jpg",
+                    "productUrl": "/products/tl-wr844n-mbps-i147400365-s1073108082.html",
+                    "sku": "147400365_BD",
+                    "skuId": "1073108082"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                128
+            ],
+            "clickTrace": "query:;nid:147400365;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:147400365_BD;price:1090;client:desktop;supplier_id:5885;asc_category_id:128;item_id:147400365;sku_id:1073108082;shop_id:5641",
+            "addToCartSkus": [
+                {
+                    "sku": "147400365_BD-1073108082",
+                    "skuId": "1073108082",
+                    "count": 0
+                }
+            ],
+            "itemId": "147400365",
+            "skuId": "1073108082",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "HSDPA OLAX WD680 new 4G LTE Advanced Rechargeable Portable WiFi Mobile Router",
+            "nid": "216013038",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "216013038",
+                "scene_pre": "search",
+                "current_price": "2385",
+                "x_sku_ids": "1164407050",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "216013038"
+            },
+            "productUrl": "//www.daraz.com.bd/products/hsdpa-olax-wd680-new-4g-lte-advanced-rechargeable-portable-wifi-mobile-router-i216013038-s1164407050.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5f1280688c4525f519b282c27c2e9737.jpg",
+            "originalPrice": "3500.00",
+            "originalPriceShow": "৳ 3,500",
+            "price": "2385",
+            "promotionId": "null",
+            "priceShow": "৳ 2,385",
+            "discount": "-32%",
+            "ratingScore": "4.4",
+            "review": "40",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "216013038_BD-1164407050",
+            "sku": "216013038_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508286124",
+            "mainSellerId": "",
+            "sellerName": "Clickable Collection",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5f1280688c4525f519b282c27c2e9737.jpg",
+                    "productUrl": "/products/hsdpa-olax-wd680-new-4g-lte-advanced-rechargeable-portable-wifi-mobile-router-i216013038-s1164407050.html",
+                    "sku": "216013038_BD",
+                    "skuId": "1164407050"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                5658,
+                5660
+            ],
+            "clickTrace": "query:;nid:216013038;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:216013038_BD;price:2385;client:desktop;supplier_id:700508286124;asc_category_id:5660;item_id:216013038;sku_id:1164407050;shop_id:141401",
+            "addToCartSkus": [
+                {
+                    "sku": "216013038_BD-1164407050",
+                    "skuId": "1164407050",
+                    "count": 0
+                }
+            ],
+            "itemId": "216013038",
+            "skuId": "1164407050",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Xiaomi Router 4C Global Version 2.4GHz 300Mbps 4 Antennas Smart APP Control",
+            "nid": "202453988",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "202453988",
+                "scene_pre": "search",
+                "current_price": "816",
+                "x_sku_ids": "1150052044",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "202453988"
+            },
+            "productUrl": "//www.daraz.com.bd/products/xiaomi-router-4c-global-version-24ghz-300mbps-4-antennas-smart-app-control-i202453988-s1150052044.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1e69cfad9d47f46ce801188bfd62fd5a.jpg",
+            "originalPrice": "1700.00",
+            "originalPriceShow": "৳ 1,700",
+            "price": "816",
+            "promotionId": "null",
+            "priceShow": "৳ 816",
+            "discount": "-52%",
+            "ratingScore": "4.86667",
+            "review": "15",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "202453988_BD-1150052044",
+            "sku": "202453988_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "12960",
+            "brandName": "Xiaomi",
+            "sellerId": "700507455016",
+            "mainSellerId": "",
+            "sellerName": "Time Square",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1e69cfad9d47f46ce801188bfd62fd5a.jpg",
+                    "productUrl": "/products/xiaomi-router-4c-global-version-24ghz-300mbps-4-antennas-smart-app-control-i202453988-s1150052044.html",
+                    "sku": "202453988_BD",
+                    "skuId": "1150052044"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                128
+            ],
+            "clickTrace": "query:;nid:202453988;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:202453988_BD;price:816;client:desktop;supplier_id:700507455016;asc_category_id:128;item_id:202453988;sku_id:1150052044;shop_id:91584",
+            "addToCartSkus": [
+                {
+                    "sku": "202453988_BD-1150052044",
+                    "skuId": "1150052044",
+                    "count": 0
+                }
+            ],
+            "itemId": "202453988",
+            "skuId": "1150052044",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Tenda F6 Wireless N300 Easy Setup Router",
+            "nid": "215788744",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "215788744",
+                "scene_pre": "search",
+                "current_price": "1195",
+                "x_sku_ids": "1164256762",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "215788744"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tenda-f6-n300-i215788744-s1164256762.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3c502ad627533bc8a70b788fe6bae1c0.jpg",
+            "originalPrice": "2000.00",
+            "originalPriceShow": "৳ 2,000",
+            "price": "1195",
+            "promotionId": "null",
+            "priceShow": "৳ 1,195",
+            "discount": "-40%",
+            "ratingScore": "4.47222",
+            "review": "36",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "215788744_BD-1164256762",
+            "sku": "215788744_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "31875",
+            "brandName": "Tenda",
+            "sellerId": "700509717013",
+            "mainSellerId": "",
+            "sellerName": "Kopotakkho Electronics (JAS)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3c502ad627533bc8a70b788fe6bae1c0.jpg",
+                    "productUrl": "/products/tenda-f6-n300-i215788744-s1164256762.html",
+                    "sku": "215788744_BD",
+                    "skuId": "1164256762"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                128
+            ],
+            "clickTrace": "query:;nid:215788744;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:215788744_BD;price:1195;client:desktop;supplier_id:700509717013;asc_category_id:128;item_id:215788744;sku_id:1164256762;shop_id:215927",
+            "addToCartSkus": [
+                {
+                    "sku": "215788744_BD-1164256762",
+                    "skuId": "1164256762",
+                    "count": 0
+                }
+            ],
+            "itemId": "215788744",
+            "skuId": "1164256762",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Tp-Link Archer C20 Ac750 Wireless Dual-Band Router",
+            "nid": "880372",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "2505511",
+                "scene_pre": "search",
+                "current_price": "2115",
+                "x_sku_ids": "1013830079",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "2505511"
+            },
+            "productUrl": "//www.daraz.com.bd/products/c20-ac750-i2505511-s1013830079.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2c5d364441d2822057423aeffb64ae1c.jpg",
+            "originalPrice": "2490.00",
+            "originalPriceShow": "৳ 2,490",
+            "price": "2115",
+            "promotionId": "null",
+            "priceShow": "৳ 2,115",
+            "discount": "-15%",
+            "ratingScore": "4.63102",
+            "review": "561",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "2505511_BD-1013830079",
+            "sku": "2505511_BD",
+            "skus": [],
+            "description": [
+                "Supports 802.11ac standard - the next generation of Wi-Fi",
+                "Simultaneous 2.4GHz 300Mbps and 5GHz 433Mbps connections for 733Mbps of total available bandwidth",
+                "3 external antennas provide stable omnidirectional signal and superior wireless coverage"
+            ],
+            "brandId": "25292",
+            "brandName": "TP Link",
+            "sellerId": "5885",
+            "mainSellerId": "",
+            "sellerName": "TP-Link Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2c5d364441d2822057423aeffb64ae1c.jpg",
+                    "productUrl": "/products/c20-ac750-i2505511-s1013830079.html",
+                    "sku": "2505511_BD",
+                    "skuId": "1013830079"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                128
+            ],
+            "clickTrace": "query:;nid:880372;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:2505511_BD;price:2115;client:desktop;supplier_id:5885;asc_category_id:128;item_id:2505511;sku_id:1013830079;shop_id:5641",
+            "addToCartSkus": [
+                {
+                    "sku": "2505511_BD-1013830079",
+                    "skuId": "1013830079",
+                    "count": 0
+                }
+            ],
+            "itemId": "2505511",
+            "skuId": "1013830079",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Tp-Link Archer C24 Ac750 Dual-Band Wi-Fi Router",
+            "nid": "140302165",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "140302165",
+                "scene_pre": "search",
+                "current_price": "1941",
+                "x_sku_ids": "1063714737",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "140302165"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tp-link-archer-c24-ac750-dual-band-wi-fi-router-i140302165-s1063714737.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a6b986b6ea5bc8eb79508ec049615e95.jpg",
+            "originalPrice": "2790.00",
+            "originalPriceShow": "৳ 2,790",
+            "price": "1941",
+            "promotionId": "null",
+            "priceShow": "৳ 1,941",
+            "discount": "-30%",
+            "ratingScore": "4.49699",
+            "review": "332",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "140302165_BD-1063714737",
+            "sku": "140302165_BD",
+            "skus": [],
+            "description": [
+                "No warranty card is required, Product serial number is enough for claiming warranty.",
+                "In case Product package is opened, we will not accept the return of the product. You should claim warranty in case you face any trouble.",
+                "High-Speed Wi-Fi&mdash;AC750 dual-band is ideal for HD video streaming, high-speed downloading.",
+                "Far-Reaching Coverage&mdash;4&times; antennas deliver far-reaching Wi-Fi and reliable connections.",
+                "Multi-Mode 3 in 1&mdash;Supports Router, Access Point, and Range Extender to add flexibilities.",
+                "Parental Controls&mdash;Manages when and how connected devices can access the internet.",
+                "Guest Network&mdash;Provides separate access for guests while securing the host network.",
+                "Smooth HD Streaming&mdash;Supports IGMP Proxy/Snooping, Bridge and Tag VLAN to optimize IPTV streaming.",
+                "IPv6 Supported&mdash;Compatible with the IPv6 (the latest Internet Protocol version 6).",
+                "Compact and Mountable&mdash;Designed to conserve space and complement any d&eacute;cor."
+            ],
+            "brandId": "25292",
+            "brandName": "TP Link",
+            "sellerId": "5885",
+            "mainSellerId": "",
+            "sellerName": "TP-Link Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a6b986b6ea5bc8eb79508ec049615e95.jpg",
+                    "productUrl": "/products/tp-link-archer-c24-ac750-dual-band-wi-fi-router-i140302165-s1063714737.html",
+                    "sku": "140302165_BD",
+                    "skuId": "1063714737"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                128
+            ],
+            "clickTrace": "query:;nid:140302165;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:140302165_BD;price:1941;client:desktop;supplier_id:5885;asc_category_id:128;item_id:140302165;sku_id:1063714737;shop_id:5641",
+            "addToCartSkus": [
+                {
+                    "sku": "140302165_BD-1063714737",
+                    "skuId": "1063714737",
+                    "count": 0
+                }
+            ],
+            "itemId": "140302165",
+            "skuId": "1063714737",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "TP-Link TL-WR940N 450Mbps Wireless N Router",
+            "nid": "113902190",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "113902190",
+                "scene_pre": "search",
+                "current_price": "1755",
+                "x_sku_ids": "1031272219",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "113902190"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tl-wr940n-mbps-n-i113902190-s1031272219.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/52a32b583ba5b25c501b07ac3ca85406.jpg",
+            "originalPrice": "2490.00",
+            "originalPriceShow": "৳ 2,490",
+            "price": "1755",
+            "promotionId": "null",
+            "priceShow": "৳ 1,755",
+            "discount": "-30%",
+            "ratingScore": "4.61158",
+            "review": "1537",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "113902190_BD-1031272219",
+            "sku": "113902190_BD",
+            "skus": [],
+            "description": [
+                "No warranty card is required, Product serial number is enough for claiming warranty.",
+                "In case Product package is opened, we will not accept the return of the product. You should claim warranty in case you face any trouble.",
+                "450Mbps wireless speed ideal for interruption sensitive applications like HD video streaming",
+                "Three antennas increase the wireless robustness and stability",
+                "Supports 3 modes: Router, Range Extender and Access Point modes",
+                "Easy wireless security encryption at a push of WPS button",
+                "Bandwidth Control: assigns your preferred devices with more bandwidth"
+            ],
+            "brandId": "25292",
+            "brandName": "TP Link",
+            "sellerId": "5885",
+            "mainSellerId": "",
+            "sellerName": "TP-Link Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/52a32b583ba5b25c501b07ac3ca85406.jpg",
+                    "productUrl": "/products/tl-wr940n-mbps-n-i113902190-s1031272219.html",
+                    "sku": "113902190_BD",
+                    "skuId": "1031272219"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                128
+            ],
+            "clickTrace": "query:;nid:113902190;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:113902190_BD;price:1755;client:desktop;supplier_id:5885;asc_category_id:128;item_id:113902190;sku_id:1031272219;shop_id:5641",
+            "addToCartSkus": [
+                {
+                    "sku": "113902190_BD-1031272219",
+                    "skuId": "1031272219",
+                    "count": 0
+                }
+            ],
+            "itemId": "113902190",
+            "skuId": "1031272219",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "TP-Link Archer C54 AC1200 Dual Band Wi-Fi Router",
+            "nid": "188538221",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "188538221",
+                "scene_pre": "search",
+                "current_price": "2394",
+                "x_sku_ids": "1135972329",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "188538221"
+            },
+            "productUrl": "//www.daraz.com.bd/products/c54-ac1200-i188538221-s1135972329.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bfda5b0220eaad0a7eeb0934b08acc10.jpg",
+            "originalPrice": "2790.00",
+            "originalPriceShow": "৳ 2,790",
+            "price": "2394",
+            "promotionId": "null",
+            "priceShow": "৳ 2,394",
+            "discount": "-14%",
+            "ratingScore": "4.70536",
+            "review": "112",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "188538221_BD-1135972329",
+            "sku": "188538221_BD",
+            "skus": [],
+            "description": [
+                "In case Product package is opened, we will not accept the return of the product. You should claim warranty in case you face any trouble.",
+                "Faster AC Wi-Fi&mdash;AC1200 dual-band is ideal for 4K video streaming and high-speed downloading.",
+                "Far-Reaching Coverage&mdash;4&times; antennas and Beamforming delivers extensive Wi-Fi coverage and reliable connections.",
+                "Multi-Mode 3-in-1&mdash;Supports Router, Access Point, and Range Extender modes for added flexibility.",
+                "Parental Controls&mdash;Manages when and how connected devices can access the internet.",
+                "Guest Network&mdash;Provides separate access for guests in order to secure the host network.",
+                "Smooth HD Streaming&mdash;Supports IGMP Proxy/Snooping, Bridge, and Tag VLAN to optimize IPTV streaming.",
+                "IPv6 Supported&mdash;Compatible with the IPv6 (the latest Internet Protocol version 6).",
+                "Compact and Mountable&mdash;Designed to conserve space and complement any d&eacute;cor."
+            ],
+            "brandId": "25292",
+            "brandName": "TP Link",
+            "sellerId": "5885",
+            "mainSellerId": "",
+            "sellerName": "TP-Link Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bfda5b0220eaad0a7eeb0934b08acc10.jpg",
+                    "productUrl": "/products/c54-ac1200-i188538221-s1135972329.html",
+                    "sku": "188538221_BD",
+                    "skuId": "1135972329"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                128
+            ],
+            "clickTrace": "query:;nid:188538221;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:188538221_BD;price:2394;client:desktop;supplier_id:5885;asc_category_id:128;item_id:188538221;sku_id:1135972329;shop_id:5641",
+            "addToCartSkus": [
+                {
+                    "sku": "188538221_BD-1135972329",
+                    "skuId": "1135972329",
+                    "count": 0
+                }
+            ],
+            "itemId": "188538221",
+            "skuId": "1135972329",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Wireless 300mbps Usb Wifi Adapter With External Antenna-black",
+            "nid": "125105687",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "125105687",
+                "scene_pre": "search",
+                "current_price": "195.00",
+                "x_sku_ids": "1045289349",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "125105687"
+            },
+            "productUrl": "//www.daraz.com.bd/products/300mbps-usb-wifi-i125105687-s1045289349.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bd4391a5b09ae4f8122b7c568663fc79.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "195.00",
+            "promotionId": "null",
+            "priceShow": "৳ 195",
+            "discount": "-57%",
+            "ratingScore": "4.13793",
+            "review": "29",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "125105687_BD-1045289349",
+            "sku": "125105687_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1020415",
+            "mainSellerId": "",
+            "sellerName": "Planetx",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bd4391a5b09ae4f8122b7c568663fc79.jpg",
+                    "productUrl": "/products/300mbps-usb-wifi-i125105687-s1045289349.html",
+                    "sku": "125105687_BD",
+                    "skuId": "1045289349"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                7870,
+                7872
+            ],
+            "clickTrace": "query:;nid:125105687;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:125105687_BD;price:195.00;client:desktop;supplier_id:1020415;asc_category_id:7872;item_id:125105687;sku_id:1045289349;shop_id:26646",
+            "addToCartSkus": [
+                {
+                    "sku": "125105687_BD-1045289349",
+                    "skuId": "1045289349",
+                    "count": 0
+                }
+            ],
+            "itemId": "125105687",
+            "skuId": "1045289349",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WGP Mini UPS for Router, Onu, CCTV 5 9 12 Volt Output + Charger",
+            "nid": "221389644",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "221389644",
+                "scene_pre": "search",
+                "current_price": "1659",
+                "x_sku_ids": "1168206908",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "221389644"
+            },
+            "productUrl": "//www.daraz.com.bd/products/wgp-mini-ups-for-router-onu-cctv-5-9-12-volt-output-charger-i221389644-s1168206908.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2f06f39a62ef0b676ea02f69b336e382.jpg",
+            "originalPrice": "1850.00",
+            "originalPriceShow": "৳ 1,850",
+            "price": "1659",
+            "promotionId": "null",
+            "priceShow": "৳ 1,659",
+            "discount": "-10%",
+            "ratingScore": "4.81818",
+            "review": "22",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "221389644_BD-1168206908",
+            "sku": "221389644_BD",
+            "skus": [],
+            "description": [
+                "Uses for Router, Onu, CCTV camera, PON, MC, switch back up.",
+                "You can also charge your mobile using it as a power bank.",
+                "Our Mini UPS is 100% guaranteed that your router and Onu together will back up for at least 5-10 hours.",
+                "It is kindly requested to check your router and Onu volt before ordering and order the product of correct variation."
+            ],
+            "brandId": "121067618",
+            "brandName": "WGP",
+            "sellerId": "1023368",
+            "mainSellerId": "",
+            "sellerName": "UniShop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2f06f39a62ef0b676ea02f69b336e382.jpg",
+                    "productUrl": "/products/wgp-mini-ups-for-router-onu-cctv-5-9-12-volt-output-charger-i221389644-s1168206908.html",
+                    "sku": "221389644_BD",
+                    "skuId": "1168206908"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                122
+            ],
+            "clickTrace": "query:;nid:221389644;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:221389644_BD;price:1659;client:desktop;supplier_id:1023368;asc_category_id:122;item_id:221389644;sku_id:1168206908;shop_id:29567",
+            "addToCartSkus": [
+                {
+                    "sku": "221389644_BD-1168206908",
+                    "skuId": "1168206908",
+                    "count": 0
+                }
+            ],
+            "itemId": "221389644",
+            "skuId": "1168206908",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "D-Link Router Dir-650In Wireless N300 Router",
+            "nid": "128366339",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "128366339",
+                "scene_pre": "search",
+                "current_price": "1452",
+                "x_sku_ids": "1048254545",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "128366339"
+            },
+            "productUrl": "//www.daraz.com.bd/products/d-link-router-dir-650in-wireless-n300-router-i128366339-s1048254545.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8ea2beb34fcbb8e4eae10b955a2bbb99.jpg",
+            "originalPrice": "1790.00",
+            "originalPriceShow": "৳ 1,790",
+            "price": "1452",
+            "promotionId": "null",
+            "priceShow": "৳ 1,452",
+            "discount": "-19%",
+            "ratingScore": "4.51984",
+            "review": "252",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "128366339_BD-1048254545",
+            "sku": "128366339_BD",
+            "skus": [],
+            "description": [
+                "Internet connection with wired and wireless devices.",
+                "Advanced Security with WPA/WPA2 and Firewall (NAT).",
+                "Multiple Operating Modes: Router  AP  Repeater  Client  WISP client/Repeater.",
+                "Web browser-based setup and configuration."
+            ],
+            "brandId": "14284",
+            "brandName": "D-Link",
+            "sellerId": "202",
+            "mainSellerId": "",
+            "sellerName": "Tech Online",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8ea2beb34fcbb8e4eae10b955a2bbb99.jpg",
+                    "productUrl": "/products/d-link-router-dir-650in-wireless-n300-router-i128366339-s1048254545.html",
+                    "sku": "128366339_BD",
+                    "skuId": "1048254545"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                128
+            ],
+            "clickTrace": "query:;nid:128366339;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:128366339_BD;price:1452;client:desktop;supplier_id:202;asc_category_id:128;item_id:128366339;sku_id:1048254545;shop_id:1449",
+            "addToCartSkus": [
+                {
+                    "sku": "128366339_BD-1048254545",
+                    "skuId": "1048254545",
+                    "count": 0
+                }
+            ],
+            "itemId": "128366339",
+            "skuId": "1048254545",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Xiaomi Mi Wi-Fi Range Extender Pro Global Version - Black",
+            "nid": "221805125",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "221805125",
+                "scene_pre": "search",
+                "current_price": "850",
+                "x_sku_ids": "1168404763",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "221805125"
+            },
+            "productUrl": "//www.daraz.com.bd/products/xiaomi-mi-wi-fi-i221805125-s1168404763.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6a6e8cd2e693ecdc7af01d7837cfcca2.jpg",
+            "originalPrice": "1200.00",
+            "originalPriceShow": "৳ 1,200",
+            "price": "850",
+            "promotionId": "null",
+            "priceShow": "৳ 850",
+            "discount": "-29%",
+            "ratingScore": "4.77778",
+            "review": "9",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "221805125_BD-1168404763",
+            "sku": "221805125_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508760243",
+            "mainSellerId": "",
+            "sellerName": "Techi e Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6a6e8cd2e693ecdc7af01d7837cfcca2.jpg",
+                    "productUrl": "/products/xiaomi-mi-wi-fi-i221805125-s1168404763.html",
+                    "sku": "221805125_BD",
+                    "skuId": "1168404763"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                7869
+            ],
+            "clickTrace": "query:;nid:221805125;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:221805125_BD;price:850;client:desktop;supplier_id:700508760243;asc_category_id:7869;item_id:221805125;sku_id:1168404763;shop_id:181374",
+            "addToCartSkus": [
+                {
+                    "sku": "221805125_BD-1168404763",
+                    "skuId": "1168404763",
+                    "count": 0
+                }
+            ],
+            "itemId": "221805125",
+            "skuId": "1168404763",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "50 Pieces RJ45 Plug Ethernet Gold Plated Network Connector CAT5e CAT6 Transparent Networking Cable Connectors,",
+            "nid": "128538605",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "128538605",
+                "scene_pre": "search",
+                "current_price": "123",
+                "x_sku_ids": "1048412227",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "128538605"
+            },
+            "productUrl": "//www.daraz.com.bd/products/50-rj45-cat5e-cat6-i128538605-s1048412227.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/b2b10491220ae593d261b3a4fda64978.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "123",
+            "promotionId": "null",
+            "priceShow": "৳ 123",
+            "discount": "-18%",
+            "ratingScore": "4.77778",
+            "review": "18",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "128538605_BD-1048412227",
+            "sku": "128538605_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1026451",
+            "mainSellerId": "",
+            "sellerName": "Dulcet Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/b2b10491220ae593d261b3a4fda64978.jpg",
+                    "productUrl": "/products/50-rj45-cat5e-cat6-i128538605-s1048412227.html",
+                    "sku": "128538605_BD",
+                    "skuId": "1048412227"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                124
+            ],
+            "clickTrace": "query:;nid:128538605;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:128538605_BD;price:123;client:desktop;supplier_id:1026451;asc_category_id:124;item_id:128538605;sku_id:1048412227;shop_id:32596",
+            "addToCartSkus": [
+                {
+                    "sku": "128538605_BD-1048412227",
+                    "skuId": "1048412227",
+                    "count": 0
+                }
+            ],
+            "itemId": "128538605",
+            "skuId": "1048412227",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mini Bluetooth CSR 4.0 USB Dongle Adapter",
+            "nid": "125106628",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "125106628",
+                "scene_pre": "search",
+                "current_price": "131.00",
+                "x_sku_ids": "1045288349",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "125106628"
+            },
+            "productUrl": "//www.daraz.com.bd/products/csr-40-usb-i125106628-s1045288349.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/e4bb1b3bb6f7e5a7f5e1f3d14db2353a.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "131.00",
+            "promotionId": "null",
+            "priceShow": "৳ 131",
+            "discount": "-74%",
+            "ratingScore": "3.90323",
+            "review": "124",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "125106628_BD-1045288349",
+            "sku": "125106628_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1020415",
+            "mainSellerId": "",
+            "sellerName": "Planetx",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/e4bb1b3bb6f7e5a7f5e1f3d14db2353a.jpg",
+                    "productUrl": "/products/csr-40-usb-i125106628-s1045288349.html",
+                    "sku": "125106628_BD",
+                    "skuId": "1045288349"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                7870,
+                7873
+            ],
+            "clickTrace": "query:;nid:125106628;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:125106628_BD;price:131.00;client:desktop;supplier_id:1020415;asc_category_id:7873;item_id:125106628;sku_id:1045288349;shop_id:26646",
+            "addToCartSkus": [
+                {
+                    "sku": "125106628_BD-1045288349",
+                    "skuId": "1045288349",
+                    "count": 0
+                }
+            ],
+            "itemId": "125106628",
+            "skuId": "1045288349",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Xiaomi Mi 4C Wireless Router 2.4GHz / 300Mbps / Four Antennas - WHITE(Global Version)",
+            "nid": "225417609",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225417609",
+                "scene_pre": "search",
+                "current_price": "849.00",
+                "x_sku_ids": "1170611341",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "225417609"
+            },
+            "productUrl": "//www.daraz.com.bd/products/xiaomi-mi-4c-24ghz300mbps-i225417609-s1170611341.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3f985c299a3c685ca8a6180e8573ce6b.jpg",
+            "originalPrice": "1600.00",
+            "originalPriceShow": "৳ 1,600",
+            "price": "849.00",
+            "promotionId": "null",
+            "priceShow": "৳ 849",
+            "discount": "-47%",
+            "ratingScore": "4.64",
+            "review": "75",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225417609_BD-1170611341",
+            "sku": "225417609_BD",
+            "skus": [],
+            "description": [
+                "Brand: Xiaomi",
+                "Router Connectivity Type: Ethernet, Wireless",
+                "Transmission Rate: 300Mbps",
+                "Speed of Ethernet Port: 10/100Mbps",
+                "Network Protocols: IEEE 802.11b/g/n,IEEE 802.3/3u",
+                "Wireless Standard: Wireless AC",
+                "Wireless Security: WPA-PSK,WPA2-PSK",
+                "Processor: MT76228DA",
+                "RAM: 64MB DDR2",
+                "WiFi Distance: 10m",
+                "LAN Ports: 2 ports",
+                "Max. LAN Data Rate: 300Mbps",
+                "DC Port: 5.5 x 2.1",
+                "Gain dBi: 5dBi",
+                "Quantity of Antenna: 4",
+                "Working Voltage: 12V / 1A",
+                "Language: English",
+                "Firewall Settings: Support",
+                "Product weight: 0.4400 kg",
+                "Product size: 24.00 x 16.00 x 3.00 cm / 9.45 x 6.3 x 1.18 inches"
+            ],
+            "brandId": "12960",
+            "brandName": "Xiaomi",
+            "sellerId": "700508355293",
+            "mainSellerId": "",
+            "sellerName": "Salient Enterprise",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3f985c299a3c685ca8a6180e8573ce6b.jpg",
+                    "productUrl": "/products/xiaomi-mi-4c-24ghz300mbps-i225417609-s1170611341.html",
+                    "sku": "225417609_BD",
+                    "skuId": "1170611341"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                128
+            ],
+            "clickTrace": "query:;nid:225417609;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:225417609_BD;price:849.00;client:desktop;supplier_id:700508355293;asc_category_id:128;item_id:225417609;sku_id:1170611341;shop_id:150853",
+            "addToCartSkus": [
+                {
+                    "sku": "225417609_BD-1170611341",
+                    "skuId": "1170611341",
+                    "count": 0
+                }
+            ],
+            "itemId": "225417609",
+            "skuId": "1170611341",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "USB Wifi Receiver and Share 600Mbps PC - Black",
+            "nid": "104072362",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "104072362",
+                "scene_pre": "search",
+                "current_price": "230",
+                "x_sku_ids": "1018804094",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "104072362"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-wi-fi-600mbps-i104072362-s1018804094.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c4210b04915a7ed474036b85ddd1c4b8.jpg",
+            "originalPrice": "700.00",
+            "originalPriceShow": "৳ 700",
+            "price": "230",
+            "promotionId": "null",
+            "priceShow": "৳ 230",
+            "discount": "-67%",
+            "ratingScore": "4",
+            "review": "62",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "104072362_BD-1018804094",
+            "sku": "104072362_BD",
+            "skus": [],
+            "description": [
+                "600Mbps",
+                "Mini USB 2.0 Port",
+                "Wireless Wifi Adapter 802.IIN",
+                "LAN Network",
+                "Wi-fi Adapters With Antenna 35j-CDA0855A1",
+                "With Cd"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1010275",
+            "mainSellerId": "",
+            "sellerName": "RK Computer & Technology",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c4210b04915a7ed474036b85ddd1c4b8.jpg",
+                    "productUrl": "/products/usb-wi-fi-600mbps-i104072362-s1018804094.html",
+                    "sku": "104072362_BD",
+                    "skuId": "1018804094"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                7870,
+                7872
+            ],
+            "clickTrace": "query:;nid:104072362;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:104072362_BD;price:230;client:desktop;supplier_id:1010275;asc_category_id:7872;item_id:104072362;sku_id:1018804094;shop_id:16538",
+            "addToCartSkus": [
+                {
+                    "sku": "104072362_BD-1018804094",
+                    "skuId": "1018804094",
+                    "count": 0
+                }
+            ],
+            "itemId": "104072362",
+            "skuId": "1018804094",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "USB 3.0 Gigabit LAN to RJ45 Ethernet Adapter 10/100/1000Mbps",
+            "nid": "101106227",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101106227",
+                "scene_pre": "search",
+                "current_price": "444",
+                "x_sku_ids": "1015108223",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "101106227"
+            },
+            "productUrl": "//www.daraz.com.bd/products/rj45-1030100-mbps-usb-1000-i101106227-s1015108223.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1451ab46f0b8373dbb73249f7eccac04.jpg",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "444",
+            "promotionId": "null",
+            "priceShow": "৳ 444",
+            "discount": "-41%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101106227_BD-1015108223",
+            "sku": "101106227_BD",
+            "skus": [],
+            "description": [
+                "Brand Name:None",
+                "Model Number:None",
+                "Package:Yes"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1001682",
+            "mainSellerId": "",
+            "sellerName": "bright star technology",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1451ab46f0b8373dbb73249f7eccac04.jpg",
+                    "productUrl": "/products/rj45-1030100-mbps-usb-1000-i101106227-s1015108223.html",
+                    "sku": "101106227_BD",
+                    "skuId": "1015108223"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                7870,
+                7871
+            ],
+            "clickTrace": "query:;nid:101106227;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:101106227_BD;price:444;client:desktop;supplier_id:1001682;asc_category_id:7871;item_id:101106227;sku_id:1015108223;shop_id:7919",
+            "addToCartSkus": [
+                {
+                    "sku": "101106227_BD-1015108223",
+                    "skuId": "1015108223",
+                    "count": 0
+                }
+            ],
+            "itemId": "101106227",
+            "skuId": "1015108223",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Alfa Net WiFi Fixed 3DBi Antenna Wireless-N USB Adapter",
+            "nid": "136786899",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "136786899",
+                "scene_pre": "search",
+                "current_price": "276",
+                "x_sku_ids": "1058992041",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "136786899"
+            },
+            "productUrl": "//www.daraz.com.bd/products/3-n-usb-i136786899-s1058992041.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/23c22967f8836182b9a4c4e9b210074c.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "276",
+            "promotionId": "null",
+            "priceShow": "৳ 276",
+            "discount": "-50%",
+            "ratingScore": "4.68687",
+            "review": "99",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "136786899_BD-1058992041",
+            "sku": "136786899_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506441011",
+            "mainSellerId": "",
+            "sellerName": "Golden Star Solution",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/23c22967f8836182b9a4c4e9b210074c.jpg",
+                    "productUrl": "/products/3-n-usb-i136786899-s1058992041.html",
+                    "sku": "136786899_BD",
+                    "skuId": "1058992041"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                130
+            ],
+            "clickTrace": "query:;nid:136786899;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:136786899_BD;price:276;client:desktop;supplier_id:700506441011;asc_category_id:130;item_id:136786899;sku_id:1058992041;shop_id:79331",
+            "addToCartSkus": [
+                {
+                    "sku": "136786899_BD-1058992041",
+                    "skuId": "1058992041",
+                    "count": 0
+                }
+            ],
+            "itemId": "136786899",
+            "skuId": "1058992041",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Xiaomi MI 4C R4CM 300 Mbps 4 Antenna Router Global Version",
+            "nid": "209667679",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209667679",
+                "scene_pre": "search",
+                "current_price": "813",
+                "x_sku_ids": "1159971489",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "209667679"
+            },
+            "productUrl": "//www.daraz.com.bd/products/4c-i209667679-s1159971489.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/695527a31ba11f7e8550a68b33675369.jpg",
+            "originalPrice": "1599.00",
+            "originalPriceShow": "৳ 1,599",
+            "price": "813",
+            "promotionId": "null",
+            "priceShow": "৳ 813",
+            "discount": "-49%",
+            "ratingScore": "4.69697",
+            "review": "66",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209667679_BD-1159971489",
+            "sku": "209667679_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "12960",
+            "brandName": "Xiaomi",
+            "sellerId": "700509297106",
+            "mainSellerId": "",
+            "sellerName": "Magic Guru",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/695527a31ba11f7e8550a68b33675369.jpg",
+                    "productUrl": "/products/4c-i209667679-s1159971489.html",
+                    "sku": "209667679_BD",
+                    "skuId": "1159971489"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                129
+            ],
+            "clickTrace": "query:;nid:209667679;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:209667679_BD;price:813;client:desktop;supplier_id:700509297106;asc_category_id:129;item_id:209667679;sku_id:1159971489;shop_id:206998",
+            "addToCartSkus": [
+                {
+                    "sku": "209667679_BD-1159971489",
+                    "skuId": "1159971489",
+                    "count": 0
+                }
+            ],
+            "itemId": "209667679",
+            "skuId": "1159971489",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "150Mbps WiFi Receiver Nano Adapter",
+            "nid": "104060865",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "104060865",
+                "scene_pre": "search",
+                "current_price": "155",
+                "x_sku_ids": "1018794694",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "104060865"
+            },
+            "productUrl": "//www.daraz.com.bd/products/150mbps-wifi-i104060865-s1018794694.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1fa717b56bdab9c439d9283bfcbb23bc.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "155",
+            "promotionId": "null",
+            "priceShow": "৳ 155",
+            "discount": "-61%",
+            "ratingScore": "4.35088",
+            "review": "57",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "104060865_BD-1018794694",
+            "sku": "104060865_BD",
+            "skus": [],
+            "description": [
+                "Tiny WIFI Adapter is small",
+                "Simple to install",
+                "WIFI Adapter USB 2.0",
+                "Works Great on Desktop and Laptop",
+                "Speed: 150Mb/s",
+                "Multimedia Streaming"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1010275",
+            "mainSellerId": "",
+            "sellerName": "RK Computer & Technology",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1fa717b56bdab9c439d9283bfcbb23bc.jpg",
+                    "productUrl": "/products/150mbps-wifi-i104060865-s1018794694.html",
+                    "sku": "104060865_BD",
+                    "skuId": "1018794694"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                130
+            ],
+            "clickTrace": "query:;nid:104060865;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:104060865_BD;price:155;client:desktop;supplier_id:1010275;asc_category_id:130;item_id:104060865;sku_id:1018794694;shop_id:16538",
+            "addToCartSkus": [
+                {
+                    "sku": "104060865_BD-1018794694",
+                    "skuId": "1018794694",
+                    "count": 0
+                }
+            ],
+            "itemId": "104060865",
+            "skuId": "1018794694",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "ALFA NET W115 802.11 b/g/n 150Mbps USB WiFi Wireless-N Adapter with Fixed High Gain Antenna Long Range - Black",
+            "nid": "212987424",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "212987424",
+                "scene_pre": "search",
+                "current_price": "263",
+                "x_sku_ids": "1162414277",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "212987424"
+            },
+            "productUrl": "//www.daraz.com.bd/products/alfa-w115-80211-bgn-150mbps-usb-wifi-n-i212987424-s1162414277.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ffa46aaaa43bbd22b44cfa4cfe3028cf.jpg",
+            "originalPrice": "600.00",
+            "originalPriceShow": "৳ 600",
+            "price": "263",
+            "promotionId": "null",
+            "priceShow": "৳ 263",
+            "discount": "-56%",
+            "ratingScore": "5",
+            "review": "17",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "212987424_BD-1162414277",
+            "sku": "212987424_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508802230",
+            "mainSellerId": "",
+            "sellerName": "Tech One Computer",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ffa46aaaa43bbd22b44cfa4cfe3028cf.jpg",
+                    "productUrl": "/products/alfa-w115-80211-bgn-150mbps-usb-wifi-n-i212987424-s1162414277.html",
+                    "sku": "212987424_BD",
+                    "skuId": "1162414277"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                130
+            ],
+            "clickTrace": "query:;nid:212987424;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:212987424_BD;price:263;client:desktop;supplier_id:700508802230;asc_category_id:130;item_id:212987424;sku_id:1162414277;shop_id:188269",
+            "addToCartSkus": [
+                {
+                    "sku": "212987424_BD-1162414277",
+                    "skuId": "1162414277",
+                    "count": 0
+                }
+            ],
+            "itemId": "212987424",
+            "skuId": "1162414277",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Printer Sharing Switch Hub for 2 PC - 1 Printer",
+            "nid": "125104803",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "125104803",
+                "scene_pre": "search",
+                "current_price": "282.00",
+                "x_sku_ids": "1045291207",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "125104803"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-pc-1-i125104803-s1045291207.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/eedb5f86b53e0f2ff2b30d151f18fedb.jpg",
+            "originalPrice": "700.00",
+            "originalPriceShow": "৳ 700",
+            "price": "282.00",
+            "promotionId": "null",
+            "priceShow": "৳ 282",
+            "discount": "-60%",
+            "ratingScore": "4.85714",
+            "review": "21",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "125104803_BD-1045291207",
+            "sku": "125104803_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1020415",
+            "mainSellerId": "",
+            "sellerName": "Planetx",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/eedb5f86b53e0f2ff2b30d151f18fedb.jpg",
+                    "productUrl": "/products/2-pc-1-i125104803-s1045291207.html",
+                    "sku": "125104803_BD",
+                    "skuId": "1045291207"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                129
+            ],
+            "clickTrace": "query:;nid:125104803;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:125104803_BD;price:282.00;client:desktop;supplier_id:1020415;asc_category_id:129;item_id:125104803;sku_id:1045291207;shop_id:26646",
+            "addToCartSkus": [
+                {
+                    "sku": "125104803_BD-1045291207",
+                    "skuId": "1045291207",
+                    "count": 0
+                }
+            ],
+            "itemId": "125104803",
+            "skuId": "1045291207",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "USB Wifi Receiver and Share 300Mbps PC - Black",
+            "nid": "101318686",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101318686",
+                "scene_pre": "search",
+                "current_price": "188",
+                "x_sku_ids": "1015320374",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "101318686"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-wi-fi-300-i101318686-s1015320374.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/517108233f998be7b0c12f471261d805.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "188",
+            "promotionId": "null",
+            "priceShow": "৳ 188",
+            "discount": "-37%",
+            "ratingScore": "4.11538",
+            "review": "52",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101318686_BD-1015320374",
+            "sku": "101318686_BD",
+            "skus": [],
+            "description": [
+                "Mini portable USB 2.0 design.",
+                "Wireless N speed up to 150Mbps, ideal for internet surfing and on-line gaming.",
+                "Complies with IEEE 802.11n (Draft 2.0), IEEE 802.11g, IEEE 802.11b standards.",
+                "Provides two work modes: Infrastructure and Ad-Hoc.",
+                "MIMO technology makes wireless transmission rates up to 300Mbps.",
+                "CCA technology enhances your signal stablility by automatically avoiding channe"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1009425",
+            "mainSellerId": "",
+            "sellerName": "Hanif Computer And Technology",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/517108233f998be7b0c12f471261d805.jpg",
+                    "productUrl": "/products/usb-wi-fi-300-i101318686-s1015320374.html",
+                    "sku": "101318686_BD",
+                    "skuId": "1015320374"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                130
+            ],
+            "clickTrace": "query:;nid:101318686;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:101318686_BD;price:188;client:desktop;supplier_id:1009425;asc_category_id:130;item_id:101318686;sku_id:1015320374;shop_id:15594",
+            "addToCartSkus": [
+                {
+                    "sku": "101318686_BD-1015320374",
+                    "skuId": "1015320374",
+                    "count": 0
+                }
+            ],
+            "itemId": "101318686",
+            "skuId": "1015320374",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Baseus Bluetooth Adapter For Computer PC CSR 5.0 USB  Dongle For Wireless Adapter",
+            "nid": "100694804",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "100694804",
+                "scene_pre": "search",
+                "current_price": "412",
+                "x_sku_ids": "1014660843",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "100694804"
+            },
+            "productUrl": "//www.daraz.com.bd/products/baseus-bluetooth-adapter-for-computer-pc-csr-50-usb-dongle-for-wireless-adapter-i100694804-s1014660843.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9f9cd1097ee18abb36399c9108f57ff1.jpg",
+            "originalPrice": "420.00",
+            "originalPriceShow": "৳ 420",
+            "price": "412",
+            "promotionId": "null",
+            "priceShow": "৳ 412",
+            "discount": "-2%",
+            "ratingScore": "4.58101",
+            "review": "358",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "100694804_BD-1014660843",
+            "sku": "100694804_BD",
+            "skus": [],
+            "description": [
+                "Brand Name:BASEUS",
+                "Bluetooth Standard:Bluetooth v4.0",
+                "Model Number:Baseus USB Bluetooth Adapter",
+                "Package:Yes",
+                "Product Name:Baseus USB Bluetooth Adapter Dongle",
+                "Bluetooth Standard:Bluetooth V4.0",
+                "Function:Operation Range 10 Meters",
+                "Feature 1:USB Bluetooth Adapter For Wireless Earphone Bluetooth Speaker"
+            ],
+            "brandId": "28268",
+            "brandName": "BASEUS",
+            "sellerId": "138",
+            "mainSellerId": "",
+            "sellerName": "A.D.R Accessories and Electronics.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9f9cd1097ee18abb36399c9108f57ff1.jpg",
+                    "productUrl": "/products/baseus-bluetooth-adapter-for-computer-pc-csr-50-usb-dongle-for-wireless-adapter-i100694804-s1014660843.html",
+                    "sku": "100694804_BD",
+                    "skuId": "1014660843"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                130
+            ],
+            "clickTrace": "query:;nid:100694804;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:100694804_BD;price:412;client:desktop;supplier_id:138;asc_category_id:130;item_id:100694804;sku_id:1014660843;shop_id:222",
+            "addToCartSkus": [
+                {
+                    "sku": "100694804_BD-1014660843",
+                    "skuId": "1014660843",
+                    "count": 0
+                }
+            ],
+            "itemId": "100694804",
+            "skuId": "1014660843",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WIFI Receiver Wireless USB Adapter Model W115 Antenna 2.4GHz Computer/Laptop ALFA",
+            "nid": "198230510",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "198230510",
+                "scene_pre": "search",
+                "current_price": "316",
+                "x_sku_ids": "1145058678",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "198230510"
+            },
+            "productUrl": "//www.daraz.com.bd/products/wifi-usb-w115-24ghz-i198230510-s1145058678.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/38ebabd35419806589c0be702cbdb90e.jpg",
+            "originalPrice": "600.00",
+            "originalPriceShow": "৳ 600",
+            "price": "316",
+            "promotionId": "null",
+            "priceShow": "৳ 316",
+            "discount": "-47%",
+            "ratingScore": "4.65909",
+            "review": "44",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "198230510_BD-1145058678",
+            "sku": "198230510_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506423273",
+            "mainSellerId": "",
+            "sellerName": "New_Style",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/38ebabd35419806589c0be702cbdb90e.jpg",
+                    "productUrl": "/products/wifi-usb-w115-24ghz-i198230510-s1145058678.html",
+                    "sku": "198230510_BD",
+                    "skuId": "1145058678"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                130
+            ],
+            "clickTrace": "query:;nid:198230510;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:198230510_BD;price:316;client:desktop;supplier_id:700506423273;asc_category_id:130;item_id:198230510;sku_id:1145058678;shop_id:77008",
+            "addToCartSkus": [
+                {
+                    "sku": "198230510_BD-1145058678",
+                    "skuId": "1145058678",
+                    "count": 0
+                }
+            ],
+            "itemId": "198230510",
+            "skuId": "1145058678",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dry Coconut Powder(500 GM)",
+            "nid": "193289798",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "193289798",
+                "scene_pre": "search",
+                "current_price": "166",
+                "x_sku_ids": "1140012817",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "193289798"
+            },
+            "productUrl": "//www.daraz.com.bd/products/500-i193289798-s1140012817.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6ae6f25bde1d67c3989b890e5974f2da.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "166",
+            "promotionId": "null",
+            "priceShow": "৳ 166",
+            "discount": "-34%",
+            "ratingScore": "5",
+            "review": "10",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "193289798_BD-1140012817",
+            "sku": "193289798_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508127043",
+            "mainSellerId": "",
+            "sellerName": "Khawja Store (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6ae6f25bde1d67c3989b890e5974f2da.jpg",
+                    "productUrl": "/products/500-i193289798-s1140012817.html",
+                    "sku": "193289798_BD",
+                    "skuId": "1140012817"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                129
+            ],
+            "clickTrace": "query:;nid:193289798;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:193289798_BD;price:166;client:desktop;supplier_id:700508127043;asc_category_id:129;item_id:193289798;sku_id:1140012817;shop_id:128016",
+            "addToCartSkus": [
+                {
+                    "sku": "193289798_BD-1140012817",
+                    "skuId": "1140012817",
+                    "count": 0
+                }
+            ],
+            "itemId": "193289798",
+            "skuId": "1140012817",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Xiaomi MI 4C R4CM 300 Mbps 4 Antenna Router Global Version",
+            "nid": "209636619",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209636619",
+                "scene_pre": "search",
+                "current_price": "833",
+                "x_sku_ids": "1159962280",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "209636619"
+            },
+            "productUrl": "//www.daraz.com.bd/products/4c-i209636619-s1159962280.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/afc75fc9d5f464dad94b72b4f0706e79.jpg",
+            "originalPrice": "1600.00",
+            "originalPriceShow": "৳ 1,600",
+            "price": "833",
+            "promotionId": "null",
+            "priceShow": "৳ 833",
+            "discount": "-48%",
+            "ratingScore": "4.70968",
+            "review": "93",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209636619_BD-1159962280",
+            "sku": "209636619_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509309080",
+            "mainSellerId": "",
+            "sellerName": "Gadget S Guru",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/afc75fc9d5f464dad94b72b4f0706e79.jpg",
+                    "productUrl": "/products/4c-i209636619-s1159962280.html",
+                    "sku": "209636619_BD",
+                    "skuId": "1159962280"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                129
+            ],
+            "clickTrace": "query:;nid:209636619;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:209636619_BD;price:833;client:desktop;supplier_id:700509309080;asc_category_id:129;item_id:209636619;sku_id:1159962280;shop_id:206321",
+            "addToCartSkus": [
+                {
+                    "sku": "209636619_BD-1159962280",
+                    "skuId": "1159962280",
+                    "count": 0
+                }
+            ],
+            "itemId": "209636619",
+            "skuId": "1159962280",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Printer Sharing Switch Hub for 2 PC - 1 Printer /Pinter Data Switch 2 Port/",
+            "nid": "209107024",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209107024",
+                "scene_pre": "search",
+                "current_price": "256",
+                "x_sku_ids": "1159333960",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "209107024"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-pc-1-2-i209107024-s1159333960.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3307599ca5f3b793aed705bf63007518.jpg",
+            "originalPrice": "600.00",
+            "originalPriceShow": "৳ 600",
+            "price": "256",
+            "promotionId": "null",
+            "priceShow": "৳ 256",
+            "discount": "-57%",
+            "ratingScore": "3.66667",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209107024_BD-1159333960",
+            "sku": "209107024_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508802230",
+            "mainSellerId": "",
+            "sellerName": "Tech One Computer",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3307599ca5f3b793aed705bf63007518.jpg",
+                    "productUrl": "/products/2-pc-1-2-i209107024-s1159333960.html",
+                    "sku": "209107024_BD",
+                    "skuId": "1159333960"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                129
+            ],
+            "clickTrace": "query:;nid:209107024;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:209107024_BD;price:256;client:desktop;supplier_id:700508802230;asc_category_id:129;item_id:209107024;sku_id:1159333960;shop_id:188269",
+            "addToCartSkus": [
+                {
+                    "sku": "209107024_BD-1159333960",
+                    "skuId": "1159333960",
+                    "count": 0
+                }
+            ],
+            "itemId": "209107024",
+            "skuId": "1159333960",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "USB Wifi Receiver and Share 600Mbps PC - Black",
+            "nid": "101622874",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101622874",
+                "scene_pre": "search",
+                "current_price": "228",
+                "x_sku_ids": "1015644213",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "101622874"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-wi-fi-600mbps-i101622874-s1015644213.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/9b38418130911cd48c30658285b16788.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "228",
+            "promotionId": "null",
+            "priceShow": "৳ 228",
+            "discount": "-54%",
+            "ratingScore": "3.85762",
+            "review": "302",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101622874_BD-1015644213",
+            "sku": "101622874_BD",
+            "skus": [],
+            "description": [
+                "600Mbps",
+                "Mini USB 2.0 Port",
+                "Wireless Wifi Adapter 802.IIN",
+                "LAN Network",
+                "Wi-fi Adapters With Antenna 35j-CDA0855A1",
+                "With Cd"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1010275",
+            "mainSellerId": "",
+            "sellerName": "RK Computer & Technology",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/9b38418130911cd48c30658285b16788.jpg",
+                    "productUrl": "/products/usb-wi-fi-600mbps-i101622874-s1015644213.html",
+                    "sku": "101622874_BD",
+                    "skuId": "1015644213"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                130
+            ],
+            "clickTrace": "query:;nid:101622874;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:101622874_BD;price:228;client:desktop;supplier_id:1010275;asc_category_id:130;item_id:101622874;sku_id:1015644213;shop_id:16538",
+            "addToCartSkus": [
+                {
+                    "sku": "101622874_BD-1015644213",
+                    "skuId": "1015644213",
+                    "count": 0
+                }
+            ],
+            "itemId": "101622874",
+            "skuId": "1015644213",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Huawei Epon Onu",
+            "nid": "215516924",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "215516924",
+                "scene_pre": "search",
+                "current_price": "650",
+                "x_sku_ids": "1164026989",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "215516924"
+            },
+            "productUrl": "//www.daraz.com.bd/products/huawei-i215516924-s1164026989.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e2899ffc0db1d15dc0a0bf300bde1958.jpg",
+            "originalPrice": "1300.00",
+            "originalPriceShow": "৳ 1,300",
+            "price": "650",
+            "promotionId": "null",
+            "priceShow": "৳ 650",
+            "discount": "-50%",
+            "ratingScore": "4.84884",
+            "review": "86",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "215516924_BD-1164026989",
+            "sku": "215516924_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "12947",
+            "brandName": "Huawei",
+            "sellerId": "700508223034",
+            "mainSellerId": "",
+            "sellerName": "GADGET PALLI",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e2899ffc0db1d15dc0a0bf300bde1958.jpg",
+                    "productUrl": "/products/huawei-i215516924-s1164026989.html",
+                    "sku": "215516924_BD",
+                    "skuId": "1164026989"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                129
+            ],
+            "clickTrace": "query:;nid:215516924;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:215516924_BD;price:650;client:desktop;supplier_id:700508223034;asc_category_id:129;item_id:215516924;sku_id:1164026989;shop_id:136349",
+            "addToCartSkus": [
+                {
+                    "sku": "215516924_BD-1164026989",
+                    "skuId": "1164026989",
+                    "count": 0
+                }
+            ],
+            "itemId": "215516924",
+            "skuId": "1164026989",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "OLAX 4G LTE USB Modems Network Adapter With WiFi Hotspot",
+            "nid": "230876701",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230876701",
+                "scene_pre": "search",
+                "current_price": "1650.00",
+                "x_sku_ids": "1174186059",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "230876701"
+            },
+            "productUrl": "//www.daraz.com.bd/products/olax-4g-lte-usb-i230876701-s1174186059.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e498ebd9b6944a409ac0c2f2832f3559.jpg",
+            "originalPrice": "3000.00",
+            "originalPriceShow": "৳ 3,000",
+            "price": "1650.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,650",
+            "discount": "-45%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230876701_BD-1174186059",
+            "sku": "230876701_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508286124",
+            "mainSellerId": "",
+            "sellerName": "Clickable Collection",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e498ebd9b6944a409ac0c2f2832f3559.jpg",
+                    "productUrl": "/products/olax-4g-lte-usb-i230876701-s1174186059.html",
+                    "sku": "230876701_BD",
+                    "skuId": "1174186059"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                130
+            ],
+            "clickTrace": "query:;nid:230876701;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:230876701_BD;price:1650.00;client:desktop;supplier_id:700508286124;asc_category_id:130;item_id:230876701;sku_id:1174186059;shop_id:141401",
+            "addToCartSkus": [
+                {
+                    "sku": "230876701_BD-1174186059",
+                    "skuId": "1174186059",
+                    "count": 0
+                }
+            ],
+            "itemId": "230876701",
+            "skuId": "1174186059",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mishti Jhal Amer/ Mango pickles/Acher -10 pcs(BURMESE)",
+            "nid": "188159950",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "188159950",
+                "scene_pre": "search",
+                "current_price": "58",
+                "x_sku_ids": "1135392051",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "188159950"
+            },
+            "productUrl": "//www.daraz.com.bd/products/mishti-10-i188159950-s1135392051.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/388d58a972ebf42ce98a57dafc6ff320.jpg",
+            "originalPrice": "105.00",
+            "originalPriceShow": "৳ 105",
+            "price": "58",
+            "promotionId": "null",
+            "priceShow": "৳ 58",
+            "discount": "-45%",
+            "ratingScore": "4.67647",
+            "review": "34",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "188159950_BD-1135392051",
+            "sku": "188159950_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508127043",
+            "mainSellerId": "",
+            "sellerName": "Khawja Store (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/388d58a972ebf42ce98a57dafc6ff320.jpg",
+                    "productUrl": "/products/mishti-10-i188159950-s1135392051.html",
+                    "sku": "188159950_BD",
+                    "skuId": "1135392051"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                129
+            ],
+            "clickTrace": "query:;nid:188159950;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:188159950_BD;price:58;client:desktop;supplier_id:700508127043;asc_category_id:129;item_id:188159950;sku_id:1135392051;shop_id:128016",
+            "addToCartSkus": [
+                {
+                    "sku": "188159950_BD-1135392051",
+                    "skuId": "1135392051",
+                    "count": 0
+                }
+            ],
+            "itemId": "188159950",
+            "skuId": "1135392051",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Tenda W311MI 150Mbps Wireless USB Adapter",
+            "nid": "183030708",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183030708",
+                "scene_pre": "search",
+                "current_price": "475",
+                "x_sku_ids": "1127099289",
+                "SN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "x_ad": "1",
+                "x_object_id": "183030708"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tenda-w311mi-150mbps-usb-i183030708-s1127099289.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e56e9193e436199fc38ed836ff8105dd.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "475",
+            "promotionId": "null",
+            "priceShow": "৳ 475",
+            "discount": "-5%",
+            "ratingScore": "4.83784",
+            "review": "37",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183030708_BD-1127099289",
+            "sku": "183030708_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "31875",
+            "brandName": "Tenda",
+            "sellerId": "700508319483",
+            "mainSellerId": "",
+            "sellerName": "Microlink Computer(KUS)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e56e9193e436199fc38ed836ff8105dd.jpg",
+                    "productUrl": "/products/tenda-w311mi-150mbps-usb-i183030708-s1127099289.html",
+                    "sku": "183030708_BD",
+                    "skuId": "1127099289"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                121,
+                130
+            ],
+            "clickTrace": "query:;nid:183030708;src:LazadaMainSrp;rn:b8d5a5a601c98b79cfc8028bb4aafb4a;region:bd;sku:183030708_BD;price:475;client:desktop;supplier_id:700508319483;asc_category_id:130;item_id:183030708;sku_id:1127099289;shop_id:145410",
+            "addToCartSkus": [
+                {
+                    "sku": "183030708_BD-1127099289",
+                    "skuId": "1127099289",
+                    "count": 0
+                }
+            ],
+            "itemId": "183030708",
+            "skuId": "1127099289",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/computing/",
+            "title": "Computers & Laptops"
+        },
+        {
+            "url": "/networking/",
+            "title": "Network Components"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/networking/?referer_rn=b8d5a5a601c98b79cfc8028bb4aafb4a&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {},
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/routers/?item_id=115488056&from=onesearch_category_121",
+                "name": "Routers",
+                "image": "//static-01.daraz.com.bd/p/d967a8ac33f71ef8d0c0599af4a2ce87.jpg",
+                "id": "128"
+            },
+            {
+                "url": "/network-switch/?item_id=209667679&from=onesearch_category_121",
+                "name": "Switches",
+                "image": "//static-01.daraz.com.bd/p/695527a31ba11f7e8550a68b33675369.jpg",
+                "id": "129"
+            },
+            {
+                "url": "/wireless-usb-adapters/?item_id=214523110&from=onesearch_category_121",
+                "name": "Wireless USB Adapters",
+                "image": "//static-01.daraz.com.bd/p/085ed493e52d3d5ba771f006d886a836.jpg",
+                "id": "130"
+            },
+            {
+                "url": "/range-extender/?item_id=132432383&from=onesearch_category_121",
+                "name": "Range extender",
+                "image": "//static-01.daraz.com.bd/p/876115a09de226fcb3f7810a7725b9c3.jpg",
+                "id": "7869"
+            },
+            {
+                "url": "/network-gadgets/?item_id=123751806&from=onesearch_category_121",
+                "name": "Network Gadgets",
+                "image": "//static-01.daraz.com.bd/p/95e98a3b2947d2380544ab24d4185674.jpg",
+                "id": "122"
+            },
+            {
+                "url": "/usb-network-adaptors/?item_id=125105687&from=onesearch_category_121",
+                "name": "USB network adapters",
+                "image": "//static-01.daraz.com.bd/p/bd4391a5b09ae4f8122b7c568663fc79.jpg",
+                "id": "7872"
+            },
+            {
+                "url": "/mobile-wi-fi-hotspots/?item_id=213024057&from=onesearch_category_121",
+                "name": "Mobile Wi-Fi Hotspots",
+                "image": "//static-01.daraz.com.bd/p/38ad65b99cca27fce5fcb9b1eb51f666.png",
+                "id": "5660"
+            },
+            {
+                "url": "/powerline-network-adaptors/?item_id=201335959&from=onesearch_category_121",
+                "name": "Powerline network adapter",
+                "image": "//static-01.daraz.com.bd/p/d7e0b527fc290aae4a83bf3f89b8ce48.jpg",
+                "id": "7874"
+            },
+            {
+                "url": "/network-interface-cards/?item_id=125124339&from=onesearch_category_121",
+                "name": "Network Interface Cards",
+                "image": "//static-01.daraz.com.bd/p/1ac4d1fd004ea6e5740e5a5e5c9e8b63.jpg",
+                "id": "127"
+            },
+            {
+                "url": "/bluetooth-network-adaptors/?item_id=125106628&from=onesearch_category_121",
+                "name": "Bluetooth network adapters",
+                "image": "//static-01.daraz.com.bd/p/mdc/e4bb1b3bb6f7e5a7f5e1f3d14db2353a.jpg",
+                "id": "7873"
+            },
+            {
+                "url": "/network-airport-routers/?item_id=225932530&from=onesearch_category_121",
+                "name": "Airport Routers",
+                "image": "//static-01.daraz.com.bd/kf/S9351ae8772e845afac215e3fbd269857Z.jpg",
+                "id": "10498"
+            },
+            {
+                "url": "/access-points/?item_id=193150806&from=onesearch_category_121",
+                "name": "Access Points",
+                "image": "//static-01.daraz.com.bd/p/94ccbd4aa1e5a6b95074a03e8eadadf1.jpg",
+                "id": "124"
+            },
+            {
+                "url": "/modems/?item_id=111362518&from=onesearch_category_121",
+                "name": "Modems",
+                "image": "//static-01.daraz.com.bd/p/3bcd944cef388726ee6f7bc29e8ec7ae.jpg",
+                "id": "7868"
+            },
+            {
+                "url": "/usb-modems/?item_id=1180079&from=onesearch_category_121",
+                "name": "USB Modems",
+                "image": "//static-01.daraz.com.bd/p/ae21ffaa07e4020d9e76eedb58ad9b97.jpg",
+                "id": "5661"
+            },
+            {
+                "url": "/laptop-network-adaptors/?item_id=185002124&from=onesearch_category_121",
+                "name": "Laptop Network adapters",
+                "image": "//static-01.daraz.com.bd/p/fa037c2c453ed7e88e51c5d40686118e.jpg",
+                "id": "7871"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_121"
+        },
+        "title": "",
+        "bizId": "onesearch_category_121",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "8680 items found in {$0}",
+        "title": "Network Components",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Network Components"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Network Components",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "121",
+            "category": "121"
+        },
+        "categoryRegionalKey": "020700000000",
+        "mainCategoryRegionalKey": "020000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Networking Products In Bangladesh Online - Daraz.com.bd",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Computers & Laptops,Network Components",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "020700000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=121&_p_asc_cateid=121",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "networking",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "b8d5a5a601c98b79cfc8028bb4aafb4a",
+                "resultNr": 8680,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1016600769",
+                "1132857210",
+                "1053432780"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "121",
+            "category": "121"
+        }
+    }
+}

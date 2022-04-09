@@ -1,0 +1,3327 @@
+{
+    "listItems": [
+        {
+            "name": "Nokia 150 DS 2020",
+            "nid": "230377910",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230377910",
+                "scene_pre": "search",
+                "current_price": "3196.00",
+                "x_sku_ids": "1173580967",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "230377910"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nokia-150-ds-2020-i230377910-s1173580967.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/45cf4a3afd78ba64491a9296a05b397a.jpg",
+            "originalPrice": "3499.00",
+            "originalPriceShow": "৳ 3,499",
+            "price": "3196.00",
+            "promotionId": "null",
+            "priceShow": "৳ 3,196",
+            "discount": "-9%",
+            "ratingScore": "4.8",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230377910_BD-1173580967",
+            "sku": "230377910_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "4158",
+            "brandName": "Nokia",
+            "sellerId": "5900",
+            "mainSellerId": "",
+            "sellerName": "Nokia Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/45cf4a3afd78ba64491a9296a05b397a.jpg",
+                    "productUrl": "/products/nokia-150-ds-2020-i230377910-s1173580967.html",
+                    "sku": "230377910_BD",
+                    "skuId": "1173580967"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/411572156b8f555ccd2e953333dfaccb.jpg",
+                    "productUrl": "/products/nokia-150-ds-2020-i230377910-s1173580969.html",
+                    "sku": "230377910_BD",
+                    "skuId": "1173580969"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3c69b7bb42d5c3808bdcb2a9a5b5192d.jpg",
+                    "productUrl": "/products/nokia-150-ds-2020-i230377910-s1173580968.html",
+                    "sku": "230377910_BD",
+                    "skuId": "1173580968"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:230377910;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:230377910_BD;price:3196.00;client:desktop;supplier_id:5900;asc_category_id:20000299;item_id:230377910;sku_id:1173580967;shop_id:5653",
+            "addToCartSkus": [
+                {
+                    "sku": "230377910_BD-1173580967",
+                    "skuId": "1173580967",
+                    "count": 0
+                }
+            ],
+            "itemId": "230377910",
+            "skuId": "1173580967",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nokia 8000 DS",
+            "nid": "225662316",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225662316",
+                "scene_pre": "search",
+                "current_price": "6701",
+                "x_sku_ids": "1170697142",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "225662316"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nokia-8000-ds-i225662316-s1170697142.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d332437b81dbd9f95f8a3725e517069b.jpg",
+            "originalPrice": "8999.00",
+            "originalPriceShow": "৳ 8,999",
+            "price": "6701",
+            "promotionId": "null",
+            "priceShow": "৳ 6,701",
+            "discount": "-26%",
+            "ratingScore": "4.13333",
+            "review": "30",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225662316_BD-1170697142",
+            "sku": "225662316_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "Operating system KaiOS",
+                "Internal storage: 4GB",
+                "RAM: 512MB",
+                "CPU: QC8909",
+                "Display Size: 2.8 inches",
+                "Type: QVGA",
+                "Cable type: Micro USB (USB 2.0)",
+                "Messaging: WhatsApp messaging only (No Audio/Video calling)",
+                "SIM card type: Nano SIM",
+                "Bluetooth version: 4.0",
+                "Network bands (GSM): (ROW) 850/900/1800; (MENA, GCR) 850/900/1800;",
+                "Network speed 3G",
+                "Wi-Fi: 802.11 b/g/n",
+                "Positioning systems: GPS/AGPS, GLONASS",
+                "Storage: Internal storage 4 GB  MicroSD card slot 32 GB",
+                "Audio: 3.5 mm  FM Radio (Headset required)",
+                "Cameras: Rear camera: 2 MP  Front: No",
+                "Battery: Battery type non-removable 1500 mAh"
+            ],
+            "brandId": "121009442",
+            "brandName": "Nokia Bangladesh",
+            "sellerId": "5900",
+            "mainSellerId": "",
+            "sellerName": "Nokia Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d332437b81dbd9f95f8a3725e517069b.jpg",
+                    "productUrl": "/products/nokia-8000-ds-i225662316-s1170697142.html",
+                    "sku": "225662316_BD",
+                    "skuId": "1170697142"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:225662316;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:225662316_BD;price:6701;client:desktop;supplier_id:5900;asc_category_id:20000299;item_id:225662316;sku_id:1170697142;shop_id:5653",
+            "addToCartSkus": [
+                {
+                    "sku": "225662316_BD-1170697142",
+                    "skuId": "1170697142",
+                    "count": 0
+                }
+            ],
+            "itemId": "225662316",
+            "skuId": "1170697142",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nokia 225 4G DS 2020 Phone",
+            "nid": "225657579",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225657579",
+                "scene_pre": "search",
+                "current_price": "3505.00",
+                "x_sku_ids": "1170693530",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "225657579"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nokia-225-4g-ds-2020-phone-i225657579-s1170693530.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/56ace08028dd61c4adf4d99a2c0c719f.jpg",
+            "originalPrice": "4199.00",
+            "originalPriceShow": "৳ 4,199",
+            "price": "3505.00",
+            "promotionId": "null",
+            "priceShow": "৳ 3,505",
+            "discount": "-17%",
+            "ratingScore": "4.65217",
+            "review": "23",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225657579_BD-1170693530",
+            "sku": "225657579_BD",
+            "skus": [],
+            "description": [
+                "Return is not applicable if the seal is broken",
+                "Display: 2.4 inches. QVGA Display",
+                "CPU: Unisoc USM9117",
+                "Internal storage: 64 MB",
+                "Operating System: S30+",
+                "RAM: 128 MB",
+                "SIM Type: Nano Sim",
+                "Camera: Rear: VGA. Front: No",
+                "Bluetooth: 5.0",
+                "Audio: FM radio; built-in antenna.",
+                "Headphone jack: 3.5 mm",
+                "USB: MicroUSB 2.0",
+                "Battery: Removable Li-Ion 1150 mAh battery"
+            ],
+            "brandId": "121009442",
+            "brandName": "Nokia Bangladesh",
+            "sellerId": "5900",
+            "mainSellerId": "",
+            "sellerName": "Nokia Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/56ace08028dd61c4adf4d99a2c0c719f.jpg",
+                    "productUrl": "/products/nokia-225-4g-ds-2020-phone-i225657579-s1170693530.html",
+                    "sku": "225657579_BD",
+                    "skuId": "1170693530"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/614d1ce7aba88e0bc3a5d092a4ccf6f9.jpg",
+                    "productUrl": "/products/nokia-225-4g-ds-2020-phone-i225657579-s1170693532.html",
+                    "sku": "225657579_BD",
+                    "skuId": "1170693532"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b1c6daafae4fd6e0da3a8cea1e8ac16d.jpg",
+                    "productUrl": "/products/nokia-225-4g-ds-2020-phone-i225657579-s1170693531.html",
+                    "sku": "225657579_BD",
+                    "skuId": "1170693531"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:225657579;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:225657579_BD;price:3505.00;client:desktop;supplier_id:5900;asc_category_id:20000299;item_id:225657579;sku_id:1170693530;shop_id:5653",
+            "addToCartSkus": [
+                {
+                    "sku": "225657579_BD-1170693530",
+                    "skuId": "1170693530",
+                    "count": 0
+                }
+            ],
+            "itemId": "225657579",
+            "skuId": "1170693530",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nokia 105 DS 4G",
+            "nid": "230412096",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230412096",
+                "scene_pre": "search",
+                "current_price": "2268.00",
+                "x_sku_ids": "1173842001",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "230412096"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nokia-105-ds-4g-i230412096-s1173842001.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/36b1222f9eaed2de90d95f70d115ca7b.jpg",
+            "originalPrice": "3099.00",
+            "originalPriceShow": "৳ 3,099",
+            "price": "2268.00",
+            "promotionId": "null",
+            "priceShow": "৳ 2,268",
+            "discount": "-27%",
+            "ratingScore": "4.875",
+            "review": "8",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230412096_BD-1173842001",
+            "sku": "230412096_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "OS: Series 30+",
+                "CPU: Unisoc T107",
+                "RAM: 128MB",
+                "ROM: 48MB",
+                "Display: 1.8 inches, QQVGA Display",
+                "Resolution: 120 x 160 Pixels",
+                "Battery:1020 mAh, Removable",
+                "SIM: Dual SIM (Nano-SIM, dual stand-by)",
+                "USB connection: Micro USB (USB 2.0)",
+                "Features: Torch / Games / English with Oxford (from Origin Data) / Internet / FM radio (wired &amp; wireless dual mode), 3-in-1 speaker"
+            ],
+            "brandId": "121009442",
+            "brandName": "Nokia Bangladesh",
+            "sellerId": "5900",
+            "mainSellerId": "",
+            "sellerName": "Nokia Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/36b1222f9eaed2de90d95f70d115ca7b.jpg",
+                    "productUrl": "/products/nokia-105-ds-4g-i230412096-s1173842001.html",
+                    "sku": "230412096_BD",
+                    "skuId": "1173842001"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8f35bc0ba9ecc184c297592e9a2fd8bb.jpg",
+                    "productUrl": "/products/nokia-105-ds-4g-i230412096-s1173842002.html",
+                    "sku": "230412096_BD",
+                    "skuId": "1173842002"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:230412096;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:230412096_BD;price:2268.00;client:desktop;supplier_id:5900;asc_category_id:20000299;item_id:230412096;sku_id:1173842001;shop_id:5653",
+            "addToCartSkus": [
+                {
+                    "sku": "230412096_BD-1173842001",
+                    "skuId": "1173842001",
+                    "count": 0
+                }
+            ],
+            "itemId": "230412096",
+            "skuId": "1173842001",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nokia 6310 DS (2021) Phone",
+            "nid": "230371950",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230371950",
+                "scene_pre": "search",
+                "current_price": "5309",
+                "x_sku_ids": "1173839002",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "230371950"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nokia-6310-ds-2021-phone-i230371950-s1173839002.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/24e1dbde8beb44110ba35f8c3e2884e7.jpg",
+            "originalPrice": "5499.00",
+            "originalPriceShow": "৳ 5,499",
+            "price": "5309",
+            "promotionId": "null",
+            "priceShow": "৳ 5,309",
+            "discount": "-3%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230371950_BD-1173839002",
+            "sku": "230371950_BD",
+            "skus": [],
+            "description": [
+                "Return is not applicable if the seal is broken",
+                "Operating System: S30+",
+                "CPU: Unisoc 6531F",
+                "RAM: 16MB",
+                "Internal Storage: 8MB",
+                "MicroSD card support up to: 32 GB",
+                "Display Size and type: 4 inch QVGA",
+                "Rear camera: 0.3 MP torch as flash",
+                "Cable type: Micro USB (1.1)",
+                "Battery type: Removable 1150 mAh battery",
+                "Approximate standby time (Dual SIM, GSM): 21.7 days",
+                "Approximate talk time (Dual SIM, GSM): 19.45 h",
+                "Charging Micro USB",
+                "Bluetooth:5.0",
+                "Audio Features: FM Radio (Wired/Wireless), MP3 player, 3.5 mm Headphone jack"
+            ],
+            "brandId": "121009442",
+            "brandName": "Nokia Bangladesh",
+            "sellerId": "5900",
+            "mainSellerId": "",
+            "sellerName": "Nokia Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/24e1dbde8beb44110ba35f8c3e2884e7.jpg",
+                    "productUrl": "/products/nokia-6310-ds-2021-phone-i230371950-s1173839002.html",
+                    "sku": "230371950_BD",
+                    "skuId": "1173839002"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/08431d8e2dd73fd2b7c2637a2f8a2210.jpg",
+                    "productUrl": "/products/nokia-6310-ds-2021-phone-i230371950-s1173839003.html",
+                    "sku": "230371950_BD",
+                    "skuId": "1173839003"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/835f6cb6067e688718a9698d9f8e7bed.jpg",
+                    "productUrl": "/products/nokia-6310-ds-2021-phone-i230371950-s1173839004.html",
+                    "sku": "230371950_BD",
+                    "skuId": "1173839004"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:230371950;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:230371950_BD;price:5309;client:desktop;supplier_id:5900;asc_category_id:20000299;item_id:230371950;sku_id:1173839002;shop_id:5653",
+            "addToCartSkus": [
+                {
+                    "sku": "230371950_BD-1173839002",
+                    "skuId": "1173839002",
+                    "count": 0
+                }
+            ],
+            "itemId": "230371950",
+            "skuId": "1173839002",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Gphone Mobile-model GP28 Gaming phone-200 plus classic Game instaled-Feature Phone-Color:Dark Blue",
+            "nid": "171476145",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171476145",
+                "scene_pre": "search",
+                "current_price": "1270",
+                "x_sku_ids": "1107454570",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "171476145"
+            },
+            "productUrl": "//www.daraz.com.bd/products/gp28-gaming-phone-blue-i171476145-s1107454570.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/be0b69de7f6dcda4acf62e07c732504e.jpg",
+            "originalPrice": "2800.00",
+            "originalPriceShow": "৳ 2,800",
+            "price": "1270",
+            "promotionId": "null",
+            "priceShow": "৳ 1,270",
+            "discount": "-55%",
+            "ratingScore": "4.34177",
+            "review": "79",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171476145_BD-1107454570",
+            "sku": "171476145_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1010135",
+            "mainSellerId": "",
+            "sellerName": "Jaka Techs",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/be0b69de7f6dcda4acf62e07c732504e.jpg",
+                    "productUrl": "/products/gp28-gaming-phone-blue-i171476145-s1107454570.html",
+                    "sku": "171476145_BD",
+                    "skuId": "1107454570"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:171476145;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:171476145_BD;price:1270;client:desktop;supplier_id:1010135;asc_category_id:20000299;item_id:171476145;sku_id:1107454570;shop_id:16366",
+            "addToCartSkus": [
+                {
+                    "sku": "171476145_BD-1107454570",
+                    "skuId": "1107454570",
+                    "count": 0
+                }
+            ],
+            "itemId": "171476145",
+            "skuId": "1107454570",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton olvio l1",
+            "nid": "204369258",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "204369258",
+                "scene_pre": "search",
+                "current_price": "797",
+                "x_sku_ids": "1152413509",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "204369258"
+            },
+            "productUrl": "//www.daraz.com.bd/products/walton-olvio-l1-i204369258-s1152413509.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f2a5b4c0e667e2f875715ac44d551091.jpg",
+            "originalPrice": "900.00",
+            "originalPriceShow": "৳ 900",
+            "price": "797",
+            "promotionId": "null",
+            "priceShow": "৳ 797",
+            "discount": "-11%",
+            "ratingScore": "5",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "204369258_BD-1152413509",
+            "sku": "204369258_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "48012",
+            "brandName": "Walton",
+            "sellerId": "700508295192",
+            "mainSellerId": "",
+            "sellerName": "FAST FLY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f2a5b4c0e667e2f875715ac44d551091.jpg",
+                    "productUrl": "/products/walton-olvio-l1-i204369258-s1152413509.html",
+                    "sku": "204369258_BD",
+                    "skuId": "1152413509"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:204369258;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:204369258_BD;price:797;client:desktop;supplier_id:700508295192;asc_category_id:20000299;item_id:204369258;sku_id:1152413509;shop_id:142368",
+            "addToCartSkus": [
+                {
+                    "sku": "204369258_BD-1152413509",
+                    "skuId": "1152413509",
+                    "count": 0
+                }
+            ],
+            "itemId": "204369258",
+            "skuId": "1152413509",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Gphone Mobile-model GP28 Gaming phone-200 plus classic Game instaled-Feature Phone",
+            "nid": "171480654",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171480654",
+                "scene_pre": "search",
+                "current_price": "1465",
+                "x_sku_ids": "1107470507",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "171480654"
+            },
+            "productUrl": "//www.daraz.com.bd/products/gphone-gp30-24-2350-mah-led-fm-i171480654-s1107470507.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9c7b3fd6cb96bd9de27cf7902d5bd18f.jpg",
+            "originalPrice": "2800.00",
+            "originalPriceShow": "৳ 2,800",
+            "price": "1465",
+            "promotionId": "null",
+            "priceShow": "৳ 1,465",
+            "discount": "-48%",
+            "ratingScore": "4.57143",
+            "review": "35",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171480654_BD-1107470507",
+            "sku": "171480654_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1010135",
+            "mainSellerId": "",
+            "sellerName": "Jaka Techs",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9c7b3fd6cb96bd9de27cf7902d5bd18f.jpg",
+                    "productUrl": "/products/gphone-gp30-24-2350-mah-led-fm-i171480654-s1107470507.html",
+                    "sku": "171480654_BD",
+                    "skuId": "1107470507"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:171480654;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:171480654_BD;price:1465;client:desktop;supplier_id:1010135;asc_category_id:20000299;item_id:171480654;sku_id:1107470507;shop_id:16366",
+            "addToCartSkus": [
+                {
+                    "sku": "171480654_BD-1107470507",
+                    "skuId": "1107470507",
+                    "count": 0
+                }
+            ],
+            "itemId": "171480654",
+            "skuId": "1107470507",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Gphone Mobile- Model Gp28 Plus Feature phone Color:purple",
+            "nid": "183609656",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183609656",
+                "scene_pre": "search",
+                "current_price": "1360",
+                "x_sku_ids": "1128039527",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "183609656"
+            },
+            "productUrl": "//www.daraz.com.bd/products/gp28-plus-i183609656-s1128039527.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/af5f5592fee19aa2def7a6cb77f36a86.jpg",
+            "originalPrice": "2800.00",
+            "originalPriceShow": "৳ 2,800",
+            "price": "1360",
+            "promotionId": "null",
+            "priceShow": "৳ 1,360",
+            "discount": "-51%",
+            "ratingScore": "4.54167",
+            "review": "24",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183609656_BD-1128039527",
+            "sku": "183609656_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1010135",
+            "mainSellerId": "",
+            "sellerName": "Jaka Techs",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/af5f5592fee19aa2def7a6cb77f36a86.jpg",
+                    "productUrl": "/products/gp28-plus-i183609656-s1128039527.html",
+                    "sku": "183609656_BD",
+                    "skuId": "1128039527"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:183609656;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:183609656_BD;price:1360;client:desktop;supplier_id:1010135;asc_category_id:20000299;item_id:183609656;sku_id:1128039527;shop_id:16366",
+            "addToCartSkus": [
+                {
+                    "sku": "183609656_BD-1128039527",
+                    "skuId": "1128039527",
+                    "count": 0
+                }
+            ],
+            "itemId": "183609656",
+            "skuId": "1128039527",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WALTON OLVIO S34",
+            "nid": "209743090",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209743090",
+                "scene_pre": "search",
+                "current_price": "1249",
+                "x_sku_ids": "1160039130",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "209743090"
+            },
+            "productUrl": "//www.daraz.com.bd/products/walton-olvio-s34-i209743090-s1160039130.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c3bd8f59b7bc3835a225a51a2ff43ce1.jpg",
+            "originalPrice": "1600.00",
+            "originalPriceShow": "৳ 1,600",
+            "price": "1249",
+            "promotionId": "null",
+            "priceShow": "৳ 1,249",
+            "discount": "-22%",
+            "ratingScore": "3.66667",
+            "review": "6",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209743090_BD-1160039130",
+            "sku": "209743090_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "48012",
+            "brandName": "Walton",
+            "sellerId": "700508295192",
+            "mainSellerId": "",
+            "sellerName": "FAST FLY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c3bd8f59b7bc3835a225a51a2ff43ce1.jpg",
+                    "productUrl": "/products/walton-olvio-s34-i209743090-s1160039130.html",
+                    "sku": "209743090_BD",
+                    "skuId": "1160039130"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:209743090;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:209743090_BD;price:1249;client:desktop;supplier_id:700508295192;asc_category_id:20000299;item_id:209743090;sku_id:1160039130;shop_id:142368",
+            "addToCartSkus": [
+                {
+                    "sku": "209743090_BD-1160039130",
+                    "skuId": "1160039130",
+                    "count": 0
+                }
+            ],
+            "itemId": "209743090",
+            "skuId": "1160039130",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Titanic GURU Music -T 130",
+            "nid": "199577481",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "199577481",
+                "scene_pre": "search",
+                "current_price": "850",
+                "x_sku_ids": "1146768964",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "199577481"
+            },
+            "productUrl": "//www.daraz.com.bd/products/t-130-i199577481-s1146768964.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/043ac1675113b9f564b7709b0fec710a.jpg",
+            "originalPrice": "890.00",
+            "originalPriceShow": "৳ 890",
+            "price": "850",
+            "promotionId": "null",
+            "priceShow": "৳ 850",
+            "discount": "-4%",
+            "ratingScore": "3.5",
+            "review": "6",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "199577481_BD-1146768964",
+            "sku": "199577481_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504932112",
+            "mainSellerId": "",
+            "sellerName": "Alfi Trade International (KHL)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/043ac1675113b9f564b7709b0fec710a.jpg",
+                    "productUrl": "/products/t-130-i199577481-s1146768964.html",
+                    "sku": "199577481_BD",
+                    "skuId": "1146768964"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:199577481;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:199577481_BD;price:850;client:desktop;supplier_id:700504932112;asc_category_id:20000299;item_id:199577481;sku_id:1146768964;shop_id:52114",
+            "addToCartSkus": [
+                {
+                    "sku": "199577481_BD-1146768964",
+                    "skuId": "1146768964",
+                    "count": 0
+                }
+            ],
+            "itemId": "199577481",
+            "skuId": "1146768964",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Gphone Mobile-Model:GP30-2.4\" Display - Dual SIM -2500 mAh BiG Battery-Feature phone-Color:Green",
+            "nid": "222241234",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "222241234",
+                "scene_pre": "search",
+                "current_price": "1353",
+                "x_sku_ids": "1168704631",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "222241234"
+            },
+            "productUrl": "//www.daraz.com.bd/products/gphone-mobile-modelgp30-24-display-dual-sim-2500-mah-big-battery-feature-phone-colorgreen-i222241234-s1168704631.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8d09e96c36897725727bf88dd9ac4851.jpg",
+            "originalPrice": "2250.00",
+            "originalPriceShow": "৳ 2,250",
+            "price": "1353",
+            "promotionId": "null",
+            "priceShow": "৳ 1,353",
+            "discount": "-40%",
+            "ratingScore": "4.6",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "222241234_BD-1168704631",
+            "sku": "222241234_BD",
+            "skus": [],
+            "description": [
+                "Brand:-Gphone Mobile",
+                "Model :-GP30",
+                "2.4\" inch LCD Display",
+                "wireless FM Radio",
+                "Long Standby 2500 mAh Big Battery",
+                "Vibration",
+                "Memory Card Micro SD upto 32 GB Support",
+                "super loud speaker",
+                "Smart VGA Camera",
+                "Dual Sim Dual Standby",
+                "MP3,MP4 Enabled Player",
+                "Led Touch.",
+                "Music Player",
+                "Video Player",
+                "Bluetooth",
+                "Color:Black,Dark Blue,Gold",
+                "Made in china",
+                "Brand Warranty 1 Years"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509126014",
+            "mainSellerId": "",
+            "sellerName": "IKHLAS COLLECTION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8d09e96c36897725727bf88dd9ac4851.jpg",
+                    "productUrl": "/products/gphone-mobile-modelgp30-24-display-dual-sim-2500-mah-big-battery-feature-phone-colorgreen-i222241234-s1168704631.html",
+                    "sku": "222241234_BD",
+                    "skuId": "1168704631"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:222241234;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:222241234_BD;price:1353;client:desktop;supplier_id:700509126014;asc_category_id:20000299;item_id:222241234;sku_id:1168704631;shop_id:204270",
+            "addToCartSkus": [
+                {
+                    "sku": "222241234_BD-1168704631",
+                    "skuId": "1168704631",
+                    "count": 0
+                }
+            ],
+            "itemId": "222241234",
+            "skuId": "1168704631",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Titanic GURU Music 2 T 130",
+            "nid": "199578567",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "199578567",
+                "scene_pre": "search",
+                "current_price": "867",
+                "x_sku_ids": "1146779036",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "199578567"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-t-130-i199578567-s1146779036.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/53bf9ba636385e87c73f39824cbc94ed.jpg",
+            "originalPrice": "890.00",
+            "originalPriceShow": "৳ 890",
+            "price": "867",
+            "promotionId": "null",
+            "priceShow": "৳ 867",
+            "discount": "-3%",
+            "ratingScore": "3.85714",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "199578567_BD-1146779036",
+            "sku": "199578567_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504932112",
+            "mainSellerId": "",
+            "sellerName": "Alfi Trade International (KHL)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/53bf9ba636385e87c73f39824cbc94ed.jpg",
+                    "productUrl": "/products/2-t-130-i199578567-s1146779036.html",
+                    "sku": "199578567_BD",
+                    "skuId": "1146779036"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:199578567;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:199578567_BD;price:867;client:desktop;supplier_id:700504932112;asc_category_id:20000299;item_id:199578567;sku_id:1146779036;shop_id:52114",
+            "addToCartSkus": [
+                {
+                    "sku": "199578567_BD-1146779036",
+                    "skuId": "1146779036",
+                    "count": 0
+                }
+            ],
+            "itemId": "199578567",
+            "skuId": "1146779036",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton Olvio L51",
+            "nid": "204370259",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "204370259",
+                "scene_pre": "search",
+                "current_price": "860.00",
+                "x_sku_ids": "1152424098",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "204370259"
+            },
+            "productUrl": "//www.daraz.com.bd/products/walton-olvio-l51-i204370259-s1152424098.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f11a0b2cda53cf6cc3ac53b205895e52.jpg",
+            "originalPrice": "1190.00",
+            "originalPriceShow": "৳ 1,190",
+            "price": "860.00",
+            "promotionId": "null",
+            "priceShow": "৳ 860",
+            "discount": "-28%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "204370259_BD-1152424098",
+            "sku": "204370259_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "48012",
+            "brandName": "Walton",
+            "sellerId": "700508295192",
+            "mainSellerId": "",
+            "sellerName": "FAST FLY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f11a0b2cda53cf6cc3ac53b205895e52.jpg",
+                    "productUrl": "/products/walton-olvio-l51-i204370259-s1152424098.html",
+                    "sku": "204370259_BD",
+                    "skuId": "1152424098"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:204370259;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:204370259_BD;price:860.00;client:desktop;supplier_id:700508295192;asc_category_id:20000299;item_id:204370259;sku_id:1152424098;shop_id:142368",
+            "addToCartSkus": [
+                {
+                    "sku": "204370259_BD-1152424098",
+                    "skuId": "1152424098",
+                    "count": 0
+                }
+            ],
+            "itemId": "204370259",
+            "skuId": "1152424098",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nokia 105 Dual SIM",
+            "nid": "238507471",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "238507471",
+                "scene_pre": "search",
+                "current_price": "1899.00",
+                "x_sku_ids": "1182001541",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "238507471"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nokia-105-i238507471-s1182001541.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fa4a9323b558e184c2f07fa432e632b0.png",
+            "originalPrice": "2100.00",
+            "originalPriceShow": "৳ 2,100",
+            "price": "1899.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,899",
+            "discount": "-10%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "238507471_BD-1182001541",
+            "sku": "238507471_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "4158",
+            "brandName": "Nokia",
+            "sellerId": "700508736089",
+            "mainSellerId": "",
+            "sellerName": "ADLU TELECOM (KUS)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fa4a9323b558e184c2f07fa432e632b0.png",
+                    "productUrl": "/products/nokia-105-i238507471-s1182001541.html",
+                    "sku": "238507471_BD",
+                    "skuId": "1182001541"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fa4a9323b558e184c2f07fa432e632b0.png",
+                    "productUrl": "/products/nokia-105-i238507471-s1182001542.html",
+                    "sku": "238507471_BD",
+                    "skuId": "1182001542"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:238507471;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:238507471_BD;price:1899.00;client:desktop;supplier_id:700508736089;asc_category_id:20000299;item_id:238507471;sku_id:1182001541;shop_id:179534",
+            "addToCartSkus": [
+                {
+                    "sku": "238507471_BD-1182001541",
+                    "skuId": "1182001541",
+                    "count": 0
+                }
+            ],
+            "itemId": "238507471",
+            "skuId": "1182001541",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nokia 110 DS 4G Phone",
+            "nid": "230376853",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230376853",
+                "scene_pre": "search",
+                "current_price": "2887.00",
+                "x_sku_ids": "1173826027",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "230376853"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nokia-110-ds-4g-phone-i230376853-s1173826027.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/863148c062eab81564f2e3f49f48bd10.jpg",
+            "originalPrice": "3799.00",
+            "originalPriceShow": "৳ 3,799",
+            "price": "2887.00",
+            "promotionId": "null",
+            "priceShow": "৳ 2,887",
+            "discount": "-24%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230376853_BD-1173826027",
+            "sku": "230376853_BD",
+            "skus": [],
+            "description": [
+                "Return is not applicable if the seal is broken",
+                "OS: Series 30+",
+                "CPU: Unisoc T107",
+                "RAM: 128MB",
+                "ROM: 48MB",
+                "Display: 1.8 inches, QQVGA Display",
+                "Resolution: 120 x 160 Pixels",
+                "Back Camera: Yes",
+                "Battery:1020 mAh, Removable",
+                "SIM: Dual SIM (Nano-SIM, dual stand-by)",
+                "USB Connection: Micro USB (USB 2.0)",
+                "Headphone jack: 3.5 mm"
+            ],
+            "brandId": "121009442",
+            "brandName": "Nokia Bangladesh",
+            "sellerId": "5900",
+            "mainSellerId": "",
+            "sellerName": "Nokia Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/863148c062eab81564f2e3f49f48bd10.jpg",
+                    "productUrl": "/products/nokia-110-ds-4g-phone-i230376853-s1173826027.html",
+                    "sku": "230376853_BD",
+                    "skuId": "1173826027"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/647cf0540a22f1edfc74a6fb3e2c3438.jpg",
+                    "productUrl": "/products/nokia-110-ds-4g-phone-i230376853-s1173826028.html",
+                    "sku": "230376853_BD",
+                    "skuId": "1173826028"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:230376853;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:230376853_BD;price:2887.00;client:desktop;supplier_id:5900;asc_category_id:20000299;item_id:230376853;sku_id:1173826027;shop_id:5653",
+            "addToCartSkus": [
+                {
+                    "sku": "230376853_BD-1173826027",
+                    "skuId": "1173826027",
+                    "count": 0
+                }
+            ],
+            "itemId": "230376853",
+            "skuId": "1173826027",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Model Gp28 Plus Feature Phone - Sky Blue",
+            "nid": "183608695",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183608695",
+                "scene_pre": "search",
+                "current_price": "1470",
+                "x_sku_ids": "1128049092",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "183608695"
+            },
+            "productUrl": "//www.daraz.com.bd/products/gp28-plus-i183608695-s1128049092.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c09f14f50cab2e07921cf9a0b6170b7e.jpg",
+            "originalPrice": "2800.00",
+            "originalPriceShow": "৳ 2,800",
+            "price": "1470",
+            "promotionId": "null",
+            "priceShow": "৳ 1,470",
+            "discount": "-48%",
+            "ratingScore": "4.57143",
+            "review": "56",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183608695_BD-1128049092",
+            "sku": "183608695_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1010135",
+            "mainSellerId": "",
+            "sellerName": "Jaka Techs",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c09f14f50cab2e07921cf9a0b6170b7e.jpg",
+                    "productUrl": "/products/gp28-plus-i183608695-s1128049092.html",
+                    "sku": "183608695_BD",
+                    "skuId": "1128049092"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:183608695;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:183608695_BD;price:1470;client:desktop;supplier_id:1010135;asc_category_id:20000299;item_id:183608695;sku_id:1128049092;shop_id:16366",
+            "addToCartSkus": [
+                {
+                    "sku": "183608695_BD-1128049092",
+                    "skuId": "1128049092",
+                    "count": 0
+                }
+            ],
+            "itemId": "183608695",
+            "skuId": "1128049092",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Gphone Mobile-Model:GP29 Plus-2.4\" Display -Feature phone-Color:Gold",
+            "nid": "222238321",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "222238321",
+                "scene_pre": "search",
+                "current_price": "1382",
+                "x_sku_ids": "1168708422",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "222238321"
+            },
+            "productUrl": "//www.daraz.com.bd/products/gphone-mobile-modelgp29-plus-24-display-feature-phone-colorgold-i222238321-s1168708422.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/eec425eeff13cc0556ae22552211b7e3.jpg",
+            "originalPrice": "2100.00",
+            "originalPriceShow": "৳ 2,100",
+            "price": "1382",
+            "promotionId": "null",
+            "priceShow": "৳ 1,382",
+            "discount": "-34%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "222238321_BD-1168708422",
+            "sku": "222238321_BD",
+            "skus": [],
+            "description": [
+                "Brand:-Gphone Mobile",
+                "Model :-GP29 Plus",
+                "2.4\" inch LCD Display",
+                "wireless FM Radio",
+                "Long Standby 2350 mAh Big Battery",
+                "Vibration",
+                "Memory Card Micro SD upto 32 GB Support",
+                "super loud speaker",
+                "Smart VGA Camera",
+                "Dual Sim Dual Standby",
+                "MP3,MP4 Enabled Player",
+                "Led Touch.",
+                "Music Player",
+                "Video Player",
+                "Bluetooth",
+                "Color:Black,Dark Blue,Gold",
+                "Made in china",
+                "Brand Warranty 1 Year"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509126014",
+            "mainSellerId": "",
+            "sellerName": "IKHLAS COLLECTION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/eec425eeff13cc0556ae22552211b7e3.jpg",
+                    "productUrl": "/products/gphone-mobile-modelgp29-plus-24-display-feature-phone-colorgold-i222238321-s1168708422.html",
+                    "sku": "222238321_BD",
+                    "skuId": "1168708422"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:222238321;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:222238321_BD;price:1382;client:desktop;supplier_id:700509126014;asc_category_id:20000299;item_id:222238321;sku_id:1168708422;shop_id:204270",
+            "addToCartSkus": [
+                {
+                    "sku": "222238321_BD-1168708422",
+                    "skuId": "1168708422",
+                    "count": 0
+                }
+            ],
+            "itemId": "222238321",
+            "skuId": "1168708422",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton Olvio MM19j",
+            "nid": "231500640",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "231500640",
+                "scene_pre": "search",
+                "current_price": "1250.00",
+                "x_sku_ids": "1174616981",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "231500640"
+            },
+            "productUrl": "//www.daraz.com.bd/products/walton-olvio-mm19j-i231500640-s1174616981.html?search=1",
+            "image": "https://bd-live-21.slatic.net/kf/S902e3658b2e040f1b21c1ed3c2ac571fT.jpg",
+            "price": "1250.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,250",
+            "ratingScore": "3.33333",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "231500640_BD-1174616981",
+            "sku": "231500640_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "48012",
+            "brandName": "Walton",
+            "sellerId": "700508295192",
+            "mainSellerId": "",
+            "sellerName": "FAST FLY",
+            "thumbs": [
+                {
+                    "image": "https://bd-live-21.slatic.net/kf/S902e3658b2e040f1b21c1ed3c2ac571fT.jpg",
+                    "productUrl": "/products/walton-olvio-mm19j-i231500640-s1174616981.html",
+                    "sku": "231500640_BD",
+                    "skuId": "1174616981"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:231500640;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:231500640_BD;price:1250.00;client:desktop;supplier_id:700508295192;asc_category_id:20000299;item_id:231500640;sku_id:1174616981;shop_id:142368",
+            "addToCartSkus": [
+                {
+                    "sku": "231500640_BD-1174616981",
+                    "skuId": "1174616981",
+                    "count": 0
+                }
+            ],
+            "itemId": "231500640",
+            "skuId": "1174616981",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton olvio mm24",
+            "nid": "204364864",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "204364864",
+                "scene_pre": "search",
+                "current_price": "1160.00",
+                "x_sku_ids": "1178568677",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "204364864"
+            },
+            "productUrl": "//www.daraz.com.bd/products/walton-olvio-mm24-i204364864-s1178568677.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3d2f6b54a0acb91560f1f5378e22221a.jpg",
+            "price": "1160.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,160",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "204364864_BD-1178568677",
+            "sku": "204364864_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "48012",
+            "brandName": "Walton",
+            "sellerId": "700508295192",
+            "mainSellerId": "",
+            "sellerName": "FAST FLY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3d2f6b54a0acb91560f1f5378e22221a.jpg",
+                    "productUrl": "/products/walton-olvio-mm24-i204364864-s1178568677.html",
+                    "sku": "204364864_BD",
+                    "skuId": "1178568677"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:204364864;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:204364864_BD;price:1160.00;client:desktop;supplier_id:700508295192;asc_category_id:20000299;item_id:204364864;sku_id:1178568677;shop_id:142368",
+            "addToCartSkus": [
+                {
+                    "sku": "204364864_BD-1178568677",
+                    "skuId": "1178568677",
+                    "count": 0
+                }
+            ],
+            "itemId": "204364864",
+            "skuId": "1178568677",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WALTON OLVIO L29",
+            "nid": "226900437",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226900437",
+                "scene_pre": "search",
+                "current_price": "882",
+                "x_sku_ids": "1171250285",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "226900437"
+            },
+            "productUrl": "//www.daraz.com.bd/products/walton-olvio-l29-i226900437-s1171250285.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9e55819df7eacdbabbe803870b82ae14.jpg",
+            "originalPrice": "970.00",
+            "originalPriceShow": "৳ 970",
+            "price": "882",
+            "promotionId": "null",
+            "priceShow": "৳ 882",
+            "discount": "-9%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226900437_BD-1171250285",
+            "sku": "226900437_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "48012",
+            "brandName": "Walton",
+            "sellerId": "700508295192",
+            "mainSellerId": "",
+            "sellerName": "FAST FLY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9e55819df7eacdbabbe803870b82ae14.jpg",
+                    "productUrl": "/products/walton-olvio-l29-i226900437-s1171250285.html",
+                    "sku": "226900437_BD",
+                    "skuId": "1171250285"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:226900437;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:226900437_BD;price:882;client:desktop;supplier_id:700508295192;asc_category_id:20000299;item_id:226900437;sku_id:1171250285;shop_id:142368",
+            "addToCartSkus": [
+                {
+                    "sku": "226900437_BD-1171250285",
+                    "skuId": "1171250285",
+                    "count": 0
+                }
+            ],
+            "itemId": "226900437",
+            "skuId": "1171250285",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton Feature Phone Olvio L1",
+            "nid": "171476711",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171476711",
+                "scene_pre": "search",
+                "current_price": "882",
+                "x_sku_ids": "1107456878",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "171476711"
+            },
+            "productUrl": "//www.daraz.com.bd/products/walton-olvio-l1-i171476711-s1107456878.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8562da3dc7c50c994cbdb0c0059cf3aa.jpg",
+            "originalPrice": "920.00",
+            "originalPriceShow": "৳ 920",
+            "price": "882",
+            "promotionId": "null",
+            "priceShow": "৳ 882",
+            "discount": "-4%",
+            "ratingScore": "3.83333",
+            "review": "6",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171476711_BD-1107456878",
+            "sku": "171476711_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506165014",
+            "mainSellerId": "",
+            "sellerName": "Talukder Electronics",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8562da3dc7c50c994cbdb0c0059cf3aa.jpg",
+                    "productUrl": "/products/walton-olvio-l1-i171476711-s1107456878.html",
+                    "sku": "171476711_BD",
+                    "skuId": "1107456878"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:171476711;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:171476711_BD;price:882;client:desktop;supplier_id:700506165014;asc_category_id:20000299;item_id:171476711;sku_id:1107456878;shop_id:69169",
+            "addToCartSkus": [
+                {
+                    "sku": "171476711_BD-1107456878",
+                    "skuId": "1107456878",
+                    "count": 0
+                }
+            ],
+            "itemId": "171476711",
+            "skuId": "1107456878",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton olvio p15",
+            "nid": "204367624",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "204367624",
+                "scene_pre": "search",
+                "current_price": "1290.00",
+                "x_sku_ids": "1152429109",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "204367624"
+            },
+            "productUrl": "//www.daraz.com.bd/products/walton-olvio-p15-i204367624-s1152429109.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a6b9aaf71df492e07a99294c0202f401.jpg",
+            "originalPrice": "1330.00",
+            "originalPriceShow": "৳ 1,330",
+            "price": "1290.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,290",
+            "discount": "-3%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "204367624_BD-1152429109",
+            "sku": "204367624_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "48012",
+            "brandName": "Walton",
+            "sellerId": "700508295192",
+            "mainSellerId": "",
+            "sellerName": "FAST FLY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a6b9aaf71df492e07a99294c0202f401.jpg",
+                    "productUrl": "/products/walton-olvio-p15-i204367624-s1152429109.html",
+                    "sku": "204367624_BD",
+                    "skuId": "1152429109"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:204367624;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:204367624_BD;price:1290.00;client:desktop;supplier_id:700508295192;asc_category_id:20000299;item_id:204367624;sku_id:1152429109;shop_id:142368",
+            "addToCartSkus": [
+                {
+                    "sku": "204367624_BD-1152429109",
+                    "skuId": "1152429109",
+                    "count": 0
+                }
+            ],
+            "itemId": "204367624",
+            "skuId": "1152429109",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Linnex LE 101 phone",
+            "nid": "232129927",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "232129927",
+                "scene_pre": "search",
+                "current_price": "1522.00",
+                "x_sku_ids": "1175096546",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "232129927"
+            },
+            "productUrl": "//www.daraz.com.bd/products/linnex-le-101-phone-i232129927-s1175096546.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4a40dc8d784a628735676cdce097e032.jpg",
+            "originalPrice": "1600.00",
+            "originalPriceShow": "৳ 1,600",
+            "price": "1522.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,522",
+            "discount": "-5%",
+            "ratingScore": "4.5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "232129927_BD-1175096546",
+            "sku": "232129927_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511283850",
+            "mainSellerId": "",
+            "sellerName": "Motophone (MYM)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4a40dc8d784a628735676cdce097e032.jpg",
+                    "productUrl": "/products/linnex-le-101-phone-i232129927-s1175096546.html",
+                    "sku": "232129927_BD",
+                    "skuId": "1175096546"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:232129927;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:232129927_BD;price:1522.00;client:desktop;supplier_id:700511283850;asc_category_id:20000299;item_id:232129927;sku_id:1175096546;shop_id:236112",
+            "addToCartSkus": [
+                {
+                    "sku": "232129927_BD-1175096546",
+                    "skuId": "1175096546",
+                    "count": 0
+                }
+            ],
+            "itemId": "232129927",
+            "skuId": "1175096546",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton Olvio L53",
+            "nid": "204366523",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "204366523",
+                "scene_pre": "search",
+                "current_price": "990",
+                "x_sku_ids": "1152408851",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "204366523"
+            },
+            "productUrl": "//www.daraz.com.bd/products/walton-olvio-l53-i204366523-s1152408851.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fe6bef047596e88a63ef8ec335d5f166.jpg",
+            "originalPrice": "1010.00",
+            "originalPriceShow": "৳ 1,010",
+            "price": "990",
+            "promotionId": "null",
+            "priceShow": "৳ 990",
+            "discount": "-2%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "204366523_BD-1152408851",
+            "sku": "204366523_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "48012",
+            "brandName": "Walton",
+            "sellerId": "700508295192",
+            "mainSellerId": "",
+            "sellerName": "FAST FLY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fe6bef047596e88a63ef8ec335d5f166.jpg",
+                    "productUrl": "/products/walton-olvio-l53-i204366523-s1152408851.html",
+                    "sku": "204366523_BD",
+                    "skuId": "1152408851"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:204366523;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:204366523_BD;price:990;client:desktop;supplier_id:700508295192;asc_category_id:20000299;item_id:204366523;sku_id:1152408851;shop_id:142368",
+            "addToCartSkus": [
+                {
+                    "sku": "204366523_BD-1152408851",
+                    "skuId": "1152408851",
+                    "count": 0
+                }
+            ],
+            "itemId": "204366523",
+            "skuId": "1152408851",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "4 SIM Mobile-Model:FS102 -2.4\" Display -Four SIM Standby -2500mah BiG Battery-Feature phone",
+            "nid": "237431434",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237431434",
+                "scene_pre": "search",
+                "current_price": "1850.00",
+                "x_sku_ids": "1181795611",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "237431434"
+            },
+            "productUrl": "//www.daraz.com.bd/products/4sim-fs102-24-2500mah-i237431434-s1181795611.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e3bac2b95e203089505f349cec42bb64.jpg",
+            "originalPrice": "2650.00",
+            "originalPriceShow": "৳ 2,650",
+            "price": "1850.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,850",
+            "discount": "-30%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237431434_BD-1181795611",
+            "sku": "237431434_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700512291920",
+            "mainSellerId": "",
+            "sellerName": "eZadu Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e3bac2b95e203089505f349cec42bb64.jpg",
+                    "productUrl": "/products/4sim-fs102-24-2500mah-i237431434-s1181795611.html",
+                    "sku": "237431434_BD",
+                    "skuId": "1181795611"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:237431434;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:237431434_BD;price:1850.00;client:desktop;supplier_id:700512291920;asc_category_id:20000299;item_id:237431434;sku_id:1181795611;shop_id:240244",
+            "addToCartSkus": [
+                {
+                    "sku": "237431434_BD-1181795611",
+                    "skuId": "1181795611",
+                    "count": 0
+                }
+            ],
+            "itemId": "237431434",
+            "skuId": "1181795611",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton Feature Phone ML19",
+            "nid": "194956642",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "194956642",
+                "scene_pre": "search",
+                "current_price": "1047",
+                "x_sku_ids": "1141309307",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "194956642"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ml19-i194956642-s1141309307.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/31d5ddb8c9132b203b769c7b993d04af.jpg",
+            "originalPrice": "1090.00",
+            "originalPriceShow": "৳ 1,090",
+            "price": "1047",
+            "promotionId": "null",
+            "priceShow": "৳ 1,047",
+            "discount": "-4%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "194956642_BD-1141309307",
+            "sku": "194956642_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "48012",
+            "brandName": "Walton",
+            "sellerId": "700506165014",
+            "mainSellerId": "",
+            "sellerName": "Talukder Electronics",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/31d5ddb8c9132b203b769c7b993d04af.jpg",
+                    "productUrl": "/products/ml19-i194956642-s1141309307.html",
+                    "sku": "194956642_BD",
+                    "skuId": "1141309307"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:194956642;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:194956642_BD;price:1047;client:desktop;supplier_id:700506165014;asc_category_id:20000299;item_id:194956642;sku_id:1141309307;shop_id:69169",
+            "addToCartSkus": [
+                {
+                    "sku": "194956642_BD-1141309307",
+                    "skuId": "1141309307",
+                    "count": 0
+                }
+            ],
+            "itemId": "194956642",
+            "skuId": "1141309307",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "BENCO E10 DUAL SIM",
+            "nid": "184957330",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184957330",
+                "scene_pre": "search",
+                "current_price": "1060",
+                "x_sku_ids": "1130349304",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "184957330"
+            },
+            "productUrl": "//www.daraz.com.bd/products/lava-benco-e10-i184957330-s1130349304.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/79896b9281ba6808ffb1796a64fb9adc.jpg",
+            "originalPrice": "1290.00",
+            "originalPriceShow": "৳ 1,290",
+            "price": "1060",
+            "promotionId": "null",
+            "priceShow": "৳ 1,060",
+            "discount": "-18%",
+            "ratingScore": "4.2",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184957330_BD-1130349304",
+            "sku": "184957330_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508322002",
+            "mainSellerId": "",
+            "sellerName": "Susmoy Communication (MYM)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/79896b9281ba6808ffb1796a64fb9adc.jpg",
+                    "productUrl": "/products/lava-benco-e10-i184957330-s1130349304.html",
+                    "sku": "184957330_BD",
+                    "skuId": "1130349304"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:184957330;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:184957330_BD;price:1060;client:desktop;supplier_id:700508322002;asc_category_id:20000299;item_id:184957330;sku_id:1130349304;shop_id:143659",
+            "addToCartSkus": [
+                {
+                    "sku": "184957330_BD-1130349304",
+                    "skuId": "1130349304",
+                    "count": 0
+                }
+            ],
+            "itemId": "184957330",
+            "skuId": "1130349304",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton Olvio MH21",
+            "nid": "205528442",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "205528442",
+                "scene_pre": "search",
+                "current_price": "1400.00",
+                "x_sku_ids": "1153899092",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "205528442"
+            },
+            "productUrl": "//www.daraz.com.bd/products/olvio-mh21-i205528442-s1153899092.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/be06441491195ffa1a94018b541b3e07.jpg",
+            "price": "1400.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,400",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "205528442_BD-1153899092",
+            "sku": "205528442_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "48012",
+            "brandName": "Walton",
+            "sellerId": "700508295192",
+            "mainSellerId": "",
+            "sellerName": "FAST FLY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/be06441491195ffa1a94018b541b3e07.jpg",
+                    "productUrl": "/products/olvio-mh21-i205528442-s1153899092.html",
+                    "sku": "205528442_BD",
+                    "skuId": "1153899092"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:205528442;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:205528442_BD;price:1400.00;client:desktop;supplier_id:700508295192;asc_category_id:20000299;item_id:205528442;sku_id:1153899092;shop_id:142368",
+            "addToCartSkus": [
+                {
+                    "sku": "205528442_BD-1153899092",
+                    "skuId": "1153899092",
+                    "count": 0
+                }
+            ],
+            "itemId": "205528442",
+            "skuId": "1153899092",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton Olvio L51 Feature Phone",
+            "nid": "173702275",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "173702275",
+                "scene_pre": "search",
+                "current_price": "1050.00",
+                "x_sku_ids": "1110310989",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "173702275"
+            },
+            "productUrl": "//www.daraz.com.bd/products/olvio-l51-i173702275-s1110310989.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/370ee9fde1860d07b8fc54db1c898af9.jpg",
+            "price": "1050.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,050",
+            "ratingScore": "4.33333",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "173702275_BD-1110310989",
+            "sku": "173702275_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "48012",
+            "brandName": "Walton",
+            "sellerId": "1029290",
+            "mainSellerId": "",
+            "sellerName": "S.S Electronics (MYM)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/370ee9fde1860d07b8fc54db1c898af9.jpg",
+                    "productUrl": "/products/olvio-l51-i173702275-s1110310989.html",
+                    "sku": "173702275_BD",
+                    "skuId": "1110310989"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:173702275;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:173702275_BD;price:1050.00;client:desktop;supplier_id:1029290;asc_category_id:20000299;item_id:173702275;sku_id:1110310989;shop_id:35371",
+            "addToCartSkus": [
+                {
+                    "sku": "173702275_BD-1110310989",
+                    "skuId": "1110310989",
+                    "count": 0
+                }
+            ],
+            "itemId": "173702275",
+            "skuId": "1110310989",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton Olvio L1",
+            "nid": "173698347",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "173698347",
+                "scene_pre": "search",
+                "current_price": "980",
+                "x_sku_ids": "1110316791",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "173698347"
+            },
+            "productUrl": "//www.daraz.com.bd/products/walton-olvio-l1-i173698347-s1110316791.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/385c0d5c7df7c884a4b6f6f22b5c8c1c.jpg",
+            "originalPrice": "1000.00",
+            "originalPriceShow": "৳ 1,000",
+            "price": "980",
+            "promotionId": "null",
+            "priceShow": "৳ 980",
+            "discount": "-2%",
+            "ratingScore": "4.5",
+            "review": "10",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "173698347_BD-1110316791",
+            "sku": "173698347_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "48012",
+            "brandName": "Walton",
+            "sellerId": "1029290",
+            "mainSellerId": "",
+            "sellerName": "S.S Electronics (MYM)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/385c0d5c7df7c884a4b6f6f22b5c8c1c.jpg",
+                    "productUrl": "/products/walton-olvio-l1-i173698347-s1110316791.html",
+                    "sku": "173698347_BD",
+                    "skuId": "1110316791"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:173698347;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:173698347_BD;price:980;client:desktop;supplier_id:1029290;asc_category_id:20000299;item_id:173698347;sku_id:1110316791;shop_id:35371",
+            "addToCartSkus": [
+                {
+                    "sku": "173698347_BD-1110316791",
+                    "skuId": "1110316791",
+                    "count": 0
+                }
+            ],
+            "itemId": "173698347",
+            "skuId": "1110316791",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "4 SIM Mobile-Model:FS102 -2.4\" Display -Four SIM Standby -2500mah BiG Battery-Feature phone",
+            "nid": "237396845",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237396845",
+                "scene_pre": "search",
+                "current_price": "1850.00",
+                "x_sku_ids": "1181799436",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "237396845"
+            },
+            "productUrl": "//www.daraz.com.bd/products/4sim-fs102-24-2500mah-i237396845-s1181799436.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/89fe3914297ef71418fc2c30fa518f32.jpg",
+            "originalPrice": "2650.00",
+            "originalPriceShow": "৳ 2,650",
+            "price": "1850.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,850",
+            "discount": "-30%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237396845_BD-1181799436",
+            "sku": "237396845_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700512291920",
+            "mainSellerId": "",
+            "sellerName": "eZadu Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/89fe3914297ef71418fc2c30fa518f32.jpg",
+                    "productUrl": "/products/4sim-fs102-24-2500mah-i237396845-s1181799436.html",
+                    "sku": "237396845_BD",
+                    "skuId": "1181799436"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:237396845;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:237396845_BD;price:1850.00;client:desktop;supplier_id:700512291920;asc_category_id:20000299;item_id:237396845;sku_id:1181799436;shop_id:240244",
+            "addToCartSkus": [
+                {
+                    "sku": "237396845_BD-1181799436",
+                    "skuId": "1181799436",
+                    "count": 0
+                }
+            ],
+            "itemId": "237396845",
+            "skuId": "1181799436",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton Olvio L1 800Mah Li-Ion Battery - Black",
+            "nid": "230344638",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230344638",
+                "scene_pre": "search",
+                "current_price": "950.00",
+                "x_sku_ids": "1173570934",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "230344638"
+            },
+            "productUrl": "//www.daraz.com.bd/products/walton-olvio-l1-800mah-i230344638-s1173570934.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/88767b878ae85ea98e6670df9b2c52a6.png",
+            "price": "950.00",
+            "promotionId": "null",
+            "priceShow": "৳ 950",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230344638_BD-1173570934",
+            "sku": "230344638_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508439278",
+            "mainSellerId": "",
+            "sellerName": "Golden Dream (MYM)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/88767b878ae85ea98e6670df9b2c52a6.png",
+                    "productUrl": "/products/walton-olvio-l1-800mah-i230344638-s1173570934.html",
+                    "sku": "230344638_BD",
+                    "skuId": "1173570934"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:230344638;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:230344638_BD;price:950.00;client:desktop;supplier_id:700508439278;asc_category_id:20000299;item_id:230344638;sku_id:1173570934;shop_id:159945",
+            "addToCartSkus": [
+                {
+                    "sku": "230344638_BD-1173570934",
+                    "skuId": "1173570934",
+                    "count": 0
+                }
+            ],
+            "itemId": "230344638",
+            "skuId": "1173570934",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton Feature Phone Olivo MM24",
+            "nid": "178792259",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "178792259",
+                "scene_pre": "search",
+                "current_price": "1200.00",
+                "x_sku_ids": "1119767281",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "178792259"
+            },
+            "productUrl": "//www.daraz.com.bd/products/walton-feature-phone-olivo-mm24-i178792259-s1119767281.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/080e4768c43d79d2ffc4835dbb281d39.jpg",
+            "originalPrice": "1220.00",
+            "originalPriceShow": "৳ 1,220",
+            "price": "1200.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,200",
+            "discount": "-2%",
+            "ratingScore": "4.75",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "178792259_BD-1119767281",
+            "sku": "178792259_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506165014",
+            "mainSellerId": "",
+            "sellerName": "Talukder Electronics",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/080e4768c43d79d2ffc4835dbb281d39.jpg",
+                    "productUrl": "/products/walton-feature-phone-olivo-mm24-i178792259-s1119767281.html",
+                    "sku": "178792259_BD",
+                    "skuId": "1119767281"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:178792259;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:178792259_BD;price:1200.00;client:desktop;supplier_id:700506165014;asc_category_id:20000299;item_id:178792259;sku_id:1119767281;shop_id:69169",
+            "addToCartSkus": [
+                {
+                    "sku": "178792259_BD-1119767281",
+                    "skuId": "1119767281",
+                    "count": 0
+                }
+            ],
+            "itemId": "178792259",
+            "skuId": "1119767281",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "4 SIM Mobile-Model:FS102 -2.4\" Display -Four SIM Standby -2500mah BiG Battery-Feature phone",
+            "nid": "237364722",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237364722",
+                "scene_pre": "search",
+                "current_price": "1850.00",
+                "x_sku_ids": "1181787973",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "237364722"
+            },
+            "productUrl": "//www.daraz.com.bd/products/4sim-fs102-24-2500mah-i237364722-s1181787973.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/052a05c4d17f98602b907b72e04c39a6.jpg",
+            "originalPrice": "2600.00",
+            "originalPriceShow": "৳ 2,600",
+            "price": "1850.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,850",
+            "discount": "-29%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237364722_BD-1181787973",
+            "sku": "237364722_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700512291920",
+            "mainSellerId": "",
+            "sellerName": "eZadu Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/052a05c4d17f98602b907b72e04c39a6.jpg",
+                    "productUrl": "/products/4sim-fs102-24-2500mah-i237364722-s1181787973.html",
+                    "sku": "237364722_BD",
+                    "skuId": "1181787973"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:237364722;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:237364722_BD;price:1850.00;client:desktop;supplier_id:700512291920;asc_category_id:20000299;item_id:237364722;sku_id:1181787973;shop_id:240244",
+            "addToCartSkus": [
+                {
+                    "sku": "237364722_BD-1181787973",
+                    "skuId": "1181787973",
+                    "count": 0
+                }
+            ],
+            "itemId": "237364722",
+            "skuId": "1181787973",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Lava Benco E11 Features Phone",
+            "nid": "232141664",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "232141664",
+                "scene_pre": "search",
+                "current_price": "1134.00",
+                "x_sku_ids": "1175111189",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "232141664"
+            },
+            "productUrl": "//www.daraz.com.bd/products/lava-benco-e11-i232141664-s1175111189.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4d13875beaf5f3b503c9a531c2c9bd42.jpg",
+            "originalPrice": "1200.00",
+            "originalPriceShow": "৳ 1,200",
+            "price": "1134.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,134",
+            "discount": "-6%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "232141664_BD-1175111189",
+            "sku": "232141664_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511283850",
+            "mainSellerId": "",
+            "sellerName": "Motophone (MYM)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4d13875beaf5f3b503c9a531c2c9bd42.jpg",
+                    "productUrl": "/products/lava-benco-e11-i232141664-s1175111189.html",
+                    "sku": "232141664_BD",
+                    "skuId": "1175111189"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:232141664;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:232141664_BD;price:1134.00;client:desktop;supplier_id:700511283850;asc_category_id:20000299;item_id:232141664;sku_id:1175111189;shop_id:236112",
+            "addToCartSkus": [
+                {
+                    "sku": "232141664_BD-1175111189",
+                    "skuId": "1175111189",
+                    "count": 0
+                }
+            ],
+            "itemId": "232141664",
+            "skuId": "1175111189",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton Feature Phone L50",
+            "nid": "194920203",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "194920203",
+                "scene_pre": "search",
+                "current_price": "1010.00",
+                "x_sku_ids": "1141268829",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "194920203"
+            },
+            "productUrl": "//www.daraz.com.bd/products/walton-feature-phone-l50-i194920203-s1141268829.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/43f30f8181dc3965e1a6c8739b223fb8.jpg",
+            "price": "1010.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,010",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "194920203_BD-1141268829",
+            "sku": "194920203_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "48012",
+            "brandName": "Walton",
+            "sellerId": "700506165014",
+            "mainSellerId": "",
+            "sellerName": "Talukder Electronics",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/43f30f8181dc3965e1a6c8739b223fb8.jpg",
+                    "productUrl": "/products/walton-feature-phone-l50-i194920203-s1141268829.html",
+                    "sku": "194920203_BD",
+                    "skuId": "1141268829"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:194920203;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:194920203_BD;price:1010.00;client:desktop;supplier_id:700506165014;asc_category_id:20000299;item_id:194920203;sku_id:1141268829;shop_id:69169",
+            "addToCartSkus": [
+                {
+                    "sku": "194920203_BD-1141268829",
+                    "skuId": "1141268829",
+                    "count": 0
+                }
+            ],
+            "itemId": "194920203",
+            "skuId": "1141268829",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton Feature Phone P15",
+            "nid": "194930544",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "194930544",
+                "scene_pre": "search",
+                "current_price": "1330.00",
+                "x_sku_ids": "1141276945",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "194930544"
+            },
+            "productUrl": "//www.daraz.com.bd/products/p15-i194930544-s1141276945.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/751d952cb86904a85ad1186484b647cc.jpg",
+            "price": "1330.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,330",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "194930544_BD-1141276945",
+            "sku": "194930544_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "48012",
+            "brandName": "Walton",
+            "sellerId": "700506165014",
+            "mainSellerId": "",
+            "sellerName": "Talukder Electronics",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/751d952cb86904a85ad1186484b647cc.jpg",
+                    "productUrl": "/products/p15-i194930544-s1141276945.html",
+                    "sku": "194930544_BD",
+                    "skuId": "1141276945"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:194930544;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:194930544_BD;price:1330.00;client:desktop;supplier_id:700506165014;asc_category_id:20000299;item_id:194930544;sku_id:1141276945;shop_id:69169",
+            "addToCartSkus": [
+                {
+                    "sku": "194930544_BD-1141276945",
+                    "skuId": "1141276945",
+                    "count": 0
+                }
+            ],
+            "itemId": "194930544",
+            "skuId": "1141276945",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton Feature Phone ML21",
+            "nid": "194929639",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "194929639",
+                "scene_pre": "search",
+                "current_price": "1057.32",
+                "x_sku_ids": "1141277824",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "194929639"
+            },
+            "productUrl": "//www.daraz.com.bd/products/walton-ml21-i194929639-s1141277824.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/84336054eb1d9d6b4b546ab35a88a0c6.jpg",
+            "originalPrice": "1090.00",
+            "originalPriceShow": "৳ 1,090",
+            "price": "1057.32",
+            "promotionId": "null",
+            "priceShow": "৳ 1,057",
+            "discount": "-3%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "194929639_BD-1141277824",
+            "sku": "194929639_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "48012",
+            "brandName": "Walton",
+            "sellerId": "700506165014",
+            "mainSellerId": "",
+            "sellerName": "Talukder Electronics",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/84336054eb1d9d6b4b546ab35a88a0c6.jpg",
+                    "productUrl": "/products/walton-ml21-i194929639-s1141277824.html",
+                    "sku": "194929639_BD",
+                    "skuId": "1141277824"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:194929639;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:194929639_BD;price:1057.32;client:desktop;supplier_id:700506165014;asc_category_id:20000299;item_id:194929639;sku_id:1141277824;shop_id:69169",
+            "addToCartSkus": [
+                {
+                    "sku": "194929639_BD-1141277824",
+                    "skuId": "1141277824",
+                    "count": 0
+                }
+            ],
+            "itemId": "194929639",
+            "skuId": "1141277824",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Titanic GURU Music 2 T 130",
+            "nid": "216619126",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "216619126",
+                "scene_pre": "search",
+                "current_price": "872",
+                "x_sku_ids": "1164840617",
+                "SN": "7cfd9105656229a56124a0ab7366bfca",
+                "x_ad": "1",
+                "x_object_id": "216619126"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-t-130-i216619126-s1164840617.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b27f20876072518d9ddf6c2e01880f0f.jpg",
+            "originalPrice": "890.00",
+            "originalPriceShow": "৳ 890",
+            "price": "872",
+            "promotionId": "null",
+            "priceShow": "৳ 872",
+            "discount": "-2%",
+            "ratingScore": "1",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "216619126_BD-1164840617",
+            "sku": "216619126_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507803110",
+            "mainSellerId": "",
+            "sellerName": "Anaf Trade International (KHL)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b27f20876072518d9ddf6c2e01880f0f.jpg",
+                    "productUrl": "/products/2-t-130-i216619126-s1164840617.html",
+                    "sku": "216619126_BD",
+                    "skuId": "1164840617"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                20000299
+            ],
+            "clickTrace": "query:;nid:216619126;src:LazadaMainSrp;rn:7cfd9105656229a56124a0ab7366bfca;region:bd;sku:216619126_BD;price:872;client:desktop;supplier_id:700507803110;asc_category_id:20000299;item_id:216619126;sku_id:1164840617;shop_id:113766",
+            "addToCartSkus": [
+                {
+                    "sku": "216619126_BD-1164840617",
+                    "skuId": "1164840617",
+                    "count": 0
+                }
+            ],
+            "itemId": "216619126",
+            "skuId": "1164840617",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/phones-tablets/",
+            "title": "Mobiles & Tablets"
+        },
+        {
+            "url": "/featurephones/",
+            "title": "Feature Phones"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/featurephones/?referer_rn=7cfd9105656229a56124a0ab7366bfca&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Cp%3E%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Fbn-feature-phones%2F%22%20target%3D%22_self%22%3E%5BView%20Page%20in%20Bengali%5D%3C%2Fa%3E%3C%2Fp%3E%0A%0A%3Ch2%3EFeature%20Phones%20Online%20In%20Bangladesh%20At%20Best%20Price%3C%2Fh2%3E%0A%0A%3Cp%3EExperience%20convenient%20shopping%20for%20low%20price%20feature%20phone%20in%20bangladesh%20and%20pay%20cash%20on%20delivery%20at%20your%20home.%20Here%20at%20daraz%2C%20you%20can%20choose%20from%20best%20feature%20phone%2C%20keypad%20mobile%20and%20button%20mobile%20from%20top%20brands%20under%20roof.%20Not%20only%20that%2C%20shoppers%20can%20also%20avail%20bundle%20discounts%20on%20latest%20feature%20phone%20price%20in%20bangladesh%202022%20throughout%20the%20year.%20Are%20you%20tired%20of%20finding%20best%20budget%20feature%20phone%20without%20bargaining%20for%20discount%20on%20prices%3F%20Then%20daraz%20is%20offering%20low%20price%20feature%20phone%20online%20from%20samsung%2C%20nokia%2C%20symphony%20and%20a%20lot%20more.%20Also%20you%20use%20our%20filter%20options%20to%20find%20feature%20phones%20under%202000%20taka%20with%20additional%20discounts%20on%20online%20payment%20methods.%20You%20can%20also%20visit%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2F11-11-sale%2F%22%20target%3D%22_self%22%3EDaraz%2011.11%20Sale%3C%2Fa%3E%20to%20grab%20some%20best%20smartphone%20deals.%3C%2Fp%3E%0A%0A%3Ch3%3ESmartphones%20Vs%20Feature%20Phones%3C%2Fh3%3E%0A%0A%3Cp%3EIn%20this%20day%20and%20age%2C%20feature%20phones%20have%20emerged%20as%20the%20popular%20mode%20of%20communication%20due%20to%20their%20ease%20of%20use%2C%20ability%20to%20carry%20out%20complex%20tasks%20and%20their%20usage%20as%20sources%20of%20entertainment.%20At%20the%20other%20end%2C%20there%20are%20the%20feature%20phones%20that%20are%20capable%20of%20only%20performing%20the%20basic%20functions%20such%20as%20calling%20and%20messaging%20but%20lack%20the%20advanced%20features%20and%20functionalities%20such%20as%20web%20browsing%2C%20applications%20and%20more.%20Such%20phones%20primarily%20target%20the%20people%20who%20do%20not%20have%20the%20need%20for%20the%20extra%20novelties%20and%20only%20need%20to%20make%20calls%20or%20send%20messages.%20They%20are%20also%20very%20affordable%2C%20making%20them%20an%20attractive%20purchase%20for%20the%20masses%20compared%20to%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Fsmartphones%2F%22%20target%3D%22_self%22%3Emobile%20phones%3C%2Fa%3E%20that%20are%20higher%20in%20usual.%3C%2Fp%3E%0A%0A%3Ch3%3EWhy%20Buy%20Feature%20Phones%2F%20Button%20Phones%3F%3C%2Fh3%3E%0A%0A%3Cp%3ECell%20Phones%20have%20become%20more%20of%20a%20necessity%20today%20as%20there%20is%20a%20need%20to%20be%20in%20constant%20contact%20for%20personal%20and%20professional%20reasons.%20Bangladesh%20is%20a%20country%20where%20the%20average%20income%20may%20not%20be%20sufficient%20to%20afford%20the%20luxury%20of%20smart%20phones%20so%20the%20feature%20phones%20are%20always%20in%20demand%20by%20people%20from%20all%20walks%20of%20life.%20This%20is%20a%20market%20that%20is%20catered%20to%20excellently%20by%20renowned%20brands.%20With%20relatively%20newer%20brands%20such%20as%20providing%20high%20quality%20affordable%20feature%20phones%20with%20a%20range%20of%20features%2C%20the%20feature%20phones%20are%20far%20from%20extinct.%3C%2Fp%3E%0A%0A%3Cp%3E%3Cstrong%3EBest%20Feature%20Phone%20Brands%20in%20Bangladesh%3A%3C%2Fstrong%3E%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ffeaturephones%2Fnokia%2F%22%3ENokia%20feature%20phone%3C%2Fa%3E%20l%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ffeaturephones%2Fsamsung%2F%22%3ESamsung%20feature%20phone%3C%2Fa%3E%20l%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ffeaturephones%2Fsymphony%2F%22%3ESymphony%20feature%20phone%3C%2Fa%3E%20l%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ffeaturephones%2F5-star-195742%2F%22%3E5%20Star%26nbsp%3Bfeature%20phone%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ffeaturephones%2Fwalton%2F%22%3EWalton%20feature%20phone%3C%2Fa%3E%26nbsp%3B%7C%20%3Ca%20href%3D%22http%3A%2F%2Fwww.daraz.com.bd%2Ffeaturephones%2Ftecno%2F%22%3ETecno%20feature%20phone%3C%2Fa%3E%26nbsp%3B%7C%20%3Ca%20href%3D%22http%3A%2F%2Fwww.daraz.com.bd%2Ffeaturephones%2F5-star-195742%2F%22%3ETinmo%20feature%20phone%3C%2Fa%3E%26nbsp%3B%3C%2Fp%3E%0A%0A%3Ch3%3EMust%20Have%20Features%20For%20Button%20Phones%3C%2Fh3%3E%0A%0A%3Cp%3ESome%20other%20features%20that%20one%20has%20come%20to%20expect%20even%20from%20a%20feature%20phone%20over%20the%20years%20are%20radio%2C%20basic%20camera%2C%20music%20playback%20and%20some%20form%20of%20internet%20access.%20For%20the%20price%20tag%2C%20these%20phones%20do%20give%20quite%20a%20big%20bang%20for%20your%20buck.%20The%20Nokia%20105%2C%20for%20example%2C%20is%20a%20budget%20feature%20phone%20that%20boasts%20Dual-SIM%20capability%2C%20is%20durable%20and%20lightweight%20and%20incorporates%20basic%20functions%20such%20as%20alarm%20clock%2C%20calendar%2C%20reminders%20and%20more.%20The%20Nokia%20216%20goes%20a%20step%20ahead%20and%20provides%20you%20with%20a%20sleek%20and%20stylish%20device%20to%20call%20your%20own.%20The%20Samsung%20Guru%20Music%202%20is%20there%20for%20all%20your%20music%20needs.%3C%2Fp%3E%0A%0A%3Ch3%3EBuy%20Feature%20Phones%20Online%20From%20Daraz.com.bd%3C%2Fh3%3E%0A%0A%3Cp%3EDaraz.com.bd%20is%20your%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2F%22%20target%3D%22_self%22%3Eonline%20shopping%3C%2Fa%3E%20destination%20for%20feature%20phones%20in%20bangladesh.%20You%20can%20also%20hand-pick%20from%20%3Ca%20href%3D%22https%3A%2F%2Fblog.daraz.com.bd%2F2022%2F04%2F19%2Fbest-feature-phones-in-bangladesh%2F%22%20target%3D%22_self%22%3Ebest%20feature%20phone%20under%201000%20taka%3C%2Fa%3E%20using%20daraz%20coupon%20code%20while%20placing%20your%20order.%20Invest%20in%20this%20handy%20device%20today%20and%20stay%20connected%20with%20your%20loved%20ones.%3C%2Fp%3E%0A%0A%3Cstyle%3E%0A%09%2F*%20info%20(hed%2C%20dek%2C%20source%2C%20credit)%20*%2F%0A.rg-container%20%7B%0A%20%20font-family%3A%20%27Lato%27%2C%20Helvetica%2C%20Arial%2C%20sans-serif%3B%0A%20%20font-size%3A%2016px%3B%0A%20%20line-height%3A%201.4%3B%0A%20%20margin%3A%200%3B%0A%20%20padding%3A%201em%200.5em%3B%0A%20%20color%3A%20%23222%3B%0A%7D%0A.rg-header%20%7B%0A%20%20margin-bottom%3A%201em%3B%0A%20%20text-align%3A%20left%3B%0A%7D%0A%0A.rg-header%20%3E%20*%20%7B%0A%20%20display%3A%20block%3B%0A%7D%0A.rg-hed%20%7B%0A%20%20font-weight%3A%20bold%3B%0A%20%20font-size%3A%201.4em%3B%0A%7D%0A.rg-dek%20%7B%0A%20%20font-size%3A%201em%3B%0A%7D%0A%0A.rg-source%20%7B%0A%20%20margin%3A%200%3B%0A%20%20font-size%3A%200.75em%3B%0A%20%20text-align%3A%20right%3B%0A%7D%0A.rg-source%20.pre-colon%20%7B%0A%20%20text-transform%3A%20uppercase%3B%0A%7D%0A%0A.rg-source%20.post-colon%20%7B%0A%20%20font-weight%3A%20bold%3B%0A%7D%0A%0A%2F*%20table%20*%2F%0Atable.rg-table%20%7B%0A%20%20width%3A%20100%25%3B%0A%20%20margin-bottom%3A%200.5em%3B%0A%20%20font-size%3A%201em%3B%0A%20%20border-collapse%3A%20collapse%3B%0A%20%20border-spacing%3A%200%3B%0A%7D%0Atable.rg-table%20tr%20%7B%0A%20%20-moz-box-sizing%3A%20border-box%3B%0A%20%20box-sizing%3A%20border-box%3B%0A%20%20margin%3A%200%3B%0A%20%20padding%3A%200%3B%0A%20%20border%3A%200%3B%0A%20%20font-size%3A%20100%25%3B%0A%20%20font%3A%20inherit%3B%0A%20%20vertical-align%3A%20baseline%3B%0A%20%20text-align%3A%20left%3B%0A%20%20color%3A%20%23333%3B%0A%7D%0Atable.rg-table%20thead%20%7B%0A%20%20border-bottom%3A%203px%20solid%20%23ddd%3B%0A%7D%0Atable.rg-table%20tr%20%7B%0A%20%20border-bottom%3A%201px%20solid%20%23ddd%3B%0A%20%20color%3A%20%23222%3B%0A%7D%0Atable.rg-table%20tr.highlight%20%7B%0A%20%20background-color%3A%20%23dcf1f0%20!important%3B%0A%7D%0Atable.rg-table.zebra%20tr%3Anth-child(even)%20%7B%0A%20%20background-color%3A%20%23f6f6f6%3B%0A%7D%0Atable.rg-table%20th%20%7B%0A%20%20font-weight%3A%20bold%3B%0A%20%20padding%3A%200.35em%3B%0A%20%20font-size%3A%200.9em%3B%0A%7D%0Atable.rg-table%20td%20%7B%0A%20%20padding%3A%200.35em%3B%0A%20%20font-size%3A%200.9em%3B%0A%7D%0Atable.rg-table%20.highlight%20td%20%7B%0A%20%20font-weight%3A%20bold%3B%0A%7D%0Atable.rg-table%20th.number%2C%0Atd.number%20%7B%0A%20%20text-align%3A%20right%3B%0A%7D%0A%0A%2F*%20media%20queries%20*%2F%0A%40media%20screen%20and%20(max-width%3A%20600px)%20%7B%0A%20%20.rg-container%20%7B%0A%20%20%20%20max-width%3A%20600px%3B%0A%20%20%20%20margin%3A%200%20auto%3B%0A%20%20%7D%0A%20%20table.rg-table%20%7B%0A%20%20%20%20width%3A%20100%25%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr.hide-mobile%2C%0A%20%20table.rg-table%20th.hide-mobile%2C%0A%20%20table.rg-table%20td.hide-mobile%20%7B%0A%20%20%20%20display%3A%20none%3B%0A%20%20%7D%0A%20%20table.rg-table%20thead%20%7B%0A%20%20%20%20display%3A%20none%3B%0A%20%20%7D%0A%20%20table.rg-table%20tbody%20%7B%0A%20%20%20%20width%3A%20100%25%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr%2C%0A%20%20table.rg-table%20th%2C%0A%20%20table.rg-table%20td%20%7B%0A%20%20%20%20display%3A%20block%3B%0A%20%20%20%20padding%3A%200%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr%20%7B%0A%20%20%20%20border-bottom%3A%20none%3B%0A%20%20%20%20margin%3A%200%200%201em%200%3B%0A%20%20%20%20padding%3A%200.5em%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr.highlight%20%7B%0A%20%20%20%20background-color%3A%20inherit%20!important%3B%0A%20%20%7D%0A%20%20table.rg-table.zebra%20tr%3Anth-child(even)%20%7B%0A%20%20%20%20background-color%3A%20transparent%3B%0A%20%20%7D%0A%20%20table.rg-table.zebra%20td%3Anth-child(even)%20%7B%0A%20%20%20%20background-color%3A%20%23f6f6f6%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr%3Anth-child(even)%20%7B%0A%20%20%20%20background-color%3A%20transparent%3B%0A%20%20%7D%0A%20%20table.rg-table%20td%20%7B%0A%20%20%20%20padding%3A%200.5em%200%200.25em%200%3B%0A%20%20%20%20border-bottom%3A%201px%20dotted%20%23ccc%3B%0A%20%20%20%20text-align%3A%20right%3B%0A%20%20%7D%0A%20%20table.rg-table%20td%5Bdata-title%5D%3Abefore%20%7B%0A%20%20%20%20content%3A%20attr(data-title)%3B%0A%20%20%20%20font-weight%3A%20bold%3B%0A%20%20%20%20display%3A%20inline-block%3B%0A%20%20%20%20content%3A%20attr(data-title)%3B%0A%20%20%20%20float%3A%20left%3B%0A%20%20%20%20margin-right%3A%200.5em%3B%0A%20%20%20%20font-size%3A%200.95em%3B%0A%20%20%7D%0A%20%20table.rg-table%20td%3Alast-child%20%7B%0A%20%20%20%20padding-right%3A%200%3B%0A%20%20%20%20border-bottom%3A%202px%20solid%20%23ccc%3B%0A%20%20%7D%0A%20%20table.rg-table%20td%3Aempty%20%7B%0A%20%20%20%20display%3A%20none%3B%0A%20%20%7D%0A%20%20table.rg-table%20.highlight%20td%20%7B%0A%20%20%20%20background-color%3A%20inherit%3B%0A%20%20%20%20font-weight%3A%20normal%3B%0A%20%20%7D%0A%7D%0A%0A%3C%2Fstyle%3E%0A%3Cdiv%20class%3D%27rg-container%27%3E%0A%09%3Ctable%20class%3D%27rg-table%27%20summary%3D%27Updated%20Feature%20Phones%20Price%20List%20-%202022%20(January)%27%3E%0A%09%09%3Ccaption%20class%3D%27rg-header%27%3E%0A%09%09%09%3Cspan%20class%3D%27rg-hed%27%3EUpdated%20Feature%20Phones%20Price%20List%20-%202022%20(January)%3C%2Fspan%3E%0A%09%09%09%3Cspan%20class%3D%27rg-dek%27%3ELowest%20Feature%20Phone%20Price%20in%20Bangladesh%20is%20900%20BDT.%20Whereas%20the%20Highest%20Price%20of%20Feature%20Phone%20is%203%2C999%20Taka%20(Bangladeshi)%20at%20Daraz.com.bd.%3C%2Fspan%3E%0A%09%09%3C%2Fcaption%3E%0A%09%09%3Cthead%3E%0A%09%09%09%3Ctr%3E%0A%09%09%09%09%3Cth%20class%3D%27text%20%27%3EFeature%20Phones%20List%202022%3C%2Fth%3E%0A%09%09%09%09%3Cth%20class%3D%27text%20%27%3EPrice%20in%20Bangladesh%3C%2Fth%3E%0A%09%09%09%3C%2Ftr%3E%0A%09%09%3C%2Fthead%3E%0A%09%09%3Ctbody%3E%0A%09%09%09%0A%09%09%09%09%3Ctr%20class%3D%27%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Feature%20phone%20List%202022%27%3EWalton%20Olvio%20L1%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3E%E0%A7%B3%20900%20BDT%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%0A%09%09%09%09%3Ctr%20class%3D%27%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Feature%20phone%20List%202022%27%3EImax%20MX2402%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3E%E0%A7%B3%201%2C190%20BDT%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%0A%09%09%09%09%3Ctr%20class%3D%27%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Feature%20phone%20List%202022%27%3EMicromax%20X920%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3E%E0%A7%B3%201%2C690%20BDT%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%0A%09%09%09%09%3Ctr%20class%3D%27%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Feature%20phone%20List%202022%27%3ESamsung%20Piton%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3E%E0%A7%B3%202%2C450%20BDT%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%0A%09%09%09%09%3Ctr%20class%3D%27%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Feature%20phone%20List%202022%27%3ENokia%20110%204G%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3E%E0%A7%B3%203%2C999%20BDT%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%09%09%3C%2Ftbody%3E%0A%09%3C%2Ftable%3E%0A%0A%0A%3Cp%3E%3Cstrong%3EPopular%20Nokia%20Mobile%20Phones%3A%3C%2Fstrong%3E%3C%2Fp%3E%0A%3Cp%3E%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ftag%2Fnokia-3310%2F%22%3ENokia%203310%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ftag%2Fnokia-106%2F%22%3ENokia%20106%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ftag%2Fnokia-3%2F%22%3ENokia%203%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ftag%2Fnokia-5%2F%22%3ENokia%205%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ftag%2Fnokia-6%2F%22%3ENokia%206%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ftag%2Fnokia-3-4%2F%22%3ENokia%203.4%3C%2Fa%3E%3C%2Fp%3E"
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "188 items found in {$0}",
+        "title": "Feature Phone Price in BD",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Feature Phones"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Feature Phone Price in BD",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "188",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "7cfd9105656229a56124a0ab7366bfca",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "20000299",
+            "category": "20000299"
+        },
+        "categoryRegionalKey": "1260000013557",
+        "mainCategoryRegionalKey": "010000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Feature Phone - Button Phone Price in BD 2022 | Daraz.com.bd",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Mobiles & Tablets,Feature Phones",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "1260000013557",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=20000299&_p_asc_cateid=20000299",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "featurephones",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "7cfd9105656229a56124a0ab7366bfca",
+                "resultNr": 188,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1173580969",
+                "1170697142",
+                "1170693531"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "20000299",
+            "category": "20000299"
+        }
+    }
+}

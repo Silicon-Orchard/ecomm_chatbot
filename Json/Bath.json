@@ -1,0 +1,3690 @@
+{
+    "listItems": [
+        {
+            "name": "Multicolor Cotton Doormat - 3 Pieces",
+            "nid": "142996400",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "142996400",
+                "scene_pre": "search",
+                "current_price": "87",
+                "x_sku_ids": "1067094417",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "142996400"
+            },
+            "productUrl": "//www.daraz.com.bd/products/3-i142996400-s1067094417.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/98e1e19d1d1baa8997bf0ab7b58ac343.jpg",
+            "originalPrice": "240.00",
+            "originalPriceShow": "৳ 240",
+            "price": "87",
+            "promotionId": "null",
+            "priceShow": "৳ 87",
+            "discount": "-64%",
+            "ratingScore": "4.64333",
+            "review": "457",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "142996400_BD-1067094417",
+            "sku": "142996400_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1028334",
+            "mainSellerId": "",
+            "sellerName": "Brother's Hardware",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/98e1e19d1d1baa8997bf0ab7b58ac343.jpg",
+                    "productUrl": "/products/3-i142996400-s1067094417.html",
+                    "sku": "142996400_BD",
+                    "skuId": "1067094417"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000391
+            ],
+            "clickTrace": "query:;nid:142996400;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:142996400_BD;price:87;client:desktop;supplier_id:1028334;asc_category_id:10000391;item_id:142996400;sku_id:1067094417;shop_id:34431",
+            "addToCartSkus": [
+                {
+                    "sku": "142996400_BD-1067094417",
+                    "skuId": "1067094417",
+                    "count": 0
+                }
+            ],
+            "itemId": "142996400",
+            "skuId": "1067094417",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "The Angel Bear Tooth Brush Holder",
+            "nid": "173044925",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "173044925",
+                "scene_pre": "search",
+                "current_price": "104",
+                "x_sku_ids": "1109524821",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "173044925"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i173044925-s1109524821.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/ac60150a2c1379f6a1824527e88236cf.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "104",
+            "promotionId": "null",
+            "priceShow": "৳ 104",
+            "discount": "-70%",
+            "ratingScore": "4.59406",
+            "review": "101",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "173044925_BD-1109524821",
+            "sku": "173044925_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507944066",
+            "mainSellerId": "",
+            "sellerName": "Rasui Ghar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/ac60150a2c1379f6a1824527e88236cf.jpg",
+                    "productUrl": "/products/-i173044925-s1109524821.html",
+                    "sku": "173044925_BD",
+                    "skuId": "1109524821"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000393
+            ],
+            "clickTrace": "query:;nid:173044925;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:173044925_BD;price:104;client:desktop;supplier_id:700507944066;asc_category_id:10000393;item_id:173044925;sku_id:1109524821;shop_id:120118",
+            "addToCartSkus": [
+                {
+                    "sku": "173044925_BD-1109524821",
+                    "skuId": "1109524821",
+                    "count": 0
+                }
+            ],
+            "itemId": "173044925",
+            "skuId": "1109524821",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "1 Pc 3.5 Hat Traditional / Deshi Pure Cotton/ Suti Towel Gamsa / Gamcha towel_১ পিছ ৩.৫ হাত দেশি সুতি তোয়ালে গামছা",
+            "nid": "184129646",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184129646",
+                "scene_pre": "search",
+                "current_price": "55",
+                "x_sku_ids": "1128872506",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "184129646"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-pc-35-hat-traditional-deshi-pure-cotton-suti-towel-gamsa-gamcha-towel_-i184129646-s1128872506.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/ae44095622cb6d9de4e162019ed7d623.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "55",
+            "promotionId": "null",
+            "priceShow": "৳ 55",
+            "discount": "-54%",
+            "ratingScore": "4.65432",
+            "review": "81",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184129646_BD-1128872506",
+            "sku": "184129646_BD",
+            "skus": [],
+            "description": [
+                "Brand: Country SoulQuantity: 1 PcMaterial: 100% Pure Cotton.Size:  57x23 Inch (৩.৫)Type: Traditional.প্রোডাক্ট হাতে পাওয়ার পর যদি কোন ধরনের কমপ্লেেইন বা পরামর্শ থাকে তাহলে আপনি &zwj;আমাদের &zwj; স্টোরে মেসেজ দিয়ে অথবা প্রোডাক্ট এর সাথে লেবেলে যে নাম্বার আছে সেটাতে ফোন দিয়ে জানাতে পারেন । যত দ্রুত সম্ভব আপনার সমস্যা সমাধান করা হবে ।"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508478211",
+            "mainSellerId": "",
+            "sellerName": "Country Soul",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/ae44095622cb6d9de4e162019ed7d623.jpg",
+                    "productUrl": "/products/1-pc-35-hat-traditional-deshi-pure-cotton-suti-towel-gamsa-gamcha-towel_-i184129646-s1128872506.html",
+                    "sku": "184129646_BD",
+                    "skuId": "1128872506"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000390
+            ],
+            "clickTrace": "query:;nid:184129646;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:184129646_BD;price:55;client:desktop;supplier_id:700508478211;asc_category_id:10000390;item_id:184129646;sku_id:1128872506;shop_id:162257",
+            "addToCartSkus": [
+                {
+                    "sku": "184129646_BD-1128872506",
+                    "skuId": "1128872506",
+                    "count": 0
+                }
+            ],
+            "itemId": "184129646",
+            "skuId": "1128872506",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "The Angel Bear Tooth Brush Holder",
+            "nid": "205318635",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "205318635",
+                "scene_pre": "search",
+                "current_price": "107",
+                "x_sku_ids": "1153650435",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "205318635"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i205318635-s1153650435.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/89a0f1fb1b6fb19d05fa06be1138e8da.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "107",
+            "promotionId": "null",
+            "priceShow": "৳ 107",
+            "discount": "-57%",
+            "ratingScore": "4.40909",
+            "review": "44",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "205318635_BD-1153650435",
+            "sku": "205318635_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508799097",
+            "mainSellerId": "",
+            "sellerName": "Cp Trade",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/89a0f1fb1b6fb19d05fa06be1138e8da.jpg",
+                    "productUrl": "/products/-i205318635-s1153650435.html",
+                    "sku": "205318635_BD",
+                    "skuId": "1153650435"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000381
+            ],
+            "clickTrace": "query:;nid:205318635;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:205318635_BD;price:107;client:desktop;supplier_id:700508799097;asc_category_id:10000381;item_id:205318635;sku_id:1153650435;shop_id:187852",
+            "addToCartSkus": [
+                {
+                    "sku": "205318635_BD-1153650435",
+                    "skuId": "1153650435",
+                    "count": 0
+                }
+            ],
+            "itemId": "205318635",
+            "skuId": "1153650435",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Digital Weight Machine - Camry - EB9063 - Grey",
+            "nid": "131896896",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "131896896",
+                "scene_pre": "search",
+                "current_price": "1190",
+                "x_sku_ids": "1052476651",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "131896896"
+            },
+            "productUrl": "//www.daraz.com.bd/products/digital-weight-machine-camry-eb9063-grey-i131896896-s1052476651.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e0c88cb1123f065ec39722137b61a324.jpg",
+            "originalPrice": "1700.00",
+            "originalPriceShow": "৳ 1,700",
+            "price": "1190",
+            "promotionId": "null",
+            "priceShow": "৳ 1,190",
+            "discount": "-30%",
+            "ratingScore": "4.83851",
+            "review": "161",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "131896896_BD-1052476651",
+            "sku": "131896896_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505787048",
+            "mainSellerId": "",
+            "sellerName": "Regal Sports",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e0c88cb1123f065ec39722137b61a324.jpg",
+                    "productUrl": "/products/digital-weight-machine-camry-eb9063-grey-i131896896-s1052476651.html",
+                    "sku": "131896896_BD",
+                    "skuId": "1052476651"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000384
+            ],
+            "clickTrace": "query:;nid:131896896;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:131896896_BD;price:1190;client:desktop;supplier_id:700505787048;asc_category_id:10000384;item_id:131896896;sku_id:1052476651;shop_id:62903",
+            "addToCartSkus": [
+                {
+                    "sku": "131896896_BD-1052476651",
+                    "skuId": "1052476651",
+                    "count": 0
+                }
+            ],
+            "itemId": "131896896",
+            "skuId": "1052476651",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "1 Pc 3.5 Hat Traditional, Deshi Pure Cotton/ Suti Gamsa / Gamcha towel",
+            "nid": "184004658",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184004658",
+                "scene_pre": "search",
+                "current_price": "52",
+                "x_sku_ids": "1128671881",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "184004658"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-35-_-i184004658-s1128671881.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c725dc36b8661afa8affd240d7c3151b.jpg",
+            "originalPrice": "99.00",
+            "originalPriceShow": "৳ 99",
+            "price": "52",
+            "promotionId": "null",
+            "priceShow": "৳ 52",
+            "discount": "-47%",
+            "ratingScore": "4.37037",
+            "review": "216",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184004658_BD-1128671881",
+            "sku": "184004658_BD",
+            "skus": [],
+            "description": [
+                "Brand: Country SoulQuantity: 1 PcMaterial: 100% Pure Cotton.Size:  57x23 Inch Type: Traditional."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508478211",
+            "mainSellerId": "",
+            "sellerName": "Country Soul",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c725dc36b8661afa8affd240d7c3151b.jpg",
+                    "productUrl": "/products/1-35-_-i184004658-s1128671881.html",
+                    "sku": "184004658_BD",
+                    "skuId": "1128671881"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000390
+            ],
+            "clickTrace": "query:;nid:184004658;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:184004658_BD;price:52;client:desktop;supplier_id:700508478211;asc_category_id:10000390;item_id:184004658;sku_id:1128671881;shop_id:162257",
+            "addToCartSkus": [
+                {
+                    "sku": "184004658_BD-1128671881",
+                    "skuId": "1128671881",
+                    "count": 0
+                }
+            ],
+            "itemId": "184004658",
+            "skuId": "1128671881",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "The Angel Bear Tooth Brush Holder",
+            "nid": "202967285",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "202967285",
+                "scene_pre": "search",
+                "current_price": "107",
+                "x_sku_ids": "1150902317",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "202967285"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i202967285-s1150902317.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7a8fb427455f6d257f28081ac71c4d8e.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "107",
+            "promotionId": "null",
+            "priceShow": "৳ 107",
+            "discount": "-64%",
+            "ratingScore": "4.66667",
+            "review": "45",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "202967285_BD-1150902317",
+            "sku": "202967285_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508799846",
+            "mainSellerId": "",
+            "sellerName": "House Kitchen",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7a8fb427455f6d257f28081ac71c4d8e.jpg",
+                    "productUrl": "/products/-i202967285-s1150902317.html",
+                    "sku": "202967285_BD",
+                    "skuId": "1150902317"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000393
+            ],
+            "clickTrace": "query:;nid:202967285;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:202967285_BD;price:107;client:desktop;supplier_id:700508799846;asc_category_id:10000393;item_id:202967285;sku_id:1150902317;shop_id:190074",
+            "addToCartSkus": [
+                {
+                    "sku": "202967285_BD-1150902317",
+                    "skuId": "1150902317",
+                    "count": 0
+                }
+            ],
+            "itemId": "202967285",
+            "skuId": "1150902317",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Assorted 3.5 Hat Traditional Cotton Towel",
+            "nid": "184129663",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184129663",
+                "scene_pre": "search",
+                "current_price": "115",
+                "x_sku_ids": "1128882120",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "184129663"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-35-_-i184129663-s1128882120.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7dc817bc60b046086e00f93d1fd7d38c.jpg",
+            "originalPrice": "199.00",
+            "originalPriceShow": "৳ 199",
+            "price": "115",
+            "promotionId": "null",
+            "priceShow": "৳ 115",
+            "discount": "-42%",
+            "ratingScore": "4.52349",
+            "review": "149",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184129663_BD-1128882120",
+            "sku": "184129663_BD",
+            "skus": [],
+            "description": [
+                "Brand: Country SoulQuantity: 2 PcColor; Assorted (কালার ফিক্সড না  যেকোনো ২ পিছ দেয়া দেয়া হবে )Material: Cotton.Size:  57x23 Inch (৩.৫)Type: Traditional.প্রোডাক্ট হাতে পাওয়ার পর যদি কোন ধরনের কমপ্লেেইন বা পরামর্শ থাকে তাহলে আপনি &zwj;আমাদের &zwj; স্টোরে মেসেজ দিয়ে অথবা প্রোডাক্ট এর সাথে লেবেলে যে নাম্বার আছে সেটাতে ফোন দিয়ে জানাতে পারেন । আপনার পরামর্শ সর্বোচ্চ গুরুত্ব সহকারে নেয়া হবে এবং যত দ্রুত সম্ভব আপনার সমস্যা সমাধান করা হবে  । "
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508478211",
+            "mainSellerId": "",
+            "sellerName": "Country Soul",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7dc817bc60b046086e00f93d1fd7d38c.jpg",
+                    "productUrl": "/products/2-35-_-i184129663-s1128882120.html",
+                    "sku": "184129663_BD",
+                    "skuId": "1128882120"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000390
+            ],
+            "clickTrace": "query:;nid:184129663;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:184129663_BD;price:115;client:desktop;supplier_id:700508478211;asc_category_id:10000390;item_id:184129663;sku_id:1128882120;shop_id:162257",
+            "addToCartSkus": [
+                {
+                    "sku": "184129663_BD-1128882120",
+                    "skuId": "1128882120",
+                    "count": 0
+                }
+            ],
+            "itemId": "184129663",
+            "skuId": "1128882120",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Plastic Scale - 6 Inch",
+            "nid": "129406351",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "129406351",
+                "scene_pre": "search",
+                "current_price": "8",
+                "x_sku_ids": "1049192357",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "129406351"
+            },
+            "productUrl": "//www.daraz.com.bd/products/6-i129406351-s1049192357.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/cd58299305e71df1340c3bd8a92c0993.jpg",
+            "originalPrice": "10.00",
+            "originalPriceShow": "৳ 10",
+            "price": "8",
+            "promotionId": "null",
+            "priceShow": "৳ 8",
+            "discount": "-20%",
+            "ratingScore": "4.68",
+            "review": "100",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "129406351_BD-1049192357",
+            "sku": "129406351_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5283",
+            "mainSellerId": "",
+            "sellerName": "BOOK-BAZAR",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cd58299305e71df1340c3bd8a92c0993.jpg",
+                    "productUrl": "/products/6-i129406351-s1049192357.html",
+                    "sku": "129406351_BD",
+                    "skuId": "1049192357"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000384
+            ],
+            "clickTrace": "query:;nid:129406351;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:129406351_BD;price:8;client:desktop;supplier_id:5283;asc_category_id:10000384;item_id:129406351;sku_id:1049192357;shop_id:5291",
+            "addToCartSkus": [
+                {
+                    "sku": "129406351_BD-1049192357",
+                    "skuId": "1049192357",
+                    "count": 0
+                }
+            ],
+            "itemId": "129406351",
+            "skuId": "1049192357",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "BIG OFFER ,,L C D color DISPLAY,DIGITAL PERSONAL BATHROOM BODY WEIGHT SCALE,FULLY AUTOMATIC ,MAXIMUM USER CAPACITY 210KG",
+            "nid": "160440595",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "160440595",
+                "scene_pre": "search",
+                "current_price": "629",
+                "x_sku_ids": "1092198558",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "160440595"
+            },
+            "productUrl": "//www.daraz.com.bd/products/big-offer-l-c-d-color-displaydigital-personal-bathroom-body-weight-scalefully-automatic-maximum-user-capacity-180kg-i160440595-s1092198558.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6be83fdca2f912a2bed3d106c041646f.jpg",
+            "originalPrice": "1500.00",
+            "originalPriceShow": "৳ 1,500",
+            "price": "629",
+            "promotionId": "null",
+            "priceShow": "৳ 629",
+            "discount": "-58%",
+            "ratingScore": "4.25",
+            "review": "124",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "160440595_BD-1092198558",
+            "sku": "160440595_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5378",
+            "mainSellerId": "",
+            "sellerName": "Fitness & Sports",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6be83fdca2f912a2bed3d106c041646f.jpg",
+                    "productUrl": "/products/big-offer-l-c-d-color-displaydigital-personal-bathroom-body-weight-scalefully-automatic-maximum-user-capacity-180kg-i160440595-s1092198558.html",
+                    "sku": "160440595_BD",
+                    "skuId": "1092198558"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000384
+            ],
+            "clickTrace": "query:;nid:160440595;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:160440595_BD;price:629;client:desktop;supplier_id:5378;asc_category_id:10000384;item_id:160440595;sku_id:1092198558;shop_id:5383",
+            "addToCartSkus": [
+                {
+                    "sku": "160440595_BD-1092198558",
+                    "skuId": "1092198558",
+                    "count": 0
+                }
+            ],
+            "itemId": "160440595",
+            "skuId": "1092198558",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Toothpaste Dispenser Touch Me Toothpaste Dispenser With Toothbrush Holder Tooth Paste Dispenser Tooth Brush Holder Washing Gloves Bathroom Accessories Bath Room Corner Shelf Rack Earphone Home Decoration Home Decor Bangladesh BD",
+            "nid": "122312019",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "122312019",
+                "scene_pre": "search",
+                "current_price": "180.00",
+                "x_sku_ids": "1042208389",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "122312019"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i122312019-s1042208389.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/2ea533a30a731aec4c041d9c04c530b3.jpg",
+            "price": "180.00",
+            "promotionId": "null",
+            "priceShow": "৳ 180",
+            "ratingScore": "3.89806",
+            "review": "206",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "122312019_BD-1042208389",
+            "sku": "122312019_BD",
+            "skus": [],
+            "description": [
+                "Product Category: Bathroom Accessories AndBath room racks",
+                "Product Type: Toothpaste Dispenser + Toohtbrush Holder",
+                "Decorates your home bathroom.",
+                "Keeps your tooth brushes organized and clean. Protects you toothbrush from dust and insect contact. Gives you a healthy life.",
+                "Automates the toothpaste dispensing. No need to press toothpaste packets anymore. Now you can get toothpaste by simplypushing your totoh brush into the toothpaste dispenser.",
+                "Imported From China. &gt;&gt; NOT LOCAL PRODUCT &lt;&lt;",
+                "Product Tags: toothpaste dispenser, toothbrush holder, toothbrush organizer, bathroom accessories, bathroom fittings, bathroom racks, bathroom corner shelfs, washing gloves, water pipe, hose pipe, trimmer, home decor, home decoration, baby tooth brush, tooth brush holder, tooth paste dispenser, bath room accessories, bath room decoration, interior design, apartment, flat, flat for sale, bath towel, bath tub, bath curtain, shower curtain, bath tub curtain, chandelier, jharbati, tv stand, tv cabinet, furniture, living room, drawing room, tiles, marble tiles, flat for sale, flat for rent, dhanmondi, gulshan, banani, khulshi, nasirabad, chittagong, dhaka, sylhet, online shopping, online shopping in bangladesh, online shopping in bd, buy online, order online, daraz bd, daraz bangladesh, daraz oonline shopping,  price in bangladesh,  price in bd, salwar kamiz, salwar kameez, three piece, ear ring, rings set, ring, womens fashion, mens fashion, womens rings, womens watches, watch for men, watch for women, zymak,  gadgets sense,  shop bd, smartwatch, smart watch, earphone, , ear phone, headphone, head phone,watch, women dress , girls dress, girls , ladies, womens, bags, shoes, hand bag, hand bag, purse, party bag, wedding, married, children, child, student, bba, mba, school , college , university, womens fashion , women watch, women dress, womens dress, dress for women, indian dress, pakistani dress, washing gloves,  toothpaste dispenser price in bangladesh, toothbrush holder price in Bangladesh bd"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1010428",
+            "mainSellerId": "",
+            "sellerName": "Best Deals",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/2ea533a30a731aec4c041d9c04c530b3.jpg",
+                    "productUrl": "/products/-i122312019-s1042208389.html",
+                    "sku": "122312019_BD",
+                    "skuId": "1042208389"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000393
+            ],
+            "clickTrace": "query:;nid:122312019;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:122312019_BD;price:180.00;client:desktop;supplier_id:1010428;asc_category_id:10000393;item_id:122312019;sku_id:1042208389;shop_id:16714",
+            "addToCartSkus": [
+                {
+                    "sku": "122312019_BD-1042208389",
+                    "skuId": "1042208389",
+                    "count": 0
+                }
+            ],
+            "itemId": "122312019",
+            "skuId": "1042208389",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Digital weight scale Camry 973",
+            "nid": "172344185",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "172344185",
+                "scene_pre": "search",
+                "current_price": "982",
+                "x_sku_ids": "1108670925",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "172344185"
+            },
+            "productUrl": "//www.daraz.com.bd/products/digital-weight-scale-camry-973-i172344185-s1108670925.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e863e2c13a13a00b5604f410522fd0e7.jpg",
+            "originalPrice": "1500.00",
+            "originalPriceShow": "৳ 1,500",
+            "price": "982",
+            "promotionId": "null",
+            "priceShow": "৳ 982",
+            "discount": "-35%",
+            "ratingScore": "4.76087",
+            "review": "46",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "172344185_BD-1108670925",
+            "sku": "172344185_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505577008",
+            "mainSellerId": "",
+            "sellerName": "Best 1",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e863e2c13a13a00b5604f410522fd0e7.jpg",
+                    "productUrl": "/products/digital-weight-scale-camry-973-i172344185-s1108670925.html",
+                    "sku": "172344185_BD",
+                    "skuId": "1108670925"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000384
+            ],
+            "clickTrace": "query:;nid:172344185;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:172344185_BD;price:982;client:desktop;supplier_id:700505577008;asc_category_id:10000384;item_id:172344185;sku_id:1108670925;shop_id:60661",
+            "addToCartSkus": [
+                {
+                    "sku": "172344185_BD-1108670925",
+                    "skuId": "1108670925",
+                    "count": 0
+                }
+            ],
+            "itemId": "172344185",
+            "skuId": "1108670925",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "High Quality Osaka Digital Weight Machine",
+            "nid": "156368453",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "156368453",
+                "scene_pre": "search",
+                "current_price": "649",
+                "x_sku_ids": "1085886217",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "156368453"
+            },
+            "productUrl": "//www.daraz.com.bd/products/high-quality-osaka-digital-weight-machine-i156368453-s1085886217.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/f453069bd8b2bbf74035e33343d1d3f5.jpg",
+            "originalPrice": "1150.00",
+            "originalPriceShow": "৳ 1,150",
+            "price": "649",
+            "promotionId": "null",
+            "priceShow": "৳ 649",
+            "discount": "-44%",
+            "ratingScore": "4.4908",
+            "review": "163",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "156368453_BD-1085886217",
+            "sku": "156368453_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1854",
+            "mainSellerId": "",
+            "sellerName": "Sports-House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/f453069bd8b2bbf74035e33343d1d3f5.jpg",
+                    "productUrl": "/products/high-quality-osaka-digital-weight-machine-i156368453-s1085886217.html",
+                    "sku": "156368453_BD",
+                    "skuId": "1085886217"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000384
+            ],
+            "clickTrace": "query:;nid:156368453;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:156368453_BD;price:649;client:desktop;supplier_id:1854;asc_category_id:10000384;item_id:156368453;sku_id:1085886217;shop_id:2509",
+            "addToCartSkus": [
+                {
+                    "sku": "156368453_BD-1085886217",
+                    "skuId": "1085886217",
+                    "count": 0
+                }
+            ],
+            "itemId": "156368453",
+            "skuId": "1085886217",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Camry Digital Weight Machine/ Weight scale (AS PER GIVEN MODELS)",
+            "nid": "132558475",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132558475",
+                "scene_pre": "search",
+                "current_price": "707",
+                "x_sku_ids": "1116058724",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "132558475"
+            },
+            "productUrl": "//www.daraz.com.bd/products/camry-i132558475-s1116058724.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7122af17c8be617a2bb2db260a234c02.jpg",
+            "originalPrice": "1000.00",
+            "originalPriceShow": "৳ 1,000",
+            "price": "707",
+            "promotionId": "null",
+            "priceShow": "৳ 707",
+            "discount": "-29%",
+            "ratingScore": "4.58434",
+            "review": "166",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132558475_BD-1116058724",
+            "sku": "132558475_BD",
+            "skus": [],
+            "description": [
+                " Electronic Personal Scale",
+                "Tempered glass",
+                "Max Capacity Mentioned in pictures",
+                "Minimum 100g / 0.2 Ib",
+                "LCD Display",
+                "4 Sensors Technology",
+                "Auto On",
+                "Low Battery Indicator",
+                "Super Slim Glass"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505577008",
+            "mainSellerId": "",
+            "sellerName": "Best 1",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7122af17c8be617a2bb2db260a234c02.jpg",
+                    "productUrl": "/products/camry-i132558475-s1116058724.html",
+                    "sku": "132558475_BD",
+                    "skuId": "1116058724"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000384
+            ],
+            "clickTrace": "query:;nid:132558475;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:132558475_BD;price:707;client:desktop;supplier_id:700505577008;asc_category_id:10000384;item_id:132558475;sku_id:1116058724;shop_id:60661",
+            "addToCartSkus": [
+                {
+                    "sku": "132558475_BD-1116058724",
+                    "skuId": "1116058724",
+                    "count": 0
+                }
+            ],
+            "itemId": "132558475",
+            "skuId": "1116058724",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Girl's Hair Drying Hat Quick-dry Hair Towel Cap Hat Bath Hat Microfiber Solid Towel Cap Super Absorption Turban Hair Dry Cap",
+            "nid": "156434788",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "156434788",
+                "scene_pre": "search",
+                "current_price": "125",
+                "x_sku_ids": "1085990401",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "156434788"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i156434788-s1085990401.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/db83572827d2c8ecbfa5638cdbbfbf17.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "125",
+            "promotionId": "null",
+            "priceShow": "৳ 125",
+            "discount": "-58%",
+            "ratingScore": "4.37805",
+            "review": "164",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "156434788_BD-1085990401",
+            "sku": "156434788_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4638",
+            "mainSellerId": "",
+            "sellerName": "Baby Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/db83572827d2c8ecbfa5638cdbbfbf17.jpg",
+                    "productUrl": "/products/-i156434788-s1085990401.html",
+                    "sku": "156434788_BD",
+                    "skuId": "1085990401"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000390
+            ],
+            "clickTrace": "query:;nid:156434788;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:156434788_BD;price:125;client:desktop;supplier_id:4638;asc_category_id:10000390;item_id:156434788;sku_id:1085990401;shop_id:4689",
+            "addToCartSkus": [
+                {
+                    "sku": "156434788_BD-1085990401",
+                    "skuId": "1085990401",
+                    "count": 0
+                }
+            ],
+            "itemId": "156434788",
+            "skuId": "1085990401",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Camry Mechanical Bathroom Weight Scale",
+            "nid": "144858422",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "144858422",
+                "scene_pre": "search",
+                "current_price": "572",
+                "x_sku_ids": "1069778933",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "144858422"
+            },
+            "productUrl": "//www.daraz.com.bd/products/camry-i144858422-s1069778933.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b8be43728b8d167313b11f1f001c23ba.jpg",
+            "originalPrice": "850.00",
+            "originalPriceShow": "৳ 850",
+            "price": "572",
+            "promotionId": "null",
+            "priceShow": "৳ 572",
+            "discount": "-33%",
+            "ratingScore": "4.625",
+            "review": "32",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "144858422_BD-1069778933",
+            "sku": "144858422_BD",
+            "skus": [],
+            "description": [
+                "Weighing Machine BR2015 Analog Bathroom Scales.",
+                "Capacity 130 kg. Resolution 1 kg. (1000 g.).",
+                "Panel shows the Kg. (Kg.).",
+                "Dimensions of the scale: 243 x 268 x 42 mm.",
+                "Net weight 1.2 kg.",
+                "Do not use trading Scale"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4861",
+            "mainSellerId": "",
+            "sellerName": "Proyojon",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b8be43728b8d167313b11f1f001c23ba.jpg",
+                    "productUrl": "/products/camry-i144858422-s1069778933.html",
+                    "sku": "144858422_BD",
+                    "skuId": "1069778933"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000384
+            ],
+            "clickTrace": "query:;nid:144858422;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:144858422_BD;price:572;client:desktop;supplier_id:4861;asc_category_id:10000384;item_id:144858422;sku_id:1069778933;shop_id:4888",
+            "addToCartSkus": [
+                {
+                    "sku": "144858422_BD-1069778933",
+                    "skuId": "1069778933",
+                    "count": 0
+                }
+            ],
+            "itemId": "144858422",
+            "skuId": "1069778933",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Waterproof Toilet Seat Padded Toilet Bowl Bathroom Toilet Seat Cover Mat  16''x12'' Mat Set for Closestool Mat Seat Case Toilet Lid Cover Accessories (Colour As per Stock)",
+            "nid": "209111580",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209111580",
+                "scene_pre": "search",
+                "current_price": "290",
+                "x_sku_ids": "1159349394",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "209111580"
+            },
+            "productUrl": "//www.daraz.com.bd/products/16-x-12-i209111580-s1159349394.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ec244445781a45592d9ffad2541781dd.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "290",
+            "promotionId": "null",
+            "priceShow": "৳ 290",
+            "discount": "-42%",
+            "ratingScore": "4.83333",
+            "review": "36",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209111580_BD-1159349394",
+            "sku": "209111580_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508766181",
+            "mainSellerId": "",
+            "sellerName": "Jahanara E-Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ec244445781a45592d9ffad2541781dd.jpg",
+                    "productUrl": "/products/16-x-12-i209111580-s1159349394.html",
+                    "sku": "209111580_BD",
+                    "skuId": "1159349394"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000387
+            ],
+            "clickTrace": "query:;nid:209111580;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:209111580_BD;price:290;client:desktop;supplier_id:700508766181;asc_category_id:10000387;item_id:209111580;sku_id:1159349394;shop_id:181313",
+            "addToCartSkus": [
+                {
+                    "sku": "209111580_BD-1159349394",
+                    "skuId": "1159349394",
+                    "count": 0
+                }
+            ],
+            "itemId": "209111580",
+            "skuId": "1159349394",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Shower Bathrobe",
+            "nid": "162756236",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "162756236",
+                "scene_pre": "search",
+                "current_price": "944",
+                "x_sku_ids": "1094944830",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "162756236"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i162756236-s1094944830.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b038f80fe58336c6cc693fb4b561b1c6.jpg",
+            "originalPrice": "1680.00",
+            "originalPriceShow": "৳ 1,680",
+            "price": "944",
+            "promotionId": "null",
+            "priceShow": "৳ 944",
+            "discount": "-44%",
+            "ratingScore": "4.57143",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "162756236_BD-1094944830",
+            "sku": "162756236_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506459077",
+            "mainSellerId": "",
+            "sellerName": "SugarQueen_Limited",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b038f80fe58336c6cc693fb4b561b1c6.jpg",
+                    "productUrl": "/products/-i162756236-s1094944830.html",
+                    "sku": "162756236_BD",
+                    "skuId": "1094944830"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/44627879add24bac664d5355d89c0d72.jpg",
+                    "productUrl": "/products/-i162756236-s1181798532.html",
+                    "sku": "162756236_BD",
+                    "skuId": "1181798532"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8bc7df1400c2d076bbe07ab2d0ce10db.jpg",
+                    "productUrl": "/products/-i162756236-s1181798533.html",
+                    "sku": "162756236_BD",
+                    "skuId": "1181798533"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/877f3f920e24c6ae9c5e7c3608e0b029.jpg",
+                    "productUrl": "/products/-i162756236-s1166282784.html",
+                    "sku": "162756236_BD",
+                    "skuId": "1166282784"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1ffaf819ae373ed783c935361d35027f.jpg",
+                    "productUrl": "/products/-i162756236-s1181798534.html",
+                    "sku": "162756236_BD",
+                    "skuId": "1181798534"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/28398cbec6777e77751b095c9d2039b9.jpg",
+                    "productUrl": "/products/-i162756236-s1181798536.html",
+                    "sku": "162756236_BD",
+                    "skuId": "1181798536"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/913ebcd7de05754fcc3aac3a04254201.jpg",
+                    "productUrl": "/products/-i162756236-s1181798535.html",
+                    "sku": "162756236_BD",
+                    "skuId": "1181798535"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fa01835835371db198d04fb1cd719938.jpg",
+                    "productUrl": "/products/-i162756236-s1181798529.html",
+                    "sku": "162756236_BD",
+                    "skuId": "1181798529"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6baca62fae4af0b9d8fedbec1f1e251b.jpg",
+                    "productUrl": "/products/-i162756236-s1181798530.html",
+                    "sku": "162756236_BD",
+                    "skuId": "1181798530"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1832062b43d5b944bd3158447e988af1.jpg",
+                    "productUrl": "/products/-i162756236-s1181798531.html",
+                    "sku": "162756236_BD",
+                    "skuId": "1181798531"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000392
+            ],
+            "clickTrace": "query:;nid:162756236;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:162756236_BD;price:944;client:desktop;supplier_id:700506459077;asc_category_id:10000392;item_id:162756236;sku_id:1094944830;shop_id:80506",
+            "addToCartSkus": [
+                {
+                    "sku": "162756236_BD-1094944830",
+                    "skuId": "1094944830",
+                    "count": 0
+                }
+            ],
+            "itemId": "162756236",
+            "skuId": "1094944830",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Osaka Digital Weight Machine - Capacity 180KG",
+            "nid": "230139765",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230139765",
+                "scene_pre": "search",
+                "current_price": "649",
+                "x_sku_ids": "1173481663",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "230139765"
+            },
+            "productUrl": "//www.daraz.com.bd/products/osaka-digital-weight-machine-capacity-180kg-i230139765-s1173481663.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3ebd22b3ce607276e6f35f16a36bcafa.png",
+            "originalPrice": "1599.00",
+            "originalPriceShow": "৳ 1,599",
+            "price": "649",
+            "promotionId": "null",
+            "priceShow": "৳ 649",
+            "discount": "-59%",
+            "ratingScore": "4.85714",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230139765_BD-1173481663",
+            "sku": "230139765_BD",
+            "skus": [],
+            "description": [
+                "Digital Weight Machine",
+                "Capacity: 180Kg",
+                "Battery: CMOS Lithium",
+                "High-quality product",
+                "Calculate accurate weight",
+                "Low power consumption",
+                "Easy to keep clean"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510188180",
+            "mainSellerId": "",
+            "sellerName": "Heng Yuan International Trading Limited",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3ebd22b3ce607276e6f35f16a36bcafa.png",
+                    "productUrl": "/products/osaka-digital-weight-machine-capacity-180kg-i230139765-s1173481663.html",
+                    "sku": "230139765_BD",
+                    "skuId": "1173481663"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000384
+            ],
+            "clickTrace": "query:;nid:230139765;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:230139765_BD;price:649;client:desktop;supplier_id:700510188180;asc_category_id:10000384;item_id:230139765;sku_id:1173481663;shop_id:231474",
+            "addToCartSkus": [
+                {
+                    "sku": "230139765_BD-1173481663",
+                    "skuId": "1173481663",
+                    "count": 0
+                }
+            ],
+            "itemId": "230139765",
+            "skuId": "1173481663",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Girl's Hair Drying Towel Cap",
+            "nid": "158974025",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "158974025",
+                "scene_pre": "search",
+                "current_price": "125.00",
+                "x_sku_ids": "1090472373",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "158974025"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i158974025-s1090472373.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d66b7fb1a832876370ba5e310d8d4409.jpg",
+            "originalPrice": "290.00",
+            "originalPriceShow": "৳ 290",
+            "price": "125.00",
+            "promotionId": "null",
+            "priceShow": "৳ 125",
+            "discount": "-57%",
+            "ratingScore": "4.43836",
+            "review": "73",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "158974025_BD-1090472373",
+            "sku": "158974025_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507731121",
+            "mainSellerId": "",
+            "sellerName": "Twenty Twenty",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d66b7fb1a832876370ba5e310d8d4409.jpg",
+                    "productUrl": "/products/-i158974025-s1090472373.html",
+                    "sku": "158974025_BD",
+                    "skuId": "1090472373"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000390
+            ],
+            "clickTrace": "query:;nid:158974025;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:158974025_BD;price:125.00;client:desktop;supplier_id:700507731121;asc_category_id:10000390;item_id:158974025;sku_id:1090472373;shop_id:108265",
+            "addToCartSkus": [
+                {
+                    "sku": "158974025_BD-1090472373",
+                    "skuId": "1090472373",
+                    "count": 0
+                }
+            ],
+            "itemId": "158974025",
+            "skuId": "1090472373",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Toilet Tissue Holder (plastic)",
+            "nid": "198282280",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "198282280",
+                "scene_pre": "search",
+                "current_price": "73",
+                "x_sku_ids": "1145117255",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "198282280"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i198282280-s1145117255.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/74160a2198e4375655219710c46e6467.png",
+            "originalPrice": "90.00",
+            "originalPriceShow": "৳ 90",
+            "price": "73",
+            "promotionId": "null",
+            "priceShow": "৳ 73",
+            "discount": "-19%",
+            "ratingScore": "4.71053",
+            "review": "38",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "198282280_BD-1145117255",
+            "sku": "198282280_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508481185",
+            "mainSellerId": "",
+            "sellerName": "Asif Crocarise",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/74160a2198e4375655219710c46e6467.png",
+                    "productUrl": "/products/-i198282280-s1145117255.html",
+                    "sku": "198282280_BD",
+                    "skuId": "1145117255"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000385
+            ],
+            "clickTrace": "query:;nid:198282280;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:198282280_BD;price:73;client:desktop;supplier_id:700508481185;asc_category_id:10000385;item_id:198282280;sku_id:1145117255;shop_id:162192",
+            "addToCartSkus": [
+                {
+                    "sku": "198282280_BD-1145117255",
+                    "skuId": "1145117255",
+                    "count": 0
+                }
+            ],
+            "itemId": "198282280",
+            "skuId": "1145117255",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Npoly Soap Case - Sky Blue",
+            "nid": "769780",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "879114",
+                "scene_pre": "search",
+                "current_price": "26.00",
+                "x_sku_ids": "3628080",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "879114"
+            },
+            "productUrl": "//www.daraz.com.bd/products/npoly-i879114-s3628080.html?search=1",
+            "image": "https://static-01.daraz.com.bd/original/782c87865d44b860c290ebd52e32c079.jpg",
+            "originalPrice": "35.00",
+            "originalPriceShow": "৳ 35",
+            "price": "26.00",
+            "promotionId": "null",
+            "priceShow": "৳ 26",
+            "discount": "-26%",
+            "ratingScore": "4.86667",
+            "review": "30",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "NP745EL058JKSNAFAMZ-1096750",
+            "sku": "NP745EL058JKSNAFAMZ",
+            "skus": [],
+            "description": [
+                "Material- Plastic",
+                "Superior Quality",
+                "Elegant and fancy design",
+                "Easy to use and clean  "
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5342",
+            "mainSellerId": "",
+            "sellerName": "National Fittings and Accessories LTD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/original/782c87865d44b860c290ebd52e32c079.jpg",
+                    "productUrl": "/products/npoly-i879114-s3628080.html",
+                    "sku": "NP745EL058JKSNAFAMZ",
+                    "skuId": "3628080"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000393
+            ],
+            "clickTrace": "query:;nid:769780;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:NP745EL058JKSNAFAMZ;price:26.00;client:desktop;supplier_id:5342;asc_category_id:10000393;item_id:879114;sku_id:3628080;shop_id:5349",
+            "addToCartSkus": [
+                {
+                    "sku": "NP745EL058JKSNAFAMZ-1096750",
+                    "skuId": "3628080",
+                    "count": 0
+                }
+            ],
+            "itemId": "879114",
+            "skuId": "3628080",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Toilet Seat Cover Lifter Sanitary Seat Cover Lift Handle",
+            "nid": "171006693",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171006693",
+                "scene_pre": "search",
+                "current_price": "91",
+                "x_sku_ids": "1106640670",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "171006693"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i171006693-s1106640670.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/077fec2480b4a8d95a99fafbea48e1b3.jpg",
+            "originalPrice": "290.00",
+            "originalPriceShow": "৳ 290",
+            "price": "91",
+            "promotionId": "null",
+            "priceShow": "৳ 91",
+            "discount": "-69%",
+            "ratingScore": "4.90909",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171006693_BD-1106640670",
+            "sku": "171006693_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507518096",
+            "mainSellerId": "",
+            "sellerName": "Nilima Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/077fec2480b4a8d95a99fafbea48e1b3.jpg",
+                    "productUrl": "/products/-i171006693-s1106640670.html",
+                    "sku": "171006693_BD",
+                    "skuId": "1106640670"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000387
+            ],
+            "clickTrace": "query:;nid:171006693;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:171006693_BD;price:91;client:desktop;supplier_id:700507518096;asc_category_id:10000387;item_id:171006693;sku_id:1106640670;shop_id:92976",
+            "addToCartSkus": [
+                {
+                    "sku": "171006693_BD-1106640670",
+                    "skuId": "1106640670",
+                    "count": 0
+                }
+            ],
+            "itemId": "171006693",
+            "skuId": "1106640670",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "1 Pc 4 Hat Traditional / Deshi Pure Cotton / Suti Gamsa / Gamcha towel",
+            "nid": "184007374",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184007374",
+                "scene_pre": "search",
+                "current_price": "108",
+                "x_sku_ids": "1128686251",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "184007374"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-4-_-i184007374-s1128686251.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b45ec03e5ef28f373e5663cedc680854.jpg",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "108",
+            "promotionId": "null",
+            "priceShow": "৳ 108",
+            "discount": "-40%",
+            "ratingScore": "4.60396",
+            "review": "101",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184007374_BD-1128686251",
+            "sku": "184007374_BD",
+            "skus": [],
+            "description": [
+                "Brand: Country SoulQuantity: 1 PcMaterial: 100% Pure Cotton.Size:  70x30 Inch (4 Hat)Type: Traditional."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508478211",
+            "mainSellerId": "",
+            "sellerName": "Country Soul",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b45ec03e5ef28f373e5663cedc680854.jpg",
+                    "productUrl": "/products/1-4-_-i184007374-s1128686251.html",
+                    "sku": "184007374_BD",
+                    "skuId": "1128686251"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000390
+            ],
+            "clickTrace": "query:;nid:184007374;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:184007374_BD;price:108;client:desktop;supplier_id:700508478211;asc_category_id:10000390;item_id:184007374;sku_id:1128686251;shop_id:162257",
+            "addToCartSkus": [
+                {
+                    "sku": "184007374_BD-1128686251",
+                    "skuId": "1128686251",
+                    "count": 0
+                }
+            ],
+            "itemId": "184007374",
+            "skuId": "1128686251",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "10 Pcs Wall Hanger Clothes Hook Waterproof Sticky Hook",
+            "nid": "150700345",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "150700345",
+                "scene_pre": "search",
+                "current_price": "60.00",
+                "x_sku_ids": "1077388820",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "150700345"
+            },
+            "productUrl": "//www.daraz.com.bd/products/10-i150700345-s1077388820.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/371bda088871657836af1df173baffa8.jpg",
+            "originalPrice": "490.00",
+            "originalPriceShow": "৳ 490",
+            "price": "60.00",
+            "promotionId": "null",
+            "priceShow": "৳ 60",
+            "discount": "-88%",
+            "ratingScore": "4.33962",
+            "review": "53",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "150700345_BD-1077388820",
+            "sku": "150700345_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507296048",
+            "mainSellerId": "",
+            "sellerName": "Dx",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/371bda088871657836af1df173baffa8.jpg",
+                    "productUrl": "/products/10-i150700345-s1077388820.html",
+                    "sku": "150700345_BD",
+                    "skuId": "1077388820"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000389
+            ],
+            "clickTrace": "query:;nid:150700345;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:150700345_BD;price:60.00;client:desktop;supplier_id:700507296048;asc_category_id:10000389;item_id:150700345;sku_id:1077388820;shop_id:94356",
+            "addToCartSkus": [
+                {
+                    "sku": "150700345_BD-1077388820",
+                    "skuId": "1077388820",
+                    "count": 0
+                }
+            ],
+            "itemId": "150700345",
+            "skuId": "1077388820",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Npoly Soap Case - Light Pink",
+            "nid": "769808",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "879125",
+                "scene_pre": "search",
+                "current_price": "27.00",
+                "x_sku_ids": "3628102",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "879125"
+            },
+            "productUrl": "//www.daraz.com.bd/products/npoly-i879125-s3628102.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/02b6f7817df7d64677aaed5ae5da70c3.jpg",
+            "originalPrice": "35.00",
+            "originalPriceShow": "৳ 35",
+            "price": "27.00",
+            "promotionId": "null",
+            "priceShow": "৳ 27",
+            "discount": "-23%",
+            "ratingScore": "4.8",
+            "review": "40",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "NP745EL1C5WAKNAFAMZ-1096778",
+            "sku": "NP745EL1C5WAKNAFAMZ",
+            "skus": [],
+            "description": [
+                "Material- Plastic",
+                "Superior Quality",
+                "Elegant and fancy design",
+                "Easy to use and clean  "
+            ],
+            "brandId": "185876",
+            "brandName": "Npoly",
+            "sellerId": "5342",
+            "mainSellerId": "",
+            "sellerName": "National Fittings and Accessories LTD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/02b6f7817df7d64677aaed5ae5da70c3.jpg",
+                    "productUrl": "/products/npoly-i879125-s3628102.html",
+                    "sku": "NP745EL1C5WAKNAFAMZ",
+                    "skuId": "3628102"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000393
+            ],
+            "clickTrace": "query:;nid:769808;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:NP745EL1C5WAKNAFAMZ;price:27.00;client:desktop;supplier_id:5342;asc_category_id:10000393;item_id:879125;sku_id:3628102;shop_id:5349",
+            "addToCartSkus": [
+                {
+                    "sku": "NP745EL1C5WAKNAFAMZ-1096778",
+                    "skuId": "3628102",
+                    "count": 0
+                }
+            ],
+            "itemId": "879125",
+            "skuId": "3628102",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Toilet Tissue Paper Holder",
+            "nid": "216907097",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "216907097",
+                "scene_pre": "search",
+                "current_price": "149.00",
+                "x_sku_ids": "1165069987",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "216907097"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i216907097-s1165069987.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/623b0161bd8f8fc9bb113e5b32e24935.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "149.00",
+            "promotionId": "null",
+            "priceShow": "৳ 149",
+            "discount": "-26%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "216907097_BD-1165069987",
+            "sku": "216907097_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504959163",
+            "mainSellerId": "",
+            "sellerName": "Twin",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/623b0161bd8f8fc9bb113e5b32e24935.jpg",
+                    "productUrl": "/products/-i216907097-s1165069987.html",
+                    "sku": "216907097_BD",
+                    "skuId": "1165069987"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000385
+            ],
+            "clickTrace": "query:;nid:216907097;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:216907097_BD;price:149.00;client:desktop;supplier_id:700504959163;asc_category_id:10000385;item_id:216907097;sku_id:1165069987;shop_id:53090",
+            "addToCartSkus": [
+                {
+                    "sku": "216907097_BD-1165069987",
+                    "skuId": "1165069987",
+                    "count": 0
+                }
+            ],
+            "itemId": "216907097",
+            "skuId": "1165069987",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Toilet Tissue Holder",
+            "nid": "185908560",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "185908560",
+                "scene_pre": "search",
+                "current_price": "73",
+                "x_sku_ids": "1131862828",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "185908560"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i185908560-s1131862828.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/a5028a9a948ec8cd88adcdc83c83555d.jpg",
+            "originalPrice": "90.00",
+            "originalPriceShow": "৳ 90",
+            "price": "73",
+            "promotionId": "null",
+            "priceShow": "৳ 73",
+            "discount": "-19%",
+            "ratingScore": "4.75641",
+            "review": "78",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "185908560_BD-1131862828",
+            "sku": "185908560_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508481185",
+            "mainSellerId": "",
+            "sellerName": "Asif Crocarise",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/a5028a9a948ec8cd88adcdc83c83555d.jpg",
+                    "productUrl": "/products/-i185908560-s1131862828.html",
+                    "sku": "185908560_BD",
+                    "skuId": "1131862828"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000385
+            ],
+            "clickTrace": "query:;nid:185908560;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:185908560_BD;price:73;client:desktop;supplier_id:700508481185;asc_category_id:10000385;item_id:185908560;sku_id:1131862828;shop_id:162192",
+            "addToCartSkus": [
+                {
+                    "sku": "185908560_BD-1131862828",
+                    "skuId": "1131862828",
+                    "count": 0
+                }
+            ],
+            "itemId": "185908560",
+            "skuId": "1131862828",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "10pcs Wall Hook Magic Paste Hooks for hanging wall stick hooks",
+            "nid": "150690006",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "150690006",
+                "scene_pre": "search",
+                "current_price": "60.00",
+                "x_sku_ids": "1077380102",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "150690006"
+            },
+            "productUrl": "//www.daraz.com.bd/products/10-i150690006-s1077380102.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/c072e0d6f1e8d318428c01b783307356.jpg",
+            "originalPrice": "222.00",
+            "originalPriceShow": "৳ 222",
+            "price": "60.00",
+            "promotionId": "null",
+            "priceShow": "৳ 60",
+            "discount": "-73%",
+            "ratingScore": "4.58537",
+            "review": "41",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "150690006_BD-1077380102",
+            "sku": "150690006_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507296048",
+            "mainSellerId": "",
+            "sellerName": "Dx",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/c072e0d6f1e8d318428c01b783307356.jpg",
+                    "productUrl": "/products/10-i150690006-s1077380102.html",
+                    "sku": "150690006_BD",
+                    "skuId": "1077380102"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000389
+            ],
+            "clickTrace": "query:;nid:150690006;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:150690006_BD;price:60.00;client:desktop;supplier_id:700507296048;asc_category_id:10000389;item_id:150690006;sku_id:1077380102;shop_id:94356",
+            "addToCartSkus": [
+                {
+                    "sku": "150690006_BD-1077380102",
+                    "skuId": "1077380102",
+                    "count": 0
+                }
+            ],
+            "itemId": "150690006",
+            "skuId": "1077380102",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Toothbrush Box Holder Cup Bathroom Holder",
+            "nid": "231441969",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "231441969",
+                "scene_pre": "search",
+                "current_price": "221.00",
+                "x_sku_ids": "1174595273",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "231441969"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i231441969-s1174595273.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/44e0e3b4aef80eca9386956b0d07d819.jpg",
+            "originalPrice": "430.00",
+            "originalPriceShow": "৳ 430",
+            "price": "221.00",
+            "promotionId": "null",
+            "priceShow": "৳ 221",
+            "discount": "-49%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "231441969_BD-1174595273",
+            "sku": "231441969_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507515005",
+            "mainSellerId": "",
+            "sellerName": "ROOT Electric",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/44e0e3b4aef80eca9386956b0d07d819.jpg",
+                    "productUrl": "/products/-i231441969-s1174595273.html",
+                    "sku": "231441969_BD",
+                    "skuId": "1174595273"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000394
+            ],
+            "clickTrace": "query:;nid:231441969;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:231441969_BD;price:221.00;client:desktop;supplier_id:700507515005;asc_category_id:10000394;item_id:231441969;sku_id:1174595273;shop_id:91727",
+            "addToCartSkus": [
+                {
+                    "sku": "231441969_BD-1174595273",
+                    "skuId": "1174595273",
+                    "count": 0
+                }
+            ],
+            "itemId": "231441969",
+            "skuId": "1174595273",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Basin Hand Towel Medium Size Soft Towel Gamcha Bathroom Besin Tawel 30×12 Inch  TW-002",
+            "nid": "134594151",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "134594151",
+                "scene_pre": "search",
+                "current_price": "97",
+                "x_sku_ids": "1137359361",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "134594151"
+            },
+            "productUrl": "//www.daraz.com.bd/products/basin-hand-towel-i134594151-s1137359361.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/48581ee3fc9e5660b0c1999ce51c90fb.jpg",
+            "originalPrice": "145.00",
+            "originalPriceShow": "৳ 145",
+            "price": "97",
+            "promotionId": "null",
+            "priceShow": "৳ 97",
+            "discount": "-33%",
+            "ratingScore": "4.3",
+            "review": "40",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "134594151_BD-1137359361",
+            "sku": "134594151_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506840072",
+            "mainSellerId": "",
+            "sellerName": "Al Amanat Superstore",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/48581ee3fc9e5660b0c1999ce51c90fb.jpg",
+                    "productUrl": "/products/basin-hand-towel-i134594151-s1137359361.html",
+                    "sku": "134594151_BD",
+                    "skuId": "1137359361"
+                },
+                {
+                    "image": "https://bd-live-21.slatic.net/kf/Sf30dfe2ba87641bc87fac9a3f1c65c21q.jpg",
+                    "productUrl": "/products/basin-hand-towel-i134594151-s1056440109.html",
+                    "sku": "134594151_BD",
+                    "skuId": "1056440109"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/ebc50558727857a1491498b2ecf5e8b5.jpg",
+                    "productUrl": "/products/basin-hand-towel-i134594151-s1137359363.html",
+                    "sku": "134594151_BD",
+                    "skuId": "1137359363"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/8b4e31dcc85bb07084344fee15f30d90.jpg",
+                    "productUrl": "/products/basin-hand-towel-i134594151-s1137359364.html",
+                    "sku": "134594151_BD",
+                    "skuId": "1137359364"
+                },
+                {
+                    "image": "https://bd-live-21.slatic.net/kf/S72ea5f9e5fb84de39e05c97984a8cdb48.jpg",
+                    "productUrl": "/products/basin-hand-towel-i134594151-s1137359362.html",
+                    "sku": "134594151_BD",
+                    "skuId": "1137359362"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000390
+            ],
+            "clickTrace": "query:;nid:134594151;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:134594151_BD;price:97;client:desktop;supplier_id:700506840072;asc_category_id:10000390;item_id:134594151;sku_id:1137359361;shop_id:85453",
+            "addToCartSkus": [
+                {
+                    "sku": "134594151_BD-1137359361",
+                    "skuId": "1137359361",
+                    "count": 0
+                }
+            ],
+            "itemId": "134594151",
+            "skuId": "1137359361",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Plastic Soap Case for Bathroom - Multicolor",
+            "nid": "127279760",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "127279760",
+                "scene_pre": "search",
+                "current_price": "35.00",
+                "x_sku_ids": "1047282352",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "127279760"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i127279760-s1047282352.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/f5cc272d445de75f319bc01f01633f8c.jpg",
+            "price": "35.00",
+            "promotionId": "null",
+            "priceShow": "৳ 35",
+            "ratingScore": "4.82143",
+            "review": "28",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "127279760_BD-1047282352",
+            "sku": "127279760_BD",
+            "skus": [],
+            "description": [
+                "Made from the highest quality Virgin Plastic",
+                "Very easy to use and keep.",
+                "Waterproof Soap Case Box, Essential Product to have at all times.",
+                "Easy to clean, convenient to use.",
+                "A modern simple soap dish that can be used on a counter.",
+                "Dimensions : 12 x 8.5 x 4.5 cm"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1043289",
+            "mainSellerId": "",
+            "sellerName": "Gadget Garden",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/f5cc272d445de75f319bc01f01633f8c.jpg",
+                    "productUrl": "/products/-i127279760-s1047282352.html",
+                    "sku": "127279760_BD",
+                    "skuId": "1047282352"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000393
+            ],
+            "clickTrace": "query:;nid:127279760;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:127279760_BD;price:35.00;client:desktop;supplier_id:1043289;asc_category_id:10000393;item_id:127279760;sku_id:1047282352;shop_id:48966",
+            "addToCartSkus": [
+                {
+                    "sku": "127279760_BD-1047282352",
+                    "skuId": "1047282352",
+                    "count": 0
+                }
+            ],
+            "itemId": "127279760",
+            "skuId": "1047282352",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Gorilla Grip Original Non-slip Bath Mats - Bathroom Floor Mats with Suction Cups",
+            "nid": "102696121",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "102696121",
+                "scene_pre": "search",
+                "current_price": "563",
+                "x_sku_ids": "1017000254",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "102696121"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i102696121-s1017000254.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/cdd1431fc2c07a3cc3d074269b3516ca.jpg",
+            "originalPrice": "590.00",
+            "originalPriceShow": "৳ 590",
+            "price": "563",
+            "promotionId": "null",
+            "priceShow": "৳ 563",
+            "discount": "-5%",
+            "ratingScore": "4.71154",
+            "review": "52",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "102696121_BD-1017000254",
+            "sku": "102696121_BD",
+            "skus": [],
+            "description": [
+                "Material: Chenille + Soft rubber non-slip bottom",
+                "Can be used as floor mats, bathroom mats, and doormat",
+                "Used as a foot massager",
+                "No more slip in the Bathroom design",
+                "HUNDREDS OF SUCTION CUPS",
+                "MACHINE WASHABLE",
+                "Size: Length - 27.5 in, Width - 14 in"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1007540",
+            "mainSellerId": "",
+            "sellerName": "IIMONO",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cdd1431fc2c07a3cc3d074269b3516ca.jpg",
+                    "productUrl": "/products/-i102696121-s1017000254.html",
+                    "sku": "102696121_BD",
+                    "skuId": "1017000254"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000391
+            ],
+            "clickTrace": "query:;nid:102696121;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:102696121_BD;price:563;client:desktop;supplier_id:1007540;asc_category_id:10000391;item_id:102696121;sku_id:1017000254;shop_id:13748",
+            "addToCartSkus": [
+                {
+                    "sku": "102696121_BD-1017000254",
+                    "skuId": "1017000254",
+                    "count": 0
+                }
+            ],
+            "itemId": "102696121",
+            "skuId": "1017000254",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jewelry Pocket Weight Scale - Multi-Color",
+            "nid": "907305",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "2524852",
+                "scene_pre": "search",
+                "current_price": "350.00",
+                "x_sku_ids": "120454166",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "2524852"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i2524852-s120454166.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/e255758e07c708fd820272405722a3d3.jpg",
+            "price": "350.00",
+            "promotionId": "null",
+            "priceShow": "৳ 350",
+            "ratingScore": "4.26316",
+            "review": "19",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "BD608AC0TZMFONAFAMZ-1286360",
+            "sku": "BD608AC0TZMFONAFAMZ",
+            "skus": [],
+            "description": [
+                "Capacity: 0.01 - 7.06 oz",
+                "Small size and highly portable",
+                "Automatically calibrates to save time",
+                "The unit powers down after 60 seconds without being used"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "3645",
+            "mainSellerId": "",
+            "sellerName": "bdgadget24",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/e255758e07c708fd820272405722a3d3.jpg",
+                    "productUrl": "/products/-i2524852-s120454166.html",
+                    "sku": "BD608AC0TZMFONAFAMZ",
+                    "skuId": "120454166"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000384
+            ],
+            "clickTrace": "query:;nid:907305;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:BD608AC0TZMFONAFAMZ;price:350.00;client:desktop;supplier_id:3645;asc_category_id:10000384;item_id:2524852;sku_id:120454166;shop_id:3844",
+            "addToCartSkus": [
+                {
+                    "sku": "BD608AC0TZMFONAFAMZ-1286360",
+                    "skuId": "120454166",
+                    "count": 0
+                }
+            ],
+            "itemId": "2524852",
+            "skuId": "120454166",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dry Hair Cap Microfiber Quick Towel Magic Hair Towel Wrap for Women Absorbent Towel",
+            "nid": "180476292",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "180476292",
+                "scene_pre": "search",
+                "current_price": "90.00",
+                "x_sku_ids": "1173626367",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "180476292"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i180476292-s1173626367.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5fe5b804150ddca74861f6e86934b972.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "90.00",
+            "promotionId": "null",
+            "priceShow": "৳ 90",
+            "discount": "-70%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "180476292_BD-1173626367",
+            "sku": "180476292_BD",
+            "skus": [],
+            "description": [
+                "SIZE:60 x 25cm(23.6&quot;x 9.8&quot;)",
+                "MATERIAL: Made of extra soft microfiber,which can hold more water and dries your hair faster.",
+                "ADVANTAGES: Less friction caused by bath towels, less blow drying, protect your hair from substantial heat damage from blower dryers when hair is wet. Your hair&rsquo;s texture will be smoother and shinier."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508178124",
+            "mainSellerId": "",
+            "sellerName": "SAJER KHEYA",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5fe5b804150ddca74861f6e86934b972.jpg",
+                    "productUrl": "/products/-i180476292-s1173626367.html",
+                    "sku": "180476292_BD",
+                    "skuId": "1173626367"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e64574aa70fd594b21e608fb6eee8058.jpg",
+                    "productUrl": "/products/-i180476292-s1121732195.html",
+                    "sku": "180476292_BD",
+                    "skuId": "1121732195"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/be0f3dc5582e709eaf26621dd68e6de0.jpg",
+                    "productUrl": "/products/-i180476292-s1170753166.html",
+                    "sku": "180476292_BD",
+                    "skuId": "1170753166"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e01449bbf2e4ef773332b82072ae7ec1.jpg",
+                    "productUrl": "/products/-i180476292-s1121732194.html",
+                    "sku": "180476292_BD",
+                    "skuId": "1121732194"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3d45db341cc8fcff9b0e3a32b2dd078e.jpg",
+                    "productUrl": "/products/-i180476292-s1171862138.html",
+                    "sku": "180476292_BD",
+                    "skuId": "1171862138"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000390
+            ],
+            "clickTrace": "query:;nid:180476292;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:180476292_BD;price:90.00;client:desktop;supplier_id:700508178124;asc_category_id:10000390;item_id:180476292;sku_id:1173626367;shop_id:131791",
+            "addToCartSkus": [
+                {
+                    "sku": "180476292_BD-1173626367",
+                    "skuId": "1173626367",
+                    "count": 0
+                }
+            ],
+            "itemId": "180476292",
+            "skuId": "1173626367",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Lift Handle Lid Foldable Bowl Toilet Bathroom Seat Cover Lifter Avoid Touching",
+            "nid": "227282414",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227282414",
+                "scene_pre": "search",
+                "current_price": "76.00",
+                "x_sku_ids": "1171456567",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "227282414"
+            },
+            "productUrl": "//www.daraz.com.bd/products/lift-handle-lid-foldable-bowl-toilet-bathroom-seat-cover-lifter-avoid-touching-i227282414-s1171456567.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4f18486131fa61bb1924d9ea13009038.jpg",
+            "originalPrice": "187.00",
+            "originalPriceShow": "৳ 187",
+            "price": "76.00",
+            "promotionId": "null",
+            "priceShow": "৳ 76",
+            "discount": "-59%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227282414_BD-1171456567",
+            "sku": "227282414_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Seat Cover Lift Handle Bathroom Accessories",
+                "Color: Multicolour",
+                "Size: 25cm",
+                "Simple installation and easy to use;",
+                "Silicone material, abrasion resistance, ",
+                "aging resistance, high temperature resistance;",
+                "Soft to the Press, simple operation, not to hurt the skin;",
+                "Adjustable buckle design, can be cut freely, ",
+                "do not cut too short"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1019704",
+            "mainSellerId": "",
+            "sellerName": "Global Mart BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4f18486131fa61bb1924d9ea13009038.jpg",
+                    "productUrl": "/products/lift-handle-lid-foldable-bowl-toilet-bathroom-seat-cover-lifter-avoid-touching-i227282414-s1171456567.html",
+                    "sku": "227282414_BD",
+                    "skuId": "1171456567"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000387
+            ],
+            "clickTrace": "query:;nid:227282414;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:227282414_BD;price:76.00;client:desktop;supplier_id:1019704;asc_category_id:10000387;item_id:227282414;sku_id:1171456567;shop_id:25600",
+            "addToCartSkus": [
+                {
+                    "sku": "227282414_BD-1171456567",
+                    "skuId": "1171456567",
+                    "count": 0
+                }
+            ],
+            "itemId": "227282414",
+            "skuId": "1171456567",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "R.fl Crystal Soap Case",
+            "nid": "232296257",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "232296257",
+                "scene_pre": "search",
+                "current_price": "57.00",
+                "x_sku_ids": "1175191419",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "232296257"
+            },
+            "productUrl": "//www.daraz.com.bd/products/rfl-i232296257-s1175191419.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9485c57c4abb278d5607366442379563.jpg",
+            "originalPrice": "60.00",
+            "originalPriceShow": "৳ 60",
+            "price": "57.00",
+            "promotionId": "null",
+            "priceShow": "৳ 57",
+            "discount": "-5%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "232296257_BD-1175191419",
+            "sku": "232296257_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510062071",
+            "mainSellerId": "",
+            "sellerName": "Momin Crockeries",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9485c57c4abb278d5607366442379563.jpg",
+                    "productUrl": "/products/rfl-i232296257-s1175191419.html",
+                    "sku": "232296257_BD",
+                    "skuId": "1175191419"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000381
+            ],
+            "clickTrace": "query:;nid:232296257;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:232296257_BD;price:57.00;client:desktop;supplier_id:700510062071;asc_category_id:10000381;item_id:232296257;sku_id:1175191419;shop_id:225428",
+            "addToCartSkus": [
+                {
+                    "sku": "232296257_BD-1175191419",
+                    "skuId": "1175191419",
+                    "count": 0
+                }
+            ],
+            "itemId": "232296257",
+            "skuId": "1175191419",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "ROYAL GERMANY DIGITAL BATHROOM WEIGHT SCALE (C-180 KG)",
+            "nid": "190486665",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "190486665",
+                "scene_pre": "search",
+                "current_price": "650",
+                "x_sku_ids": "1137799278",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "190486665"
+            },
+            "productUrl": "//www.daraz.com.bd/products/c-180-kg-i190486665-s1137799278.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6fccc83fb1ca6bdb9c93e9d744e08522.jpg",
+            "originalPrice": "1290.00",
+            "originalPriceShow": "৳ 1,290",
+            "price": "650",
+            "promotionId": "null",
+            "priceShow": "৳ 650",
+            "discount": "-50%",
+            "ratingScore": "4.33333",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "190486665_BD-1137799278",
+            "sku": "190486665_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508262662",
+            "mainSellerId": "",
+            "sellerName": "Aziz Surgical",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6fccc83fb1ca6bdb9c93e9d744e08522.jpg",
+                    "productUrl": "/products/c-180-kg-i190486665-s1137799278.html",
+                    "sku": "190486665_BD",
+                    "skuId": "1137799278"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000384
+            ],
+            "clickTrace": "query:;nid:190486665;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:190486665_BD;price:650;client:desktop;supplier_id:700508262662;asc_category_id:10000384;item_id:190486665;sku_id:1137799278;shop_id:140209",
+            "addToCartSkus": [
+                {
+                    "sku": "190486665_BD-1137799278",
+                    "skuId": "1137799278",
+                    "count": 0
+                }
+            ],
+            "itemId": "190486665",
+            "skuId": "1137799278",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Kustia Kumarkhali Towel (4.5 Feet X 2 Feet) কুষ্টিয়া কুমারখালির ঐতিহ্যবাহী টায়েল  (লম্বা ৩ হাত, চওড়া ২ ফিট)",
+            "nid": "133228938",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "133228938",
+                "scene_pre": "search",
+                "current_price": "149",
+                "x_sku_ids": "1054810990",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "133228938"
+            },
+            "productUrl": "//www.daraz.com.bd/products/kustia-kumarkhali-towel-45-feet-x-2-feet-i133228938-s1054810990.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/0d4a15a7ec90efa9eed97ac0c85e26f1.jpg",
+            "originalPrice": "190.00",
+            "originalPriceShow": "৳ 190",
+            "price": "149",
+            "promotionId": "null",
+            "priceShow": "৳ 149",
+            "discount": "-22%",
+            "ratingScore": "4.68531",
+            "review": "143",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "133228938_BD-1054810990",
+            "sku": "133228938_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506234067",
+            "mainSellerId": "",
+            "sellerName": "Al Amanat Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/0d4a15a7ec90efa9eed97ac0c85e26f1.jpg",
+                    "productUrl": "/products/kustia-kumarkhali-towel-45-feet-x-2-feet-i133228938-s1054810990.html",
+                    "sku": "133228938_BD",
+                    "skuId": "1054810990"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000390
+            ],
+            "clickTrace": "query:;nid:133228938;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:133228938_BD;price:149;client:desktop;supplier_id:700506234067;asc_category_id:10000390;item_id:133228938;sku_id:1054810990;shop_id:70875",
+            "addToCartSkus": [
+                {
+                    "sku": "133228938_BD-1054810990",
+                    "skuId": "1054810990",
+                    "count": 0
+                }
+            ],
+            "itemId": "133228938",
+            "skuId": "1054810990",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "1PCS Portable Toothbrush & Toothpaste Holder Storage Box (Random)",
+            "nid": "158486213",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "158486213",
+                "scene_pre": "search",
+                "current_price": "99.00",
+                "x_sku_ids": "1089884412",
+                "SN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "x_ad": "1",
+                "x_object_id": "158486213"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i158486213-s1089884412.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/6f976cd330f96e23daeeac7f0e57fc52.jpg",
+            "originalPrice": "270.00",
+            "originalPriceShow": "৳ 270",
+            "price": "99.00",
+            "promotionId": "null",
+            "priceShow": "৳ 99",
+            "discount": "-63%",
+            "ratingScore": "4.23529",
+            "review": "34",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "158486213_BD-1089884412",
+            "sku": "158486213_BD",
+            "skus": [],
+            "description": [
+                "Type: Toothbrush holder case",
+                "Portable Toothpaste Toothbrush Holder, Caring handle design, non-slip strip, good sealing, convenient for travelling.",
+                "Germproof Storage Box",
+                "Material: Plastic",
+                "Product Dimensions: 6cm x 6cm x 19cm",
+                "Color: Pink,Sky Blue"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "2119",
+            "mainSellerId": "",
+            "sellerName": "Star Appliances",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/6f976cd330f96e23daeeac7f0e57fc52.jpg",
+                    "productUrl": "/products/1-i158486213-s1089884412.html",
+                    "sku": "158486213_BD",
+                    "skuId": "1089884412"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/c1aac3b93bf8ea7a8d7f9d211e2a70bf.jpg",
+                    "productUrl": "/products/1-i158486213-s1089884413.html",
+                    "sku": "158486213_BD",
+                    "skuId": "1089884413"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000335,
+                10000341,
+                10000381
+            ],
+            "clickTrace": "query:;nid:158486213;src:LazadaMainSrp;rn:71c46e94dd3bd9329d8ffca7cfc1d67f;region:bd;sku:158486213_BD;price:99.00;client:desktop;supplier_id:2119;asc_category_id:10000381;item_id:158486213;sku_id:1089884412;shop_id:2679",
+            "addToCartSkus": [
+                {
+                    "sku": "158486213_BD-1089884412",
+                    "skuId": "1089884412",
+                    "count": 0
+                }
+            ],
+            "itemId": "158486213",
+            "skuId": "1089884412",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/bedding-bath/",
+            "title": "Bedding & Bath"
+        },
+        {
+            "url": "/bath/",
+            "title": "Bath"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/bath/?referer_rn=71c46e94dd3bd9329d8ffca7cfc1d67f&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Cp%3E%3Cstrong%3ECheck%20More%3A%26nbsp%3B%3C%2Fstrong%3E%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ftag%2Fwash-basins%2F%22%3EBasin%20Price%20in%20Bangladesh%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ftag%2Fbrb-cables%2F%22%3EBRB%20Cables%20Pricelist%3C%2Fa%3E%3C%2Fp%3E"
+    },
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/bath-towels/?item_id=183235639&from=onesearch_category_10000341",
+                "name": "Bath Towels",
+                "image": "//static-01.daraz.com.bd/p/mdc/2b257be01f5b89454a6c6be1724c665f.png",
+                "id": "10000390"
+            },
+            {
+                "url": "/bathroom-storage-organisation/?item_id=205318635&from=onesearch_category_10000341",
+                "name": "Bathroom Counter Storage",
+                "image": "//static-01.daraz.com.bd/p/89a0f1fb1b6fb19d05fa06be1138e8da.jpg",
+                "id": "10000381"
+            },
+            {
+                "url": "/shop-storage-bathroom-shelves/?item_id=218660117&from=onesearch_category_10000341",
+                "name": "Bathroom Shelving",
+                "image": "//static-01.daraz.com.bd/p/39dbf8bbeff02356ca6d4b2882ef9129.jpg",
+                "id": "10000394"
+            },
+            {
+                "url": "/shop-storage-linen-towers-cabinets/?item_id=122312019&from=onesearch_category_10000341",
+                "name": "Linen Towers & Cabinets",
+                "image": "//static-01.daraz.com.bd/p/mdc/2ea533a30a731aec4c041d9c04c530b3.jpg",
+                "id": "10000393"
+            },
+            {
+                "url": "/bathroom-scales/?item_id=124071374&from=onesearch_category_10000341",
+                "name": "Bathroom Scales",
+                "image": "//static-01.daraz.com.bd/p/011f1c3bff35813e0dbca3dac19a3686.jpg",
+                "id": "10000384"
+            },
+            {
+                "url": "/shower-holders-hangers/?item_id=190482641&from=onesearch_category_10000341",
+                "name": "Shower Caddies & Hangers",
+                "image": "//static-01.daraz.com.bd/p/mdc/4ba60191caf9a523ab66b99a7d78c16e.jpg",
+                "id": "10000389"
+            },
+            {
+                "url": "/bathroom-tissue-boxes/?item_id=185908560&from=onesearch_category_10000341",
+                "name": "Toilet Roll Holders",
+                "image": "//static-01.daraz.com.bd/p/mdc/a5028a9a948ec8cd88adcdc83c83555d.jpg",
+                "id": "10000385"
+            },
+            {
+                "url": "/bath-mats-rugs/?item_id=142996400&from=onesearch_category_10000341",
+                "name": "Bath Mats",
+                "image": "//static-01.daraz.com.bd/p/mdc/98e1e19d1d1baa8997bf0ab7b58ac343.jpg",
+                "id": "10000391"
+            },
+            {
+                "url": "/shower-curtains/?item_id=215688003&from=onesearch_category_10000341",
+                "name": "Shower Curtains",
+                "image": "//static-01.daraz.com.bd/p/1f8f262a3af2c22a2cda3c698e8bf789.jpg",
+                "id": "10000388"
+            },
+            {
+                "url": "/toilet-covers/?item_id=209111580&from=onesearch_category_10000341",
+                "name": "Toilet Covers",
+                "image": "//static-01.daraz.com.bd/p/ec244445781a45592d9ffad2541781dd.jpg",
+                "id": "10000387"
+            },
+            {
+                "url": "/bathroom-toilet-brushes/?item_id=217140334&from=onesearch_category_10000341",
+                "name": "Toilet Brushes",
+                "image": "//static-01.daraz.com.bd/p/24c31e6181eac2584ea8b3ae25f7f683.jpg",
+                "id": "10000383"
+            },
+            {
+                "url": "/bathrobes/?item_id=167208981&from=onesearch_category_10000341",
+                "name": "Bathrobes",
+                "image": "//static-01.daraz.com.bd/p/75ebc3cb177b0b07058b025edc05653f.jpg",
+                "id": "10000392"
+            },
+            {
+                "url": "/bathroom-towel-racks-warmers/?item_id=213834064&from=onesearch_category_10000341",
+                "name": "Towel Rails & Warmers",
+                "image": "//static-01.daraz.com.bd/p/54eacdbd51ab2034298545d002a158fa.jpg",
+                "id": "10000386"
+            },
+            {
+                "url": "/bathroom-mirror/?item_id=214954389&from=onesearch_category_10000341",
+                "name": "Bathroom Mirrors",
+                "image": "//static-01.daraz.com.bd/p/3b38c7368923f938c06656e4ed75d4e1.jpg",
+                "id": "10000382"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_10000341"
+        },
+        "title": "",
+        "bizId": "onesearch_category_10000341",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "106525 items found in {$0}",
+        "title": "Bath",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Bath"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Bath",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "10000341",
+            "category": "10000341"
+        },
+        "categoryRegionalKey": "220100000000",
+        "mainCategoryRegionalKey": "220000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Bath Products Online in Bangladesh | Daraz.com.bd",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Bedding & Bath,Bath",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "220100000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=10000341&_p_asc_cateid=10000341",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "bath",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "71c46e94dd3bd9329d8ffca7cfc1d67f",
+                "resultNr": 106525,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1067094417",
+                "1109524821",
+                "1128872506"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "10000341",
+            "category": "10000341"
+        }
+    }
+}

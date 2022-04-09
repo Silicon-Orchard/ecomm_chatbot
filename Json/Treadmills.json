@@ -1,0 +1,3754 @@
+{
+    "listItems": [
+        {
+            "name": "Motorized Treadmill 2.0HP with Free Massager",
+            "nid": "128634650",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "128634650",
+                "scene_pre": "search",
+                "current_price": "28702",
+                "x_sku_ids": "1048470967",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "128634650"
+            },
+            "productUrl": "//www.daraz.com.bd/products/motorized-treadmill-20hp-with-free-massager-i128634650-s1048470967.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2c0936824b5b0ccb72d9710b7d229def.jpg",
+            "price": "28702",
+            "promotionId": "null",
+            "priceShow": "৳ 28,702",
+            "ratingScore": "4.84091",
+            "review": "44",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "128634650_BD-1048470967",
+            "sku": "128634650_BD",
+            "skus": [],
+            "description": [
+                "Installation Fee and Service Charge 1000 Taka for Inside Dhaka Only",
+                "Motor peak power: 2.0HP",
+                "Model:PL-40AAM",
+                "Brand:Bactive",
+                "Speed range: 0.8-14KM/H",
+                "LCD Screen Display blue screen: Time,speed,distance",
+                "Program : P1-P12 With MP3,USB,Handle Key",
+                "Allowable Weight: 120Kg"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1854",
+            "mainSellerId": "",
+            "sellerName": "Sports-House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2c0936824b5b0ccb72d9710b7d229def.jpg",
+                    "productUrl": "/products/motorized-treadmill-20hp-with-free-massager-i128634650-s1048470967.html",
+                    "sku": "128634650_BD",
+                    "skuId": "1048470967"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:128634650;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:128634650_BD;price:28702;client:desktop;supplier_id:1854;asc_category_id:1992;item_id:128634650;sku_id:1048470967;shop_id:2509",
+            "addToCartSkus": [
+                {
+                    "sku": "128634650_BD-1048470967",
+                    "skuId": "1048470967",
+                    "count": 0
+                }
+            ],
+            "itemId": "128634650",
+            "skuId": "1048470967",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Housefit T20 Smart Motorized Treadmill 2.HP(Installation Free)",
+            "nid": "168866691",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168866691",
+                "scene_pre": "search",
+                "current_price": "32960",
+                "x_sku_ids": "1103092889",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "168866691"
+            },
+            "productUrl": "//www.daraz.com.bd/products/oma-1011eb-motorize-trademill-i168866691-s1103092889.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/33937a1c9ba96c4d7804073821652983.jpg",
+            "price": "32960",
+            "promotionId": "null",
+            "priceShow": "৳ 32,960",
+            "ratingScore": "4.92593",
+            "review": "27",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168866691_BD-1103092889",
+            "sku": "168866691_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "60553",
+            "brandName": "House",
+            "sellerId": "700507659115",
+            "mainSellerId": "",
+            "sellerName": "JJ FITNESS & SPORTS",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/33937a1c9ba96c4d7804073821652983.jpg",
+                    "productUrl": "/products/oma-1011eb-motorize-trademill-i168866691-s1103092889.html",
+                    "sku": "168866691_BD",
+                    "skuId": "1103092889"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:168866691;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:168866691_BD;price:32960;client:desktop;supplier_id:700507659115;asc_category_id:1992;item_id:168866691;sku_id:1103092889;shop_id:102919",
+            "addToCartSkus": [
+                {
+                    "sku": "168866691_BD-1103092889",
+                    "skuId": "1103092889",
+                    "count": 0
+                }
+            ],
+            "itemId": "168866691",
+            "skuId": "1103092889",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Foldable Motorized Treadmill KL 901S -Black",
+            "nid": "144058338",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "144058338",
+                "scene_pre": "search",
+                "current_price": "43806",
+                "x_sku_ids": "1068566642",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "144058338"
+            },
+            "productUrl": "//www.daraz.com.bd/products/foldable-motorized-treadmill-kl-901s-black-i144058338-s1068566642.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b3969d0792b3e0e7257200c3c3b058d5.jpg",
+            "price": "43806",
+            "promotionId": "null",
+            "priceShow": "৳ 43,806",
+            "ratingScore": "4.73016",
+            "review": "63",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "144058338_BD-1068566642",
+            "sku": "144058338_BD",
+            "skus": [],
+            "description": [
+                "Foldable Motorized Treadmill KL 901S-BLACK",
+                "Brand: DAILY YOUTH",
+                "COLOR:BLACK PAINT",
+                "Product Origin: CHINA",
+                "Model No.KL 901S",
+                "MOTORDC:2.0 CHP",
+                "Incline range: 0-15% AUTOMATIC",
+                "Max user Weight:120KG",
+                "Gross weight:66KG",
+                "Net Weight:56KG",
+                "Warranty3 YEARS WARRANTY",
+                "Speed Range:1-14km/h",
+                "Incline Range: 0-15%",
+                "Running Surface:122*42cm",
+                "Max. Load:120kg",
+                "Product Dimensions:163*73*128cm",
+                "N.W:56kg G.W:66kg",
+                "Packing:172*78*35cm",
+                "DC Motor: DC 2.0HP",
+                "Speed Range: 1.0-14 km/h",
+                "Incline Range: 0-15% Motorized",
+                "Humanity safe protection device",
+                "Trendy and stylish appearance, giving the product",
+                "a look of both power in overall and delicacy in details",
+                "High sensitive hand pulse, speed control and incline control in handrail",
+                "LCD display with blue background; Preset 15 intelligent running programs",
+                "Bracket for IPAD on console",
+                "High-power Hi-Fi system and MP3 audio input",
+                "Applicable for wider voltage range by using",
+                "transformerless electronic control technology",
+                "Low speed starting at 0.5 km/h",
+                "Brand new and comfortable double-layer running",
+                "deck with multilayer shock absorption device",
+                "Hydraulic folding with lock device",
+                "Keep Daraz Invoice For Service warranty Claim",
+                "Installation Fee: 1000 BDT (Inside Dhaka Only)"
+            ],
+            "brandId": "155829",
+            "brandName": "Daily Youth",
+            "sellerId": "1854",
+            "mainSellerId": "",
+            "sellerName": "Sports-House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b3969d0792b3e0e7257200c3c3b058d5.jpg",
+                    "productUrl": "/products/foldable-motorized-treadmill-kl-901s-black-i144058338-s1068566642.html",
+                    "sku": "144058338_BD",
+                    "skuId": "1068566642"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:144058338;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:144058338_BD;price:43806;client:desktop;supplier_id:1854;asc_category_id:1992;item_id:144058338;sku_id:1068566642;shop_id:2509",
+            "addToCartSkus": [
+                {
+                    "sku": "144058338_BD-1068566642",
+                    "skuId": "1068566642",
+                    "count": 0
+                }
+            ],
+            "itemId": "144058338",
+            "skuId": "1068566642",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "DK-40AA Treadmill Electric Body Massager",
+            "nid": "107428383",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "107428383",
+                "scene_pre": "search",
+                "current_price": "26019",
+                "x_sku_ids": "1022584575",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "107428383"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dk-40aa-treadmill-with-electric-body-massager-i107428383-s1022584575.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/28afaed0673b8ae8dafc4767b44f1a77.jpg",
+            "price": "26019",
+            "promotionId": "null",
+            "priceShow": "৳ 26,019",
+            "ratingScore": "4.57143",
+            "review": "35",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "107428383_BD-1022584575",
+            "sku": "107428383_BD",
+            "skus": [],
+            "description": [
+                "Installation Fee and Service Charge 1000 Taka for Inside Dhaka Only",
+                "With Electric Body Massager",
+                "Model:DK-40AAP1",
+                "Motor peak power: 1.75HP",
+                "Speed range: 0.8-10KM/H",
+                "LCD Screen Display blue screen: Time,speed,distance",
+                "Program : P1-P12 With MP3,USB,Handle Key",
+                "Allowable Weight: 100Kg",
+                "Keep Daraz Invoice For Service warranty Claim"
+            ],
+            "brandId": "107416",
+            "brandName": "YIJIAN",
+            "sellerId": "1854",
+            "mainSellerId": "",
+            "sellerName": "Sports-House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/28afaed0673b8ae8dafc4767b44f1a77.jpg",
+                    "productUrl": "/products/dk-40aa-treadmill-with-electric-body-massager-i107428383-s1022584575.html",
+                    "sku": "107428383_BD",
+                    "skuId": "1022584575"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:107428383;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:107428383_BD;price:26019;client:desktop;supplier_id:1854;asc_category_id:1992;item_id:107428383;sku_id:1022584575;shop_id:2509",
+            "addToCartSkus": [
+                {
+                    "sku": "107428383_BD-1022584575",
+                    "skuId": "1022584575",
+                    "count": 0
+                }
+            ],
+            "itemId": "107428383",
+            "skuId": "1022584575",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "4 In 1 Manual Treadmill with Stepper",
+            "nid": "133412046",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "133412046",
+                "scene_pre": "search",
+                "current_price": "16340",
+                "x_sku_ids": "1055102241",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "133412046"
+            },
+            "productUrl": "//www.daraz.com.bd/products/4-in-1-manual-treadmill-with-stepper-i133412046-s1055102241.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f46574a72726e16ba17306ad050f0875.jpg",
+            "price": "16340",
+            "promotionId": "null",
+            "priceShow": "৳ 16,340",
+            "ratingScore": "4.3",
+            "review": "30",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "133412046_BD-1055102241",
+            "sku": "133412046_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "154760",
+            "brandName": "Sports House",
+            "sellerId": "1854",
+            "mainSellerId": "",
+            "sellerName": "Sports-House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f46574a72726e16ba17306ad050f0875.jpg",
+                    "productUrl": "/products/4-in-1-manual-treadmill-with-stepper-i133412046-s1055102241.html",
+                    "sku": "133412046_BD",
+                    "skuId": "1055102241"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:133412046;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:133412046_BD;price:16340;client:desktop;supplier_id:1854;asc_category_id:1992;item_id:133412046;sku_id:1055102241;shop_id:2509",
+            "addToCartSkus": [
+                {
+                    "sku": "133412046_BD-1055102241",
+                    "skuId": "1055102241",
+                    "count": 0
+                }
+            ],
+            "itemId": "133412046",
+            "skuId": "1055102241",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Motorized Treadmill KPOWER 2.5HP",
+            "nid": "127870080",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "127870080",
+                "scene_pre": "search",
+                "current_price": "47000",
+                "x_sku_ids": "1047794924",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "127870080"
+            },
+            "productUrl": "//www.daraz.com.bd/products/motorized-treadmill-kpower-25hp-i127870080-s1047794924.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bf2c89c51b9cf24f082c4b1e31f053b1.jpg",
+            "price": "47000",
+            "promotionId": "null",
+            "priceShow": "৳ 47,000",
+            "ratingScore": "4.73333",
+            "review": "15",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "127870080_BD-1047794924",
+            "sku": "127870080_BD",
+            "skus": [],
+            "description": [
+                "Place of Origin:Taiwan (Mainland)",
+                "Made In CHINA",
+                "Brand Name:KPOWER",
+                "Model Number:K842E",
+                "MAX.120KG",
+                "Motor Power :DC Con.2.5HP Peak A 3.0HP",
+                "Speed:1.0-16 km/h",
+                "Incline:16% automatic Build up",
+                "Type:Treadmill",
+                "Product Name:Gym running machine body care foldable treadmill",
+                "Class:Home useRunning belt:1360x450 mm",
+                "N.W.:72kgsG.W.:76kgs",
+                "Fold up size:1371x862x1550 mm",
+                "Carton Size:2240x985x435 mm"
+            ],
+            "brandId": "156215",
+            "brandName": "Kpower",
+            "sellerId": "1854",
+            "mainSellerId": "",
+            "sellerName": "Sports-House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bf2c89c51b9cf24f082c4b1e31f053b1.jpg",
+                    "productUrl": "/products/motorized-treadmill-kpower-25hp-i127870080-s1047794924.html",
+                    "sku": "127870080_BD",
+                    "skuId": "1047794924"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:127870080;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:127870080_BD;price:47000;client:desktop;supplier_id:1854;asc_category_id:1992;item_id:127870080;sku_id:1047794924;shop_id:2509",
+            "addToCartSkus": [
+                {
+                    "sku": "127870080_BD-1047794924",
+                    "skuId": "1047794924",
+                    "count": 0
+                }
+            ],
+            "itemId": "127870080",
+            "skuId": "1047794924",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Oma 5100 - Motorized Treadmill - 1.5 HP - Black",
+            "nid": "121054575",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "121054575",
+                "scene_pre": "search",
+                "current_price": "28999",
+                "x_sku_ids": "1040622894",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "121054575"
+            },
+            "productUrl": "//www.daraz.com.bd/products/oma-5100-15-hp-i121054575-s1040622894.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/16cf3a129012d54cff21db7dec986173.jpg",
+            "price": "28999",
+            "promotionId": "null",
+            "priceShow": "৳ 28,999",
+            "ratingScore": "4.51613",
+            "review": "31",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "121054575_BD-1040622894",
+            "sku": "121054575_BD",
+            "skus": [],
+            "description": [
+                "Model Number- Oma-5100CB",
+                "Brand Name- Oma",
+                "Use- Light Used",
+                "Monitor- LED Display",
+                "Functions- Speed,Distance,",
+                "Time, Calorie, Pulse-Heart Rate",
+                "Motor- DC 2 HP Peak, 1.5 HP Continues",
+                "Speed Range- 1-12km/h",
+                "Machine Weight- 53 Kg",
+                "Maximum User Weight- 100 Kg",
+                "Running Area- 1230X415mm",
+                "Shock Absorbing- Hi impact absorption points Cushion each step,",
+                "Energy returns design ensures that a high level of comfort and longevity.",
+                "Installation Available(Inside Dhaka 1000 BDT)"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "366",
+            "mainSellerId": "",
+            "sellerName": "Sports 360",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/16cf3a129012d54cff21db7dec986173.jpg",
+                    "productUrl": "/products/oma-5100-15-hp-i121054575-s1040622894.html",
+                    "sku": "121054575_BD",
+                    "skuId": "1040622894"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:121054575;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:121054575_BD;price:28999;client:desktop;supplier_id:366;asc_category_id:1992;item_id:121054575;sku_id:1040622894;shop_id:1536",
+            "addToCartSkus": [
+                {
+                    "sku": "121054575_BD-1040622894",
+                    "skuId": "1040622894",
+                    "count": 0
+                }
+            ],
+            "itemId": "121054575",
+            "skuId": "1040622894",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "5 ওয়ে ম্যানুয়াল ট্রেডমিল-কালো",
+            "nid": "203706945",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "203706945",
+                "scene_pre": "search",
+                "current_price": "11049",
+                "x_sku_ids": "1151754944",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "203706945"
+            },
+            "productUrl": "//www.daraz.com.bd/products/5-i203706945-s1151754944.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2b47878ca5159f98e475064c65a1a5b6.jpg",
+            "price": "11049",
+            "promotionId": "null",
+            "priceShow": "৳ 11,049",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "203706945_BD-1151754944",
+            "sku": "203706945_BD",
+            "skus": [],
+            "description": [
+                "For more details about this product, please dial 09610002345 to get assistance from our expert agents.",
+                "Installation Fee and Service Charge 1000 Taka for Inside Dhaka Only",
+                "Voucher shall be applicable only when it is higher than the discount value",
+                "Twister, Sit-up, Running, Push Up, Hand Exercise",
+                "150 kg maximum user weight",
+                "Manual Treadmill for Home Use",
+                "Easy to Use",
+                "Foldable and Movable",
+                "Digital Features: Time, Speed, Distance, Calorie, Pulse.",
+                "Installation Charge BDT 500\" Payable by the Customer to the Seller"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507200030",
+            "mainSellerId": "",
+            "sellerName": "Sports Valley",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2b47878ca5159f98e475064c65a1a5b6.jpg",
+                    "productUrl": "/products/5-i203706945-s1151754944.html",
+                    "sku": "203706945_BD",
+                    "skuId": "1151754944"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:203706945;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:203706945_BD;price:11049;client:desktop;supplier_id:700507200030;asc_category_id:1992;item_id:203706945;sku_id:1151754944;shop_id:95118",
+            "addToCartSkus": [
+                {
+                    "sku": "203706945_BD-1151754944",
+                    "skuId": "1151754944",
+                    "count": 0
+                }
+            ],
+            "itemId": "203706945",
+            "skuId": "1151754944",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Manual Treadmill 6 Way Operation",
+            "nid": "133140591",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "133140591",
+                "scene_pre": "search",
+                "current_price": "16590",
+                "x_sku_ids": "1054644949",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "133140591"
+            },
+            "productUrl": "//www.daraz.com.bd/products/high-quality-6-way-manual-treadmill-i133140591-s1054644949.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/af55b538e435a76bc669b8314ee34701.jpg",
+            "price": "16590",
+            "promotionId": "null",
+            "priceShow": "৳ 16,590",
+            "ratingScore": "3.83333",
+            "review": "18",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "133140591_BD-1054644949",
+            "sku": "133140591_BD",
+            "skus": [],
+            "description": [
+                "Specifications:",
+                "Running, Twister, Sit-up, Push Up, Body Massager, Hand Exercise",
+                "Maximum user weight: 150kg",
+                "Foldable and Movable",
+                "Digital Features Time, Speed, Distance, Calorie, Pulse"
+            ],
+            "brandId": "154760",
+            "brandName": "Sports House",
+            "sellerId": "1854",
+            "mainSellerId": "",
+            "sellerName": "Sports-House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/af55b538e435a76bc669b8314ee34701.jpg",
+                    "productUrl": "/products/high-quality-6-way-manual-treadmill-i133140591-s1054644949.html",
+                    "sku": "133140591_BD",
+                    "skuId": "1054644949"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:133140591;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:133140591_BD;price:16590;client:desktop;supplier_id:1854;asc_category_id:1992;item_id:133140591;sku_id:1054644949;shop_id:2509",
+            "addToCartSkus": [
+                {
+                    "sku": "133140591_BD-1054644949",
+                    "skuId": "1054644949",
+                    "count": 0
+                }
+            ],
+            "itemId": "133140591",
+            "skuId": "1054644949",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ultra-foldable Walking Treadmill VOIT Fitness - 1818EB",
+            "nid": "192926044",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "192926044",
+                "scene_pre": "search",
+                "current_price": "29999",
+                "x_sku_ids": "1139705199",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "192926044"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ultra-foldable-walking-pad-voit-fitness-1818eb-i192926044-s1139705199.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d0a56b91fdb3e079a132e5296b093bbb.jpg",
+            "price": "29999",
+            "promotionId": "null",
+            "priceShow": "৳ 29,999",
+            "ratingScore": "4.25",
+            "review": "4",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "192926044_BD-1139705199",
+            "sku": "192926044_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508319039",
+            "mainSellerId": "",
+            "sellerName": "VIP Fitness",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d0a56b91fdb3e079a132e5296b093bbb.jpg",
+                    "productUrl": "/products/ultra-foldable-walking-pad-voit-fitness-1818eb-i192926044-s1139705199.html",
+                    "sku": "192926044_BD",
+                    "skuId": "1139705199"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:192926044;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:192926044_BD;price:29999;client:desktop;supplier_id:700508319039;asc_category_id:1992;item_id:192926044;sku_id:1139705199;shop_id:143764",
+            "addToCartSkus": [
+                {
+                    "sku": "192926044_BD-1139705199",
+                    "skuId": "1139705199",
+                    "count": 0
+                }
+            ],
+            "itemId": "192926044",
+            "skuId": "1139705199",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "DK-12AB - Motorized Treadmill - 2.0HP - Multi System",
+            "nid": "161180793",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "161180793",
+                "scene_pre": "search",
+                "current_price": "39102",
+                "x_sku_ids": "1093134993",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "161180793"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dk-12ab-motorized-treadmill-20hp-multi-system-i161180793-s1093134993.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e78fb25886f17c645165c621ff8cdc8f.jpg",
+            "price": "39102",
+            "promotionId": "null",
+            "priceShow": "৳ 39,102",
+            "ratingScore": "4.73333",
+            "review": "15",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "161180793_BD-1093134993",
+            "sku": "161180793_BD",
+            "skus": [],
+            "description": [
+                "Installation Fee and Service Charge 1000 Taka for Inside Dhaka Only",
+                "Item No: DK-12AB",
+                "With Electric Massager.",
+                "Use: Regular Home Use",
+                "Motor: Motor Power :Con.2.0HP Peak 2.50 HP",
+                "Speed: 0.8-14 km/h..",
+                "Incline: Mechanical 3 positions.",
+                "Monitor: LCD Screen.",
+                "Running Surface: 430 x 1240mm.",
+                "Display: Speed, Time, Distance, Calories, Pulse.",
+                "Max. User Weight: 120 KG.",
+                "Machine Weight: 76kg",
+                "Frame Type: Folding platform",
+                "Keep Daraz Invoice For Service warranty Claim"
+            ],
+            "brandId": "107416",
+            "brandName": "YIJIAN",
+            "sellerId": "1854",
+            "mainSellerId": "",
+            "sellerName": "Sports-House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e78fb25886f17c645165c621ff8cdc8f.jpg",
+                    "productUrl": "/products/dk-12ab-motorized-treadmill-20hp-multi-system-i161180793-s1093134993.html",
+                    "sku": "161180793_BD",
+                    "skuId": "1093134993"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:161180793;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:161180793_BD;price:39102;client:desktop;supplier_id:1854;asc_category_id:1992;item_id:161180793;sku_id:1093134993;shop_id:2509",
+            "addToCartSkus": [
+                {
+                    "sku": "161180793_BD-1093134993",
+                    "skuId": "1093134993",
+                    "count": 0
+                }
+            ],
+            "itemId": "161180793",
+            "skuId": "1093134993",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "KL-901 Foldable Motorized Treadmill",
+            "nid": "144050585",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "144050585",
+                "scene_pre": "search",
+                "current_price": "36500",
+                "x_sku_ids": "1068568331",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "144050585"
+            },
+            "productUrl": "//www.daraz.com.bd/products/kl-901-foldable-motorized-treadmill-i144050585-s1068568331.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0aa26d7b5960d6607b6d4e6b5324fd41.jpg",
+            "price": "36500",
+            "promotionId": "null",
+            "priceShow": "৳ 36,500",
+            "ratingScore": "4.33333",
+            "review": "15",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "144050585_BD-1068568331",
+            "sku": "144050585_BD",
+            "skus": [],
+            "description": [
+                "Foldable Motorized Treadmill KL 901",
+                "Brand: DAILY YOUTH",
+                "Product Origin: CHINA",
+                "Model No.KL 901",
+                "MOTORDC:CON. 2.0HP",
+                "INCLINE 3 STEP MANUAL",
+                "Max user Weight:120KG",
+                "Gross weight:66KG",
+                "Net Weight:56KG",
+                "Warranty3 YEARS WARRANTYMore info SPECIFICATION:DC Motor:2.0HP",
+                "Speed Range:1-14km/h",
+                "Running Surface:122*42cm",
+                "Max. Load:120kg",
+                "Product Dimensions:163*73*128cm",
+                "N.W:56kg G.W:66kg",
+                "Packing:172*78*35cm",
+                "DESCRIPTION: DC Motor: DC 2.0HP",
+                "Speed Range: 1.0-14 km/h",
+                "Humanity safe protection device",
+                "Trendy and stylish appearance, giving the product",
+                "a look of both power in overall and delicacy in",
+                "details",
+                " High sensitive hand pulse, speed control and",
+                "incline control in handrail",
+                "LCD display with blue background; Preset 15",
+                "intelligent running programs",
+                "Bracket for IPAD on console",
+                "High-power Hi-Fi system and MP3 audio input",
+                "Applicable for wider voltage range by using",
+                "transformerless electronic control technology",
+                "Low speed starting at 0.5 km/h",
+                "Brand new and comfortable double-layer running",
+                "deck with multilayer shock absorption device",
+                "Hydraulic folding with lock device",
+                "Keep Daraz Invoice For Service warranty Claim",
+                "Installation Fee: 1000 BDT (Inside Dhaka Only)"
+            ],
+            "brandId": "155829",
+            "brandName": "Daily Youth",
+            "sellerId": "1854",
+            "mainSellerId": "",
+            "sellerName": "Sports-House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0aa26d7b5960d6607b6d4e6b5324fd41.jpg",
+                    "productUrl": "/products/kl-901-foldable-motorized-treadmill-i144050585-s1068568331.html",
+                    "sku": "144050585_BD",
+                    "skuId": "1068568331"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:144050585;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:144050585_BD;price:36500;client:desktop;supplier_id:1854;asc_category_id:1992;item_id:144050585;sku_id:1068568331;shop_id:2509",
+            "addToCartSkus": [
+                {
+                    "sku": "144050585_BD-1068568331",
+                    "skuId": "1068568331",
+                    "count": 0
+                }
+            ],
+            "itemId": "144050585",
+            "skuId": "1068568331",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "5710Ca Motorized Treadmill – Dc 2 Chp / 3 Hp Peak - Grey",
+            "nid": "366112",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "2397731",
+                "scene_pre": "search",
+                "current_price": "44999",
+                "x_sku_ids": "62471917",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "2397731"
+            },
+            "productUrl": "//www.daraz.com.bd/products/5713ca-motorized-treadmill-dc-2-chp-3-hp-peak-grey-i2397731-s62471917.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c15802bd7384dde740c400865e1bc360.jpg",
+            "price": "44999",
+            "promotionId": "null",
+            "priceShow": "৳ 44,999",
+            "ratingScore": "4.23077",
+            "review": "13",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "OM315SP0CLO0SNAFAMZ-550663",
+            "sku": "OM315SP0CLO0SNAFAMZ",
+            "skus": [],
+            "description": [
+                "For more details about this product, please dial 09610002345 to get assistance from our expert agents.",
+                "Installation Fee and Service Charge 1000 Taka for Inside Dhaka Only",
+                "DC MOTOR : 2.00 HP (continuous)",
+                "Gross Weight: 72 KG",
+                "3.0 HP (Peak)",
+                "Screen : LCD window",
+                "Speed range : 1-16 Km/h",
+                "Motor Incline : 0-12%",
+                "Running surface : 1400*500mm",
+                "MP3 with Built in Speaker",
+                "Maximum users weight: 120 KG"
+            ],
+            "brandId": "153506",
+            "brandName": "Citizen Sports",
+            "sellerId": "227",
+            "mainSellerId": "",
+            "sellerName": "Citizen Sports",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c15802bd7384dde740c400865e1bc360.jpg",
+                    "productUrl": "/products/5713ca-motorized-treadmill-dc-2-chp-3-hp-peak-grey-i2397731-s62471917.html",
+                    "sku": "OM315SP0CLO0SNAFAMZ",
+                    "skuId": "62471917"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:366112;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:OM315SP0CLO0SNAFAMZ;price:44999;client:desktop;supplier_id:227;asc_category_id:1992;item_id:2397731;sku_id:62471917;shop_id:1463",
+            "addToCartSkus": [
+                {
+                    "sku": "OM315SP0CLO0SNAFAMZ-550663",
+                    "skuId": "62471917",
+                    "count": 0
+                }
+            ],
+            "itemId": "2397731",
+            "skuId": "62471917",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "PL-40AAP2S Treadmill- Black -LARGE",
+            "nid": "128642556",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "128642556",
+                "scene_pre": "search",
+                "current_price": "25800.00",
+                "x_sku_ids": "1048480431",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "128642556"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pl-40aap2s-treadmill-black-large-i128642556-s1048480431.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0e47d52052216cd6e2e5799cf07ee870.jpg",
+            "price": "25800.00",
+            "promotionId": "null",
+            "priceShow": "৳ 25,800",
+            "ratingScore": "3.58333",
+            "review": "12",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "128642556_BD-1048480431",
+            "sku": "128642556_BD",
+            "skus": [],
+            "description": [
+                "Motor power: 2.0HP",
+                "Speed range: 0.8-14KM/H",
+                "FOLDABLE HYDROLIC LOCK",
+                "LCD Screen Display blue screen: Time,speed,distance",
+                "Program : P1-P12 With MP3,USB,Handle Key",
+                "Allowable Weight: 110Kg",
+                "Keep Daraz Invoice For Service warranty Claim.",
+                "Installation Fee and Service Charge 1000 Taka for Inside Dhaka Only"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1854",
+            "mainSellerId": "",
+            "sellerName": "Sports-House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0e47d52052216cd6e2e5799cf07ee870.jpg",
+                    "productUrl": "/products/pl-40aap2s-treadmill-black-large-i128642556-s1048480431.html",
+                    "sku": "128642556_BD",
+                    "skuId": "1048480431"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:128642556;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:128642556_BD;price:25800.00;client:desktop;supplier_id:1854;asc_category_id:1992;item_id:128642556;sku_id:1048480431;shop_id:2509",
+            "addToCartSkus": [
+                {
+                    "sku": "128642556_BD-1048480431",
+                    "skuId": "1048480431",
+                    "count": 0
+                }
+            ],
+            "itemId": "128642556",
+            "skuId": "1048480431",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Motorized Treadmill - New Noble - XG1916A",
+            "nid": "212930491",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "212930491",
+                "scene_pre": "search",
+                "current_price": "44500",
+                "x_sku_ids": "1162372750",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "212930491"
+            },
+            "productUrl": "//www.daraz.com.bd/products/motorized-treadmill-new-noble-xg1916a-i212930491-s1162372750.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/979531fef48a10ae0f1e6ba70e11cadc.jpg",
+            "price": "44500",
+            "promotionId": "null",
+            "priceShow": "৳ 44,500",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "212930491_BD-1162372750",
+            "sku": "212930491_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "196695",
+            "brandName": "New Noble",
+            "sellerId": "700508319039",
+            "mainSellerId": "",
+            "sellerName": "VIP Fitness",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/979531fef48a10ae0f1e6ba70e11cadc.jpg",
+                    "productUrl": "/products/motorized-treadmill-new-noble-xg1916a-i212930491-s1162372750.html",
+                    "sku": "212930491_BD",
+                    "skuId": "1162372750"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:212930491;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:212930491_BD;price:44500;client:desktop;supplier_id:700508319039;asc_category_id:1992;item_id:212930491;sku_id:1162372750;shop_id:143764",
+            "addToCartSkus": [
+                {
+                    "sku": "212930491_BD-1162372750",
+                    "skuId": "1162372750",
+                    "count": 0
+                }
+            ],
+            "itemId": "212930491",
+            "skuId": "1162372750",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Motorized Treadmill Kpower- 2.0HP",
+            "nid": "112262907",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "112262907",
+                "scene_pre": "search",
+                "current_price": "31115",
+                "x_sku_ids": "1029172099",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "112262907"
+            },
+            "productUrl": "//www.daraz.com.bd/products/motorized-treadmill-kpower-20hp-i112262907-s1029172099.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6ead98196375106c5dfa1a10d739ece9.jpg",
+            "price": "31115",
+            "promotionId": "null",
+            "priceShow": "৳ 31,115",
+            "ratingScore": "5",
+            "review": "6",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "112262907_BD-1029172099",
+            "sku": "112262907_BD",
+            "skus": [],
+            "description": [
+                "Place of Origin:Taiwan (Mainland),",
+                "Brand Name:KPOWER",
+                "Model Number:K243",
+                "MAX.User: 100KG",
+                "Allowed Wight:80~100KG",
+                "MOTOR:2.0HP",
+                "Type:Treadmill",
+                "Product Name:Gym running machine body care foldable treadmill",
+                "Speed:1.0-12 km/h",
+                "Incline:Manual 3 step automaticBuild up",
+                "Mp3 Supported",
+                "Display Show:Pulse,Distance,Calries,Step",
+                "Size:1927x862x1471 mm",
+                "Fold up size:1371x862x1550 mmCarton Size:2240x985x435 mm"
+            ],
+            "brandId": "156215",
+            "brandName": "Kpower",
+            "sellerId": "1854",
+            "mainSellerId": "",
+            "sellerName": "Sports-House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6ead98196375106c5dfa1a10d739ece9.jpg",
+                    "productUrl": "/products/motorized-treadmill-kpower-20hp-i112262907-s1029172099.html",
+                    "sku": "112262907_BD",
+                    "skuId": "1029172099"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:112262907;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:112262907_BD;price:31115;client:desktop;supplier_id:1854;asc_category_id:1992;item_id:112262907;sku_id:1029172099;shop_id:2509",
+            "addToCartSkus": [
+                {
+                    "sku": "112262907_BD-1029172099",
+                    "skuId": "1029172099",
+                    "count": 0
+                }
+            ],
+            "itemId": "112262907",
+            "skuId": "1029172099",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Treadmill - Daily Fitness - DF4102 - Black",
+            "nid": "143814756",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "143814756",
+                "scene_pre": "search",
+                "current_price": "23999",
+                "x_sku_ids": "1068268267",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "143814756"
+            },
+            "productUrl": "//www.daraz.com.bd/products/treadmill-daily-fitness-df4102-black-i143814756-s1068268267.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c2710ae7ad56edab0e78661e214906a2.jpg",
+            "price": "23999",
+            "promotionId": "null",
+            "priceShow": "৳ 23,999",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "143814756_BD-1068268267",
+            "sku": "143814756_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505787048",
+            "mainSellerId": "",
+            "sellerName": "Regal Sports",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c2710ae7ad56edab0e78661e214906a2.jpg",
+                    "productUrl": "/products/treadmill-daily-fitness-df4102-black-i143814756-s1068268267.html",
+                    "sku": "143814756_BD",
+                    "skuId": "1068268267"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:143814756;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:143814756_BD;price:23999;client:desktop;supplier_id:700505787048;asc_category_id:1992;item_id:143814756;sku_id:1068268267;shop_id:62903",
+            "addToCartSkus": [
+                {
+                    "sku": "143814756_BD-1068268267",
+                    "skuId": "1068268267",
+                    "count": 0
+                }
+            ],
+            "itemId": "143814756",
+            "skuId": "1068268267",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Power Land Motorized Treadmill Pl-12Ad",
+            "nid": "126197947",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "126197947",
+                "scene_pre": "search",
+                "current_price": "37799",
+                "x_sku_ids": "1046313412",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "126197947"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pl-12ad-i126197947-s1046313412.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/252d9de2407a245229a7a3d22ce53e20.jpg",
+            "price": "37799",
+            "promotionId": "null",
+            "priceShow": "৳ 37,799",
+            "ratingScore": "4.75",
+            "review": "4",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "126197947_BD-1046313412",
+            "sku": "126197947_BD",
+            "skus": [],
+            "description": [
+                "Model No.PL-12AD",
+                "Brand: Power Land (2021)",
+                "LCD displayTime, distance, speed, heart rate, calories",
+                "Walking area1260*450mmSix-level shock absorption systemYes",
+                "Speed range1.0-14km/",
+                "Incline :Auto 15%",
+                "Motor Power :Con.2.0HP Pulse With Hand pulse keyRun board Thickness15mm",
+                "ProgramP1-P12Calories 0-999%Allowable",
+                "weight:120kgs",
+                "waist,dumbbellCarton size1800*800*330mm",
+                "Expand size1830*770*1370mm",
+                "Advantage 1Externally connected with MP3,USB;and internally installed with high-fidelity audioAdvantage 2Air Cylinder Auxiliary FoldingAdvantage 3Function of Soft Running on Beaches",
+                "Keep Daraz Invoice For Service warranty Claim"
+            ],
+            "brandId": "123553499",
+            "brandName": "Power Land",
+            "sellerId": "1854",
+            "mainSellerId": "",
+            "sellerName": "Sports-House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/252d9de2407a245229a7a3d22ce53e20.jpg",
+                    "productUrl": "/products/pl-12ad-i126197947-s1046313412.html",
+                    "sku": "126197947_BD",
+                    "skuId": "1046313412"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:126197947;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:126197947_BD;price:37799;client:desktop;supplier_id:1854;asc_category_id:1992;item_id:126197947;sku_id:1046313412;shop_id:2509",
+            "addToCartSkus": [
+                {
+                    "sku": "126197947_BD-1046313412",
+                    "skuId": "1046313412",
+                    "count": 0
+                }
+            ],
+            "itemId": "126197947",
+            "skuId": "1046313412",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Silicone Spray for Electric & Manual Treadmill - Best for Treadmill Belt - Certified for Treadmill Use - 1 Pcs",
+            "nid": "232769335",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "232769335",
+                "scene_pre": "search",
+                "current_price": "450.00",
+                "x_sku_ids": "1175530739",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "232769335"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i232769335-s1175530739.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ffdd07ff989751e4b183af08f7ff5d96.jpg",
+            "originalPrice": "1000.00",
+            "originalPriceShow": "৳ 1,000",
+            "price": "450.00",
+            "promotionId": "null",
+            "priceShow": "৳ 450",
+            "discount": "-55%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "232769335_BD-1175530739",
+            "sku": "232769335_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507284067",
+            "mainSellerId": "",
+            "sellerName": "BD Sports Mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ffdd07ff989751e4b183af08f7ff5d96.jpg",
+                    "productUrl": "/products/1-i232769335-s1175530739.html",
+                    "sku": "232769335_BD",
+                    "skuId": "1175530739"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:232769335;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:232769335_BD;price:450.00;client:desktop;supplier_id:700507284067;asc_category_id:1992;item_id:232769335;sku_id:1175530739;shop_id:94046",
+            "addToCartSkus": [
+                {
+                    "sku": "232769335_BD-1175530739",
+                    "skuId": "1175530739",
+                    "count": 0
+                }
+            ],
+            "itemId": "232769335",
+            "skuId": "1175530739",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Motorized Treadmill Black-2.0HP",
+            "nid": "105392837",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "105392837",
+                "scene_pre": "search",
+                "current_price": "33000",
+                "x_sku_ids": "1020244567",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "105392837"
+            },
+            "productUrl": "//www.daraz.com.bd/products/motorized-treadmill-black-20hp-i105392837-s1020244567.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/15acbe0a28cd93b0e21a31a184e14ed0.jpg",
+            "price": "33000",
+            "promotionId": "null",
+            "priceShow": "৳ 33,000",
+            "ratingScore": "4.28571",
+            "review": "35",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "105392837_BD-1020244567",
+            "sku": "105392837_BD",
+            "skus": [],
+            "description": [
+                "Installation Fee and Service Charge 1000 Taka for Inside Dhaka Only",
+                "Item No: DK-05AJ1",
+                "Use: Regular Home Use",
+                "Motor: DC 2.0HP Continuous,.",
+                "Speed: 0.8-14 km/h..",
+                "Incline: Mechanical 3 positions.",
+                "Monitor: LCD Screen.",
+                "Running Surface: 430 x 1240mm.",
+                "Display: Speed, Time, Distance, Calories, Pulse.",
+                "Max. User Weight: 110 KG.",
+                "Machine Weight: 63.5KG.",
+                "Frame Type: Folding platform",
+                "Keep Daraz Invoice For Service warranty Claim"
+            ],
+            "brandId": "107416",
+            "brandName": "YIJIAN",
+            "sellerId": "1854",
+            "mainSellerId": "",
+            "sellerName": "Sports-House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/15acbe0a28cd93b0e21a31a184e14ed0.jpg",
+                    "productUrl": "/products/motorized-treadmill-black-20hp-i105392837-s1020244567.html",
+                    "sku": "105392837_BD",
+                    "skuId": "1020244567"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:105392837;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:105392837_BD;price:33000;client:desktop;supplier_id:1854;asc_category_id:1992;item_id:105392837;sku_id:1020244567;shop_id:2509",
+            "addToCartSkus": [
+                {
+                    "sku": "105392837_BD-1020244567",
+                    "skuId": "1020244567",
+                    "count": 0
+                }
+            ],
+            "itemId": "105392837",
+            "skuId": "1020244567",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Xiaomi Kingsmith K15 Smart Folding Treadmill",
+            "nid": "231474756",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "231474756",
+                "scene_pre": "search",
+                "current_price": "79000.00",
+                "x_sku_ids": "1174619144",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "231474756"
+            },
+            "productUrl": "//www.daraz.com.bd/products/xiaomi-kingsmith-k15-i231474756-s1174619144.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d1b6a50653a0a15a3c371d79ba543b91.png",
+            "price": "79000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 79,000",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "231474756_BD-1174619144",
+            "sku": "231474756_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "12960",
+            "brandName": "Xiaomi",
+            "sellerId": "700508259213",
+            "mainSellerId": "",
+            "sellerName": "RASEL SPORTS AND FITNESS",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d1b6a50653a0a15a3c371d79ba543b91.png",
+                    "productUrl": "/products/xiaomi-kingsmith-k15-i231474756-s1174619144.html",
+                    "sku": "231474756_BD",
+                    "skuId": "1174619144"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:231474756;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:231474756_BD;price:79000.00;client:desktop;supplier_id:700508259213;asc_category_id:1992;item_id:231474756;sku_id:1174619144;shop_id:138536",
+            "addToCartSkus": [
+                {
+                    "sku": "231474756_BD-1174619144",
+                    "skuId": "1174619144",
+                    "count": 0
+                }
+            ],
+            "itemId": "231474756",
+            "skuId": "1174619144",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Xiaomi Kingsmith K15 Smart Folding Treadmill",
+            "nid": "229391721",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "229391721",
+                "scene_pre": "search",
+                "current_price": "85000",
+                "x_sku_ids": "1173027978",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "229391721"
+            },
+            "productUrl": "//www.daraz.com.bd/products/xiaomi-kingsmith-k15-i229391721-s1173027978.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3130c9e667fed467d53d231c11900a2b.jpg",
+            "originalPrice": "105000.00",
+            "originalPriceShow": "৳ 105,000",
+            "price": "85000",
+            "promotionId": "null",
+            "priceShow": "৳ 85,000",
+            "discount": "-19%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "229391721_BD-1173027978",
+            "sku": "229391721_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "12960",
+            "brandName": "Xiaomi",
+            "sellerId": "85",
+            "mainSellerId": "",
+            "sellerName": "DRM",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3130c9e667fed467d53d231c11900a2b.jpg",
+                    "productUrl": "/products/xiaomi-kingsmith-k15-i229391721-s1173027978.html",
+                    "sku": "229391721_BD",
+                    "skuId": "1173027978"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:229391721;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:229391721_BD;price:85000;client:desktop;supplier_id:85;asc_category_id:1992;item_id:229391721;sku_id:1173027978;shop_id:1400",
+            "addToCartSkus": [
+                {
+                    "sku": "229391721_BD-1173027978",
+                    "skuId": "1173027978",
+                    "count": 0
+                }
+            ],
+            "itemId": "229391721",
+            "skuId": "1173027978",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "3 Way Manual Treadmills + Combo Pack",
+            "nid": "233885476",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233885476",
+                "scene_pre": "search",
+                "current_price": "11500.00",
+                "x_sku_ids": "1176688038",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "233885476"
+            },
+            "productUrl": "//www.daraz.com.bd/products/3-i233885476-s1176688038.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/08585cafe9f5e1aa7b23942be70dc60a.png",
+            "price": "11500.00",
+            "promotionId": "null",
+            "priceShow": "৳ 11,500",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233885476_BD-1176688038",
+            "sku": "233885476_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508628114",
+            "mainSellerId": "",
+            "sellerName": "B R N Sports",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/08585cafe9f5e1aa7b23942be70dc60a.png",
+                    "productUrl": "/products/3-i233885476-s1176688038.html",
+                    "sku": "233885476_BD",
+                    "skuId": "1176688038"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:233885476;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:233885476_BD;price:11500.00;client:desktop;supplier_id:700508628114;asc_category_id:1992;item_id:233885476;sku_id:1176688038;shop_id:174231",
+            "addToCartSkus": [
+                {
+                    "sku": "233885476_BD-1176688038",
+                    "skuId": "1176688038",
+                    "count": 0
+                }
+            ],
+            "itemId": "233885476",
+            "skuId": "1176688038",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Kpower K842E (DC Motor: 2.5HP Peak) Foldable Motorized Treadmill",
+            "nid": "232687441",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "232687441",
+                "scene_pre": "search",
+                "current_price": "58000.00",
+                "x_sku_ids": "1175483462",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "232687441"
+            },
+            "productUrl": "//www.daraz.com.bd/products/kpower-k842e-dc-25hp-i232687441-s1175483462.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/79584437b091ae616bc61b42829f1efa.png",
+            "price": "58000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 58,000",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "232687441_BD-1175483462",
+            "sku": "232687441_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "156215",
+            "brandName": "Kpower",
+            "sellerId": "700508259213",
+            "mainSellerId": "",
+            "sellerName": "RASEL SPORTS AND FITNESS",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/79584437b091ae616bc61b42829f1efa.png",
+                    "productUrl": "/products/kpower-k842e-dc-25hp-i232687441-s1175483462.html",
+                    "sku": "232687441_BD",
+                    "skuId": "1175483462"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:232687441;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:232687441_BD;price:58000.00;client:desktop;supplier_id:700508259213;asc_category_id:1992;item_id:232687441;sku_id:1175483462;shop_id:138536",
+            "addToCartSkus": [
+                {
+                    "sku": "232687441_BD-1175483462",
+                    "skuId": "1175483462",
+                    "count": 0
+                }
+            ],
+            "itemId": "232687441",
+            "skuId": "1175483462",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "1394CB Motorized Treadmill 1.5 CHP - Black",
+            "nid": "100838527",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "100838527",
+                "scene_pre": "search",
+                "current_price": "32500.00",
+                "x_sku_ids": "1014842676",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "100838527"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1394cb-15-chp-i100838527-s1014842676.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/a4a6b4ebc99e854033fe47edbe4e71ad.jpg",
+            "price": "32500.00",
+            "promotionId": "null",
+            "priceShow": "৳ 32,500",
+            "ratingScore": "4.92857",
+            "review": "28",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "100838527_BD-1014842676",
+            "sku": "100838527_BD",
+            "skus": [],
+            "description": [
+                "For more details about this product, please dial 09610002345 to get assistance from our expert agents.",
+                "Installation Fee and Service Charge 1000 Taka for Inside Dhaka Only",
+                "Handle pulse",
+                "Easily assembly, Soft drop",
+                "Speed Range: 1-13 KM/H",
+                "Incline: 2 Level Manual Incline",
+                "Monitor: LCD Display ( 11X6 cm )",
+                "Running Surface: 1200*420mm.",
+                "Max. User Weight: 100 KG.",
+                "6-pieces elastic cushions",
+                "Wheels for transportation",
+                "4 air cushion(2 for each side)",
+                "Easily operation with speed button and start/stop button on handlebar"
+            ],
+            "brandId": "153506",
+            "brandName": "Citizen Sports",
+            "sellerId": "227",
+            "mainSellerId": "",
+            "sellerName": "Citizen Sports",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/a4a6b4ebc99e854033fe47edbe4e71ad.jpg",
+                    "productUrl": "/products/1394cb-15-chp-i100838527-s1014842676.html",
+                    "sku": "100838527_BD",
+                    "skuId": "1014842676"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:100838527;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:100838527_BD;price:32500.00;client:desktop;supplier_id:227;asc_category_id:1992;item_id:100838527;sku_id:1014842676;shop_id:1463",
+            "addToCartSkus": [
+                {
+                    "sku": "100838527_BD-1014842676",
+                    "skuId": "1014842676",
+                    "count": 0
+                }
+            ],
+            "itemId": "100838527",
+            "skuId": "1014842676",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Treadmill - ADVANTEK - ADT950 DC (Made in Taiwan)",
+            "nid": "225353124",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225353124",
+                "scene_pre": "search",
+                "current_price": "80000.00",
+                "x_sku_ids": "1170590174",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "225353124"
+            },
+            "productUrl": "//www.daraz.com.bd/products/treadmill-advantek-adt950-dc-made-in-taiwan-i225353124-s1170590174.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/cc3e909e3c306fa3bf739aba9cb7c459.jpg",
+            "originalPrice": "85000.00",
+            "originalPriceShow": "৳ 85,000",
+            "price": "80000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 80,000",
+            "discount": "-6%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225353124_BD-1170590174",
+            "sku": "225353124_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "198556",
+            "brandName": "ADVANTEK",
+            "sellerId": "700510092051",
+            "mainSellerId": "",
+            "sellerName": "ADVANTEK",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cc3e909e3c306fa3bf739aba9cb7c459.jpg",
+                    "productUrl": "/products/treadmill-advantek-adt950-dc-made-in-taiwan-i225353124-s1170590174.html",
+                    "sku": "225353124_BD",
+                    "skuId": "1170590174"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:225353124;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:225353124_BD;price:80000.00;client:desktop;supplier_id:700510092051;asc_category_id:1992;item_id:225353124;sku_id:1170590174;shop_id:227618",
+            "addToCartSkus": [
+                {
+                    "sku": "225353124_BD-1170590174",
+                    "skuId": "1170590174",
+                    "count": 0
+                }
+            ],
+            "itemId": "225353124",
+            "skuId": "1170590174",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Commercial Treadmill - Advantek - FZ605E (Made in Taiwan)",
+            "nid": "225387701",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225387701",
+                "scene_pre": "search",
+                "current_price": "350000.00",
+                "x_sku_ids": "1170595978",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "225387701"
+            },
+            "productUrl": "//www.daraz.com.bd/products/commercial-treadmill-advantek-fz605e-made-in-taiwan-i225387701-s1170595978.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/305ca73a501ab2f061b0666d1b4c0c4e.jpg",
+            "price": "350000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 350,000",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225387701_BD-1170595978",
+            "sku": "225387701_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "198556",
+            "brandName": "ADVANTEK",
+            "sellerId": "700510092051",
+            "mainSellerId": "",
+            "sellerName": "ADVANTEK",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/305ca73a501ab2f061b0666d1b4c0c4e.jpg",
+                    "productUrl": "/products/commercial-treadmill-advantek-fz605e-made-in-taiwan-i225387701-s1170595978.html",
+                    "sku": "225387701_BD",
+                    "skuId": "1170595978"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:225387701;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:225387701_BD;price:350000.00;client:desktop;supplier_id:700510092051;asc_category_id:1992;item_id:225387701;sku_id:1170595978;shop_id:227618",
+            "addToCartSkus": [
+                {
+                    "sku": "225387701_BD-1170595978",
+                    "skuId": "1170595978",
+                    "count": 0
+                }
+            ],
+            "itemId": "225387701",
+            "skuId": "1170595978",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Daily Fitness S900DS Andriod Motorized Trademill",
+            "nid": "190380797",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "190380797",
+                "scene_pre": "search",
+                "current_price": "55990.00",
+                "x_sku_ids": "1137720870",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "190380797"
+            },
+            "productUrl": "//www.daraz.com.bd/products/s900ds-i190380797-s1137720870.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/db94523165c82be2648047b888fb4bab.jpg",
+            "price": "55990.00",
+            "promotionId": "null",
+            "priceShow": "৳ 55,990",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "190380797_BD-1137720870",
+            "sku": "190380797_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123473469",
+            "brandName": "Daily Fitness",
+            "sellerId": "700506237041",
+            "mainSellerId": "",
+            "sellerName": "Gym world",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/db94523165c82be2648047b888fb4bab.jpg",
+                    "productUrl": "/products/s900ds-i190380797-s1137720870.html",
+                    "sku": "190380797_BD",
+                    "skuId": "1137720870"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:190380797;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:190380797_BD;price:55990.00;client:desktop;supplier_id:700506237041;asc_category_id:1992;item_id:190380797;sku_id:1137720870;shop_id:70737",
+            "addToCartSkus": [
+                {
+                    "sku": "190380797_BD-1137720870",
+                    "skuId": "1137720870",
+                    "count": 0
+                }
+            ],
+            "itemId": "190380797",
+            "skuId": "1137720870",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "5 Way Walking Marching taiwan",
+            "nid": "186788095",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "186788095",
+                "scene_pre": "search",
+                "current_price": "11200.00",
+                "x_sku_ids": "1133328130",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "186788095"
+            },
+            "productUrl": "//www.daraz.com.bd/products/5-i186788095-s1133328130.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8b95f8efa1ed3d27edfeff08f304bf88.png",
+            "price": "11200.00",
+            "promotionId": "null",
+            "priceShow": "৳ 11,200",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "186788095_BD-1133328130",
+            "sku": "186788095_BD",
+            "skus": [],
+            "description": [
+                "5 way Manual Treadmill With 3 Free item.",
+                "1.Digital Weight Machine 2.Hand Grip 3.workout body trimmer",
+                "5 years guarantee",
+                "5 way manual walking Marching 1.Waliknig and Runing 2. Finger twiester 3 situp banch",
+                "For more details about this product, please dial 01778840659 to get assistance from our expert agents.",
+                "Hand Exercise",
+                "Foldable and Movable",
+                "Uses no electrical power",
+                "Superioro quality",
+                "Digital Features Time, Speed, Distance, Calorie"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508628114",
+            "mainSellerId": "",
+            "sellerName": "B R N Sports",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8b95f8efa1ed3d27edfeff08f304bf88.png",
+                    "productUrl": "/products/5-i186788095-s1133328130.html",
+                    "sku": "186788095_BD",
+                    "skuId": "1133328130"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:186788095;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:186788095_BD;price:11200.00;client:desktop;supplier_id:700508628114;asc_category_id:1992;item_id:186788095;sku_id:1133328130;shop_id:174231",
+            "addToCartSkus": [
+                {
+                    "sku": "186788095_BD-1133328130",
+                    "skuId": "1133328130",
+                    "count": 0
+                }
+            ],
+            "itemId": "186788095",
+            "skuId": "1133328130",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Treadmill - Daily Youth - GT-7As (Smart Android Commercial)",
+            "nid": "218798025",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "218798025",
+                "scene_pre": "search",
+                "current_price": "186300.00",
+                "x_sku_ids": "1166489631",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "218798025"
+            },
+            "productUrl": "//www.daraz.com.bd/products/treadmill-daily-youth-gt-7as-smart-android-commercial-i218798025-s1166489631.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0388c2fb0fb2253bf311bf2550a0ed9f.jpg",
+            "price": "186300.00",
+            "promotionId": "null",
+            "priceShow": "৳ 186,300",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "218798025_BD-1166489631",
+            "sku": "218798025_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507734065",
+            "mainSellerId": "",
+            "sellerName": "Tahsin Trading",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0388c2fb0fb2253bf311bf2550a0ed9f.jpg",
+                    "productUrl": "/products/treadmill-daily-youth-gt-7as-smart-android-commercial-i218798025-s1166489631.html",
+                    "sku": "218798025_BD",
+                    "skuId": "1166489631"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:218798025;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:218798025_BD;price:186300.00;client:desktop;supplier_id:700507734065;asc_category_id:1992;item_id:218798025;sku_id:1166489631;shop_id:107786",
+            "addToCartSkus": [
+                {
+                    "sku": "218798025_BD-1166489631",
+                    "skuId": "1166489631",
+                    "count": 0
+                }
+            ],
+            "itemId": "218798025",
+            "skuId": "1166489631",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Motorized Treadmill POWER Land PL-12AB MULTI SYSTEM",
+            "nid": "211828865",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "211828865",
+                "scene_pre": "search",
+                "current_price": "43000.00",
+                "x_sku_ids": "1161589715",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "211828865"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pl-12ab-i211828865-s1161589715.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/26cb83d5040cf75dda50b2166ebc9bfc.png",
+            "price": "43000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 43,000",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "211828865_BD-1161589715",
+            "sku": "211828865_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508814025",
+            "mainSellerId": "",
+            "sellerName": "ROYEL SPORTS & FITNEESS",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/26cb83d5040cf75dda50b2166ebc9bfc.png",
+                    "productUrl": "/products/pl-12ab-i211828865-s1161589715.html",
+                    "sku": "211828865_BD",
+                    "skuId": "1161589715"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:211828865;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:211828865_BD;price:43000.00;client:desktop;supplier_id:700508814025;asc_category_id:1992;item_id:211828865;sku_id:1161589715;shop_id:190554",
+            "addToCartSkus": [
+                {
+                    "sku": "211828865_BD-1161589715",
+                    "skuId": "1161589715",
+                    "count": 0
+                }
+            ],
+            "itemId": "211828865",
+            "skuId": "1161589715",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Advantek DK40 Motorized Treadmill",
+            "nid": "226613247",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226613247",
+                "scene_pre": "search",
+                "current_price": "22990.00",
+                "x_sku_ids": "1171066025",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "226613247"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dk40-i226613247-s1171066025.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e53c454a9853201a6088ae92f7de1cf0.jpg",
+            "originalPrice": "30000.00",
+            "originalPriceShow": "৳ 30,000",
+            "price": "22990.00",
+            "promotionId": "null",
+            "priceShow": "৳ 22,990",
+            "discount": "-23%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226613247_BD-1171066025",
+            "sku": "226613247_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510104433",
+            "mainSellerId": "",
+            "sellerName": "Power sports BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e53c454a9853201a6088ae92f7de1cf0.jpg",
+                    "productUrl": "/products/dk40-i226613247-s1171066025.html",
+                    "sku": "226613247_BD",
+                    "skuId": "1171066025"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:226613247;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:226613247_BD;price:22990.00;client:desktop;supplier_id:700510104433;asc_category_id:1992;item_id:226613247;sku_id:1171066025;shop_id:229593",
+            "addToCartSkus": [
+                {
+                    "sku": "226613247_BD-1171066025",
+                    "skuId": "1171066025",
+                    "count": 0
+                }
+            ],
+            "itemId": "226613247",
+            "skuId": "1171066025",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Commercial AC Motorized Treadmill - Konlega - K646AB (7'' TFT Android Display)",
+            "nid": "215145077",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "215145077",
+                "scene_pre": "search",
+                "current_price": "120000.00",
+                "x_sku_ids": "1163753439",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "215145077"
+            },
+            "productUrl": "//www.daraz.com.bd/products/commercial-ac-motorized-treadmill-konlega-k646ab-7-tft-android-display-i215145077-s1163753439.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8fcdf48330c4e0083f89cc43737e4ae5.jpg",
+            "originalPrice": "140000.00",
+            "originalPriceShow": "৳ 140,000",
+            "price": "120000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 120,000",
+            "discount": "-14%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "215145077_BD-1163753439",
+            "sku": "215145077_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "155825",
+            "brandName": "KONLEGA",
+            "sellerId": "4522",
+            "mainSellerId": "",
+            "sellerName": "VIP Sports & Fitness",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8fcdf48330c4e0083f89cc43737e4ae5.jpg",
+                    "productUrl": "/products/commercial-ac-motorized-treadmill-konlega-k646ab-7-tft-android-display-i215145077-s1163753439.html",
+                    "sku": "215145077_BD",
+                    "skuId": "1163753439"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:215145077;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:215145077_BD;price:120000.00;client:desktop;supplier_id:4522;asc_category_id:1992;item_id:215145077;sku_id:1163753439;shop_id:4584",
+            "addToCartSkus": [
+                {
+                    "sku": "215145077_BD-1163753439",
+                    "skuId": "1163753439",
+                    "count": 0
+                }
+            ],
+            "itemId": "215145077",
+            "skuId": "1163753439",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Xiaomi Kingsmith K15 Smart Folding Treadmill",
+            "nid": "233181596",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233181596",
+                "scene_pre": "search",
+                "current_price": "95000.00",
+                "x_sku_ids": "1175888514",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "233181596"
+            },
+            "productUrl": "//www.daraz.com.bd/products/xiaomi-kingsmith-k15-i233181596-s1175888514.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/56a44c1a78b245c78470468a0cee415d.jpg",
+            "price": "95000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 95,000",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233181596_BD-1175888514",
+            "sku": "233181596_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "12960",
+            "brandName": "Xiaomi",
+            "sellerId": "700508214141",
+            "mainSellerId": "",
+            "sellerName": "PROHOR",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/56a44c1a78b245c78470468a0cee415d.jpg",
+                    "productUrl": "/products/xiaomi-kingsmith-k15-i233181596-s1175888514.html",
+                    "sku": "233181596_BD",
+                    "skuId": "1175888514"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:233181596;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:233181596_BD;price:95000.00;client:desktop;supplier_id:700508214141;asc_category_id:1992;item_id:233181596;sku_id:1175888514;shop_id:135541",
+            "addToCartSkus": [
+                {
+                    "sku": "233181596_BD-1175888514",
+                    "skuId": "1175888514",
+                    "count": 0
+                }
+            ],
+            "itemId": "233181596",
+            "skuId": "1175888514",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Commercial AC Motorized Treadmill - Konlega - K450AB (10'' TFT Android Display)",
+            "nid": "215135733",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "215135733",
+                "scene_pre": "search",
+                "current_price": "140000.00",
+                "x_sku_ids": "1163754420",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "215135733"
+            },
+            "productUrl": "//www.daraz.com.bd/products/commercial-ac-motorized-treadmill-konlega-k450ab-10-tft-android-display-i215135733-s1163754420.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0e87a6a162c002df601860ce4d4cbf95.jpg",
+            "originalPrice": "180000.00",
+            "originalPriceShow": "৳ 180,000",
+            "price": "140000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 140,000",
+            "discount": "-22%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "215135733_BD-1163754420",
+            "sku": "215135733_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "155825",
+            "brandName": "KONLEGA",
+            "sellerId": "4522",
+            "mainSellerId": "",
+            "sellerName": "VIP Sports & Fitness",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0e87a6a162c002df601860ce4d4cbf95.jpg",
+                    "productUrl": "/products/commercial-ac-motorized-treadmill-konlega-k450ab-10-tft-android-display-i215135733-s1163754420.html",
+                    "sku": "215135733_BD",
+                    "skuId": "1163754420"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:215135733;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:215135733_BD;price:140000.00;client:desktop;supplier_id:4522;asc_category_id:1992;item_id:215135733;sku_id:1163754420;shop_id:4584",
+            "addToCartSkus": [
+                {
+                    "sku": "215135733_BD-1163754420",
+                    "skuId": "1163754420",
+                    "count": 0
+                }
+            ],
+            "itemId": "215135733",
+            "skuId": "1163754420",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "3 Way Manual Treadmills",
+            "nid": "233084587",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233084587",
+                "scene_pre": "search",
+                "current_price": "8800.00",
+                "x_sku_ids": "1175802639",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "233084587"
+            },
+            "productUrl": "//www.daraz.com.bd/products/3-i233084587-s1175802639.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/184cbb93c5306e082bd88fc083ba596a.jpg",
+            "price": "8800.00",
+            "promotionId": "null",
+            "priceShow": "৳ 8,800",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233084587_BD-1175802639",
+            "sku": "233084587_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508628114",
+            "mainSellerId": "",
+            "sellerName": "B R N Sports",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/184cbb93c5306e082bd88fc083ba596a.jpg",
+                    "productUrl": "/products/3-i233084587-s1175802639.html",
+                    "sku": "233084587_BD",
+                    "skuId": "1175802639"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:233084587;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:233084587_BD;price:8800.00;client:desktop;supplier_id:700508628114;asc_category_id:1992;item_id:233084587;sku_id:1175802639;shop_id:174231",
+            "addToCartSkus": [
+                {
+                    "sku": "233084587_BD-1175802639",
+                    "skuId": "1175802639",
+                    "count": 0
+                }
+            ],
+            "itemId": "233084587",
+            "skuId": "1175802639",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Treadmill - Daily Youth - KL 901S - Black",
+            "nid": "131603000",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "131603000",
+                "scene_pre": "search",
+                "current_price": "51300.00",
+                "x_sku_ids": "1051978015",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "131603000"
+            },
+            "productUrl": "//www.daraz.com.bd/products/treadmill-daily-youth-kl-901s-black-i131603000-s1051978015.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/c1a27db7ab88c03d9019fc113e26d48c.jpg",
+            "price": "51300.00",
+            "promotionId": "null",
+            "priceShow": "৳ 51,300",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "131603000_BD-1051978015",
+            "sku": "131603000_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505787048",
+            "mainSellerId": "",
+            "sellerName": "Regal Sports",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/c1a27db7ab88c03d9019fc113e26d48c.jpg",
+                    "productUrl": "/products/treadmill-daily-youth-kl-901s-black-i131603000-s1051978015.html",
+                    "sku": "131603000_BD",
+                    "skuId": "1051978015"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:131603000;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:131603000_BD;price:51300.00;client:desktop;supplier_id:700505787048;asc_category_id:1992;item_id:131603000;sku_id:1051978015;shop_id:62903",
+            "addToCartSkus": [
+                {
+                    "sku": "131603000_BD-1051978015",
+                    "skuId": "1051978015",
+                    "count": 0
+                }
+            ],
+            "itemId": "131603000",
+            "skuId": "1051978015",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Motorized Treadmill OMA-1395CA",
+            "nid": "171524551",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171524551",
+                "scene_pre": "search",
+                "current_price": "38171",
+                "x_sku_ids": "1107510970",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "171524551"
+            },
+            "productUrl": "//www.daraz.com.bd/products/oma-1395ca-i171524551-s1107510970.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/0009dc36171cc5f15302a7a3598e6016.jpg",
+            "price": "38171",
+            "promotionId": "null",
+            "priceShow": "৳ 38,171",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171524551_BD-1107510970",
+            "sku": "171524551_BD",
+            "skus": [],
+            "description": [
+                "Display features scan, speed, time, pulse, distance and calories",
+                "Brand Name: Oma",
+                "Model Number: Oma-1395CA",
+                "DC Motor: 3HP(Peak), 2 HP (continuous)",
+                "Motor Incline: 0-12%",
+                "Speed range: 1-16km,",
+                "Type: Electric Treadmill",
+                "Running surface: 1220mm x 420mm",
+                "Screen: LCD window",
+                "Additional features: MP3 and speaker",
+                "Maximum user's weight: 120kg",
+                "Machine weight: N.W: 60KG, GW: 67KG"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1854",
+            "mainSellerId": "",
+            "sellerName": "Sports-House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/0009dc36171cc5f15302a7a3598e6016.jpg",
+                    "productUrl": "/products/oma-1395ca-i171524551-s1107510970.html",
+                    "sku": "171524551_BD",
+                    "skuId": "1107510970"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:171524551;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:171524551_BD;price:38171;client:desktop;supplier_id:1854;asc_category_id:1992;item_id:171524551;sku_id:1107510970;shop_id:2509",
+            "addToCartSkus": [
+                {
+                    "sku": "171524551_BD-1107510970",
+                    "skuId": "1107510970",
+                    "count": 0
+                }
+            ],
+            "itemId": "171524551",
+            "skuId": "1107510970",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Motorized Treadmill K946D-C (10 pcs)",
+            "nid": "150932210",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "150932210",
+                "scene_pre": "search",
+                "current_price": "539000.00",
+                "x_sku_ids": "1077804572",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "150932210"
+            },
+            "productUrl": "//www.daraz.com.bd/products/k946d-c-10-i150932210-s1077804572.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/23e3e8be987eabb790787e8f447dc39a.jpg",
+            "price": "539000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 539,000",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "150932210_BD-1077804572",
+            "sku": "150932210_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "155825",
+            "brandName": "KONLEGA",
+            "sellerId": "1854",
+            "mainSellerId": "",
+            "sellerName": "Sports-House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/23e3e8be987eabb790787e8f447dc39a.jpg",
+                    "productUrl": "/products/k946d-c-10-i150932210-s1077804572.html",
+                    "sku": "150932210_BD",
+                    "skuId": "1077804572"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:150932210;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:150932210_BD;price:539000.00;client:desktop;supplier_id:1854;asc_category_id:1992;item_id:150932210;sku_id:1077804572;shop_id:2509",
+            "addToCartSkus": [
+                {
+                    "sku": "150932210_BD-1077804572",
+                    "skuId": "1077804572",
+                    "count": 0
+                }
+            ],
+            "itemId": "150932210",
+            "skuId": "1077804572",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ultra-foldable Walking Treadmill - Voit Fitness 1818EB",
+            "nid": "235937707",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "235937707",
+                "scene_pre": "search",
+                "current_price": "29000.00",
+                "x_sku_ids": "1179269490",
+                "SN": "a9fba61290107836a1924c3676c8d6b0",
+                "x_ad": "1",
+                "x_object_id": "235937707"
+            },
+            "productUrl": "//www.daraz.com.bd/products/voit-1818eb-i235937707-s1179269490.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/939b680a6569151239e0128a21dd19e5.jpg",
+            "price": "29000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 29,000",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "235937707_BD-1179269490",
+            "sku": "235937707_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "198556",
+            "brandName": "ADVANTEK",
+            "sellerId": "700510092051",
+            "mainSellerId": "",
+            "sellerName": "ADVANTEK",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/939b680a6569151239e0128a21dd19e5.jpg",
+                    "productUrl": "/products/voit-1818eb-i235937707-s1179269490.html",
+                    "sku": "235937707_BD",
+                    "skuId": "1179269490"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                1971,
+                1987,
+                1992
+            ],
+            "clickTrace": "query:;nid:235937707;src:LazadaMainSrp;rn:a9fba61290107836a1924c3676c8d6b0;region:bd;sku:235937707_BD;price:29000.00;client:desktop;supplier_id:700510092051;asc_category_id:1992;item_id:235937707;sku_id:1179269490;shop_id:227618",
+            "addToCartSkus": [
+                {
+                    "sku": "235937707_BD-1179269490",
+                    "skuId": "1179269490",
+                    "count": 0
+                }
+            ],
+            "itemId": "235937707",
+            "skuId": "1179269490",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/sports-travel/",
+            "title": "Sports & Outdoors"
+        },
+        {
+            "url": "/exercise-fitness/",
+            "title": "Exercise & Fitness"
+        },
+        {
+            "url": "/cardio-training-equipment/",
+            "title": "Cardio Equipment"
+        },
+        {
+            "url": "/treadmills/",
+            "title": "Treadmills"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/treadmills/?referer_rn=a9fba61290107836a1924c3676c8d6b0&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Ch2%3EOnline%20Treadmill%20Shopping%20In%20Bangladesh%20-%20Daraz.com.bd%3C%2Fh2%3E%20%0A%0A%3Cp%3EExperience%20shopping%20treadmills%20in%20bangladesh%20at%20low%20prices%20online%20from%20daraz.%20Order%20online%20and%20avail%20market%20competitive%20discounts%20on%20treadmill%20price%20in%20bangladesh%20on%20all%20popular%20brands.%20Treadmills%20are%20one%20the%20best%20workout%20equipment%20for%20home%20as%20well%20as%20gym%20as%20they%20provide%20efficient%20cardiovascular%20routines.%20Usually%20there%20are%20many%20types%20of%20treadmills%20available%20in%20market%20i.e%2C%20automatic%20treadmill%2C%20manual%20treadmill%20and%20electric%20treadmill%20with%20different%20features%20available%20to%20cater%20your%20workout%20needs.%20These%20machines%20provide%20similar%20actions%20to%20jogging%20and%20sidewalks%20for%20which%20they%20are%20most%20useful%20piece%20of%20exercise%20equipment%20for%20home.%20%3C%2Fp%3E%3Cbr%3E%0A%0A%3Cp%3EDaraz.com.bd%20is%20your%20largest%20online%20treadmill%20shop%20in%20bangladesh%20offering%20best%20budget%20treadmills%20for%20sale%20at%20market%20competitive%20rates.%20Similar%20to%20treadmills%2C%20%3Ca%20href%3D%22%2Fexercise-bikes%2F%22%3Eexercise%20cycle%3C%2Fa%3E%20provide%20same%20amount%20of%20cardiovascular%20workout%20only%20difference%20is%20the%20speed%20and%20motion.%20These%20machines%20are%20easy%20to%20use%20as%20they%20provide%20you%20soft%20and%20even%20surface%20if%20you%27re%20afraid%20of%20jogging%20on%20uphills%20and%20terrains.%20Some%20of%20the%20best%20features%20of%20treadmills%20include%20digital%20monitors%2C%20speed%20controls%20and%20many%20more.%20If%20you%27re%20up%20for%20buying%20one%2C%20then%20daraz%20is%20offering%20limited%20discounts%20on%20jogging%20machine%20price%20in%20bangladesh%20that%20will%20encourage%20to%20accelerate%20your%20workout%20routines%20at%20home.%3C%2Fp%3E%0A%0A%3Cstyle%3E%0A%09%2F*%20info%20(hed%2C%20dek%2C%20source%2C%20credit)%20*%2F%0A.rg-container%20%7B%0A%20%20font-family%3A%20%27Lato%27%2C%20Helvetica%2C%20Arial%2C%20sans-serif%3B%0A%20%20font-size%3A%2016px%3B%0A%20%20line-height%3A%201.4%3B%0A%20%20margin%3A%200%3B%0A%20%20padding%3A%201em%200.5em%3B%0A%20%20color%3A%20%23222%3B%0A%7D%0A.rg-header%20%7B%0A%20%20margin-bottom%3A%201em%3B%0A%20%20text-align%3A%20left%3B%0A%7D%0A%0A.rg-header%20%3E%20*%20%7B%0A%20%20display%3A%20block%3B%0A%7D%0A.rg-hed%20%7B%0A%20%20font-weight%3A%20bold%3B%0A%20%20font-size%3A%201.4em%3B%0A%7D%0A.rg-dek%20%7B%0A%20%20font-size%3A%201em%3B%0A%7D%0A%0A.rg-source%20%7B%0A%20%20margin%3A%200%3B%0A%20%20font-size%3A%200.75em%3B%0A%20%20text-align%3A%20right%3B%0A%7D%0A.rg-source%20.pre-colon%20%7B%0A%20%20text-transform%3A%20uppercase%3B%0A%7D%0A%0A.rg-source%20.post-colon%20%7B%0A%20%20font-weight%3A%20bold%3B%0A%7D%0A%0A%2F*%20table%20*%2F%0Atable.rg-table%20%7B%0A%20%20width%3A%20100%25%3B%0A%20%20margin-bottom%3A%200.5em%3B%0A%20%20font-size%3A%201em%3B%0A%20%20border-collapse%3A%20collapse%3B%0A%20%20border-spacing%3A%200%3B%0A%7D%0Atable.rg-table%20tr%20%7B%0A%20%20-moz-box-sizing%3A%20border-box%3B%0A%20%20box-sizing%3A%20border-box%3B%0A%20%20margin%3A%200%3B%0A%20%20padding%3A%200%3B%0A%20%20border%3A%200%3B%0A%20%20font-size%3A%20100%25%3B%0A%20%20font%3A%20inherit%3B%0A%20%20vertical-align%3A%20baseline%3B%0A%20%20text-align%3A%20left%3B%0A%20%20color%3A%20%23333%3B%0A%7D%0Atable.rg-table%20thead%20%7B%0A%20%20border-bottom%3A%203px%20solid%20%23ddd%3B%0A%7D%0Atable.rg-table%20tr%20%7B%0A%20%20border-bottom%3A%201px%20solid%20%23ddd%3B%0A%20%20color%3A%20%23222%3B%0A%7D%0Atable.rg-table%20tr.highlight%20%7B%0A%20%20background-color%3A%20%23dcf1f0%20!important%3B%0A%7D%0Atable.rg-table.zebra%20tr%3Anth-child(even)%20%7B%0A%20%20background-color%3A%20%23f6f6f6%3B%0A%7D%0Atable.rg-table%20th%20%7B%0A%20%20font-weight%3A%20bold%3B%0A%20%20padding%3A%200.35em%3B%0A%20%20font-size%3A%200.9em%3B%0A%7D%0Atable.rg-table%20td%20%7B%0A%20%20padding%3A%200.35em%3B%0A%20%20font-size%3A%200.9em%3B%0A%7D%0Atable.rg-table%20.highlight%20td%20%7B%0A%20%20font-weight%3A%20bold%3B%0A%7D%0Atable.rg-table%20th.number%2C%0Atd.number%20%7B%0A%20%20text-align%3A%20right%3B%0A%7D%0A%0A%2F*%20media%20queries%20*%2F%0A%40media%20screen%20and%20(max-width%3A%20401px)%20%7B%0A%20%20.rg-container%20%7B%0A%20%20%20%20max-width%3A%20401px%3B%0A%20%20%20%20margin%3A%200%20auto%3B%0A%20%20%7D%0A%20%20table.rg-table%20%7B%0A%20%20%20%20width%3A%20100%25%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr.hide-mobile%2C%0A%20%20table.rg-table%20th.hide-mobile%2C%0A%20%20table.rg-table%20td.hide-mobile%20%7B%0A%20%20%20%20display%3A%20none%3B%0A%20%20%7D%0A%20%20table.rg-table%20thead%20%7B%0A%20%20%20%20display%3A%20none%3B%0A%20%20%7D%0A%20%20table.rg-table%20tbody%20%7B%0A%20%20%20%20width%3A%20100%25%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr%2C%0A%20%20table.rg-table%20th%2C%0A%20%20table.rg-table%20td%20%7B%0A%20%20%20%20display%3A%20block%3B%0A%20%20%20%20padding%3A%200%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr%20%7B%0A%20%20%20%20border-bottom%3A%20none%3B%0A%20%20%20%20margin%3A%200%200%201em%200%3B%0A%20%20%20%20padding%3A%200.5em%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr.highlight%20%7B%0A%20%20%20%20background-color%3A%20inherit%20!important%3B%0A%20%20%7D%0A%20%20table.rg-table.zebra%20tr%3Anth-child(even)%20%7B%0A%20%20%20%20background-color%3A%20transparent%3B%0A%20%20%7D%0A%20%20table.rg-table.zebra%20td%3Anth-child(even)%20%7B%0A%20%20%20%20background-color%3A%20%23f6f6f6%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr%3Anth-child(even)%20%7B%0A%20%20%20%20background-color%3A%20transparent%3B%0A%20%20%7D%0A%20%20table.rg-table%20td%20%7B%0A%20%20%20%20padding%3A%200.5em%200%200.25em%200%3B%0A%20%20%20%20border-bottom%3A%201px%20dotted%20%23ccc%3B%0A%20%20%20%20text-align%3A%20right%3B%0A%20%20%7D%0A%20%20table.rg-table%20td%5Bdata-title%5D%3Abefore%20%7B%0A%20%20%20%20content%3A%20attr(data-title)%3B%0A%20%20%20%20font-weight%3A%20bold%3B%0A%20%20%20%20display%3A%20inline-block%3B%0A%20%20%20%20content%3A%20attr(data-title)%3B%0A%20%20%20%20float%3A%20left%3B%0A%20%20%20%20margin-right%3A%200.5em%3B%0A%20%20%20%20font-size%3A%200.95em%3B%0A%20%20%7D%0A%20%20table.rg-table%20td%3Alast-child%20%7B%0A%20%20%20%20padding-right%3A%200%3B%0A%20%20%20%20border-bottom%3A%202px%20solid%20%23ccc%3B%0A%20%20%7D%0A%20%20table.rg-table%20td%3Aempty%20%7B%0A%20%20%20%20display%3A%20none%3B%0A%20%20%7D%0A%20%20table.rg-table%20.highlight%20td%20%7B%0A%20%20%20%20background-color%3A%20inherit%3B%0A%20%20%20%20font-weight%3A%20normal%3B%0A%20%20%7D%0A%7D%0A%0A%3C%2Fstyle%3E%0A%3Cdiv%20class%3D%27rg-container%27%3E%0A%09%3Ctable%20class%3D%27rg-table%27%20summary%3D%27Best%20Treadmill%20Price%20List%20In%20Bangladesh%20(2022)%27%3E%0A%09%09%3Ccaption%20class%3D%27rg-header%27%3E%0A%09%09%09%3Cspan%20class%3D%27rg-hed%27%3EBest%20Treadmill%20Price%20List%20In%20Bangladesh%20(2022)%3C%2Fspan%3E%0A%09%09%09%3Cspan%20class%3D%27rg-dek%27%3ELowest%20Treadmill%20price%20in%20Bangladesh%20starts%20from%2027%2C500%20BDT.%20Whereas%20the%20highest%20price%20of%20Treadmill%20is%20126%2C500%20Taka%20(Bangladeshi)%20at%20Daraz.com.bd%3C%2Fspan%3E%0A%09%09%3C%2Fcaption%3E%0A%09%09%3Cthead%3E%0A%09%09%09%3Ctr%3E%0A%09%09%09%09%3Cth%20class%3D%27text%20%27%3EBest%20Treadmills%20List%20(2022)%3C%2Fth%3E%0A%09%09%09%09%3Cth%20class%3D%27text%20%27%3EPrice%20in%20Bangladesh%3C%2Fth%3E%0A%09%09%09%3C%2Ftr%3E%0A%09%09%3C%2Fthead%3E%0A%09%09%3Ctbody%3E%0A%09%09%09%0A%09%09%09%09%3Ctr%20class%3D%27%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Best%20Treadmills%20List%20(2022)%27%3EBody%20Fitness%20Manual%20Treadmill%206%20Way%20-%20Black%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3E%E0%A7%B3%2015%2C890%20BDT%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%0A%09%09%09%09%3Ctr%20class%3D%27%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Best%20Treadmills%20List%20(2022)%27%3EOma%205100CB%20Motorized%20Treadmill%20-%201.5%20HP%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3E%E0%A7%B3%2019%2C500%20BDT%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%0A%09%09%09%09%3Ctr%20class%3D%27%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Best%20Treadmills%20List%20(2022)%27%3ERN-5102%20EB%20Motorized%20Treadmill%20-%202.25%20HP%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3E%E0%A7%B3%2029%2C500%20BDT%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%0A%09%09%09%09%3Ctr%20class%3D%27%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Best%20Treadmills%20List%20(2022)%27%3EYajian%20DK-40AA%20Motorized%20Treadmill%20-%202.0%20HP%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3E%E0%A7%B3%2029%2C100%20BDT%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%0A%09%09%09%09%3Ctr%20class%3D%27%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Best%20Treadmills%20List%20(2022)%27%3EOma%205710CA%20Motorized%20Treadmill%20-%203.0%20HP%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3E%E0%A7%B3%2045%2C000%20BDT%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%0A%09%09%09%09%3Ctr%20class%3D%27hide-mobile%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Best%20Treadmills%20List%20(2022)%27%3EEvertop%20ELIFE%206709B%20Motorized%20Treadmill%20-%203.0%20HP%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3E%E0%A7%B3%2048%2C500%20BDT%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%09%09%3C%2Ftbody%3E%0A%09%3C%2Ftable%3E%0A%3C%2Fdiv%3E%0A%0A%3Cp%3EBy%20using%20treadmills%20for%20workout%2C%20you%20can%20manage%20different%20workout%20programs%20like%20weight%20loss%2C%20improve%20cardiovascular%20health%20and%20improve%20muscle%20tone.%20You%20can%20even%20watch%20%3Ca%20href%3D%22%2Ftelevisions%2F%22%3Etelevision%3C%2Fa%3E%20during%20workout%20or%20gear%20yourself%20with%20a%20%3Ca%20href%3D%22%2Fsports-watches%2F%22%3Esports%20watch%3C%2Fa%3E%20to%20track%20and%20monitor%20your%20overall%20health%20and%20workout%20program.%20So%20what%20are%20you%20waiting%20for%3F%20Order%20treadmills%20online%20from%20daraz%20and%20we%27ll%20deliver%20your%20treadmill%20in%20dhaka%2C%20Khulna%20and%20countrywide%20with%20free%20shipping%20options.%20If%20you%27re%20worried%20about%20elevated%20prices%2C%20then%20daraz%20has%20got%20best%20discounts%20on%20walking%20machine%20price%20in%20bangladesh%20with%20brand%20warranties%20to%20provide%20you%20hassle-free%20workouts%20for%20years.%20Stay%20tuned%20for%20%3Ca%20href%3D%22%2Ffatafati-friday%2F%22%3Efatafati%20friday%20discount%3C%2Fa%3E%20on%20treadmills%20at%20daraz%20bd.%3C%2Fp%3E%3Cbr%3E%0A%0A%3Ccenter%3E%3Cstrong%3EBest%20Treadmill%20Brands%20In%20Bangladesh%3C%2Fstrong%3E%3Cbr%3E%0A%3Ca%20href%3D%22%2Ftreadmills%2Fbh-fitness%2F%22%3EBh%20Fitness%20Treadmills%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Ftreadmills%2Fbody-fitness%2F%22%3EBody%20Fitness%20Treadmills%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Ftreadmills%2Fdaily-youth%2F%22%3EDaily%20Youth%20Treadmills%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Ftreadmills%2Fevertop%2F%22%3EEvertop%20Treadmills%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Ftreadmills%2Fjada%2F%22%3EJada%20Treadmills%3C%2Fa%3E%20%3Cbr%3E%20%3Ca%20href%3D%22%2Ftreadmills%2Fjkexer%2F%22%3EJkexer%20Treadmills%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Ftreadmills%2Fkonlega%2F%22%3EKonlega%20Treadmills%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Ftreadmills%2Fkpower%2F%22%3EKpower%20Treadmills%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Ftreadmills%2Fnautilus%2F%22%3ENautilus%20Treadmills%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Ftreadmills%2Foma-fitness%2F%22%3EOma%20Fitness%20Treadmills%3C%2Fa%3E%20%3Cbr%3E%20%3Ca%20href%3D%22%2Ftreadmills%2Freebok%2F%22%3EReebok%20Treadmills%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Ftreadmills%2Fspirit-fitness%2F%22%3ESpirit%20Fitness%20Treadmills%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Ftreadmills%2Fstingray%2F%22%3EStingray%20Treadmills%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Ftreadmills%2Ftelemax%2F%22%3ETelemax%20Treadmills%3C%2Fa%3E%3C%2Fcenter%3E"
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "1132 items found in {$0}",
+        "title": "Treadmills",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Treadmills"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Treadmills",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "1132",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "a9fba61290107836a1924c3676c8d6b0",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "1992",
+            "category": "1992"
+        },
+        "categoryRegionalKey": "110103050000",
+        "mainCategoryRegionalKey": "110000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Treadmills Online - Best Treadmill Price In Bangladesh 2022 - Daraz.com.bd",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Sports & Outdoors,Exercise & Fitness,Cardio Equipment,Treadmills",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "110103050000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=1992&_p_asc_cateid=1992",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "treadmills",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "a9fba61290107836a1924c3676c8d6b0",
+                "resultNr": 1132,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1048470967",
+                "1103092889",
+                "1068566642"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "1992",
+            "category": "1992"
+        }
+    }
+}

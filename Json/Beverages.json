@@ -1,0 +1,4239 @@
+{
+    "listItems": [
+        {
+            "name": "Tata Tea Premium Leaf - 400gm with 400gm Sugar free",
+            "nid": "132388304",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132388304",
+                "scene_pre": "search",
+                "current_price": "165.00",
+                "x_sku_ids": "1053350612",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "132388304"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tata-tea-premium-leaf-400gm-with-400gm-sugar-free-i132388304-s1053350612.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/df33e6af70394b8b69eefd0ac8ff3fa7.jpg",
+            "originalPrice": "210.00",
+            "originalPriceShow": "৳ 210",
+            "price": "165.00",
+            "promotionId": "null",
+            "priceShow": "৳ 165",
+            "discount": "-21%",
+            "ratingScore": "4.78969",
+            "review": "485",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132388304_BD-1053350612",
+            "sku": "132388304_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Tea Premium Leaf",
+                "Enjoy the perfect balance of large tea grains that make your tea tasty and small tea grains that make your tea strong",
+                "Crafted with over 30 years of Tata Tea's expertise",
+                "Healthy Product",
+                "100% halal product",
+                "Product Weight: 400gm"
+            ],
+            "brandId": "22328",
+            "brandName": "Tata",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/df33e6af70394b8b69eefd0ac8ff3fa7.jpg",
+                    "productUrl": "/products/tata-tea-premium-leaf-400gm-with-400gm-sugar-free-i132388304-s1053350612.html",
+                    "sku": "132388304_BD",
+                    "skuId": "1053350612"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7241
+            ],
+            "clickTrace": "query:;nid:132388304;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:132388304_BD;price:165.00;client:desktop;supplier_id:1000000;asc_category_id:7241;item_id:132388304;sku_id:1053350612;shop_id:7564",
+            "addToCartSkus": [
+                {
+                    "sku": "132388304_BD-1053350612",
+                    "skuId": "1053350612",
+                    "count": 0
+                }
+            ],
+            "itemId": "132388304",
+            "skuId": "1053350612",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "ENO Lemon Flavour Full Box 30pcs",
+            "nid": "210815974",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "210815974",
+                "scene_pre": "search",
+                "current_price": "146",
+                "x_sku_ids": "1160711889",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "210815974"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i210815974-s1160711889.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8ee6e035567e5d7a2c8bbcb5f3835acf.png",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "146",
+            "promotionId": "null",
+            "priceShow": "৳ 146",
+            "discount": "-51%",
+            "ratingScore": "4.43478",
+            "review": "23",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "210815974_BD-1160711889",
+            "sku": "210815974_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "26791",
+            "brandName": "ENO",
+            "sellerId": "700508925152",
+            "mainSellerId": "",
+            "sellerName": "Samiun Enterprise BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8ee6e035567e5d7a2c8bbcb5f3835acf.png",
+                    "productUrl": "/products/-i210815974-s1160711889.html",
+                    "sku": "210815974_BD",
+                    "skuId": "1160711889"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7244
+            ],
+            "clickTrace": "query:;nid:210815974;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:210815974_BD;price:146;client:desktop;supplier_id:700508925152;asc_category_id:7244;item_id:210815974;sku_id:1160711889;shop_id:202300",
+            "addToCartSkus": [
+                {
+                    "sku": "210815974_BD-1160711889",
+                    "skuId": "1160711889",
+                    "count": 0
+                }
+            ],
+            "itemId": "210815974",
+            "skuId": "1160711889",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "RKD Tea (Premium Gold) -500GM",
+            "nid": "165670217",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "165670217",
+                "scene_pre": "search",
+                "current_price": "148",
+                "x_sku_ids": "1099130964",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "165670217"
+            },
+            "productUrl": "//www.daraz.com.bd/products/rkd-500-i165670217-s1099130964.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b38b7fa27f240b22183ffeb9c93f0698.jpg",
+            "originalPrice": "230.00",
+            "originalPriceShow": "৳ 230",
+            "price": "148",
+            "promotionId": "null",
+            "priceShow": "৳ 148",
+            "discount": "-36%",
+            "ratingScore": "4.72973",
+            "review": "37",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "165670217_BD-1099130964",
+            "sku": "165670217_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123454410",
+            "brandName": "RKD Tea",
+            "sellerId": "700507413007",
+            "mainSellerId": "",
+            "sellerName": "RKD Tea(CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b38b7fa27f240b22183ffeb9c93f0698.jpg",
+                    "productUrl": "/products/rkd-500-i165670217-s1099130964.html",
+                    "sku": "165670217_BD",
+                    "skuId": "1099130964"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7241
+            ],
+            "clickTrace": "query:;nid:165670217;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:165670217_BD;price:148;client:desktop;supplier_id:700507413007;asc_category_id:7241;item_id:165670217;sku_id:1099130964;shop_id:90774",
+            "addToCartSkus": [
+                {
+                    "sku": "165670217_BD-1099130964",
+                    "skuId": "1099130964",
+                    "count": 0
+                }
+            ],
+            "itemId": "165670217",
+            "skuId": "1099130964",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "TORA BIKA Cappucino (25 gm) Combo of 6 Pack",
+            "nid": "132250092",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132250092",
+                "scene_pre": "search",
+                "current_price": "125",
+                "x_sku_ids": "1053094429",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "132250092"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tora-bika-cappucino-25-gm-combo-of-6-pack-i132250092-s1053094429.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1034ab65e68425f8aa0a28983c0a3d5f.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "125",
+            "promotionId": "null",
+            "priceShow": "৳ 125",
+            "discount": "-17%",
+            "ratingScore": "4.71429",
+            "review": "273",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132250092_BD-1053094429",
+            "sku": "132250092_BD",
+            "skus": [],
+            "description": [
+                "Product type: Instant Cappuccino",
+                "Brand: Tora Bika",
+                "Weight: 6 x 25gm",
+                "Delicious taste",
+                "All time favorite for any occasion",
+                "Country of origin: Indonesia"
+            ],
+            "brandId": "194197",
+            "brandName": "Tora Bika",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1034ab65e68425f8aa0a28983c0a3d5f.jpg",
+                    "productUrl": "/products/tora-bika-cappucino-25-gm-combo-of-6-pack-i132250092-s1053094429.html",
+                    "sku": "132250092_BD",
+                    "skuId": "1053094429"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7240
+            ],
+            "clickTrace": "query:;nid:132250092;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:132250092_BD;price:125;client:desktop;supplier_id:1000000;asc_category_id:7240;item_id:132250092;sku_id:1053094429;shop_id:106210",
+            "addToCartSkus": [
+                {
+                    "sku": "132250092_BD-1053094429",
+                    "skuId": "1053094429",
+                    "count": 0
+                }
+            ],
+            "itemId": "132250092",
+            "skuId": "1053094429",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Aaram Apple 100% Fruit Juice-1 Ltr",
+            "nid": "235805185",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "235805185",
+                "scene_pre": "search",
+                "current_price": "188",
+                "x_sku_ids": "1179109425",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "235805185"
+            },
+            "productUrl": "//www.daraz.com.bd/products/aaram-apple-100-fruit-juice-1-ltr-i235805185-s1179109425.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5aef8c6669ab442d9c966dd863f56104.jpg",
+            "originalPrice": "330.00",
+            "originalPriceShow": "৳ 330",
+            "price": "188",
+            "promotionId": "null",
+            "priceShow": "৳ 188",
+            "discount": "-43%",
+            "ratingScore": "4.66667",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "235805185_BD-1179109425",
+            "sku": "235805185_BD",
+            "skus": [],
+            "description": [
+                "Product type: Apple Juice",
+                "Capacity: 1 L",
+                "Brand: Aaram",
+                "Sugar Free",
+                "100% Fruit Juice"
+            ],
+            "brandId": "123230254",
+            "brandName": "Aaram",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5aef8c6669ab442d9c966dd863f56104.jpg",
+                    "productUrl": "/products/aaram-apple-100-fruit-juice-1-ltr-i235805185-s1179109425.html",
+                    "sku": "235805185_BD",
+                    "skuId": "1179109425"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                10002160,
+                10002484
+            ],
+            "clickTrace": "query:;nid:235805185;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:235805185_BD;price:188;client:desktop;supplier_id:1000000;asc_category_id:10002484;item_id:235805185;sku_id:1179109425;shop_id:7555",
+            "addToCartSkus": [
+                {
+                    "sku": "235805185_BD-1179109425",
+                    "skuId": "1179109425",
+                    "count": 0
+                }
+            ],
+            "itemId": "235805185",
+            "skuId": "1179109425",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Rkd Tea (Classic) -500Gm",
+            "nid": "165668753",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "165668753",
+                "scene_pre": "search",
+                "current_price": "123",
+                "x_sku_ids": "1099144373",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "165668753"
+            },
+            "productUrl": "//www.daraz.com.bd/products/rkd-tea-classic-500gm-i165668753-s1099144373.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6d6bd90c464a2608015395cdb9d44f80.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "123",
+            "promotionId": "null",
+            "priceShow": "৳ 123",
+            "discount": "-39%",
+            "ratingScore": "4.67939",
+            "review": "131",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "165668753_BD-1099144373",
+            "sku": "165668753_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507413007",
+            "mainSellerId": "",
+            "sellerName": "RKD Tea(CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6d6bd90c464a2608015395cdb9d44f80.jpg",
+                    "productUrl": "/products/rkd-tea-classic-500gm-i165668753-s1099144373.html",
+                    "sku": "165668753_BD",
+                    "skuId": "1099144373"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7241
+            ],
+            "clickTrace": "query:;nid:165668753;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:165668753_BD;price:123;client:desktop;supplier_id:700507413007;asc_category_id:7241;item_id:165668753;sku_id:1099144373;shop_id:90774",
+            "addToCartSkus": [
+                {
+                    "sku": "165668753_BD-1099144373",
+                    "skuId": "1099144373",
+                    "count": 0
+                }
+            ],
+            "itemId": "165668753",
+            "skuId": "1099144373",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "TORA BIKA Cappuccino (25 gm) Combo of 4 Pack",
+            "nid": "118378447",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "118378447",
+                "scene_pre": "search",
+                "current_price": "84.00",
+                "x_sku_ids": "1037686655",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "118378447"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tora-bika-cappuccino-25-gm-combo-of-4-pack-i118378447-s1037686655.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7ad8982ce9612a3cd3961455796ae9dd.jpg",
+            "originalPrice": "100.00",
+            "originalPriceShow": "৳ 100",
+            "price": "84.00",
+            "promotionId": "null",
+            "priceShow": "৳ 84",
+            "discount": "-16%",
+            "ratingScore": "4.73737",
+            "review": "198",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "118378447_BD-1037686655",
+            "sku": "118378447_BD",
+            "skus": [],
+            "description": [
+                "Product type: Cappuccino Hanger",
+                "Brand: Tora Bika",
+                "Weight:4 x 25gm",
+                "Delicious taste",
+                "All time favorite for any occasion",
+                "Country of origin: Indonesia"
+            ],
+            "brandId": "194197",
+            "brandName": "Tora Bika",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7ad8982ce9612a3cd3961455796ae9dd.jpg",
+                    "productUrl": "/products/tora-bika-cappuccino-25-gm-combo-of-4-pack-i118378447-s1037686655.html",
+                    "sku": "118378447_BD",
+                    "skuId": "1037686655"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7240
+            ],
+            "clickTrace": "query:;nid:118378447;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:118378447_BD;price:84.00;client:desktop;supplier_id:1000000;asc_category_id:7240;item_id:118378447;sku_id:1037686655;shop_id:106210",
+            "addToCartSkus": [
+                {
+                    "sku": "118378447_BD-1037686655",
+                    "skuId": "1037686655",
+                    "count": 0
+                }
+            ],
+            "itemId": "118378447",
+            "skuId": "1037686655",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Vivi_Juice_for_Slimming_and_Whitening-",
+            "nid": "226020140",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226020140",
+                "scene_pre": "search",
+                "current_price": "345",
+                "x_sku_ids": "1170802561",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "226020140"
+            },
+            "productUrl": "//www.daraz.com.bd/products/vivi-i226020140-s1170802561.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b3d85657449ec71f243227f252f56fc7.jpg",
+            "originalPrice": "850.00",
+            "originalPriceShow": "৳ 850",
+            "price": "345",
+            "promotionId": "null",
+            "priceShow": "৳ 345",
+            "discount": "-59%",
+            "ratingScore": "4.75",
+            "review": "8",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226020140_BD-1170802561",
+            "sku": "226020140_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507782064",
+            "mainSellerId": "",
+            "sellerName": "Just Click Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b3d85657449ec71f243227f252f56fc7.jpg",
+                    "productUrl": "/products/vivi-i226020140-s1170802561.html",
+                    "sku": "226020140_BD",
+                    "skuId": "1170802561"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                10002160,
+                10002484
+            ],
+            "clickTrace": "query:;nid:226020140;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:226020140_BD;price:345;client:desktop;supplier_id:700507782064;asc_category_id:10002484;item_id:226020140;sku_id:1170802561;shop_id:109786",
+            "addToCartSkus": [
+                {
+                    "sku": "226020140_BD-1170802561",
+                    "skuId": "1170802561",
+                    "count": 0
+                }
+            ],
+            "itemId": "226020140",
+            "skuId": "1170802561",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "TORA BIKA Cappucino (25 gm) Combo of 10 Pack",
+            "nid": "132244143",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132244143",
+                "scene_pre": "search",
+                "current_price": "209",
+                "x_sku_ids": "1053084732",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "132244143"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tora-bika-cappucino-25-gm-combo-of-10-pack-i132244143-s1053084732.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/99c119358ab3b5db5885ba6209bca87f.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "209",
+            "promotionId": "null",
+            "priceShow": "৳ 209",
+            "discount": "-16%",
+            "ratingScore": "4.81622",
+            "review": "370",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132244143_BD-1053084732",
+            "sku": "132244143_BD",
+            "skus": [],
+            "description": [
+                "Product type: Cappuccino Candy Hanger",
+                "Brand: Tora Bika",
+                "Weight:10 x 25gm",
+                "Delicious taste",
+                "All time favorite for any occasion",
+                "Country of origin: Indonesia"
+            ],
+            "brandId": "194197",
+            "brandName": "Tora Bika",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/99c119358ab3b5db5885ba6209bca87f.jpg",
+                    "productUrl": "/products/tora-bika-cappucino-25-gm-combo-of-10-pack-i132244143-s1053084732.html",
+                    "sku": "132244143_BD",
+                    "skuId": "1053084732"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7240
+            ],
+            "clickTrace": "query:;nid:132244143;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:132244143_BD;price:209;client:desktop;supplier_id:1000000;asc_category_id:7240;item_id:132244143;sku_id:1053084732;shop_id:106210",
+            "addToCartSkus": [
+                {
+                    "sku": "132244143_BD-1053084732",
+                    "skuId": "1053084732",
+                    "count": 0
+                }
+            ],
+            "itemId": "132244143",
+            "skuId": "1053084732",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Lipton Green Tea Bag Honey and Lemon 50pc",
+            "nid": "117888419",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "117888419",
+                "scene_pre": "search",
+                "current_price": "215",
+                "x_sku_ids": "1037202872",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "117888419"
+            },
+            "productUrl": "//www.daraz.com.bd/products/lipton-green-tea-bag-honey-and-lemon-50pc-i117888419-s1037202872.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9097d660876c280fa3fda35be0b78ba3.jpg",
+            "originalPrice": "260.00",
+            "originalPriceShow": "৳ 260",
+            "price": "215",
+            "promotionId": "null",
+            "priceShow": "৳ 215",
+            "discount": "-17%",
+            "ratingScore": "4.85083",
+            "review": "181",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "117888419_BD-1037202872",
+            "sku": "117888419_BD",
+            "skus": [],
+            "description": [
+                "Brand: Lipton",
+                "Product Type: GreenTea Bag",
+                "50Pieces in the box",
+                "Honey and Lemonflavor",
+                "Healthy for all"
+            ],
+            "brandId": "70063",
+            "brandName": "Lipton",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9097d660876c280fa3fda35be0b78ba3.jpg",
+                    "productUrl": "/products/lipton-green-tea-bag-honey-and-lemon-50pc-i117888419-s1037202872.html",
+                    "sku": "117888419_BD",
+                    "skuId": "1037202872"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7241
+            ],
+            "clickTrace": "query:;nid:117888419;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:117888419_BD;price:215;client:desktop;supplier_id:1000000;asc_category_id:7241;item_id:117888419;sku_id:1037202872;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "117888419_BD-1037202872",
+                    "skuId": "1037202872",
+                    "count": 0
+                }
+            ],
+            "itemId": "117888419",
+            "skuId": "1037202872",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Horlicks Health and Nutrition Drink Jar 500g",
+            "nid": "168616580",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168616580",
+                "scene_pre": "search",
+                "current_price": "340",
+                "x_sku_ids": "1102770494",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "168616580"
+            },
+            "productUrl": "//www.daraz.com.bd/products/horlicks-health-and-nutrition-drink-jar-500g-i168616580-s1102770494.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d3d4bd5e3a84e79aa801ddb6e68bec19.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "340",
+            "promotionId": "null",
+            "priceShow": "৳ 340",
+            "discount": "-3%",
+            "ratingScore": "4.86792",
+            "review": "53",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168616580_BD-1102770494",
+            "sku": "168616580_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Health Food Drinks",
+                "Capacity: 500gm",
+                "Good Quality Product",
+                "Flavor: Classic Malt"
+            ],
+            "brandId": "85732",
+            "brandName": "Horlicks",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d3d4bd5e3a84e79aa801ddb6e68bec19.jpg",
+                    "productUrl": "/products/horlicks-health-and-nutrition-drink-jar-500g-i168616580-s1102770494.html",
+                    "sku": "168616580_BD",
+                    "skuId": "1102770494"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7242
+            ],
+            "clickTrace": "query:;nid:168616580;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:168616580_BD;price:340;client:desktop;supplier_id:1000000;asc_category_id:7242;item_id:168616580;sku_id:1102770494;shop_id:5976",
+            "addToCartSkus": [
+                {
+                    "sku": "168616580_BD-1102770494",
+                    "skuId": "1102770494",
+                    "count": 0
+                }
+            ],
+            "itemId": "168616580",
+            "skuId": "1102770494",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Max Curve Slimming Coffee 150gm (10 Sachets/ Packs)",
+            "nid": "200027192",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "200027192",
+                "scene_pre": "search",
+                "current_price": "370",
+                "x_sku_ids": "1147234040",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "200027192"
+            },
+            "productUrl": "//www.daraz.com.bd/products/max-150-10-i200027192-s1147234040.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/dc1f07667a2b4b613b7d569be36816ad.jpg",
+            "originalPrice": "950.00",
+            "originalPriceShow": "৳ 950",
+            "price": "370",
+            "promotionId": "null",
+            "priceShow": "৳ 370",
+            "discount": "-61%",
+            "ratingScore": "4.9",
+            "review": "10",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "200027192_BD-1147234040",
+            "sku": "200027192_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507782064",
+            "mainSellerId": "",
+            "sellerName": "Just Click Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/dc1f07667a2b4b613b7d569be36816ad.jpg",
+                    "productUrl": "/products/max-150-10-i200027192-s1147234040.html",
+                    "sku": "200027192_BD",
+                    "skuId": "1147234040"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7240
+            ],
+            "clickTrace": "query:;nid:200027192;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:200027192_BD;price:370;client:desktop;supplier_id:700507782064;asc_category_id:7240;item_id:200027192;sku_id:1147234040;shop_id:109786",
+            "addToCartSkus": [
+                {
+                    "sku": "200027192_BD-1147234040",
+                    "skuId": "1147234040",
+                    "count": 0
+                }
+            ],
+            "itemId": "200027192",
+            "skuId": "1147234040",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Brooke Bond Taaza Black Tea 400g",
+            "nid": "187513784",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "187513784",
+                "scene_pre": "search",
+                "current_price": "183",
+                "x_sku_ids": "1134454415",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "187513784"
+            },
+            "productUrl": "//www.daraz.com.bd/products/brooke-bond-taaza-black-tea-400g-i187513784-s1134454415.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fb7ceaa232dc8b213cc832ba98f2c407.jpg",
+            "originalPrice": "199.00",
+            "originalPriceShow": "৳ 199",
+            "price": "183",
+            "promotionId": "null",
+            "priceShow": "৳ 183",
+            "discount": "-8%",
+            "ratingScore": "4.76744",
+            "review": "43",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "187513784_BD-1134454415",
+            "sku": "187513784_BD",
+            "skus": [],
+            "description": [
+                "Taaza has high quality fresh leaves packed with the natural goodness of theanine",
+                "Theanine is one of the best known sources of refreshment that clears your mind instantly",
+                "Promise of premium quality and freshness",
+                "Blended by world-class tea tasters and experts resulting in the exceptional colour, superior taste and impeccable aroma",
+                "Brings in the world famous tea blending expertise and heritage of the Brooke Bond House"
+            ],
+            "brandId": "125011",
+            "brandName": "BROOKE BOND",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fb7ceaa232dc8b213cc832ba98f2c407.jpg",
+                    "productUrl": "/products/brooke-bond-taaza-black-tea-400g-i187513784-s1134454415.html",
+                    "sku": "187513784_BD",
+                    "skuId": "1134454415"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7241
+            ],
+            "clickTrace": "query:;nid:187513784;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:187513784_BD;price:183;client:desktop;supplier_id:1000000;asc_category_id:7241;item_id:187513784;sku_id:1134454415;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "187513784_BD-1134454415",
+                    "skuId": "1134454415",
+                    "count": 0
+                }
+            ],
+            "itemId": "187513784",
+            "skuId": "1134454415",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Royal Café Instant Milk Tea Stick Pack - 15 gm (Combo of 12 Pcs)",
+            "nid": "177186881",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "177186881",
+                "scene_pre": "search",
+                "current_price": "80",
+                "x_sku_ids": "1117110961",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "177186881"
+            },
+            "productUrl": "//www.daraz.com.bd/products/royal-cafe-instant-milk-tea-stick-pack-15-gm-combo-of-12-pcs-i177186881-s1117110961.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/ccc93af3314f49f8ea7b51846c63f944.jpg",
+            "originalPrice": "84.00",
+            "originalPriceShow": "৳ 84",
+            "price": "80",
+            "promotionId": "null",
+            "priceShow": "৳ 80",
+            "discount": "-5%",
+            "ratingScore": "4.53394",
+            "review": "221",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "177186881_BD-1117110961",
+            "sku": "177186881_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506393113",
+            "mainSellerId": "",
+            "sellerName": "Prayas International Ltd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/ccc93af3314f49f8ea7b51846c63f944.jpg",
+                    "productUrl": "/products/royal-cafe-instant-milk-tea-stick-pack-15-gm-combo-of-12-pcs-i177186881-s1117110961.html",
+                    "sku": "177186881_BD",
+                    "skuId": "1117110961"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7241
+            ],
+            "clickTrace": "query:;nid:177186881;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:177186881_BD;price:80;client:desktop;supplier_id:700506393113;asc_category_id:7241;item_id:177186881;sku_id:1117110961;shop_id:74582",
+            "addToCartSkus": [
+                {
+                    "sku": "177186881_BD-1117110961",
+                    "skuId": "1117110961",
+                    "count": 0
+                }
+            ],
+            "itemId": "177186881",
+            "skuId": "1117110961",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Brooke Bond Taaza Black Tea 200g",
+            "nid": "101532358",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101532358",
+                "scene_pre": "search",
+                "current_price": "92",
+                "x_sku_ids": "1015524375",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "101532358"
+            },
+            "productUrl": "//www.daraz.com.bd/products/brooke-bond-taaza-black-tea-200g-i101532358-s1015524375.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/648be3ba10f355a0593bc6e24d22cfe5.jpg",
+            "originalPrice": "100.00",
+            "originalPriceShow": "৳ 100",
+            "price": "92",
+            "promotionId": "null",
+            "priceShow": "৳ 92",
+            "discount": "-8%",
+            "ratingScore": "4.81853",
+            "review": "259",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101532358_BD-1015524375",
+            "sku": "101532358_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Brooke Bond Taaza Black Tea ",
+                "Brand: Brooke",
+                "Capacity: 200g"
+            ],
+            "brandId": "125011",
+            "brandName": "BROOKE BOND",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/648be3ba10f355a0593bc6e24d22cfe5.jpg",
+                    "productUrl": "/products/brooke-bond-taaza-black-tea-200g-i101532358-s1015524375.html",
+                    "sku": "101532358_BD",
+                    "skuId": "1015524375"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7241
+            ],
+            "clickTrace": "query:;nid:101532358;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:101532358_BD;price:92;client:desktop;supplier_id:1000000;asc_category_id:7241;item_id:101532358;sku_id:1015524375;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "101532358_BD-1015524375",
+                    "skuId": "1015524375",
+                    "count": 0
+                }
+            ],
+            "itemId": "101532358",
+            "skuId": "1015524375",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Aaram Mango 100% Fruit Juice-1 Ltr",
+            "nid": "235805449",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "235805449",
+                "scene_pre": "search",
+                "current_price": "188",
+                "x_sku_ids": "1179121108",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "235805449"
+            },
+            "productUrl": "//www.daraz.com.bd/products/aaram-mango-100-fruit-juice-1-ltr-i235805449-s1179121108.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f0e3362cf4ea4fc03f29d8575bcdd76c.jpg",
+            "originalPrice": "330.00",
+            "originalPriceShow": "৳ 330",
+            "price": "188",
+            "promotionId": "null",
+            "priceShow": "৳ 188",
+            "discount": "-43%",
+            "ratingScore": "4.66667",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "235805449_BD-1179121108",
+            "sku": "235805449_BD",
+            "skus": [],
+            "description": [
+                "Product type: Mango Juice",
+                "Capacity: 1 Ltr",
+                "Brand: Aaram",
+                "Sugar Free",
+                "100% Fruit Juice"
+            ],
+            "brandId": "123230254",
+            "brandName": "Aaram",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f0e3362cf4ea4fc03f29d8575bcdd76c.jpg",
+                    "productUrl": "/products/aaram-mango-100-fruit-juice-1-ltr-i235805449-s1179121108.html",
+                    "sku": "235805449_BD",
+                    "skuId": "1179121108"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                10002160,
+                10002484
+            ],
+            "clickTrace": "query:;nid:235805449;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:235805449_BD;price:188;client:desktop;supplier_id:1000000;asc_category_id:10002484;item_id:235805449;sku_id:1179121108;shop_id:7555",
+            "addToCartSkus": [
+                {
+                    "sku": "235805449_BD-1179121108",
+                    "skuId": "1179121108",
+                    "count": 0
+                }
+            ],
+            "itemId": "235805449",
+            "skuId": "1179121108",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "ENO Lemon Flavour 5Pcs",
+            "nid": "209962087",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209962087",
+                "scene_pre": "search",
+                "current_price": "24",
+                "x_sku_ids": "1160163536",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "209962087"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i209962087-s1160163536.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4f12036f3cb0cf7d116e99e164921d99.jpg",
+            "originalPrice": "50.00",
+            "originalPriceShow": "৳ 50",
+            "price": "24",
+            "promotionId": "null",
+            "priceShow": "৳ 24",
+            "discount": "-52%",
+            "ratingScore": "4.44444",
+            "review": "36",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209962087_BD-1160163536",
+            "sku": "209962087_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "26791",
+            "brandName": "ENO",
+            "sellerId": "700508925152",
+            "mainSellerId": "",
+            "sellerName": "Samiun Enterprise BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4f12036f3cb0cf7d116e99e164921d99.jpg",
+                    "productUrl": "/products/-i209962087-s1160163536.html",
+                    "sku": "209962087_BD",
+                    "skuId": "1160163536"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7244
+            ],
+            "clickTrace": "query:;nid:209962087;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:209962087_BD;price:24;client:desktop;supplier_id:700508925152;asc_category_id:7244;item_id:209962087;sku_id:1160163536;shop_id:202300",
+            "addToCartSkus": [
+                {
+                    "sku": "209962087_BD-1160163536",
+                    "skuId": "1160163536",
+                    "count": 0
+                }
+            ],
+            "itemId": "209962087",
+            "skuId": "1160163536",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SYL TEA 20 gm (COMBO-10)",
+            "nid": "233813385",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233813385",
+                "scene_pre": "search",
+                "current_price": "120.00",
+                "x_sku_ids": "1176601503",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "233813385"
+            },
+            "productUrl": "//www.daraz.com.bd/products/syl-10-i233813385-s1176601503.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9cf681ba561e010134892e4837b5c297.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "120.00",
+            "promotionId": "null",
+            "priceShow": "৳ 120",
+            "discount": "-40%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233813385_BD-1176601503",
+            "sku": "233813385_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511487697",
+            "mainSellerId": "",
+            "sellerName": "Sami Traders",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9cf681ba561e010134892e4837b5c297.jpg",
+                    "productUrl": "/products/syl-10-i233813385-s1176601503.html",
+                    "sku": "233813385_BD",
+                    "skuId": "1176601503"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7241
+            ],
+            "clickTrace": "query:;nid:233813385;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:233813385_BD;price:120.00;client:desktop;supplier_id:700511487697;asc_category_id:7241;item_id:233813385;sku_id:1176601503;shop_id:236944",
+            "addToCartSkus": [
+                {
+                    "sku": "233813385_BD-1176601503",
+                    "skuId": "1176601503",
+                    "count": 0
+                }
+            ],
+            "itemId": "233813385",
+            "skuId": "1176601503",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Horlicks Health and Nutrition Drink BIB 500g",
+            "nid": "168620610",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168620610",
+                "scene_pre": "search",
+                "current_price": "314",
+                "x_sku_ids": "1102780261",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "168620610"
+            },
+            "productUrl": "//www.daraz.com.bd/products/horlicks-health-and-nutrition-drink-bib-500g-i168620610-s1102780261.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0e9d93da76578ff8a5ea42ac9ef7d448.jpg",
+            "originalPrice": "325.00",
+            "originalPriceShow": "৳ 325",
+            "price": "314",
+            "promotionId": "null",
+            "priceShow": "৳ 314",
+            "discount": "-3%",
+            "ratingScore": "4.76812",
+            "review": "276",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168620610_BD-1102780261",
+            "sku": "168620610_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Health Food Drinks",
+                "Capacity: 500gm",
+                "Good Quality Product",
+                "Flavor: Classic Malt"
+            ],
+            "brandId": "85732",
+            "brandName": "Horlicks",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0e9d93da76578ff8a5ea42ac9ef7d448.jpg",
+                    "productUrl": "/products/horlicks-health-and-nutrition-drink-bib-500g-i168620610-s1102780261.html",
+                    "sku": "168620610_BD",
+                    "skuId": "1102780261"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7242
+            ],
+            "clickTrace": "query:;nid:168620610;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:168620610_BD;price:314;client:desktop;supplier_id:1000000;asc_category_id:7242;item_id:168620610;sku_id:1102780261;shop_id:5976",
+            "addToCartSkus": [
+                {
+                    "sku": "168620610_BD-1102780261",
+                    "skuId": "1102780261",
+                    "count": 0
+                }
+            ],
+            "itemId": "168620610",
+            "skuId": "1102780261",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Aaram Orange 100% Fruit Juice-1 Ltr",
+            "nid": "235802508",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "235802508",
+                "scene_pre": "search",
+                "current_price": "188",
+                "x_sku_ids": "1179103912",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "235802508"
+            },
+            "productUrl": "//www.daraz.com.bd/products/aaram-orange-100-fruit-juice-1-ltr-i235802508-s1179103912.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f66cec08cb835975ec1acd8090a39948.jpg",
+            "originalPrice": "330.00",
+            "originalPriceShow": "৳ 330",
+            "price": "188",
+            "promotionId": "null",
+            "priceShow": "৳ 188",
+            "discount": "-43%",
+            "ratingScore": "4",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "235802508_BD-1179103912",
+            "sku": "235802508_BD",
+            "skus": [],
+            "description": [
+                "Product type: Orange Juice",
+                "Capacity: 1 Ltr",
+                "Brand: Aaram",
+                "Sugar Free",
+                "100% Fruit Juice"
+            ],
+            "brandId": "123230254",
+            "brandName": "Aaram",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f66cec08cb835975ec1acd8090a39948.jpg",
+                    "productUrl": "/products/aaram-orange-100-fruit-juice-1-ltr-i235802508-s1179103912.html",
+                    "sku": "235802508_BD",
+                    "skuId": "1179103912"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                10002160,
+                10002484
+            ],
+            "clickTrace": "query:;nid:235802508;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:235802508_BD;price:188;client:desktop;supplier_id:1000000;asc_category_id:10002484;item_id:235802508;sku_id:1179103912;shop_id:7555",
+            "addToCartSkus": [
+                {
+                    "sku": "235802508_BD-1179103912",
+                    "skuId": "1179103912",
+                    "count": 0
+                }
+            ],
+            "itemId": "235802508",
+            "skuId": "1179103912",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pure Green Tea - 100gm ( 50 Tea Bags )",
+            "nid": "168392296",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168392296",
+                "scene_pre": "search",
+                "current_price": "99.00",
+                "x_sku_ids": "1102492707",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "168392296"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pure-green-tea-100gm-50-tea-bags-i168392296-s1102492707.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/34824a6b390824bbccde7ac38611ffc7.jpg",
+            "originalPrice": "110.00",
+            "originalPriceShow": "৳ 110",
+            "price": "99.00",
+            "promotionId": "null",
+            "priceShow": "৳ 99",
+            "discount": "-10%",
+            "ratingScore": "4.75357",
+            "review": "280",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168392296_BD-1102492707",
+            "sku": "168392296_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508145005",
+            "mainSellerId": "",
+            "sellerName": "SAVINGS SHOP (JAS)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/34824a6b390824bbccde7ac38611ffc7.jpg",
+                    "productUrl": "/products/pure-green-tea-100gm-50-tea-bags-i168392296-s1102492707.html",
+                    "sku": "168392296_BD",
+                    "skuId": "1102492707"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7241
+            ],
+            "clickTrace": "query:;nid:168392296;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:168392296_BD;price:99.00;client:desktop;supplier_id:700508145005;asc_category_id:7241;item_id:168392296;sku_id:1102492707;shop_id:129153",
+            "addToCartSkus": [
+                {
+                    "sku": "168392296_BD-1102492707",
+                    "skuId": "1102492707",
+                    "count": 0
+                }
+            ],
+            "itemId": "168392296",
+            "skuId": "1102492707",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Tetley Premium Tea Bag - 100gm with 10pcs Extra Free",
+            "nid": "225489235",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225489235",
+                "scene_pre": "search",
+                "current_price": "63.00",
+                "x_sku_ids": "1170626286",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "225489235"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tetley-premium-tea-bag-100gm-with-10pcs-extra-free-i225489235-s1170626286.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3e99d336b364c7d8ef04c15ec2a1ea5e.jpg",
+            "originalPrice": "80.00",
+            "originalPriceShow": "৳ 80",
+            "price": "63.00",
+            "promotionId": "null",
+            "priceShow": "৳ 63",
+            "discount": "-21%",
+            "ratingScore": "4.82353",
+            "review": "34",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225489235_BD-1170626286",
+            "sku": "225489235_BD",
+            "skus": [],
+            "description": [
+                "Tetley Premium Tea Bag - 100gm with 10pcs Extra Free",
+                "Tetley Premium Tea Bag - 100gm with 10pcs Extra Free",
+                "Tetley Premium Tea Bag - 100gm with 10pcs Extra Free"
+            ],
+            "brandId": "145784",
+            "brandName": "tetley",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3e99d336b364c7d8ef04c15ec2a1ea5e.jpg",
+                    "productUrl": "/products/tetley-premium-tea-bag-100gm-with-10pcs-extra-free-i225489235-s1170626286.html",
+                    "sku": "225489235_BD",
+                    "skuId": "1170626286"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7241
+            ],
+            "clickTrace": "query:;nid:225489235;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:225489235_BD;price:63.00;client:desktop;supplier_id:1000000;asc_category_id:7241;item_id:225489235;sku_id:1170626286;shop_id:7564",
+            "addToCartSkus": [
+                {
+                    "sku": "225489235_BD-1170626286",
+                    "skuId": "1170626286",
+                    "count": 0
+                }
+            ],
+            "itemId": "225489235",
+            "skuId": "1170626286",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SYL TEA 10 gm (COBO-10)",
+            "nid": "233808668",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233808668",
+                "scene_pre": "search",
+                "current_price": "60.00",
+                "x_sku_ids": "1176598768",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "233808668"
+            },
+            "productUrl": "//www.daraz.com.bd/products/syl-10-i233808668-s1176598768.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9de2046cda4811d901a2f4c4431e1a7e.jpg",
+            "price": "60.00",
+            "promotionId": "null",
+            "priceShow": "৳ 60",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233808668_BD-1176598768",
+            "sku": "233808668_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511487697",
+            "mainSellerId": "",
+            "sellerName": "Sami Traders",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9de2046cda4811d901a2f4c4431e1a7e.jpg",
+                    "productUrl": "/products/syl-10-i233808668-s1176598768.html",
+                    "sku": "233808668_BD",
+                    "skuId": "1176598768"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7241
+            ],
+            "clickTrace": "query:;nid:233808668;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:233808668_BD;price:60.00;client:desktop;supplier_id:700511487697;asc_category_id:7241;item_id:233808668;sku_id:1176598768;shop_id:236944",
+            "addToCartSkus": [
+                {
+                    "sku": "233808668_BD-1176598768",
+                    "skuId": "1176598768",
+                    "count": 0
+                }
+            ],
+            "itemId": "233808668",
+            "skuId": "1176598768",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "ENO Orange Flavour 5Pcs",
+            "nid": "209973074",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209973074",
+                "scene_pre": "search",
+                "current_price": "23",
+                "x_sku_ids": "1160155926",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "209973074"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i209973074-s1160155926.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8444c2bb495f0968633ba63926805b6e.jpg",
+            "originalPrice": "50.00",
+            "originalPriceShow": "৳ 50",
+            "price": "23",
+            "promotionId": "null",
+            "priceShow": "৳ 23",
+            "discount": "-54%",
+            "ratingScore": "4.61538",
+            "review": "39",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209973074_BD-1160155926",
+            "sku": "209973074_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "26791",
+            "brandName": "ENO",
+            "sellerId": "700508925152",
+            "mainSellerId": "",
+            "sellerName": "Samiun Enterprise BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8444c2bb495f0968633ba63926805b6e.jpg",
+                    "productUrl": "/products/-i209973074-s1160155926.html",
+                    "sku": "209973074_BD",
+                    "skuId": "1160155926"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7244
+            ],
+            "clickTrace": "query:;nid:209973074;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:209973074_BD;price:23;client:desktop;supplier_id:700508925152;asc_category_id:7244;item_id:209973074;sku_id:1160155926;shop_id:202300",
+            "addToCartSkus": [
+                {
+                    "sku": "209973074_BD-1160155926",
+                    "skuId": "1160155926",
+                    "count": 0
+                }
+            ],
+            "itemId": "209973074",
+            "skuId": "1160155926",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Kishwan Fruitex Soft Drink Powder (Orange) 250gm",
+            "nid": "167380014",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "167380014",
+                "scene_pre": "search",
+                "current_price": "100",
+                "x_sku_ids": "1101098457",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "167380014"
+            },
+            "productUrl": "//www.daraz.com.bd/products/250-i167380014-s1101098457.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8a3a22d4a05055c0c8af4a64a3417da7.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "100",
+            "promotionId": "null",
+            "priceShow": "৳ 100",
+            "discount": "-17%",
+            "ratingScore": "4.8",
+            "review": "45",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "167380014_BD-1101098457",
+            "sku": "167380014_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "124030699",
+            "brandName": "Kishwan",
+            "sellerId": "700506861067",
+            "mainSellerId": "",
+            "sellerName": "Kishwan Snacks",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8a3a22d4a05055c0c8af4a64a3417da7.jpg",
+                    "productUrl": "/products/250-i167380014-s1101098457.html",
+                    "sku": "167380014_BD",
+                    "skuId": "1101098457"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7243
+            ],
+            "clickTrace": "query:;nid:167380014;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:167380014_BD;price:100;client:desktop;supplier_id:700506861067;asc_category_id:7243;item_id:167380014;sku_id:1101098457;shop_id:85375",
+            "addToCartSkus": [
+                {
+                    "sku": "167380014_BD-1101098457",
+                    "skuId": "1101098457",
+                    "count": 0
+                }
+            ],
+            "itemId": "167380014",
+            "skuId": "1101098457",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Rasna Mango 400gm Refill (with Free Jug)",
+            "nid": "103438071",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "103438071",
+                "scene_pre": "search",
+                "current_price": "243",
+                "x_sku_ids": "1017982686",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "103438071"
+            },
+            "productUrl": "//www.daraz.com.bd/products/rasna-mango-400gm-refill-with-free-jug-i103438071-s1017982686.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4a49eeccdc390f83170ac33af0a1b604.jpg",
+            "originalPrice": "280.00",
+            "originalPriceShow": "৳ 280",
+            "price": "243",
+            "promotionId": "null",
+            "priceShow": "৳ 243",
+            "discount": "-13%",
+            "ratingScore": "4.70588",
+            "review": "34",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "103438071_BD-1017982686",
+            "sku": "103438071_BD",
+            "skus": [],
+            "description": [
+                "Brand: Rasna",
+                "Type: Instant Drink Mix",
+                "Flavor: Mango",
+                "Package: Plastic Pack",
+                "Weight: 400gm Refill",
+                "With Free Jug"
+            ],
+            "brandId": "112979",
+            "brandName": "Rasna",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4a49eeccdc390f83170ac33af0a1b604.jpg",
+                    "productUrl": "/products/rasna-mango-400gm-refill-with-free-jug-i103438071-s1017982686.html",
+                    "sku": "103438071_BD",
+                    "skuId": "1017982686"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7243
+            ],
+            "clickTrace": "query:;nid:103438071;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:103438071_BD;price:243;client:desktop;supplier_id:1000000;asc_category_id:7243;item_id:103438071;sku_id:1017982686;shop_id:0",
+            "addToCartSkus": [
+                {
+                    "sku": "103438071_BD-1017982686",
+                    "skuId": "1017982686",
+                    "count": 0
+                }
+            ],
+            "itemId": "103438071",
+            "skuId": "1017982686",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "ENO Orange Flavour 15Pcs",
+            "nid": "209962833",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209962833",
+                "scene_pre": "search",
+                "current_price": "73",
+                "x_sku_ids": "1160156924",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "209962833"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i209962833-s1160156924.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8444c2bb495f0968633ba63926805b6e.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "73",
+            "promotionId": "null",
+            "priceShow": "৳ 73",
+            "discount": "-51%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209962833_BD-1160156924",
+            "sku": "209962833_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "26791",
+            "brandName": "ENO",
+            "sellerId": "700508925152",
+            "mainSellerId": "",
+            "sellerName": "Samiun Enterprise BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8444c2bb495f0968633ba63926805b6e.jpg",
+                    "productUrl": "/products/-i209962833-s1160156924.html",
+                    "sku": "209962833_BD",
+                    "skuId": "1160156924"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7244
+            ],
+            "clickTrace": "query:;nid:209962833;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:209962833_BD;price:73;client:desktop;supplier_id:700508925152;asc_category_id:7244;item_id:209962833;sku_id:1160156924;shop_id:202300",
+            "addToCartSkus": [
+                {
+                    "sku": "209962833_BD-1160156924",
+                    "skuId": "1160156924",
+                    "count": 0
+                }
+            ],
+            "itemId": "209962833",
+            "skuId": "1160156924",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "RKD Tea (Premium Gold) -1KG",
+            "nid": "165668875",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "165668875",
+                "scene_pre": "search",
+                "current_price": "284",
+                "x_sku_ids": "1099140526",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "165668875"
+            },
+            "productUrl": "//www.daraz.com.bd/products/rkd-tea-premium-gold-1kg-i165668875-s1099140526.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6f1234ccfe6d50966602842a2f38b52a.jpg",
+            "originalPrice": "460.00",
+            "originalPriceShow": "৳ 460",
+            "price": "284",
+            "promotionId": "null",
+            "priceShow": "৳ 284",
+            "discount": "-38%",
+            "ratingScore": "4.58824",
+            "review": "34",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "165668875_BD-1099140526",
+            "sku": "165668875_BD",
+            "skus": [],
+            "description": [
+                "Brand :RKD Tea.",
+                "Product type :Black Tea.",
+                "Weight : 1KG",
+                "Blanding & Packing : Alo Enterprise.",
+                "100% Halal Product.",
+                "100% Healthy Product.",
+                "Natural & Pure tea.",
+                "Premium Quality & Finest Tea.",
+                "100% Fresh Product.",
+                "Enjoy the perfect combination of large tea grains and small tea grains.",
+                "Large tea grains that make your tea liqueur lasting and small tea grains that make your tea strong.",
+                "Made from tea Grown in the Finest tea gardens.",
+                "More stability liquor.",
+                "Extraordinary in colors and flavors.",
+                "BSTI Certified.",
+                "Made in Bangladesh.",
+                "Black Tea has antioxidants.",
+                "Great with milk or as a strong black tea without milk."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507413007",
+            "mainSellerId": "",
+            "sellerName": "RKD Tea(CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6f1234ccfe6d50966602842a2f38b52a.jpg",
+                    "productUrl": "/products/rkd-tea-premium-gold-1kg-i165668875-s1099140526.html",
+                    "sku": "165668875_BD",
+                    "skuId": "1099140526"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7241
+            ],
+            "clickTrace": "query:;nid:165668875;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:165668875_BD;price:284;client:desktop;supplier_id:700507413007;asc_category_id:7241;item_id:165668875;sku_id:1099140526;shop_id:90774",
+            "addToCartSkus": [
+                {
+                    "sku": "165668875_BD-1099140526",
+                    "skuId": "1099140526",
+                    "count": 0
+                }
+            ],
+            "itemId": "165668875",
+            "skuId": "1099140526",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Horlicks Health and Nutrition Drink Jar 1kg",
+            "nid": "168624445",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168624445",
+                "scene_pre": "search",
+                "current_price": "633.00",
+                "x_sku_ids": "1102760938",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "168624445"
+            },
+            "productUrl": "//www.daraz.com.bd/products/horlicks-health-and-nutrition-drink-jar-1kg-i168624445-s1102760938.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/de67a15c1a2f24bd550fec4e9de8ba2c.jpg",
+            "originalPrice": "645.00",
+            "originalPriceShow": "৳ 645",
+            "price": "633.00",
+            "promotionId": "null",
+            "priceShow": "৳ 633",
+            "discount": "-2%",
+            "ratingScore": "4.79747",
+            "review": "79",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168624445_BD-1102760938",
+            "sku": "168624445_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Health Food Drinks",
+                "Capacity: 1000gm",
+                "Good Quality Product",
+                "Flavor: Classic Malt"
+            ],
+            "brandId": "85732",
+            "brandName": "Horlicks",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/de67a15c1a2f24bd550fec4e9de8ba2c.jpg",
+                    "productUrl": "/products/horlicks-health-and-nutrition-drink-jar-1kg-i168624445-s1102760938.html",
+                    "sku": "168624445_BD",
+                    "skuId": "1102760938"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7242
+            ],
+            "clickTrace": "query:;nid:168624445;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:168624445_BD;price:633.00;client:desktop;supplier_id:1000000;asc_category_id:7242;item_id:168624445;sku_id:1102760938;shop_id:5976",
+            "addToCartSkus": [
+                {
+                    "sku": "168624445_BD-1102760938",
+                    "skuId": "1102760938",
+                    "count": 0
+                }
+            ],
+            "itemId": "168624445",
+            "skuId": "1102760938",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Brooke Bond Taaza Tea Bag 100g",
+            "nid": "106670679",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "106670679",
+                "scene_pre": "search",
+                "current_price": "79",
+                "x_sku_ids": "1021682848",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "106670679"
+            },
+            "productUrl": "//www.daraz.com.bd/products/brooke-bond-taaza-tea-bag-100g-i106670679-s1021682848.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/85479072fdc22409b90e8be47ba76abb.jpg",
+            "originalPrice": "85.00",
+            "originalPriceShow": "৳ 85",
+            "price": "79",
+            "promotionId": "null",
+            "priceShow": "৳ 79",
+            "discount": "-7%",
+            "ratingScore": "4.80726",
+            "review": "358",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "106670679_BD-1021682848",
+            "sku": "106670679_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Tea Bag",
+                "Brand: Brooke Bond",
+                "Weight: 100g",
+                "Brand new product"
+            ],
+            "brandId": "125011",
+            "brandName": "BROOKE BOND",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/85479072fdc22409b90e8be47ba76abb.jpg",
+                    "productUrl": "/products/brooke-bond-taaza-tea-bag-100g-i106670679-s1021682848.html",
+                    "sku": "106670679_BD",
+                    "skuId": "1021682848"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7241
+            ],
+            "clickTrace": "query:;nid:106670679;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:106670679_BD;price:79;client:desktop;supplier_id:1000000;asc_category_id:7241;item_id:106670679;sku_id:1021682848;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "106670679_BD-1021682848",
+                    "skuId": "1021682848",
+                    "count": 0
+                }
+            ],
+            "itemId": "106670679",
+            "skuId": "1021682848",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SYL TEA 20 gm",
+            "nid": "128636792",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "128636792",
+                "scene_pre": "search",
+                "current_price": "16.00",
+                "x_sku_ids": "1048474908",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "128636792"
+            },
+            "productUrl": "//www.daraz.com.bd/products/syl-20-i128636792-s1048474908.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fb8b0f39c895880c244c88853c2df140.jpg",
+            "originalPrice": "20.00",
+            "originalPriceShow": "৳ 20",
+            "price": "16.00",
+            "promotionId": "null",
+            "priceShow": "৳ 16",
+            "discount": "-20%",
+            "ratingScore": "3",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "128636792_BD-1048474908",
+            "sku": "128636792_BD",
+            "skus": [],
+            "description": [
+                "Syl Best leaf",
+                "Capacity: 20gm",
+                "Brand: Syl"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504950169",
+            "mainSellerId": "",
+            "sellerName": "Near And Far (KHL)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fb8b0f39c895880c244c88853c2df140.jpg",
+                    "productUrl": "/products/syl-20-i128636792-s1048474908.html",
+                    "sku": "128636792_BD",
+                    "skuId": "1048474908"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7241
+            ],
+            "clickTrace": "query:;nid:128636792;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:128636792_BD;price:16.00;client:desktop;supplier_id:700504950169;asc_category_id:7241;item_id:128636792;sku_id:1048474908;shop_id:52930",
+            "addToCartSkus": [
+                {
+                    "sku": "128636792_BD-1048474908",
+                    "skuId": "1048474908",
+                    "count": 0
+                }
+            ],
+            "itemId": "128636792",
+            "skuId": "1048474908",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SYL MILK TEA 16 gm combo( 5 pices)",
+            "nid": "233814295",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233814295",
+                "scene_pre": "search",
+                "current_price": "40.00",
+                "x_sku_ids": "1176601511",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "233814295"
+            },
+            "productUrl": "//www.daraz.com.bd/products/syl-10-i233814295-s1176601511.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7dbac26a282b7b27add277e3ac3e78d1.jpg",
+            "price": "40.00",
+            "promotionId": "null",
+            "priceShow": "৳ 40",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233814295_BD-1176601511",
+            "sku": "233814295_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511487697",
+            "mainSellerId": "",
+            "sellerName": "Sami Traders",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7dbac26a282b7b27add277e3ac3e78d1.jpg",
+                    "productUrl": "/products/syl-10-i233814295-s1176601511.html",
+                    "sku": "233814295_BD",
+                    "skuId": "1176601511"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7241
+            ],
+            "clickTrace": "query:;nid:233814295;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:233814295_BD;price:40.00;client:desktop;supplier_id:700511487697;asc_category_id:7241;item_id:233814295;sku_id:1176601511;shop_id:236944",
+            "addToCartSkus": [
+                {
+                    "sku": "233814295_BD-1176601511",
+                    "skuId": "1176601511",
+                    "count": 0
+                }
+            ],
+            "itemId": "233814295",
+            "skuId": "1176601511",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Rasna Orange 400gm Refill (with Free Jug)",
+            "nid": "103430550",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "103430550",
+                "scene_pre": "search",
+                "current_price": "243",
+                "x_sku_ids": "1017972996",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "103430550"
+            },
+            "productUrl": "//www.daraz.com.bd/products/rasna-orange-400gm-refill-with-free-jug-i103430550-s1017972996.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0a5f3ab8a4d695c23372704c5f9131ca.jpg",
+            "originalPrice": "280.00",
+            "originalPriceShow": "৳ 280",
+            "price": "243",
+            "promotionId": "null",
+            "priceShow": "৳ 243",
+            "discount": "-13%",
+            "ratingScore": "4.5",
+            "review": "16",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "103430550_BD-1017972996",
+            "sku": "103430550_BD",
+            "skus": [],
+            "description": [
+                "Brand: Rasna",
+                "Type: Instant Drink Mix",
+                "Flavor: Orange",
+                "Package: Plastic Pack",
+                "Weight: 400gm Refill",
+                "With Free Jug"
+            ],
+            "brandId": "112979",
+            "brandName": "Rasna",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0a5f3ab8a4d695c23372704c5f9131ca.jpg",
+                    "productUrl": "/products/rasna-orange-400gm-refill-with-free-jug-i103430550-s1017972996.html",
+                    "sku": "103430550_BD",
+                    "skuId": "1017972996"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7243
+            ],
+            "clickTrace": "query:;nid:103430550;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:103430550_BD;price:243;client:desktop;supplier_id:1000000;asc_category_id:7243;item_id:103430550;sku_id:1017972996;shop_id:0",
+            "addToCartSkus": [
+                {
+                    "sku": "103430550_BD-1017972996",
+                    "skuId": "1017972996",
+                    "count": 0
+                }
+            ],
+            "itemId": "103430550",
+            "skuId": "1017972996",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Muskan Tea Leaf - 500gm",
+            "nid": "141554073",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "141554073",
+                "scene_pre": "search",
+                "current_price": "159.00",
+                "x_sku_ids": "1065278506",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "141554073"
+            },
+            "productUrl": "//www.daraz.com.bd/products/muskan-tea-leaf-500gm-i141554073-s1065278506.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/80adfd3cc5a12a6d69fd8e670477014c.jpg",
+            "originalPrice": "214.00",
+            "originalPriceShow": "৳ 214",
+            "price": "159.00",
+            "promotionId": "null",
+            "priceShow": "৳ 159",
+            "discount": "-26%",
+            "ratingScore": "4.79765",
+            "review": "850",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "141554073_BD-1065278506",
+            "sku": "141554073_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "194822",
+            "brandName": "Muskan",
+            "sellerId": "700507494058",
+            "mainSellerId": "",
+            "sellerName": "Muskan & Goalini",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/80adfd3cc5a12a6d69fd8e670477014c.jpg",
+                    "productUrl": "/products/muskan-tea-leaf-500gm-i141554073-s1065278506.html",
+                    "sku": "141554073_BD",
+                    "skuId": "1065278506"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                7241
+            ],
+            "clickTrace": "query:;nid:141554073;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:141554073_BD;price:159.00;client:desktop;supplier_id:700507494058;asc_category_id:7241;item_id:141554073;sku_id:1065278506;shop_id:92537",
+            "addToCartSkus": [
+                {
+                    "sku": "141554073_BD-1065278506",
+                    "skuId": "1065278506",
+                    "count": 0
+                }
+            ],
+            "itemId": "141554073",
+            "skuId": "1065278506",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dano Daily Pushti Affordable Nutritious - 1kg",
+            "nid": "182538029",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "182538029",
+                "scene_pre": "search",
+                "current_price": "506",
+                "x_sku_ids": "1126386394",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "182538029"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dano-daily-pushti-affordable-nutritious-1kg-i182538029-s1126386394.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/55576f84603a71dbd30f21065d93d690.jpg",
+            "originalPrice": "540.00",
+            "originalPriceShow": "৳ 540",
+            "price": "506",
+            "promotionId": "null",
+            "priceShow": "৳ 506",
+            "discount": "-6%",
+            "ratingScore": "4.66864",
+            "review": "676",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "182538029_BD-1126386394",
+            "sku": "182538029_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Milk Power",
+                "Capacity: 1Kg"
+            ],
+            "brandId": "120241",
+            "brandName": "DANO",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/55576f84603a71dbd30f21065d93d690.jpg",
+                    "productUrl": "/products/dano-daily-pushti-affordable-nutritious-1kg-i182538029-s1126386394.html",
+                    "sku": "182538029_BD",
+                    "skuId": "1126386394"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                10002158,
+                10002474
+            ],
+            "clickTrace": "query:;nid:182538029;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:182538029_BD;price:506;client:desktop;supplier_id:1000000;asc_category_id:10002474;item_id:182538029;sku_id:1126386394;shop_id:2364",
+            "addToCartSkus": [
+                {
+                    "sku": "182538029_BD-1126386394",
+                    "skuId": "1126386394",
+                    "count": 0
+                }
+            ],
+            "itemId": "182538029",
+            "skuId": "1126386394",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Diploma Instant Full Cream Milk Powder - 500gm",
+            "nid": "113758807",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "113758807",
+                "scene_pre": "search",
+                "current_price": "369",
+                "x_sku_ids": "1031050499",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "113758807"
+            },
+            "productUrl": "//www.daraz.com.bd/products/diploma-instant-full-cream-milk-powder-500gm-i113758807-s1031050499.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2ca89fd33422b1ce4fccac27e5a69274.jpg",
+            "originalPrice": "380.00",
+            "originalPriceShow": "৳ 380",
+            "price": "369",
+            "promotionId": "null",
+            "priceShow": "৳ 369",
+            "discount": "-3%",
+            "ratingScore": "4.88217",
+            "review": "314",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "113758807_BD-1031050499",
+            "sku": "113758807_BD",
+            "skus": [],
+            "description": [
+                "Suitable for preparing any milk based dessert item",
+                "Delivers delicious taste",
+                "Full cream milk powder enriched with VITAMINS and MINERALS",
+                "Can be used as Tea/Coffee whitener"
+            ],
+            "brandId": "155025",
+            "brandName": "Diploma",
+            "sellerId": "1003328",
+            "mainSellerId": "",
+            "sellerName": "Mannan Traders",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2ca89fd33422b1ce4fccac27e5a69274.jpg",
+                    "productUrl": "/products/diploma-instant-full-cream-milk-powder-500gm-i113758807-s1031050499.html",
+                    "sku": "113758807_BD",
+                    "skuId": "1031050499"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                10002158,
+                10002474
+            ],
+            "clickTrace": "query:;nid:113758807;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:113758807_BD;price:369;client:desktop;supplier_id:1003328;asc_category_id:10002474;item_id:113758807;sku_id:1031050499;shop_id:9494",
+            "addToCartSkus": [
+                {
+                    "sku": "113758807_BD-1031050499",
+                    "skuId": "1031050499",
+                    "count": 0
+                }
+            ],
+            "itemId": "113758807",
+            "skuId": "1031050499",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Diploma Instant Full Cream Milk Powder - 1Kg",
+            "nid": "113758804",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "113758804",
+                "scene_pre": "search",
+                "current_price": "734",
+                "x_sku_ids": "1031054261",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "113758804"
+            },
+            "productUrl": "//www.daraz.com.bd/products/diploma-instant-full-cream-milk-powder-1kg-i113758804-s1031054261.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ac211acfe8c3f525cff25a8d15679d7e.jpg",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "734",
+            "promotionId": "null",
+            "priceShow": "৳ 734",
+            "discount": "-2%",
+            "ratingScore": "4.85156",
+            "review": "256",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "113758804_BD-1031054261",
+            "sku": "113758804_BD",
+            "skus": [],
+            "description": [
+                "Full Cream Milk Powder",
+                "Premium Quality",
+                "No need to refrigerate",
+                "Simple and easy to use",
+                "Add water for instant use",
+                "Provides baking, ice-cream, desserts, etc",
+                "Creamy, distinct flavor",
+                "Packed with essential vitamins, minerals",
+                "Calcium",
+                "Vitamin D",
+                "Phosphorous",
+                "Potassium",
+                "Vitamin A & B",
+                "Iodine"
+            ],
+            "brandId": "155025",
+            "brandName": "Diploma",
+            "sellerId": "1003328",
+            "mainSellerId": "",
+            "sellerName": "Mannan Traders",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ac211acfe8c3f525cff25a8d15679d7e.jpg",
+                    "productUrl": "/products/diploma-instant-full-cream-milk-powder-1kg-i113758804-s1031054261.html",
+                    "sku": "113758804_BD",
+                    "skuId": "1031054261"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                10002158,
+                10002474
+            ],
+            "clickTrace": "query:;nid:113758804;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:113758804_BD;price:734;client:desktop;supplier_id:1003328;asc_category_id:10002474;item_id:113758804;sku_id:1031054261;shop_id:9494",
+            "addToCartSkus": [
+                {
+                    "sku": "113758804_BD-1031054261",
+                    "skuId": "1031054261",
+                    "count": 0
+                }
+            ],
+            "itemId": "113758804",
+            "skuId": "1031054261",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Starship Foil Pack Milk Powder - 1000gm",
+            "nid": "171444191",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171444191",
+                "scene_pre": "search",
+                "current_price": "520.00",
+                "x_sku_ids": "1107414653",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "171444191"
+            },
+            "productUrl": "//www.daraz.com.bd/products/starship-milk-powder-1000gm-foil-pack-i171444191-s1107414653.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f28ac03bf7b952567bb42934a0142b38.png",
+            "originalPrice": "540.00",
+            "originalPriceShow": "৳ 540",
+            "price": "520.00",
+            "promotionId": "null",
+            "priceShow": "৳ 520",
+            "discount": "-4%",
+            "ratingScore": "4.67145",
+            "review": "557",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171444191_BD-1107414653",
+            "sku": "171444191_BD",
+            "skus": [],
+            "description": [
+                "Product type: Milk Powder",
+                "Capacity: 1000gm",
+                "Brand: Starship"
+            ],
+            "brandId": "155027",
+            "brandName": "Starship",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f28ac03bf7b952567bb42934a0142b38.png",
+                    "productUrl": "/products/starship-milk-powder-1000gm-foil-pack-i171444191-s1107414653.html",
+                    "sku": "171444191_BD",
+                    "skuId": "1107414653"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                10002158,
+                10002474
+            ],
+            "clickTrace": "query:;nid:171444191;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:171444191_BD;price:520.00;client:desktop;supplier_id:1000000;asc_category_id:10002474;item_id:171444191;sku_id:1107414653;shop_id:106183",
+            "addToCartSkus": [
+                {
+                    "sku": "171444191_BD-1107414653",
+                    "skuId": "1107414653",
+                    "count": 0
+                }
+            ],
+            "itemId": "171444191",
+            "skuId": "1107414653",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dano Daily Pushti 500gm",
+            "nid": "211060405",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "211060405",
+                "scene_pre": "search",
+                "current_price": "269.00",
+                "x_sku_ids": "1160935919",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "211060405"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dano-daily-pushti-500gm-i211060405-s1160935919.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/658c495a28bd022b84417c0180d79fe0.jpg",
+            "originalPrice": "285.00",
+            "originalPriceShow": "৳ 285",
+            "price": "269.00",
+            "promotionId": "null",
+            "priceShow": "৳ 269",
+            "discount": "-6%",
+            "ratingScore": "4.83478",
+            "review": "115",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "211060405_BD-1160935919",
+            "sku": "211060405_BD",
+            "skus": [],
+            "description": [
+                "Dano Daily Pushti 500gm",
+                "Dano Daily Pushti 500gm",
+                "Dano Daily Pushti 500gm"
+            ],
+            "brandId": "120241",
+            "brandName": "DANO",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/658c495a28bd022b84417c0180d79fe0.jpg",
+                    "productUrl": "/products/dano-daily-pushti-500gm-i211060405-s1160935919.html",
+                    "sku": "211060405_BD",
+                    "skuId": "1160935919"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                10002158,
+                10002474
+            ],
+            "clickTrace": "query:;nid:211060405;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:211060405_BD;price:269.00;client:desktop;supplier_id:1000000;asc_category_id:10002474;item_id:211060405;sku_id:1160935919;shop_id:2364",
+            "addToCartSkus": [
+                {
+                    "sku": "211060405_BD-1160935919",
+                    "skuId": "1160935919",
+                    "count": 0
+                }
+            ],
+            "itemId": "211060405",
+            "skuId": "1160935919",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Goalini Full Cream Milk Powder - 500gm",
+            "nid": "141594328",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "141594328",
+                "scene_pre": "search",
+                "current_price": "329.00",
+                "x_sku_ids": "1065320965",
+                "SN": "c7442de9d330862fdc88dc2d75cdfa79",
+                "x_ad": "1",
+                "x_object_id": "141594328"
+            },
+            "productUrl": "//www.daraz.com.bd/products/goalini-full-cream-milk-powder-500gm-i141594328-s1065320965.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4c2e3eb7f49dee195797014a08c11e98.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "329.00",
+            "promotionId": "null",
+            "priceShow": "৳ 329",
+            "discount": "-6%",
+            "ratingScore": "4.77922",
+            "review": "308",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "141594328_BD-1065320965",
+            "sku": "141594328_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "155026",
+            "brandName": "Goalini",
+            "sellerId": "700507494058",
+            "mainSellerId": "",
+            "sellerName": "Muskan & Goalini",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4c2e3eb7f49dee195797014a08c11e98.jpg",
+                    "productUrl": "/products/goalini-full-cream-milk-powder-500gm-i141594328-s1065320965.html",
+                    "sku": "141594328_BD",
+                    "skuId": "1065320965"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7238,
+                10002158,
+                10002474
+            ],
+            "clickTrace": "query:;nid:141594328;src:LazadaMainSrp;rn:c7442de9d330862fdc88dc2d75cdfa79;region:bd;sku:141594328_BD;price:329.00;client:desktop;supplier_id:700507494058;asc_category_id:10002474;item_id:141594328;sku_id:1065320965;shop_id:92537",
+            "addToCartSkus": [
+                {
+                    "sku": "141594328_BD-1065320965",
+                    "skuId": "1065320965",
+                    "count": 0
+                }
+            ],
+            "itemId": "141594328",
+            "skuId": "1065320965",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/grocers-shop/",
+            "title": "Groceries"
+        },
+        {
+            "url": "/beverages/",
+            "title": "Beverages"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/beverages/?referer_rn=c7442de9d330862fdc88dc2d75cdfa79&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Cp%3EMore%20Beverages%3A%26nbsp%3B%3Cbr%20%2F%3E%0A%3Ca%20href%3D%22%2Fbeverages%2Facme%2F%22%3EAcme%20Beverages%3C%2Fa%3E%26nbsp%3B%7C%20%3Ca%20href%3D%22%2Fbeverages%2Fdano%2F%22%3EDano%20Beverages%3C%2Fa%3E%26nbsp%3B%7C%20%3Ca%20href%3D%22%2Fbeverages%2Ffoster-clark-s%2F%22%3EFoster%20Clark%20S%20Beverages%3C%2Fa%3E%26nbsp%3B%7C%20%3Ca%20href%3D%22%2Fbeverages%2Fnestle%2F%22%3ENestle%20Beverages%3C%2Fa%3E%3C%2Fp%3E%0A%0A%3Cp%3EFor%20more%20grocery%20item%2C%20you%20can%20visit%20the%20largest%20%3Ca%20href%3D%22%2Fdmart%2F%22%3Egrocery%20shopping%3C%2Fa%3E%20mall%20in%20bangladesh%20from%20dMart.%3C%2Fp%3E"
+    },
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/milk-powder-and-milk-modifiers/?item_id=181153434&from=onesearch_category_7238",
+                "name": "Powdered drink mixes",
+                "image": "//static-01.daraz.com.bd/p/mdc/a8cdd858c571e19ddbcf7d3b5b84f42f.jpg",
+                "id": "7243"
+            },
+            {
+                "url": "/coffee-espresso/?item_id=56495&from=onesearch_category_7238",
+                "name": "Coffee",
+                "image": "//static-01.daraz.com.bd/p/85df24aec1c90a0ba4bf831d171aace7.jpg",
+                "id": "7240"
+            },
+            {
+                "url": "/tea/?item_id=168392296&from=onesearch_category_7238",
+                "name": "Tea",
+                "image": "//static-01.daraz.com.bd/p/34824a6b390824bbccde7ac38611ffc7.jpg",
+                "id": "7241"
+            },
+            {
+                "url": "/groceries-beverages-uht-milk-milk-powder-milk-powder/?item_id=182538029&from=onesearch_category_7238",
+                "name": "Milk Powder",
+                "image": "//static-01.daraz.com.bd/p/55576f84603a71dbd30f21065d93d690.jpg",
+                "id": "10002474"
+            },
+            {
+                "url": "/juices-non-carbonated-drinks/?item_id=187872893&from=onesearch_category_7238",
+                "name": "Juice Drinks",
+                "image": "//static-01.daraz.com.bd/p/5b3f083de247d233da32c38a7cf558ed.jpg",
+                "id": "10002484"
+            },
+            {
+                "url": "/energy-drinks/?item_id=225978777&from=onesearch_category_7238",
+                "name": "Energy Drink",
+                "image": "//static-01.daraz.com.bd/p/e4195082079c3861052ae972894514cb.jpg",
+                "id": "7244"
+            },
+            {
+                "url": "/powdered-drink-mixes/?item_id=168620610&from=onesearch_category_7238",
+                "name": "Hot Chocolate and Nutrition Drinks",
+                "image": "//static-01.daraz.com.bd/p/0e9d93da76578ff8a5ea42ac9ef7d448.jpg",
+                "id": "7242"
+            },
+            {
+                "url": "/syrups/?item_id=100838926&from=onesearch_category_7238",
+                "name": "Flavoring Syrups",
+                "image": "//static-01.daraz.com.bd/p/b78f35d0003b57a3391135076a87bf02.jpg",
+                "id": "7245"
+            },
+            {
+                "url": "/tea-coffee-whiteners/?item_id=126279587&from=onesearch_category_7238",
+                "name": "Creamer",
+                "image": "//static-01.daraz.com.bd/p/9e002989cfd7a073d35f7ef79a185c98.jpg",
+                "id": "10002472"
+            },
+            {
+                "url": "/carbonated-drinks/?item_id=189882056&from=onesearch_category_7238",
+                "name": "Carbonated Soft Drinks",
+                "image": "//static-01.daraz.com.bd/p/1ff5dd0b4076e119a4b0df793fb3167c.jpg",
+                "id": "10002481"
+            },
+            {
+                "url": "/groceries-beverages-asian-health-drinks/?item_id=184958427&from=onesearch_category_7238",
+                "name": "Asian Health Drinks",
+                "image": "//static-01.daraz.com.bd/p/8c19a7f94bfcab68b2385325a6462d1b.jpg",
+                "id": "10002161"
+            },
+            {
+                "url": "/groceries-beverages-water-still-water/?item_id=209048353&from=onesearch_category_7238",
+                "name": "Still Water",
+                "image": "//static-01.daraz.com.bd/p/621acfabae9f626d11b25e29b5f273b8.jpg",
+                "id": "10002470"
+            },
+            {
+                "url": "/sports-energy-drinks/?item_id=168624148&from=onesearch_category_7238",
+                "name": "Sports & Energy Drinks",
+                "image": "//static-01.daraz.com.bd/p/574861ade837cb1a579db2860e94a44e.jpg",
+                "id": "10002483"
+            },
+            {
+                "url": "/groceries-beverages-uht-milk-milk-powder-condensed-milk/?item_id=140562170&from=onesearch_category_7238",
+                "name": "Condensed Milk",
+                "image": "//static-01.daraz.com.bd/p/3a1dc803177ed1a3e97d1c03b21edba6.jpg",
+                "id": "10002471"
+            },
+            {
+                "url": "/groceries-beverages-water-sparkling-water/?item_id=225977892&from=onesearch_category_7238",
+                "name": "Sparkling Water",
+                "image": "//static-01.daraz.com.bd/p/d73c18a09c8c3a968abac105dfb141cc.jpg",
+                "id": "10002469"
+            },
+            {
+                "url": "/groceries-beverages-uht-milk-milk-powder-uht-milk/?item_id=26598&from=onesearch_category_7238",
+                "name": "UHT Milk",
+                "image": "//static-01.daraz.com.bd/p/dab04045146cf4de4fa4cb518dca3d27.jpg",
+                "id": "10002477"
+            },
+            {
+                "url": "/groceries-beverages-uht-milk-milk-powder-flavoured-milk/?item_id=164196712&from=onesearch_category_7238",
+                "name": "Flavoured Milk",
+                "image": "//static-01.daraz.com.bd/p/aea9d8af62c6cf1df4d391e708836477.jpg",
+                "id": "10002473"
+            },
+            {
+                "url": "/groceries-beverages-juices-coconut-water/?item_id=170308838&from=onesearch_category_7238",
+                "name": "Coconut Water",
+                "image": "//static-01.daraz.com.bd/p/e9bf91fba1afaabe4d66515339718a1d.jpg",
+                "id": "10002485"
+            },
+            {
+                "url": "/instant-powder-drinks/?item_id=204999238&from=onesearch_category_7238",
+                "name": "Cordials & Powder Mixes",
+                "image": "//static-01.daraz.com.bd/p/c29cefe3a2adc686fd989eb6a0ad3561.jpg",
+                "id": "10002480"
+            },
+            {
+                "url": "/groceries-beverages-uht-milk-milk-powder-soy-powder/?item_id=132802619&from=onesearch_category_7238",
+                "name": "Soy Powder",
+                "image": "//static-01.daraz.com.bd/p/c7f07b79c3dab9aee4e76d11ba2eaf13.png",
+                "id": "10002475"
+            },
+            {
+                "url": "/groceries-beverages-water-flavoured-water/?item_id=192041107&from=onesearch_category_7238",
+                "name": "Flavoured Water",
+                "image": "//static-01.daraz.com.bd/p/9b8f5e9fce2e056454b42359952a6522.jpg",
+                "id": "10002468"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_7238"
+        },
+        "title": "",
+        "bizId": "onesearch_category_7238",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "12273 items found in {$0}",
+        "title": "Beverages",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Beverages"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Beverages",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "c7442de9d330862fdc88dc2d75cdfa79",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "7238",
+            "category": "7238"
+        },
+        "categoryRegionalKey": "141500000000",
+        "mainCategoryRegionalKey": "140000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "পানীয় at Best Price | 20% Off on Daraz | Buy Online",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Groceries,Beverages",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "141500000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=7238&_p_asc_cateid=7238",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "beverages",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "c7442de9d330862fdc88dc2d75cdfa79",
+                "resultNr": 12273,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1053350612",
+                "1160711889",
+                "1099130964"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "7238",
+            "category": "7238"
+        }
+    }
+}

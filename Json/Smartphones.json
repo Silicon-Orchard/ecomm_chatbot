@@ -1,0 +1,4377 @@
+{
+    "listItems": [
+        {
+            "name": "realme 9i (6GB+128GB)",
+            "nid": "227040039",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227040039",
+                "scene_pre": "search",
+                "current_price": "18774",
+                "x_sku_ids": "1171317082",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "227040039"
+            },
+            "productUrl": "//www.daraz.com.bd/products/realme-9i-6gb128gb-i227040039-s1171317082.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/28eda80490bb6db6d1c3ae9e8437dcd4.jpg",
+            "price": "18774",
+            "promotionId": "null",
+            "priceShow": "৳ 18,774",
+            "ratingScore": "4.85714",
+            "review": "7",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227040039_BD-1171317082",
+            "sku": "227040039_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "Dimensions: 164.4 x 75.7 x 8.4 mm (6.47 x 2.98 x 0.33 in)",
+                "Weight: 190 g (6.70 oz)",
+                "Build: Glass front (Dragontrail Pro), plastic frame, plastic back",
+                "SIM:Dual SIM (Nano-SIM, dual stand-by)",
+                "Type:IPS LCD, 90Hz, 480 nits (typ)",
+                "Size: 6.6 inches, 104.8 cm2 (~84.2% screen-to-body ratio)",
+                "Resolution: 1080 x 2412 pixels, 20:9 ratio (~400 ppi density)",
+                "Protection: Dragontrail Pro Glass",
+                "OS: Android 11, Realme UI 2.0",
+                "Chipset: Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+                "CPU: Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver)",
+                "GPU: Adreno 610",
+                "Card slot: microSDXC (dedicated slot)",
+                "Internal: 128GB 6GB RAM",
+                "MAIN CAMERA: Triple 50 MP, f/1.8, 26mm (wide), 1/2.76\", 0.64ÃÂµm, PDAF 2 MP, f/2.4, (macro) 2 MP, f/2.4, (depth)",
+                "SELFIE CAMERA: Single16 MP, f/2.1, 26mm (wide), 1/3.0\", 1.0ÃÂµm",
+                "Loudspeaker: Yes, with stereo speakers",
+                "3.5mm jack: Yes",
+                "Bluetooth: 5.0, A2DP, LE",
+                "Battery Type Li-Po 5000 mAh, non-removable",
+                "Charging: Fast charging 33W, 100% in 70 min (advertised)",
+                "Feature: SensorsFingerprint (side-mounted), accelerometer, proximity, compass"
+            ],
+            "brandId": "201624",
+            "brandName": "Realme",
+            "sellerId": "700509075030",
+            "mainSellerId": "",
+            "sellerName": "realme_Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/28eda80490bb6db6d1c3ae9e8437dcd4.jpg",
+                    "productUrl": "/products/realme-9i-6gb128gb-i227040039-s1171317082.html",
+                    "sku": "227040039_BD",
+                    "skuId": "1171317082"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:227040039;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:227040039_BD;price:18774;client:desktop;supplier_id:700509075030;asc_category_id:3;item_id:227040039;sku_id:1171317082;shop_id:203887",
+            "addToCartSkus": [
+                {
+                    "sku": "227040039_BD-1171317082",
+                    "skuId": "1171317082",
+                    "count": 0
+                }
+            ],
+            "itemId": "227040039",
+            "skuId": "1171317082",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Realme 8 - 8GB RAM / 128GB ROM - 5000 mAh Battery",
+            "nid": "207932586",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "207932586",
+                "scene_pre": "search",
+                "current_price": "21929.00",
+                "x_sku_ids": "1157953585",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "207932586"
+            },
+            "productUrl": "//www.daraz.com.bd/products/realme-8-8gb-ram-128gb-rom-5000-mah-battery-i207932586-s1157953585.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/76046c0095354d3997a49432e41dadb2.jpg",
+            "price": "21929.00",
+            "promotionId": "null",
+            "priceShow": "৳ 21,929",
+            "ratingScore": "4.59821",
+            "review": "224",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "207932586_BD-1157953585",
+            "sku": "207932586_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "Processor:MediaTek Helio G95 Processor.",
+                "Smoother Gameplay",
+                "OS Android 11, Realme UI 2.0",
+                "CPU: Octa-core CPU, up to 2.05GHz",
+                "GPU: ARM Mali-G76",
+                "RAM: 8GB LPDDR4X /ROM: 128GB UFS 2.1",
+                "Display:16.3cm(6.4\") Super AMOLED Fullscreen",
+                "180Hz Touch Sampling Rate",
+                "Camera:64MP (AI Quad)",
+                "8MP Ultra Wide-angle Lens",
+                "2MP Macro Lens",
+                "2MP B&W Lens",
+                "119 Ultra wide-angle lens",
+                "16MP In-display Selfie",
+                "BATTERY: Li-Po 5000 mAh, non-removable",
+                "Dual SIM (Nano-SIM, dual stand-by)",
+                "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth5.1, A2DP, LE,GPS",
+                "USB Type-C 2.0, USB On-The-Go",
+                "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+            ],
+            "brandId": "201624",
+            "brandName": "Realme",
+            "sellerId": "700509075030",
+            "mainSellerId": "",
+            "sellerName": "realme_Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/76046c0095354d3997a49432e41dadb2.jpg",
+                    "productUrl": "/products/realme-8-8gb-ram-128gb-rom-5000-mah-battery-i207932586-s1157953585.html",
+                    "sku": "207932586_BD",
+                    "skuId": "1157953585"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e31254638472efb2f9a16c27a652c63a.jpg",
+                    "productUrl": "/products/realme-8-8gb-ram-128gb-rom-5000-mah-battery-i207932586-s1157953584.html",
+                    "sku": "207932586_BD",
+                    "skuId": "1157953584"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:207932586;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:207932586_BD;price:21929.00;client:desktop;supplier_id:700509075030;asc_category_id:3;item_id:207932586;sku_id:1157953585;shop_id:203887",
+            "addToCartSkus": [
+                {
+                    "sku": "207932586_BD-1157953585",
+                    "skuId": "1157953585",
+                    "count": 0
+                }
+            ],
+            "itemId": "207932586",
+            "skuId": "1157953585",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "realme  C11 - 2GB RAM 32GB ROM",
+            "nid": "207938207",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "207938207",
+                "scene_pre": "search",
+                "current_price": "8959.76",
+                "x_sku_ids": "1157956793",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "207938207"
+            },
+            "productUrl": "//www.daraz.com.bd/products/realme-c11-2gb-ram32gb-rom-i207938207-s1157956793.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d4718b36404d3c16a88e8bf435f31602.jpg",
+            "price": "8959.76",
+            "promotionId": "null",
+            "priceShow": "৳ 8,960",
+            "ratingScore": "4.82353",
+            "review": "85",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "207938207_BD-1157956793",
+            "sku": "207938207_BD",
+            "skus": [],
+            "description": [
+                "Dimensions: 165.2 x 76.4 x 8.9 mm (6.50 x 3.01 x 0.35 in)",
+                "Weight: 190 g (6.70 oz)",
+                "Build: Glass front, plastic frame, plastic back",
+                "SIM: Dual SIM (Nano-SIM, dual stand-by) Splash resistant design",
+                "Display Type: IPS LCD, 400 nits (typ)",
+                "Display Size: 6.52 inches, 102.6 cm2 (~81.3% screen-to-body ratio)",
+                "Display Resolution: 720 x 1600 pixels, 20:9 ratio (~269 ppi density)",
+                "OS: Android 11, Realme Go UI",
+                "Chipset: Unisoc SC9863A (28nm)",
+                "CPU: Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+                "GPU: IMG8322",
+                "Memory Card slot: microSDXC (dedicated slot)",
+                "Internal: 32GB 2GB RAM",
+                "eMMC 5.1",
+                "Main Camera: Single8 MP, f/2.0, (wide), AF",
+                "Features: LED flash, HDR, panorama",
+                "Video: 1080p@30fps",
+                "Selfie Camera: Single 5 MP, f/2.2, (wide)",
+                "Features: HDR, panorama",
+                "Video: 1080p@30fps",
+                "Loudspeaker: Yes",
+                "3.5mm jack: Yes",
+                "WLAN: Wi-Fi 802.11 b/g/n, hotspot",
+                "Bluetooth: 4.2, A2DP",
+                "GPS: Yes, with A-GPS, GLONASS, GALILEO, BDS",
+                "USB: microUSB 2.0, USB On-The-Go",
+                "Sensors: Accelerometer, gyro, proximity, compass",
+                "Battery Type: Li-Po 5000 mAh, non-removable",
+                "Charging: Charging 10W"
+            ],
+            "brandId": "201624",
+            "brandName": "Realme",
+            "sellerId": "700509075030",
+            "mainSellerId": "",
+            "sellerName": "realme_Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d4718b36404d3c16a88e8bf435f31602.jpg",
+                    "productUrl": "/products/realme-c11-2gb-ram32gb-rom-i207938207-s1157956793.html",
+                    "sku": "207938207_BD",
+                    "skuId": "1157956793"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:207938207;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:207938207_BD;price:8959.76;client:desktop;supplier_id:700509075030;asc_category_id:3;item_id:207938207;sku_id:1157956793;shop_id:203887",
+            "addToCartSkus": [
+                {
+                    "sku": "207938207_BD-1157956793",
+                    "skuId": "1157956793",
+                    "count": 0
+                }
+            ],
+            "itemId": "207938207",
+            "skuId": "1157956793",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "realme C25Y - (4GB Ram /64GB Rom)",
+            "nid": "208661715",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "208661715",
+                "scene_pre": "search",
+                "current_price": "13382.00",
+                "x_sku_ids": "1158891863",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "208661715"
+            },
+            "productUrl": "//www.daraz.com.bd/products/realme-c25y-4gb-ram-64gb-rom-i208661715-s1158891863.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a14c9c064f98edb3f2ad3837222b0a0d.jpg",
+            "price": "13382.00",
+            "promotionId": "null",
+            "priceShow": "৳ 13,382",
+            "ratingScore": "4.58943",
+            "review": "246",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "208661715_BD-1158891863",
+            "sku": "208661715_BD",
+            "skus": [],
+            "description": [
+                "5000mAh Mega Battery",
+                "4GB Ram /64GB Rom",
+                "Unisoc T610 Powerful Processor",
+                "TUV Rheinland Smartphone High Reliability Certification.",
+                "Instant Fingerprint Sensor",
+                "50MP AI Triple Camera",
+                "18W Quick Charge",
+                "16.5cm 6.5 inchLarge Display",
+                "Line Aesthetic Design",
+                "12nm Octa-core"
+            ],
+            "brandId": "201624",
+            "brandName": "Realme",
+            "sellerId": "700509075030",
+            "mainSellerId": "",
+            "sellerName": "realme_Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a14c9c064f98edb3f2ad3837222b0a0d.jpg",
+                    "productUrl": "/products/realme-c25y-4gb-ram-64gb-rom-i208661715-s1158891863.html",
+                    "sku": "208661715_BD",
+                    "skuId": "1158891863"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:208661715;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:208661715_BD;price:13382.00;client:desktop;supplier_id:700509075030;asc_category_id:3;item_id:208661715;sku_id:1158891863;shop_id:203887",
+            "addToCartSkus": [
+                {
+                    "sku": "208661715_BD-1158891863",
+                    "skuId": "1158891863",
+                    "count": 0
+                }
+            ],
+            "itemId": "208661715",
+            "skuId": "1158891863",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "realme C21Y - 3GB RAM / 32GB ROM",
+            "nid": "215645559",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "215645559",
+                "scene_pre": "search",
+                "current_price": "11114.00",
+                "x_sku_ids": "1164135194",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "215645559"
+            },
+            "productUrl": "//www.daraz.com.bd/products/realme-c21y-3gb-ram-32gb-rom-i215645559-s1164135194.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1982008828d469fef6bfd8f76bd25eb3.jpg",
+            "price": "11114.00",
+            "promotionId": "null",
+            "priceShow": "৳ 11,114",
+            "ratingScore": "4.97333",
+            "review": "75",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "215645559_BD-1164135194",
+            "sku": "215645559_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "Dimensions: 164.5 x 76 x 9.1 mm (6.48 x 2.99 x 0.36 in)",
+                "Weight: 200 g (7.05 oz)",
+                "Build: Glass front, plastic back, plastic frame",
+                "SIM: Dual SIM (Nano-SIM, dual stand-by)",
+                "DISPLAYType: IPS LCD, 400 nits (typ)",
+                "Display Size: 6.5 inches, 102.0 cm2 (~81.6% screen-to-body ratio)",
+                "Resolution: 720 x 1600 pixels, 20:9 ratio (~270 ppi density)",
+                "OS: Android 10, Realme UI",
+                "Chipset: Unisoc T610 (12 nm)",
+                "CPU: Octa-core (2x1.8 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+                "GPU: Mali-G52",
+                "MEMORY Card Slot: microSDXC (dedicated slot)",
+                "Internal: 32GB 3GB RAM",
+                "eMMC 5.1",
+                "MAIN CAMERA :13MP AI Triple Camera",
+                "Features: LED flash, HDR, panorama",
+                "Video: 1080p@30fps",
+                "SELFIE CAMERA: 5 MP",
+                "Features: HDR, panorama",
+                "Video: 80p@30fps",
+                "Loudspeaker: Yes",
+                "3.5mm jack: Yes",
+                "WLAN: Wi-Fi 802.11 b/g/n, hotspot",
+                "Bluetooth: 5.0, A2DP, LE",
+                "GPS: Yes, with A-GPS, GLONASS, BDS",
+                "NFC: No",
+                "USB: microUSB 2.0, USB On-The-Go",
+                "Sensors: Fingerprint (rear-mounted),Magnetic induction, Light, Proximity,Acceleration",
+                "BATTERY Type: Li-Po 5000 mAh, non-removable",
+                "Charging: Reverse charging"
+            ],
+            "brandId": "201624",
+            "brandName": "Realme",
+            "sellerId": "700509075030",
+            "mainSellerId": "",
+            "sellerName": "realme_Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1982008828d469fef6bfd8f76bd25eb3.jpg",
+                    "productUrl": "/products/realme-c21y-3gb-ram-32gb-rom-i215645559-s1164135194.html",
+                    "sku": "215645559_BD",
+                    "skuId": "1164135194"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:215645559;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:215645559_BD;price:11114.00;client:desktop;supplier_id:700509075030;asc_category_id:3;item_id:215645559;sku_id:1164135194;shop_id:203887",
+            "addToCartSkus": [
+                {
+                    "sku": "215645559_BD-1164135194",
+                    "skuId": "1164135194",
+                    "count": 0
+                }
+            ],
+            "itemId": "215645559",
+            "skuId": "1164135194",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Realme 8 5G - 8GB RAM/128GB ROM",
+            "nid": "207932585",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "207932585",
+                "scene_pre": "search",
+                "current_price": "22166.00",
+                "x_sku_ids": "1157953583",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "207932585"
+            },
+            "productUrl": "//www.daraz.com.bd/products/realme-8-5g-8gb-ram128gb-rom-i207932585-s1157953583.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/acf9f788e219f5b06d6a5cdcd9fed2e9.jpg",
+            "price": "22166.00",
+            "promotionId": "null",
+            "priceShow": "৳ 22,166",
+            "ratingScore": "4.81111",
+            "review": "90",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "207932585_BD-1157953583",
+            "sku": "207932585_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "Dimensions:162.5 x 74.8 x 8.5 mm (6.40 x 2.94 x 0.33 in)",
+                "Weight: 185 g (6.53 oz",
+                "Dual SIM (Nano-SIM, dual stand-by).",
+                "Display Type:IPS LCD, 90Hz, 480 nits (typ), 600 nits",
+                "Display Size: 6.5 inches, 102.0 cm2(~83.9% screen-to-body ratio)",
+                "Resolution: 1080 x 2400 pixels, 20:9 ratio (~405 ppi density)",
+                "OS Android: Android 11, Realme UI 2.0",
+                "Chipset: MediaTek MT6833 Dimensity 700 5G (7 nm)",
+                "CPU: Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+                "GPU: Mali-G57 MC2",
+                "MEMORY: Card slot microSDXC (dedicated slot)",
+                "ROM: 128GB",
+                "RAM: 8GB",
+                "MAIN CAMERA (Triple):48 MP, f/1.8, 26mm (wide), PDAF, 2 MP, f/2.4, (macro), 2 MP, f/2.4,(depth)",
+                "Features: LED flash, HDR, panorama",
+                "Video: 1080p@30fps",
+                "SELFIE CAMERA Single: 16 MP, f/2.1, 26mm (wide)",
+                "Features: HDR",
+                "Video : 1080p@30fps",
+                "SOUND Loudspeaker: Yes",
+                "3.5mm jack: Yes",
+                "COMMS: WLAN Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth: 5.1, A2DP, LE",
+                "GPS: Yes, with A-GPS, GLONASS, BDS, GALILEO, QZSS",
+                "NFC: Yes",
+                "Radio: Unspecified",
+                "USB Type-C 2.0, USB On-The-Go",
+                "Sensors: Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+                "BATTERY: Li-Po 5000 mAh, non-removable",
+                "Charging: Fast charging 18W"
+            ],
+            "brandId": "201624",
+            "brandName": "Realme",
+            "sellerId": "700509075030",
+            "mainSellerId": "",
+            "sellerName": "realme_Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/acf9f788e219f5b06d6a5cdcd9fed2e9.jpg",
+                    "productUrl": "/products/realme-8-5g-8gb-ram128gb-rom-i207932585-s1157953583.html",
+                    "sku": "207932585_BD",
+                    "skuId": "1157953583"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:207932585;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:207932585_BD;price:22166.00;client:desktop;supplier_id:700509075030;asc_category_id:3;item_id:207932585;sku_id:1157953583;shop_id:203887",
+            "addToCartSkus": [
+                {
+                    "sku": "207932585_BD-1157953583",
+                    "skuId": "1157953583",
+                    "count": 0
+                }
+            ],
+            "itemId": "207932585",
+            "skuId": "1157953583",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "realme gt neo 2-(8gb ram/128gb rom)",
+            "nid": "208666226",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "208666226",
+                "scene_pre": "search",
+                "current_price": "38496.00",
+                "x_sku_ids": "1158897402",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "208666226"
+            },
+            "productUrl": "//www.daraz.com.bd/products/realme-gt-neo-2-8gb-ram128gb-rom-i208666226-s1158897402.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/34ad0b331bb5228cd49a86d6fe715a99.jpg",
+            "price": "38496.00",
+            "promotionId": "null",
+            "priceShow": "৳ 38,496",
+            "ratingScore": "4.72222",
+            "review": "36",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "208666226_BD-1158897402",
+            "sku": "208666226_BD",
+            "skus": [],
+            "description": [
+                "Qualcomm Snapdragon 870 5G Processor",
+                "Up to 3.2Ghz CPU Clock Speed",
+                "65W SuperDart Charge",
+                "100% Battery under 36mins",
+                "120Hz E4 AMOLED Display",
+                "1300nits Peak Brightness",
+                "Street Photography Mode",
+                "Super Power Saving Mode",
+                "Stainless Steel Vapour Cooling Plus",
+                "4129mmSuper VC Area",
+                "64MP AI Triple Camera",
+                "Street Photography Mode",
+                "Color: NEO Green",
+                "Qualcomm Snapdragon 870 5G",
+                "3.2Ghz CPU Clock Speed",
+                "GPU: Adreno 650",
+                "Memory:",
+                "RAM: 8GB",
+                "ROM: 128GB",
+                "UFS 3.1, Dual ROM Channels",
+                "Screen Size: 6.62 Inch",
+                "Refresh Rate: 120Hz",
+                "Screen-to-body Ratio: 92.60",
+                "Touch Sampling Rate: 600Hz",
+                "Screen PPI: 397",
+                "Peak Brightness: 1300nits",
+                "Contrast Ratio: 5000000:1",
+                "Color Saturation: Typ 106NTSC"
+            ],
+            "brandId": "201624",
+            "brandName": "Realme",
+            "sellerId": "700509075030",
+            "mainSellerId": "",
+            "sellerName": "realme_Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/34ad0b331bb5228cd49a86d6fe715a99.jpg",
+                    "productUrl": "/products/realme-gt-neo-2-8gb-ram128gb-rom-i208666226-s1158897402.html",
+                    "sku": "208666226_BD",
+                    "skuId": "1158897402"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:208666226;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:208666226_BD;price:38496.00;client:desktop;supplier_id:700509075030;asc_category_id:3;item_id:208666226;sku_id:1158897402;shop_id:203887",
+            "addToCartSkus": [
+                {
+                    "sku": "208666226_BD-1158897402",
+                    "skuId": "1158897402",
+                    "count": 0
+                }
+            ],
+            "itemId": "208666226",
+            "skuId": "1158897402",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "realme C25Y - (4GB RAM /64GB ROM)",
+            "nid": "208669320",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "208669320",
+                "scene_pre": "search",
+                "current_price": "13382.00",
+                "x_sku_ids": "1158889935",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "208669320"
+            },
+            "productUrl": "//www.daraz.com.bd/products/realme-c25y-4gb-ram-64gb-rom-i208669320-s1158889935.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/205b97e7ef49d3aa124a1ff25ba3a2db.jpg",
+            "price": "13382.00",
+            "promotionId": "null",
+            "priceShow": "৳ 13,382",
+            "ratingScore": "4.96154",
+            "review": "26",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "208669320_BD-1158889935",
+            "sku": "208669320_BD",
+            "skus": [],
+            "description": [
+                "5000mAh Mega Battery",
+                "18W Quick Charge",
+                "Processor: Unisoc T610",
+                "Instant Fingerprint Sensor",
+                "RAM+ROM: 4GB + 128GB",
+                "50MP AI Triple Camera",
+                "8MP AI Selfie Camera",
+                "3-Card Slot: 2 SIM + 1 MicroSD",
+                "16.5cm6.5 inchLarge Display",
+                "Unisoc T610 Powerful Processor",
+                "TV Rheinland Smartphone High Reliability Certification"
+            ],
+            "brandId": "201624",
+            "brandName": "Realme",
+            "sellerId": "700508760993",
+            "mainSellerId": "",
+            "sellerName": "Realme-Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/205b97e7ef49d3aa124a1ff25ba3a2db.jpg",
+                    "productUrl": "/products/realme-c25y-4gb-ram-64gb-rom-i208669320-s1158889935.html",
+                    "sku": "208669320_BD",
+                    "skuId": "1158889935"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:208669320;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:208669320_BD;price:13382.00;client:desktop;supplier_id:700508760993;asc_category_id:3;item_id:208669320;sku_id:1158889935;shop_id:183524",
+            "addToCartSkus": [
+                {
+                    "sku": "208669320_BD-1158889935",
+                    "skuId": "1158889935",
+                    "count": 0
+                }
+            ],
+            "itemId": "208669320",
+            "skuId": "1158889935",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nokia G10 DS 4GB/64GB",
+            "nid": "222179649",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "222179649",
+                "scene_pre": "search",
+                "current_price": "12000.00",
+                "x_sku_ids": "1168683966",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "222179649"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nokia-g10-ds-4gb64gb-i222179649-s1168683966.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/92ec66df7ee249099fb245812fe85253.jpg",
+            "price": "12000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 12,000",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "222179649_BD-1168683966",
+            "sku": "222179649_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "Model:Nokia G10",
+                "OS: AndroidÃÂ¢ÃÂÃÂ¢ 11",
+                "Chipset: Mediatek G25",
+                "CPU: Octa-core (8x A53 2.0GHz)",
+                "RAM: 4GB",
+                "ROM: 64GB",
+                "MicroSD card support up to: 512 GB",
+                "Display Size: 6.5ÃÂ¢ÃÂÃÂ (IPS Display)",
+                "Display Resolution: 720 x 1600 pixels (HD+ V-notch)",
+                "Back Camera: 13 MP Main + 2 MP Depth + 2 MP Macro",
+                "Front Camera: 8MP",
+                "Flash: Rear LED",
+                "Features: Night mode, Portrait mode",
+                "Battery Type: Li-Po 5050mAh, non-removable (10W Charging)",
+                "Connectivity: Wi-Fi 802.11 b/g/n; Bluetooth: 5.0; GPS: GPS/AGPS, GLONASS, Beidou; USB Type-C (USB 2.0) OTG;Microphones:2",
+                "Sensors: Fingerprint (Side), Accelerometer, Ambient light sensor, Proximity sensor"
+            ],
+            "brandId": "121009442",
+            "brandName": "Nokia Bangladesh",
+            "sellerId": "5900",
+            "mainSellerId": "",
+            "sellerName": "Nokia Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/92ec66df7ee249099fb245812fe85253.jpg",
+                    "productUrl": "/products/nokia-g10-ds-4gb64gb-i222179649-s1168683966.html",
+                    "sku": "222179649_BD",
+                    "skuId": "1168683966"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:222179649;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:222179649_BD;price:12000.00;client:desktop;supplier_id:5900;asc_category_id:3;item_id:222179649;sku_id:1168683966;shop_id:5653",
+            "addToCartSkus": [
+                {
+                    "sku": "222179649_BD-1168683966",
+                    "skuId": "1168683966",
+                    "count": 0
+                }
+            ],
+            "itemId": "222179649",
+            "skuId": "1168683966",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Realme GT Master Edition 8GB RAM/128GB ROM",
+            "nid": "207931659",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "207931659",
+                "scene_pre": "search",
+                "current_price": "32980.00",
+                "x_sku_ids": "1157963198",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "207931659"
+            },
+            "productUrl": "//www.daraz.com.bd/products/realme-gt-master-edition-8gb-ram128gb-rom-i207931659-s1157963198.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8e99c531da1f848ff96b3ca5d104b9d7.jpg",
+            "price": "32980.00",
+            "promotionId": "null",
+            "priceShow": "৳ 32,980",
+            "ratingScore": "4.68116",
+            "review": "69",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "207931659_BD-1157963198",
+            "sku": "207931659_BD",
+            "skus": [],
+            "description": [
+                "To avail EMI please call customer care 16492",
+                "NO RETURN applicable if the seal is broken",
+                "65W SuperDart Charge",
+                "4300mAh(typ) Massive Battery",
+                "Includes a 10V/6.5A Charging Adaptor",
+                "USB Type-C Port",
+                "4200mAh(min) Battery Capacity.",
+                "Camera: 64MP Street Photography Camera",
+                "Rear Camera: 64MP Main Camera",
+                "25.3mm Focal Length",
+                "f/1.8 Aperture",
+                "1/2-inch large size",
+                "6P Lens",
+                "8MP Ultra Wide-angle camera",
+                "15.8mm Focal Length",
+                "119 FOV",
+                "f/2.3 Aperture",
+                "5P Lens",
+                "2MP Macro Lens",
+                "4cm Focus Distance",
+                "f/2.4 Aperture",
+                "32MP Sony Selfie Camera",
+                "85 FOV",
+                "f/2.5 Aperture",
+                "Portrait Mode, Timelapse, Panoramic View, Beauty Mode, HDR, Face-Recognition, Filter, NightScape, Bokeh Effect Control, Face Distortion Correction",
+                "Next-Gen 5G Network",
+                "5G DSDS",
+                "Frequency Bands:",
+                "2G: GSM: 850/900/1800/1900MHz",
+                "3G: WCDMA: Bands 1/2/4/5/6/8/19",
+                "4G: LTE TDD: Bands 34/38/39/40/41",
+                "4G: LTE FDD: Bands 1/2/3/4/5/7/8/18/19/26/28a",
+                "5G: n1/n3/n5/n8/n28a/n77/n41/n78",
+                "Wireless:",
+                "2.4GHz/5GHz Wi-Fi",
+                "Dual Wi-Fi Antenna",
+                "802.11 a/b/g/n/ac/ax",
+                "Bluetooth 5.2",
+                "Audio",
+                "Super Linear Speakers",
+                "Dual mic",
+                "Hi-Res Audio",
+                "Buttons & Ports",
+                "2 Nano Card Slots",
+                "USB Type-C",
+                "Dual Microphones 1",
+                "Dual Microphones 2",
+                "Volume up / down",
+                "Magnetic induction sensor / Light sensor / Proximity Sensor / Gyro-meter / Acceleration sensor",
+                "OperatingSystem realme UI 2.0",
+                "Based on Android 11."
+            ],
+            "brandId": "201624",
+            "brandName": "Realme",
+            "sellerId": "700509075030",
+            "mainSellerId": "",
+            "sellerName": "realme_Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8e99c531da1f848ff96b3ca5d104b9d7.jpg",
+                    "productUrl": "/products/realme-gt-master-edition-8gb-ram128gb-rom-i207931659-s1157963198.html",
+                    "sku": "207931659_BD",
+                    "skuId": "1157963198"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:207931659;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:207931659_BD;price:32980.00;client:desktop;supplier_id:700509075030;asc_category_id:3;item_id:207931659;sku_id:1157963198;shop_id:203887",
+            "addToCartSkus": [
+                {
+                    "sku": "207931659_BD-1157963198",
+                    "skuId": "1157963198",
+                    "count": 0
+                }
+            ],
+            "itemId": "207931659",
+            "skuId": "1157963198",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Realme Gt Master Edition - 8Gb Ram/128Gb Rom",
+            "nid": "200994185",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "200994185",
+                "scene_pre": "search",
+                "current_price": "32980.00",
+                "x_sku_ids": "1148179783",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "200994185"
+            },
+            "productUrl": "//www.daraz.com.bd/products/realme-gt-master-edition-8gb-ram128gb-rom-i200994185-s1148179783.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4c91afd49349ae34ae07f7db5b0d1db8.jpg",
+            "price": "32980.00",
+            "promotionId": "null",
+            "priceShow": "৳ 32,980",
+            "ratingScore": "4.86667",
+            "review": "75",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "200994185_BD-1148179783",
+            "sku": "200994185_BD",
+            "skus": [],
+            "description": [
+                "To avail EMI please call customer care 16492",
+                "NO RETURN applicable if the seal is broken",
+                "65W SuperDart Charge",
+                "4300mAh(typ) Massive Battery",
+                "Includes a 10V/6.5A Charging Adaptor",
+                "USB Type-C Port",
+                "4200mAh(min) Battery Capacity",
+                "Camera: 64MP Street Photography Camera",
+                "Rear Camera: 64MP Main Camera",
+                "25.3mm Focal Length",
+                "80.5 FOV",
+                "f/1.8 Aperture",
+                "1/2-inch large size",
+                "6P Lens",
+                "8MP Ultra Wide-angle camera",
+                "15.8mm Focal Length",
+                "119 FOV",
+                "f/2.3 Aperture",
+                "5P Lens",
+                "2MP Macro Lens",
+                "4cm Focus Distance",
+                "f/2.4 Aperture",
+                "Selfie:",
+                "32MP Sony Selfie Camera",
+                "85 FOV",
+                "f/2.5 Aperture",
+                "Photography Function:",
+                "Portrait Mode, Timelapse, Panoramic View, Beauty Mode, HDR, Face-Recognition, Filter, NightScape, Bokeh Effect Control, Face Distortion Correction",
+                "Cellular & Wireless:",
+                "Next-Gen 5G Network",
+                "5G DSDS",
+                "Frequency Bands:",
+                "2G: GSM: 850/900/1800/1900MHz",
+                "3G: WCDMA: Bands 1/2/4/5/6/8/19",
+                "4G: LTE TDD: Bands 34/38/39/40/41",
+                "4G: LTE FDD: Bands 1/2/3/4/5/7/8/18/19/26/28a",
+                "5G: n1/n3/n5/n8/n28a/n77/n41/n78",
+                "Wireless:",
+                "2.4GHz/5GHz Wi-Fi",
+                "Dual Wi-Fi Antenna",
+                "802.11 a/b/g/n/ac/ax",
+                "Bluetooth 5.2",
+                "Audio",
+                "Super Linear Speakers",
+                "Dual mic",
+                "Hi-Res Audio",
+                "Buttons & Ports",
+                "2 Nano Card Slots",
+                "USB Type-C",
+                "Dual Microphones 1",
+                "Dual Microphones 2",
+                "Volume up / down",
+                "Magnetic induction sensor / Light sensor / Proximity Sensor / Gyro-meter / Acceleration sensor",
+                "OperatingSystem realme UI 2.0",
+                "Based on Android 11"
+            ],
+            "brandId": "201624",
+            "brandName": "Realme",
+            "sellerId": "700508760993",
+            "mainSellerId": "",
+            "sellerName": "Realme-Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4c91afd49349ae34ae07f7db5b0d1db8.jpg",
+                    "productUrl": "/products/realme-gt-master-edition-8gb-ram128gb-rom-i200994185-s1148179783.html",
+                    "sku": "200994185_BD",
+                    "skuId": "1148179783"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:200994185;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:200994185_BD;price:32980.00;client:desktop;supplier_id:700508760993;asc_category_id:3;item_id:200994185;sku_id:1148179783;shop_id:183524",
+            "addToCartSkus": [
+                {
+                    "sku": "200994185_BD-1148179783",
+                    "skuId": "1148179783",
+                    "count": 0
+                }
+            ],
+            "itemId": "200994185",
+            "skuId": "1148179783",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Umidigi A5 Pro - 6.3 inches FHD - 4GB RAM - 32GB ROM - 4150 mAh Battery",
+            "nid": "215322010",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "215322010",
+                "scene_pre": "search",
+                "current_price": "11729",
+                "x_sku_ids": "1163889329",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "215322010"
+            },
+            "productUrl": "//www.daraz.com.bd/products/umidigi-a5-pro-63-inches-fhd-4gb-ram-32gb-rom-4150-mah-battery-i215322010-s1163889329.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/670b77cfc2b8b3e6e2ee8d3612f8cfa4.jpg",
+            "originalPrice": "11999.00",
+            "originalPriceShow": "৳ 11,999",
+            "price": "11729",
+            "promotionId": "null",
+            "priceShow": "৳ 11,729",
+            "discount": "-2%",
+            "ratingScore": "4.36667",
+            "review": "30",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "215322010_BD-1163889329",
+            "sku": "215322010_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "Display: 6.3\" FHD+ Waterdrop Full Screen,2280*1080 In-cell, LTPS Display",
+                "CPU: MTK, Helio P23, 4xCortex-A53, 2.0GHz & 4xCortex-A53, 1.5GHz",
+                "System: Android 9 Pie",
+                "Battery: 4150 mAh with 10W Fast Charging",
+                "RAM + ROM: 4GB RAM + 32GB ROM",
+                "Camera: 16MP + 8 MP + 5MP Triple Backcamera + 16.0MP front camera",
+                "Sensor: Proximity Sensor, E-compass, Gravity Sensor, Face ID, Light Sensor, Fingerprint Sensor, Gyroscope",
+                "SIM Card: Triple Slot, Nano SIM card + Nano SIM card +TF card",
+                "Feature: GPS, A-GPS, GLONASS",
+                "Bluetooth:4.2",
+                "Manufactured in China"
+            ],
+            "brandId": "86091",
+            "brandName": "UMIDIGI",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/670b77cfc2b8b3e6e2ee8d3612f8cfa4.jpg",
+                    "productUrl": "/products/umidigi-a5-pro-63-inches-fhd-4gb-ram-32gb-rom-4150-mah-battery-i215322010-s1163889329.html",
+                    "sku": "215322010_BD",
+                    "skuId": "1163889329"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:215322010;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:215322010_BD;price:11729;client:desktop;supplier_id:1000000;asc_category_id:3;item_id:215322010;sku_id:1163889329;shop_id:0",
+            "addToCartSkus": [
+                {
+                    "sku": "215322010_BD-1163889329",
+                    "skuId": "1163889329",
+                    "count": 0
+                }
+            ],
+            "itemId": "215322010",
+            "skuId": "1163889329",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nokia 3.4 4GB/64GB",
+            "nid": "225657530",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225657530",
+                "scene_pre": "search",
+                "current_price": "13000.00",
+                "x_sku_ids": "1170697198",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "225657530"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nokia-34-4gb64gb-i225657530-s1170697198.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fc79a54f020bf4b1a8d471102c7045e6.jpg",
+            "price": "13000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 13,000",
+            "ratingScore": "4",
+            "review": "4",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225657530_BD-1170697198",
+            "sku": "225657530_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "OS: AndroidÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ 10",
+                "Chipset: QualcommÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ® SnapdragonÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ 460",
+                "CPU: Octa-core (4x1.8 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+                "RAM: 4GB",
+                "ROM: 64GB",
+                "MicroSD card support up to: 512 GB",
+                "Display Size: 6.39ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ (IPS LCD Display)",
+                "Display Resolution: 720 x 1560 pixels (HD+)",
+                "Back Camera: 13 MP Main + 2 MP Depth + 5 MP Ultra-wide",
+                "Front Camera: 8MP",
+                "Flash: Rear LED",
+                "Battery Type: Li-Po 4000mAh, non-removable (5V2A Charging)",
+                "Connectivity: Wi-Fi 802.11 b/g/n; Bluetooth: 4.2; GPS: Yes, with A-GPS, Glonass, Galileo, BDS; USB: Type-C, FM Radio (Headset required)",
+                "Sensors: Fingerprint (Rear), Accelerometer, Ambient light sensor, Gyroscope, Proximity sensor"
+            ],
+            "brandId": "121009442",
+            "brandName": "Nokia Bangladesh",
+            "sellerId": "5900",
+            "mainSellerId": "",
+            "sellerName": "Nokia Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fc79a54f020bf4b1a8d471102c7045e6.jpg",
+                    "productUrl": "/products/nokia-34-4gb64gb-i225657530-s1170697198.html",
+                    "sku": "225657530_BD",
+                    "skuId": "1170697198"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:225657530;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:225657530_BD;price:13000.00;client:desktop;supplier_id:5900;asc_category_id:3;item_id:225657530;sku_id:1170697198;shop_id:5653",
+            "addToCartSkus": [
+                {
+                    "sku": "225657530_BD-1170697198",
+                    "skuId": "1170697198",
+                    "count": 0
+                }
+            ],
+            "itemId": "225657530",
+            "skuId": "1170697198",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "OUKITEL C21  4GB+64GB  4000mAh  Front 20MP + Back 16MP Quad Camera",
+            "nid": "170262246",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "170262246",
+                "scene_pre": "search",
+                "current_price": "10394",
+                "x_sku_ids": "1105192780",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "170262246"
+            },
+            "productUrl": "//www.daraz.com.bd/products/oukitel-c21-4gb-64gb-4000mah-20mp-16mp-i170262246-s1105192780.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/5b7ee1c574b1f71f32b1eea6924a7913.jpg",
+            "price": "10394",
+            "promotionId": "null",
+            "priceShow": "৳ 10,394",
+            "ratingScore": "4.60606",
+            "review": "66",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "170262246_BD-1105192780",
+            "sku": "170262246_BD",
+            "skus": [],
+            "description": [
+                "No return applicable if the seal is broken",
+                "Voucher is not applicable for this product",
+                "Display Size: 6.4 inches FHD + In-cell LTPS Punch-hole display ",
+                "Quad Camera: 16MP+2PM+2MP+2MP f/2.0 Primary ",
+                "Front Camera: 20MP  f/2.0",
+                "Video Recording: 1080p video recording 30fps",
+                "Screen Type: 2340 x 1080",
+                "RAM: 4(GB)",
+                "Inbuilt Storage (in GB): 64",
+                "Expandable Memory Slot: Upto 256 GB",
+                "Processor Brand: MediaTek, Helio P60, 4 x Cortex-A73 2.0GHz &amp; 4 x Cortex-A53, 2.0GHz",
+                "Operating System: Android 10 Pie",
+                "Battery Power: (In mAh): 4,000",
+                "SIM Card: Dual SIM and Hybrid Slot",
+                "Sensor: Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Proximity Sensor, Virtual Light Sensing",
+                "Face Unlock: Yes ",
+                "Manufactured by: China"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508193163",
+            "mainSellerId": "",
+            "sellerName": "MHTL BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/5b7ee1c574b1f71f32b1eea6924a7913.jpg",
+                    "productUrl": "/products/oukitel-c21-4gb-64gb-4000mah-20mp-16mp-i170262246-s1105192780.html",
+                    "sku": "170262246_BD",
+                    "skuId": "1105192780"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/83d23c9bdea7bc878cb89fa8ae337207.jpg",
+                    "productUrl": "/products/oukitel-c21-4gb-64gb-4000mah-20mp-16mp-i170262246-s1105668176.html",
+                    "sku": "170262246_BD",
+                    "skuId": "1105668176"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:170262246;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:170262246_BD;price:10394;client:desktop;supplier_id:700508193163;asc_category_id:3;item_id:170262246;sku_id:1105192780;shop_id:134125",
+            "addToCartSkus": [
+                {
+                    "sku": "170262246_BD-1105192780",
+                    "skuId": "1105192780",
+                    "count": 0
+                }
+            ],
+            "itemId": "170262246",
+            "skuId": "1105192780",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Motorola G9 Play - 4Gb Ram/128Gb Rom - Snapdragon 662 - 48Mp Triple Camera - 5,000 Mah Battery",
+            "nid": "154350576",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "154350576",
+                "scene_pre": "search",
+                "current_price": "13999.00",
+                "x_sku_ids": "1083436819",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "154350576"
+            },
+            "productUrl": "//www.daraz.com.bd/products/motorola-g9-play-4gb-ram128gb-rom-snapdragon-662-48mp-triple-camera-5000-mah-battery-i154350576-s1083436819.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d002c4ba80810140511d3d34e38b05a2.jpg",
+            "price": "13999.00",
+            "promotionId": "null",
+            "priceShow": "৳ 13,999",
+            "ratingScore": "4.80208",
+            "review": "96",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "154350576_BD-1083436819",
+            "sku": "154350576_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "Processor: Snapdragon 662,11 NM",
+                "2 GHz Octa CoreGPU",
+                "Network: 4G",
+                "Dimension 161.1 x 71.4 x 9.6 mm",
+                "Display: IPS HD+ 6.5 inches",
+                "Resolution: HD+",
+                "Screen-to-body ratio: 19.5:9.",
+                "PPI : 385",
+                "Ram4 GB / Rom128 GB",
+                "SD Crad: 512 GB",
+                "Back Cam : 48 MP, f/1.7, (wide), 1/2.0\"\", 0.8, PDAF",
+                "2 MP, f/2.4, (macro)",
+                "2 MP, f/2.4, (depth)\"",
+                "Selfie Cam: 8 MP",
+                "Front Flash: N/A",
+                "Battery:5000mAh",
+                "Charger:20W",
+                "OS:Android 10",
+                "FingerPrint: Fingerprint (rear mounted)"
+            ],
+            "brandId": "4212",
+            "brandName": "Motorola",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d002c4ba80810140511d3d34e38b05a2.jpg",
+                    "productUrl": "/products/motorola-g9-play-4gb-ram128gb-rom-snapdragon-662-48mp-triple-camera-5000-mah-battery-i154350576-s1083436819.html",
+                    "sku": "154350576_BD",
+                    "skuId": "1083436819"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:154350576;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:154350576_BD;price:13999.00;client:desktop;supplier_id:1000000;asc_category_id:3;item_id:154350576;sku_id:1083436819;shop_id:92898",
+            "addToCartSkus": [
+                {
+                    "sku": "154350576_BD-1083436819",
+                    "skuId": "1083436819",
+                    "count": 0
+                }
+            ],
+            "itemId": "154350576",
+            "skuId": "1083436819",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Huawei Nova 7i - 8GB Ram/ 128GB Rom",
+            "nid": "209377490",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209377490",
+                "scene_pre": "search",
+                "current_price": "22999.00",
+                "x_sku_ids": "1159631550",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "209377490"
+            },
+            "productUrl": "//www.daraz.com.bd/products/huawei-nova-7i-8gb-ram128gb-rom-i209377490-s1159631550.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6484a1bca66567e7b40bcbbb7d2ac1c8.jpg",
+            "price": "22999.00",
+            "promotionId": "null",
+            "priceShow": "৳ 22,999",
+            "ratingScore": "4.85714",
+            "review": "7",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209377490_BD-1159631550",
+            "sku": "209377490_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "Brand: Huawei",
+                "Front Camera: 16 MP",
+                "System Storage: 128",
+                "RAM(GB): 8",
+                "SIM Card: Nano-SIM & dual stand-by",
+                "Processor: Octa Core",
+                "CPU Speed(Ghz): 2.27 GHz",
+                "Connectivity: WLAN: Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot.",
+                "Bluetooth: 5.1, A2DP, LE",
+                "Battery mAh: Non-removable Li-Po 4200 mAh battery",
+                "Back Camera: 48MP+8MP+2MP+2MP",
+                "Phone Model: Huawei Nova 7i 8GB/128GB"
+            ],
+            "brandId": "12947",
+            "brandName": "Huawei",
+            "sellerId": "700509306053",
+            "mainSellerId": "",
+            "sellerName": "Huawei_Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6484a1bca66567e7b40bcbbb7d2ac1c8.jpg",
+                    "productUrl": "/products/huawei-nova-7i-8gb-ram128gb-rom-i209377490-s1159631550.html",
+                    "sku": "209377490_BD",
+                    "skuId": "1159631550"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:209377490;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:209377490_BD;price:22999.00;client:desktop;supplier_id:700509306053;asc_category_id:3;item_id:209377490;sku_id:1159631550;shop_id:205932",
+            "addToCartSkus": [
+                {
+                    "sku": "209377490_BD-1159631550",
+                    "skuId": "1159631550",
+                    "count": 0
+                }
+            ],
+            "itemId": "209377490",
+            "skuId": "1159631550",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Motorola G8 Power Lite 5000Mah Battery",
+            "nid": "154350524",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "154350524",
+                "scene_pre": "search",
+                "current_price": "14739",
+                "x_sku_ids": "1083432792",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "154350524"
+            },
+            "productUrl": "//www.daraz.com.bd/products/motorola-g8-power-lite-5000mah-battery-i154350524-s1083432792.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/21b058cc9f1fde4b1a67a75b0ab972dd.jpg",
+            "price": "14739",
+            "promotionId": "null",
+            "priceShow": "৳ 14,739",
+            "ratingScore": "4.35211",
+            "review": "71",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "154350524_BD-1083432792",
+            "sku": "154350524_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "Color: Horizon Blue / Arctic Blue",
+                "Color: Mermaid Blue / Royal Blue",
+                "Processor: MT6765 Helio P35",
+                "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)",
+                "GPU: PowerVR GE8320",
+                "Network: 4G",
+                "Dimension: 164.9 x 75.8 x 9.2 mm",
+                "Display: IPS HD+ 6.5\" Resolution 720 x 1600",
+                "Screen-to-body ratio 20:9",
+                "PPI 269",
+                "Ram4 GB / Rom 64 GB",
+                "SD Crad 512 GB",
+                "Back Cam : 16 MP, f/2.0, (wide), 1.0ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂµm, PDAF",
+                "2 MP, f/2.4, (macro)",
+                "2 MP, f/2.4, (depth)\"",
+                "Selfie Cam : 8 MP, f/2.0, (wide), 1.12ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂµm",
+                "Front Flash: No",
+                "Battery: 5000mAh",
+                "Charger: 10W",
+                "OS:Android 10",
+                "FingerPrint: Fingerprint (rear-mounted)"
+            ],
+            "brandId": "4212",
+            "brandName": "Motorola",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/21b058cc9f1fde4b1a67a75b0ab972dd.jpg",
+                    "productUrl": "/products/motorola-g8-power-lite-5000mah-battery-i154350524-s1083432792.html",
+                    "sku": "154350524_BD",
+                    "skuId": "1083432792"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:154350524;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:154350524_BD;price:14739;client:desktop;supplier_id:1000000;asc_category_id:3;item_id:154350524;sku_id:1083432792;shop_id:92898",
+            "addToCartSkus": [
+                {
+                    "sku": "154350524_BD-1083432792",
+                    "skuId": "1083432792",
+                    "count": 0
+                }
+            ],
+            "itemId": "154350524",
+            "skuId": "1083432792",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "OnePlus Nord CE 2 5G",
+            "nid": "229622439",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "229622439",
+                "scene_pre": "search",
+                "current_price": "34990.00",
+                "x_sku_ids": "1173207081",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "229622439"
+            },
+            "productUrl": "//www.daraz.com.bd/products/oneplus-nord-ce-2-5g-i229622439-s1173207081.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4c0304e09694f707969db20fb11ae17f.jpg",
+            "price": "34990.00",
+            "promotionId": "null",
+            "priceShow": "৳ 34,990",
+            "ratingScore": "4.90909",
+            "review": "11",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "229622439_BD-1173207081",
+            "sku": "229622439_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal in broken",
+                "Customers can Pre-Order it on 3rd March.",
+                "Delivery will be start from 16th March.",
+                "GSM / HSPA / LTE / 5G",
+                "Dimensions: 160.6 x 73.2 x 7.8 mm (6.32 x 2.88 x 0.31 in)",
+                "Weight: 173 g (6.10 oz)",
+                "SIM: Dual SIM (Nano-SIM, dual stand-by)",
+                "Display Type: AMOLED, 90Hz, HDR10+",
+                "Size: 6.43 inches, 99.8 cm2",
+                "Resolution : 1080 x 2400 pixels, 20:9 ratio",
+                "RAM 8 GB & ROM 128 GB",
+                "Protection: Corning Gorilla Glass 5",
+                "PLATFORM : OS Android 11, OxygenOS 11",
+                "Chipset: MediaTek MT6877 Dimensity 900 5G (6 nm)",
+                "CPUL Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+                "GPU: Mali-G68 MC4",
+                "Card slot: microSDXC (dedicated slot)",
+                "Internal 128GB 8GB RAM",
+                "UFS 2.2",
+                "MAIN CAMERA : Triple 64 MP, f/1.8, 26mm (wide), 1/1.97\",",
+                "8 MP, f/2.2, (ultrawide)",
+                "2 MP, f/2.4, (macro)",
+                "LED flash, HDR, panorama",
+                "Video 4K 30fps, 1080p 30/60/120fps, gyro-EIS",
+                "SELFIE CAMERA: Single 16 MP, f/2.4, 27mm (wide), 1.0ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂµm",
+                "Features: HDR",
+                "Video : 1080p 30/60fps, gyro-EIS",
+                "Loudspeaker: Yes",
+                "3.5mm jack",
+                "Bluetooth: 5.2, A2DP, LE, aptX HD",
+                "GPS: Yes, with A-GPS, GLONASS, GALILEO, BDS, QZSS",
+                "NFC: Yes",
+                "Radio: Unspecified",
+                "USB: USB Type-C 2.0, USB On-The-Go",
+                "Sensors: Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+                "Battery Type: Li-Po 4500 mAh, non-removable",
+                "Fast charging 65W",
+                "Reverse charging"
+            ],
+            "brandId": "12944",
+            "brandName": "OnePlus",
+            "sellerId": "1006419",
+            "mainSellerId": "",
+            "sellerName": "One Plus",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4c0304e09694f707969db20fb11ae17f.jpg",
+                    "productUrl": "/products/oneplus-nord-ce-2-5g-i229622439-s1173207081.html",
+                    "sku": "229622439_BD",
+                    "skuId": "1173207081"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:229622439;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:229622439_BD;price:34990.00;client:desktop;supplier_id:1006419;asc_category_id:3;item_id:229622439;sku_id:1173207081;shop_id:12624",
+            "addToCartSkus": [
+                {
+                    "sku": "229622439_BD-1173207081",
+                    "skuId": "1173207081",
+                    "count": 0
+                }
+            ],
+            "itemId": "229622439",
+            "skuId": "1173207081",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Motorola Moto G10 Power - 4Gb Ram64Gb Rom",
+            "nid": "202423715",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "202423715",
+                "scene_pre": "search",
+                "current_price": "15181.41",
+                "x_sku_ids": "1150023960",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "202423715"
+            },
+            "productUrl": "//www.daraz.com.bd/products/motorola-moto-g10-power-4gb-ram64gb-rom-i202423715-s1150023960.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0e4b64c92c44525f777377f9f57471f0.jpg",
+            "price": "15181.41",
+            "promotionId": "null",
+            "priceShow": "৳ 15,181",
+            "ratingScore": "4.79592",
+            "review": "49",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "202423715_BD-1150023960",
+            "sku": "202423715_BD",
+            "skus": [],
+            "description": [
+                "Network Technology: GSM / HSPA / LTE",
+                "Dimensions: 165.2 x 75.7 x 9.9 mm (6.50 x 2.98 x 0.39 in)",
+                "Weight: 220 g (7.76 oz)",
+                "SIM: Hybrid Dual SIM (Nano-SIM, dual stand-by)Water-repellent design",
+                "Display Type: IPS LCD",
+                "Display Size: 6.5 inches, 102.0 cm2 (81.6% screen-to-body ratio)Display Resolution: 720 x 1600 pixels, 20:9 ratio (270 ppi density)",
+                "OS: Android 11",
+                "Chipset: Qualcomm SM4250 Snapdragon 460 (11 nm)",
+                "CPU: Octa-core (4x1.8 GHz Kryo 240 & 4x1.6 GHz Kryo 240)",
+                "GPU: Adreno 610",
+                "4GB RAM/64GB ROM",
+                "Memory Card slot: microSDXC (uses shared SIM slot)",
+                "MAIN CAMERA: 48 MP, f1.7, 26mm (wide), 1/2.0, 0.8 PDAF",
+                "8 MP, f/2.2, 118 (ultrawide), 1/4.0, 1.12µm",
+                "2 MP, f/2.4, (macro)",
+                "2 MP, f/2.4, (depth)",
+                "Features: LED flash, HDR, panorama",
+                "Video: 1080p30/60fps",
+                "SELFIE CAMERA: Single 8 MP, f/2.2, (wide), 1/4.0, 1.12µm",
+                "Features: HDR",
+                "Video: 1080p30fps",
+                "Loudspeaker: Yes",
+                "3.5mm jack: Yes",
+                "WLAN: Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+                "Bluetooth: 5.0, A2DP, LE",
+                "GPS: Yes, with A-GPS, GLONASS, GALILEO",
+                "NFC: No",
+                "Radio: Yes",
+                "USB: USB Type-C 2.0, USB On-The-Go",
+                "Sensors: Fingerprint (rear-mounted), accelerometer, gyro, proximity",
+                "BATTERY Type: Li-Po 6000 mAh, non-removable",
+                "Charging: Fast charging 20W"
+            ],
+            "brandId": "4212",
+            "brandName": "Motorola",
+            "sellerId": "700508784034",
+            "mainSellerId": "",
+            "sellerName": "Salextra Limited",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0e4b64c92c44525f777377f9f57471f0.jpg",
+                    "productUrl": "/products/motorola-moto-g10-power-4gb-ram64gb-rom-i202423715-s1150023960.html",
+                    "sku": "202423715_BD",
+                    "skuId": "1150023960"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:202423715;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:202423715_BD;price:15181.41;client:desktop;supplier_id:700508784034;asc_category_id:3;item_id:202423715;sku_id:1150023960;shop_id:184586",
+            "addToCartSkus": [
+                {
+                    "sku": "202423715_BD-1150023960",
+                    "skuId": "1150023960",
+                    "count": 0
+                }
+            ],
+            "itemId": "202423715",
+            "skuId": "1150023960",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nokia 3.4 DS Smartphone 3GB RAM 64GB ROM",
+            "nid": "206653904",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "206653904",
+                "scene_pre": "search",
+                "current_price": "12164.95",
+                "x_sku_ids": "1155957724",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "206653904"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nokia-34-ds-smartphone-3gb-ram-64gb-rom-4000-mah-battery-i206653904-s1155957724.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/cbc91c12589c7f0c718d616d3a998cf8.jpg",
+            "price": "12164.95",
+            "promotionId": "null",
+            "priceShow": "৳ 12,165",
+            "ratingScore": "4.54839",
+            "review": "31",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "206653904_BD-1155957724",
+            "sku": "206653904_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "Model Name: Nokia 3.4",
+                "Display:Size:6.39 inch Aspect ratio:19.5:9 Resolution:HD+",
+                "Camera: Front camera:8 MPRear camera:13 MP Main + 2 MPDepth + 5 MP Ultrawide Rear flash LED",
+                "Connectivity: Bluetooth:4.2 Headphone jack:3.5 mm Location:GPS/AGPS, GLONASS, BDS,Galileo USB connection:USB Type-C WiFi:802.11 b/g/n NFC Supported",
+                "Battery:4000 mAh, NonRemovable1 Charging:5V2A charging",
+                "Memory & storage: Cloud storage: Google-Drive Storage MicroSD card support up to:512 GB",
+                "RAM:3GB",
+                "ROM:64 GB",
+                "CPU QualcommSnapdragon460",
+                "Operating System Android 10",
+                "Audio: Features: FM Radio (Headsetrequired), Qualcomm aptX audioadaptive Microphones:2",
+                "Networks: Max network speed:LTE Category 4 Network bands (GSM):850, 900,1800, 1900;(Latin America andUSA) 850, 900, 1800, 1900 Network bands (LTE):1; (LatinAmerica and USA) 1, 2, 3, 4, 5, 7, 8,12/17, 13, 28, 66 Network bands (WCDMA):1, 2, 5, 8;(Latin America and USA) 1, 2, 4, 8",
+                "Sim size: Nano"
+            ],
+            "brandId": "121009442",
+            "brandName": "Nokia Bangladesh",
+            "sellerId": "5900",
+            "mainSellerId": "",
+            "sellerName": "Nokia Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cbc91c12589c7f0c718d616d3a998cf8.jpg",
+                    "productUrl": "/products/nokia-34-ds-smartphone-3gb-ram-64gb-rom-4000-mah-battery-i206653904-s1155957724.html",
+                    "sku": "206653904_BD",
+                    "skuId": "1155957724"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:206653904;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:206653904_BD;price:12164.95;client:desktop;supplier_id:5900;asc_category_id:3;item_id:206653904;sku_id:1155957724;shop_id:5653",
+            "addToCartSkus": [
+                {
+                    "sku": "206653904_BD-1155957724",
+                    "skuId": "1155957724",
+                    "count": 0
+                }
+            ],
+            "itemId": "206653904",
+            "skuId": "1155957724",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Infinix Hot 11S 6GB/128GB",
+            "nid": "235472364",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "235472364",
+                "scene_pre": "search",
+                "current_price": "15190.00",
+                "x_sku_ids": "1178729495",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "235472364"
+            },
+            "productUrl": "//www.daraz.com.bd/products/infinix-hot-11s-6gb128gb-i235472364-s1178729495.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ea711647ddc7bef65b6860d73838476f.jpg",
+            "price": "15190.00",
+            "promotionId": "null",
+            "priceShow": "৳ 15,190",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "235472364_BD-1178729495",
+            "sku": "235472364_BD",
+            "skus": [],
+            "description": [
+                "Display: 6.78&#39;&#39; Full HD+ 2480*1080 pixels (399 ppi) Multitouch Punch-hole",
+                "Dimensions: 168.9 x 77 x 8.8 mm",
+                "Chiepset: Mediatek Helio G88 (12 nm) 2.0.GHz Octa Core",
+                "Main Camera: (50+2+AI)MP AF (Quad-LED flash, monochrome, depth &amp; more)",
+                "Selfie Camera: +8MP",
+                "Memory: 128GB (ROM) + 6GB (RAM)",
+                "OS: Android 11 (XOS 7.6)",
+                "Network: GSM/HSPA/LTE",
+                "Others: BT-5.0, A2DP, LE/Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot /GPS (A-GPS) /Fingerprint (On the back), Accelerometer, Proximity, Gyro, E- Compass; Battery: Li-Po 5000 mAh with Fast charging 18W"
+            ],
+            "brandId": "12941",
+            "brandName": "Infinix",
+            "sellerId": "700512057659",
+            "mainSellerId": "",
+            "sellerName": "Infinix Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ea711647ddc7bef65b6860d73838476f.jpg",
+                    "productUrl": "/products/infinix-hot-11s-6gb128gb-i235472364-s1178729495.html",
+                    "sku": "235472364_BD",
+                    "skuId": "1178729495"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:235472364;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:235472364_BD;price:15190.00;client:desktop;supplier_id:700512057659;asc_category_id:3;item_id:235472364;sku_id:1178729495;shop_id:239388",
+            "addToCartSkus": [
+                {
+                    "sku": "235472364_BD-1178729495",
+                    "skuId": "1178729495",
+                    "count": 0
+                }
+            ],
+            "itemId": "235472364",
+            "skuId": "1178729495",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Samsung Galaxy A03 (3GB/32GB)",
+            "nid": "232245300",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "232245300",
+                "scene_pre": "search",
+                "current_price": "11351.00",
+                "x_sku_ids": "1175159819",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "232245300"
+            },
+            "productUrl": "//www.daraz.com.bd/products/samsung-galaxy-a03-3gb32gb-i232245300-s1175159819.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/571e531657c167f0480039901dbe5eb3.jpg",
+            "price": "11351.00",
+            "promotionId": "null",
+            "priceShow": "৳ 11,351",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "232245300_BD-1175159819",
+            "sku": "232245300_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "Display Size: 6.5\" HD+TFT",
+                "Camera (Rear): 48 +2 MP",
+                "Camera (Front): 5MP",
+                "Processor: Octa-Core 1.6 GHz",
+                "RAM: 3GB",
+                "ROM: 32GB",
+                "Battery: 5000 mAh",
+                "Network: 4G, LTE",
+                "Dimensions:164.2 x 75.9 x 9.1",
+                "Weight: 196g"
+            ],
+            "brandId": "4198",
+            "brandName": "Samsung",
+            "sellerId": "700508733580",
+            "mainSellerId": "",
+            "sellerName": "Samsung Mobile Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/571e531657c167f0480039901dbe5eb3.jpg",
+                    "productUrl": "/products/samsung-galaxy-a03-3gb32gb-i232245300-s1175159819.html",
+                    "sku": "232245300_BD",
+                    "skuId": "1175159819"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5b8800e23fda95e7d9c5a4a996996b1c.jpg",
+                    "productUrl": "/products/samsung-galaxy-a03-3gb32gb-i232245300-s1175159820.html",
+                    "sku": "232245300_BD",
+                    "skuId": "1175159820"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:232245300;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:232245300_BD;price:11351.00;client:desktop;supplier_id:700508733580;asc_category_id:3;item_id:232245300;sku_id:1175159819;shop_id:180101",
+            "addToCartSkus": [
+                {
+                    "sku": "232245300_BD-1175159819",
+                    "skuId": "1175159819",
+                    "count": 0
+                }
+            ],
+            "itemId": "232245300",
+            "skuId": "1175159819",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Samsung Galaxy A03 (4GB/64GB)",
+            "nid": "232254079",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "232254079",
+                "scene_pre": "search",
+                "current_price": "13238.00",
+                "x_sku_ids": "1175160660",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "232254079"
+            },
+            "productUrl": "//www.daraz.com.bd/products/samsung-galaxy-a03-4gb64gb-i232254079-s1175160660.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b5d0dae92b65ecd2e0d1ff6acb8bb874.jpg",
+            "price": "13238.00",
+            "promotionId": "null",
+            "priceShow": "৳ 13,238",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "232254079_BD-1175160660",
+            "sku": "232254079_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "Display Size: 6.5\" HD+TFT",
+                "Camera (Rear): 48 +2 MP",
+                "Camera (Front): 5MP",
+                "Processor: Octa-Core 1.6 GHz",
+                "RAM: 4GB",
+                "ROM: 64GB",
+                "Battery: 5000 mAh",
+                "Network: 4G, LTE",
+                "Dimensions:164.2 x 75.9 x 9.1",
+                "Weight: 196g"
+            ],
+            "brandId": "4198",
+            "brandName": "Samsung",
+            "sellerId": "700508733580",
+            "mainSellerId": "",
+            "sellerName": "Samsung Mobile Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b5d0dae92b65ecd2e0d1ff6acb8bb874.jpg",
+                    "productUrl": "/products/samsung-galaxy-a03-4gb64gb-i232254079-s1175160660.html",
+                    "sku": "232254079_BD",
+                    "skuId": "1175160660"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ee6ca2d2069b7123984e7d71f1926341.jpg",
+                    "productUrl": "/products/samsung-galaxy-a03-4gb64gb-i232254079-s1175160661.html",
+                    "sku": "232254079_BD",
+                    "skuId": "1175160661"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:232254079;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:232254079_BD;price:13238.00;client:desktop;supplier_id:700508733580;asc_category_id:3;item_id:232254079;sku_id:1175160660;shop_id:180101",
+            "addToCartSkus": [
+                {
+                    "sku": "232254079_BD-1175160660",
+                    "skuId": "1175160660",
+                    "count": 0
+                }
+            ],
+            "itemId": "232254079",
+            "skuId": "1175160660",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Infinix Smart 6 2GB/32GB",
+            "nid": "235467870",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "235467870",
+                "scene_pre": "search",
+                "current_price": "9090.00",
+                "x_sku_ids": "1178731042",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "235467870"
+            },
+            "productUrl": "//www.daraz.com.bd/products/infinix-smart-6-2gb32gb-i235467870-s1178731042.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6fe7561404a9a89f0fc4fd4b2e904812.jpg",
+            "price": "9090.00",
+            "promotionId": "null",
+            "priceShow": "৳ 9,090",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "235467870_BD-1178731042",
+            "sku": "235467870_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "Display: 6.6&#39;&#39;HD+ (1600*720) Water Drop Sunlight Screen",
+                "Dimensions: 164.8 x 76.0 x 8.75 mm",
+                "Chiepset: Helio A22 (28 nm) 2.0 GHz Quad-Core",
+                "Main Camera: 8 MP + AI LENS (depth)",
+                "Selfie Camera: 5 MP, Wide Angle Primary Camera",
+                "Memory: 32GB (ROM) + 2GB (RAM)",
+                "OS: Android 11 (Go Edition) XOS 7.6",
+                "Network: GSM/HSPA/LTE",
+                "Battery: Li-Po 5000 mAh with Fast charging 10W",
+                "Others: BT-5.0, A2DP, LE/Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot /GPS (A-GPS) /Fingerprint (On the back), Fingerprint, Accelerometer, Proximity, Gyro, E- Compass"
+            ],
+            "brandId": "12941",
+            "brandName": "Infinix",
+            "sellerId": "700512057659",
+            "mainSellerId": "",
+            "sellerName": "Infinix Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6fe7561404a9a89f0fc4fd4b2e904812.jpg",
+                    "productUrl": "/products/infinix-smart-6-2gb32gb-i235467870-s1178731042.html",
+                    "sku": "235467870_BD",
+                    "skuId": "1178731042"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:235467870;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:235467870_BD;price:9090.00;client:desktop;supplier_id:700512057659;asc_category_id:3;item_id:235467870;sku_id:1178731042;shop_id:239388",
+            "addToCartSkus": [
+                {
+                    "sku": "235467870_BD-1178731042",
+                    "skuId": "1178731042",
+                    "count": 0
+                }
+            ],
+            "itemId": "235467870",
+            "skuId": "1178731042",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Samsung Galaxy A53 5G 8GB/128GB",
+            "nid": "238037109",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "238037109",
+                "scene_pre": "search",
+                "current_price": "41619.00",
+                "x_sku_ids": "1181557403",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "238037109"
+            },
+            "productUrl": "//www.daraz.com.bd/products/samsung-galaxy-a53-5g-8gb128gb-i238037109-s1181557403.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d627584908e378ae8aafda6b12357c70.jpg",
+            "price": "41619.00",
+            "promotionId": "null",
+            "priceShow": "৳ 41,619",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "238037109_BD-1181557403",
+            "sku": "238037109_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "4198",
+            "brandName": "Samsung",
+            "sellerId": "700508790994",
+            "mainSellerId": "",
+            "sellerName": "Samsung Mobiles",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d627584908e378ae8aafda6b12357c70.jpg",
+                    "productUrl": "/products/samsung-galaxy-a53-5g-8gb128gb-i238037109-s1181557403.html",
+                    "sku": "238037109_BD",
+                    "skuId": "1181557403"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/723af6f063a8042a6cfc37242c6b26cc.jpg",
+                    "productUrl": "/products/samsung-galaxy-a53-5g-8gb128gb-i238037109-s1181557404.html",
+                    "sku": "238037109_BD",
+                    "skuId": "1181557404"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:238037109;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:238037109_BD;price:41619.00;client:desktop;supplier_id:700508790994;asc_category_id:3;item_id:238037109;sku_id:1181557403;shop_id:187825",
+            "addToCartSkus": [
+                {
+                    "sku": "238037109_BD-1181557403",
+                    "skuId": "1181557403",
+                    "count": 0
+                }
+            ],
+            "itemId": "238037109",
+            "skuId": "1181557403",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Umidigi A5 Pro - 6.3 inches FHD - 4GB RAM - 32GB ROM - 4150 mAh Battery",
+            "nid": "121714626",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "121714626",
+                "scene_pre": "search",
+                "current_price": "11729",
+                "x_sku_ids": "1041545611",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "121714626"
+            },
+            "productUrl": "//www.daraz.com.bd/products/umidigi-a5-pro-63-inches-fhd-4gb-ram-32gb-rom-4150-mah-battery-i121714626-s1041545611.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/71868df73fb30e6849e04830b9896bd0.jpg",
+            "price": "11729",
+            "promotionId": "null",
+            "priceShow": "৳ 11,729",
+            "ratingScore": "4.29744",
+            "review": "195",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "121714626_BD-1041545611",
+            "sku": "121714626_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "Display: 6.3\" FHD+ Waterdrop Full Screen,2280*1080 In-cell, LTPS Display",
+                "CPU: MTK, Helio P23, 4xCortex-A53, 2.0GHz & 4xCortex-A53, 1.5GHz",
+                "System: Android 9 Pie",
+                "Battery: 4150 mAh with 10W Fast Charging",
+                "RAM + ROM: 4GB RAM + 32GB ROM",
+                "Camera: 16MP + 8 MP + 5MP Triple Backcamera + 16.0MP front camera",
+                "Sensor: Proximity Sensor, E-compass, Gravity Sensor, Face ID, Light Sensor, Fingerprint Sensor, Gyroscope",
+                "SIM Card: Triple Slot, Nano SIM card + Nano SIM card +TF card",
+                "Feature: GPS, A-GPS, GLONASS",
+                "Bluetooth:4.2",
+                "Manufactured in China"
+            ],
+            "brandId": "86091",
+            "brandName": "UMIDIGI",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/71868df73fb30e6849e04830b9896bd0.jpg",
+                    "productUrl": "/products/umidigi-a5-pro-63-inches-fhd-4gb-ram-32gb-rom-4150-mah-battery-i121714626-s1041545611.html",
+                    "sku": "121714626_BD",
+                    "skuId": "1041545611"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:121714626;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:121714626_BD;price:11729;client:desktop;supplier_id:1000000;asc_category_id:3;item_id:121714626;sku_id:1041545611;shop_id:0",
+            "addToCartSkus": [
+                {
+                    "sku": "121714626_BD-1041545611",
+                    "skuId": "1041545611",
+                    "count": 0
+                }
+            ],
+            "itemId": "121714626",
+            "skuId": "1041545611",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Infinix Hot 11 Play 4GB/64GB",
+            "nid": "234848292",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "234848292",
+                "scene_pre": "search",
+                "current_price": "11990.00",
+                "x_sku_ids": "1178714101",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "234848292"
+            },
+            "productUrl": "//www.daraz.com.bd/products/infinix-hot-11-play-4gb64gb-i234848292-s1178714101.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4bf64fad54f48b4fd893b9185a80f824.jpg",
+            "price": "11990.00",
+            "promotionId": "null",
+            "priceShow": "৳ 11,990",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "234848292_BD-1178714101",
+            "sku": "234848292_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "12941",
+            "brandName": "Infinix",
+            "sellerId": "700512057659",
+            "mainSellerId": "",
+            "sellerName": "Infinix Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4bf64fad54f48b4fd893b9185a80f824.jpg",
+                    "productUrl": "/products/infinix-hot-11-play-4gb64gb-i234848292-s1178714101.html",
+                    "sku": "234848292_BD",
+                    "skuId": "1178714101"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:234848292;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:234848292_BD;price:11990.00;client:desktop;supplier_id:700512057659;asc_category_id:3;item_id:234848292;sku_id:1178714101;shop_id:239388",
+            "addToCartSkus": [
+                {
+                    "sku": "234848292_BD-1178714101",
+                    "skuId": "1178714101",
+                    "count": 0
+                }
+            ],
+            "itemId": "234848292",
+            "skuId": "1178714101",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Infinix Smart 6 3GB/64GB",
+            "nid": "235483106",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "235483106",
+                "scene_pre": "search",
+                "current_price": "10690.00",
+                "x_sku_ids": "1178720843",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "235483106"
+            },
+            "productUrl": "//www.daraz.com.bd/products/infinix-smart-6-3gb64gb-i235483106-s1178720843.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f7e4725390f97a32796fd45576ceca38.jpg",
+            "price": "10690.00",
+            "promotionId": "null",
+            "priceShow": "৳ 10,690",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "235483106_BD-1178720843",
+            "sku": "235483106_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "Display: 6.6&#39;&#39;HD+ (1600*720) Water Drop Sunlight Screen",
+                "Dimensions: 165.4 x 73.4 x 8.8 mm",
+                "Chiepset: Mediatek MT6761D Helio A20 (12 nm) 1.8.GHz Quad-Core",
+                "Main Camera: 13 MP + QVGA + QVGA (Triple-LED flash)",
+                "Selfie Camera:  8 MP (Dual-LED flash)",
+                "Memory: 64GB (ROM) + 3GB (RAM)",
+                "OS: Android 11 (Go Edition) XOS 7.6",
+                "Network: GSM/HSPA/LTE",
+                "Battery: Li-Po 5000 mAh with Fast charging 10W",
+                "Others: BT-5.0, A2DP, LE/Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot /GPS (A-GPS) /Fingerprint (On the back), Fingerprint, Accelerometer, Proximity, Gyro, E-Compass"
+            ],
+            "brandId": "12941",
+            "brandName": "Infinix",
+            "sellerId": "700512057659",
+            "mainSellerId": "",
+            "sellerName": "Infinix Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f7e4725390f97a32796fd45576ceca38.jpg",
+                    "productUrl": "/products/infinix-smart-6-3gb64gb-i235483106-s1178720843.html",
+                    "sku": "235483106_BD",
+                    "skuId": "1178720843"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:235483106;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:235483106_BD;price:10690.00;client:desktop;supplier_id:700512057659;asc_category_id:3;item_id:235483106;sku_id:1178720843;shop_id:239388",
+            "addToCartSkus": [
+                {
+                    "sku": "235483106_BD-1178720843",
+                    "skuId": "1178720843",
+                    "count": 0
+                }
+            ],
+            "itemId": "235483106",
+            "skuId": "1178720843",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nokia 6.2 Smartphone-6.3 inches -4 RAM-64GB ROM-16MP Camera-Ceramic Black",
+            "nid": "121929144",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "121929144",
+                "scene_pre": "search",
+                "current_price": "20940.00",
+                "x_sku_ids": "1041779745",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "121929144"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nokia-62-smartphone-63-inches-4-ram-64gb-rom-16mp-camera-ceramic-black-i121929144-s1041779745.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ab8ba068a060e11f907177ab31231d55.jpg",
+            "price": "20940.00",
+            "promotionId": "null",
+            "priceShow": "৳ 20,940",
+            "ratingScore": "4.7",
+            "review": "200",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "121929144_BD-1041779745",
+            "sku": "121929144_BD",
+            "skus": [],
+            "description": [
+                "Network: GSM / HSPA / LTE",
+                "BodyDimensions:159.9 x 75.1 x 8.3 mm (6.30 x 2.96 x 0.33 in)",
+                "Weight: 180 g (6.35 oz)",
+                "Protection : CorningÂ® GorillaÂ® Glass 3 (Front/Back)",
+                "SIM Type :Dual Nano-sim, dual stand-by.",
+                "DisplayType: IPS LCD capacitive touchscreen, 16M colors",
+                "Display Size: 6.3\", 99.1 cm2(~82.5% screen-to-body ratio)",
+                "Resolution: FHD+ with PureDisplay 1080 x 2280 pixels",
+                "Operating system: Android 9.0 (Pie); Android One",
+                "CPU: QualcommÂ® Snapdragonâ¢ 636",
+                "GPU: Adreno 509",
+                "MicroSD card slot: Support for up to 512 GB",
+                "RAM/ROM : 4GB / 64GB",
+                "Rear Cameras : 16 MP, 5 MP depth sensor, 8 MP sensor with ultra-wide lens",
+                "Camera Features:LED flash, panorama, HDR",
+                "Video: 2160p@30fps, 1080p@30fps",
+                "Selfie Camera : 8 MP, f/2.0, 1/4\", 1.12Âµm",
+                "Video: 1080p@30fps",
+                "Headphone Jack 3.5 mm:QualcommÂ® aptXâ¢ audio",
+                "FM radio : Yes",
+                "Sensors: Fingerprint (rear-mounted)",
+                "BatteryType: Charging Non-removable 5V/2A compatible"
+            ],
+            "brandId": "4158",
+            "brandName": "Nokia",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ab8ba068a060e11f907177ab31231d55.jpg",
+                    "productUrl": "/products/nokia-62-smartphone-63-inches-4-ram-64gb-rom-16mp-camera-ceramic-black-i121929144-s1041779745.html",
+                    "sku": "121929144_BD",
+                    "skuId": "1041779745"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:121929144;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:121929144_BD;price:20940.00;client:desktop;supplier_id:1000000;asc_category_id:3;item_id:121929144;sku_id:1041779745;shop_id:33964",
+            "addToCartSkus": [
+                {
+                    "sku": "121929144_BD-1041779745",
+                    "skuId": "1041779745",
+                    "count": 0
+                }
+            ],
+            "itemId": "121929144",
+            "skuId": "1041779745",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "realme C20A - 5000 mAh battery",
+            "nid": "183213669",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183213669",
+                "scene_pre": "search",
+                "current_price": "8990.00",
+                "x_sku_ids": "1127450546",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "183213669"
+            },
+            "productUrl": "//www.daraz.com.bd/products/realme-c20a-5000-mah-battery-i183213669-s1127450546.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d2894ba6c97c35e57c065c01fb7a87f4.png",
+            "price": "8990.00",
+            "promotionId": "null",
+            "priceShow": "৳ 8,990",
+            "ratingScore": "4.72152",
+            "review": "158",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183213669_BD-1127450546",
+            "sku": "183213669_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "5000mAh Massive Battery",
+                "Processor: MediaTek Helio G35 Octa-core 12nm Processor",
+                "CPU: Octa-core CPU, 12nm, up to 2.3GHz",
+                "GPU: IMG GE8320",
+                "Storage & RAM: RAM: 2GB LPDDR4X  ROM: 32GB",
+                "16.5cm (6.5\") Large Display",
+                "3-Card Slot",
+                "2 SIM + 1 MicroSD",
+                "2+32GB Large Storage",
+                "Geometric Art Design",
+                "Main Camera: 8MP AI Camera",
+                "Front Camera: 5MP AI selfie camera"
+            ],
+            "brandId": "201624",
+            "brandName": "Realme",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d2894ba6c97c35e57c065c01fb7a87f4.png",
+                    "productUrl": "/products/realme-c20a-5000-mah-battery-i183213669-s1127450546.html",
+                    "sku": "183213669_BD",
+                    "skuId": "1127450546"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:183213669;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:183213669_BD;price:8990.00;client:desktop;supplier_id:1000000;asc_category_id:3;item_id:183213669;sku_id:1127450546;shop_id:33960",
+            "addToCartSkus": [
+                {
+                    "sku": "183213669_BD-1127450546",
+                    "skuId": "1127450546",
+                    "count": 0
+                }
+            ],
+            "itemId": "183213669",
+            "skuId": "1127450546",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Infinix Hot 11S 4GB/128GB- Li-Po 5000 mAh Battery",
+            "nid": "235478107",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "235478107",
+                "scene_pre": "search",
+                "current_price": "14990.00",
+                "x_sku_ids": "1178729423",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "235478107"
+            },
+            "productUrl": "//www.daraz.com.bd/products/infinix-hot-11s-4gb128gb-li-po-5000-mah-battery-i235478107-s1178729423.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2d8da9dc6c8111179273038656f81ac5.jpg",
+            "price": "14990.00",
+            "promotionId": "null",
+            "priceShow": "৳ 14,990",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "235478107_BD-1178729423",
+            "sku": "235478107_BD",
+            "skus": [],
+            "description": [
+                "Display: 6.78&#39;&#39; Full HD+ 2480*1080 pixels (399 ppi) Multitouch Punch-hole",
+                "Dimensions: 168.9 x 77 x 8.8 mm; Chiepset: Mediatek Helio G88 (12 nm) 2.0.GHz Octa Core",
+                "Main Camera: (50+2+AI)MP AF (Quad-LED flash, monochrome, depth &amp; more)",
+                "Selfie Camera: +8MP",
+                "Memory: 128GB (ROM) + 4GB (RAM)",
+                "OS: Android 11 (XOS 7.6)",
+                "Network: GSM/HSPA/LTE; Others: BT-5.0, A2DP",
+                "LE/Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot /GPS (A-GPS) /Fingerprint (On the back), Accelerometer, Proximity, Gyro, E- Compass;",
+                "Battery: Li-Po 5000 mAh with Fast charging 18W"
+            ],
+            "brandId": "12941",
+            "brandName": "Infinix",
+            "sellerId": "700512057659",
+            "mainSellerId": "",
+            "sellerName": "Infinix Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2d8da9dc6c8111179273038656f81ac5.jpg",
+                    "productUrl": "/products/infinix-hot-11s-4gb128gb-li-po-5000-mah-battery-i235478107-s1178729423.html",
+                    "sku": "235478107_BD",
+                    "skuId": "1178729423"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:235478107;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:235478107_BD;price:14990.00;client:desktop;supplier_id:700512057659;asc_category_id:3;item_id:235478107;sku_id:1178729423;shop_id:239388",
+            "addToCartSkus": [
+                {
+                    "sku": "235478107_BD-1178729423",
+                    "skuId": "1178729423",
+                    "count": 0
+                }
+            ],
+            "itemId": "235478107",
+            "skuId": "1178729423",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Infinix Note 10 6GB/128GB",
+            "nid": "235470343",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "235470343",
+                "scene_pre": "search",
+                "current_price": "15990.00",
+                "x_sku_ids": "1178720650",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "235470343"
+            },
+            "productUrl": "//www.daraz.com.bd/products/infinix-note-10-6gb128gb-i235470343-s1178720650.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d325576d1272ada606720fe5638b52f8.jpg",
+            "price": "15990.00",
+            "promotionId": "null",
+            "priceShow": "৳ 15,990",
+            "ratingScore": "4",
+            "review": "1",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "235470343_BD-1178720650",
+            "sku": "235470343_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "12941",
+            "brandName": "Infinix",
+            "sellerId": "700512057659",
+            "mainSellerId": "",
+            "sellerName": "Infinix Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d325576d1272ada606720fe5638b52f8.jpg",
+                    "productUrl": "/products/infinix-note-10-6gb128gb-i235470343-s1178720650.html",
+                    "sku": "235470343_BD",
+                    "skuId": "1178720650"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/25aa598d83ac9b733200933a9d0c127f.jpg",
+                    "productUrl": "/products/infinix-note-10-6gb128gb-i235470343-s1178720651.html",
+                    "sku": "235470343_BD",
+                    "skuId": "1178720651"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:235470343;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:235470343_BD;price:15990.00;client:desktop;supplier_id:700512057659;asc_category_id:3;item_id:235470343;sku_id:1178720650;shop_id:239388",
+            "addToCartSkus": [
+                {
+                    "sku": "235470343_BD-1178720650",
+                    "skuId": "1178720650",
+                    "count": 0
+                }
+            ],
+            "itemId": "235470343",
+            "skuId": "1178720650",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Infinix Note 11 Pro 8GB/128GB",
+            "nid": "234843289",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "234843289",
+                "scene_pre": "search",
+                "current_price": "21490.00",
+                "x_sku_ids": "1178728330",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "234843289"
+            },
+            "productUrl": "//www.daraz.com.bd/products/infinix-note-11-pro-8gb128gb-i234843289-s1178728330.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e60d882a0c84c785c48ab094c6cb51c6.jpg",
+            "price": "21490.00",
+            "promotionId": "null",
+            "priceShow": "৳ 21,490",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "234843289_BD-1178728330",
+            "sku": "234843289_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "Display: 6.95&#39;&#39;IPS HD+",
+                " 120 Hz (1080*2460) Infinity-0 Display;",
+                "Dimensions: 173.1 x 78.4 x 8.7 mm;",
+                "Chiepset: Mediatek Helio G96 (12 nm) 2.05 GHz Octa Core;",
+                "Main Camera: (64+13+2)MP (Wide, PDAF, Telephoto, Depth, Quad-LED flash, HDR, panorama);",
+                "Selfie Camera: 16MP with Quad-LED flash;",
+                "Memory: 128GB (ROM) + 8GB (RAM);",
+                "OS: Android 11, XOS 10;",
+                "Network: GSM/HSPA/LTE;",
+                "Others: BT-5.0, A2DP, LE/Wi-Fi 802.11 a/b/g/n/ac,",
+                "dual-band, hotspot /GPS (A-GPS) /Fingerprint (Side- mounted),",
+                "Accelerometer, Proximity, Gyro, E-Compass;",
+                "Battery: Li-Po 5000 mAh with Fast charging 33W"
+            ],
+            "brandId": "12941",
+            "brandName": "Infinix",
+            "sellerId": "700512057659",
+            "mainSellerId": "",
+            "sellerName": "Infinix Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e60d882a0c84c785c48ab094c6cb51c6.jpg",
+                    "productUrl": "/products/infinix-note-11-pro-8gb128gb-i234843289-s1178728330.html",
+                    "sku": "234843289_BD",
+                    "skuId": "1178728330"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:234843289;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:234843289_BD;price:21490.00;client:desktop;supplier_id:700512057659;asc_category_id:3;item_id:234843289;sku_id:1178728330;shop_id:239388",
+            "addToCartSkus": [
+                {
+                    "sku": "234843289_BD-1178728330",
+                    "skuId": "1178728330",
+                    "count": 0
+                }
+            ],
+            "itemId": "234843289",
+            "skuId": "1178728330",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Realme c21-3GB/32GB - 5000mAh Battery",
+            "nid": "183006872",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183006872",
+                "scene_pre": "search",
+                "current_price": "10819.00",
+                "x_sku_ids": "1127073165",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "183006872"
+            },
+            "productUrl": "//www.daraz.com.bd/products/realme-c21-3gb32gb-5000mah-battery-i183006872-s1127073165.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/305c10ec0ea467c206d0c2b4d07621fa.jpg",
+            "price": "10819.00",
+            "promotionId": "null",
+            "priceShow": "৳ 10,819",
+            "ratingScore": "4.64602",
+            "review": "113",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183006872_BD-1127073165",
+            "sku": "183006872_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "ProcessorCPU: Octa-core CPU, 12nm, up to 2.3GHz",
+                "GPU: IMG GE8320",
+                "Operating System: realme UI Based on Android 10",
+                "RAM: 3GB / ROM: 32GB",
+                "Display:6.5&quot; HD+ Mini-drop Fullscreen",
+                "89.5% Screen-to-body Ratio",
+                "Primary Camera (Triple Camera):13MP,2MP,2MP Macro lens",
+                "5MP AI selfie camera",
+                "5000mAh Massive Battery",
+                "Cellular &amp; Wireless",
+                "3-Card Slot",
+                "2 SIM Card + 1 MicroSD",
+                "Frequency Bands:2/3/4",
+                "GSM: 850/900/1800/1900MHz",
+                "WCDMA: Bands 1/5/8",
+                "FDD-LTE: Bands 1/3/5/7/8/20/28",
+                "TD-LTE: Bands 38/402655MHz",
+                "Wireless:802.11 b/g/nBluetooth 5.0",
+                "Sensors:Magnetic induction sensor,Light sensor",
+                "Proximity sensor,Acceleration sensor",
+                "Navigation:GPS/AGPS/Beidou/Glonass",
+                "Ports:3.5mm headset jack",
+                "Micro-USB",
+                "Dual nano-SIM and 1 Micro SD"
+            ],
+            "brandId": "201624",
+            "brandName": "Realme",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/305c10ec0ea467c206d0c2b4d07621fa.jpg",
+                    "productUrl": "/products/realme-c21-3gb32gb-5000mah-battery-i183006872-s1127073165.html",
+                    "sku": "183006872_BD",
+                    "skuId": "1127073165"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:183006872;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:183006872_BD;price:10819.00;client:desktop;supplier_id:1000000;asc_category_id:3;item_id:183006872;sku_id:1127073165;shop_id:33960",
+            "addToCartSkus": [
+                {
+                    "sku": "183006872_BD-1127073165",
+                    "skuId": "1127073165",
+                    "count": 0
+                }
+            ],
+            "itemId": "183006872",
+            "skuId": "1127073165",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Tecno Spark 8c (4GB/128GB)",
+            "nid": "237081954",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237081954",
+                "scene_pre": "search",
+                "current_price": "12681.00",
+                "x_sku_ids": "1180445913",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "237081954"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tecno-spark-8c-4gb128gb-i237081954-s1180445913.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ba9faf7d155ada0781c865323e973ecb.jpg",
+            "originalPrice": "12990.00",
+            "originalPriceShow": "৳ 12,990",
+            "price": "12681.00",
+            "promotionId": "null",
+            "priceShow": "৳ 12,681",
+            "discount": "-2%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237081954_BD-1180445913",
+            "sku": "237081954_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "90Hz Refresh Rate HD+ 6.6\" Dot Notch Screen",
+                "13MP AI-Enhanced Dual Camera",
+                "Memory Fusion",
+                "5000mAh Long-lasting Battery",
+                "DTS Stereo Sound Effect",
+                "SUPER BOOST System Optimization",
+                "Height: 164.57 mm",
+                "Width: 76mm",
+                "Thickness: 8.95mm",
+                "6.6\" HD+ Dot Notch Screen (90Hz Refresh Rate)",
+                "720*1612 Resolution",
+                "4GB RAM+128GB ROM",
+                "5000mAh(typ)",
+                "2G bands: GSM 850 / 900 / 1800 / 1900 – SIM 1 & SIM 2",
+                "3G bands: HSDPA 850 / 900 / 2100",
+                "4G bands: LTE",
+                "8MP Front Camera with Flash",
+                "13MP AI Dual Rear Camera with Dual Flash",
+                "G-Sensor",
+                "Ambient Light Sensor",
+                "Proximity Sensor",
+                "Fingerprint Sensor"
+            ],
+            "brandId": "30051",
+            "brandName": "Tecno",
+            "sellerId": "700507644113",
+            "mainSellerId": "",
+            "sellerName": "Tecno Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ba9faf7d155ada0781c865323e973ecb.jpg",
+                    "productUrl": "/products/tecno-spark-8c-4gb128gb-i237081954-s1180445913.html",
+                    "sku": "237081954_BD",
+                    "skuId": "1180445913"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:237081954;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:237081954_BD;price:12681.00;client:desktop;supplier_id:700507644113;asc_category_id:3;item_id:237081954;sku_id:1180445913;shop_id:102960",
+            "addToCartSkus": [
+                {
+                    "sku": "237081954_BD-1180445913",
+                    "skuId": "1180445913",
+                    "count": 0
+                }
+            ],
+            "itemId": "237081954",
+            "skuId": "1180445913",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Tecno Spark 8c (3GB/64GB)",
+            "nid": "231254316",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "231254316",
+                "scene_pre": "search",
+                "current_price": "11702",
+                "x_sku_ids": "1174444096",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "231254316"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tecno-spark-8c-3gb64gb-i231254316-s1174444096.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4dc46ed674d3a84508572cdf41bcb561.jpg",
+            "originalPrice": "11990.00",
+            "originalPriceShow": "৳ 11,990",
+            "price": "11702",
+            "promotionId": "null",
+            "priceShow": "৳ 11,702",
+            "discount": "-2%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "231254316_BD-1174444096",
+            "sku": "231254316_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "90Hz Refresh Rate HD+ 6.6&quot; Dot Notch Screen",
+                "13MP AI-Enhanced Dual Camera",
+                "Memory Fusion",
+                "5000mAh Long-lasting Battery",
+                "DTS Stereo Sound Effect",
+                "SUPER BOOST System Optimization",
+                "Height: 164.57 mm",
+                "Width: 76mm",
+                "Thickness: 8.95mm",
+                "6.6&quot; HD+ Dot Notch Screen (90Hz Refresh Rate)",
+                "720*1612 Resolution",
+                "3GB RAM+64GB ROM",
+                "5000mAh(typ)",
+                "2G bands: GSM 850 / 900 / 1800 / 1900 &ndash; SIM 1 &amp; SIM 2",
+                "3G bands: HSDPA 850 / 900 / 2100",
+                "4G bands: LTE",
+                "8MP Front Camera with Flash",
+                "13MP AI Dual Rear Camera with Dual Flash",
+                "G-Sensor",
+                "Ambient Light Sensor",
+                "Proximity Sensor",
+                "Fingerprint Sensor"
+            ],
+            "brandId": "30051",
+            "brandName": "Tecno",
+            "sellerId": "700507644113",
+            "mainSellerId": "",
+            "sellerName": "Tecno Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4dc46ed674d3a84508572cdf41bcb561.jpg",
+                    "productUrl": "/products/tecno-spark-8c-3gb64gb-i231254316-s1174444096.html",
+                    "sku": "231254316_BD",
+                    "skuId": "1174444096"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:231254316;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:231254316_BD;price:11702;client:desktop;supplier_id:700507644113;asc_category_id:3;item_id:231254316;sku_id:1174444096;shop_id:102960",
+            "addToCartSkus": [
+                {
+                    "sku": "231254316_BD-1174444096",
+                    "skuId": "1174444096",
+                    "count": 0
+                }
+            ],
+            "itemId": "231254316",
+            "skuId": "1174444096",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Imam i10 Special",
+            "nid": "208571896",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "208571896",
+                "scene_pre": "search",
+                "current_price": "10000.00",
+                "x_sku_ids": "1158832434",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "208571896"
+            },
+            "productUrl": "//www.daraz.com.bd/products/imam-i10-i208571896-s1158832434.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/79cbd08ad2e83b891cdc9080ed86a94f.jpg",
+            "price": "10000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 10,000",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "208571896_BD-1158832434",
+            "sku": "208571896_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504932112",
+            "mainSellerId": "",
+            "sellerName": "Alfi Trade International (KHL)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/79cbd08ad2e83b891cdc9080ed86a94f.jpg",
+                    "productUrl": "/products/imam-i10-i208571896-s1158832434.html",
+                    "sku": "208571896_BD",
+                    "skuId": "1158832434"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:208571896;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:208571896_BD;price:10000.00;client:desktop;supplier_id:700504932112;asc_category_id:3;item_id:208571896;sku_id:1158832434;shop_id:52114",
+            "addToCartSkus": [
+                {
+                    "sku": "208571896_BD-1158832434",
+                    "skuId": "1158832434",
+                    "count": 0
+                }
+            ],
+            "itemId": "208571896",
+            "skuId": "1158832434",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nokia 1.4 (3GB/64GB)",
+            "nid": "235443154",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "235443154",
+                "scene_pre": "search",
+                "current_price": "9998.97",
+                "x_sku_ids": "1178702480",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "235443154"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nokia-14-3gb64gb-i235443154-s1178702480.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3b20bf5b409eaad0d311214a05af6ede.jpg",
+            "price": "9998.97",
+            "promotionId": "null",
+            "priceShow": "৳ 9,999",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "235443154_BD-1178702480",
+            "sku": "235443154_BD",
+            "skus": [],
+            "description": [
+                "NO RETURN applicable if the seal is broken",
+                "Dimensions: 166.4 x 76.7 x 8.7 mm (6.55 x 3.02 x 0.34 in)",
+                "Weight: 178 g (6.28 oz)",
+                "Build: Glass front, plastic back, plastic frame",
+                "SIM: Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
+                "Size: 6.52 inches, 102.6 cm2 (~80.4% screen-to-body ratio)",
+                "Resolution: 720 x 1600 pixels, 20:9 ratio (~269 ppi density)",
+                "OS: Android 10 (Go edition), planned upgrade to Android 11 (Go edition)",
+                "Chipset: Qualcomm QM215 Snapdragon 215 (28 nm)",
+                "CPU: Quad-core 1.3 GHz Cortex-A53",
+                "GPU: Adreno 308",
+                "Internal: 64GB 3GB RAM",
+                "Main Camera:  Dual 8 MP, (wide), AF 2 MP, (macro)",
+                "Selfie Camera: Single 5 MP",
+                "Loudspeak: Yes",
+                "3.5mm jack: Yes",
+                "Bluetooth: 4.2, A2DP, LE",
+                "Batteray Type: Li-Po 4000 mAh, non-removable"
+            ],
+            "brandId": "4158",
+            "brandName": "Nokia",
+            "sellerId": "5900",
+            "mainSellerId": "",
+            "sellerName": "Nokia Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3b20bf5b409eaad0d311214a05af6ede.jpg",
+                    "productUrl": "/products/nokia-14-3gb64gb-i235443154-s1178702480.html",
+                    "sku": "235443154_BD",
+                    "skuId": "1178702480"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c64b3ae9dc5d4d1cb49aefe2d2195f74.jpg",
+                    "productUrl": "/products/nokia-14-3gb64gb-i235443154-s1178702481.html",
+                    "sku": "235443154_BD",
+                    "skuId": "1178702481"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:235443154;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:235443154_BD;price:9998.97;client:desktop;supplier_id:5900;asc_category_id:3;item_id:235443154;sku_id:1178702480;shop_id:5653",
+            "addToCartSkus": [
+                {
+                    "sku": "235443154_BD-1178702480",
+                    "skuId": "1178702480",
+                    "count": 0
+                }
+            ],
+            "itemId": "235443154",
+            "skuId": "1178702480",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "OPPO A54 6 + 128GB Dual SIM android Phone",
+            "nid": "191732701",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "191732701",
+                "scene_pre": "search",
+                "current_price": "17810",
+                "x_sku_ids": "1138663008",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "191732701"
+            },
+            "productUrl": "//www.daraz.com.bd/products/oppo-a54-8-128gb-i191732701-s1138663008.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b364a4b167283c70f5a9a75ef4743826.jpg",
+            "price": "17810",
+            "promotionId": "null",
+            "priceShow": "৳ 17,810",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "191732701_BD-1138663008",
+            "sku": "191732701_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "12933",
+            "brandName": "OPPO",
+            "sellerId": "1031102",
+            "mainSellerId": "",
+            "sellerName": "SAFEWAY TELECOM (SYL)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b364a4b167283c70f5a9a75ef4743826.jpg",
+                    "productUrl": "/products/oppo-a54-8-128gb-i191732701-s1138663008.html",
+                    "sku": "191732701_BD",
+                    "skuId": "1138663008"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/06b843bbc855857d06d40a4270b60713.jpg",
+                    "productUrl": "/products/oppo-a54-8-128gb-i191732701-s1138663009.html",
+                    "sku": "191732701_BD",
+                    "skuId": "1138663009"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:191732701;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:191732701_BD;price:17810;client:desktop;supplier_id:1031102;asc_category_id:3;item_id:191732701;sku_id:1138663008;shop_id:37125",
+            "addToCartSkus": [
+                {
+                    "sku": "191732701_BD-1138663008",
+                    "skuId": "1138663008",
+                    "count": 0
+                }
+            ],
+            "itemId": "191732701",
+            "skuId": "1138663008",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "OPPO A16 4GB RAM and 64GB ROM Smartphone",
+            "nid": "202425147",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "202425147",
+                "scene_pre": "search",
+                "current_price": "14166",
+                "x_sku_ids": "1170660194",
+                "SN": "71825c2f1d765aec0d3bb7b1259caba9",
+                "x_ad": "1",
+                "x_object_id": "202425147"
+            },
+            "productUrl": "//www.daraz.com.bd/products/oppo-a16-4gb-ram-64gb-rom-i202425147-s1170660194.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5101ca2928181fc8831a15dcd245fdc4.jpg",
+            "price": "14166",
+            "promotionId": "null",
+            "priceShow": "৳ 14,166",
+            "ratingScore": "5",
+            "review": "18",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "202425147_BD-1170660194",
+            "sku": "202425147_BD",
+            "skus": [],
+            "description": [
+                "OS: ColorOS 11.1 based on Android 11",
+                "CPU: MediaTek Helio G35",
+                "CPU Cores: Octa-core, Up to 2.3GHz",
+                "GPU: IMG GE8320 @ 680 MHz",
+                "RAM: 4GB",
+                "RAM Type: LPDDR4x @ 2133 MHz 2 &times; 16-bit",
+                "ROM: 64GB",
+                "ROM Type: eMMC 5.1",
+                "External Memory: Supported",
+                "Rear Camera: 13MP+2MP+2MP",
+                "Rear Camera Mechanism: 13MP Main Camera: f/2.2; FOV 80&deg;; 5P lens; AF + 2MP Mono Camera: f/2.4; FOV 88.8&deg;; 3P lens; FF + 2MP Macro Camera: f/2.4; FOV 88.8&deg;; 3P lens; FF",
+                "Front Camera: 8MP",
+                "Front Camera Mechanism: 8MP (f/2.0); FOV79&deg;; 5P Lens",
+                "Screen: 6.52 inches. LCD Panel",
+                "Resolution: 720 x 1600 (HD+)",
+                "Refresh Rate: 60Hz",
+                "Touch Sampling Rate: 60Hz",
+                "Battery: Non-removable Li-Po 5000mAh Long-lasting Battery (18W Flash Charge)",
+                "Connectivity: Wi-Fi 2.4G, Wi-Fi 5G, Wi-Fi Display. Bluetooth Version: 5.0. USB Type C. 3.5mm Earphone Jack. NFC: Not supported. USB OTG: Supported",
+                "Sensors: Geomagnetic, Proximity sensor, Accelerometer, Light sensor, Gravity sensor",
+                "Biometrics: Supports In-Display Fingerprint and Face Unlock"
+            ],
+            "brandId": "12933",
+            "brandName": "OPPO",
+            "sellerId": "5879",
+            "mainSellerId": "",
+            "sellerName": "Alapon Computer (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5101ca2928181fc8831a15dcd245fdc4.jpg",
+                    "productUrl": "/products/oppo-a16-4gb-ram-64gb-rom-i202425147-s1170660194.html",
+                    "sku": "202425147_BD",
+                    "skuId": "1170660194"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/855dfe1d29c59ec31eb7023fe44d2054.jpg",
+                    "productUrl": "/products/oppo-a16-4gb-ram-64gb-rom-i202425147-s1170660195.html",
+                    "sku": "202425147_BD",
+                    "skuId": "1170660195"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                2,
+                3
+            ],
+            "clickTrace": "query:;nid:202425147;src:LazadaMainSrp;rn:71825c2f1d765aec0d3bb7b1259caba9;region:bd;sku:202425147_BD;price:14166;client:desktop;supplier_id:5879;asc_category_id:3;item_id:202425147;sku_id:1170660194;shop_id:5909",
+            "addToCartSkus": [
+                {
+                    "sku": "202425147_BD-1170660194",
+                    "skuId": "1170660194",
+                    "count": 0
+                }
+            ],
+            "itemId": "202425147",
+            "skuId": "1170660194",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/phones-tablets/",
+            "title": "Mobiles & Tablets"
+        },
+        {
+            "url": "/smartphones/",
+            "title": "Mobiles"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/smartphones/?referer_rn=71825c2f1d765aec0d3bb7b1259caba9&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Ch2%3EGet%20the%20Latest%20Mobile%20Phones%20at%20Best%20Price%20(Updated%20Latest%20Price%20List%20February%202022)%3C%2Fh2%3E%0A%3Cp%3EThe%20base%20price%20for%20a%20latest%20smartphone%20at%20Daraz%20Bangladesh%20is%20Tk.%202%2C999%20and%20the%20highest%20price%20is%20Tk.%20157%2C999.%3C%2Fp%3E%0A%0A%3Ch3%3EBuy%20Mobile%20Phones%20Online%20at%20Best%20Price%20in%20Bangladesh%20-%20Daraz.com.bd%3C%2Fh3%3E%0A%0A%3Cp%3EExperience%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2F%22%3EOnline%20Shopping%3C%2Fa%3E%20for%20Mobile%20Phones%20in%20Bangladesh%20from%20comfort%20of%20your%20home.%20Daraz.com.bd%20is%20your%20Online%20Mobile%20Phone%20Shop%20in%20Bangladesh%20that%20lets%20you%20Buy%20Mobile%20Phones%20Online%20from%20Verified%20sellers%20across%20country.%20Get%20a%20chance%20to%20Compare%20All%20Mobile%20Price%20in%20Bangladesh%202022%20from%20Top%20Brands.%20Shoppers%20can%20Buy%20New%20Mobiles%20Online%20with%20Latest%20Smartphone%20at%20Low%20Prices%20with%20Brand%20Warranty%20and%20Home%20Delivery.%20Not%20only%20that%2C%20Shoppers%20have%20the%20opportunity%20to%20Buy%20Mobile%20on%20EMI%20in%20Bangladesh%20with%20No%20Cost%20EMI%20Installment%20Options%20from%20our%20Banking%20Partners.%20Order%20Online%20and%20Get%20home-delivery%20of%20your%20favourite%20Smartphone%20in%20Bangladesh%20and%20across%20Country.%20Shoppers%20can%20also%20wait%20for%20our%20mega%20campaigns%20like%20Daraz%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Fvalentgines-day-sale%2F%22%3Evalentine%20sale%3C%2Fa%3E%2C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Fanniversary-sale%2F%22%3Eanniversary%20sale%3C%2Fa%3E%2C%26nbsp%3B%3Ca%20href%3D%22%2F10-10-mega-sale%2F%22%3E10.10%3C%2Fa%3E%2C%20%3Ca%20href%3D%22%2F11-11-sale%2F%22%3E11.11%3C%2Fa%3E%2C%20%3Ca%20href%3D%22%2F12-12-sale%2F%22%3E12.12%3C%2Fa%3E%20for%20more%20discount%20offers.%20To%20search%20for%20a%20phone%20by%20price%2C%20headout%20to%20our%20%3Ca%20href%3D%22https%3A%2F%2Fblog.daraz.com.bd%2Fphone-finder%2F%22%3Emobile%20phone%20selector%3C%2Fa%3E%20page.%20Do%20also%20check%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ffeaturephones%2F%22%3Efeature%20phone%20price%3C%2Fa%3E%20as%20well.%3C%2Fp%3E%0A%0A%3Cp%3E%3Cstrong%3ETop%20Mobile%20Brands%3A%3C%2Fstrong%3E%20%3Ca%20href%3D%22%2Fsmartphones%2Fxiaomi%2F%22%3Exiaomi%20mobile%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Fsmartphones%2Frealme-201624%2F%22%3Erealme%20mobile%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Fsmartphones%2Fapple%2F%22%3Eapple%20iphone%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Fsmartphones%2Fsamsung%2F%22%3Esamsung%20mobile%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Fsmartphones%2Foppo%2F%22%3Eoppo%20mobile%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Fsmartphones%2Fhuawei%2F%22%3Ehuawei%20mobile%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Fsmartphones%2Foneplus%2F%22%3Eoneplus%20mobile%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Fsmartphones%2Fsymphony%2F%22%3Esymphony%20mobile%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Fsmartphones%2Finfinix%2F%22%3Einfinix%20mobile%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Fsmartphones%2Fwalton%2F%22%3Ewalton%20mobile%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22%2Fsmartphones%2Ftecno%2F%22%3Etecno%20mobile%3C%2Fa%3E%3C%2Fp%3E%0A%0A%3Ch3%3EAll%20Mobile%20Price%20in%20Bangladesh%20at%20Daraz.com.bd%3C%2Fh3%3E%0A%3Cp%3EAll%20Mobile%20Phones%20Price%20List%20in%20Bangladesh%20(Updated%202022)%20Price%20list%20of%20all%20mobile%20phones%20in%20Bangladesh%20from%20different%20brands%20and%20online%20stores%20at%20Daraz.com.bd.%3C%2Fp%3E%0A%3Cstyle%3E%0A%09%2F*%20info%20(hed%2C%20dek%2C%20source%2C%20credit)%20*%2F%0A.rg-container%20%7B%0A%20%20font-family%3A%20%27Lato%27%2C%20Helvetica%2C%20Arial%2C%20sans-serif%3B%0A%20%20font-size%3A%2016px%3B%0A%20%20line-height%3A%201.4%3B%0A%20%20margin%3A%200%3B%0A%20%20padding%3A%201em%200.5em%3B%0A%20%20color%3A%20%23222%3B%0A%7D%0A.rg-header%20%7B%0A%20%20margin-bottom%3A%201em%3B%0A%20%20text-align%3A%20left%3B%0A%7D%0A%0A.rg-header%20%3E%20*%20%7B%0A%20%20display%3A%20block%3B%0A%7D%0A.rg-hed%20%7B%0A%20%20font-weight%3A%20bold%3B%0A%20%20font-size%3A%201.4em%3B%0A%7D%0A.rg-dek%20%7B%0A%20%20font-size%3A%201em%3B%0A%7D%0A%0A.rg-source%20%7B%0A%20%20margin%3A%200%3B%0A%20%20font-size%3A%200.75em%3B%0A%20%20text-align%3A%20right%3B%0A%7D%0A.rg-source%20.pre-colon%20%7B%0A%20%20text-transform%3A%20uppercase%3B%0A%7D%0A%0A.rg-source%20.post-colon%20%7B%0A%20%20font-weight%3A%20bold%3B%0A%7D%0A%0A%2F*%20table%20*%2F%0Atable.rg-table%20%7B%0A%20%20width%3A%20100%25%3B%0A%20%20margin-bottom%3A%200.5em%3B%0A%20%20font-size%3A%201em%3B%0A%20%20border-collapse%3A%20collapse%3B%0A%20%20border-spacing%3A%200%3B%0A%7D%0Atable.rg-table%20tr%20%7B%0A%20%20-moz-box-sizing%3A%20border-box%3B%0A%20%20box-sizing%3A%20border-box%3B%0A%20%20margin%3A%200%3B%0A%20%20padding%3A%200%3B%0A%20%20border%3A%200%3B%0A%20%20font-size%3A%20100%25%3B%0A%20%20font%3A%20inherit%3B%0A%20%20vertical-align%3A%20baseline%3B%0A%20%20text-align%3A%20left%3B%0A%20%20color%3A%20%23333%3B%0A%7D%0Atable.rg-table%20thead%20%7B%0A%20%20border-bottom%3A%203px%20solid%20%23ddd%3B%0A%7D%0Atable.rg-table%20tr%20%7B%0A%20%20border-bottom%3A%201px%20solid%20%23ddd%3B%0A%20%20color%3A%20%23222%3B%0A%7D%0Atable.rg-table%20tr.highlight%20%7B%0A%20%20background-color%3A%20%23dcf1f0%20!important%3B%0A%7D%0Atable.rg-table.zebra%20tr%3Anth-child(even)%20%7B%0A%20%20background-color%3A%20%23f6f6f6%3B%0A%7D%0Atable.rg-table%20th%20%7B%0A%20%20font-weight%3A%20bold%3B%0A%20%20padding%3A%200.35em%3B%0A%20%20font-size%3A%200.9em%3B%0A%7D%0Atable.rg-table%20td%20%7B%0A%20%20padding%3A%200.35em%3B%0A%20%20font-size%3A%200.9em%3B%0A%7D%0Atable.rg-table%20.highlight%20td%20%7B%0A%20%20font-weight%3A%20bold%3B%0A%7D%0Atable.rg-table%20th.number%2C%0Atd.number%20%7B%0A%20%20text-align%3A%20right%3B%0A%7D%0A%0A%2F*%20media%20queries%20*%2F%0A%40media%20screen%20and%20(max-width%3A%20600px)%20%7B%0A%20%20.rg-container%20%7B%0A%20%20%20%20max-width%3A%20600px%3B%0A%20%20%20%20margin%3A%200%20auto%3B%0A%20%20%7D%0A%20%20table.rg-table%20%7B%0A%20%20%20%20width%3A%20100%25%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr.hide-mobile%2C%0A%20%20table.rg-table%20th.hide-mobile%2C%0A%20%20table.rg-table%20td.hide-mobile%20%7B%0A%20%20%20%20display%3A%20none%3B%0A%20%20%7D%0A%20%20table.rg-table%20thead%20%7B%0A%20%20%20%20display%3A%20none%3B%0A%20%20%7D%0A%20%20table.rg-table%20tbody%20%7B%0A%20%20%20%20width%3A%20100%25%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr%2C%0A%20%20table.rg-table%20th%2C%0A%20%20table.rg-table%20td%20%7B%0A%20%20%20%20display%3A%20block%3B%0A%20%20%20%20padding%3A%200%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr%20%7B%0A%20%20%20%20border-bottom%3A%20none%3B%0A%20%20%20%20margin%3A%200%200%201em%200%3B%0A%20%20%20%20padding%3A%200.5em%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr.highlight%20%7B%0A%20%20%20%20background-color%3A%20inherit%20!important%3B%0A%20%20%7D%0A%20%20table.rg-table.zebra%20tr%3Anth-child(even)%20%7B%0A%20%20%20%20background-color%3A%20transparent%3B%0A%20%20%7D%0A%20%20table.rg-table.zebra%20td%3Anth-child(even)%20%7B%0A%20%20%20%20background-color%3A%20%23f6f6f6%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr%3Anth-child(even)%20%7B%0A%20%20%20%20background-color%3A%20transparent%3B%0A%20%20%7D%0A%20%20table.rg-table%20td%20%7B%0A%20%20%20%20padding%3A%200.5em%200%200.25em%200%3B%0A%20%20%20%20border-bottom%3A%201px%20dotted%20%23ccc%3B%0A%20%20%20%20text-align%3A%20right%3B%0A%20%20%7D%0A%20%20table.rg-table%20td%5Bdata-title%5D%3Abefore%20%7B%0A%20%20%20%20content%3A%20attr(data-title)%3B%0A%20%20%20%20font-weight%3A%20bold%3B%0A%20%20%20%20display%3A%20inline-block%3B%0A%20%20%20%20content%3A%20attr(data-title)%3B%0A%20%20%20%20float%3A%20left%3B%0A%20%20%20%20margin-right%3A%200.5em%3B%0A%20%20%20%20font-size%3A%200.95em%3B%0A%20%20%7D%0A%20%20table.rg-table%20td%3Alast-child%20%7B%0A%20%20%20%20padding-right%3A%200%3B%0A%20%20%20%20border-bottom%3A%202px%20solid%20%23ccc%3B%0A%20%20%7D%0A%20%20table.rg-table%20td%3Aempty%20%7B%0A%20%20%20%20display%3A%20none%3B%0A%20%20%7D%0A%20%20table.rg-table%20.highlight%20td%20%7B%0A%20%20%20%20background-color%3A%20inherit%3B%0A%20%20%20%20font-weight%3A%20normal%3B%0A%20%20%7D%0A%7D%0A%0A%3C%2Fstyle%3E%0A%3Cdiv%20class%3D%27rg-container%27%3E%0A%09%3Ctable%20class%3D%27rg-table%27%20summary%3D%27Mobile%20Phones%20at%20Best%20Price%20in%20Bangladesh%20(Updated%20February%202022)%27%3E%0A%09%09%3Ccaption%20class%3D%27rg-header%27%3E%0A%09%09%09%3Cspan%20class%3D%27rg-hed%27%3EMobile%20Phones%20at%20Best%20Price%20in%20Bangladesh%20(Updated%20February%202022)%3C%2Fspan%3E%0A%09%09%09%3Cspan%20class%3D%27rg-dek%27%3EAvail%20All%20Low%20Price%20%26%20High%20Price%20Mobile%20Phone%20Best%20Price%20in%20Bangladesh%20at%20Daraz.com.bd%20Now.%3C%2Fspan%3E%0A%09%09%3C%2Fcaption%3E%0A%09%09%3Cthead%3E%0A%09%09%09%3Ctr%3E%0A%09%09%09%09%3Cth%20class%3D%27text%20%27%3EBest%20Mobile%20Phone%20List%202022%3C%2Fth%3E%0A%09%09%09%09%3Cth%20class%3D%27text%20%27%3EPrice%20in%20Bangladesh%3C%2Fth%3E%0A%09%09%09%3C%2Ftr%3E%0A%09%09%3C%2Fthead%3E%0A%09%09%3Ctbody%3E%0A%09%09%09%0A%09%09%09%09%3Ctr%20class%3D%27%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Best%20Mobile%20Phone%20List%202022%27%3ERealme%20C25s%20-%204%2F128%20GB%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3EBDT%2015%2C490%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%0A%09%09%09%09%3Ctr%20class%3D%27%20highlight%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Best%20Mobile%20Phone%20List%202022%27%3ESamsung%20A32%20-%206%2F128%20GB%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3EBDT%2026%2C999%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%0A%09%09%09%09%3Ctr%20class%3D%27%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Best%20Mobile%20Phone%20List%202022%27%3EOppo%20F19%20-%206%2F128%20GB%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3EBDT%2021%2C990%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%0A%09%09%09%09%3Ctr%20class%3D%27%20highlight%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Best%20Mobile%20Phone%20List%202022%27%3EWalton%20Primo%20H8%20Pro%20-%203%2F32%20GB%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3EBDT%208%2C499%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%0A%09%09%09%09%3Ctr%20class%3D%27%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Best%20Mobile%20Phone%20List%202022%27%3EMotorola%20Moto%20G10%20Power%20-%204%2F64%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3EBDT%2014%2C933%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%09%09%3C%2Ftbody%3E%0A%09%3C%2Ftable%3E%0A%3C%2Fdiv%3E%0A%3Cp%3EYou%20can%20check%20our%20exclusive%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Fdaraz-exclusive-products%2F%22%3Eproducts%3C%2Fa%3E%20also.%3C%2Fp%3E%0A%0A%3Cp%3ECricket%20Lover%3F%20Enjoy%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Fcricket-live-streaming%2F%22%3Elive%20cricket%20streaming%3C%2Fa%3E%20free%20on%20Daraz%20App%20Now.%3C%2Fp%3E"
+    },
+    "campaignBanner": {
+        "tItemType": "nx_campaignBanner",
+        "items": [
+            {
+                "url": "https://pages.daraz.com.bd/wow/gcp/daraz/megascenario/bd/bny-eid/relame-nazro-super-sale?from=onesearch_category_3",
+                "cover": "//static-01.daraz.com.bd/skyline/i8/d77e515529744564847c9d0fd24bf623-1188-300.jpg_desktop.jpg",
+                "st_time": "2022-04-04 00:00:00",
+                "end_time": "2022-04-30 23:59:59"
+            },
+            {
+                "url": "https://pages.daraz.com.bd/wow/gcp/daraz/channel/bd/help-pages/mobiles-accessories-best-deals?spm=a2a0e.searchlistcategory.card.1.50bc4a5bsiEpdd&from=onesearch_category_9536&from=onesearch_category_3",
+                "cover": "//static-01.daraz.com.bd/skyline/i8/aa7775c0b4c1408c96212f681a41844f-1188-300.jpg_desktop.jpg",
+                "st_time": "2022-04-04 13:00:00",
+                "end_time": "2022-05-02 23:59:59"
+            },
+            {
+                "url": "https://www.daraz.com.bd/products/samsung-galaxy-a53-5g-8gb128gb-i238037109-s1181557403.html?spm=a2a0e.8553159.0.0.13b95eb6Yst3ks&search=store&mp=3&from=onesearch_category_3",
+                "cover": "//static-01.daraz.com.bd/skyline/i8/44739a0a250246669664590ab8df5430-1188-300.jpg_desktop.jpg",
+                "st_time": "2022-04-05 10:40:00",
+                "end_time": "2022-04-30 23:59:59"
+            },
+            {
+                "url": "https://pages.daraz.com.bd/wow/gcp/daraz/megascenario/bd/bny-eid/mobile-tablet?spm=a2o2r5.tm800074444.3962335470.1.1b4a4a7dwsFDUF&from=onesearch_category_3",
+                "cover": "//static-01.daraz.com.bd/skyline/i8/1fb38440c5184575a17f1a5295240a4d-1188-300.jpg_desktop.jpg",
+                "st_time": "2022-04-05 15:00:00",
+                "end_time": "2022-04-30 23:59:59"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_3"
+        },
+        "bizId": "onesearch_category_3",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "214 items found in {$0}",
+        "title": "Latest Mobile Phones 2022",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Mobiles"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Latest Mobile Phones 2022",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "214",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "71825c2f1d765aec0d3bb7b1259caba9",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "3",
+            "category": "3"
+        },
+        "categoryRegionalKey": "010100000000",
+        "mainCategoryRegionalKey": "010000000000",
+        "pageTitle": "Mobile Phone Price in Bangladesh (Mobile On EMI Installment)",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "true",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Mobiles & Tablets,Mobiles",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "010100000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=3&_p_asc_cateid=3",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "smartphones",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "71825c2f1d765aec0d3bb7b1259caba9",
+                "resultNr": 214,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1171317083",
+                "1157953584",
+                "1174459785"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "3",
+            "category": "3"
+        }
+    }
+}

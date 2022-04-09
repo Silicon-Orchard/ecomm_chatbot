@@ -1,0 +1,3930 @@
+{
+    "listItems": [
+        {
+            "name": "(50% OFF) Freedom Sanitary Napkin Ultra Wings - 8 Pads",
+            "nid": "183600665",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183600665",
+                "scene_pre": "search",
+                "current_price": "52.00",
+                "x_sku_ids": "1128017534",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "183600665"
+            },
+            "productUrl": "//www.daraz.com.bd/products/50-off-freedom-sanitary-napkin-ultra-wings-8-pads-i183600665-s1128017534.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3030c65769f39243c255074774c8a1fc.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "52.00",
+            "promotionId": "null",
+            "priceShow": "৳ 52",
+            "discount": "-57%",
+            "ratingScore": "4.9175",
+            "review": "400",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183600665_BD-1128017534",
+            "sku": "183600665_BD",
+            "skus": [],
+            "description": [
+                "Liquid faster and give instant dry feel",
+                "Fights to lock odour in 240mm pad",
+                "Six wall protection prevents leakage",
+                "Skin-friendly and individual pouch make easy to carry"
+            ],
+            "brandId": "123830",
+            "brandName": "Freedom",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3030c65769f39243c255074774c8a1fc.jpg",
+                    "productUrl": "/products/50-off-freedom-sanitary-napkin-ultra-wings-8-pads-i183600665-s1128017534.html",
+                    "sku": "183600665_BD",
+                    "skuId": "1128017534"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1718,
+                1723
+            ],
+            "clickTrace": "query:;nid:183600665;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:183600665_BD;price:52.00;client:desktop;supplier_id:1000000;asc_category_id:1723;item_id:183600665;sku_id:1128017534;shop_id:178174",
+            "addToCartSkus": [
+                {
+                    "sku": "183600665_BD-1128017534",
+                    "skuId": "1128017534",
+                    "count": 0
+                }
+            ],
+            "itemId": "183600665",
+            "skuId": "1128017534",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Silicone Baby Finger Tooth Brush",
+            "nid": "153126163",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "153126163",
+                "scene_pre": "search",
+                "current_price": "39",
+                "x_sku_ids": "1081420093",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "153126163"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i153126163-s1081420093.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/e75d71b6dfe3cc5fb4ab0a2bf2d63d5e.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "39",
+            "promotionId": "null",
+            "priceShow": "৳ 39",
+            "discount": "-74%",
+            "ratingScore": "4.78693",
+            "review": "352",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "153126163_BD-1081420093",
+            "sku": "153126163_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1001572",
+            "mainSellerId": "",
+            "sellerName": "Go Shop Bd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/e75d71b6dfe3cc5fb4ab0a2bf2d63d5e.jpg",
+                    "productUrl": "/products/-i153126163-s1081420093.html",
+                    "sku": "153126163_BD",
+                    "skuId": "1081420093"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1709,
+                1715
+            ],
+            "clickTrace": "query:;nid:153126163;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:153126163_BD;price:39;client:desktop;supplier_id:1001572;asc_category_id:1715;item_id:153126163;sku_id:1081420093;shop_id:7814",
+            "addToCartSkus": [
+                {
+                    "sku": "153126163_BD-1081420093",
+                    "skuId": "1081420093",
+                    "count": 0
+                }
+            ],
+            "itemId": "153126163",
+            "skuId": "1081420093",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dabur Red Toothpaste 50 gm",
+            "nid": "104604279",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "104604279",
+                "scene_pre": "search",
+                "current_price": "31.00",
+                "x_sku_ids": "1019376527",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "104604279"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dabur-red-toothpaste-50-gm-i104604279-s1019376527.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/369d06b3146be912f7c7cc33d53d2d66.jpg",
+            "originalPrice": "35.00",
+            "originalPriceShow": "৳ 35",
+            "price": "31.00",
+            "promotionId": "null",
+            "priceShow": "৳ 31",
+            "discount": "-11%",
+            "ratingScore": "4.73872",
+            "review": "532",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "104604279_BD-1019376527",
+            "sku": "104604279_BD",
+            "skus": [],
+            "description": [
+                "Product Type:RedToothpaste",
+                "Brand: Dabur",
+                "Capacity: 50g",
+                "Helps prevent toothache",
+                "Helps prevent bad breath",
+                "Kills harmful germs"
+            ],
+            "brandId": "123744023",
+            "brandName": "Dabur Red",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/369d06b3146be912f7c7cc33d53d2d66.jpg",
+                    "productUrl": "/products/dabur-red-toothpaste-50-gm-i104604279-s1019376527.html",
+                    "sku": "104604279_BD",
+                    "skuId": "1019376527"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1709,
+                1716
+            ],
+            "clickTrace": "query:;nid:104604279;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:104604279_BD;price:31.00;client:desktop;supplier_id:1000000;asc_category_id:1716;item_id:104604279;sku_id:1019376527;shop_id:28799",
+            "addToCartSkus": [
+                {
+                    "sku": "104604279_BD-1019376527",
+                    "skuId": "1019376527",
+                    "count": 0
+                }
+            ],
+            "itemId": "104604279",
+            "skuId": "1019376527",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Closeup Toothpaste Menthol Fresh 160g",
+            "nid": "157202236",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "157202236",
+                "scene_pre": "search",
+                "current_price": "108",
+                "x_sku_ids": "1087474843",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "157202236"
+            },
+            "productUrl": "//www.daraz.com.bd/products/closeup-toothpaste-menthol-fresh-160g-i157202236-s1087474843.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/539a83424c3c4a413e8633f39630ed37.jpg",
+            "originalPrice": "125.00",
+            "originalPriceShow": "৳ 125",
+            "price": "108",
+            "promotionId": "null",
+            "priceShow": "৳ 108",
+            "discount": "-14%",
+            "ratingScore": "4.68627",
+            "review": "153",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "157202236_BD-1087474843",
+            "sku": "157202236_BD",
+            "skus": [],
+            "description": [
+                "Closeup Red Hot helps you get upto 12 hours of fresh breath*",
+                "This shiny gel infused with active zinc mouthwash helps you get the best sparkling white smile",
+                "Active Zinc Mouthwash cleans deep corners of your mouth of germs, which hasty brushing often misses",
+                "Let nothing stop you from getting close to the one you desire",
+                "Closeup's fresh breath confidence will help you to make your first move on the person you like"
+            ],
+            "brandId": "153988",
+            "brandName": "Closeup",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/539a83424c3c4a413e8633f39630ed37.jpg",
+                    "productUrl": "/products/closeup-toothpaste-menthol-fresh-160g-i157202236-s1087474843.html",
+                    "sku": "157202236_BD",
+                    "skuId": "1087474843"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1709,
+                1716
+            ],
+            "clickTrace": "query:;nid:157202236;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:157202236_BD;price:108;client:desktop;supplier_id:1000000;asc_category_id:1716;item_id:157202236;sku_id:1087474843;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "157202236_BD-1087474843",
+                    "skuId": "1087474843",
+                    "count": 0
+                }
+            ],
+            "itemId": "157202236",
+            "skuId": "1087474843",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "COLGATE Dental Cream - 100 gram",
+            "nid": "100183007",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "100183007",
+                "scene_pre": "search",
+                "current_price": "73",
+                "x_sku_ids": "1014051012",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "100183007"
+            },
+            "productUrl": "//www.daraz.com.bd/products/colgate-dental-cream-100g-i100183007-s1014051012.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/46676cd099b3d6d1facfe9f24c6f7aa1.jpg",
+            "originalPrice": "85.00",
+            "originalPriceShow": "৳ 85",
+            "price": "73",
+            "promotionId": "null",
+            "priceShow": "৳ 73",
+            "discount": "-14%",
+            "ratingScore": "4.76562",
+            "review": "64",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "100183007_BD-1014051012",
+            "sku": "100183007_BD",
+            "skus": [],
+            "description": [
+                "Dental Cream",
+                "Brand: Colgate",
+                "Anti-Cavity toothpaste for the entire family",
+                "Its calci-lock protection locks calcium in teeth, protecting them from cavities",
+                "The unique formulation ensures complete oral care delivering healthy gums",
+                "All-round germ protection, plaque removal and a whiter smile",
+                "Colgate - #1 brand recommended by dentists"
+            ],
+            "brandId": "35086",
+            "brandName": "Colgate",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/46676cd099b3d6d1facfe9f24c6f7aa1.jpg",
+                    "productUrl": "/products/colgate-dental-cream-100g-i100183007-s1014051012.html",
+                    "sku": "100183007_BD",
+                    "skuId": "1014051012"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1709,
+                1716
+            ],
+            "clickTrace": "query:;nid:100183007;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:100183007_BD;price:73;client:desktop;supplier_id:1000000;asc_category_id:1716;item_id:100183007;sku_id:1014051012;shop_id:113813",
+            "addToCartSkus": [
+                {
+                    "sku": "100183007_BD-1014051012",
+                    "skuId": "1014051012",
+                    "count": 0
+                }
+            ],
+            "itemId": "100183007",
+            "skuId": "1014051012",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pepspodent Toothpaste Sensitive Expert Professional 140g",
+            "nid": "117888640",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "117888640",
+                "scene_pre": "search",
+                "current_price": "106.00",
+                "x_sku_ids": "1037256233",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "117888640"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pepspodent-toothpaste-sensitive-expert-professional-140g-i117888640-s1037256233.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/94d7924045745d71bb18e7b0bca94b5d.jpg",
+            "originalPrice": "135.00",
+            "originalPriceShow": "৳ 135",
+            "price": "106.00",
+            "promotionId": "null",
+            "priceShow": "৳ 106",
+            "discount": "-21%",
+            "ratingScore": "4.80717",
+            "review": "446",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "117888640_BD-1037256233",
+            "sku": "117888640_BD",
+            "skus": [],
+            "description": [
+                "Provides rapid relief from tooth sensitivity in 30 seconds",
+                "Contains HAP minerals to repair the tooth",
+                "Gently removes plaque and stains to whiten teeth with proper brushing.",
+                "Contains enamel-strengthening fluoride for effective cavity protection.",
+                "Manufactured in Bangladesh"
+            ],
+            "brandId": "126676",
+            "brandName": "Pepsodent",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/94d7924045745d71bb18e7b0bca94b5d.jpg",
+                    "productUrl": "/products/pepspodent-toothpaste-sensitive-expert-professional-140g-i117888640-s1037256233.html",
+                    "sku": "117888640_BD",
+                    "skuId": "1037256233"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1709,
+                1716
+            ],
+            "clickTrace": "query:;nid:117888640;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:117888640_BD;price:106.00;client:desktop;supplier_id:1000000;asc_category_id:1716;item_id:117888640;sku_id:1037256233;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "117888640_BD-1037256233",
+                    "skuId": "1037256233",
+                    "count": 0
+                }
+            ],
+            "itemId": "117888640",
+            "skuId": "1037256233",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nicotex Anti Nicotine Chewing Gum Mint 2gm 9P Box INDIAN",
+            "nid": "121069546",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "121069546",
+                "scene_pre": "search",
+                "current_price": "147",
+                "x_sku_ids": "1040639641",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "121069546"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nicotex-anti-nicotine-chewing-gum-mint-2gm-9p-box-indian-i121069546-s1040639641.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4f63024819278638175fdd9afd37d7ce.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "147",
+            "promotionId": "null",
+            "priceShow": "৳ 147",
+            "discount": "-2%",
+            "ratingScore": "4.69154",
+            "review": "201",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "121069546_BD-1040639641",
+            "sku": "121069546_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "901",
+            "mainSellerId": "",
+            "sellerName": "MAK Fashion BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4f63024819278638175fdd9afd37d7ce.jpg",
+                    "productUrl": "/products/nicotex-anti-nicotine-chewing-gum-mint-2gm-9p-box-indian-i121069546-s1040639641.html",
+                    "sku": "121069546_BD",
+                    "skuId": "1040639641"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1709,
+                1712
+            ],
+            "clickTrace": "query:;nid:121069546;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:121069546_BD;price:147;client:desktop;supplier_id:901;asc_category_id:1712;item_id:121069546;sku_id:1040639641;shop_id:1863",
+            "addToCartSkus": [
+                {
+                    "sku": "121069546_BD-1040639641",
+                    "skuId": "1040639641",
+                    "count": 0
+                }
+            ],
+            "itemId": "121069546",
+            "skuId": "1040639641",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Closeup Toothpaste Cool Mint 145G",
+            "nid": "168628819",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168628819",
+                "scene_pre": "search",
+                "current_price": "105.00",
+                "x_sku_ids": "1102796084",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "168628819"
+            },
+            "productUrl": "//www.daraz.com.bd/products/closeup-toothpaste-cool-mint-145g-i168628819-s1102796084.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e829cfd63817f9f7ab8f9df17877a292.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "105.00",
+            "promotionId": "null",
+            "priceShow": "৳ 105",
+            "discount": "-13%",
+            "ratingScore": "4.80531",
+            "review": "113",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168628819_BD-1102796084",
+            "sku": "168628819_BD",
+            "skus": [],
+            "description": [
+                "This shiny gelhelps you get the best sparkling white smile",
+                "Cleans deep corners of your mouth of germs, which hasty brushing often misses",
+                "Let nothing stop you from getting close to the one you desire",
+                "Closeup's fresh breath confidence will help you to make your first move on the person you like"
+            ],
+            "brandId": "153988",
+            "brandName": "Closeup",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e829cfd63817f9f7ab8f9df17877a292.jpg",
+                    "productUrl": "/products/closeup-toothpaste-cool-mint-145g-i168628819-s1102796084.html",
+                    "sku": "168628819_BD",
+                    "skuId": "1102796084"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1709,
+                1716
+            ],
+            "clickTrace": "query:;nid:168628819;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:168628819_BD;price:105.00;client:desktop;supplier_id:1000000;asc_category_id:1716;item_id:168628819;sku_id:1102796084;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "168628819_BD-1102796084",
+                    "skuId": "1102796084",
+                    "count": 0
+                }
+            ],
+            "itemId": "168628819",
+            "skuId": "1102796084",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Lanbena Teeth Whitening Essence - 0.35 fl oz",
+            "nid": "101424045",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101424045",
+                "scene_pre": "search",
+                "current_price": "160",
+                "x_sku_ids": "1015410809",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "101424045"
+            },
+            "productUrl": "//www.daraz.com.bd/products/lanbena-035-floz-i101424045-s1015410809.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/c150f5ca699fbfac999fadb5d16b36dc.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "160",
+            "promotionId": "null",
+            "priceShow": "৳ 160",
+            "discount": "-71%",
+            "ratingScore": "4.51788",
+            "review": "643",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101424045_BD-1015410809",
+            "sku": "101424045_BD",
+            "skus": [],
+            "description": [
+                "Removes The Stains Resulted From Smoking",
+                "Drinking Tea Or Coffee In A More Effective Way",
+                "Whitens Yellow Teeth Completely And Sweeps Away Plaque For A Full Clean-Mouth Experience.",
+                "Skin Types:Those Who Want To Get Rid Of All Kinds Of Teeth Stains.",
+                "Shelf Life:3 Years"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1006787",
+            "mainSellerId": "",
+            "sellerName": "Rashmin Gallery Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/c150f5ca699fbfac999fadb5d16b36dc.jpg",
+                    "productUrl": "/products/lanbena-035-floz-i101424045-s1015410809.html",
+                    "sku": "101424045_BD",
+                    "skuId": "1015410809"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1709,
+                1714
+            ],
+            "clickTrace": "query:;nid:101424045;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:101424045_BD;price:160;client:desktop;supplier_id:1006787;asc_category_id:1714;item_id:101424045;sku_id:1015410809;shop_id:13020",
+            "addToCartSkus": [
+                {
+                    "sku": "101424045_BD-1015410809",
+                    "skuId": "1015410809",
+                    "count": 0
+                }
+            ],
+            "itemId": "101424045",
+            "skuId": "1015410809",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "LANBENA Teeth Mousse Tooth Cleaning White Teeth Oral Hygiene Toothpaste",
+            "nid": "184553589",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184553589",
+                "scene_pre": "search",
+                "current_price": "250",
+                "x_sku_ids": "1129628551",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "184553589"
+            },
+            "productUrl": "//www.daraz.com.bd/products/lanbena-i184553589-s1129628551.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f15c4e06a35bab84c3938a4c9312c02b.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "250",
+            "promotionId": "null",
+            "priceShow": "৳ 250",
+            "discount": "-62%",
+            "ratingScore": "4.33871",
+            "review": "62",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184553589_BD-1129628551",
+            "sku": "184553589_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508340299",
+            "mainSellerId": "",
+            "sellerName": "BD Beauty Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f15c4e06a35bab84c3938a4c9312c02b.jpg",
+                    "productUrl": "/products/lanbena-i184553589-s1129628551.html",
+                    "sku": "184553589_BD",
+                    "skuId": "1129628551"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1709,
+                1714
+            ],
+            "clickTrace": "query:;nid:184553589;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:184553589_BD;price:250;client:desktop;supplier_id:700508340299;asc_category_id:1714;item_id:184553589;sku_id:1129628551;shop_id:148699",
+            "addToCartSkus": [
+                {
+                    "sku": "184553589_BD-1129628551",
+                    "skuId": "1129628551",
+                    "count": 0
+                }
+            ],
+            "itemId": "184553589",
+            "skuId": "1129628551",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Contact Lens case for Travel Eye Care Contact Lens Kit Box Contact Lenses Storage Case Box Kit (1 pcs)",
+            "nid": "209499506",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209499506",
+                "scene_pre": "search",
+                "current_price": "55",
+                "x_sku_ids": "1159728934",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "209499506"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i209499506-s1159728934.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a4455014ef775faf48f5af7a0b92a19b.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "55",
+            "promotionId": "null",
+            "priceShow": "৳ 55",
+            "discount": "-78%",
+            "ratingScore": "4.83333",
+            "review": "24",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209499506_BD-1159728934",
+            "sku": "209499506_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509324091",
+            "mainSellerId": "",
+            "sellerName": "Ma Optics",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a4455014ef775faf48f5af7a0b92a19b.jpg",
+                    "productUrl": "/products/1-i209499506-s1159728934.html",
+                    "sku": "209499506_BD",
+                    "skuId": "1159728934"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1703,
+                1707
+            ],
+            "clickTrace": "query:;nid:209499506;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:209499506_BD;price:55;client:desktop;supplier_id:700509324091;asc_category_id:1707;item_id:209499506;sku_id:1159728934;shop_id:206632",
+            "addToCartSkus": [
+                {
+                    "sku": "209499506_BD-1159728934",
+                    "skuId": "1159728934",
+                    "count": 0
+                }
+            ],
+            "itemId": "209499506",
+            "skuId": "1159728934",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pepsodent Toothpaste Germicheck 100g",
+            "nid": "443317",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "950692",
+                "scene_pre": "search",
+                "current_price": "75",
+                "x_sku_ids": "4929454",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "950692"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pepsodent-toothpaste-germicheck-100g-i950692-s4929454.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/cee26ea595ffabd7c5aadd4c33873bfe.jpg",
+            "originalPrice": "85.00",
+            "originalPriceShow": "৳ 85",
+            "price": "75",
+            "promotionId": "null",
+            "priceShow": "৳ 75",
+            "discount": "-12%",
+            "ratingScore": "4.83505",
+            "review": "291",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "PE202HB2SHAANNAFAMZ-664030",
+            "sku": "PE202HB2SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "MAX CAVITY PROTECTION, 10X STRONGER TEETH. Pepsodent toothpaste helps repair small tiny invisible holes before they become cavities and forms a protective layer for stronger teeth.",
+                "SCIENTIFICALLY PROVEN FORMULA. With active micro-calcium and pro-fluoride complex. Contains mint extract.",
+                "ORAL HEALTH & CONFIDENCE. Did you know that children with good oral health are more confident to express themselves in front of others? Yet, 1 out of 2 children in Banglades suffer from cavities",
+                "PARTNERING WITH EXPERTS. FDI representing over 1 million dentists, recommends twice daily brushing with a fluoride toothpaste such as Pepsodent for a healthy smile.",
+                "15 YEARS OF PROTECTING SMILES. Pepsodent taught 10 million Bangladeshi children to brush their teeth day and night. With every Pepsodent toothpaste you buy, you support a Bangladesh free of cavities."
+            ],
+            "brandId": "126676",
+            "brandName": "Pepsodent",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cee26ea595ffabd7c5aadd4c33873bfe.jpg",
+                    "productUrl": "/products/pepsodent-toothpaste-germicheck-100g-i950692-s4929454.html",
+                    "sku": "PE202HB2SHAANNAFAMZ",
+                    "skuId": "4929454"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1709,
+                1716
+            ],
+            "clickTrace": "query:;nid:443317;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:PE202HB2SHAANNAFAMZ;price:75;client:desktop;supplier_id:1000000;asc_category_id:1716;item_id:950692;sku_id:4929454;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "PE202HB2SHAANNAFAMZ-664030",
+                    "skuId": "4929454",
+                    "count": 0
+                }
+            ],
+            "itemId": "950692",
+            "skuId": "4929454",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Closeup Toothpaste White Attraction Natural Smile 140g",
+            "nid": "133484766",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "133484766",
+                "scene_pre": "search",
+                "current_price": "112",
+                "x_sku_ids": "1055204042",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "133484766"
+            },
+            "productUrl": "//www.daraz.com.bd/products/closeup-toothpaste-white-attraction-natural-smile-140g-i133484766-s1055204042.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a20ddc5c0df5a9dc6f9fe0749771de65.jpg",
+            "originalPrice": "130.00",
+            "originalPriceShow": "৳ 130",
+            "price": "112",
+            "promotionId": "null",
+            "priceShow": "৳ 112",
+            "discount": "-14%",
+            "ratingScore": "4.82396",
+            "review": "409",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "133484766_BD-1055204042",
+            "sku": "133484766_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Toothpaste",
+                "Brand: Closeup",
+                "Capacity: 140gm",
+                "White Attraction Natural Smile"
+            ],
+            "brandId": "153988",
+            "brandName": "Closeup",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a20ddc5c0df5a9dc6f9fe0749771de65.jpg",
+                    "productUrl": "/products/closeup-toothpaste-white-attraction-natural-smile-140g-i133484766-s1055204042.html",
+                    "sku": "133484766_BD",
+                    "skuId": "1055204042"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1709,
+                1716
+            ],
+            "clickTrace": "query:;nid:133484766;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:133484766_BD;price:112;client:desktop;supplier_id:1000000;asc_category_id:1716;item_id:133484766;sku_id:1055204042;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "133484766_BD-1055204042",
+                    "skuId": "1055204042",
+                    "count": 0
+                }
+            ],
+            "itemId": "133484766",
+            "skuId": "1055204042",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dabur Red Toothpaste 100 gm (Toothbrush Free)",
+            "nid": "104610291",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "104610291",
+                "scene_pre": "search",
+                "current_price": "67.00",
+                "x_sku_ids": "1019382507",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "104610291"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dabur-red-toothpaste-100-gm-toothbrush-free-i104610291-s1019382507.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4d94d6fca4bba8ac5087e89a14c77790.jpg",
+            "originalPrice": "75.00",
+            "originalPriceShow": "৳ 75",
+            "price": "67.00",
+            "promotionId": "null",
+            "priceShow": "৳ 67",
+            "discount": "-11%",
+            "ratingScore": "4.80971",
+            "review": "515",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "104610291_BD-1019382507",
+            "sku": "104610291_BD",
+            "skus": [],
+            "description": [
+                "Product Type:RedToothpaste",
+                "Brand: Dabur",
+                "Capacity:100gm",
+                "Helps prevent toothache",
+                "Helps prevent bad breath",
+                "Kills harmful germs"
+            ],
+            "brandId": "123744023",
+            "brandName": "Dabur Red",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4d94d6fca4bba8ac5087e89a14c77790.jpg",
+                    "productUrl": "/products/dabur-red-toothpaste-100-gm-toothbrush-free-i104610291-s1019382507.html",
+                    "sku": "104610291_BD",
+                    "skuId": "1019382507"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1709,
+                1716
+            ],
+            "clickTrace": "query:;nid:104610291;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:104610291_BD;price:67.00;client:desktop;supplier_id:1000000;asc_category_id:1716;item_id:104610291;sku_id:1019382507;shop_id:28799",
+            "addToCartSkus": [
+                {
+                    "sku": "104610291_BD-1019382507",
+                    "skuId": "1019382507",
+                    "count": 0
+                }
+            ],
+            "itemId": "104610291",
+            "skuId": "1019382507",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pepspodent Toothpaste Sensitive Expert Fresh 140g",
+            "nid": "117890635",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "117890635",
+                "scene_pre": "search",
+                "current_price": "126.00",
+                "x_sku_ids": "1037266133",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "117890635"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pepspodent-toothpaste-sensitive-expert-fresh-140g-i117890635-s1037266133.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c50f239fa533d6d31e102d4b11052c5d.jpg",
+            "originalPrice": "160.00",
+            "originalPriceShow": "৳ 160",
+            "price": "126.00",
+            "promotionId": "null",
+            "priceShow": "৳ 126",
+            "discount": "-21%",
+            "ratingScore": "4.83794",
+            "review": "253",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "117890635_BD-1037266133",
+            "sku": "117890635_BD",
+            "skus": [],
+            "description": [
+                "Provides rapid relief from tooth sensitivity in 30 seconds",
+                "Contains HAP minerals to repair the tooth",
+                "Gently removes plaque and stains to whiten teeth with proper brushing.",
+                "Contains enamel-strengthening fluoride for effective cavity protection."
+            ],
+            "brandId": "126676",
+            "brandName": "Pepsodent",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c50f239fa533d6d31e102d4b11052c5d.jpg",
+                    "productUrl": "/products/pepspodent-toothpaste-sensitive-expert-fresh-140g-i117890635-s1037266133.html",
+                    "sku": "117890635_BD",
+                    "skuId": "1037266133"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1709,
+                1716
+            ],
+            "clickTrace": "query:;nid:117890635;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:117890635_BD;price:126.00;client:desktop;supplier_id:1000000;asc_category_id:1716;item_id:117890635;sku_id:1037266133;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "117890635_BD-1037266133",
+                    "skuId": "1037266133",
+                    "count": 0
+                }
+            ],
+            "itemId": "117890635",
+            "skuId": "1037266133",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Colgate Herbal Toothpaste 100gm",
+            "nid": "112940426",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "112940426",
+                "scene_pre": "search",
+                "current_price": "77.00",
+                "x_sku_ids": "1030000853",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "112940426"
+            },
+            "productUrl": "//www.daraz.com.bd/products/colgate-herbal-toothpaste-100gm-i112940426-s1030000853.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bcfe175073231311677760ecb29837d0.jpg",
+            "originalPrice": "90.00",
+            "originalPriceShow": "৳ 90",
+            "price": "77.00",
+            "promotionId": "null",
+            "priceShow": "৳ 77",
+            "discount": "-14%",
+            "ratingScore": "4.78358",
+            "review": "134",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "112940426_BD-1030000853",
+            "sku": "112940426_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Toothpaste",
+                "Brand: Colgate",
+                "Weight: 100gm",
+                "Colgate is no 1 brand recommended by dentists",
+                "Calcium and minerals formula seeks and repairs early signs of cavities"
+            ],
+            "brandId": "35086",
+            "brandName": "Colgate",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bcfe175073231311677760ecb29837d0.jpg",
+                    "productUrl": "/products/colgate-herbal-toothpaste-100gm-i112940426-s1030000853.html",
+                    "sku": "112940426_BD",
+                    "skuId": "1030000853"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1709,
+                1716
+            ],
+            "clickTrace": "query:;nid:112940426;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:112940426_BD;price:77.00;client:desktop;supplier_id:1000000;asc_category_id:1716;item_id:112940426;sku_id:1030000853;shop_id:113813",
+            "addToCartSkus": [
+                {
+                    "sku": "112940426_BD-1030000853",
+                    "skuId": "1030000853",
+                    "count": 0
+                }
+            ],
+            "itemId": "112940426",
+            "skuId": "1030000853",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Closeup Toothpaste Fresh Freeze 145G",
+            "nid": "168626969",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168626969",
+                "scene_pre": "search",
+                "current_price": "108",
+                "x_sku_ids": "1102784989",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "168626969"
+            },
+            "productUrl": "//www.daraz.com.bd/products/closeup-toothpaste-fresh-freeze-145g-i168626969-s1102784989.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/775cd8e4659366b364385d912f8851aa.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "108",
+            "promotionId": "null",
+            "priceShow": "৳ 108",
+            "discount": "-10%",
+            "ratingScore": "4.81503",
+            "review": "173",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168626969_BD-1102784989",
+            "sku": "168626969_BD",
+            "skus": [],
+            "description": [
+                "This shiny gelhelps you get the best sparkling white smile",
+                "Cleans deep corners of your mouth of germs, which hasty brushing often misses",
+                "Let nothing stop you from getting close to the one you desire",
+                "Closeup's fresh breath confidence will help you to make your first move on the person you like"
+            ],
+            "brandId": "153988",
+            "brandName": "Closeup",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/775cd8e4659366b364385d912f8851aa.jpg",
+                    "productUrl": "/products/closeup-toothpaste-fresh-freeze-145g-i168626969-s1102784989.html",
+                    "sku": "168626969_BD",
+                    "skuId": "1102784989"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1709,
+                1716
+            ],
+            "clickTrace": "query:;nid:168626969;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:168626969_BD;price:108;client:desktop;supplier_id:1000000;asc_category_id:1716;item_id:168626969;sku_id:1102784989;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "168626969_BD-1102784989",
+                    "skuId": "1102784989",
+                    "count": 0
+                }
+            ],
+            "itemId": "168626969",
+            "skuId": "1102784989",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Oral-B Sensitive Whitening (Soft)",
+            "nid": "116580166",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "116580166",
+                "scene_pre": "search",
+                "current_price": "55",
+                "x_sku_ids": "1035602356",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "116580166"
+            },
+            "productUrl": "//www.daraz.com.bd/products/oral-b-sensitive-whitening-soft-i116580166-s1035602356.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bd9a5be45e661784784f1a293e139e79.jpg",
+            "originalPrice": "70.00",
+            "originalPriceShow": "৳ 70",
+            "price": "55",
+            "promotionId": "null",
+            "priceShow": "৳ 55",
+            "discount": "-21%",
+            "ratingScore": "4.79333",
+            "review": "150",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "116580166_BD-1035602356",
+            "sku": "116580166_BD",
+            "skus": [],
+            "description": [
+                "Sensitive Whitening Toothbrush",
+                "Brand: Oral-B",
+                "Soft on Gums and tough on plaque Unique cup shaped bristles for better reach inside the mouth, Dual bristles - Center bristles removes surface stains Outside bristles for Sensitive gums",
+                "Gently massages gums; No bleeding; Flexible, penetrate better between teeth and gumline",
+                "Super saver discount triple pack for your families healthier smiles"
+            ],
+            "brandId": "27533",
+            "brandName": "Oral-B",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bd9a5be45e661784784f1a293e139e79.jpg",
+                    "productUrl": "/products/oral-b-sensitive-whitening-soft-i116580166-s1035602356.html",
+                    "sku": "116580166_BD",
+                    "skuId": "1035602356"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1709,
+                1715
+            ],
+            "clickTrace": "query:;nid:116580166;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:116580166_BD;price:55;client:desktop;supplier_id:1000000;asc_category_id:1715;item_id:116580166;sku_id:1035602356;shop_id:34372",
+            "addToCartSkus": [
+                {
+                    "sku": "116580166_BD-1035602356",
+                    "skuId": "1035602356",
+                    "count": 0
+                }
+            ],
+            "itemId": "116580166",
+            "skuId": "1035602356",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Oral-B Ultrathin Sensitive Toothbrush Buy 2 Get 2 Free (Extra Soft)",
+            "nid": "188601038",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "188601038",
+                "scene_pre": "search",
+                "current_price": "193",
+                "x_sku_ids": "1136087548",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "188601038"
+            },
+            "productUrl": "//www.daraz.com.bd/products/oral-b-ultrathin-sensitive-toothbrush-buy-2-get-2-free-extra-soft-i188601038-s1136087548.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/514fccec1f53988797671359133a09a8.jpg",
+            "originalPrice": "240.00",
+            "originalPriceShow": "৳ 240",
+            "price": "193",
+            "promotionId": "null",
+            "priceShow": "৳ 193",
+            "discount": "-20%",
+            "ratingScore": "4.69767",
+            "review": "86",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "188601038_BD-1136087548",
+            "sku": "188601038_BD",
+            "skus": [],
+            "description": [
+                " Removes up to 90% of plaque with perfectly angled Criss Cross bristles* Ultrathin bristles: 20x thinner bristle tips that stay gentle on gums and reach deeper between teeth vs regular bristles Power Tip bristles help clean hard to reach areas End-Rounded Bristles are gentle on teeth and gums Oral-B is the WorldÃ¢â¬â¢s #1 Dentists Recommended toothbrush brand Dentists recommend changing your toothbrush every 3 months *vs a regular manual toothbrush "
+            ],
+            "brandId": "27533",
+            "brandName": "Oral-B",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/514fccec1f53988797671359133a09a8.jpg",
+                    "productUrl": "/products/oral-b-ultrathin-sensitive-toothbrush-buy-2-get-2-free-extra-soft-i188601038-s1136087548.html",
+                    "sku": "188601038_BD",
+                    "skuId": "1136087548"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1709,
+                1715
+            ],
+            "clickTrace": "query:;nid:188601038;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:188601038_BD;price:193;client:desktop;supplier_id:1000000;asc_category_id:1715;item_id:188601038;sku_id:1136087548;shop_id:34372",
+            "addToCartSkus": [
+                {
+                    "sku": "188601038_BD-1136087548",
+                    "skuId": "1136087548",
+                    "count": 0
+                }
+            ],
+            "itemId": "188601038",
+            "skuId": "1136087548",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pepspodent Toothpaste Sensitive Expert Gum Care 140g",
+            "nid": "117920541",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "117920541",
+                "scene_pre": "search",
+                "current_price": "141.00",
+                "x_sku_ids": "1037258211",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "117920541"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pepspodent-toothpaste-sensitive-expert-gum-care-140g-i117920541-s1037258211.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0ac557bf64030cfe7aa1a6ea360d0f3a.jpg",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "141.00",
+            "promotionId": "null",
+            "priceShow": "৳ 141",
+            "discount": "-22%",
+            "ratingScore": "4.82432",
+            "review": "222",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "117920541_BD-1037258211",
+            "sku": "117920541_BD",
+            "skus": [],
+            "description": [
+                "Provides rapid relief from tooth sensitivity in 30 seconds",
+                "Contains HAP minerals to repair the tooth",
+                "Gently removes plaque and stains to whiten teeth with proper brushing.",
+                "Contains enamel-strengthening fluoride for effective cavity protection."
+            ],
+            "brandId": "126676",
+            "brandName": "Pepsodent",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0ac557bf64030cfe7aa1a6ea360d0f3a.jpg",
+                    "productUrl": "/products/pepspodent-toothpaste-sensitive-expert-gum-care-140g-i117920541-s1037258211.html",
+                    "sku": "117920541_BD",
+                    "skuId": "1037258211"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1709,
+                1716
+            ],
+            "clickTrace": "query:;nid:117920541;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:117920541_BD;price:141.00;client:desktop;supplier_id:1000000;asc_category_id:1716;item_id:117920541;sku_id:1037258211;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "117920541_BD-1037258211",
+                    "skuId": "1037258211",
+                    "count": 0
+                }
+            ],
+            "itemId": "117920541",
+            "skuId": "1037258211",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Portable Titanium Toothpicks Metal Toothpick with Protective Holder, Pocket Toothpick with Key Chain",
+            "nid": "233126859",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233126859",
+                "scene_pre": "search",
+                "current_price": "99.00",
+                "x_sku_ids": "1175833786",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "233126859"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233126859-s1175833786.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/db852f87d81b01eb85b977f586e510ef.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "99.00",
+            "promotionId": "null",
+            "priceShow": "৳ 99",
+            "discount": "-60%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233126859_BD-1175833786",
+            "sku": "233126859_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1012709",
+            "mainSellerId": "",
+            "sellerName": "AMIR CORPORATION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/db852f87d81b01eb85b977f586e510ef.jpg",
+                    "productUrl": "/products/-i233126859-s1175833786.html",
+                    "sku": "233126859_BD",
+                    "skuId": "1175833786"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1709,
+                1710
+            ],
+            "clickTrace": "query:;nid:233126859;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:233126859_BD;price:99.00;client:desktop;supplier_id:1012709;asc_category_id:1710;item_id:233126859;sku_id:1175833786;shop_id:18966",
+            "addToCartSkus": [
+                {
+                    "sku": "233126859_BD-1175833786",
+                    "skuId": "1175833786",
+                    "count": 0
+                }
+            ],
+            "itemId": "233126859",
+            "skuId": "1175833786",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "6 pcs Ear Cleaner Set Stainless Steel With PU Lather Case",
+            "nid": "222195620",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "222195620",
+                "scene_pre": "search",
+                "current_price": "74",
+                "x_sku_ids": "1168693555",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "222195620"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pu-6-i222195620-s1168693555.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fbeca5a0120f02f7c8f4b7fcdb4d5d20.jpg",
+            "originalPrice": "490.00",
+            "originalPriceShow": "৳ 490",
+            "price": "74",
+            "promotionId": "null",
+            "priceShow": "৳ 74",
+            "discount": "-85%",
+            "ratingScore": "4.85106",
+            "review": "94",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "222195620_BD-1168693555",
+            "sku": "222195620_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1689",
+            "mainSellerId": "",
+            "sellerName": "Himel Technology",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fbeca5a0120f02f7c8f4b7fcdb4d5d20.jpg",
+                    "productUrl": "/products/pu-6-i222195620-s1168693555.html",
+                    "sku": "222195620_BD",
+                    "skuId": "1168693555"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                10003017
+            ],
+            "clickTrace": "query:;nid:222195620;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:222195620_BD;price:74;client:desktop;supplier_id:1689;asc_category_id:10003017;item_id:222195620;sku_id:1168693555;shop_id:2388",
+            "addToCartSkus": [
+                {
+                    "sku": "222195620_BD-1168693555",
+                    "skuId": "1168693555",
+                    "count": 0
+                }
+            ],
+            "itemId": "222195620",
+            "skuId": "1168693555",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Defender 3ply White Melt Blown Surgical Mask with Nosebar (50pcs)",
+            "nid": "182614771",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "182614771",
+                "scene_pre": "search",
+                "current_price": "218",
+                "x_sku_ids": "1126529888",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "182614771"
+            },
+            "productUrl": "//www.daraz.com.bd/products/3-50-i182614771-s1126529888.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1b12725ed9fc0f62cca3d02aa86d805a.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "218",
+            "promotionId": "null",
+            "priceShow": "৳ 218",
+            "discount": "-46%",
+            "ratingScore": "4.87015",
+            "review": "824",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "182614771_BD-1126529888",
+            "sku": "182614771_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "43262",
+            "brandName": "Defender",
+            "sellerId": "700507278012",
+            "mainSellerId": "",
+            "sellerName": "ChowdhuryHat",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1b12725ed9fc0f62cca3d02aa86d805a.jpg",
+                    "productUrl": "/products/3-50-i182614771-s1126529888.html",
+                    "sku": "182614771_BD",
+                    "skuId": "1126529888"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                7405
+            ],
+            "clickTrace": "query:;nid:182614771;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:182614771_BD;price:218;client:desktop;supplier_id:700507278012;asc_category_id:7405;item_id:182614771;sku_id:1126529888;shop_id:89406",
+            "addToCartSkus": [
+                {
+                    "sku": "182614771_BD-1126529888",
+                    "title": "not defined",
+                    "skuId": "1126529888",
+                    "count": 0
+                }
+            ],
+            "itemId": "182614771",
+            "skuId": "1126529888",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "2 Pieces Disposable 3 Layer Face Mask With Nose Clip - Blue",
+            "nid": "206093964",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "206093964",
+                "scene_pre": "search",
+                "current_price": "8",
+                "x_sku_ids": "1154893467",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "206093964"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i206093964-s1154893467.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/4f611d06b7f00402cde0b9e58df3226e.jpg",
+            "originalPrice": "20.00",
+            "originalPriceShow": "৳ 20",
+            "price": "8",
+            "promotionId": "null",
+            "priceShow": "৳ 8",
+            "discount": "-60%",
+            "ratingScore": "4.45455",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "206093964_BD-1154893467",
+            "sku": "206093964_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508625040",
+            "mainSellerId": "",
+            "sellerName": "THIRD EYE",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/4f611d06b7f00402cde0b9e58df3226e.jpg",
+                    "productUrl": "/products/-i206093964-s1154893467.html",
+                    "sku": "206093964_BD",
+                    "skuId": "1154893467"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                7405
+            ],
+            "clickTrace": "query:;nid:206093964;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:206093964_BD;price:8;client:desktop;supplier_id:700508625040;asc_category_id:7405;item_id:206093964;sku_id:1154893467;shop_id:174044",
+            "addToCartSkus": [
+                {
+                    "sku": "206093964_BD-1154893467",
+                    "title": "Int: One size",
+                    "skuId": "1154893467",
+                    "count": 0
+                }
+            ],
+            "itemId": "206093964",
+            "skuId": "1154893467",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Safety Goggles / Anti Virus Eye Protection / Eye Protection / Medical Protective High Quality Eye Safety Goggles.",
+            "nid": "186457512",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "186457512",
+                "scene_pre": "search",
+                "current_price": "49",
+                "x_sku_ids": "1132957517",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "186457512"
+            },
+            "productUrl": "//www.daraz.com.bd/products/safety-goggles-anti-virus-eye-protection-eye-protection-medical-protective-high-quality-eye-safety-goggles-i186457512-s1132957517.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a24486988a5fa14b016c00a9aace7f89.jpg",
+            "originalPrice": "380.00",
+            "originalPriceShow": "৳ 380",
+            "price": "49",
+            "promotionId": "null",
+            "priceShow": "৳ 49",
+            "discount": "-87%",
+            "ratingScore": "4.95833",
+            "review": "24",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "186457512_BD-1132957517",
+            "sku": "186457512_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508313104",
+            "mainSellerId": "",
+            "sellerName": "Growthdrive",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a24486988a5fa14b016c00a9aace7f89.jpg",
+                    "productUrl": "/products/safety-goggles-anti-virus-eye-protection-eye-protection-medical-protective-high-quality-eye-safety-goggles-i186457512-s1132957517.html",
+                    "sku": "186457512_BD",
+                    "skuId": "1132957517"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                7405
+            ],
+            "clickTrace": "query:;nid:186457512;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:186457512_BD;price:49;client:desktop;supplier_id:700508313104;asc_category_id:7405;item_id:186457512;sku_id:1132957517;shop_id:142887",
+            "addToCartSkus": [
+                {
+                    "sku": "186457512_BD-1132957517",
+                    "title": "not defined",
+                    "skuId": "1132957517",
+                    "count": 0
+                }
+            ],
+            "itemId": "186457512",
+            "skuId": "1132957517",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ear Wax Cleaner tools for Special Care.",
+            "nid": "218685875",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "218685875",
+                "scene_pre": "search",
+                "current_price": "72",
+                "x_sku_ids": "1166423753",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "218685875"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i218685875-s1166423753.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/61f0d3bc8e8f3419fbb1afd19e637a18.jpg",
+            "originalPrice": "600.00",
+            "originalPriceShow": "৳ 600",
+            "price": "72",
+            "promotionId": "null",
+            "priceShow": "৳ 72",
+            "discount": "-88%",
+            "ratingScore": "4.61538",
+            "review": "39",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "218685875_BD-1166423753",
+            "sku": "218685875_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508268789",
+            "mainSellerId": "",
+            "sellerName": "MY Shopping Zone",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/61f0d3bc8e8f3419fbb1afd19e637a18.jpg",
+                    "productUrl": "/products/-i218685875-s1166423753.html",
+                    "sku": "218685875_BD",
+                    "skuId": "1166423753"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                10003017
+            ],
+            "clickTrace": "query:;nid:218685875;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:218685875_BD;price:72;client:desktop;supplier_id:700508268789;asc_category_id:10003017;item_id:218685875;sku_id:1166423753;shop_id:140600",
+            "addToCartSkus": [
+                {
+                    "sku": "218685875_BD-1166423753",
+                    "skuId": "1166423753",
+                    "count": 0
+                }
+            ],
+            "itemId": "218685875",
+            "skuId": "1166423753",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "NeW LED Light Ear Cleaner Flashlight Earpick",
+            "nid": "132028600",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132028600",
+                "scene_pre": "search",
+                "current_price": "25",
+                "x_sku_ids": "1052724405",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "132028600"
+            },
+            "productUrl": "//www.daraz.com.bd/products/led-i132028600-s1052724405.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b680dd986e7c60e9a92db7ae81933f60.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "25",
+            "promotionId": "null",
+            "priceShow": "৳ 25",
+            "discount": "-83%",
+            "ratingScore": "4.44068",
+            "review": "118",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132028600_BD-1052724405",
+            "sku": "132028600_BD",
+            "skus": [],
+            "description": [
+                "An ideal solution for cleaning your ear like never before.",
+                "The inner side of the ear becomes nicely visible and provides you the scope to clean painlessly.",
+                "Full bright cool white flashlight. (Better than any yellow light)",
+                "Changeable heads",
+                "Handy to carry anywhere with you.",
+                "Doctors also use it.,,"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1016344",
+            "mainSellerId": "",
+            "sellerName": "Crazy Deal Mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b680dd986e7c60e9a92db7ae81933f60.jpg",
+                    "productUrl": "/products/led-i132028600-s1052724405.html",
+                    "sku": "132028600_BD",
+                    "skuId": "1052724405"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                10003017
+            ],
+            "clickTrace": "query:;nid:132028600;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:132028600_BD;price:25;client:desktop;supplier_id:1016344;asc_category_id:10003017;item_id:132028600;sku_id:1052724405;shop_id:22713",
+            "addToCartSkus": [
+                {
+                    "sku": "132028600_BD-1052724405",
+                    "skuId": "1052724405",
+                    "count": 0
+                }
+            ],
+            "itemId": "132028600",
+            "skuId": "1052724405",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Divas secret intimate brightening solution 50ml",
+            "nid": "168788018",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168788018",
+                "scene_pre": "search",
+                "current_price": "248",
+                "x_sku_ids": "1103000049",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "168788018"
+            },
+            "productUrl": "//www.daraz.com.bd/products/divas-secret-intimate-brightening-solution-50ml-i168788018-s1103000049.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/120083431869bea4b76d8b97e134dd81.jpg",
+            "originalPrice": "285.00",
+            "originalPriceShow": "৳ 285",
+            "price": "248",
+            "promotionId": "null",
+            "priceShow": "৳ 248",
+            "discount": "-13%",
+            "ratingScore": "4.59542",
+            "review": "131",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168788018_BD-1103000049",
+            "sku": "168788018_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123684454",
+            "brandName": "Divas secret",
+            "sellerId": "1008569",
+            "mainSellerId": "",
+            "sellerName": "The Makeup Company",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/120083431869bea4b76d8b97e134dd81.jpg",
+                    "productUrl": "/products/divas-secret-intimate-brightening-solution-50ml-i168788018-s1103000049.html",
+                    "sku": "168788018_BD",
+                    "skuId": "1103000049"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1718,
+                1719
+            ],
+            "clickTrace": "query:;nid:168788018;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:168788018_BD;price:248;client:desktop;supplier_id:1008569;asc_category_id:1719;item_id:168788018;sku_id:1103000049;shop_id:14734",
+            "addToCartSkus": [
+                {
+                    "sku": "168788018_BD-1103000049",
+                    "skuId": "1103000049",
+                    "count": 0
+                }
+            ],
+            "itemId": "168788018",
+            "skuId": "1103000049",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "6PCS Ear Pick Set Portable Ear Cleaner Set Stainless Steel Earpick Ear Wax Curette Remover Ear Cleaner Spoon Curette Spiral Ear Clean Tool with Case",
+            "nid": "221390751",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "221390751",
+                "scene_pre": "search",
+                "current_price": "74.25",
+                "x_sku_ids": "1168212376",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "221390751"
+            },
+            "productUrl": "//www.daraz.com.bd/products/6-i221390751-s1168212376.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0d4d739c096a42e886e08e0df694b90c.jpg",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "74.25",
+            "promotionId": "null",
+            "priceShow": "৳ 74",
+            "discount": "-59%",
+            "ratingScore": "4.80769",
+            "review": "52",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "221390751_BD-1168212376",
+            "sku": "221390751_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508586003",
+            "mainSellerId": "",
+            "sellerName": "Wania Fashion House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0d4d739c096a42e886e08e0df694b90c.jpg",
+                    "productUrl": "/products/6-i221390751-s1168212376.html",
+                    "sku": "221390751_BD",
+                    "skuId": "1168212376"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                10003017
+            ],
+            "clickTrace": "query:;nid:221390751;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:221390751_BD;price:74.25;client:desktop;supplier_id:700508586003;asc_category_id:10003017;item_id:221390751;sku_id:1168212376;shop_id:170275",
+            "addToCartSkus": [
+                {
+                    "sku": "221390751_BD-1168212376",
+                    "skuId": "1168212376",
+                    "count": 0
+                }
+            ],
+            "itemId": "221390751",
+            "skuId": "1168212376",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "6 PCS Ear Pick Set Portable Ear Cleaner Set Stainless Steel With Lather Case",
+            "nid": "210090121",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "210090121",
+                "scene_pre": "search",
+                "current_price": "71",
+                "x_sku_ids": "1160218794",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "210090121"
+            },
+            "productUrl": "//www.daraz.com.bd/products/6-i210090121-s1160218794.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0d4d739c096a42e886e08e0df694b90c.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "71",
+            "promotionId": "null",
+            "priceShow": "৳ 71",
+            "discount": "-80%",
+            "ratingScore": "4.58621",
+            "review": "29",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "210090121_BD-1160218794",
+            "sku": "210090121_BD",
+            "skus": [],
+            "description": [
+                "100% brand new quality",
+                "Color: Silver",
+                "Material: Stainless steel",
+                "Packet Materials: PU Lather ",
+                "The innovative spring earwax cleaning kit is an innovative ear cleaning tool, safe and painless.",
+                "It is made of high-quality stainless steel and is specifically designed to extract excess wax safely and comfortably.",
+                "It can prevent damage to ear drums and damage to hearing.",
+                "It has a spiral groove tip, which can reach the perfect distance from the ear and effectively remove earwax.",
+                "6pcs ear cleaning kit"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509324085",
+            "mainSellerId": "",
+            "sellerName": "CK Mall",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0d4d739c096a42e886e08e0df694b90c.jpg",
+                    "productUrl": "/products/6-i210090121-s1160218794.html",
+                    "sku": "210090121_BD",
+                    "skuId": "1160218794"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                10003017
+            ],
+            "clickTrace": "query:;nid:210090121;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:210090121_BD;price:71;client:desktop;supplier_id:700509324085;asc_category_id:10003017;item_id:210090121;sku_id:1160218794;shop_id:206543",
+            "addToCartSkus": [
+                {
+                    "sku": "210090121_BD-1160218794",
+                    "skuId": "1160218794",
+                    "count": 0
+                }
+            ],
+            "itemId": "210090121",
+            "skuId": "1160218794",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Defender Black Melt-Blown Surgical Mask (50pcs)",
+            "nid": "216690710",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "216690710",
+                "scene_pre": "search",
+                "current_price": "259",
+                "x_sku_ids": "1164911077",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "216690710"
+            },
+            "productUrl": "//www.daraz.com.bd/products/50-i216690710-s1164911077.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6c8b3881110eebb2043f1ecd3332521d.png",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "259",
+            "promotionId": "null",
+            "priceShow": "৳ 259",
+            "discount": "-48%",
+            "ratingScore": "4.8172",
+            "review": "93",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "216690710_BD-1164911077",
+            "sku": "216690710_BD",
+            "skus": [],
+            "description": [
+                "Brand: Defender",
+                "3 Layers",
+                "Capacity: 50pcs",
+                "70% Non-woven fabric",
+                "30% Melt-Blown Fabric",
+                "High quality nose bar",
+                "50pcs in packged in beautiful tissue box style box"
+            ],
+            "brandId": "43262",
+            "brandName": "Defender",
+            "sellerId": "700507278012",
+            "mainSellerId": "",
+            "sellerName": "ChowdhuryHat",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6c8b3881110eebb2043f1ecd3332521d.png",
+                    "productUrl": "/products/50-i216690710-s1164911077.html",
+                    "sku": "216690710_BD",
+                    "skuId": "1164911077"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                7405
+            ],
+            "clickTrace": "query:;nid:216690710;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:216690710_BD;price:259;client:desktop;supplier_id:700507278012;asc_category_id:7405;item_id:216690710;sku_id:1164911077;shop_id:89406",
+            "addToCartSkus": [
+                {
+                    "sku": "216690710_BD-1164911077",
+                    "title": "Int: One size",
+                    "skuId": "1164911077",
+                    "count": 0
+                }
+            ],
+            "itemId": "216690710",
+            "skuId": "1164911077",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Portable Ear Cleaner Set Earpick Ear Wax Remover Ear Curette Spiral Ear Spoon Ear Cleaning Tools (6Pcs)",
+            "nid": "222404760",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "222404760",
+                "scene_pre": "search",
+                "current_price": "85.00",
+                "x_sku_ids": "1168795896",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "222404760"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ear-cleaner-6-i222404760-s1168795896.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/93a24f163dd3438f7dd88eb88f51ca9c.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "85.00",
+            "promotionId": "null",
+            "priceShow": "৳ 85",
+            "discount": "-58%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "222404760_BD-1168795896",
+            "sku": "222404760_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507785104",
+            "mainSellerId": "",
+            "sellerName": "BEST GADGETS",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/93a24f163dd3438f7dd88eb88f51ca9c.jpg",
+                    "productUrl": "/products/ear-cleaner-6-i222404760-s1168795896.html",
+                    "sku": "222404760_BD",
+                    "skuId": "1168795896"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                10003017
+            ],
+            "clickTrace": "query:;nid:222404760;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:222404760_BD;price:85.00;client:desktop;supplier_id:700507785104;asc_category_id:10003017;item_id:222404760;sku_id:1168795896;shop_id:110285",
+            "addToCartSkus": [
+                {
+                    "sku": "222404760_BD-1168795896",
+                    "skuId": "1168795896",
+                    "count": 0
+                }
+            ],
+            "itemId": "222404760",
+            "skuId": "1168795896",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "6PCS Ear Pick Set Portable Ear Cleaner Set Stainless Steel Earpick Ear Wax Curette Remover Ear Cleaner Spoon Curette Spiral Ear Clean Tool with Case",
+            "nid": "233897939",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233897939",
+                "scene_pre": "search",
+                "current_price": "60",
+                "x_sku_ids": "1176736158",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "233897939"
+            },
+            "productUrl": "//www.daraz.com.bd/products/6-i233897939-s1176736158.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1516240afa03b50dc3367800b61ec921.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "60",
+            "promotionId": "null",
+            "priceShow": "৳ 60",
+            "discount": "-70%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233897939_BD-1176736158",
+            "sku": "233897939_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4651",
+            "mainSellerId": "",
+            "sellerName": "Patwary Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1516240afa03b50dc3367800b61ec921.jpg",
+                    "productUrl": "/products/6-i233897939-s1176736158.html",
+                    "sku": "233897939_BD",
+                    "skuId": "1176736158"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                10003017
+            ],
+            "clickTrace": "query:;nid:233897939;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:233897939_BD;price:60;client:desktop;supplier_id:4651;asc_category_id:10003017;item_id:233897939;sku_id:1176736158;shop_id:4700",
+            "addToCartSkus": [
+                {
+                    "sku": "233897939_BD-1176736158",
+                    "skuId": "1176736158",
+                    "count": 0
+                }
+            ],
+            "itemId": "233897939",
+            "skuId": "1176736158",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "2 pcs Disposable 3 Ply/Layer WHITE Face Mask With  Nose Clip",
+            "nid": "206098735",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "206098735",
+                "scene_pre": "search",
+                "current_price": "6",
+                "x_sku_ids": "1154907014",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "206098735"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i206098735-s1154907014.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bae3ec3076f4e9aea38aef0860188eb2.jpg",
+            "originalPrice": "20.00",
+            "originalPriceShow": "৳ 20",
+            "price": "6",
+            "promotionId": "null",
+            "priceShow": "৳ 6",
+            "discount": "-70%",
+            "ratingScore": "4.6",
+            "review": "20",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "206098735_BD-1154907014",
+            "sku": "206098735_BD",
+            "skus": [],
+            "description": [
+                "Product details",
+                " Without Glass Fibers",
+                " Very Low Resistance To Breathing",
+                " Nose-Bar Adaptable",
+                " High Filtration Capacity",
+                " Perfect Fitting",
+                " Made in Bangladesh"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508625040",
+            "mainSellerId": "",
+            "sellerName": "THIRD EYE",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bae3ec3076f4e9aea38aef0860188eb2.jpg",
+                    "productUrl": "/products/-i206098735-s1154907014.html",
+                    "sku": "206098735_BD",
+                    "skuId": "1154907014"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                7405
+            ],
+            "clickTrace": "query:;nid:206098735;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:206098735_BD;price:6;client:desktop;supplier_id:700508625040;asc_category_id:7405;item_id:206098735;sku_id:1154907014;shop_id:174044",
+            "addToCartSkus": [
+                {
+                    "sku": "206098735_BD-1154907014",
+                    "title": "Int: One size",
+                    "skuId": "1154907014",
+                    "count": 0
+                }
+            ],
+            "itemId": "206098735",
+            "skuId": "1154907014",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Boroline’s Suthol Natural Skin Liquid-200ml",
+            "nid": "186369951",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "186369951",
+                "scene_pre": "search",
+                "current_price": "265.00",
+                "x_sku_ids": "1132860304",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "186369951"
+            },
+            "productUrl": "//www.daraz.com.bd/products/borolines-liquid-200ml-i186369951-s1132860304.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4249d05d1b5fb2729ebc3d0b0565cff0.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "265.00",
+            "promotionId": "null",
+            "priceShow": "৳ 265",
+            "discount": "-24%",
+            "ratingScore": "4.28571",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "186369951_BD-1132860304",
+            "sku": "186369951_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "129647",
+            "brandName": "BOROLINE",
+            "sellerId": "700507251007",
+            "mainSellerId": "",
+            "sellerName": "Nasreen Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4249d05d1b5fb2729ebc3d0b0565cff0.jpg",
+                    "productUrl": "/products/borolines-liquid-200ml-i186369951-s1132860304.html",
+                    "sku": "186369951_BD",
+                    "skuId": "1132860304"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                7405
+            ],
+            "clickTrace": "query:;nid:186369951;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:186369951_BD;price:265.00;client:desktop;supplier_id:700507251007;asc_category_id:7405;item_id:186369951;sku_id:1132860304;shop_id:89233",
+            "addToCartSkus": [
+                {
+                    "sku": "186369951_BD-1132860304",
+                    "title": "not defined",
+                    "skuId": "1132860304",
+                    "count": 0
+                }
+            ],
+            "itemId": "186369951",
+            "skuId": "1132860304",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "6PCS Ear Pick Set Portable Ear Cleaner Set Stainless Steel With Lather Case",
+            "nid": "220355134",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "220355134",
+                "scene_pre": "search",
+                "current_price": "71",
+                "x_sku_ids": "1167711321",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "220355134"
+            },
+            "productUrl": "//www.daraz.com.bd/products/6-i220355134-s1167711321.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/163908a20a23ef4984b9461901437d7b.jpg",
+            "originalPrice": "199.00",
+            "originalPriceShow": "৳ 199",
+            "price": "71",
+            "promotionId": "null",
+            "priceShow": "৳ 71",
+            "discount": "-64%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "220355134_BD-1167711321",
+            "sku": "220355134_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5172",
+            "mainSellerId": "",
+            "sellerName": "Tvc Asian Sky Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/163908a20a23ef4984b9461901437d7b.jpg",
+                    "productUrl": "/products/6-i220355134-s1167711321.html",
+                    "sku": "220355134_BD",
+                    "skuId": "1167711321"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                10003017
+            ],
+            "clickTrace": "query:;nid:220355134;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:220355134_BD;price:71;client:desktop;supplier_id:5172;asc_category_id:10003017;item_id:220355134;sku_id:1167711321;shop_id:5186",
+            "addToCartSkus": [
+                {
+                    "sku": "220355134_BD-1167711321",
+                    "skuId": "1167711321",
+                    "count": 0
+                }
+            ],
+            "itemId": "220355134",
+            "skuId": "1167711321",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "7PCS Ear Pick Set Portable Ear Cleaner Set Stainless Steel With Lather Case",
+            "nid": "233634871",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233634871",
+                "scene_pre": "search",
+                "current_price": "80.00",
+                "x_sku_ids": "1176328696",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "233634871"
+            },
+            "productUrl": "//www.daraz.com.bd/products/7-i233634871-s1176328696.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/82b84b971b21eea5330a51603e86b52c.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "80.00",
+            "promotionId": "null",
+            "priceShow": "৳ 80",
+            "discount": "-33%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233634871_BD-1176328696",
+            "sku": "233634871_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508349042",
+            "mainSellerId": "",
+            "sellerName": "Ayan's Corner",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/82b84b971b21eea5330a51603e86b52c.jpg",
+                    "productUrl": "/products/7-i233634871-s1176328696.html",
+                    "sku": "233634871_BD",
+                    "skuId": "1176328696"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                10003017
+            ],
+            "clickTrace": "query:;nid:233634871;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:233634871_BD;price:80.00;client:desktop;supplier_id:700508349042;asc_category_id:10003017;item_id:233634871;sku_id:1176328696;shop_id:149170",
+            "addToCartSkus": [
+                {
+                    "sku": "233634871_BD-1176328696",
+                    "skuId": "1176328696",
+                    "count": 0
+                }
+            ],
+            "itemId": "233634871",
+            "skuId": "1176328696",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "VWash Plus Expert Intimate Hygienes (100ml) INDIA",
+            "nid": "214070543",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "214070543",
+                "scene_pre": "search",
+                "current_price": "218",
+                "x_sku_ids": "1163176144",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "214070543"
+            },
+            "productUrl": "//www.daraz.com.bd/products/vwash-plus-100ml-i214070543-s1163176144.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c59534913cc08b05ae1ec73d1dc51eba.jpg",
+            "originalPrice": "340.00",
+            "originalPriceShow": "৳ 340",
+            "price": "218",
+            "promotionId": "null",
+            "priceShow": "৳ 218",
+            "discount": "-36%",
+            "ratingScore": "4.8",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "214070543_BD-1163176144",
+            "sku": "214070543_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509174005",
+            "mainSellerId": "",
+            "sellerName": "Mohosin Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c59534913cc08b05ae1ec73d1dc51eba.jpg",
+                    "productUrl": "/products/vwash-plus-100ml-i214070543-s1163176144.html",
+                    "sku": "214070543_BD",
+                    "skuId": "1163176144"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                1718,
+                1719
+            ],
+            "clickTrace": "query:;nid:214070543;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:214070543_BD;price:218;client:desktop;supplier_id:700509174005;asc_category_id:1719;item_id:214070543;sku_id:1163176144;shop_id:204383",
+            "addToCartSkus": [
+                {
+                    "sku": "214070543_BD-1163176144",
+                    "skuId": "1163176144",
+                    "count": 0
+                }
+            ],
+            "itemId": "214070543",
+            "skuId": "1163176144",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Baby Cute & Pailin Baby cotton Bud Pure Cotton White color-100 Pcs -1 Packet(Imported)(Made in china)",
+            "nid": "202281764",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "202281764",
+                "scene_pre": "search",
+                "current_price": "11",
+                "x_sku_ids": "1149893796",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "202281764"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100-1-i202281764-s1149893796.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1952972ae684958a9d4ae4221771146d.jpg",
+            "originalPrice": "50.00",
+            "originalPriceShow": "৳ 50",
+            "price": "11",
+            "promotionId": "null",
+            "priceShow": "৳ 11",
+            "discount": "-78%",
+            "ratingScore": "5",
+            "review": "10",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "202281764_BD-1149893796",
+            "sku": "202281764_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508436157",
+            "mainSellerId": "",
+            "sellerName": "M S Konok Traders KUS",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1952972ae684958a9d4ae4221771146d.jpg",
+                    "productUrl": "/products/100-1-i202281764-s1149893796.html",
+                    "sku": "202281764_BD",
+                    "skuId": "1149893796"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                7405
+            ],
+            "clickTrace": "query:;nid:202281764;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:202281764_BD;price:11;client:desktop;supplier_id:700508436157;asc_category_id:7405;item_id:202281764;sku_id:1149893796;shop_id:159414",
+            "addToCartSkus": [
+                {
+                    "sku": "202281764_BD-1149893796",
+                    "title": "Int: One size",
+                    "skuId": "1149893796",
+                    "count": 0
+                }
+            ],
+            "itemId": "202281764",
+            "skuId": "1149893796",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "6PCS Ear Pick Set Portable Ear Cleaner Set Stainless Steel With Lather Cas",
+            "nid": "220331641",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "220331641",
+                "scene_pre": "search",
+                "current_price": "99.00",
+                "x_sku_ids": "1167685934",
+                "SN": "45c118f3665a93f97bd1c76256bd1159",
+                "x_ad": "1",
+                "x_object_id": "220331641"
+            },
+            "productUrl": "//www.daraz.com.bd/products/6-i220331641-s1167685934.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8b63e0a4532a2a4f60eb4980e1f9e5e9.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "99.00",
+            "promotionId": "null",
+            "priceShow": "৳ 99",
+            "discount": "-34%",
+            "ratingScore": "4.75",
+            "review": "8",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "220331641_BD-1167685934",
+            "sku": "220331641_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508472200",
+            "mainSellerId": "",
+            "sellerName": "More to store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8b63e0a4532a2a4f60eb4980e1f9e5e9.jpg",
+                    "productUrl": "/products/6-i220331641-s1167685934.html",
+                    "sku": "220331641_BD",
+                    "skuId": "1167685934"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1682,
+                10003017
+            ],
+            "clickTrace": "query:;nid:220331641;src:LazadaMainSrp;rn:45c118f3665a93f97bd1c76256bd1159;region:bd;sku:220331641_BD;price:99.00;client:desktop;supplier_id:700508472200;asc_category_id:10003017;item_id:220331641;sku_id:1167685934;shop_id:162162",
+            "addToCartSkus": [
+                {
+                    "sku": "220331641_BD-1167685934",
+                    "skuId": "1167685934",
+                    "count": 0
+                }
+            ],
+            "itemId": "220331641",
+            "skuId": "1167685934",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/beauty-health/",
+            "title": "Health & Beauty"
+        },
+        {
+            "url": "/personal-care/",
+            "title": "Personal Care"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/personal-care/?referer_rn=45c118f3665a93f97bd1c76256bd1159&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Ch3%3EPersonal%20Care%20Products%20At%20Best%20Price%20In%20Bangladesh%20-%20Daraz.com.bd%3C%2Fh3%3E%0A%0A%3Cp%3ESome%20people%20tend%20to%20take%20their%20personal%20hygiene%20lightly.%20Consequently%2C%20they%20end%20up%20feeling%20under%20the%20weather%20every%20now%20and%20then%20or%20even%20worse%20when%20they%20catch%20some%20serious%20disease.%20Therefore%2C%20it%20is%20high-time%20to%20ensure%20a%20neat%20and%20clean%20personal%20hygiene%20to%20enjoy%20a%20stress-free%20and%20pleasant%20life.%20Want%20to%20know%20the%20perfect%20place%20to%20buy%20reliable%20personal%20care%20products%20or%20oral%20care%20items%20online%3F%20Come%20and%20log%20on%20to%20Daraz%2C%20the%20ideal%20place%20to%20get%20personal%20care%20items%20at%20affordable%20prices.%3C%2Fp%3E%0A%0A%3Ch4%3EBuy%20Personal%20Care%20Products%20Online%20at%20Daraz.com.bd%3C%2Fh4%3E%0A%3Cp%3EFor%20a%20smooth%20or%20trendy%20shave%2C%20try%20out%20grooming%20products%20including%20hair%20trimmers%20brought%20to%20you%20by%20top%20brands%20at%20affordable%20prices.%20Looking%20for%20%3Ca%20href%3D%22%2Fmens-trimmer%2F%22%3Etrimmer%20machine%3C%2Fa%3E%20or%20%3Ca%20href%3D%22%2Fhair-removal-tools%2F%22%3Ehair%20removal%20products%3C%2Fa%3E%20for%20girls%3F%20No%20worries.%20We%20have%20a%20wide%20collection%20of%20reliable%20hair%20removal%20electronics%20as%20well.%20Our%20online%20store%20is%20not%20just%20all%20hair%20trimmers.%20At%20Daraz%2C%20we%20offer%20you%20a%20wide%20range%20of%20products%20so%20you%20don%27t%20have%20to%20go%20anywhere%20and%20buy%20all%20your%20essential%20items%20from%20one%2C%20all-inclusive%20store.%20%3C%2Fp%3E"
+    },
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/personal-safety-security/?item_id=184778533&from=onesearch_category_1682",
+                "name": "Personal Safety & Security",
+                "image": "//static-01.daraz.com.bd/p/b355004a58191243366bcb620a5daaf2.jpg",
+                "id": "7405"
+            },
+            {
+                "url": "/ear-care/?item_id=209651502&from=onesearch_category_1682",
+                "name": "Ear Care",
+                "image": "//static-01.daraz.com.bd/p/73ec877b1fba77bc629bf771e9f9f6a7.jpg",
+                "id": "10003017"
+            },
+            {
+                "url": "/color-lenses/?item_id=209449144&from=onesearch_category_1682",
+                "name": "Color Lens",
+                "image": "//static-01.daraz.com.bd/p/f49071636168db3299cb55f41e6d5407.jpg",
+                "id": "1706"
+            },
+            {
+                "url": "/hb-sanitary-napkins/?item_id=183600665&from=onesearch_category_1682",
+                "name": "Sanitary Napkins",
+                "image": "//static-01.daraz.com.bd/p/3030c65769f39243c255074774c8a1fc.jpg",
+                "id": "1723"
+            },
+            {
+                "url": "/toothbrushes/?item_id=175280544&from=onesearch_category_1682",
+                "name": "Toothbrushes",
+                "image": "//static-01.daraz.com.bd/p/f08f5c7502df17b3160fd4ee03afdf3c.jpg",
+                "id": "1715"
+            },
+            {
+                "url": "/teeth-whitening/?item_id=143714465&from=onesearch_category_1682",
+                "name": "Teeth whitening",
+                "image": "//static-01.daraz.com.bd/p/9f00c00ef07fdbf80418d3fba46cb417.jpg",
+                "id": "1714"
+            },
+            {
+                "url": "/toothpaste/?item_id=157202236&from=onesearch_category_1682",
+                "name": "Toothpaste",
+                "image": "//static-01.daraz.com.bd/p/539a83424c3c4a413e8633f39630ed37.jpg",
+                "id": "1716"
+            },
+            {
+                "url": "/deodorants/?item_id=117052425&from=onesearch_category_1682",
+                "name": "Deodorants",
+                "image": "//static-01.daraz.com.bd/p/1c9597390487a26565f87532da26d985.jpg",
+                "id": "1699"
+            },
+            {
+                "url": "/oral-care-accessories/?item_id=199641427&from=onesearch_category_1682",
+                "name": "Oral Care Accessories",
+                "image": "//static-01.daraz.com.bd/p/a6c519a47732b4ae3b0ef9b54d68f88e.jpg",
+                "id": "1713"
+            },
+            {
+                "url": "/dental-flosses-sticks/?item_id=183968152&from=onesearch_category_1682",
+                "name": "Dental Flosses & Sticks",
+                "image": "//static-01.daraz.com.bd/p/c9f7251ba9e6b44764424e94fae046ba.jpg",
+                "id": "1710"
+            },
+            {
+                "url": "/electric-toothbrushes/?item_id=230371812&from=onesearch_category_1682",
+                "name": "Electric Toothbrushes",
+                "image": "//static-01.daraz.com.bd/p/6042efffa5236c99083c576cdb5e2f41.jpg",
+                "id": "1711"
+            },
+            {
+                "url": "/contact-lens-care/?item_id=209499506&from=onesearch_category_1682",
+                "name": "Contact Lens Care & Accessories",
+                "image": "//static-01.daraz.com.bd/p/a4455014ef775faf48f5af7a0b92a19b.jpg",
+                "id": "1707"
+            },
+            {
+                "url": "/mouth_freshener/?item_id=121069546&from=onesearch_category_1682",
+                "name": "Mouthwash",
+                "image": "//static-01.daraz.com.bd/p/4f63024819278638175fdd9afd37d7ce.jpg",
+                "id": "1712"
+            },
+            {
+                "url": "/adult-diapers-incontinence/?item_id=185588601&from=onesearch_category_1682",
+                "name": "Adult Diapers & Incontinence",
+                "image": "//static-01.daraz.com.bd/p/51fa318fb26d205ce1c62ecea5d87ca1.jpg",
+                "id": "5278"
+            },
+            {
+                "url": "/denture-care/?item_id=196472394&from=onesearch_category_1682",
+                "name": "Denture Care",
+                "image": "//static-01.daraz.com.bd/p/7d380a0ffaafcefbd9fd6f40923d7591.jpg",
+                "id": "10002236"
+            },
+            {
+                "url": "/clear-lenses/?item_id=166126071&from=onesearch_category_1682",
+                "name": "Clear Lens",
+                "image": "//static-01.daraz.com.bd/p/176e4fef900a14e1c00c0ff815377849.jpg",
+                "id": "1705"
+            },
+            {
+                "url": "/tampons/?item_id=192116849&from=onesearch_category_1682",
+                "name": "Tampons",
+                "image": "//static-01.daraz.com.bd/p/a0082f097dc252415819c83037526b5f.jpg",
+                "id": "1724"
+            },
+            {
+                "url": "/hb-pregnancy-fertility/?item_id=225709041&from=onesearch_category_1682",
+                "name": "Pregnancy & Fertility",
+                "image": "//static-01.daraz.com.bd/p/f60b5d2688314d07ecad23083853af5b.png",
+                "id": "1722"
+            },
+            {
+                "url": "/toothbrush-replacement-heads/?item_id=205166570&from=onesearch_category_1682",
+                "name": "Toothbrush Replacement Heads",
+                "image": "//static-01.daraz.com.bd/p/3d4c00862960cead8afc8bdc6130735c.jpg",
+                "id": "10002235"
+            },
+            {
+                "url": "/eye-drops/?item_id=210850255&from=onesearch_category_1682",
+                "name": "Eye Drops",
+                "image": "//static-01.daraz.com.bd/p/93e83b914b1a30472efc94dfe4e0efeb.jpg",
+                "id": "5270"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_1682"
+        },
+        "title": "",
+        "bizId": "onesearch_category_1682",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "96397 items found in {$0}",
+        "title": "Personal Care Products",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Personal Care"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Personal Care Products",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "45c118f3665a93f97bd1c76256bd1159",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "1682",
+            "category": "1682"
+        },
+        "categoryRegionalKey": "081000000000",
+        "mainCategoryRegionalKey": "080000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Personal Care Products In Bangladesh At Best Price - Daraz.com.bd",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Health & Beauty,Personal Care",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "081000000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=1682&_p_asc_cateid=1682",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "personal-care",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "45c118f3665a93f97bd1c76256bd1159",
+                "resultNr": 96397,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1128017534",
+                "1081420093",
+                "1019376527"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "1682",
+            "category": "1682"
+        }
+    }
+}

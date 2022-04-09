@@ -1,0 +1,3522 @@
+{
+    "listItems": [
+        {
+            "name": "V380 ptz camera WiFi IP Camera V380 IP Camera 360 Degree CCTV Camera a Wireless Mini CC Camera IP Webcam Wireless CCTV Camera 360 Degree IP Camera",
+            "nid": "151942789",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "151942789",
+                "scene_pre": "search",
+                "current_price": "1210",
+                "x_sku_ids": "1079388358",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "151942789"
+            },
+            "productUrl": "//www.daraz.com.bd/products/v380-ptz-wifi-ip-v380-ip-360-cctv-cc-ip-cctv-360-ip-i151942789-s1079388358.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b1e4c3170dd60f19e8b671a4642c6cca.jpg",
+            "originalPrice": "1490.00",
+            "originalPriceShow": "৳ 1,490",
+            "price": "1210",
+            "promotionId": "null",
+            "priceShow": "৳ 1,210",
+            "discount": "-19%",
+            "ratingScore": "4.5567",
+            "review": "1067",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "151942789_BD-1079388358",
+            "sku": "151942789_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1009964",
+            "mainSellerId": "",
+            "sellerName": "Security Bazar BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b1e4c3170dd60f19e8b671a4642c6cca.jpg",
+                    "productUrl": "/products/v380-ptz-wifi-ip-v380-ip-360-cctv-cc-ip-cctv-360-ip-i151942789-s1079388358.html",
+                    "sku": "151942789_BD",
+                    "skuId": "1079388358"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:151942789;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:151942789_BD;price:1210;client:desktop;supplier_id:1009964;asc_category_id:10002903;item_id:151942789;sku_id:1079388358;shop_id:16068",
+            "addToCartSkus": [
+                {
+                    "sku": "151942789_BD-1079388358",
+                    "skuId": "1079388358",
+                    "count": 0
+                }
+            ],
+            "itemId": "151942789",
+            "skuId": "1079388358",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WiFi IP Camera V380 360 Degree",
+            "nid": "102630464",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "102630464",
+                "scene_pre": "search",
+                "current_price": "1210.00",
+                "x_sku_ids": "1016910213",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "102630464"
+            },
+            "productUrl": "//www.daraz.com.bd/products/wifi-ip-camera-v380-360-degree-i102630464-s1016910213.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5ccaf12701f176a645d70f0f84d26fb0.jpg",
+            "originalPrice": "2200.00",
+            "originalPriceShow": "৳ 2,200",
+            "price": "1210.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,210",
+            "discount": "-45%",
+            "ratingScore": "4.55906",
+            "review": "1524",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "102630464_BD-1016910213",
+            "sku": "102630464_BD",
+            "skus": [],
+            "description": [
+                "Warranty: 1 Year Service Warranty",
+                "Brand: Anspo",
+                "Model: V380 WiFi IP Camera",
+                "Camera Type: Robotic 360 Degree Camera ( you can rotate the camera from your mobile/pc)",
+                "Camera Lens: 2 Megapixel",
+                "Recording Resolution: 720P",
+                "Online View ( you can watch the IP Camera from anywhere)",
+                "Two Way Audio ( you can talk and listen using this IP Camera)",
+                "Night Vision",
+                "2.4 GHz WiFi Connectivity With WiFi Hotspot option.",
+                "Supports Micro SD Memory Card",
+                "Continuous Recording- The camera auto deletes the oldest recordings when the memory card is full.",
+                "Supports power backup from power bank."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1010428",
+            "mainSellerId": "",
+            "sellerName": "Best Deals",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5ccaf12701f176a645d70f0f84d26fb0.jpg",
+                    "productUrl": "/products/wifi-ip-camera-v380-360-degree-i102630464-s1016910213.html",
+                    "sku": "102630464_BD",
+                    "skuId": "1016910213"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:102630464;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:102630464_BD;price:1210.00;client:desktop;supplier_id:1010428;asc_category_id:10002903;item_id:102630464;sku_id:1016910213;shop_id:16714",
+            "addToCartSkus": [
+                {
+                    "sku": "102630464_BD-1016910213",
+                    "skuId": "1016910213",
+                    "count": 0
+                }
+            ],
+            "itemId": "102630464",
+            "skuId": "1016910213",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WiFi IP Camera V380 IP Camera 360 Degree CCTV Camera Wireless Mini CC Camera IP Webcam Wireless CCTV Camera 360 Degree IP Camera",
+            "nid": "119322701",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "119322701",
+                "scene_pre": "search",
+                "current_price": "1340",
+                "x_sku_ids": "1038736696",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "119322701"
+            },
+            "productUrl": "//www.daraz.com.bd/products/wifi-ip-camera-v380-ip-camera-360-degree-cctv-camera-wireless-mini-cc-camera-ip-webcam-wireless-cctv-camera-360-degree-ip-camera-i119322701-s1038736696.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/0c4575454ee07664d0f0486996286df9.jpg",
+            "originalPrice": "3000.00",
+            "originalPriceShow": "৳ 3,000",
+            "price": "1340",
+            "promotionId": "null",
+            "priceShow": "৳ 1,340",
+            "discount": "-55%",
+            "ratingScore": "4.55442",
+            "review": "294",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "119322701_BD-1038736696",
+            "sku": "119322701_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5681",
+            "mainSellerId": "",
+            "sellerName": "Camera Hall",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/0c4575454ee07664d0f0486996286df9.jpg",
+                    "productUrl": "/products/wifi-ip-camera-v380-ip-camera-360-degree-cctv-camera-wireless-mini-cc-camera-ip-webcam-wireless-cctv-camera-360-degree-ip-camera-i119322701-s1038736696.html",
+                    "sku": "119322701_BD",
+                    "skuId": "1038736696"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:119322701;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:119322701_BD;price:1340;client:desktop;supplier_id:5681;asc_category_id:10002903;item_id:119322701;sku_id:1038736696;shop_id:5693",
+            "addToCartSkus": [
+                {
+                    "sku": "119322701_BD-1038736696",
+                    "skuId": "1038736696",
+                    "count": 0
+                }
+            ],
+            "itemId": "119322701",
+            "skuId": "1038736696",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dahua Imou Ranger 2 WiFi IP Camera CCTV Camera Wireless WiFi CC Camera Imou",
+            "nid": "151188873",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "151188873",
+                "scene_pre": "search",
+                "current_price": "2750",
+                "x_sku_ids": "1078224808",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "151188873"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dahua-imou-ranger-2-wifi-ip-cctv-wifi-cc-imou-i151188873-s1078224808.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/088283de13fb2b14c06723b7177f2e06.jpg",
+            "originalPrice": "3499.00",
+            "originalPriceShow": "৳ 3,499",
+            "price": "2750",
+            "promotionId": "null",
+            "priceShow": "৳ 2,750",
+            "discount": "-21%",
+            "ratingScore": "4.7897",
+            "review": "233",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "151188873_BD-1078224808",
+            "sku": "151188873_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "29199",
+            "brandName": "Dahua",
+            "sellerId": "1009964",
+            "mainSellerId": "",
+            "sellerName": "Security Bazar BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/088283de13fb2b14c06723b7177f2e06.jpg",
+                    "productUrl": "/products/dahua-imou-ranger-2-wifi-ip-cctv-wifi-cc-imou-i151188873-s1078224808.html",
+                    "sku": "151188873_BD",
+                    "skuId": "1078224808"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:151188873;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:151188873_BD;price:2750;client:desktop;supplier_id:1009964;asc_category_id:10002903;item_id:151188873;sku_id:1078224808;shop_id:16068",
+            "addToCartSkus": [
+                {
+                    "sku": "151188873_BD-1078224808",
+                    "skuId": "1078224808",
+                    "count": 0
+                }
+            ],
+            "itemId": "151188873",
+            "skuId": "1078224808",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "V380 Wifi Ip Camera 360 Degree Cctv Camera, Wireless Mini Cc Camera",
+            "nid": "175864640",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "175864640",
+                "scene_pre": "search",
+                "current_price": "1239",
+                "x_sku_ids": "1114702638",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "175864640"
+            },
+            "productUrl": "//www.daraz.com.bd/products/v380-wifi-ip-360-cctv-cc-ip-i175864640-s1114702638.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c5c3940ad297ed98bd43b83ca561ec11.jpg",
+            "originalPrice": "2200.00",
+            "originalPriceShow": "৳ 2,200",
+            "price": "1239",
+            "promotionId": "null",
+            "priceShow": "৳ 1,239",
+            "discount": "-44%",
+            "ratingScore": "4.72826",
+            "review": "92",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "175864640_BD-1114702638",
+            "sku": "175864640_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1034707",
+            "mainSellerId": "",
+            "sellerName": "CREATIVE POWER ENGINEERING",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c5c3940ad297ed98bd43b83ca561ec11.jpg",
+                    "productUrl": "/products/v380-wifi-ip-360-cctv-cc-ip-i175864640-s1114702638.html",
+                    "sku": "175864640_BD",
+                    "skuId": "1114702638"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:175864640;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:175864640_BD;price:1239;client:desktop;supplier_id:1034707;asc_category_id:10002903;item_id:175864640;sku_id:1114702638;shop_id:40642",
+            "addToCartSkus": [
+                {
+                    "sku": "175864640_BD-1114702638",
+                    "skuId": "1114702638",
+                    "count": 0
+                }
+            ],
+            "itemId": "175864640",
+            "skuId": "1114702638",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ezviz C6N 1080P 360 With Smart Ir,Wifi 2.4G Auto Motion Tracking Wifi Security Camera",
+            "nid": "145366389",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "145366389",
+                "scene_pre": "search",
+                "current_price": "2240",
+                "x_sku_ids": "1070692119",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "145366389"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ir-wifi-1080g-wifi-ezviz-c6n-360-p-24-i145366389-s1070692119.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/082e844e3be885d9aa4f98fc841e652c.jpg",
+            "originalPrice": "3150.00",
+            "originalPriceShow": "৳ 3,150",
+            "price": "2240",
+            "promotionId": "null",
+            "priceShow": "৳ 2,240",
+            "discount": "-29%",
+            "ratingScore": "4.69841",
+            "review": "63",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "145366389_BD-1070692119",
+            "sku": "145366389_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "35634",
+            "brandName": "Hik Vision",
+            "sellerId": "1010239",
+            "mainSellerId": "",
+            "sellerName": "System Solution Computer & Technology",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/082e844e3be885d9aa4f98fc841e652c.jpg",
+                    "productUrl": "/products/ir-wifi-1080g-wifi-ezviz-c6n-360-p-24-i145366389-s1070692119.html",
+                    "sku": "145366389_BD",
+                    "skuId": "1070692119"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:145366389;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:145366389_BD;price:2240;client:desktop;supplier_id:1010239;asc_category_id:10002903;item_id:145366389;sku_id:1070692119;shop_id:16416",
+            "addToCartSkus": [
+                {
+                    "sku": "145366389_BD-1070692119",
+                    "skuId": "1070692119",
+                    "count": 0
+                }
+            ],
+            "itemId": "145366389",
+            "skuId": "1070692119",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dahua Imou Ranger 2C 1080P IP Camera 360 Camera Human Detection Night Vision Baby Home Security Surveillance Wireless Wi-Fi Camera",
+            "nid": "190480931",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "190480931",
+                "scene_pre": "search",
+                "current_price": "2459",
+                "x_sku_ids": "1137798191",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "190480931"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dahua-imou-ranger-2c-1080p-ip-360-i190480931-s1137798191.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/45b2f5b524910d131013e21c857c2837.jpg",
+            "originalPrice": "2900.00",
+            "originalPriceShow": "৳ 2,900",
+            "price": "2459",
+            "promotionId": "null",
+            "priceShow": "৳ 2,459",
+            "discount": "-15%",
+            "ratingScore": "4.94118",
+            "review": "34",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "190480931_BD-1137798191",
+            "sku": "190480931_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "29199",
+            "brandName": "Dahua",
+            "sellerId": "5918",
+            "mainSellerId": "",
+            "sellerName": "System Zone (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/45b2f5b524910d131013e21c857c2837.jpg",
+                    "productUrl": "/products/dahua-imou-ranger-2c-1080p-ip-360-i190480931-s1137798191.html",
+                    "sku": "190480931_BD",
+                    "skuId": "1137798191"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:190480931;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:190480931_BD;price:2459;client:desktop;supplier_id:5918;asc_category_id:10002903;item_id:190480931;sku_id:1137798191;shop_id:6539",
+            "addToCartSkus": [
+                {
+                    "sku": "190480931_BD-1137798191",
+                    "skuId": "1137798191",
+                    "count": 0
+                }
+            ],
+            "itemId": "190480931",
+            "skuId": "1137798191",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WiFi IP Camera V380 IP Camera Wireless CCTV Camera 360 Degree Camera",
+            "nid": "101124216",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101124216",
+                "scene_pre": "search",
+                "current_price": "1182.00",
+                "x_sku_ids": "1015096287",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "101124216"
+            },
+            "productUrl": "//www.daraz.com.bd/products/wifi-ip-v380-ip-cctv-360-i101124216-s1015096287.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/ec7cf6f4f3e38e29309ee95dd3df1b40.jpg",
+            "originalPrice": "4000.00",
+            "originalPriceShow": "৳ 4,000",
+            "price": "1182.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,182",
+            "discount": "-70%",
+            "ratingScore": "4.38272",
+            "review": "81",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101124216_BD-1015096287",
+            "sku": "101124216_BD",
+            "skus": [],
+            "description": [
+                "Can watch the IP Camera from Android and iOS Smartphones",
+                "Online View- You can watch, hear and rotate the IP Camera from anywhere in the world.",
+                "360 Degree Robotic Rotation",
+                "Supports Memory Card Upto64 GB",
+                "Continuous Recording ( auto deletes the oldest recording form the memory card )",
+                "2.4 GHz WiFi Connectivity And WiFi Hotspot",
+                "Two Way Audio ( You can talk and listen using the Ip Camera)",
+                "Night Vision ( you can watch even in full darkness)",
+                "Motion Detection Recording",
+                "Motion Detection Alarm"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4401",
+            "mainSellerId": "",
+            "sellerName": "Gadgets Sense",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/ec7cf6f4f3e38e29309ee95dd3df1b40.jpg",
+                    "productUrl": "/products/wifi-ip-v380-ip-cctv-360-i101124216-s1015096287.html",
+                    "sku": "101124216_BD",
+                    "skuId": "1015096287"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:101124216;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:101124216_BD;price:1182.00;client:desktop;supplier_id:4401;asc_category_id:10002903;item_id:101124216;sku_id:1015096287;shop_id:4478",
+            "addToCartSkus": [
+                {
+                    "sku": "101124216_BD-1015096287",
+                    "skuId": "1015096287",
+                    "count": 0
+                }
+            ],
+            "itemId": "101124216",
+            "skuId": "1015096287",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "IP Camera V380 HD WiFi IP Camera Robotic 360 Degree Rotation Wireless CCTV Camera Mini CC Camera 360 Camera IP Webcam Security Camera 360 Degree IP Camera HD IP Camera For Xiaomi IP Camera Wi Fi Wifi IP Camera Wireless CCTV Camera Price In Bangladesh BD",
+            "nid": "122592525",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "122592525",
+                "scene_pre": "search",
+                "current_price": "1190.00",
+                "x_sku_ids": "1042574186",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "122592525"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ip-camera-v380-hd-wifi-ip-camera-robotic-360-degree-rotation-wireless-cctv-camera-mini-cc-camera-360-camera-ip-webcam-security-camera-360-degree-ip-camera-hd-ip-camera-ip-camera-wi-fi-wifi-ip-camera-wireless-cctv-camera-price-in-bangladesh-bd-i122592525-s1042574186.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/52d6adb2fa354f9ea1fddda50ecf2f17.jpg",
+            "price": "1190.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,190",
+            "ratingScore": "4.55499",
+            "review": "391",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "122592525_BD-1042574186",
+            "sku": "122592525_BD",
+            "skus": [],
+            "description": [
+                "Product Category: Security Cameras",
+                "Product Type: 360 Degree Wifi IP Camera",
+                "Brand: Anspo",
+                "Model: V380 IP Camera",
+                "Warranty: 7 Days Replacement Warranty & 1 Year Service Warranty",
+                "Camera Lens: 2 Megapixel",
+                "Camera Resolution: 720P HD Resolution",
+                "Online Live View: If you connect the ip camera to the internet, then you can watch, hear and rotatethe ip camera from anywhere in the world.",
+                "Robotic 360 Degree Rotation: The ip camera can be rotated 360 degrees from the software. No need to manually rotate the camera.",
+                "Two Way Audio: You can talk and listen using the ip camera. IP Cameras have both mirophone and speaker. IP Cameras record both video and audio.",
+                "Storage Capacity: Max 64GB. This ip camera supports micro sd memory card upto 64gb . A 64gb memory card can store 20-25 days video footage. The ip camera will record continuously, even if the memory card becomes full, the ip camera will automatically delete the oldest recordings and keep on recording.",
+                "Night vision: This ip camera has infrared night vision and so you can see everything even in complete darkness.",
+                "Supported Devices:. You can watch the ip camera anytime from you pc, tab, mobile or android tv.",
+                "Product Tags: v380 ip camera, v 380 ip camera, wireless ip camera, wifi ip camera, wi fi ip camera, wifi cctv camera, mini cctv camera, mini cc camera, wireless cctv camera, security camera, 360 camera, 360 degree camera, robotic 360 degree ip camera, wi fi ip camera, wifi ip camera, hd ip camera, hd camera, ip webcam, v380 ip camera price in bangladesh, v380 ip camera price in bd, cctv camera price in bangladesh, cctv camera price in bd, wifi ip camera price in bangladesh, wireless cctv camera price in bangladesh, 360 degree ip camera price in bangladesh, for xioami ip camera, for xiaomi xiaofang ip camera, for xiaomi mijia ip camera, for xiaomi ip camera, for mi ip camera, home secuirty, office security, nvr, dvr, ahd , ahd cctv camera, hd cctv camera, cctv installation, cctv maintainence, office security, alarm, burglar, theft, thief, criminal, crime, video footage, video survelliance, security survelliance, seurity systems, access control, powerbank, power bank,earphone, ear phone, fingerprint time attendance, intercom, v380 app, v380 ip camera setup, watching kids, working lady, job, tution, teacher, coaching, school, lecture, seminar, professor, sir, teacher, student, college, school, university, architect, lawyer, business man, businessmen, businessman, engineer, it, it institute, video monitoring, security,"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1012495",
+            "mainSellerId": "",
+            "sellerName": "Crazy Vouchers",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/52d6adb2fa354f9ea1fddda50ecf2f17.jpg",
+                    "productUrl": "/products/ip-camera-v380-hd-wifi-ip-camera-robotic-360-degree-rotation-wireless-cctv-camera-mini-cc-camera-360-camera-ip-webcam-security-camera-360-degree-ip-camera-hd-ip-camera-ip-camera-wi-fi-wifi-ip-camera-wireless-cctv-camera-price-in-bangladesh-bd-i122592525-s1042574186.html",
+                    "sku": "122592525_BD",
+                    "skuId": "1042574186"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:122592525;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:122592525_BD;price:1190.00;client:desktop;supplier_id:1012495;asc_category_id:10002903;item_id:122592525;sku_id:1042574186;shop_id:18867",
+            "addToCartSkus": [
+                {
+                    "sku": "122592525_BD-1042574186",
+                    "skuId": "1042574186",
+                    "count": 0
+                }
+            ],
+            "itemId": "122592525",
+            "skuId": "1042574186",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WIFI IP Camera Q6 V380 IP Camera 360 Degree CCTV Camera Wireless Mini CC Camera Wireless IP Camera with Night Vision",
+            "nid": "171068732",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171068732",
+                "scene_pre": "search",
+                "current_price": "1230.00",
+                "x_sku_ids": "1106860702",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "171068732"
+            },
+            "productUrl": "//www.daraz.com.bd/products/wifi-ip-q6-v380-ip-360-cctv-cc-ip-i171068732-s1106860702.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d03b2881282f47f8386bf2d8fbb17cba.jpg",
+            "originalPrice": "1800.00",
+            "originalPriceShow": "৳ 1,800",
+            "price": "1230.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,230",
+            "discount": "-32%",
+            "ratingScore": "4.67407",
+            "review": "135",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171068732_BD-1106860702",
+            "sku": "171068732_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508241075",
+            "mainSellerId": "",
+            "sellerName": "TECH MAX BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d03b2881282f47f8386bf2d8fbb17cba.jpg",
+                    "productUrl": "/products/wifi-ip-q6-v380-ip-360-cctv-cc-ip-i171068732-s1106860702.html",
+                    "sku": "171068732_BD",
+                    "skuId": "1106860702"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:171068732;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:171068732_BD;price:1230.00;client:desktop;supplier_id:700508241075;asc_category_id:10002903;item_id:171068732;sku_id:1106860702;shop_id:137064",
+            "addToCartSkus": [
+                {
+                    "sku": "171068732_BD-1106860702",
+                    "skuId": "1106860702",
+                    "count": 0
+                }
+            ],
+            "itemId": "171068732",
+            "skuId": "1106860702",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "A9 1080P HD IP Camera Wireless Recorder Wifi Security Remote Control Surveillance Night Vision Camera",
+            "nid": "226504927",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226504927",
+                "scene_pre": "search",
+                "current_price": "690",
+                "x_sku_ids": "1171014156",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "226504927"
+            },
+            "productUrl": "//www.daraz.com.bd/products/a9-1080p-hd-ip-wifi-i226504927-s1171014156.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/afa3bb825dfcc8a5faa9dd0ced672e5c.jpg",
+            "originalPrice": "1300.00",
+            "originalPriceShow": "৳ 1,300",
+            "price": "690",
+            "promotionId": "null",
+            "priceShow": "৳ 690",
+            "discount": "-47%",
+            "ratingScore": "4.4",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226504927_BD-1171014156",
+            "sku": "226504927_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508895099",
+            "mainSellerId": "",
+            "sellerName": "BigBest",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/afa3bb825dfcc8a5faa9dd0ced672e5c.jpg",
+                    "productUrl": "/products/a9-1080p-hd-ip-wifi-i226504927-s1171014156.html",
+                    "sku": "226504927_BD",
+                    "skuId": "1171014156"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:226504927;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:226504927_BD;price:690;client:desktop;supplier_id:700508895099;asc_category_id:10002903;item_id:226504927;sku_id:1171014156;shop_id:200866",
+            "addToCartSkus": [
+                {
+                    "sku": "226504927_BD-1171014156",
+                    "skuId": "1171014156",
+                    "count": 0
+                }
+            ],
+            "itemId": "226504927",
+            "skuId": "1171014156",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "V380 1080P WIFI IP Camera Q5Y 2.0MP P2P CCTV Baby Monitor Three Antennas Security Wi-Fi Indoor Two-way Voice Camera Night Vision - Supports 64GB SD Card",
+            "nid": "171068792",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171068792",
+                "scene_pre": "search",
+                "current_price": "1599.00",
+                "x_sku_ids": "1106872397",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "171068792"
+            },
+            "productUrl": "//www.daraz.com.bd/products/v380-1080p-wifi-ip-camera-q5y-20mp-p2p-cctv-baby-monitor-three-antennas-security-wi-fi-indoor-two-way-voice-camera-night-vision-supports-64gb-sd-card-i171068792-s1106872397.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0fb91b53668b2e376c84f44b900fad20.jpg",
+            "originalPrice": "2500.00",
+            "originalPriceShow": "৳ 2,500",
+            "price": "1599.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,599",
+            "discount": "-36%",
+            "ratingScore": "4.5",
+            "review": "70",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171068792_BD-1106872397",
+            "sku": "171068792_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508241075",
+            "mainSellerId": "",
+            "sellerName": "TECH MAX BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0fb91b53668b2e376c84f44b900fad20.jpg",
+                    "productUrl": "/products/v380-1080p-wifi-ip-camera-q5y-20mp-p2p-cctv-baby-monitor-three-antennas-security-wi-fi-indoor-two-way-voice-camera-night-vision-supports-64gb-sd-card-i171068792-s1106872397.html",
+                    "sku": "171068792_BD",
+                    "skuId": "1106872397"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:171068792;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:171068792_BD;price:1599.00;client:desktop;supplier_id:700508241075;asc_category_id:10002903;item_id:171068792;sku_id:1106872397;shop_id:137064",
+            "addToCartSkus": [
+                {
+                    "sku": "171068792_BD-1106872397",
+                    "skuId": "1106872397",
+                    "count": 0
+                }
+            ],
+            "itemId": "171068792",
+            "skuId": "1106872397",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WiFi IP Camera V380 IP Camera 360 Degree CCTV Camera Wireless Mini CC Camera",
+            "nid": "165120205",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "165120205",
+                "scene_pre": "search",
+                "current_price": "1188",
+                "x_sku_ids": "1098224726",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "165120205"
+            },
+            "productUrl": "//www.daraz.com.bd/products/wifi-ip-v380-ip-360-cctv-cc-i165120205-s1098224726.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4d7f8c774c58bead9e7d26102b51dfad.jpg",
+            "originalPrice": "2550.00",
+            "originalPriceShow": "৳ 2,550",
+            "price": "1188",
+            "promotionId": "null",
+            "priceShow": "৳ 1,188",
+            "discount": "-53%",
+            "ratingScore": "4.85294",
+            "review": "34",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "165120205_BD-1098224726",
+            "sku": "165120205_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507818043",
+            "mainSellerId": "",
+            "sellerName": "CCTV Camera Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4d7f8c774c58bead9e7d26102b51dfad.jpg",
+                    "productUrl": "/products/wifi-ip-v380-ip-360-cctv-cc-i165120205-s1098224726.html",
+                    "sku": "165120205_BD",
+                    "skuId": "1098224726"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:165120205;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:165120205_BD;price:1188;client:desktop;supplier_id:700507818043;asc_category_id:10002903;item_id:165120205;sku_id:1098224726;shop_id:113172",
+            "addToCartSkus": [
+                {
+                    "sku": "165120205_BD-1098224726",
+                    "skuId": "1098224726",
+                    "count": 0
+                }
+            ],
+            "itemId": "165120205",
+            "skuId": "1098224726",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Adapter 12V 2A IP/HD camera Adapter CCTV camera adapter for cctv-mall camera",
+            "nid": "113430001",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "113430001",
+                "scene_pre": "search",
+                "current_price": "119.00",
+                "x_sku_ids": "1030610942",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "113430001"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cctv-mall-12v-2a-iphd-cctv-i113430001-s1030610942.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/eef8e9923ce507b2ce7a2fd3c19b2142.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "119.00",
+            "promotionId": "null",
+            "priceShow": "৳ 119",
+            "discount": "-41%",
+            "ratingScore": "4.51515",
+            "review": "33",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "113430001_BD-1030610942",
+            "sku": "113430001_BD",
+            "skus": [],
+            "description": [
+                "Recommend Adapter 12V 2A IP camera Adapter CCTV camera adapter for cctv-mall camera Package",
+                "Content: 1x 12V2A Power Supply Plug US",
+                "Model:CS-1202000",
+                "Output: DC12V2A s FCC, UL certificate, WEEE, ROhs Input Voltage : AC110-240V 50-60Hz. Wide range Size: 5.5mm/2.1mm. DC line length: 1.5meter. Certficate: FCC, UL (UL number:E257074), cUL, Rohs, WEEE. Efficiency Level: V. Application 1 CCTV SECURITY SYSTEM: CAMERA, DVR, NVR, IPC 2, LED STRIPS 3, WIRELESS ROUTER, ADSL CATS, HUB SWITCHS 4, Audio/Video power supply 5, other various application."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1020415",
+            "mainSellerId": "",
+            "sellerName": "Planetx",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/eef8e9923ce507b2ce7a2fd3c19b2142.jpg",
+                    "productUrl": "/products/cctv-mall-12v-2a-iphd-cctv-i113430001-s1030610942.html",
+                    "sku": "113430001_BD",
+                    "skuId": "1030610942"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002904
+            ],
+            "clickTrace": "query:;nid:113430001;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:113430001_BD;price:119.00;client:desktop;supplier_id:1020415;asc_category_id:10002904;item_id:113430001;sku_id:1030610942;shop_id:26646",
+            "addToCartSkus": [
+                {
+                    "sku": "113430001_BD-1030610942",
+                    "skuId": "1030610942",
+                    "count": 0
+                }
+            ],
+            "itemId": "113430001",
+            "skuId": "1030610942",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "V380 IP Camera WiFI IP Camera 360 Degree IP Camera Mini CC Camera Wireless CCTV Camera IP Webcam robotic Ip Camera 2020 IP Camera Online CCTV Camera wifi wi-fi IP Camera security camera 360 Degree Camera IP Camera BD",
+            "nid": "124905670",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "124905670",
+                "scene_pre": "search",
+                "current_price": "1190.00",
+                "x_sku_ids": "1045121580",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "124905670"
+            },
+            "productUrl": "//www.daraz.com.bd/products/v380-ip-wifi-ip-360-ip-cc-cctv-ip-ip-2020-ip-cctv-wifi-wi-fi-ip-360-ip-bd-i124905670-s1045121580.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ac8ceb40df63478d63ffbb6b3d8bc116.jpg",
+            "price": "1190.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,190",
+            "ratingScore": "4.65152",
+            "review": "198",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "124905670_BD-1045121580",
+            "sku": "124905670_BD",
+            "skus": [],
+            "description": [
+                "Warranty: 1 Year Service Warranty",
+                "Brand: Anspo",
+                "Model: V380IP Camera",
+                "Camera Type: Robotic 360 Degree Camera ( you can rotate the camera from your mobile/pc)",
+                "Camera Lens: 2 Megapixel",
+                "Recording Resolution: 720P",
+                "Online View ( you can watch the IP Camera from anywhere)",
+                "Two Way Audio ( you can talk and listen using this IP Camera)",
+                "Night Vision",
+                "2.4 GHz WiFi Connectivity With WiFi Hotspot option.",
+                "Supports Micro SD Memory Card",
+                "Continuous Recording- The camera auto deletes the oldest recordings when the memory card is full.",
+                "Supports power backup from power bank.",
+                "Product tags: v380 ip camera, v 380 ip camera, wireless ip camera, wifi ip camera, wi fi ip camera, wifi cctv camera, mini cctv camera, mini cc camera, wireless cctv camera, security camera, 360 camera, 360 degree camera, robotic 360 degree ip camera, wi fi ip camera, wifi ip camera, hd ip camera, hd camera, ip webcam, v380 ip camera price in bangladesh, v380 ip camera price in bd, cctv camera price in bangladesh, cctv camera price in bd, wifi ip camera price in bangladesh, wireless cctv camera price in bangladesh, 360 degree ip camera price in bangladesh, home secuirty, office security, nvr, dvr, ahd , a ahd cctv camera, hd cctv camera, cctv installation, cctv maintainence, office security, alarm, burglar, theft, thief, criminal, crime, video footage, video survelliance, security survelliance, seurity systems, access control, powerbank, power bank,earphone, ear phone, fingerprint time attendance, intercom, v380 app, v380 ip camera setup, watching kids, working lady, job, tution, teacher, coaching, school, lecture, seminar, professor, sir, teacher, student, college, school, university, architect, lawyer, business man, businessmen, businessman, engineer, it, it institute, video monitoring, security,"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1037527",
+            "mainSellerId": "",
+            "sellerName": "Best Trendz BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ac8ceb40df63478d63ffbb6b3d8bc116.jpg",
+                    "productUrl": "/products/v380-ip-wifi-ip-360-ip-cc-cctv-ip-ip-2020-ip-cctv-wifi-wi-fi-ip-360-ip-bd-i124905670-s1045121580.html",
+                    "sku": "124905670_BD",
+                    "skuId": "1045121580"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:124905670;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:124905670_BD;price:1190.00;client:desktop;supplier_id:1037527;asc_category_id:10002903;item_id:124905670;sku_id:1045121580;shop_id:43372",
+            "addToCartSkus": [
+                {
+                    "sku": "124905670_BD-1045121580",
+                    "skuId": "1045121580",
+                    "count": 0
+                }
+            ],
+            "itemId": "124905670",
+            "skuId": "1045121580",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "V380 1080p 2MP K6 Waterproof Colour Night Vision Outdoor Full HD Wifi IP Camera CCTV Camera",
+            "nid": "186371712",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "186371712",
+                "scene_pre": "search",
+                "current_price": "2225",
+                "x_sku_ids": "1132863270",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "186371712"
+            },
+            "productUrl": "//www.daraz.com.bd/products/v380-1080p-2mp-k6-colour-hd-wifi-ip-i186371712-s1132863270.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/dd0cfc0459070dd71d752520e8e13fdb.jpg",
+            "originalPrice": "3500.00",
+            "originalPriceShow": "৳ 3,500",
+            "price": "2225",
+            "promotionId": "null",
+            "priceShow": "৳ 2,225",
+            "discount": "-36%",
+            "ratingScore": "5",
+            "review": "22",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "186371712_BD-1132863270",
+            "sku": "186371712_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1022667",
+            "mainSellerId": "",
+            "sellerName": "TECH SECURITY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/dd0cfc0459070dd71d752520e8e13fdb.jpg",
+                    "productUrl": "/products/v380-1080p-2mp-k6-colour-hd-wifi-ip-i186371712-s1132863270.html",
+                    "sku": "186371712_BD",
+                    "skuId": "1132863270"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:186371712;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:186371712_BD;price:2225;client:desktop;supplier_id:1022667;asc_category_id:10002903;item_id:186371712;sku_id:1132863270;shop_id:28879",
+            "addToCartSkus": [
+                {
+                    "sku": "186371712_BD-1132863270",
+                    "skuId": "1132863270",
+                    "count": 0
+                }
+            ],
+            "itemId": "186371712",
+            "skuId": "1132863270",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "EZVIZ C6N 1080p Indoor Pan/Tilt WiFi Security Camera, 360° Coverage, Auto Motion Tracking, Two-Way Audio, Clear 30ft Night Vision, Supports MicroSD Card up to 256GB",
+            "nid": "172772556",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "172772556",
+                "scene_pre": "search",
+                "current_price": "2230.00",
+                "x_sku_ids": "1109226417",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "172772556"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ezviz-c6n-1080p-indoor-pantilt-wifi-security-camera-360-coverage-auto-motion-tracking-two-way-audio-clear-30ft-night-vision-supports-microsd-card-up-to-256gb-i172772556-s1109226417.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2adc04be61e8999a2c3351dde7d86868.jpg",
+            "originalPrice": "3200.00",
+            "originalPriceShow": "৳ 3,200",
+            "price": "2230.00",
+            "promotionId": "null",
+            "priceShow": "৳ 2,230",
+            "discount": "-30%",
+            "ratingScore": "4.81102",
+            "review": "127",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "172772556_BD-1109226417",
+            "sku": "172772556_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "65485",
+            "brandName": "Ezviz",
+            "sellerId": "5918",
+            "mainSellerId": "",
+            "sellerName": "System Zone (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2adc04be61e8999a2c3351dde7d86868.jpg",
+                    "productUrl": "/products/ezviz-c6n-1080p-indoor-pantilt-wifi-security-camera-360-coverage-auto-motion-tracking-two-way-audio-clear-30ft-night-vision-supports-microsd-card-up-to-256gb-i172772556-s1109226417.html",
+                    "sku": "172772556_BD",
+                    "skuId": "1109226417"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:172772556;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:172772556_BD;price:2230.00;client:desktop;supplier_id:5918;asc_category_id:10002903;item_id:172772556;sku_id:1109226417;shop_id:6539",
+            "addToCartSkus": [
+                {
+                    "sku": "172772556_BD-1109226417",
+                    "skuId": "1109226417",
+                    "count": 0
+                }
+            ],
+            "itemId": "172772556",
+            "skuId": "1109226417",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WIFI IP Panoramic Camera V380 1080P 360 Degree Wi-Fi IP Camera Wireless CCTV Camera- With Night Vision",
+            "nid": "126381840",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "126381840",
+                "scene_pre": "search",
+                "current_price": "1448",
+                "x_sku_ids": "1046477004",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "126381840"
+            },
+            "productUrl": "//www.daraz.com.bd/products/wifi-ip-panoramic-camera-v380-1080p-360-degree-wi-fi-ip-camera-wireless-cctv-camera-with-night-vision-i126381840-s1046477004.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6bf41a68b1bd2457d2829f5bb6d5831f.jpg",
+            "originalPrice": "2200.00",
+            "originalPriceShow": "৳ 2,200",
+            "price": "1448",
+            "promotionId": "null",
+            "priceShow": "৳ 1,448",
+            "discount": "-34%",
+            "ratingScore": "4.83333",
+            "review": "6",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "126381840_BD-1046477004",
+            "sku": "126381840_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1022667",
+            "mainSellerId": "",
+            "sellerName": "TECH SECURITY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6bf41a68b1bd2457d2829f5bb6d5831f.jpg",
+                    "productUrl": "/products/wifi-ip-panoramic-camera-v380-1080p-360-degree-wi-fi-ip-camera-wireless-cctv-camera-with-night-vision-i126381840-s1046477004.html",
+                    "sku": "126381840_BD",
+                    "skuId": "1046477004"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/67ef0d30032ee84eba3de153836bb9b7.jpg",
+                    "productUrl": "/products/wifi-ip-panoramic-camera-v380-1080p-360-degree-wi-fi-ip-camera-wireless-cctv-camera-with-night-vision-i126381840-s1046477005.html",
+                    "sku": "126381840_BD",
+                    "skuId": "1046477005"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:126381840;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:126381840_BD;price:1448;client:desktop;supplier_id:1022667;asc_category_id:10002903;item_id:126381840;sku_id:1046477004;shop_id:28879",
+            "addToCartSkus": [
+                {
+                    "sku": "126381840_BD-1046477004",
+                    "skuId": "1046477004",
+                    "count": 0
+                }
+            ],
+            "itemId": "126381840",
+            "skuId": "1046477004",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "EZVIZ C6N 1080p Indoor Pan/Tilt WiFi Security Camera, 360° Coverage, Auto Motion Tracking, Two-Way Audio, Clear 30ft Night Vision, Supports MicroSD Card up to 256GB",
+            "nid": "167022618",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "167022618",
+                "scene_pre": "search",
+                "current_price": "2230.00",
+                "x_sku_ids": "1100658443",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "167022618"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ezviz-c6n-1080p-wifi-360-30ft-sd-256gb-i167022618-s1100658443.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2adc04be61e8999a2c3351dde7d86868.jpg",
+            "originalPrice": "3900.00",
+            "originalPriceShow": "৳ 3,900",
+            "price": "2230.00",
+            "promotionId": "null",
+            "priceShow": "৳ 2,230",
+            "discount": "-43%",
+            "ratingScore": "4.5",
+            "review": "34",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "167022618_BD-1100658443",
+            "sku": "167022618_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "65485",
+            "brandName": "Ezviz",
+            "sellerId": "5918",
+            "mainSellerId": "",
+            "sellerName": "System Zone (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2adc04be61e8999a2c3351dde7d86868.jpg",
+                    "productUrl": "/products/ezviz-c6n-1080p-wifi-360-30ft-sd-256gb-i167022618-s1100658443.html",
+                    "sku": "167022618_BD",
+                    "skuId": "1100658443"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:167022618;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:167022618_BD;price:2230.00;client:desktop;supplier_id:5918;asc_category_id:10002903;item_id:167022618;sku_id:1100658443;shop_id:6539",
+            "addToCartSkus": [
+                {
+                    "sku": "167022618_BD-1100658443",
+                    "skuId": "1100658443",
+                    "count": 0
+                }
+            ],
+            "itemId": "167022618",
+            "skuId": "1100658443",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "V380 Q12 Full HD Robot IP Camera Night Vision Wireless WiFi Camera with 2Way Audio 180 Degree CCTV Camera 2MP HD 1080P SD Card Support",
+            "nid": "190187814",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "190187814",
+                "scene_pre": "search",
+                "current_price": "1413",
+                "x_sku_ids": "1137618243",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "190187814"
+            },
+            "productUrl": "//www.daraz.com.bd/products/v380-q12-hd-ip-wifi-2way-180-cctv-2mp-hd-1080p-sd-i190187814-s1137618243.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c0aa4b8b97d5267f0b5f1d58842718e3.png",
+            "originalPrice": "2550.00",
+            "originalPriceShow": "৳ 2,550",
+            "price": "1413",
+            "promotionId": "null",
+            "priceShow": "৳ 1,413",
+            "discount": "-45%",
+            "ratingScore": "5",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "190187814_BD-1137618243",
+            "sku": "190187814_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "840",
+            "mainSellerId": "",
+            "sellerName": "President IT and Engen.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c0aa4b8b97d5267f0b5f1d58842718e3.png",
+                    "productUrl": "/products/v380-q12-hd-ip-wifi-2way-180-cctv-2mp-hd-1080p-sd-i190187814-s1137618243.html",
+                    "sku": "190187814_BD",
+                    "skuId": "1137618243"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:190187814;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:190187814_BD;price:1413;client:desktop;supplier_id:840;asc_category_id:10002903;item_id:190187814;sku_id:1137618243;shop_id:485",
+            "addToCartSkus": [
+                {
+                    "sku": "190187814_BD-1137618243",
+                    "skuId": "1137618243",
+                    "count": 0
+                }
+            ],
+            "itemId": "190187814",
+            "skuId": "1137618243",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "V380 2MP HD 1080P Night Vision Wireless WiFi Ip Camera with 2 Way Audio and Upto 64 GB SD Card Support",
+            "nid": "184494071",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184494071",
+                "scene_pre": "search",
+                "current_price": "1562",
+                "x_sku_ids": "1129500343",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "184494071"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-64-gb-sd-v380-2mp-hd-1080p-wifi-ip-i184494071-s1129500343.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6c292eeb921c3be601ef56db4b7db1ff.jpg",
+            "originalPrice": "2550.00",
+            "originalPriceShow": "৳ 2,550",
+            "price": "1562",
+            "promotionId": "null",
+            "priceShow": "৳ 1,562",
+            "discount": "-39%",
+            "ratingScore": "5",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184494071_BD-1129500343",
+            "sku": "184494071_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507818043",
+            "mainSellerId": "",
+            "sellerName": "CCTV Camera Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6c292eeb921c3be601ef56db4b7db1ff.jpg",
+                    "productUrl": "/products/2-64-gb-sd-v380-2mp-hd-1080p-wifi-ip-i184494071-s1129500343.html",
+                    "sku": "184494071_BD",
+                    "skuId": "1129500343"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:184494071;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:184494071_BD;price:1562;client:desktop;supplier_id:700507818043;asc_category_id:10002903;item_id:184494071;sku_id:1129500343;shop_id:113172",
+            "addToCartSkus": [
+                {
+                    "sku": "184494071_BD-1129500343",
+                    "skuId": "1129500343",
+                    "count": 0
+                }
+            ],
+            "itemId": "184494071",
+            "skuId": "1129500343",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "EZVIZ C6N 1080p Indoor Pan/Tilt WiFi Security Camera, 360° Coverage, Auto Motion Tracking, Two-Way Audio, Clear 30ft Night Vision, Supports MicroSD Card up to 256GB",
+            "nid": "236728054",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "236728054",
+                "scene_pre": "search",
+                "current_price": "2230.00",
+                "x_sku_ids": "1180193294",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "236728054"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ezviz-c6n-1080p-wifi-360-30ft-sd-256gb-i236728054-s1180193294.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9104de7cf5e683ca17965428886c0239.jpg",
+            "price": "2230.00",
+            "promotionId": "null",
+            "priceShow": "৳ 2,230",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "236728054_BD-1180193294",
+            "sku": "236728054_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "65485",
+            "brandName": "Ezviz",
+            "sellerId": "1027746",
+            "mainSellerId": "",
+            "sellerName": "VIT Solution's",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9104de7cf5e683ca17965428886c0239.jpg",
+                    "productUrl": "/products/ezviz-c6n-1080p-wifi-360-30ft-sd-256gb-i236728054-s1180193294.html",
+                    "sku": "236728054_BD",
+                    "skuId": "1180193294"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:236728054;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:236728054_BD;price:2230.00;client:desktop;supplier_id:1027746;asc_category_id:10002903;item_id:236728054;sku_id:1180193294;shop_id:33851",
+            "addToCartSkus": [
+                {
+                    "sku": "236728054_BD-1180193294",
+                    "skuId": "1180193294",
+                    "count": 0
+                }
+            ],
+            "itemId": "236728054",
+            "skuId": "1180193294",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "A9 1080P HD IP Camera Wireless Recorder Wifi Security Remote Control Surveillance Night Vision Camera",
+            "nid": "226510520",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226510520",
+                "scene_pre": "search",
+                "current_price": "644",
+                "x_sku_ids": "1171003624",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "226510520"
+            },
+            "productUrl": "//www.daraz.com.bd/products/a9-1080p-hd-ip-wifi-i226510520-s1171003624.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4520644711924a8f1942a0bb8b6a618b.jpg",
+            "originalPrice": "1300.00",
+            "originalPriceShow": "৳ 1,300",
+            "price": "644",
+            "promotionId": "null",
+            "priceShow": "৳ 644",
+            "discount": "-50%",
+            "ratingScore": "4",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226510520_BD-1171003624",
+            "sku": "226510520_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507671285",
+            "mainSellerId": "",
+            "sellerName": "Gadget High",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4520644711924a8f1942a0bb8b6a618b.jpg",
+                    "productUrl": "/products/a9-1080p-hd-ip-wifi-i226510520-s1171003624.html",
+                    "sku": "226510520_BD",
+                    "skuId": "1171003624"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:226510520;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:226510520_BD;price:644;client:desktop;supplier_id:700507671285;asc_category_id:10002903;item_id:226510520;sku_id:1171003624;shop_id:105037",
+            "addToCartSkus": [
+                {
+                    "sku": "226510520_BD-1171003624",
+                    "skuId": "1171003624",
+                    "count": 0
+                }
+            ],
+            "itemId": "226510520",
+            "skuId": "1171003624",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "CCTV Mic Audio Professional Monitoring Security System",
+            "nid": "206209635",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "206209635",
+                "scene_pre": "search",
+                "current_price": "264",
+                "x_sku_ids": "1155113827",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "206209635"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cctv-i206209635-s1155113827.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c799e53f4b993df734107c1ac90313f7.jpg",
+            "originalPrice": "599.00",
+            "originalPriceShow": "৳ 599",
+            "price": "264",
+            "promotionId": "null",
+            "priceShow": "৳ 264",
+            "discount": "-56%",
+            "ratingScore": "5",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "206209635_BD-1155113827",
+            "sku": "206209635_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1042251",
+            "mainSellerId": "",
+            "sellerName": "DUBAI ElECTRONIC(CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c799e53f4b993df734107c1ac90313f7.jpg",
+                    "productUrl": "/products/cctv-i206209635-s1155113827.html",
+                    "sku": "206209635_BD",
+                    "skuId": "1155113827"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002904
+            ],
+            "clickTrace": "query:;nid:206209635;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:206209635_BD;price:264;client:desktop;supplier_id:1042251;asc_category_id:10002904;item_id:206209635;sku_id:1155113827;shop_id:47976",
+            "addToCartSkus": [
+                {
+                    "sku": "206209635_BD-1155113827",
+                    "skuId": "1155113827",
+                    "count": 0
+                }
+            ],
+            "itemId": "206209635",
+            "skuId": "1155113827",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "V380 2MP HD 1080P Night Vision Wireless WiFi Ip Camera with 2 Way Audio and Upto 64 GB SD Card Support",
+            "nid": "165112439",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "165112439",
+                "scene_pre": "search",
+                "current_price": "1536.48",
+                "x_sku_ids": "1098230427",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "165112439"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-64-gb-sd-v380-2mp-hd-1080p-wifi-ip-i165112439-s1098230427.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/87143967532bc60c6149210964f55a15.jpg",
+            "originalPrice": "2580.00",
+            "originalPriceShow": "৳ 2,580",
+            "price": "1536.48",
+            "promotionId": "null",
+            "priceShow": "৳ 1,536",
+            "discount": "-40%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "165112439_BD-1098230427",
+            "sku": "165112439_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507818043",
+            "mainSellerId": "",
+            "sellerName": "CCTV Camera Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/87143967532bc60c6149210964f55a15.jpg",
+                    "productUrl": "/products/2-64-gb-sd-v380-2mp-hd-1080p-wifi-ip-i165112439-s1098230427.html",
+                    "sku": "165112439_BD",
+                    "skuId": "1098230427"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:165112439;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:165112439_BD;price:1536.48;client:desktop;supplier_id:700507818043;asc_category_id:10002903;item_id:165112439;sku_id:1098230427;shop_id:113172",
+            "addToCartSkus": [
+                {
+                    "sku": "165112439_BD-1098230427",
+                    "skuId": "1098230427",
+                    "count": 0
+                }
+            ],
+            "itemId": "165112439",
+            "skuId": "1098230427",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "A9 Mini Camera Full1080P HD Small ip Camera IR Night Vision video surveillance camera Motion Detection outdoor wifi camera",
+            "nid": "226986444",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226986444",
+                "scene_pre": "search",
+                "current_price": "555",
+                "x_sku_ids": "1171288514",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "226986444"
+            },
+            "productUrl": "//www.daraz.com.bd/products/a9-full1080p-hd-ip-ir-wifi-i226986444-s1171288514.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c8c73f33fd1d0389fde1e171b1b898a8.jpg",
+            "originalPrice": "1559.00",
+            "originalPriceShow": "৳ 1,559",
+            "price": "555",
+            "promotionId": "null",
+            "priceShow": "৳ 555",
+            "discount": "-64%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226986444_BD-1171288514",
+            "sku": "226986444_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510065053",
+            "mainSellerId": "",
+            "sellerName": "Just Handicrafts & Gadget Collection",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c8c73f33fd1d0389fde1e171b1b898a8.jpg",
+                    "productUrl": "/products/a9-full1080p-hd-ip-ir-wifi-i226986444-s1171288514.html",
+                    "sku": "226986444_BD",
+                    "skuId": "1171288514"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002905
+            ],
+            "clickTrace": "query:;nid:226986444;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:226986444_BD;price:555;client:desktop;supplier_id:700510065053;asc_category_id:10002905;item_id:226986444;sku_id:1171288514;shop_id:225385",
+            "addToCartSkus": [
+                {
+                    "sku": "226986444_BD-1171288514",
+                    "skuId": "1171288514",
+                    "count": 0
+                }
+            ],
+            "itemId": "226986444",
+            "skuId": "1171288514",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "CCTV Camera Stand Plastic",
+            "nid": "183809965",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183809965",
+                "scene_pre": "search",
+                "current_price": "88",
+                "x_sku_ids": "1128387019",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "183809965"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cctv-i183809965-s1128387019.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/65e77d7110d8a73b7e92ef28905c99fe.jpg",
+            "originalPrice": "90.00",
+            "originalPriceShow": "৳ 90",
+            "price": "88",
+            "promotionId": "null",
+            "priceShow": "৳ 88",
+            "discount": "-2%",
+            "ratingScore": "5",
+            "review": "8",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183809965_BD-1128387019",
+            "sku": "183809965_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1026451",
+            "mainSellerId": "",
+            "sellerName": "Dulcet Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/65e77d7110d8a73b7e92ef28905c99fe.jpg",
+                    "productUrl": "/products/cctv-i183809965-s1128387019.html",
+                    "sku": "183809965_BD",
+                    "skuId": "1128387019"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002906
+            ],
+            "clickTrace": "query:;nid:183809965;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:183809965_BD;price:88;client:desktop;supplier_id:1026451;asc_category_id:10002906;item_id:183809965;sku_id:1128387019;shop_id:32596",
+            "addToCartSkus": [
+                {
+                    "sku": "183809965_BD-1128387019",
+                    "skuId": "1128387019",
+                    "count": 0
+                }
+            ],
+            "itemId": "183809965",
+            "skuId": "1128387019",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "V380 Pro WiFi Smart Net Camera, 1080P Wifi IP Camera Onvif 2.0MP P2P CCTV Baby Monitor Night Vision, Three Antennas Security Wifi Indoor Two-way Voice Camera",
+            "nid": "176138547",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "176138547",
+                "scene_pre": "search",
+                "current_price": "1599.00",
+                "x_sku_ids": "1115602294",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "176138547"
+            },
+            "productUrl": "//www.daraz.com.bd/products/v380-pro-wifi-1080p-wifi-ip-onvif-20mp-p2p-cctv-wifi-i176138547-s1115602294.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/d67deff3f1257064a7072b2db0e67d65.jpg",
+            "originalPrice": "2500.00",
+            "originalPriceShow": "৳ 2,500",
+            "price": "1599.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,599",
+            "discount": "-36%",
+            "ratingScore": "4.85714",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "176138547_BD-1115602294",
+            "sku": "176138547_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508241075",
+            "mainSellerId": "",
+            "sellerName": "TECH MAX BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/d67deff3f1257064a7072b2db0e67d65.jpg",
+                    "productUrl": "/products/v380-pro-wifi-1080p-wifi-ip-onvif-20mp-p2p-cctv-wifi-i176138547-s1115602294.html",
+                    "sku": "176138547_BD",
+                    "skuId": "1115602294"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:176138547;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:176138547_BD;price:1599.00;client:desktop;supplier_id:700508241075;asc_category_id:10002903;item_id:176138547;sku_id:1115602294;shop_id:137064",
+            "addToCartSkus": [
+                {
+                    "sku": "176138547_BD-1115602294",
+                    "skuId": "1115602294",
+                    "count": 0
+                }
+            ],
+            "itemId": "176138547",
+            "skuId": "1115602294",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WiFi IP Camera V380 IP Camera 360 Degree CCTV Camera Wireless Mini CC Camera Wireless IP Camera with Night Vision",
+            "nid": "186378309",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "186378309",
+                "scene_pre": "search",
+                "current_price": "1230.00",
+                "x_sku_ids": "1132859271",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "186378309"
+            },
+            "productUrl": "//www.daraz.com.bd/products/wifi-ip-v380-ip-360-cctv-cc-ip-i186378309-s1132859271.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d03b2881282f47f8386bf2d8fbb17cba.jpg",
+            "originalPrice": "1800.00",
+            "originalPriceShow": "৳ 1,800",
+            "price": "1230.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,230",
+            "discount": "-32%",
+            "ratingScore": "4.73684",
+            "review": "19",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "186378309_BD-1132859271",
+            "sku": "186378309_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1022667",
+            "mainSellerId": "",
+            "sellerName": "TECH SECURITY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d03b2881282f47f8386bf2d8fbb17cba.jpg",
+                    "productUrl": "/products/wifi-ip-v380-ip-360-cctv-cc-ip-i186378309-s1132859271.html",
+                    "sku": "186378309_BD",
+                    "skuId": "1132859271"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:186378309;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:186378309_BD;price:1230.00;client:desktop;supplier_id:1022667;asc_category_id:10002903;item_id:186378309;sku_id:1132859271;shop_id:28879",
+            "addToCartSkus": [
+                {
+                    "sku": "186378309_BD-1132859271",
+                    "skuId": "1132859271",
+                    "count": 0
+                }
+            ],
+            "itemId": "186378309",
+            "skuId": "1132859271",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WiFi Five Antena IP Camera V380 IP Camera 360 Degree CCTV Camera a Wireless Mini CC Camera IP Webcam Wireless CCTV Camera 360 Degree IP Camera BD  WIFI IP Camera Five Antena Doll Shape White",
+            "nid": "164478176",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "164478176",
+                "scene_pre": "search",
+                "current_price": "1540",
+                "x_sku_ids": "1097232920",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "164478176"
+            },
+            "productUrl": "//www.daraz.com.bd/products/wifi-ip-v380-ip-360-cctv-cc-ip-cctv-360-ip-bd-wifi-ip-i164478176-s1097232920.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ab3c3710592347913b5ae55c6cfac437.jpg",
+            "originalPrice": "3550.00",
+            "originalPriceShow": "৳ 3,550",
+            "price": "1540",
+            "promotionId": "null",
+            "priceShow": "৳ 1,540",
+            "discount": "-57%",
+            "ratingScore": "4.17391",
+            "review": "23",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "164478176_BD-1097232920",
+            "sku": "164478176_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507818075",
+            "mainSellerId": "",
+            "sellerName": "Champion Online Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ab3c3710592347913b5ae55c6cfac437.jpg",
+                    "productUrl": "/products/wifi-ip-v380-ip-360-cctv-cc-ip-cctv-360-ip-bd-wifi-ip-i164478176-s1097232920.html",
+                    "sku": "164478176_BD",
+                    "skuId": "1097232920"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:164478176;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:164478176_BD;price:1540;client:desktop;supplier_id:700507818075;asc_category_id:10002903;item_id:164478176;sku_id:1097232920;shop_id:113481",
+            "addToCartSkus": [
+                {
+                    "sku": "164478176_BD-1097232920",
+                    "skuId": "1097232920",
+                    "count": 0
+                }
+            ],
+            "itemId": "164478176",
+            "skuId": "1097232920",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "A9  Wifi Camera | Wifi Camera | Security Camera |  Camera||A9  Camera",
+            "nid": "226629584",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226629584",
+                "scene_pre": "search",
+                "current_price": "678.00",
+                "x_sku_ids": "1171081041",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "226629584"
+            },
+            "productUrl": "//www.daraz.com.bd/products/a9-wifi-a9-i226629584-s1171081041.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/02b45b147a0b0ea727f15fad4a105fb3.jpg",
+            "originalPrice": "1300.00",
+            "originalPriceShow": "৳ 1,300",
+            "price": "678.00",
+            "promotionId": "null",
+            "priceShow": "৳ 678",
+            "discount": "-48%",
+            "ratingScore": "3.28571",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226629584_BD-1171081041",
+            "sku": "226629584_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1025964",
+            "mainSellerId": "",
+            "sellerName": "Wallet Bazaar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/02b45b147a0b0ea727f15fad4a105fb3.jpg",
+                    "productUrl": "/products/a9-wifi-a9-i226629584-s1171081041.html",
+                    "sku": "226629584_BD",
+                    "skuId": "1171081041"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:226629584;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:226629584_BD;price:678.00;client:desktop;supplier_id:1025964;asc_category_id:10002903;item_id:226629584;sku_id:1171081041;shop_id:32121",
+            "addToCartSkus": [
+                {
+                    "sku": "226629584_BD-1171081041",
+                    "skuId": "1171081041",
+                    "count": 0
+                }
+            ],
+            "itemId": "226629584",
+            "skuId": "1171081041",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Wifi IP Camera V380 IP Camera 360 Degree CCTV Camera A Wireless Mini Cc Camera IP Webcam Wireless CCTV Camera 360 Degree IP Camera",
+            "nid": "154484329",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "154484329",
+                "scene_pre": "search",
+                "current_price": "1350.00",
+                "x_sku_ids": "1083604668",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "154484329"
+            },
+            "productUrl": "//www.daraz.com.bd/products/wifi-ip-v380-ip-360-cctv-cc-ip-cctv-360-ip-i154484329-s1083604668.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/4cc729c5a1b773045c5baa679b976998.jpg",
+            "originalPrice": "3200.00",
+            "originalPriceShow": "৳ 3,200",
+            "price": "1350.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,350",
+            "discount": "-58%",
+            "ratingScore": "4.61538",
+            "review": "13",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "154484329_BD-1083604668",
+            "sku": "154484329_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1014494",
+            "mainSellerId": "",
+            "sellerName": "Real Zones",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/4cc729c5a1b773045c5baa679b976998.jpg",
+                    "productUrl": "/products/wifi-ip-v380-ip-360-cctv-cc-ip-cctv-360-ip-i154484329-s1083604668.html",
+                    "sku": "154484329_BD",
+                    "skuId": "1083604668"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002904
+            ],
+            "clickTrace": "query:;nid:154484329;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:154484329_BD;price:1350.00;client:desktop;supplier_id:1014494;asc_category_id:10002904;item_id:154484329;sku_id:1083604668;shop_id:20909",
+            "addToCartSkus": [
+                {
+                    "sku": "154484329_BD-1083604668",
+                    "skuId": "1083604668",
+                    "count": 0
+                }
+            ],
+            "itemId": "154484329",
+            "skuId": "1083604668",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "V380 Pro 2Mp HD 1080P 3 Antennas Night Vision Wireless WIFI IP Camera with 2 Way Audio And Upto 64 Gb Sd Card Support-360 Degree Rotatable Ap Hotspot Connection Camera - White",
+            "nid": "126385799",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "126385799",
+                "scene_pre": "search",
+                "current_price": "1599.00",
+                "x_sku_ids": "1046476370",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "126385799"
+            },
+            "productUrl": "//www.daraz.com.bd/products/v380-pro-2mp-hd-1080p-3-antennas-night-vision-wireless-wifi-ip-camera-with-2-way-audio-and-upto-64-gb-sd-card-support-360-degree-rotatable-ap-hotspot-connection-camera-white-i126385799-s1046476370.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/eb62526f7ad1e84f170313b64635e452.jpg",
+            "originalPrice": "2500.00",
+            "originalPriceShow": "৳ 2,500",
+            "price": "1599.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,599",
+            "discount": "-36%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "126385799_BD-1046476370",
+            "sku": "126385799_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1022667",
+            "mainSellerId": "",
+            "sellerName": "TECH SECURITY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/eb62526f7ad1e84f170313b64635e452.jpg",
+                    "productUrl": "/products/v380-pro-2mp-hd-1080p-3-antennas-night-vision-wireless-wifi-ip-camera-with-2-way-audio-and-upto-64-gb-sd-card-support-360-degree-rotatable-ap-hotspot-connection-camera-white-i126385799-s1046476370.html",
+                    "sku": "126385799_BD",
+                    "skuId": "1046476370"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:126385799;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:126385799_BD;price:1599.00;client:desktop;supplier_id:1022667;asc_category_id:10002903;item_id:126385799;sku_id:1046476370;shop_id:28879",
+            "addToCartSkus": [
+                {
+                    "sku": "126385799_BD-1046476370",
+                    "skuId": "1046476370",
+                    "count": 0
+                }
+            ],
+            "itemId": "126385799",
+            "skuId": "1046476370",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "TP_Link Tapo C200 2MP Home Security Wi-Fi Dome IP Camera",
+            "nid": "230557147",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230557147",
+                "scene_pre": "search",
+                "current_price": "2660",
+                "x_sku_ids": "1173969235",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "230557147"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tp_link-tapo-c200-2mp-wi-fi-ip-i230557147-s1173969235.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f259e2770ad0c9aa30078e030c7825bf.jpg",
+            "originalPrice": "3050.00",
+            "originalPriceShow": "৳ 3,050",
+            "price": "2660",
+            "promotionId": "null",
+            "priceShow": "৳ 2,660",
+            "discount": "-13%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230557147_BD-1173969235",
+            "sku": "230557147_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508922041",
+            "mainSellerId": "",
+            "sellerName": "Bazar Achee Dot Com",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f259e2770ad0c9aa30078e030c7825bf.jpg",
+                    "productUrl": "/products/tp_link-tapo-c200-2mp-wi-fi-ip-i230557147-s1173969235.html",
+                    "sku": "230557147_BD",
+                    "skuId": "1173969235"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:230557147;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:230557147_BD;price:2660;client:desktop;supplier_id:700508922041;asc_category_id:10002903;item_id:230557147;sku_id:1173969235;shop_id:202014",
+            "addToCartSkus": [
+                {
+                    "sku": "230557147_BD-1173969235",
+                    "skuId": "1173969235",
+                    "count": 0
+                }
+            ],
+            "itemId": "230557147",
+            "skuId": "1173969235",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WIFI IP Camera Five Antena Doll Shape 2 mega pixel",
+            "nid": "135182232",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "135182232",
+                "scene_pre": "search",
+                "current_price": "1585",
+                "x_sku_ids": "1057118882",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "135182232"
+            },
+            "productUrl": "//www.daraz.com.bd/products/wifi-ip-2-i135182232-s1057118882.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d00cb55facfc940beeed6f0058297ccf.jpg",
+            "originalPrice": "2950.00",
+            "originalPriceShow": "৳ 2,950",
+            "price": "1585",
+            "promotionId": "null",
+            "priceShow": "৳ 1,585",
+            "discount": "-46%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "135182232_BD-1057118882",
+            "sku": "135182232_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1019861",
+            "mainSellerId": "",
+            "sellerName": "President IT & Engineering",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d00cb55facfc940beeed6f0058297ccf.jpg",
+                    "productUrl": "/products/wifi-ip-2-i135182232-s1057118882.html",
+                    "sku": "135182232_BD",
+                    "skuId": "1057118882"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:135182232;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:135182232_BD;price:1585;client:desktop;supplier_id:1019861;asc_category_id:10002903;item_id:135182232;sku_id:1057118882;shop_id:26096",
+            "addToCartSkus": [
+                {
+                    "sku": "135182232_BD-1057118882",
+                    "skuId": "1057118882",
+                    "count": 0
+                }
+            ],
+            "itemId": "135182232",
+            "skuId": "1057118882",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "A9 1080P HD IP Mini Camera Wireless Recorder Wifi Security Remote Control Surveillance Night Vision Camera",
+            "nid": "237793625",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237793625",
+                "scene_pre": "search",
+                "current_price": "575.00",
+                "x_sku_ids": "1181155073",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "237793625"
+            },
+            "productUrl": "//www.daraz.com.bd/products/a9-1080p-hd-ip-wifi-i237793625-s1181155073.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/02b45b147a0b0ea727f15fad4a105fb3.jpg",
+            "originalPrice": "1175.00",
+            "originalPriceShow": "৳ 1,175",
+            "price": "575.00",
+            "promotionId": "null",
+            "priceShow": "৳ 575",
+            "discount": "-51%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237793625_BD-1181155073",
+            "sku": "237793625_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700512066404",
+            "mainSellerId": "",
+            "sellerName": "More & More BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/02b45b147a0b0ea727f15fad4a105fb3.jpg",
+                    "productUrl": "/products/a9-1080p-hd-ip-wifi-i237793625-s1181155073.html",
+                    "sku": "237793625_BD",
+                    "skuId": "1181155073"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:237793625;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:237793625_BD;price:575.00;client:desktop;supplier_id:700512066404;asc_category_id:10002903;item_id:237793625;sku_id:1181155073;shop_id:239391",
+            "addToCartSkus": [
+                {
+                    "sku": "237793625_BD-1181155073",
+                    "skuId": "1181155073",
+                    "count": 0
+                }
+            ],
+            "itemId": "237793625",
+            "skuId": "1181155073",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "V380 Wifi IP P2P HD Night Vision Camera -White",
+            "nid": "106328351",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "106328351",
+                "scene_pre": "search",
+                "current_price": "1290.00",
+                "x_sku_ids": "1021308327",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "106328351"
+            },
+            "productUrl": "//www.daraz.com.bd/products/v380-wifi-ip-p2p-hd-night-vision-camera-white-i106328351-s1021308327.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/69175ade134ca9013ffe85ba6bd31d20.jpg",
+            "originalPrice": "1550.00",
+            "originalPriceShow": "৳ 1,550",
+            "price": "1290.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,290",
+            "discount": "-17%",
+            "ratingScore": "4.33333",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "106328351_BD-1021308327",
+            "sku": "106328351_BD",
+            "skus": [],
+            "description": [
+                "V380 - HD720P 1.0Mega Pixel",
+                "Two-way Audio Communication",
+                "Motion Alarm Detection",
+                "Remote Monitoring Control fromanywhere",
+                "1 Camera for all angle view -Pan 355° & Tilt 110°",
+                "Support Pan / Tilt control upand down, rotate, auto cruise, viewed from different angles",
+                "P2P (peer to peer) technologyWithout annoying IP settings",
+                "Support for iPhone, Androidmobile phone system.",
+                "Wireless standard IEEE802.11b /g wireless network compatible.",
+                "Auto IR-LED illumination fornight vision (up to 30 meters)",
+                "Support MicroSD Card Recording& playback"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1984",
+            "mainSellerId": "",
+            "sellerName": "Fidget Spinner BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/69175ade134ca9013ffe85ba6bd31d20.jpg",
+                    "productUrl": "/products/v380-wifi-ip-p2p-hd-night-vision-camera-white-i106328351-s1021308327.html",
+                    "sku": "106328351_BD",
+                    "skuId": "1021308327"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:106328351;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:106328351_BD;price:1290.00;client:desktop;supplier_id:1984;asc_category_id:10002903;item_id:106328351;sku_id:1021308327;shop_id:2590",
+            "addToCartSkus": [
+                {
+                    "sku": "106328351_BD-1021308327",
+                    "skuId": "1021308327",
+                    "count": 0
+                }
+            ],
+            "itemId": "106328351",
+            "skuId": "1021308327",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "V380 Pro Wi-Fi V380 Pro 2Mp HD 1080P 3 Antennas Night Vision Wireless WIFI IP Camera with 2 Way Audio And Upto  Smart Net Camera, 1080P Wifi IP Camera Onvif 2.0MP P2P CCTV Baby Monitor Night Vision, Three Antennas Security WIFI Indoor Two-way Voice Camera",
+            "nid": "186370830",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "186370830",
+                "scene_pre": "search",
+                "current_price": "1599.00",
+                "x_sku_ids": "1132859272",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "186370830"
+            },
+            "productUrl": "//www.daraz.com.bd/products/v380-pro-wi-fi-v380-pro-2mp-hd-1080p-3-antennas-night-vision-wireless-wifi-ip-camera-with-2-way-audio-and-upto-smart-net-camera-1080p-wifi-ip-camera-onvif-20mp-p2p-cctv-baby-monitor-night-vision-three-antennas-security-wifi-indoor-two-way-voice-camera-i186370830-s1132859272.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/eb62526f7ad1e84f170313b64635e452.jpg",
+            "originalPrice": "2500.00",
+            "originalPriceShow": "৳ 2,500",
+            "price": "1599.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,599",
+            "discount": "-36%",
+            "ratingScore": "3.8",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "186370830_BD-1132859272",
+            "sku": "186370830_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1022667",
+            "mainSellerId": "",
+            "sellerName": "TECH SECURITY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/eb62526f7ad1e84f170313b64635e452.jpg",
+                    "productUrl": "/products/v380-pro-wi-fi-v380-pro-2mp-hd-1080p-3-antennas-night-vision-wireless-wifi-ip-camera-with-2-way-audio-and-upto-smart-net-camera-1080p-wifi-ip-camera-onvif-20mp-p2p-cctv-baby-monitor-night-vision-three-antennas-security-wifi-indoor-two-way-voice-camera-i186370830-s1132859272.html",
+                    "sku": "186370830_BD",
+                    "skuId": "1132859272"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002903
+            ],
+            "clickTrace": "query:;nid:186370830;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:186370830_BD;price:1599.00;client:desktop;supplier_id:1022667;asc_category_id:10002903;item_id:186370830;sku_id:1132859272;shop_id:28879",
+            "addToCartSkus": [
+                {
+                    "sku": "186370830_BD-1132859272",
+                    "skuId": "1132859272",
+                    "count": 0
+                }
+            ],
+            "itemId": "186370830",
+            "skuId": "1132859272",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "A9 Camera 1080P ip camera HD Version Micro Wireless Camera Motion Detection Security camera wifi Camera",
+            "nid": "230437867",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230437867",
+                "scene_pre": "search",
+                "current_price": "615.00",
+                "x_sku_ids": "1173839886",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "230437867"
+            },
+            "productUrl": "//www.daraz.com.bd/products/a9-1080p-ip-hd-wifi-i230437867-s1173839886.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/afa3bb825dfcc8a5faa9dd0ced672e5c.jpg",
+            "originalPrice": "999.00",
+            "originalPriceShow": "৳ 999",
+            "price": "615.00",
+            "promotionId": "null",
+            "priceShow": "৳ 615",
+            "discount": "-38%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230437867_BD-1173839886",
+            "sku": "230437867_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1007266",
+            "mainSellerId": "",
+            "sellerName": "China Mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/afa3bb825dfcc8a5faa9dd0ced672e5c.jpg",
+                    "productUrl": "/products/a9-1080p-ip-hd-wifi-i230437867-s1173839886.html",
+                    "sku": "230437867_BD",
+                    "skuId": "1173839886"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002904
+            ],
+            "clickTrace": "query:;nid:230437867;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:230437867_BD;price:615.00;client:desktop;supplier_id:1007266;asc_category_id:10002904;item_id:230437867;sku_id:1173839886;shop_id:13390",
+            "addToCartSkus": [
+                {
+                    "sku": "230437867_BD-1173839886",
+                    "skuId": "1173839886",
+                    "count": 0
+                }
+            ],
+            "itemId": "230437867",
+            "skuId": "1173839886",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Strong CCTV camera stand for any Camera",
+            "nid": "152862870",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "152862870",
+                "scene_pre": "search",
+                "current_price": "140.00",
+                "x_sku_ids": "1081010691",
+                "SN": "c11271e8b0aedfad9977667ab877cff4",
+                "x_ad": "1",
+                "x_object_id": "152862870"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cctv-i152862870-s1081010691.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e1f849b6d4ae37d17571cc2e581a28b2.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "140.00",
+            "promotionId": "null",
+            "priceShow": "৳ 140",
+            "discount": "-53%",
+            "ratingScore": "4.58333",
+            "review": "12",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "152862870_BD-1081010691",
+            "sku": "152862870_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507347024",
+            "mainSellerId": "",
+            "sellerName": "PQ",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e1f849b6d4ae37d17571cc2e581a28b2.jpg",
+                    "productUrl": "/products/cctv-i152862870-s1081010691.html",
+                    "sku": "152862870_BD",
+                    "skuId": "1081010691"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                240,
+                10002953,
+                10002906
+            ],
+            "clickTrace": "query:;nid:152862870;src:LazadaMainSrp;rn:c11271e8b0aedfad9977667ab877cff4;region:bd;sku:152862870_BD;price:140.00;client:desktop;supplier_id:700507347024;asc_category_id:10002906;item_id:152862870;sku_id:1081010691;shop_id:89976",
+            "addToCartSkus": [
+                {
+                    "sku": "152862870_BD-1081010691",
+                    "skuId": "1081010691",
+                    "count": 0
+                }
+            ],
+            "itemId": "152862870",
+            "skuId": "1081010691",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/camera/",
+            "title": "Cameras"
+        },
+        {
+            "url": "/security-cameras/",
+            "title": "Security Cameras & Systems"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/security-cameras/?referer_rn=c11271e8b0aedfad9977667ab877cff4&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {},
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/security-surveillance/?item_id=175864640&from=onesearch_category_10002953",
+                "name": "IP Security Cameras",
+                "image": "//static-01.daraz.com.bd/p/c5c3940ad297ed98bd43b83ca561ec11.jpg",
+                "id": "10002903"
+            },
+            {
+                "url": "/cctv-cameras/?item_id=206124516&from=onesearch_category_10002953",
+                "name": "CCTV Security Cameras",
+                "image": "//static-01.daraz.com.bd/p/8e2211e3810a35754b17511d2fa508ac.jpg",
+                "id": "10002904"
+            },
+            {
+                "url": "/ip-security-systems/?item_id=192644666&from=onesearch_category_10002953",
+                "name": "IP Security Systems",
+                "image": "//static-01.daraz.com.bd/p/c5ee49a86989d4fcb371fc39e1e15417.jpg",
+                "id": "10002905"
+            },
+            {
+                "url": "/cctv-security-systems/?item_id=115804274&from=onesearch_category_10002953",
+                "name": "CCTV Security Systems",
+                "image": "//static-01.daraz.com.bd/p/35c563d30527017013fef0bc88c59818.jpg",
+                "id": "10002906"
+            },
+            {
+                "url": "/dummy-security-cameras/?item_id=171010685&from=onesearch_category_10002953",
+                "name": "Dummy Cameras",
+                "image": "//static-01.daraz.com.bd/p/2d7d3d9bc6bb313b28a7e3d0903e15cb.jpg",
+                "id": "10002949"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_10002953"
+        },
+        "title": "",
+        "bizId": "onesearch_category_10002953",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "8460 items found in {$0}",
+        "title": "Security Cameras & Systems",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Security Cameras & Systems"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Security Cameras & Systems",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "c11271e8b0aedfad9977667ab877cff4",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "10002953",
+            "category": "10002953"
+        },
+        "categoryRegionalKey": "041600000000",
+        "mainCategoryRegionalKey": "040000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "সিকিউরিটি ক্যামেরা ও সিস্টেম at Best Price | 20% Off on Daraz | Buy Online",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Cameras,Security Cameras & Systems",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "041600000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=10002953&_p_asc_cateid=10002953",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "security-cameras",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "c11271e8b0aedfad9977667ab877cff4",
+                "resultNr": 8460,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1079388358",
+                "1016910213",
+                "1038736696"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "10002953",
+            "category": "10002953"
+        }
+    }
+}

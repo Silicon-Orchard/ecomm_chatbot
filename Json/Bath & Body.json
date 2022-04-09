@@ -1,0 +1,4186 @@
+{
+    "listItems": [
+        {
+            "name": "Nail Cream Treatment Repair Gel Moisturizing and Luster",
+            "nid": "209665165",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209665165",
+                "scene_pre": "search",
+                "current_price": "165",
+                "x_sku_ids": "1159952951",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "209665165"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i209665165-s1159952951.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/af4574f83999672da97b9c61093b6c47.jpg",
+            "originalPrice": "480.00",
+            "originalPriceShow": "৳ 480",
+            "price": "165",
+            "promotionId": "null",
+            "priceShow": "৳ 165",
+            "discount": "-66%",
+            "ratingScore": "4.65",
+            "review": "60",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209665165_BD-1159952951",
+            "sku": "209665165_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123477861",
+            "brandName": "Efero",
+            "sellerId": "700508805956",
+            "mainSellerId": "",
+            "sellerName": "Sajbeghor",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/af4574f83999672da97b9c61093b6c47.jpg",
+                    "productUrl": "/products/-i209665165-s1159952951.html",
+                    "sku": "209665165_BD",
+                    "skuId": "1159952951"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                10002060,
+                10002196
+            ],
+            "clickTrace": "query:;nid:209665165;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:209665165_BD;price:165;client:desktop;supplier_id:700508805956;asc_category_id:10002196;item_id:209665165;sku_id:1159952951;shop_id:190638",
+            "addToCartSkus": [
+                {
+                    "sku": "209665165_BD-1159952951",
+                    "skuId": "1159952951",
+                    "count": 0
+                }
+            ],
+            "itemId": "209665165",
+            "skuId": "1159952951",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Godrej No.1 Soap Sandal 75GM",
+            "nid": "201002525",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "201002525",
+                "scene_pre": "search",
+                "current_price": "23.00",
+                "x_sku_ids": "1148191316",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "201002525"
+            },
+            "productUrl": "//www.daraz.com.bd/products/godrej-no1-soap-sandal-75gm-i201002525-s1148191316.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b374851bf245b3aa2bd2ac19da9db3c3.jpg",
+            "originalPrice": "28.00",
+            "originalPriceShow": "৳ 28",
+            "price": "23.00",
+            "promotionId": "null",
+            "priceShow": "৳ 23",
+            "discount": "-18%",
+            "ratingScore": "4.78662",
+            "review": "314",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "201002525_BD-1148191316",
+            "sku": "201002525_BD",
+            "skus": [],
+            "description": [
+                "Godrej No 1 Soap Sandal 75GM"
+            ],
+            "brandId": "24743",
+            "brandName": "Godrej",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b374851bf245b3aa2bd2ac19da9db3c3.jpg",
+                    "productUrl": "/products/godrej-no1-soap-sandal-75gm-i201002525-s1148191316.html",
+                    "sku": "201002525_BD",
+                    "skuId": "1148191316"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:201002525;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:201002525_BD;price:23.00;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:201002525;sku_id:1148191316;shop_id:3118",
+            "addToCartSkus": [
+                {
+                    "sku": "201002525_BD-1148191316",
+                    "skuId": "1148191316",
+                    "count": 0
+                }
+            ],
+            "itemId": "201002525",
+            "skuId": "1148191316",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Godrej No.1 Lime Soap 100G",
+            "nid": "152732427",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "152732427",
+                "scene_pre": "search",
+                "current_price": "31",
+                "x_sku_ids": "1080810042",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "152732427"
+            },
+            "productUrl": "//www.daraz.com.bd/products/godrej-no1-lime-soap-100g-i152732427-s1080810042.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3416c49413d1ff54049227e550f5006a.jpg",
+            "originalPrice": "34.00",
+            "originalPriceShow": "৳ 34",
+            "price": "31",
+            "promotionId": "null",
+            "priceShow": "৳ 31",
+            "discount": "-9%",
+            "ratingScore": "4.79734",
+            "review": "301",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "152732427_BD-1080810042",
+            "sku": "152732427_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Lime Soap",
+                "Brand:GODREJ",
+                "Weight: 100gm",
+                "Soap Bar"
+            ],
+            "brandId": "24743",
+            "brandName": "Godrej",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3416c49413d1ff54049227e550f5006a.jpg",
+                    "productUrl": "/products/godrej-no1-lime-soap-100g-i152732427-s1080810042.html",
+                    "sku": "152732427_BD",
+                    "skuId": "1080810042"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:152732427;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:152732427_BD;price:31;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:152732427;sku_id:1080810042;shop_id:3118",
+            "addToCartSkus": [
+                {
+                    "sku": "152732427_BD-1080810042",
+                    "skuId": "1080810042",
+                    "count": 0
+                }
+            ],
+            "itemId": "152732427",
+            "skuId": "1080810042",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fresh Time Disinfectant Hand Wash - 1 Liter",
+            "nid": "135174983",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "135174983",
+                "scene_pre": "search",
+                "current_price": "157",
+                "x_sku_ids": "1057136400",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "135174983"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i135174983-s1057136400.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/b60f5d32d6dd320a41d9840ec2c7a17c.jpg",
+            "originalPrice": "220.00",
+            "originalPriceShow": "৳ 220",
+            "price": "157",
+            "promotionId": "null",
+            "priceShow": "৳ 157",
+            "discount": "-29%",
+            "ratingScore": "4.63372",
+            "review": "688",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "135174983_BD-1057136400",
+            "sku": "135174983_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123360874",
+            "brandName": "Fresh Time",
+            "sellerId": "700505061160",
+            "mainSellerId": "",
+            "sellerName": "Achieve Toiletries",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/b60f5d32d6dd320a41d9840ec2c7a17c.jpg",
+                    "productUrl": "/products/1-i135174983-s1057136400.html",
+                    "sku": "135174983_BD",
+                    "skuId": "1057136400"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                10002058,
+                10002192
+            ],
+            "clickTrace": "query:;nid:135174983;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:135174983_BD;price:157;client:desktop;supplier_id:700505061160;asc_category_id:10002192;item_id:135174983;sku_id:1057136400;shop_id:55690",
+            "addToCartSkus": [
+                {
+                    "sku": "135174983_BD-1057136400",
+                    "skuId": "1057136400",
+                    "count": 0
+                }
+            ],
+            "itemId": "135174983",
+            "skuId": "1057136400",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Lifebuoy Skin Cleansing Bar Cool Fresh 100g",
+            "nid": "130868300",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "130868300",
+                "scene_pre": "search",
+                "current_price": "36.00",
+                "x_sku_ids": "1050868160",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "130868300"
+            },
+            "productUrl": "//www.daraz.com.bd/products/lifebuoy-skin-cleansing-bar-cool-fresh-100g-i130868300-s1050868160.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1537c54722c32dcc23705d106c29bc9f.jpg",
+            "originalPrice": "38.00",
+            "originalPriceShow": "৳ 38",
+            "price": "36.00",
+            "promotionId": "null",
+            "priceShow": "৳ 36",
+            "discount": "-5%",
+            "ratingScore": "4.75676",
+            "review": "407",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "130868300_BD-1050868160",
+            "sku": "130868300_BD",
+            "skus": [],
+            "description": [
+                "Product type: Skin Cleansing Bar",
+                "Brand: Lifebuoy",
+                "Capacity: 100g",
+                "Cool Fresh"
+            ],
+            "brandId": "36870",
+            "brandName": "Lifebuoy",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1537c54722c32dcc23705d106c29bc9f.jpg",
+                    "productUrl": "/products/lifebuoy-skin-cleansing-bar-cool-fresh-100g-i130868300-s1050868160.html",
+                    "sku": "130868300_BD",
+                    "skuId": "1050868160"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:130868300;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:130868300_BD;price:36.00;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:130868300;sku_id:1050868160;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "130868300_BD-1050868160",
+                    "skuId": "1050868160",
+                    "count": 0
+                }
+            ],
+            "itemId": "130868300",
+            "skuId": "1050868160",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dettol Soap Cool Quad Pack (75gm X 4), Bathing Bar Soaps with Crispy Menthol",
+            "nid": "328215",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "2389924",
+                "scene_pre": "search",
+                "current_price": "141",
+                "x_sku_ids": "62447149",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "2389924"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dettol-soap-cool-quad-pack-75gm-x-4-bathing-bar-soaps-with-crispy-menthol-i2389924-s62447149.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/019de9c7e9ceb0f89da91aa12fda00e4.jpg",
+            "originalPrice": "176.00",
+            "originalPriceShow": "৳ 176",
+            "price": "141",
+            "promotionId": "null",
+            "priceShow": "৳ 141",
+            "discount": "-20%",
+            "ratingScore": "4.83448",
+            "review": "725",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "RE660HBSHAANNAFAMZ-497610",
+            "sku": "RE660HBSHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                " Dettol Cool Soap Quad pack contains 4 pcs of Dettol Cool 75gm Soap",
+                " Dettol Cool Soap comes with refreshing crispy menthol fragrance",
+                " Dettol Cool Soap keeps skin moist and leaves it feeling healthy and fresh",
+                " Dettol Soaps are dermatologically tested for everyday use",
+                " Dettol Cool Soap is a Grade 1 Soap- providing the best value for your purchase",
+                " Dettol Bar Soaps keeps you healthy and provides 100% better protection vs ordinary soaps",
+                " Recommended by Doctors of Bangladesh Private Medical Practitioners Association (BPMPA)"
+            ],
+            "brandId": "35360",
+            "brandName": "Dettol",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/019de9c7e9ceb0f89da91aa12fda00e4.jpg",
+                    "productUrl": "/products/dettol-soap-cool-quad-pack-75gm-x-4-bathing-bar-soaps-with-crispy-menthol-i2389924-s62447149.html",
+                    "sku": "RE660HBSHAANNAFAMZ",
+                    "skuId": "62447149"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:328215;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:RE660HBSHAANNAFAMZ;price:141;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:2389924;sku_id:62447149;shop_id:85767",
+            "addToCartSkus": [
+                {
+                    "sku": "RE660HBSHAANNAFAMZ-497610",
+                    "skuId": "62447149",
+                    "count": 0
+                }
+            ],
+            "itemId": "2389924",
+            "skuId": "62447149",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Godrej No.1 Soap Rose 75G (Buy 4 Get 1 Free)",
+            "nid": "226475239",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226475239",
+                "scene_pre": "search",
+                "current_price": "90.00",
+                "x_sku_ids": "1170991626",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "226475239"
+            },
+            "productUrl": "//www.daraz.com.bd/products/godrej-no1-soap-rose-75g-buy-4-get-1-free-i226475239-s1170991626.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/494270e3e95564761dd0293ecb58cdaf.jpg",
+            "originalPrice": "140.00",
+            "originalPriceShow": "৳ 140",
+            "price": "90.00",
+            "promotionId": "null",
+            "priceShow": "৳ 90",
+            "discount": "-36%",
+            "ratingScore": "4.92857",
+            "review": "28",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226475239_BD-1170991626",
+            "sku": "226475239_BD",
+            "skus": [],
+            "description": [
+                "Godrej No.1 Soap Rose 75G (Buy 4 Get 1 Free)",
+                "Godrej No.1 Soap Rose 75G (Buy 4 Get 1 Free)",
+                "Godrej No.1 Soap Rose 75G (Buy 4 Get 1 Free)"
+            ],
+            "brandId": "24743",
+            "brandName": "Godrej",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/494270e3e95564761dd0293ecb58cdaf.jpg",
+                    "productUrl": "/products/godrej-no1-soap-rose-75g-buy-4-get-1-free-i226475239-s1170991626.html",
+                    "sku": "226475239_BD",
+                    "skuId": "1170991626"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:226475239;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:226475239_BD;price:90.00;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:226475239;sku_id:1170991626;shop_id:3118",
+            "addToCartSkus": [
+                {
+                    "sku": "226475239_BD-1170991626",
+                    "skuId": "1170991626",
+                    "count": 0
+                }
+            ],
+            "itemId": "226475239",
+            "skuId": "1170991626",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dove Beauty Bar White 135g",
+            "nid": "187540976",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "187540976",
+                "scene_pre": "search",
+                "current_price": "103.00",
+                "x_sku_ids": "1134498077",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "187540976"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dove-beauty-bar-white-135g-i187540976-s1134498077.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/117b49d1158685c646deeb0549cd5356.jpg",
+            "originalPrice": "125.00",
+            "originalPriceShow": "৳ 125",
+            "price": "103.00",
+            "promotionId": "null",
+            "priceShow": "৳ 103",
+            "discount": "-18%",
+            "ratingScore": "4.75",
+            "review": "72",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "187540976_BD-1134498077",
+            "sku": "187540976_BD",
+            "skus": [],
+            "description": [
+                "ÃÂÃÂ¼ moisturizing cream and gentle cleansers help retain skinÃÂ¢ÃÂÃÂs moisture",
+                "Leaves skin softer, smoother and more glowing",
+                "No1 Brand recommended by dermatologists",
+                "ItÃÂ¢ÃÂÃÂs not a soap ÃÂ¢ÃÂÃÂ itÃÂ¢ÃÂÃÂs a beauty bar"
+            ],
+            "brandId": "31113",
+            "brandName": "Dove",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/117b49d1158685c646deeb0549cd5356.jpg",
+                    "productUrl": "/products/dove-beauty-bar-white-135g-i187540976-s1134498077.html",
+                    "sku": "187540976_BD",
+                    "skuId": "1134498077"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:187540976;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:187540976_BD;price:103.00;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:187540976;sku_id:1134498077;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "187540976_BD-1134498077",
+                    "skuId": "1134498077",
+                    "count": 0
+                }
+            ],
+            "itemId": "187540976",
+            "skuId": "1134498077",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dettol Soap Original 75gm Bathing Bar, Soap with protection from 100 illness-causing germs",
+            "nid": "357685",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "174273",
+                "scene_pre": "search",
+                "current_price": "38",
+                "x_sku_ids": "986764",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "174273"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dettol-soap-original-75gm-bathing-bar-soap-with-protection-from-100-illness-causing-germs-i174273-s986764.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8b83a461bf42881df57a87103d6f8dfc.jpg",
+            "originalPrice": "44.00",
+            "originalPriceShow": "৳ 44",
+            "price": "38",
+            "promotionId": "null",
+            "priceShow": "৳ 38",
+            "discount": "-14%",
+            "ratingScore": "4.87952",
+            "review": "830",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "RB003HLSHAANNAFAMZ-537926",
+            "sku": "RB003HLSHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                " Dettol Original Soap comes with the Classic Dettol fragrance",
+                " Dettol Original Soap protects from up to 100 illness causing germs",
+                " Dettol Original Soap is dermatologically tested for everyday use",
+                " Dettol Original Soap is a Grade 1 Soap- providing the best value for your purchase",
+                " Dettol Bar Soaps keeps you healthy and provides 100% better protection vs ordinary soaps",
+                " Dettol is recommended by the Doctors of Bangladesh Private Medical Practitioners Association (BPMPA)"
+            ],
+            "brandId": "35360",
+            "brandName": "Dettol",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8b83a461bf42881df57a87103d6f8dfc.jpg",
+                    "productUrl": "/products/dettol-soap-original-75gm-bathing-bar-soap-with-protection-from-100-illness-causing-germs-i174273-s986764.html",
+                    "sku": "RB003HLSHAANNAFAMZ",
+                    "skuId": "986764"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:357685;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:RB003HLSHAANNAFAMZ;price:38;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:174273;sku_id:986764;shop_id:85767",
+            "addToCartSkus": [
+                {
+                    "sku": "RB003HLSHAANNAFAMZ-537926",
+                    "skuId": "986764",
+                    "count": 0
+                }
+            ],
+            "itemId": "174273",
+            "skuId": "986764",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dettol Soap Aloe Vera 75gm Bathing Bar, Soap with Aloe Vera Extract",
+            "nid": "125973891",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "125973891",
+                "scene_pre": "search",
+                "current_price": "39",
+                "x_sku_ids": "1046091443",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "125973891"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dettol-soap-aloe-vera-75gm-bathing-bar-soap-with-aloe-vera-extract-i125973891-s1046091443.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d1098b1495ed0406089d18968334e883.jpg",
+            "originalPrice": "44.00",
+            "originalPriceShow": "৳ 44",
+            "price": "39",
+            "promotionId": "null",
+            "priceShow": "৳ 39",
+            "discount": "-11%",
+            "ratingScore": "4.86536",
+            "review": "1322",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "125973891_BD-1046091443",
+            "sku": "125973891_BD",
+            "skus": [],
+            "description": [
+                "Product type:Bathing Bar Soap",
+                "Brand: Dettol",
+                "Aloe Vera",
+                "Capacity: 75gm",
+                "Dettol's trusted germ protection formula that keeps you healthy and protected from 100 illness causing germs",
+                "Dermatologically tested 10 times better protection vs ordinary handwash soaps",
+                "Recommended by Indian medical association, dermatologically tested",
+                "Protect your family from diseases like cold and flu by adding a layer of Dettol protection"
+            ],
+            "brandId": "35360",
+            "brandName": "Dettol",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d1098b1495ed0406089d18968334e883.jpg",
+                    "productUrl": "/products/dettol-soap-aloe-vera-75gm-bathing-bar-soap-with-aloe-vera-extract-i125973891-s1046091443.html",
+                    "sku": "125973891_BD",
+                    "skuId": "1046091443"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:125973891;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:125973891_BD;price:39;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:125973891;sku_id:1046091443;shop_id:85767",
+            "addToCartSkus": [
+                {
+                    "sku": "125973891_BD-1046091443",
+                    "skuId": "1046091443",
+                    "count": 0
+                }
+            ],
+            "itemId": "125973891",
+            "skuId": "1046091443",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Septex Deep Clean Antiseptic Bar 30gm",
+            "nid": "184304574",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184304574",
+                "scene_pre": "search",
+                "current_price": "9.00",
+                "x_sku_ids": "1129125390",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "184304574"
+            },
+            "productUrl": "//www.daraz.com.bd/products/septex-deep-clean-antiseptic-bar-30gm-i184304574-s1129125390.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9cd6753d8cd385e6ee8b7145d39f9ffa.jpg",
+            "originalPrice": "10.00",
+            "originalPriceShow": "৳ 10",
+            "price": "9.00",
+            "promotionId": "null",
+            "priceShow": "৳ 9",
+            "discount": "-10%",
+            "ratingScore": "4.73554",
+            "review": "121",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184304574_BD-1129125390",
+            "sku": "184304574_BD",
+            "skus": [],
+            "description": [
+                "Product Type:Antiseptic Soap Bar",
+                "Brand: Septex",
+                "Weight: 30gm",
+                "Keeps you healthy, provides better protection than ordinary soaps"
+            ],
+            "brandId": "193170",
+            "brandName": "Septex",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9cd6753d8cd385e6ee8b7145d39f9ffa.jpg",
+                    "productUrl": "/products/septex-deep-clean-antiseptic-bar-30gm-i184304574-s1129125390.html",
+                    "sku": "184304574_BD",
+                    "skuId": "1129125390"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:184304574;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:184304574_BD;price:9.00;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:184304574;sku_id:1129125390;shop_id:7480",
+            "addToCartSkus": [
+                {
+                    "sku": "184304574_BD-1129125390",
+                    "skuId": "1129125390",
+                    "count": 0
+                }
+            ],
+            "itemId": "184304574",
+            "skuId": "1129125390",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Godrej No.1 Soap Lime 75GM",
+            "nid": "201002567",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "201002567",
+                "scene_pre": "search",
+                "current_price": "23",
+                "x_sku_ids": "1148187678",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "201002567"
+            },
+            "productUrl": "//www.daraz.com.bd/products/godrej-no1-soap-lime-75gm-i201002567-s1148187678.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0ac6205f3aa840295a297c3270a55d3a.jpg",
+            "originalPrice": "28.00",
+            "originalPriceShow": "৳ 28",
+            "price": "23",
+            "promotionId": "null",
+            "priceShow": "৳ 23",
+            "discount": "-18%",
+            "ratingScore": "4.85303",
+            "review": "313",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "201002567_BD-1148187678",
+            "sku": "201002567_BD",
+            "skus": [],
+            "description": [
+                "Godrej No 1 Soap Lime 75GM"
+            ],
+            "brandId": "24743",
+            "brandName": "Godrej",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0ac6205f3aa840295a297c3270a55d3a.jpg",
+                    "productUrl": "/products/godrej-no1-soap-lime-75gm-i201002567-s1148187678.html",
+                    "sku": "201002567_BD",
+                    "skuId": "1148187678"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:201002567;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:201002567_BD;price:23;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:201002567;sku_id:1148187678;shop_id:3118",
+            "addToCartSkus": [
+                {
+                    "sku": "201002567_BD-1148187678",
+                    "skuId": "1148187678",
+                    "count": 0
+                }
+            ],
+            "itemId": "201002567",
+            "skuId": "1148187678",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Lux Soap Bar Velvet Glow 150g",
+            "nid": "435458",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "2417596",
+                "scene_pre": "search",
+                "current_price": "60",
+                "x_sku_ids": "62540058",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "2417596"
+            },
+            "productUrl": "//www.daraz.com.bd/products/lux-soap-bar-velvet-glow-150g-i2417596-s62540058.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/078249d6b655afe6a51873d17e3d8002.jpg",
+            "originalPrice": "65.00",
+            "originalPriceShow": "৳ 65",
+            "price": "60",
+            "promotionId": "null",
+            "priceShow": "৳ 60",
+            "discount": "-8%",
+            "ratingScore": "4.78142",
+            "review": "183",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "LX005HB3SHAANNAFAMZ-645250",
+            "sku": "LX005HB3SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Product Type: Soap Bar ",
+                "Capacity: 150g",
+                "Brand: Lux"
+            ],
+            "brandId": "35460",
+            "brandName": "LUX",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/078249d6b655afe6a51873d17e3d8002.jpg",
+                    "productUrl": "/products/lux-soap-bar-velvet-glow-150g-i2417596-s62540058.html",
+                    "sku": "LX005HB3SHAANNAFAMZ",
+                    "skuId": "62540058"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:435458;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:LX005HB3SHAANNAFAMZ;price:60;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:2417596;sku_id:62540058;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "LX005HB3SHAANNAFAMZ-645250",
+                    "skuId": "62540058",
+                    "count": 0
+                }
+            ],
+            "itemId": "2417596",
+            "skuId": "62540058",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ikebana Handmade soap 5 pcs bundle Pack. (Hand cut/uneven/raw)",
+            "nid": "182132523",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "182132523",
+                "scene_pre": "search",
+                "current_price": "464",
+                "x_sku_ids": "1125484241",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "182132523"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ikebana-5-i182132523-s1125484241.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a2b956520da41dbafdbed426fb2f0208.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "464",
+            "promotionId": "null",
+            "priceShow": "৳ 464",
+            "discount": "-29%",
+            "ratingScore": "4.29333",
+            "review": "75",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "182132523_BD-1125484241",
+            "sku": "182132523_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "157661",
+            "brandName": "IKEBANA",
+            "sellerId": "4249",
+            "mainSellerId": "",
+            "sellerName": "Bangla Natural",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a2b956520da41dbafdbed426fb2f0208.jpg",
+                    "productUrl": "/products/ikebana-5-i182132523-s1125484241.html",
+                    "sku": "182132523_BD",
+                    "skuId": "1125484241"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:182132523;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:182132523_BD;price:464;client:desktop;supplier_id:4249;asc_category_id:1471;item_id:182132523;sku_id:1125484241;shop_id:4349",
+            "addToCartSkus": [
+                {
+                    "sku": "182132523_BD-1125484241",
+                    "skuId": "1125484241",
+                    "count": 0
+                }
+            ],
+            "itemId": "182132523",
+            "skuId": "1125484241",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Godrej No.1 Saffron Soap 100G",
+            "nid": "152732515",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "152732515",
+                "scene_pre": "search",
+                "current_price": "31.00",
+                "x_sku_ids": "1080812103",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "152732515"
+            },
+            "productUrl": "//www.daraz.com.bd/products/godrej-no1-saffron-soap-100g-i152732515-s1080812103.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9030ee0f375a50bfd97426a115f6e23f.jpg",
+            "originalPrice": "38.00",
+            "originalPriceShow": "৳ 38",
+            "price": "31.00",
+            "promotionId": "null",
+            "priceShow": "৳ 31",
+            "discount": "-18%",
+            "ratingScore": "4.83607",
+            "review": "122",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "152732515_BD-1080812103",
+            "sku": "152732515_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Safron Soap",
+                "Brand: GODREJ  ",
+                "Weight: 100gm",
+                "Soap Bar"
+            ],
+            "brandId": "24743",
+            "brandName": "Godrej",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9030ee0f375a50bfd97426a115f6e23f.jpg",
+                    "productUrl": "/products/godrej-no1-saffron-soap-100g-i152732515-s1080812103.html",
+                    "sku": "152732515_BD",
+                    "skuId": "1080812103"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:152732515;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:152732515_BD;price:31.00;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:152732515;sku_id:1080812103;shop_id:3118",
+            "addToCartSkus": [
+                {
+                    "sku": "152732515_BD-1080812103",
+                    "skuId": "1080812103",
+                    "count": 0
+                }
+            ],
+            "itemId": "152732515",
+            "skuId": "1080812103",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fresh Time Disinfectant Hand Wash  1 Liter",
+            "nid": "135176702",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "135176702",
+                "scene_pre": "search",
+                "current_price": "167",
+                "x_sku_ids": "1057138036",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "135176702"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i135176702-s1057138036.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/3fba86610b8d121a6614b0e2c01311d1.jpg",
+            "originalPrice": "220.00",
+            "originalPriceShow": "৳ 220",
+            "price": "167",
+            "promotionId": "null",
+            "priceShow": "৳ 167",
+            "discount": "-24%",
+            "ratingScore": "4.72683",
+            "review": "205",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "135176702_BD-1057138036",
+            "sku": "135176702_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123360874",
+            "brandName": "Fresh Time",
+            "sellerId": "700505061160",
+            "mainSellerId": "",
+            "sellerName": "Achieve Toiletries",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/3fba86610b8d121a6614b0e2c01311d1.jpg",
+                    "productUrl": "/products/1-i135176702-s1057138036.html",
+                    "sku": "135176702_BD",
+                    "skuId": "1057138036"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                10002058,
+                10002192
+            ],
+            "clickTrace": "query:;nid:135176702;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:135176702_BD;price:167;client:desktop;supplier_id:700505061160;asc_category_id:10002192;item_id:135176702;sku_id:1057138036;shop_id:55690",
+            "addToCartSkus": [
+                {
+                    "sku": "135176702_BD-1057138036",
+                    "skuId": "1057138036",
+                    "count": 0
+                }
+            ],
+            "itemId": "135176702",
+            "skuId": "1057138036",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cinthol Soap Health + 100G",
+            "nid": "152726772",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "152726772",
+                "scene_pre": "search",
+                "current_price": "33",
+                "x_sku_ids": "1080808685",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "152726772"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cinthol-soap-health-100g-i152726772-s1080808685.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c182a8b6088d08d82bf3c7d041cac05f.jpg",
+            "originalPrice": "38.00",
+            "originalPriceShow": "৳ 38",
+            "price": "33",
+            "promotionId": "null",
+            "priceShow": "৳ 33",
+            "discount": "-13%",
+            "ratingScore": "4.82873",
+            "review": "181",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "152726772_BD-1080808685",
+            "sku": "152726772_BD",
+            "skus": [],
+            "description": [
+                "Capacity:100gm",
+                "Anti-bacteria properties",
+                "99.9% germ protection",
+                "Insta deo fragrance",
+                "Get recharge you with ever shower"
+            ],
+            "brandId": "157033",
+            "brandName": "Cinthol",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c182a8b6088d08d82bf3c7d041cac05f.jpg",
+                    "productUrl": "/products/cinthol-soap-health-100g-i152726772-s1080808685.html",
+                    "sku": "152726772_BD",
+                    "skuId": "1080808685"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:152726772;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:152726772_BD;price:33;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:152726772;sku_id:1080808685;shop_id:3118",
+            "addToCartSkus": [
+                {
+                    "sku": "152726772_BD-1080808685",
+                    "skuId": "1080808685",
+                    "count": 0
+                }
+            ],
+            "itemId": "152726772",
+            "skuId": "1080808685",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Godrej No.1 Jasmine Soap 100G",
+            "nid": "152726669",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "152726669",
+                "scene_pre": "search",
+                "current_price": "31",
+                "x_sku_ids": "1080804809",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "152726669"
+            },
+            "productUrl": "//www.daraz.com.bd/products/godrej-no1-jasmine-soap-100g-i152726669-s1080804809.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bb030e237499b3f7d7af16b20da14eb9.jpg",
+            "originalPrice": "38.00",
+            "originalPriceShow": "৳ 38",
+            "price": "31",
+            "promotionId": "null",
+            "priceShow": "৳ 31",
+            "discount": "-18%",
+            "ratingScore": "4.84302",
+            "review": "172",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "152726669_BD-1080804809",
+            "sku": "152726669_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Jasmine Soap",
+                "Brand: GODREJ  ",
+                "Weight: 100gm",
+                "Soap Bar"
+            ],
+            "brandId": "24743",
+            "brandName": "Godrej",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bb030e237499b3f7d7af16b20da14eb9.jpg",
+                    "productUrl": "/products/godrej-no1-jasmine-soap-100g-i152726669-s1080804809.html",
+                    "sku": "152726669_BD",
+                    "skuId": "1080804809"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:152726669;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:152726669_BD;price:31;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:152726669;sku_id:1080804809;shop_id:3118",
+            "addToCartSkus": [
+                {
+                    "sku": "152726669_BD-1080804809",
+                    "skuId": "1080804809",
+                    "count": 0
+                }
+            ],
+            "itemId": "152726669",
+            "skuId": "1080804809",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Godrej No.1 Soap Sandal 75G (Buy 4 Get 1 Free)",
+            "nid": "226476167",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226476167",
+                "scene_pre": "search",
+                "current_price": "90.00",
+                "x_sku_ids": "1170993576",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "226476167"
+            },
+            "productUrl": "//www.daraz.com.bd/products/godrej-no1-soap-sandal-75g-buy-4-get-1-free-i226476167-s1170993576.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2ecd7e71020328a0361e3febd24dfda5.jpg",
+            "originalPrice": "140.00",
+            "originalPriceShow": "৳ 140",
+            "price": "90.00",
+            "promotionId": "null",
+            "priceShow": "৳ 90",
+            "discount": "-36%",
+            "ratingScore": "4.95",
+            "review": "40",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226476167_BD-1170993576",
+            "sku": "226476167_BD",
+            "skus": [],
+            "description": [
+                "Godrej No.1 Soap Sandal 75G (Buy 4 Get 1 Free)",
+                "Godrej No.1 Soap Sandal 75G (Buy 4 Get 1 Free)",
+                "Godrej No.1 Soap Sandal 75G (Buy 4 Get 1 Free)"
+            ],
+            "brandId": "24743",
+            "brandName": "Godrej",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2ecd7e71020328a0361e3febd24dfda5.jpg",
+                    "productUrl": "/products/godrej-no1-soap-sandal-75g-buy-4-get-1-free-i226476167-s1170993576.html",
+                    "sku": "226476167_BD",
+                    "skuId": "1170993576"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:226476167;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:226476167_BD;price:90.00;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:226476167;sku_id:1170993576;shop_id:3118",
+            "addToCartSkus": [
+                {
+                    "sku": "226476167_BD-1170993576",
+                    "skuId": "1170993576",
+                    "count": 0
+                }
+            ],
+            "itemId": "226476167",
+            "skuId": "1170993576",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Godrej No 1 Rose Soap 100G",
+            "nid": "152728635",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "152728635",
+                "scene_pre": "search",
+                "current_price": "31",
+                "x_sku_ids": "1080802919",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "152728635"
+            },
+            "productUrl": "//www.daraz.com.bd/products/godrej-no-1-rose-soap-100g-i152728635-s1080802919.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/86d157c3b0a9e0083d7febecf087e229.jpg",
+            "originalPrice": "34.00",
+            "originalPriceShow": "৳ 34",
+            "price": "31",
+            "promotionId": "null",
+            "priceShow": "৳ 31",
+            "discount": "-9%",
+            "ratingScore": "4.84795",
+            "review": "171",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "152728635_BD-1080802919",
+            "sku": "152728635_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Rose Soap",
+                "Brand:GODREJ",
+                "Weight: 100gm",
+                "Soap Bar"
+            ],
+            "brandId": "24743",
+            "brandName": "Godrej",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/86d157c3b0a9e0083d7febecf087e229.jpg",
+                    "productUrl": "/products/godrej-no-1-rose-soap-100g-i152728635-s1080802919.html",
+                    "sku": "152728635_BD",
+                    "skuId": "1080802919"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:152728635;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:152728635_BD;price:31;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:152728635;sku_id:1080802919;shop_id:3118",
+            "addToCartSkus": [
+                {
+                    "sku": "152728635_BD-1080802919",
+                    "skuId": "1080802919",
+                    "count": 0
+                }
+            ],
+            "itemId": "152728635",
+            "skuId": "1080802919",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Godrej No.1 Sandal Soap 100G",
+            "nid": "152734404",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "152734404",
+                "scene_pre": "search",
+                "current_price": "31",
+                "x_sku_ids": "1080792963",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "152734404"
+            },
+            "productUrl": "//www.daraz.com.bd/products/godrej-no1-sandal-soap-100g-i152734404-s1080792963.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d86e3d3495e8b135af7ced8a6e73288a.jpg",
+            "originalPrice": "38.00",
+            "originalPriceShow": "৳ 38",
+            "price": "31",
+            "promotionId": "null",
+            "priceShow": "৳ 31",
+            "discount": "-18%",
+            "ratingScore": "4.80892",
+            "review": "157",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "152734404_BD-1080792963",
+            "sku": "152734404_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Sandal Soap",
+                "Brand:GODREJ",
+                "Weight: 100gm",
+                "Soap Bar"
+            ],
+            "brandId": "24743",
+            "brandName": "Godrej",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d86e3d3495e8b135af7ced8a6e73288a.jpg",
+                    "productUrl": "/products/godrej-no1-sandal-soap-100g-i152734404-s1080792963.html",
+                    "sku": "152734404_BD",
+                    "skuId": "1080792963"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:152734404;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:152734404_BD;price:31;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:152734404;sku_id:1080792963;shop_id:3118",
+            "addToCartSkus": [
+                {
+                    "sku": "152734404_BD-1080792963",
+                    "skuId": "1080792963",
+                    "count": 0
+                }
+            ],
+            "itemId": "152734404",
+            "skuId": "1080792963",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dettol Soap Aloe Vera 125gm Bathing Bar, Soap with Aloe Vera Extract",
+            "nid": "231613000",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "231613000",
+                "scene_pre": "search",
+                "current_price": "56",
+                "x_sku_ids": "1174754792",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "231613000"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dettol-soap-aloe-vera-125gm-bathing-bar-soap-with-aloe-vera-extract-i231613000-s1174754792.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/84e1ee04cb9991996805cab05f2e02fa.jpg",
+            "originalPrice": "65.00",
+            "originalPriceShow": "৳ 65",
+            "price": "56",
+            "promotionId": "null",
+            "priceShow": "৳ 56",
+            "discount": "-14%",
+            "ratingScore": "5",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "231613000_BD-1174754792",
+            "sku": "231613000_BD",
+            "skus": [],
+            "description": [
+                "Dettol Soap Aloe Vera 125gm Bathing Bar, Soap with Aloe Vera Extract",
+                "Dettol Soap Aloe Vera 125gm Bathing Bar, Soap with Aloe Vera Extract"
+            ],
+            "brandId": "35360",
+            "brandName": "Dettol",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/84e1ee04cb9991996805cab05f2e02fa.jpg",
+                    "productUrl": "/products/dettol-soap-aloe-vera-125gm-bathing-bar-soap-with-aloe-vera-extract-i231613000-s1174754792.html",
+                    "sku": "231613000_BD",
+                    "skuId": "1174754792"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:231613000;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:231613000_BD;price:56;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:231613000;sku_id:1174754792;shop_id:85767",
+            "addToCartSkus": [
+                {
+                    "sku": "231613000_BD-1174754792",
+                    "skuId": "1174754792",
+                    "count": 0
+                }
+            ],
+            "itemId": "231613000",
+            "skuId": "1174754792",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Lifebuoy Soap Bar Care 100g",
+            "nid": "435451",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "2417589",
+                "scene_pre": "search",
+                "current_price": "37",
+                "x_sku_ids": "62540019",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "2417589"
+            },
+            "productUrl": "//www.daraz.com.bd/products/lifebuoy-soap-bar-care-100g-i2417589-s62540019.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ae56a8016d64c7638596860e4787a975.jpg",
+            "originalPrice": "40.00",
+            "originalPriceShow": "৳ 40",
+            "price": "37",
+            "promotionId": "null",
+            "priceShow": "৳ 37",
+            "discount": "-8%",
+            "ratingScore": "4.82164",
+            "review": "342",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "LB002HB3SHAANNAFAMZ-645243",
+            "sku": "LB002HB3SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Product Type: Soap Bar ",
+                "Capacity: 100g",
+                "Brand: Lifebuoy"
+            ],
+            "brandId": "36870",
+            "brandName": "Lifebuoy",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ae56a8016d64c7638596860e4787a975.jpg",
+                    "productUrl": "/products/lifebuoy-soap-bar-care-100g-i2417589-s62540019.html",
+                    "sku": "LB002HB3SHAANNAFAMZ",
+                    "skuId": "62540019"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:435451;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:LB002HB3SHAANNAFAMZ;price:37;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:2417589;sku_id:62540019;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "LB002HB3SHAANNAFAMZ-645243",
+                    "skuId": "62540019",
+                    "count": 0
+                }
+            ],
+            "itemId": "2417589",
+            "skuId": "62540019",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Savlon Soap Mild 100gm",
+            "nid": "100902398",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "100902398",
+                "scene_pre": "search",
+                "current_price": "44.00",
+                "x_sku_ids": "1014895659",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "100902398"
+            },
+            "productUrl": "//www.daraz.com.bd/products/savlon-soap-mild-100gm-i100902398-s1014895659.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2f4fdf1e33980d22f752787667f307f3.jpg",
+            "originalPrice": "50.00",
+            "originalPriceShow": "৳ 50",
+            "price": "44.00",
+            "promotionId": "null",
+            "priceShow": "৳ 44",
+            "discount": "-12%",
+            "ratingScore": "4.85938",
+            "review": "64",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "100902398_BD-1014895659",
+            "sku": "100902398_BD",
+            "skus": [],
+            "description": [
+                "Weight: 100gm",
+                "Product Type: Antiseptic Soap",
+                "Brand: Savlon",
+                "Essential household item",
+                "Great for everyday use"
+            ],
+            "brandId": "121140",
+            "brandName": "Savlon",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2f4fdf1e33980d22f752787667f307f3.jpg",
+                    "productUrl": "/products/savlon-soap-mild-100gm-i100902398-s1014895659.html",
+                    "sku": "100902398_BD",
+                    "skuId": "1014895659"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:100902398;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:100902398_BD;price:44.00;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:100902398;sku_id:1014895659;shop_id:178171",
+            "addToCartSkus": [
+                {
+                    "sku": "100902398_BD-1014895659",
+                    "skuId": "1014895659",
+                    "count": 0
+                }
+            ],
+            "itemId": "100902398",
+            "skuId": "1014895659",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Godrej Protekt Magic Powder to Liquid Handwash Refill (Buy 4, Get 1 Free)",
+            "nid": "226480030",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226480030",
+                "scene_pre": "search",
+                "current_price": "85.00",
+                "x_sku_ids": "1170989854",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "226480030"
+            },
+            "productUrl": "//www.daraz.com.bd/products/godrej-protekt-magic-powder-to-liquid-handwash-refill-buy-4-get-1-free-i226480030-s1170989854.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b59067827828ee91e7f53e9e78502d42.jpg",
+            "originalPrice": "125.00",
+            "originalPriceShow": "৳ 125",
+            "price": "85.00",
+            "promotionId": "null",
+            "priceShow": "৳ 85",
+            "discount": "-32%",
+            "ratingScore": "4.70968",
+            "review": "31",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226480030_BD-1170989854",
+            "sku": "226480030_BD",
+            "skus": [],
+            "description": [
+                "Godrej Protekt Mr.Magic Refill (Buy 4 Get 1 Free)",
+                "Godrej Protekta Mr.Magic Refill (Buy 4 Get 1 Free)",
+                "Godrej Protekt Mr.Magic Refill (Buy 4 Get 1 Free)"
+            ],
+            "brandId": "124002293",
+            "brandName": "Godrej Protekt",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b59067827828ee91e7f53e9e78502d42.jpg",
+                    "productUrl": "/products/godrej-protekt-magic-powder-to-liquid-handwash-refill-buy-4-get-1-free-i226480030-s1170989854.html",
+                    "sku": "226480030_BD",
+                    "skuId": "1170989854"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                10002058,
+                10002192
+            ],
+            "clickTrace": "query:;nid:226480030;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:226480030_BD;price:85.00;client:desktop;supplier_id:1000000;asc_category_id:10002192;item_id:226480030;sku_id:1170989854;shop_id:3118",
+            "addToCartSkus": [
+                {
+                    "sku": "226480030_BD-1170989854",
+                    "skuId": "1170989854",
+                    "count": 0
+                }
+            ],
+            "itemId": "226480030",
+            "skuId": "1170989854",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Neem Original Pure Neem Soap 100 gm",
+            "nid": "100903614",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "100903614",
+                "scene_pre": "search",
+                "current_price": "36.00",
+                "x_sku_ids": "1014903782",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "100903614"
+            },
+            "productUrl": "//www.daraz.com.bd/products/neem-original-pure-neem-soap-100-gm-i100903614-s1014903782.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a32e6c4863966c453da86031a809859b.jpg",
+            "originalPrice": "42.00",
+            "originalPriceShow": "৳ 42",
+            "price": "36.00",
+            "promotionId": "null",
+            "priceShow": "৳ 36",
+            "discount": "-14%",
+            "ratingScore": "4.65657",
+            "review": "99",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "100903614_BD-1014903782",
+            "sku": "100903614_BD",
+            "skus": [],
+            "description": [
+                "Capacity: 100gm",
+                "Product Type: Soap",
+                "Brand: Neem",
+                "Essential household item",
+                "Great for everyday use"
+            ],
+            "brandId": "189669",
+            "brandName": "Neem",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a32e6c4863966c453da86031a809859b.jpg",
+                    "productUrl": "/products/neem-original-pure-neem-soap-100-gm-i100903614-s1014903782.html",
+                    "sku": "100903614_BD",
+                    "skuId": "1014903782"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:100903614;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:100903614_BD;price:36.00;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:100903614;sku_id:1014903782;shop_id:7480",
+            "addToCartSkus": [
+                {
+                    "sku": "100903614_BD-1014903782",
+                    "skuId": "1014903782",
+                    "count": 0
+                }
+            ],
+            "itemId": "100903614",
+            "skuId": "1014903782",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "LUX Soap Bar Velvet Glow - 100g",
+            "nid": "123922197",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "123922197",
+                "scene_pre": "search",
+                "current_price": "42",
+                "x_sku_ids": "1044176212",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "123922197"
+            },
+            "productUrl": "//www.daraz.com.bd/products/lux-soap-bar-velvet-glow-100g-i123922197-s1044176212.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f326259dfb94d662991ec1275ba7955c.jpg",
+            "originalPrice": "45.00",
+            "originalPriceShow": "৳ 45",
+            "price": "42",
+            "promotionId": "null",
+            "priceShow": "৳ 42",
+            "discount": "-7%",
+            "ratingScore": "4.77551",
+            "review": "98",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "123922197_BD-1044176212",
+            "sku": "123922197_BD",
+            "skus": [],
+            "description": [
+                "Invigorating and rejuvenating",
+                "Fragrance composed by the world's best perfume experts",
+                "Infused with the fragrance of water lilies and freshness of cooling mint for fresh, fragrant and radiant skin",
+                "Gently cleanses skin to leave it icy cool, silky smooth and subtly perfumed",
+                "Feel fabulous every day"
+            ],
+            "brandId": "35460",
+            "brandName": "LUX",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f326259dfb94d662991ec1275ba7955c.jpg",
+                    "productUrl": "/products/lux-soap-bar-velvet-glow-100g-i123922197-s1044176212.html",
+                    "sku": "123922197_BD",
+                    "skuId": "1044176212"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:123922197;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:123922197_BD;price:42;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:123922197;sku_id:1044176212;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "123922197_BD-1044176212",
+                    "skuId": "1044176212",
+                    "count": 0
+                }
+            ],
+            "itemId": "123922197",
+            "skuId": "1044176212",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Harmony Fruity Orange Soap - (60 gm)",
+            "nid": "166352963",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "166352963",
+                "scene_pre": "search",
+                "current_price": "28",
+                "x_sku_ids": "1099950662",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "166352963"
+            },
+            "productUrl": "//www.daraz.com.bd/products/60-i166352963-s1099950662.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c8d678b8659f8ee04d9af7f93ea405d5.jpg",
+            "originalPrice": "45.00",
+            "originalPriceShow": "৳ 45",
+            "price": "28",
+            "promotionId": "null",
+            "priceShow": "৳ 28",
+            "discount": "-38%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "166352963_BD-1099950662",
+            "sku": "166352963_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Soap",
+                "Capacity: 60g",
+                "Good quality product",
+                "Gender: Unisex",
+                "Nice product"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507314076",
+            "mainSellerId": "",
+            "sellerName": "Wholesale  Mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c8d678b8659f8ee04d9af7f93ea405d5.jpg",
+                    "productUrl": "/products/60-i166352963-s1099950662.html",
+                    "sku": "166352963_BD",
+                    "skuId": "1099950662"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:166352963;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:166352963_BD;price:28;client:desktop;supplier_id:700507314076;asc_category_id:1471;item_id:166352963;sku_id:1099950662;shop_id:90324",
+            "addToCartSkus": [
+                {
+                    "sku": "166352963_BD-1099950662",
+                    "skuId": "1099950662",
+                    "count": 0
+                }
+            ],
+            "itemId": "166352963",
+            "skuId": "1099950662",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Neem Original Honey & Turmeric Soap 100 gm",
+            "nid": "100909383",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "100909383",
+                "scene_pre": "search",
+                "current_price": "36.00",
+                "x_sku_ids": "1014899976",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "100909383"
+            },
+            "productUrl": "//www.daraz.com.bd/products/neem-original-honey-turmeric-soap-100-gm-i100909383-s1014899976.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d375387e7706d126d7d852ddf07c3550.jpg",
+            "originalPrice": "40.00",
+            "originalPriceShow": "৳ 40",
+            "price": "36.00",
+            "promotionId": "null",
+            "priceShow": "৳ 36",
+            "discount": "-10%",
+            "ratingScore": "4.73729",
+            "review": "118",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "100909383_BD-1014899976",
+            "sku": "100909383_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Soap",
+                "Brand: Neem",
+                "Capacity: 100gm",
+                "Honey & Turmeric",
+                "Great for everyday use"
+            ],
+            "brandId": "189669",
+            "brandName": "Neem",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d375387e7706d126d7d852ddf07c3550.jpg",
+                    "productUrl": "/products/neem-original-honey-turmeric-soap-100-gm-i100909383-s1014899976.html",
+                    "sku": "100909383_BD",
+                    "skuId": "1014899976"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:100909383;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:100909383_BD;price:36.00;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:100909383;sku_id:1014899976;shop_id:7480",
+            "addToCartSkus": [
+                {
+                    "sku": "100909383_BD-1014899976",
+                    "skuId": "1014899976",
+                    "count": 0
+                }
+            ],
+            "itemId": "100909383",
+            "skuId": "1014899976",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dettol Soap Citrus Fresh 125gm Bathing Bar, Soap with Odour Protection",
+            "nid": "231759398",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "231759398",
+                "scene_pre": "search",
+                "current_price": "56",
+                "x_sku_ids": "1174878083",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "231759398"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dettol-soap-citrus-fresh-125gm-bathing-bar-soap-with-odour-protection-i231759398-s1174878083.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e9290d0478d0f5905bd2dac0af3f7075.jpg",
+            "originalPrice": "65.00",
+            "originalPriceShow": "৳ 65",
+            "price": "56",
+            "promotionId": "null",
+            "priceShow": "৳ 56",
+            "discount": "-14%",
+            "ratingScore": "4.4",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "231759398_BD-1174878083",
+            "sku": "231759398_BD",
+            "skus": [],
+            "description": [
+                "Dettol Soap Citrus Fresh 125gm Bathing Bar, Soap with Odour Protection",
+                "Dettol Soap Citrus Fresh 125gm Bathing Bar, Soap with Odour Protection"
+            ],
+            "brandId": "35360",
+            "brandName": "Dettol",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e9290d0478d0f5905bd2dac0af3f7075.jpg",
+                    "productUrl": "/products/dettol-soap-citrus-fresh-125gm-bathing-bar-soap-with-odour-protection-i231759398-s1174878083.html",
+                    "sku": "231759398_BD",
+                    "skuId": "1174878083"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:231759398;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:231759398_BD;price:56;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:231759398;sku_id:1174878083;shop_id:85767",
+            "addToCartSkus": [
+                {
+                    "sku": "231759398_BD-1174878083",
+                    "skuId": "1174878083",
+                    "count": 0
+                }
+            ],
+            "itemId": "231759398",
+            "skuId": "1174878083",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dr. Devey (Black) Soap 100gm",
+            "nid": "234391951",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "234391951",
+                "scene_pre": "search",
+                "current_price": "95.00",
+                "x_sku_ids": "1177239502",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "234391951"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dr-devey-100-i234391951-s1177239502.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c01698d99b5e7e0fb2c66ba1f68be00a.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "95.00",
+            "promotionId": "null",
+            "priceShow": "৳ 95",
+            "discount": "-62%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "234391951_BD-1177239502",
+            "sku": "234391951_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700512024381",
+            "mainSellerId": "",
+            "sellerName": "smart express 24",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c01698d99b5e7e0fb2c66ba1f68be00a.jpg",
+                    "productUrl": "/products/dr-devey-100-i234391951-s1177239502.html",
+                    "sku": "234391951_BD",
+                    "skuId": "1177239502"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:234391951;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:234391951_BD;price:95.00;client:desktop;supplier_id:700512024381;asc_category_id:1471;item_id:234391951;sku_id:1177239502;shop_id:239205",
+            "addToCartSkus": [
+                {
+                    "sku": "234391951_BD-1177239502",
+                    "skuId": "1177239502",
+                    "count": 0
+                }
+            ],
+            "itemId": "234391951",
+            "skuId": "1177239502",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Lifebuoy Soap Bar Care - 150gm",
+            "nid": "435453",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "2417591",
+                "scene_pre": "search",
+                "current_price": "58.00",
+                "x_sku_ids": "62540037",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "2417591"
+            },
+            "productUrl": "//www.daraz.com.bd/products/lifebuoy-soap-bar-care-150gm-i2417591-s62540037.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7eed69acebab761803a00ca5ec0a5bc1.jpg",
+            "originalPrice": "60.00",
+            "originalPriceShow": "৳ 60",
+            "price": "58.00",
+            "promotionId": "null",
+            "priceShow": "৳ 58",
+            "discount": "-3%",
+            "ratingScore": "4.88889",
+            "review": "99",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "LB004HB3SHAANNAFAMZ-645245",
+            "sku": "LB004HB3SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Product Type: Soap Bar ",
+                "Capacity: 150g",
+                "Brand: Lifebuoy"
+            ],
+            "brandId": "36870",
+            "brandName": "Lifebuoy",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7eed69acebab761803a00ca5ec0a5bc1.jpg",
+                    "productUrl": "/products/lifebuoy-soap-bar-care-150gm-i2417591-s62540037.html",
+                    "sku": "LB004HB3SHAANNAFAMZ",
+                    "skuId": "62540037"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:435453;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:LB004HB3SHAANNAFAMZ;price:58.00;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:2417591;sku_id:62540037;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "LB004HB3SHAANNAFAMZ-645245",
+                    "skuId": "62540037",
+                    "count": 0
+                }
+            ],
+            "itemId": "2417591",
+            "skuId": "62540037",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Citrus Lemon Fruity Soap - 70 gm",
+            "nid": "129338978",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "129338978",
+                "scene_pre": "search",
+                "current_price": "30.00",
+                "x_sku_ids": "1049140202",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "129338978"
+            },
+            "productUrl": "//www.daraz.com.bd/products/70-i129338978-s1049140202.html?search=1",
+            "image": "https://static-01.daraz.com.bd/original/d23105c54f545052359448015e62369e.jpg",
+            "originalPrice": "255.00",
+            "originalPriceShow": "৳ 255",
+            "price": "30.00",
+            "promotionId": "null",
+            "priceShow": "৳ 30",
+            "discount": "-88%",
+            "ratingScore": "4.5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "129338978_BD-1049140202",
+            "sku": "129338978_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Soap",
+                "Capacity: 70g",
+                "Good quality product",
+                "Gender: Unisex"
+            ],
+            "brandId": "44333",
+            "brandName": "Harmony",
+            "sellerId": "700504965161",
+            "mainSellerId": "",
+            "sellerName": "Global Wholesale",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/original/d23105c54f545052359448015e62369e.jpg",
+                    "productUrl": "/products/70-i129338978-s1049140202.html",
+                    "sku": "129338978_BD",
+                    "skuId": "1049140202"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:129338978;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:129338978_BD;price:30.00;client:desktop;supplier_id:700504965161;asc_category_id:1471;item_id:129338978;sku_id:1049140202;shop_id:52871",
+            "addToCartSkus": [
+                {
+                    "sku": "129338978_BD-1049140202",
+                    "skuId": "1049140202",
+                    "count": 0
+                }
+            ],
+            "itemId": "129338978",
+            "skuId": "1049140202",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dove Beauty Bar Pink 100g",
+            "nid": "322537",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "2386821",
+                "scene_pre": "search",
+                "current_price": "85",
+                "x_sku_ids": "62432254",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "2386821"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dove-beauty-bar-pink-100g-i2386821-s62432254.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f4e530546ee5c3c397386c343fdfb87d.jpg",
+            "originalPrice": "95.00",
+            "originalPriceShow": "৳ 95",
+            "price": "85",
+            "promotionId": "null",
+            "priceShow": "৳ 85",
+            "discount": "-11%",
+            "ratingScore": "4.79128",
+            "review": "321",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "DO684HBSHAANNAFAMZ-487634",
+            "sku": "DO684HBSHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Product type: Soap Bar",
+                "Brand: Dove",
+                "Weight: 100g",
+                "Leaves skin softer, smoother and more glowing",
+                "No1 Brand recommended by dermatologists",
+                "ItÃ¢ÂÂs not a soap Ã¢ÂÂ itÃ¢ÂÂs a beauty bar",
+                "Suitable for daily use on face, body and hand",
+                "Imported fromGermany"
+            ],
+            "brandId": "31113",
+            "brandName": "Dove",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f4e530546ee5c3c397386c343fdfb87d.jpg",
+                    "productUrl": "/products/dove-beauty-bar-pink-100g-i2386821-s62432254.html",
+                    "sku": "DO684HBSHAANNAFAMZ",
+                    "skuId": "62432254"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1471
+            ],
+            "clickTrace": "query:;nid:322537;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:DO684HBSHAANNAFAMZ;price:85;client:desktop;supplier_id:1000000;asc_category_id:1471;item_id:2386821;sku_id:62432254;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "DO684HBSHAANNAFAMZ-487634",
+                    "skuId": "62432254",
+                    "count": 0
+                }
+            ],
+            "itemId": "2386821",
+            "skuId": "62432254",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Lifebuoy Handwash Total 1lt",
+            "nid": "119692629",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "119692629",
+                "scene_pre": "search",
+                "current_price": "255.00",
+                "x_sku_ids": "1039052776",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "119692629"
+            },
+            "productUrl": "//www.daraz.com.bd/products/lifebuoy-handwash-total-1lt-i119692629-s1039052776.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2be7dbaa9f4a41ee7224e41cd4930a88.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "255.00",
+            "promotionId": "null",
+            "priceShow": "৳ 255",
+            "discount": "-15%",
+            "ratingScore": "4.88837",
+            "review": "215",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "119692629_BD-1039052776",
+            "sku": "119692629_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Handwash",
+                "Capacity: 1 Litre",
+                "Brand: Lifebuoy"
+            ],
+            "brandId": "36870",
+            "brandName": "Lifebuoy",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2be7dbaa9f4a41ee7224e41cd4930a88.jpg",
+                    "productUrl": "/products/lifebuoy-handwash-total-1lt-i119692629-s1039052776.html",
+                    "sku": "119692629_BD",
+                    "skuId": "1039052776"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                10002058,
+                10002192
+            ],
+            "clickTrace": "query:;nid:119692629;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:119692629_BD;price:255.00;client:desktop;supplier_id:1000000;asc_category_id:10002192;item_id:119692629;sku_id:1039052776;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "119692629_BD-1039052776",
+                    "skuId": "1039052776",
+                    "count": 0
+                }
+            ],
+            "itemId": "119692629",
+            "skuId": "1039052776",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Savlon Hand Rub 250ml",
+            "nid": "130914597",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "130914597",
+                "scene_pre": "search",
+                "current_price": "115.00",
+                "x_sku_ids": "1050916632",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "130914597"
+            },
+            "productUrl": "//www.daraz.com.bd/products/savlon-hand-rub-250ml-i130914597-s1050916632.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f6c6c3ff172f748ee50f525a80d04636.jpg",
+            "originalPrice": "130.00",
+            "originalPriceShow": "৳ 130",
+            "price": "115.00",
+            "promotionId": "null",
+            "priceShow": "৳ 115",
+            "discount": "-12%",
+            "ratingScore": "4.70633",
+            "review": "395",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "130914597_BD-1050916632",
+            "sku": "130914597_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Hand Rub",
+                "Capacity: 250ml",
+                "Brand: Savlon"
+            ],
+            "brandId": "121140",
+            "brandName": "Savlon",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f6c6c3ff172f748ee50f525a80d04636.jpg",
+                    "productUrl": "/products/savlon-hand-rub-250ml-i130914597-s1050916632.html",
+                    "sku": "130914597_BD",
+                    "skuId": "1050916632"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                10002058,
+                20000200
+            ],
+            "clickTrace": "query:;nid:130914597;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:130914597_BD;price:115.00;client:desktop;supplier_id:1000000;asc_category_id:20000200;item_id:130914597;sku_id:1050916632;shop_id:178171",
+            "addToCartSkus": [
+                {
+                    "sku": "130914597_BD-1050916632",
+                    "skuId": "1050916632",
+                    "count": 0
+                }
+            ],
+            "itemId": "130914597",
+            "skuId": "1050916632",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Frozen_Collagen_2in1_Vitamin_60PS",
+            "nid": "186780292",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "186780292",
+                "scene_pre": "search",
+                "current_price": "403",
+                "x_sku_ids": "1133325081",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "186780292"
+            },
+            "productUrl": "//www.daraz.com.bd/products/frozen_collagen_2in1_vitamin_60ps-i186780292-s1133325081.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1b77e55925e4770e2f8bd5820f5ebfe1.jpg",
+            "originalPrice": "1050.00",
+            "originalPriceShow": "৳ 1,050",
+            "price": "403",
+            "promotionId": "null",
+            "priceShow": "৳ 403",
+            "discount": "-62%",
+            "ratingScore": "4.80952",
+            "review": "21",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "186780292_BD-1133325081",
+            "sku": "186780292_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508616040",
+            "mainSellerId": "",
+            "sellerName": "Kotha Mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1b77e55925e4770e2f8bd5820f5ebfe1.jpg",
+                    "productUrl": "/products/frozen_collagen_2in1_vitamin_60ps-i186780292-s1133325081.html",
+                    "sku": "186780292_BD",
+                    "skuId": "1133325081"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1478
+            ],
+            "clickTrace": "query:;nid:186780292;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:186780292_BD;price:403;client:desktop;supplier_id:700508616040;asc_category_id:1478;item_id:186780292;sku_id:1133325081;shop_id:173275",
+            "addToCartSkus": [
+                {
+                    "sku": "186780292_BD-1133325081",
+                    "skuId": "1133325081",
+                    "count": 0
+                }
+            ],
+            "itemId": "186780292",
+            "skuId": "1133325081",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cosmic Girl Body Lotion ১০০% অরিজিনাল প্রোডাক্ট.আমরা আপনাকে যেটা দেখাই সেটাই পাঠাই.",
+            "nid": "186141179",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "186141179",
+                "scene_pre": "search",
+                "current_price": "128",
+                "x_sku_ids": "1132391502",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "186141179"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cosmic-girl-body-lotion-i186141179-s1132391502.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/43dd040058333cb24fbd816f4f88037e.jpg",
+            "originalPrice": "700.00",
+            "originalPriceShow": "৳ 700",
+            "price": "128",
+            "promotionId": "null",
+            "priceShow": "৳ 128",
+            "discount": "-82%",
+            "ratingScore": "4.37705",
+            "review": "61",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "186141179_BD-1132391502",
+            "sku": "186141179_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508622034",
+            "mainSellerId": "",
+            "sellerName": "S Rifat Wholesale World",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/43dd040058333cb24fbd816f4f88037e.jpg",
+                    "productUrl": "/products/cosmic-girl-body-lotion-i186141179-s1132391502.html",
+                    "sku": "186141179_BD",
+                    "skuId": "1132391502"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1478
+            ],
+            "clickTrace": "query:;nid:186141179;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:186141179_BD;price:128;client:desktop;supplier_id:700508622034;asc_category_id:1478;item_id:186141179;sku_id:1132391502;shop_id:173173",
+            "addToCartSkus": [
+                {
+                    "sku": "186141179_BD-1132391502",
+                    "skuId": "1132391502",
+                    "count": 0
+                }
+            ],
+            "itemId": "186141179",
+            "skuId": "1132391502",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Millat Cool Cool Prickly Heat Powder 100 gm",
+            "nid": "180601549",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "180601549",
+                "scene_pre": "search",
+                "current_price": "50.00",
+                "x_sku_ids": "1121876200",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "180601549"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100-i180601549-s1121876200.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/485325bb988094999b36debf2cc8cf63.jpg",
+            "price": "50.00",
+            "promotionId": "null",
+            "priceShow": "৳ 50",
+            "ratingScore": "4.46774",
+            "review": "62",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "180601549_BD-1121876200",
+            "sku": "180601549_BD",
+            "skus": [],
+            "description": [
+                "Pack Size: 100 gm",
+                "Container Type: Plastic ",
+                "Quantity: 1 Pcs",
+                "Product Type: Cool Talcum Powder",
+                "Product Type: New Product",
+                "Made Year: 2021"
+            ],
+            "brandId": "123418219",
+            "brandName": "Millat",
+            "sellerId": "700508328898",
+            "mainSellerId": "",
+            "sellerName": "EasyTrading",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/485325bb988094999b36debf2cc8cf63.jpg",
+                    "productUrl": "/products/100-i180601549-s1121876200.html",
+                    "sku": "180601549_BD",
+                    "skuId": "1121876200"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                10002059
+            ],
+            "clickTrace": "query:;nid:180601549;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:180601549_BD;price:50.00;client:desktop;supplier_id:700508328898;asc_category_id:10002059;item_id:180601549;sku_id:1121876200;shop_id:146979",
+            "addToCartSkus": [
+                {
+                    "sku": "180601549_BD-1121876200",
+                    "skuId": "1121876200",
+                    "count": 0
+                }
+            ],
+            "itemId": "180601549",
+            "skuId": "1121876200",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Black Body Lotion Collagen & Charcoals Lotion-350ml",
+            "nid": "208540638",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "208540638",
+                "scene_pre": "search",
+                "current_price": "99.00",
+                "x_sku_ids": "1158796332",
+                "SN": "91383f06219e434fdc0053234a8b8a5b",
+                "x_ad": "1",
+                "x_object_id": "208540638"
+            },
+            "productUrl": "//www.daraz.com.bd/products/black-body-lotion-collagen-charcoals-lotion-350ml-i208540638-s1158796332.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/73a8a1267c389fca6472642d5cba1a4f.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "99.00",
+            "promotionId": "null",
+            "priceShow": "৳ 99",
+            "discount": "-78%",
+            "ratingScore": "4.78626",
+            "review": "131",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "208540638_BD-1158796332",
+            "sku": "208540638_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5012",
+            "mainSellerId": "",
+            "sellerName": "smart corporation",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/73a8a1267c389fca6472642d5cba1a4f.jpg",
+                    "productUrl": "/products/black-body-lotion-collagen-charcoals-lotion-350ml-i208540638-s1158796332.html",
+                    "sku": "208540638_BD",
+                    "skuId": "1158796332"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1439,
+                1478
+            ],
+            "clickTrace": "query:;nid:208540638;src:LazadaMainSrp;rn:91383f06219e434fdc0053234a8b8a5b;region:bd;sku:208540638_BD;price:99.00;client:desktop;supplier_id:5012;asc_category_id:1478;item_id:208540638;sku_id:1158796332;shop_id:5030",
+            "addToCartSkus": [
+                {
+                    "sku": "208540638_BD-1158796332",
+                    "skuId": "1158796332",
+                    "count": 0
+                }
+            ],
+            "itemId": "208540638",
+            "skuId": "1158796332",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/beauty-health/",
+            "title": "Health & Beauty"
+        },
+        {
+            "url": "/bath-body/",
+            "title": "Bath & Body"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/bath-body/?referer_rn=91383f06219e434fdc0053234a8b8a5b&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Ch3%3EExperience%20a%20Lovely%20%26amp%3B%20Beautiful%20Skin%20with%20Daraz.com.bd%26rsquo%3Bs%20Bath%20%26amp%3B%20Body%20Products%3C%2Fh3%3E%0A%0A%3Cp%3EYou%20deserve%20to%20have%20a%20smooth%20and%20elegant%20body.%20But%20it%20doesn%26rsquo%3Bt%20mean%20you%20should%20try%20out%20every%20product%20you%20can%20get%20your%20hands%20on!%20Our%20skin%2C%20no%20matter%20how%20tough%20it%20may%20appear%20from%20outer%20surface%2C%20is%20very%20sensitive%20to%20chemically-induced%20products.%20Incautious%20use%20of%20such%20products%20can%20seriously%20harm%20your%20skin.%20Want%20to%20keep%20the%20natural%20glow%20of%20your%20skin%20intact%3F%20Come%20straight%20to%20Daraz.%3C%2Fp%3E%0A%0A%3Cp%3E%26nbsp%3B%3C%2Fp%3E%0A%0A%3Cp%3EDaraz%20is%20the%20only%20best%20online%20store%20for%20you%20where%20you%20can%20get%20100%25%20reliable%20body%20products%20all%20under%20one%20roof.%20Want%20to%20fight%20off%20the%20Ultraviolet%20rays%20of%20Sunlight%3F%20Get%20the%20best%20%3Ca%20href%3D%22%2Fsun-care%2F%22%3ESunblockers%3C%2Fa%3E%20from%20top-class%20brands.%20Likewise%2C%20here%20you%20can%20also%20find%20top-class%20facial%20cleansers%2C%20oil-free%20facial%20lotion%2C%20shimmering%20lotion%2C%20facial%20scrub%2C%20face-life%20powder%2C%20and%20many%20more%20at%20fair%20prices.%20Looking%20for%20something%20for%20your%20bathing%20needs%3F%20Avail%20high-quality%20Spa%20lotions%2C%20shower%20gels%2C%20soaps%2C%20and%20more%20from%20renowned%20brands%20like%20Nu%20Skin%2C%20Lotus%20Herbals%2C%20The%20Body%20Shop%2C%20Clean%20%26amp%3B%20Clear%2C%20%3Ca%20href%3D%22%2Fbath-body%2Fl-oreal%2F%22%3EL%26%2339%3BOr%26eacute%3Bal%3C%2Fa%3E%2C%20Victoria%26rsquo%3Bs%20Secret%2C%20Derma%20V10%2C%20Olay%20and%20more.%3C%2Fp%3E%0A%0A%3Cp%3E%26nbsp%3B%3C%2Fp%3E%0A%0A%3Cp%3EWhenever%20you%20need%20and%20wherever%20you%20want%2C%20just%20order%20at%20Daraz.com.bd%20and%20get%20it%20delivered%20on%20time!%3C%2Fp%3E%0A%0A%3Cp%3EDo%20check%3A%20%3Ca%20href%3D%22%2Fsoybean-oil%2F%22%3ESoyabean%20Oil%3C%2Fa%3E%3C%2Fp%3E%0A"
+    },
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/soaps-wash/?item_id=197852516&from=onesearch_category_1439",
+                "name": "Body Soaps & Shower Gels",
+                "image": "//static-01.daraz.com.bd/p/584e0fecd4a6c751f40043a518677c10.jpg",
+                "id": "1471"
+            },
+            {
+                "url": "/body-lotion-butter/?item_id=226098475&from=onesearch_category_1439",
+                "name": "Body Moisturizers",
+                "image": "//static-01.daraz.com.bd/p/3417845032d23b10aa662c15ea9b3fd3.jpg",
+                "id": "1478"
+            },
+            {
+                "url": "/bath-body-accessories/?item_id=153178852&from=onesearch_category_1439",
+                "name": "Bath & Body Accessories",
+                "image": "//static-01.daraz.com.bd/p/4ead6b1b116dc605666ce19edc10d54f.jpg",
+                "id": "1440"
+            },
+            {
+                "url": "/hair-removal-tools/?item_id=128164934&from=onesearch_category_1439",
+                "name": "Hair Removal",
+                "image": "//static-01.daraz.com.bd/p/9e6f2e582354b9ecbb00f615d9476650.jpg",
+                "id": "1475"
+            },
+            {
+                "url": "/handwashes/?item_id=131428282&from=onesearch_category_1439",
+                "name": "Hand Washes",
+                "image": "//static-01.daraz.com.bd/p/8ddbefd250c9afd72c153be9786ea150.jpg",
+                "id": "10002192"
+            },
+            {
+                "url": "/body-wash-scrubs/?item_id=115732448&from=onesearch_category_1439",
+                "name": "Body Scrubs",
+                "image": "//static-01.daraz.com.bd/p/6bb41e6193b8fe79b741dd897a8c9b53.jpg",
+                "id": "1470"
+            },
+            {
+                "url": "/shop-hand-moisturizers-creams/?item_id=198147747&from=onesearch_category_1439",
+                "name": "Lotion, Cream and Scrubs",
+                "image": "//static-01.daraz.com.bd/p/caa1ec417f4c99d89e50f9196a9e6e1a.jpg",
+                "id": "10002193"
+            },
+            {
+                "url": "/foot-moisturizers-creams/?item_id=209665165&from=onesearch_category_1439",
+                "name": "Lotion, Cream and Scrubs",
+                "image": "//static-01.daraz.com.bd/p/af4574f83999672da97b9c61093b6c47.jpg",
+                "id": "10002196"
+            },
+            {
+                "url": "/sanitizers/?item_id=486774&from=onesearch_category_1439",
+                "name": "Hand Sanitizers",
+                "image": "//static-01.daraz.com.bd/p/700e89a819d135717ee62cb260a9cee9.jpg",
+                "id": "20000200"
+            },
+            {
+                "url": "/womans-hygiene-talcum-powder/?item_id=180601549&from=onesearch_category_1439",
+                "name": "Talcum Powder",
+                "image": "//static-01.daraz.com.bd/p/mdc/485325bb988094999b36debf2cc8cf63.jpg",
+                "id": "10002059"
+            },
+            {
+                "url": "/mens-sun-care/?item_id=207643266&from=onesearch_category_1439",
+                "name": "Sunscreen & After Sun",
+                "image": "//static-01.daraz.com.bd/p/f44301c6e1b5720656c103d4fd5c6081.jpg",
+                "id": "5245"
+            },
+            {
+                "url": "/foot-deodorants/?item_id=205875284&from=onesearch_category_1439",
+                "name": "Foot Deodorant",
+                "image": "//static-01.daraz.com.bd/p/941399addd0d80f6974448bfabf1a4cb.jpg",
+                "id": "10002195"
+            },
+            {
+                "url": "/bath-body-sets/?item_id=152986351&from=onesearch_category_1439",
+                "name": "Gifts & Value Sets",
+                "image": "//static-01.daraz.com.bd/p/c0261adb984f86f1942dc84661860bda.jpg",
+                "id": "1467"
+            },
+            {
+                "url": "/foot-masks/?item_id=190454660&from=onesearch_category_1439",
+                "name": "Foot Masks",
+                "image": "//static-01.daraz.com.bd/p/61d18b35f3d39d4598a320c0f45550f3.jpg",
+                "id": "10002197"
+            },
+            {
+                "url": "/hand-masks/?item_id=203880968&from=onesearch_category_1439",
+                "name": "Hand Masks",
+                "image": "//static-01.daraz.com.bd/p/e6baf85ee7d06a882fd56bd2006136e6.jpg",
+                "id": "10002194"
+            },
+            {
+                "url": "/tanning-oil/?item_id=163426870&from=onesearch_category_1439",
+                "name": "Tanning Oil & Self Tanners",
+                "image": "//static-01.daraz.com.bd/p/8aaf3a3a17de83c461421c4797121fcb.jpg",
+                "id": "10002191"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_1439"
+        },
+        "title": "",
+        "bizId": "onesearch_category_1439",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "54119 items found in {$0}",
+        "title": "Bath & Body",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Bath & Body"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Bath & Body",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "91383f06219e434fdc0053234a8b8a5b",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "1439",
+            "category": "1439"
+        },
+        "categoryRegionalKey": "080100000000",
+        "mainCategoryRegionalKey": "080000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "স্নান ও শারীরিক at Best Price | 20% Off on Daraz | Buy Online",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Health & Beauty,Bath & Body",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "080100000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=1439&_p_asc_cateid=1439",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "bath-body",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "91383f06219e434fdc0053234a8b8a5b",
+                "resultNr": 54119,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1159952951",
+                "1148191316",
+                "1080810042"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "1439",
+            "category": "1439"
+        }
+    }
+}

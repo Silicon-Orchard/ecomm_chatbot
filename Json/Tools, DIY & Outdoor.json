@@ -1,0 +1,3556 @@
+{
+    "listItems": [
+        {
+            "name": "Rat & Mouse Catching Trap",
+            "nid": "181060886",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "181060886",
+                "scene_pre": "search",
+                "current_price": "134",
+                "x_sku_ids": "1122549961",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "181060886"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i181060886-s1122549961.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/71e7ad19b32146144662064720c78a63.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "134",
+            "promotionId": "null",
+            "priceShow": "৳ 134",
+            "discount": "-46%",
+            "ratingScore": "4.70968",
+            "review": "93",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "181060886_BD-1122549961",
+            "sku": "181060886_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508262492",
+            "mainSellerId": "",
+            "sellerName": "Salman Store (TAN)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/71e7ad19b32146144662064720c78a63.jpg",
+                    "productUrl": "/products/-i181060886-s1122549961.html",
+                    "sku": "181060886_BD",
+                    "skuId": "1122549961"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000371,
+                10000728
+            ],
+            "clickTrace": "query:;nid:181060886;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:181060886_BD;price:134;client:desktop;supplier_id:700508262492;asc_category_id:10000728;item_id:181060886;sku_id:1122549961;shop_id:139520",
+            "addToCartSkus": [
+                {
+                    "sku": "181060886_BD-1122549961",
+                    "skuId": "1122549961",
+                    "count": 0
+                }
+            ],
+            "itemId": "181060886",
+            "skuId": "1122549961",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pink Dragon Fruit tree 1pich",
+            "nid": "207227379",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "207227379",
+                "scene_pre": "search",
+                "current_price": "55",
+                "x_sku_ids": "1156820275",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "207227379"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i207227379-s1156820275.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2792cd89ef0f7b882a9a862e3ee7eca3.png",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "55",
+            "promotionId": "null",
+            "priceShow": "৳ 55",
+            "discount": "-54%",
+            "ratingScore": "4.77228",
+            "review": "101",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "207227379_BD-1156820275",
+            "sku": "207227379_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507527127",
+            "mainSellerId": "",
+            "sellerName": "SRM SHOP (RAJ)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2792cd89ef0f7b882a9a862e3ee7eca3.png",
+                    "productUrl": "/products/1-i207227379-s1156820275.html",
+                    "sku": "207227379_BD",
+                    "skuId": "1156820275"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000371,
+                10000727
+            ],
+            "clickTrace": "query:;nid:207227379;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:207227379_BD;price:55;client:desktop;supplier_id:700507527127;asc_category_id:10000727;item_id:207227379;sku_id:1156820275;shop_id:95426",
+            "addToCartSkus": [
+                {
+                    "sku": "207227379_BD-1156820275",
+                    "skuId": "1156820275",
+                    "count": 0
+                }
+            ],
+            "itemId": "207227379",
+            "skuId": "1156820275",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Miraculan মিরাকুলান-৫০ মিলি(PGR)",
+            "nid": "162950093",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "162950093",
+                "scene_pre": "search",
+                "current_price": "50",
+                "x_sku_ids": "1095232109",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "162950093"
+            },
+            "productUrl": "//www.daraz.com.bd/products/miraculan-pgr-i162950093-s1095232109.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/811e7c28551453f888c198b2253b17b3.png",
+            "originalPrice": "54.00",
+            "originalPriceShow": "৳ 54",
+            "price": "50",
+            "promotionId": "null",
+            "priceShow": "৳ 50",
+            "discount": "-7%",
+            "ratingScore": "4.72083",
+            "review": "240",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "162950093_BD-1095232109",
+            "sku": "162950093_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506414166",
+            "mainSellerId": "",
+            "sellerName": "KHAN AGRO MARCHANT",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/811e7c28551453f888c198b2253b17b3.png",
+                    "productUrl": "/products/miraculan-pgr-i162950093-s1095232109.html",
+                    "sku": "162950093_BD",
+                    "skuId": "1095232109"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000371,
+                10000728
+            ],
+            "clickTrace": "query:;nid:162950093;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:162950093_BD;price:50;client:desktop;supplier_id:700506414166;asc_category_id:10000728;item_id:162950093;sku_id:1095232109;shop_id:75622",
+            "addToCartSkus": [
+                {
+                    "sku": "162950093_BD-1095232109",
+                    "skuId": "1095232109",
+                    "count": 0
+                }
+            ],
+            "itemId": "162950093",
+            "skuId": "1095232109",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "1 PCS Mouse Board Sticky Mice Glue Trap High Effective Rodent Rat Snake Bugs Catcher Pest Control Reject Non-toxic(ইঁদুর আঠালো ফাঁদ উচ্চ কার্যকর)",
+            "nid": "135060789",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "135060789",
+                "scene_pre": "search",
+                "current_price": "55",
+                "x_sku_ids": "1056966339",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "135060789"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i135060789-s1056966339.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f2ea723b4e947e1e4d65beca812302ee.jpg",
+            "originalPrice": "255.00",
+            "originalPriceShow": "৳ 255",
+            "price": "55",
+            "promotionId": "null",
+            "priceShow": "৳ 55",
+            "discount": "-78%",
+            "ratingScore": "4.63208",
+            "review": "106",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "135060789_BD-1056966339",
+            "sku": "135060789_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1044907",
+            "mainSellerId": "",
+            "sellerName": "Riyajul Mart (KHL)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f2ea723b4e947e1e4d65beca812302ee.jpg",
+                    "productUrl": "/products/1-i135060789-s1056966339.html",
+                    "sku": "135060789_BD",
+                    "skuId": "1056966339"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000371,
+                10000728
+            ],
+            "clickTrace": "query:;nid:135060789;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:135060789_BD;price:55;client:desktop;supplier_id:1044907;asc_category_id:10000728;item_id:135060789;sku_id:1056966339;shop_id:50533",
+            "addToCartSkus": [
+                {
+                    "sku": "135060789_BD-1056966339",
+                    "skuId": "1056966339",
+                    "count": 0
+                }
+            ],
+            "itemId": "135060789",
+            "skuId": "1056966339",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Charpoka / bug / Rat / Cockroach & Everything Pest Killer, Aluminium Phosphide Tablet (30 pcs), Fumigation Gass Tablet",
+            "nid": "195635461",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "195635461",
+                "scene_pre": "search",
+                "current_price": "171",
+                "x_sku_ids": "1141889983",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "195635461"
+            },
+            "productUrl": "//www.daraz.com.bd/products/30-i195635461-s1141889983.html?search=1",
+            "image": "https://bd-live-21.slatic.net/kf/S2017d88f137c4cf7b50e6c8183d78c193.jpg",
+            "originalPrice": "270.00",
+            "originalPriceShow": "৳ 270",
+            "price": "171",
+            "promotionId": "null",
+            "priceShow": "৳ 171",
+            "discount": "-37%",
+            "ratingScore": "4.44444",
+            "review": "9",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "195635461_BD-1141889983",
+            "sku": "195635461_BD",
+            "skus": [],
+            "description": [
+                "Product details of Aluminium Phosphide Tablet (30 pcs), Fumigation Tablet, , Charpoka / bug / Rat / Cockroach killer, Gass TabletAppearance:-Tablet Source:Organic Synthesis 100% killing Type: tablet 30 pcs"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508562007",
+            "mainSellerId": "",
+            "sellerName": "Paradise Shop BD",
+            "thumbs": [
+                {
+                    "image": "https://bd-live-21.slatic.net/kf/S2017d88f137c4cf7b50e6c8183d78c193.jpg",
+                    "productUrl": "/products/30-i195635461-s1141889983.html",
+                    "sku": "195635461_BD",
+                    "skuId": "1141889983"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000371,
+                10000728
+            ],
+            "clickTrace": "query:;nid:195635461;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:195635461_BD;price:171;client:desktop;supplier_id:700508562007;asc_category_id:10000728;item_id:195635461;sku_id:1141889983;shop_id:170204",
+            "addToCartSkus": [
+                {
+                    "sku": "195635461_BD-1141889983",
+                    "skuId": "1141889983",
+                    "count": 0
+                }
+            ],
+            "itemId": "195635461",
+            "skuId": "1141889983",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "ছারপোকার মারার ঔষধ, Indian Aluminum Phosphide Tablet (30 pcs), Fumigation Tablet, কীটনাশক, Charpoka / bug killer, তেলাপোকার সহ সকল পোকা মারার ঔষধ, গ্যাস ট্যাবলেট ( বিষ জাতীয়)",
+            "nid": "195175951",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "195175951",
+                "scene_pre": "search",
+                "current_price": "178",
+                "x_sku_ids": "1141505163",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "195175951"
+            },
+            "productUrl": "//www.daraz.com.bd/products/indian-aluminum-phosphide-tablet-30-pcs-fumigation-tablet-charpoka-bug-killer-i195175951-s1141505163.html?search=1",
+            "image": "https://bd-live-21.slatic.net/kf/Sce16fae0da2f43258938f90f47d085a2v.jpg",
+            "originalPrice": "280.00",
+            "originalPriceShow": "৳ 280",
+            "price": "178",
+            "promotionId": "null",
+            "priceShow": "৳ 178",
+            "discount": "-36%",
+            "ratingScore": "4.80952",
+            "review": "21",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "195175951_BD-1141505163",
+            "sku": "195175951_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508556393",
+            "mainSellerId": "",
+            "sellerName": "Mrittika Fashion House",
+            "thumbs": [
+                {
+                    "image": "https://bd-live-21.slatic.net/kf/Sce16fae0da2f43258938f90f47d085a2v.jpg",
+                    "productUrl": "/products/indian-aluminum-phosphide-tablet-30-pcs-fumigation-tablet-charpoka-bug-killer-i195175951-s1141505163.html",
+                    "sku": "195175951_BD",
+                    "skuId": "1141505163"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000371,
+                10000728
+            ],
+            "clickTrace": "query:;nid:195175951;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:195175951_BD;price:178;client:desktop;supplier_id:700508556393;asc_category_id:10000728;item_id:195175951;sku_id:1141505163;shop_id:170126",
+            "addToCartSkus": [
+                {
+                    "sku": "195175951_BD-1141505163",
+                    "skuId": "1141505163",
+                    "count": 0
+                }
+            ],
+            "itemId": "195175951",
+            "skuId": "1141505163",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "(1pc) China Rat Glue Trap",
+            "nid": "214228079",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "214228079",
+                "scene_pre": "search",
+                "current_price": "23",
+                "x_sku_ids": "1163259938",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "214228079"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i214228079-s1163259938.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f47d06ad4591bb9037b742123439595f.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "23",
+            "promotionId": "null",
+            "priceShow": "৳ 23",
+            "discount": "-81%",
+            "ratingScore": "4.46667",
+            "review": "45",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "214228079_BD-1163259938",
+            "sku": "214228079_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508388395",
+            "mainSellerId": "",
+            "sellerName": "Fair Bazaar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f47d06ad4591bb9037b742123439595f.jpg",
+                    "productUrl": "/products/-i214228079-s1163259938.html",
+                    "sku": "214228079_BD",
+                    "skuId": "1163259938"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000371,
+                10000728
+            ],
+            "clickTrace": "query:;nid:214228079;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:214228079_BD;price:23;client:desktop;supplier_id:700508388395;asc_category_id:10000728;item_id:214228079;sku_id:1163259938;shop_id:157300",
+            "addToCartSkus": [
+                {
+                    "sku": "214228079_BD-1163259938",
+                    "skuId": "1163259938",
+                    "count": 0
+                }
+            ],
+            "itemId": "214228079",
+            "skuId": "1163259938",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cockroach Killing Bait and killer",
+            "nid": "196831099",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "196831099",
+                "scene_pre": "search",
+                "current_price": "73",
+                "x_sku_ids": "1143355126",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "196831099"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i196831099-s1143355126.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/cae19a2597ddac74fc19c05ce4629be9.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "73",
+            "promotionId": "null",
+            "priceShow": "৳ 73",
+            "discount": "-51%",
+            "ratingScore": "4.53333",
+            "review": "30",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "196831099_BD-1143355126",
+            "sku": "196831099_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506138013",
+            "mainSellerId": "",
+            "sellerName": "One Ninety Nine",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cae19a2597ddac74fc19c05ce4629be9.jpg",
+                    "productUrl": "/products/-i196831099-s1143355126.html",
+                    "sku": "196831099_BD",
+                    "skuId": "1143355126"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000371,
+                10000728
+            ],
+            "clickTrace": "query:;nid:196831099;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:196831099_BD;price:73;client:desktop;supplier_id:700506138013;asc_category_id:10000728;item_id:196831099;sku_id:1143355126;shop_id:68788",
+            "addToCartSkus": [
+                {
+                    "sku": "196831099_BD-1143355126",
+                    "skuId": "1143355126",
+                    "count": 0
+                }
+            ],
+            "itemId": "196831099",
+            "skuId": "1143355126",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Paper Binding thread Tool - 1 pcs",
+            "nid": "119830669",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "119830669",
+                "scene_pre": "search",
+                "current_price": "6",
+                "x_sku_ids": "1039288485",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "119830669"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i119830669-s1039288485.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f90d4596577cbd97db9f0ab9b5f90024.jpg",
+            "originalPrice": "10.00",
+            "originalPriceShow": "৳ 10",
+            "price": "6",
+            "promotionId": "null",
+            "priceShow": "৳ 6",
+            "discount": "-40%",
+            "ratingScore": "4.63226",
+            "review": "155",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "119830669_BD-1039288485",
+            "sku": "119830669_BD",
+            "skus": [],
+            "description": [
+                "Product Type : binding thread",
+                "Sharp Head",
+                "Well Grip",
+                "Plastic Handle",
+                "Steel Body",
+                "1 pcs binding thread"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5283",
+            "mainSellerId": "",
+            "sellerName": "BOOK-BAZAR",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f90d4596577cbd97db9f0ab9b5f90024.jpg",
+                    "productUrl": "/products/1-i119830669-s1039288485.html",
+                    "sku": "119830669_BD",
+                    "skuId": "1039288485"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000357,
+                10000511
+            ],
+            "clickTrace": "query:;nid:119830669;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:119830669_BD;price:6;client:desktop;supplier_id:5283;asc_category_id:10000511;item_id:119830669;sku_id:1039288485;shop_id:5291",
+            "addToCartSkus": [
+                {
+                    "sku": "119830669_BD-1039288485",
+                    "skuId": "1039288485",
+                    "count": 0
+                }
+            ],
+            "itemId": "119830669",
+            "skuId": "1039288485",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ready Mix Garden Soil Premium Quality 5Kg Bag (For Any Plant)",
+            "nid": "130582101",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "130582101",
+                "scene_pre": "search",
+                "current_price": "102",
+                "x_sku_ids": "1050488741",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "130582101"
+            },
+            "productUrl": "//www.daraz.com.bd/products/5kg-i130582101-s1050488741.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0e52cc1ceb10e6c74068289a42952b33.jpg",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "102",
+            "promotionId": "null",
+            "priceShow": "৳ 102",
+            "discount": "-86%",
+            "ratingScore": "4.63226",
+            "review": "998",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "130582101_BD-1050488741",
+            "sku": "130582101_BD",
+            "skus": [],
+            "description": [
+                "100% Dry &amp; Dust",
+                "Premium Quality",
+                "Rifine in machine",
+                "suitable for any plant &amp; seed"
+            ],
+            "brandId": "123651841",
+            "brandName": "Shobuj Dhaka Garden Shop",
+            "sellerId": "700505118058",
+            "mainSellerId": "",
+            "sellerName": "AR Agro",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0e52cc1ceb10e6c74068289a42952b33.jpg",
+                    "productUrl": "/products/5kg-i130582101-s1050488741.html",
+                    "sku": "130582101_BD",
+                    "skuId": "1050488741"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000371,
+                10000723
+            ],
+            "clickTrace": "query:;nid:130582101;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:130582101_BD;price:102;client:desktop;supplier_id:700505118058;asc_category_id:10000723;item_id:130582101;sku_id:1050488741;shop_id:56994",
+            "addToCartSkus": [
+                {
+                    "sku": "130582101_BD-1050488741",
+                    "skuId": "1050488741",
+                    "count": 0
+                }
+            ],
+            "itemId": "130582101",
+            "skuId": "1050488741",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bone Meal Fertilizer for Gardening- 1Kg",
+            "nid": "131456124",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "131456124",
+                "scene_pre": "search",
+                "current_price": "52",
+                "x_sku_ids": "1051606311",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "131456124"
+            },
+            "productUrl": "//www.daraz.com.bd/products/bone-meal-1kg-i131456124-s1051606311.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/26c4d9bf3330a8c7a285f02113ea0eae.jpg",
+            "originalPrice": "60.00",
+            "originalPriceShow": "৳ 60",
+            "price": "52",
+            "promotionId": "null",
+            "priceShow": "৳ 52",
+            "discount": "-13%",
+            "ratingScore": "4.80478",
+            "review": "251",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "131456124_BD-1051606311",
+            "sku": "131456124_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504938155",
+            "mainSellerId": "",
+            "sellerName": "Garden BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/26c4d9bf3330a8c7a285f02113ea0eae.jpg",
+                    "productUrl": "/products/bone-meal-1kg-i131456124-s1051606311.html",
+                    "sku": "131456124_BD",
+                    "skuId": "1051606311"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000371,
+                10000723
+            ],
+            "clickTrace": "query:;nid:131456124;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:131456124_BD;price:52;client:desktop;supplier_id:700504938155;asc_category_id:10000723;item_id:131456124;sku_id:1051606311;shop_id:53046",
+            "addToCartSkus": [
+                {
+                    "sku": "131456124_BD-1051606311",
+                    "skuId": "1051606311",
+                    "count": 0
+                }
+            ],
+            "itemId": "131456124",
+            "skuId": "1051606311",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Burgler security alarm system for door window gate aaa battery  China imported by Trustee shop",
+            "nid": "199697553",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "199697553",
+                "scene_pre": "search",
+                "current_price": "137",
+                "x_sku_ids": "1146872820",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "199697553"
+            },
+            "productUrl": "//www.daraz.com.bd/products/burgler-aaa-i199697553-s1146872820.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/920bf4c69831ba4fd33cf3678cb09fcc.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "137",
+            "promotionId": "null",
+            "priceShow": "৳ 137",
+            "discount": "-61%",
+            "ratingScore": "4.54634",
+            "review": "205",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "199697553_BD-1146872820",
+            "sku": "199697553_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508319681",
+            "mainSellerId": "",
+            "sellerName": "Trustee Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/920bf4c69831ba4fd33cf3678cb09fcc.jpg",
+                    "productUrl": "/products/burgler-aaa-i199697553-s1146872820.html",
+                    "sku": "199697553_BD",
+                    "skuId": "1146872820"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000350,
+                10000470
+            ],
+            "clickTrace": "query:;nid:199697553;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:199697553_BD;price:137;client:desktop;supplier_id:700508319681;asc_category_id:10000470;item_id:199697553;sku_id:1146872820;shop_id:146173",
+            "addToCartSkus": [
+                {
+                    "sku": "199697553_BD-1146872820",
+                    "skuId": "1146872820",
+                    "count": 0
+                }
+            ],
+            "itemId": "199697553",
+            "skuId": "1146872820",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Digital Multimeter, Handheld Digital Multimeter LCD Backlight Portable AC/DC Ammeter Voltmeter Ohm Voltage Tester Meter Multimeter with Wire",
+            "nid": "147774757",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "147774757",
+                "scene_pre": "search",
+                "current_price": "175",
+                "x_sku_ids": "1073544328",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "147774757"
+            },
+            "productUrl": "//www.daraz.com.bd/products/led-acdc-i147774757-s1073544328.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/28bbd9f3748b3c13eee8ba49826ac317.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "175",
+            "promotionId": "null",
+            "priceShow": "৳ 175",
+            "discount": "-56%",
+            "ratingScore": "4.62914",
+            "review": "151",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "147774757_BD-1073544328",
+            "sku": "147774757_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507509329",
+            "mainSellerId": "",
+            "sellerName": "Family Bazar BD.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/28bbd9f3748b3c13eee8ba49826ac317.jpg",
+                    "productUrl": "/products/led-acdc-i147774757-s1073544328.html",
+                    "sku": "147774757_BD",
+                    "skuId": "1073544328"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000353,
+                10000487
+            ],
+            "clickTrace": "query:;nid:147774757;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:147774757_BD;price:175;client:desktop;supplier_id:700507509329;asc_category_id:10000487;item_id:147774757;sku_id:1073544328;shop_id:99182",
+            "addToCartSkus": [
+                {
+                    "sku": "147774757_BD-1073544328",
+                    "skuId": "1073544328",
+                    "count": 0
+                }
+            ],
+            "itemId": "147774757",
+            "skuId": "1073544328",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "New 8 in 1 Multi Size Screwdriver Set",
+            "nid": "200771173",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "200771173",
+                "scene_pre": "search",
+                "current_price": "120",
+                "x_sku_ids": "1147882960",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "200771173"
+            },
+            "productUrl": "//www.daraz.com.bd/products/8-1-i200771173-s1147882960.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3c0e25b1ff0bdfa53f292a55e43d3c8c.png",
+            "originalPrice": "480.00",
+            "originalPriceShow": "৳ 480",
+            "price": "120",
+            "promotionId": "null",
+            "priceShow": "৳ 120",
+            "discount": "-75%",
+            "ratingScore": "4.53968",
+            "review": "63",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "200771173_BD-1147882960",
+            "sku": "200771173_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508793517",
+            "mainSellerId": "",
+            "sellerName": "First Gallery",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3c0e25b1ff0bdfa53f292a55e43d3c8c.png",
+                    "productUrl": "/products/8-1-i200771173-s1147882960.html",
+                    "sku": "200771173_BD",
+                    "skuId": "1147882960"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000357,
+                10000499
+            ],
+            "clickTrace": "query:;nid:200771173;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:200771173_BD;price:120;client:desktop;supplier_id:700508793517;asc_category_id:10000499;item_id:200771173;sku_id:1147882960;shop_id:186234",
+            "addToCartSkus": [
+                {
+                    "sku": "200771173_BD-1147882960",
+                    "skuId": "1147882960",
+                    "count": 0
+                }
+            ],
+            "itemId": "200771173",
+            "skuId": "1147882960",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Rooting Hormone Powder (Re-Packed) 20gm",
+            "nid": "183965842",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183965842",
+                "scene_pre": "search",
+                "current_price": "37",
+                "x_sku_ids": "1128629351",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "183965842"
+            },
+            "productUrl": "//www.daraz.com.bd/products/20-i183965842-s1128629351.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/1ee5882271d2c23b315300aa3b96d9ce.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "37",
+            "promotionId": "null",
+            "priceShow": "৳ 37",
+            "discount": "-69%",
+            "ratingScore": "4.45161",
+            "review": "217",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183965842_BD-1128629351",
+            "sku": "183965842_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1038712",
+            "mainSellerId": "",
+            "sellerName": "Organic Seeds(CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/1ee5882271d2c23b315300aa3b96d9ce.jpg",
+                    "productUrl": "/products/20-i183965842-s1128629351.html",
+                    "sku": "183965842_BD",
+                    "skuId": "1128629351"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000371,
+                10000723
+            ],
+            "clickTrace": "query:;nid:183965842;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:183965842_BD;price:37;client:desktop;supplier_id:1038712;asc_category_id:10000723;item_id:183965842;sku_id:1128629351;shop_id:44525",
+            "addToCartSkus": [
+                {
+                    "sku": "183965842_BD-1128629351",
+                    "skuId": "1128629351",
+                    "count": 0
+                }
+            ],
+            "itemId": "183965842",
+            "skuId": "1128629351",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mancer 75wp Fungicide - 100 gm",
+            "nid": "183980201",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183980201",
+                "scene_pre": "search",
+                "current_price": "102",
+                "x_sku_ids": "1128625455",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "183980201"
+            },
+            "productUrl": "//www.daraz.com.bd/products/mancer-75wp-100-i183980201-s1128625455.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/0a73044f6d1d5f02e3b23bcc6beeddd0.jpg",
+            "originalPrice": "160.00",
+            "originalPriceShow": "৳ 160",
+            "price": "102",
+            "promotionId": "null",
+            "priceShow": "৳ 102",
+            "discount": "-36%",
+            "ratingScore": "4.8189",
+            "review": "127",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183980201_BD-1128625455",
+            "sku": "183980201_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1038712",
+            "mainSellerId": "",
+            "sellerName": "Organic Seeds(CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/0a73044f6d1d5f02e3b23bcc6beeddd0.jpg",
+                    "productUrl": "/products/mancer-75wp-100-i183980201-s1128625455.html",
+                    "sku": "183980201_BD",
+                    "skuId": "1128625455"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000371,
+                10000723
+            ],
+            "clickTrace": "query:;nid:183980201;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:183980201_BD;price:102;client:desktop;supplier_id:1038712;asc_category_id:10000723;item_id:183980201;sku_id:1128625455;shop_id:44525",
+            "addToCartSkus": [
+                {
+                    "sku": "183980201_BD-1128625455",
+                    "skuId": "1128625455",
+                    "count": 0
+                }
+            ],
+            "itemId": "183980201",
+            "skuId": "1128625455",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "40 in 1 Pieces Tool Kit and Screwdriver and Socket Set Automobile Tool Box Set",
+            "nid": "124971342",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "124971342",
+                "scene_pre": "search",
+                "current_price": "370",
+                "x_sku_ids": "1045178251",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "124971342"
+            },
+            "productUrl": "//www.daraz.com.bd/products/40-1-i124971342-s1045178251.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/a16570e4fffc147db9bd37688b5cf88d.jpg",
+            "originalPrice": "760.00",
+            "originalPriceShow": "৳ 760",
+            "price": "370",
+            "promotionId": "null",
+            "priceShow": "৳ 370",
+            "discount": "-51%",
+            "ratingScore": "4.53355",
+            "review": "313",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "124971342_BD-1045178251",
+            "sku": "124971342_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "24383",
+            "brandName": "Aiwa",
+            "sellerId": "1025571",
+            "mainSellerId": "",
+            "sellerName": "Sotota Enterprise",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/a16570e4fffc147db9bd37688b5cf88d.jpg",
+                    "productUrl": "/products/40-1-i124971342-s1045178251.html",
+                    "sku": "124971342_BD",
+                    "skuId": "1045178251"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000357,
+                10000501
+            ],
+            "clickTrace": "query:;nid:124971342;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:124971342_BD;price:370;client:desktop;supplier_id:1025571;asc_category_id:10000501;item_id:124971342;sku_id:1045178251;shop_id:31732",
+            "addToCartSkus": [
+                {
+                    "sku": "124971342_BD-1045178251",
+                    "skuId": "1045178251",
+                    "count": 0
+                }
+            ],
+            "itemId": "124971342",
+            "skuId": "1045178251",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Natural Neem Cake - 1 Kg",
+            "nid": "125315018",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "125315018",
+                "scene_pre": "search",
+                "current_price": "86",
+                "x_sku_ids": "1045470906",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "125315018"
+            },
+            "productUrl": "//www.daraz.com.bd/products/natural-neem-cake-i125315018-s1045470906.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4865b6e3e48be5fcf8fc7b43460c8120.jpg",
+            "originalPrice": "140.00",
+            "originalPriceShow": "৳ 140",
+            "price": "86",
+            "promotionId": "null",
+            "priceShow": "৳ 86",
+            "discount": "-39%",
+            "ratingScore": "4.76587",
+            "review": "504",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "125315018_BD-1045470906",
+            "sku": "125315018_BD",
+            "skus": [],
+            "description": [
+                "Neem khail improves the organic matter content of the soil. Improves soil texture, water holding capacity and soil aeration for good root development.",
+                "Has various pesticide and medicinal properties. It is used to control various types of pests.",
+                "Used as soil modification which enriches the soil and reduces nitrogen loss.",
+                "Neem khail is very effective in controlling root rot nematodes of garden or field crops, vegetables, flowering plants.",
+                "Works on the growth of tree roots",
+                "Safe for a variety of beneficial pollinators, bees, birds, cattle and humans.",
+                "It is made from completely natural ingredients. Nitrogen 2.0% to 5.0%, Phosphorus 0.5% to 1.0%, Potassium 1.0% to 2.0%, Calcium 0.5% to 3.0%, Magnesium 0.3% to 1.0%, Sulfur 0.2% to 3.0%, Zinc 15 ppm to 60 ppm, Copper 4 ppm to 20 ppm, iron 500 ppm to 1200 ppm, manganese 20 ppm to 60 ppm."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1025968",
+            "mainSellerId": "",
+            "sellerName": "Agroholic BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4865b6e3e48be5fcf8fc7b43460c8120.jpg",
+                    "productUrl": "/products/natural-neem-cake-i125315018-s1045470906.html",
+                    "sku": "125315018_BD",
+                    "skuId": "1045470906"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000371,
+                10000723
+            ],
+            "clickTrace": "query:;nid:125315018;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:125315018_BD;price:86;client:desktop;supplier_id:1025968;asc_category_id:10000723;item_id:125315018;sku_id:1045470906;shop_id:32125",
+            "addToCartSkus": [
+                {
+                    "sku": "125315018_BD-1045470906",
+                    "skuId": "1045470906",
+                    "count": 0
+                }
+            ],
+            "itemId": "125315018",
+            "skuId": "1045470906",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fire Stop, Fire Extinguisher , Fire Spray 500Ml",
+            "nid": "126401738",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "126401738",
+                "scene_pre": "search",
+                "current_price": "284",
+                "x_sku_ids": "1046494065",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "126401738"
+            },
+            "productUrl": "//www.daraz.com.bd/products/500ml-i126401738-s1046494065.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b3f9e8cbc8a55195c5232e42b3013473.jpg",
+            "originalPrice": "799.00",
+            "originalPriceShow": "৳ 799",
+            "price": "284",
+            "promotionId": "null",
+            "priceShow": "৳ 284",
+            "discount": "-64%",
+            "ratingScore": "4.88235",
+            "review": "17",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "126401738_BD-1046494065",
+            "sku": "126401738_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1042251",
+            "mainSellerId": "",
+            "sellerName": "DUBAI ElECTRONIC(CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b3f9e8cbc8a55195c5232e42b3013473.jpg",
+                    "productUrl": "/products/500ml-i126401738-s1046494065.html",
+                    "sku": "126401738_BD",
+                    "skuId": "1046494065"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000351,
+                10000472
+            ],
+            "clickTrace": "query:;nid:126401738;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:126401738_BD;price:284;client:desktop;supplier_id:1042251;asc_category_id:10000472;item_id:126401738;sku_id:1046494065;shop_id:47976",
+            "addToCartSkus": [
+                {
+                    "sku": "126401738_BD-1046494065",
+                    "skuId": "1046494065",
+                    "count": 0
+                }
+            ],
+            "itemId": "126401738",
+            "skuId": "1046494065",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "New 31 In 1 Screw Driver Set - Yellow",
+            "nid": "122746103",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "122746103",
+                "scene_pre": "search",
+                "current_price": "85",
+                "x_sku_ids": "1042781635",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "122746103"
+            },
+            "productUrl": "//www.daraz.com.bd/products/31-1-i122746103-s1042781635.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/454c7d8b8840e2598b79218fd07211c8.jpg",
+            "originalPrice": "325.00",
+            "originalPriceShow": "৳ 325",
+            "price": "85",
+            "promotionId": "null",
+            "priceShow": "৳ 85",
+            "discount": "-74%",
+            "ratingScore": "4.48087",
+            "review": "183",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "122746103_BD-1042781635",
+            "sku": "122746103_BD",
+            "skus": [],
+            "description": [
+                "31 in 1 Magnetic Screwdriver Set",
+                "Professional hardware tools",
+                "Comes with a plastic holder to place the screwdriver bits in it",
+                "Magnetic bits are easy & tight to adsorb into the handle",
+                "Handle with rubber wrap for comfortable grip",
+                "Sleek design"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1014694",
+            "mainSellerId": "",
+            "sellerName": "dr health SHOP",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/454c7d8b8840e2598b79218fd07211c8.jpg",
+                    "productUrl": "/products/31-1-i122746103-s1042781635.html",
+                    "sku": "122746103_BD",
+                    "skuId": "1042781635"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000357,
+                10000511
+            ],
+            "clickTrace": "query:;nid:122746103;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:122746103_BD;price:85;client:desktop;supplier_id:1014694;asc_category_id:10000511;item_id:122746103;sku_id:1042781635;shop_id:20970",
+            "addToCartSkus": [
+                {
+                    "sku": "122746103_BD-1042781635",
+                    "skuId": "1042781635",
+                    "count": 0
+                }
+            ],
+            "itemId": "122746103",
+            "skuId": "1042781635",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Plastic Flower Tob 3 Pcs Bundle Plastic Flower Tub Gardening Tob Plastic Planter/ Gardening tools 8\" inch",
+            "nid": "225162056",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225162056",
+                "scene_pre": "search",
+                "current_price": "63",
+                "x_sku_ids": "1170517287",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "225162056"
+            },
+            "productUrl": "//www.daraz.com.bd/products/plastic-flower-tob-3-pcs-bundle-plastic-flower-tub-gardening-tob-plastic-planter-gardening-tools-8-inch-i225162056-s1170517287.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/51ede40895dbbd3c27123391b0ae3b40.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "63",
+            "promotionId": "null",
+            "priceShow": "৳ 63",
+            "discount": "-58%",
+            "ratingScore": "4.67857",
+            "review": "56",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225162056_BD-1170517287",
+            "sku": "225162056_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1038712",
+            "mainSellerId": "",
+            "sellerName": "Organic Seeds(CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/51ede40895dbbd3c27123391b0ae3b40.jpg",
+                    "productUrl": "/products/plastic-flower-tob-3-pcs-bundle-plastic-flower-tub-gardening-tob-plastic-planter-gardening-tools-8-inch-i225162056-s1170517287.html",
+                    "sku": "225162056_BD",
+                    "skuId": "1170517287"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000371,
+                10000726
+            ],
+            "clickTrace": "query:;nid:225162056;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:225162056_BD;price:63;client:desktop;supplier_id:1038712;asc_category_id:10000726;item_id:225162056;sku_id:1170517287;shop_id:44525",
+            "addToCartSkus": [
+                {
+                    "sku": "225162056_BD-1170517287",
+                    "skuId": "1170517287",
+                    "count": 0
+                }
+            ],
+            "itemId": "225162056",
+            "skuId": "1170517287",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Door Gap Door bottom Seal Strip Dust Stopper Different sizes",
+            "nid": "186627881",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "186627881",
+                "scene_pre": "search",
+                "current_price": "210.00",
+                "x_sku_ids": "1179380718",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "186627881"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i186627881-s1179380718.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4487dcfcd43429ae6113c9966265a3ff.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "210.00",
+            "promotionId": "null",
+            "priceShow": "৳ 210",
+            "discount": "-30%",
+            "ratingScore": "4.57353",
+            "review": "136",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "186627881_BD-1179380718",
+            "sku": "186627881_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508364036",
+            "mainSellerId": "",
+            "sellerName": "Ayesha Trading",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4487dcfcd43429ae6113c9966265a3ff.jpg",
+                    "productUrl": "/products/-i186627881-s1179380718.html",
+                    "sku": "186627881_BD",
+                    "skuId": "1179380718"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/696cd497acdef4796475b320a8371cf3.jpg",
+                    "productUrl": "/products/-i186627881-s1133150287.html",
+                    "sku": "186627881_BD",
+                    "skuId": "1133150287"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000350,
+                10000467
+            ],
+            "clickTrace": "query:;nid:186627881;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:186627881_BD;price:210.00;client:desktop;supplier_id:700508364036;asc_category_id:10000467;item_id:186627881;sku_id:1179380718;shop_id:149826",
+            "addToCartSkus": [
+                {
+                    "sku": "186627881_BD-1179380718",
+                    "skuId": "1179380718",
+                    "count": 0
+                }
+            ],
+            "itemId": "186627881",
+            "skuId": "1179380718",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "32 In 1 Screwdriver Set Precision Mini Magnetic Screwdriver",
+            "nid": "182678059",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "182678059",
+                "scene_pre": "search",
+                "current_price": "162",
+                "x_sku_ids": "1126605310",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "182678059"
+            },
+            "productUrl": "//www.daraz.com.bd/products/32-1-i182678059-s1126605310.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/603047e2c9f1bc4e2c4317d4ce1551d1.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "162",
+            "promotionId": "null",
+            "priceShow": "৳ 162",
+            "discount": "-46%",
+            "ratingScore": "4.72414",
+            "review": "29",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "182678059_BD-1126605310",
+            "sku": "182678059_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1016124",
+            "mainSellerId": "",
+            "sellerName": "Switchgear",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/603047e2c9f1bc4e2c4317d4ce1551d1.jpg",
+                    "productUrl": "/products/32-1-i182678059-s1126605310.html",
+                    "sku": "182678059_BD",
+                    "skuId": "1126605310"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000357,
+                10000499
+            ],
+            "clickTrace": "query:;nid:182678059;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:182678059_BD;price:162;client:desktop;supplier_id:1016124;asc_category_id:10000499;item_id:182678059;sku_id:1126605310;shop_id:22351",
+            "addToCartSkus": [
+                {
+                    "sku": "182678059_BD-1126605310",
+                    "skuId": "1126605310",
+                    "count": 0
+                }
+            ],
+            "itemId": "182678059",
+            "skuId": "1126605310",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "XL6009 DC-DC Step Up Boost Module",
+            "nid": "109448240",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "109448240",
+                "scene_pre": "search",
+                "current_price": "85",
+                "x_sku_ids": "1025906241",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "109448240"
+            },
+            "productUrl": "//www.daraz.com.bd/products/xl6009-dc-dc-i109448240-s1025906241.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3dad75bacd2087488449c15210844173.jpg",
+            "originalPrice": "299.00",
+            "originalPriceShow": "৳ 299",
+            "price": "85",
+            "promotionId": "null",
+            "priceShow": "৳ 85",
+            "discount": "-72%",
+            "ratingScore": "4.51301",
+            "review": "269",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "109448240_BD-1025906241",
+            "sku": "109448240_BD",
+            "skus": [],
+            "description": [
+                "Rectification: Non-Synchronous Rectification",
+                "Input Range: 3V ~ 32V",
+                "Output Range: 5V ~ 35V",
+                "Input Current: 4A (max), no-load 18mA (5V input, 8V output, no-load is less than 18mA. Higher the voltage, the greater the load current.)",
+                "Conversion Efficiency: <94% (greater the pressure, the lower the efficiency)"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1005895",
+            "mainSellerId": "",
+            "sellerName": "Ready Electronics",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3dad75bacd2087488449c15210844173.jpg",
+                    "productUrl": "/products/xl6009-dc-dc-i109448240-s1025906241.html",
+                    "sku": "109448240_BD",
+                    "skuId": "1025906241"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000353,
+                10000487
+            ],
+            "clickTrace": "query:;nid:109448240;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:109448240_BD;price:85;client:desktop;supplier_id:1005895;asc_category_id:10000487;item_id:109448240;sku_id:1025906241;shop_id:12103",
+            "addToCartSkus": [
+                {
+                    "sku": "109448240_BD-1025906241",
+                    "skuId": "1025906241",
+                    "count": 0
+                }
+            ],
+            "itemId": "109448240",
+            "skuId": "1025906241",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Premium Quality River Sand for Plants - 5 kg",
+            "nid": "160798481",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "160798481",
+                "scene_pre": "search",
+                "current_price": "94",
+                "x_sku_ids": "1092676569",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "160798481"
+            },
+            "productUrl": "//www.daraz.com.bd/products/5-kg-i160798481-s1092676569.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/db85ca4fc2d8703cee03293a6d76ff12.jpg",
+            "originalPrice": "149.00",
+            "originalPriceShow": "৳ 149",
+            "price": "94",
+            "promotionId": "null",
+            "priceShow": "৳ 94",
+            "discount": "-37%",
+            "ratingScore": "4.89286",
+            "review": "84",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "160798481_BD-1092676569",
+            "sku": "160798481_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1025968",
+            "mainSellerId": "",
+            "sellerName": "Agroholic BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/db85ca4fc2d8703cee03293a6d76ff12.jpg",
+                    "productUrl": "/products/5-kg-i160798481-s1092676569.html",
+                    "sku": "160798481_BD",
+                    "skuId": "1092676569"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000371,
+                10000723
+            ],
+            "clickTrace": "query:;nid:160798481;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:160798481_BD;price:94;client:desktop;supplier_id:1025968;asc_category_id:10000723;item_id:160798481;sku_id:1092676569;shop_id:32125",
+            "addToCartSkus": [
+                {
+                    "sku": "160798481_BD-1092676569",
+                    "skuId": "1092676569",
+                    "count": 0
+                }
+            ],
+            "itemId": "160798481",
+            "skuId": "1092676569",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "16 in 1 Multi Function Bike , Bicycle, Mechanic Repair Tool Kit",
+            "nid": "164158886",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "164158886",
+                "scene_pre": "search",
+                "current_price": "119",
+                "x_sku_ids": "1096824623",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "164158886"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i164158886-s1096824623.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ba29c5a3fbb0190542365f9c720aa835.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "119",
+            "promotionId": "null",
+            "priceShow": "৳ 119",
+            "discount": "-52%",
+            "ratingScore": "4.71429",
+            "review": "42",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "164158886_BD-1096824623",
+            "sku": "164158886_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "191483",
+            "brandName": "Lady Gang",
+            "sellerId": "5604",
+            "mainSellerId": "",
+            "sellerName": "Lady Gang",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ba29c5a3fbb0190542365f9c720aa835.jpg",
+                    "productUrl": "/products/-i164158886-s1096824623.html",
+                    "sku": "164158886_BD",
+                    "skuId": "1096824623"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000357,
+                10000501
+            ],
+            "clickTrace": "query:;nid:164158886;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:164158886_BD;price:119;client:desktop;supplier_id:5604;asc_category_id:10000501;item_id:164158886;sku_id:1096824623;shop_id:5785",
+            "addToCartSkus": [
+                {
+                    "sku": "164158886_BD-1096824623",
+                    "skuId": "1096824623",
+                    "count": 0
+                }
+            ],
+            "itemId": "164158886",
+            "skuId": "1096824623",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "2L High Pressure Bottle Water Sprayer And Large 3pcs garden tools (8''-10'') - 2 Liter",
+            "nid": "157136604",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "157136604",
+                "scene_pre": "search",
+                "current_price": "395.00",
+                "x_sku_ids": "1180927872",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "157136604"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2l-high-pressure-bottle-water-sprayer-and-large-3pcs-garden-tools-8-10-2-liter-i157136604-s1180927872.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/08b923d33f7d29119a2365c193fad575.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "395.00",
+            "promotionId": "null",
+            "priceShow": "৳ 395",
+            "discount": "-39%",
+            "ratingScore": "4.7546",
+            "review": "163",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "157136604_BD-1180927872",
+            "sku": "157136604_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1021801",
+            "mainSellerId": "",
+            "sellerName": "Best Bazer",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/08b923d33f7d29119a2365c193fad575.jpg",
+                    "productUrl": "/products/2l-high-pressure-bottle-water-sprayer-and-large-3pcs-garden-tools-8-10-2-liter-i157136604-s1180927872.html",
+                    "sku": "157136604_BD",
+                    "skuId": "1180927872"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000371,
+                10000721
+            ],
+            "clickTrace": "query:;nid:157136604;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:157136604_BD;price:395.00;client:desktop;supplier_id:1021801;asc_category_id:10000721;item_id:157136604;sku_id:1180927872;shop_id:28022",
+            "addToCartSkus": [
+                {
+                    "sku": "157136604_BD-1180927872",
+                    "skuId": "1180927872",
+                    "count": 0
+                }
+            ],
+            "itemId": "157136604",
+            "skuId": "1180927872",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "TDS-3 Portable Digital TDS Meter for Water Purity Tester",
+            "nid": "121708296",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "121708296",
+                "scene_pre": "search",
+                "current_price": "225",
+                "x_sku_ids": "1041541078",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "121708296"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tds-3-tds-i121708296-s1041541078.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/dccb5c050208c808b0d51af7110530ae.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "225",
+            "promotionId": "null",
+            "priceShow": "৳ 225",
+            "discount": "-36%",
+            "ratingScore": "4.75",
+            "review": "236",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "121708296_BD-1041541078",
+            "sku": "121708296_BD",
+            "skus": [],
+            "description": [
+                "TDS-3 Portable Pen Digital TDS Meter",
+                "Filter Measuring Water",
+                "High-Quality Purity Tester-White",
+                "Best Quality TDS Meter at Lowest Price"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1028100",
+            "mainSellerId": "",
+            "sellerName": "Labtex Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/dccb5c050208c808b0d51af7110530ae.jpg",
+                    "productUrl": "/products/tds-3-tds-i121708296-s1041541078.html",
+                    "sku": "121708296_BD",
+                    "skuId": "1041541078"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000356
+            ],
+            "clickTrace": "query:;nid:121708296;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:121708296_BD;price:225;client:desktop;supplier_id:1028100;asc_category_id:10000356;item_id:121708296;sku_id:1041541078;shop_id:34204",
+            "addToCartSkus": [
+                {
+                    "sku": "121708296_BD-1041541078",
+                    "skuId": "1041541078",
+                    "count": 0
+                }
+            ],
+            "itemId": "121708296",
+            "skuId": "1041541078",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "16 in 1 Mechanical hand Tool Multi Tool Kit Hex Key Wrench & Screwdriver",
+            "nid": "223924949",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223924949",
+                "scene_pre": "search",
+                "current_price": "120",
+                "x_sku_ids": "1169766436",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "223924949"
+            },
+            "productUrl": "//www.daraz.com.bd/products/16-1-i223924949-s1169766436.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ad245a1060819679a468c9248b66fb28.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "120",
+            "promotionId": "null",
+            "priceShow": "৳ 120",
+            "discount": "-60%",
+            "ratingScore": "4.69231",
+            "review": "13",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223924949_BD-1169766436",
+            "sku": "223924949_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1012413",
+            "mainSellerId": "",
+            "sellerName": "CRAZY DEAL BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ad245a1060819679a468c9248b66fb28.jpg",
+                    "productUrl": "/products/16-1-i223924949-s1169766436.html",
+                    "sku": "223924949_BD",
+                    "skuId": "1169766436"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000357,
+                10000507
+            ],
+            "clickTrace": "query:;nid:223924949;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:223924949_BD;price:120;client:desktop;supplier_id:1012413;asc_category_id:10000507;item_id:223924949;sku_id:1169766436;shop_id:18507",
+            "addToCartSkus": [
+                {
+                    "sku": "223924949_BD-1169766436",
+                    "skuId": "1169766436",
+                    "count": 0
+                }
+            ],
+            "itemId": "223924949",
+            "skuId": "1169766436",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "ACI Epsom Salt (Magnesium Sulphate) - 1 kg",
+            "nid": "208768611",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "208768611",
+                "scene_pre": "search",
+                "current_price": "58",
+                "x_sku_ids": "1158952934",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "208768611"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-kg-i208768611-s1158952934.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d188ac5eeb4b997b01c6a52c3235600a.jpg",
+            "originalPrice": "82.00",
+            "originalPriceShow": "৳ 82",
+            "price": "58",
+            "promotionId": "null",
+            "priceShow": "৳ 58",
+            "discount": "-29%",
+            "ratingScore": "5",
+            "review": "26",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "208768611_BD-1158952934",
+            "sku": "208768611_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508787868",
+            "mainSellerId": "",
+            "sellerName": "Fresh Field (RAJ)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d188ac5eeb4b997b01c6a52c3235600a.jpg",
+                    "productUrl": "/products/1-kg-i208768611-s1158952934.html",
+                    "sku": "208768611_BD",
+                    "skuId": "1158952934"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000371,
+                10000723
+            ],
+            "clickTrace": "query:;nid:208768611;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:208768611_BD;price:58;client:desktop;supplier_id:700508787868;asc_category_id:10000723;item_id:208768611;sku_id:1158952934;shop_id:187226",
+            "addToCartSkus": [
+                {
+                    "sku": "208768611_BD-1158952934",
+                    "skuId": "1158952934",
+                    "count": 0
+                }
+            ],
+            "itemId": "208768611",
+            "skuId": "1158952934",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nylon Rubber coated Safety Hand Gloves for Industrial , Household, Bike Riding Hand Gloves (1 Pair)",
+            "nid": "215242709",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "215242709",
+                "scene_pre": "search",
+                "current_price": "48",
+                "x_sku_ids": "1163836992",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "215242709"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i215242709-s1163836992.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ee70f066c76afe89a2c6bac34a78836c.jpg",
+            "originalPrice": "50.00",
+            "originalPriceShow": "৳ 50",
+            "price": "48",
+            "promotionId": "null",
+            "priceShow": "৳ 48",
+            "discount": "-4%",
+            "ratingScore": "4.80952",
+            "review": "63",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "215242709_BD-1163836992",
+            "sku": "215242709_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509432092",
+            "mainSellerId": "",
+            "sellerName": "Daily Tools and Accessories",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ee70f066c76afe89a2c6bac34a78836c.jpg",
+                    "productUrl": "/products/-i215242709-s1163836992.html",
+                    "sku": "215242709_BD",
+                    "skuId": "1163836992"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000349,
+                10000460
+            ],
+            "clickTrace": "query:;nid:215242709;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:215242709_BD;price:48;client:desktop;supplier_id:700509432092;asc_category_id:10000460;item_id:215242709;sku_id:1163836992;shop_id:213318",
+            "addToCartSkus": [
+                {
+                    "sku": "215242709_BD-1163836992",
+                    "title": "Int: One size",
+                    "skuId": "1163836992",
+                    "count": 0
+                }
+            ],
+            "itemId": "215242709",
+            "skuId": "1163836992",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Scotch Tape Transparent -1Pieces",
+            "nid": "156884681",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "156884681",
+                "scene_pre": "search",
+                "current_price": "5",
+                "x_sku_ids": "1086884967",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "156884681"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i156884681-s1086884967.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d2a4ecd047551672a5460f3d33f56df2.jpg",
+            "originalPrice": "20.00",
+            "originalPriceShow": "৳ 20",
+            "price": "5",
+            "promotionId": "null",
+            "priceShow": "৳ 5",
+            "discount": "-75%",
+            "ratingScore": "4.5",
+            "review": "20",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "156884681_BD-1086884967",
+            "sku": "156884681_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507779285",
+            "mainSellerId": "",
+            "sellerName": "IDEAL CORPORATION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d2a4ecd047551672a5460f3d33f56df2.jpg",
+                    "productUrl": "/products/1-i156884681-s1086884967.html",
+                    "sku": "156884681_BD",
+                    "skuId": "1086884967"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000347,
+                10000478
+            ],
+            "clickTrace": "query:;nid:156884681;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:156884681_BD;price:5;client:desktop;supplier_id:700507779285;asc_category_id:10000478;item_id:156884681;sku_id:1086884967;shop_id:112427",
+            "addToCartSkus": [
+                {
+                    "sku": "156884681_BD-1086884967",
+                    "skuId": "1086884967",
+                    "count": 0
+                }
+            ],
+            "itemId": "156884681",
+            "skuId": "1086884967",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Inch tape Sewing Tailor Tape Measurement Ruler Sewing Tailor Soft Tape Flat Sewing Ruler 60 inch/150 CM scale tape contractor tape maper fita teilari fita tailor fita-1 pcs",
+            "nid": "208110156",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "208110156",
+                "scene_pre": "search",
+                "current_price": "18.00",
+                "x_sku_ids": "1158152250",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "208110156"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i208110156-s1158152250.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/51302f6ea60eac4ffa05a55301d518f2.jpg",
+            "originalPrice": "30.00",
+            "originalPriceShow": "৳ 30",
+            "price": "18.00",
+            "promotionId": "null",
+            "priceShow": "৳ 18",
+            "discount": "-40%",
+            "ratingScore": "4.67647",
+            "review": "68",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "208110156_BD-1158152250",
+            "sku": "208110156_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508907068",
+            "mainSellerId": "",
+            "sellerName": "Takbir Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/51302f6ea60eac4ffa05a55301d518f2.jpg",
+                    "productUrl": "/products/-i208110156-s1158152250.html",
+                    "sku": "208110156_BD",
+                    "skuId": "1158152250"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000356
+            ],
+            "clickTrace": "query:;nid:208110156;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:208110156_BD;price:18.00;client:desktop;supplier_id:700508907068;asc_category_id:10000356;item_id:208110156;sku_id:1158152250;shop_id:201445",
+            "addToCartSkus": [
+                {
+                    "sku": "208110156_BD-1158152250",
+                    "skuId": "1158152250",
+                    "count": 0
+                }
+            ],
+            "itemId": "208110156",
+            "skuId": "1158152250",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "1000ml fire extinguisher for multipurpose use",
+            "nid": "222632735",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "222632735",
+                "scene_pre": "search",
+                "current_price": "604",
+                "x_sku_ids": "1168989960",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "222632735"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1000ml-i222632735-s1168989960.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/64735d93fd14d049c56fe400d1c5cb7d.jpg",
+            "originalPrice": "1250.00",
+            "originalPriceShow": "৳ 1,250",
+            "price": "604",
+            "promotionId": "null",
+            "priceShow": "৳ 604",
+            "discount": "-52%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "222632735_BD-1168989960",
+            "sku": "222632735_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4188",
+            "mainSellerId": "",
+            "sellerName": "Srishty\"s Collections",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/64735d93fd14d049c56fe400d1c5cb7d.jpg",
+                    "productUrl": "/products/1000ml-i222632735-s1168989960.html",
+                    "sku": "222632735_BD",
+                    "skuId": "1168989960"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000351,
+                10000472
+            ],
+            "clickTrace": "query:;nid:222632735;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:222632735_BD;price:604;client:desktop;supplier_id:4188;asc_category_id:10000472;item_id:222632735;sku_id:1168989960;shop_id:1277",
+            "addToCartSkus": [
+                {
+                    "sku": "222632735_BD-1168989960",
+                    "skuId": "1168989960",
+                    "count": 0
+                }
+            ],
+            "itemId": "222632735",
+            "skuId": "1168989960",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Both Sided Gum Tape - 0.5inch - White",
+            "nid": "114118304",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "114118304",
+                "scene_pre": "search",
+                "current_price": "12",
+                "x_sku_ids": "1031594572",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "114118304"
+            },
+            "productUrl": "//www.daraz.com.bd/products/05-i114118304-s1031594572.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/c65a202745b0dacb24b6bbcff9552d1b.jpg",
+            "originalPrice": "13.00",
+            "originalPriceShow": "৳ 13",
+            "price": "12",
+            "promotionId": "null",
+            "priceShow": "৳ 12",
+            "discount": "-8%",
+            "ratingScore": "4.68063",
+            "review": "191",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "114118304_BD-1031594572",
+            "sku": "114118304_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Both Sided Tape",
+                "Diameter: 0.5inch",
+                "Plastic or Paper Liner",
+                "Very High Bonding",
+                "Suitable for Almost All Surfaces Mounting"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5283",
+            "mainSellerId": "",
+            "sellerName": "BOOK-BAZAR",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/c65a202745b0dacb24b6bbcff9552d1b.jpg",
+                    "productUrl": "/products/05-i114118304-s1031594572.html",
+                    "sku": "114118304_BD",
+                    "skuId": "1031594572"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000347,
+                10000478
+            ],
+            "clickTrace": "query:;nid:114118304;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:114118304_BD;price:12;client:desktop;supplier_id:5283;asc_category_id:10000478;item_id:114118304;sku_id:1031594572;shop_id:5291",
+            "addToCartSkus": [
+                {
+                    "sku": "114118304_BD-1031594572",
+                    "skuId": "1031594572",
+                    "count": 0
+                }
+            ],
+            "itemId": "114118304",
+            "skuId": "1031594572",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "4 inch Cable Ties  (3*100mm) 100 Pcs Zip Wraps Strap Nylon Fastening Ring Loop Wire industrial Cable Tie",
+            "nid": "190089993",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "190089993",
+                "scene_pre": "search",
+                "current_price": "23",
+                "x_sku_ids": "1137558397",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "190089993"
+            },
+            "productUrl": "//www.daraz.com.bd/products/4-3100mm-i190089993-s1137558397.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8901c8a382b699cc6859c00821c2846b.jpg",
+            "originalPrice": "25.00",
+            "originalPriceShow": "৳ 25",
+            "price": "23",
+            "promotionId": "null",
+            "priceShow": "৳ 23",
+            "discount": "-8%",
+            "ratingScore": "4.7337",
+            "review": "552",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "190089993_BD-1137558397",
+            "sku": "190089993_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506651051",
+            "mainSellerId": "",
+            "sellerName": "Dunia BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8901c8a382b699cc6859c00821c2846b.jpg",
+                    "productUrl": "/products/4-3100mm-i190089993-s1137558397.html",
+                    "sku": "190089993_BD",
+                    "skuId": "1137558397"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000353,
+                10000485
+            ],
+            "clickTrace": "query:;nid:190089993;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:190089993_BD;price:23;client:desktop;supplier_id:700506651051;asc_category_id:10000485;item_id:190089993;sku_id:1137558397;shop_id:82275",
+            "addToCartSkus": [
+                {
+                    "sku": "190089993_BD-1137558397",
+                    "skuId": "1137558397",
+                    "count": 0
+                }
+            ],
+            "itemId": "190089993",
+            "skuId": "1137558397",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bir Pruning Shear 8\", Garden scissors, Garden Pruner.",
+            "nid": "185591204",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "185591204",
+                "scene_pre": "search",
+                "current_price": "275.00",
+                "x_sku_ids": "1131293787",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "185591204"
+            },
+            "productUrl": "//www.daraz.com.bd/products/bir-8-i185591204-s1131293787.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6c789b1fe80234a034e857b31c779407.png",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "275.00",
+            "promotionId": "null",
+            "priceShow": "৳ 275",
+            "discount": "-21%",
+            "ratingScore": "4.80412",
+            "review": "97",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "185591204_BD-1131293787",
+            "sku": "185591204_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508451067",
+            "mainSellerId": "",
+            "sellerName": "Kashbon 88",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6c789b1fe80234a034e857b31c779407.png",
+                    "productUrl": "/products/bir-8-i185591204-s1131293787.html",
+                    "sku": "185591204_BD",
+                    "skuId": "1131293787"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000371,
+                10000721
+            ],
+            "clickTrace": "query:;nid:185591204;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:185591204_BD;price:275.00;client:desktop;supplier_id:700508451067;asc_category_id:10000721;item_id:185591204;sku_id:1131293787;shop_id:160973",
+            "addToCartSkus": [
+                {
+                    "sku": "185591204_BD-1131293787",
+                    "skuId": "1131293787",
+                    "count": 0
+                }
+            ],
+            "itemId": "185591204",
+            "skuId": "1131293787",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Safety pins  12 pcs",
+            "nid": "147068504",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "147068504",
+                "scene_pre": "search",
+                "current_price": "10.00",
+                "x_sku_ids": "1072714316",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "147068504"
+            },
+            "productUrl": "//www.daraz.com.bd/products/12-i147068504-s1072714316.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9068aa311dc2ba5c8f1bafbe5ec16a14.jpg",
+            "originalPrice": "20.00",
+            "originalPriceShow": "৳ 20",
+            "price": "10.00",
+            "promotionId": "null",
+            "priceShow": "৳ 10",
+            "discount": "-50%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "147068504_BD-1072714316",
+            "sku": "147068504_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "6185",
+            "mainSellerId": "",
+            "sellerName": "Ideal Product",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9068aa311dc2ba5c8f1bafbe5ec16a14.jpg",
+                    "productUrl": "/products/12-i147068504-s1072714316.html",
+                    "sku": "147068504_BD",
+                    "skuId": "1072714316"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000349,
+                10000466
+            ],
+            "clickTrace": "query:;nid:147068504;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:147068504_BD;price:10.00;client:desktop;supplier_id:6185;asc_category_id:10000466;item_id:147068504;sku_id:1072714316;shop_id:6308",
+            "addToCartSkus": [
+                {
+                    "sku": "147068504_BD-1072714316",
+                    "skuId": "1072714316",
+                    "count": 0
+                }
+            ],
+            "itemId": "147068504",
+            "skuId": "1072714316",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "5pes Clip For Face Mask Anti- Slip Mask Ear Protector",
+            "nid": "161124288",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "161124288",
+                "scene_pre": "search",
+                "current_price": "28",
+                "x_sku_ids": "1093024298",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "161124288"
+            },
+            "productUrl": "//www.daraz.com.bd/products/5-i161124288-s1093024298.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/66c42660760e7cf412d8b852d7016f34.jpg",
+            "originalPrice": "75.00",
+            "originalPriceShow": "৳ 75",
+            "price": "28",
+            "promotionId": "null",
+            "priceShow": "৳ 28",
+            "discount": "-63%",
+            "ratingScore": "4.52273",
+            "review": "88",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "161124288_BD-1093024298",
+            "sku": "161124288_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507104002",
+            "mainSellerId": "",
+            "sellerName": "AYSHA TRADERS",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/66c42660760e7cf412d8b852d7016f34.jpg",
+                    "productUrl": "/products/5-i161124288-s1093024298.html",
+                    "sku": "161124288_BD",
+                    "skuId": "1093024298"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000349,
+                10000454
+            ],
+            "clickTrace": "query:;nid:161124288;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:161124288_BD;price:28;client:desktop;supplier_id:700507104002;asc_category_id:10000454;item_id:161124288;sku_id:1093024298;shop_id:88056",
+            "addToCartSkus": [
+                {
+                    "sku": "161124288_BD-1093024298",
+                    "skuId": "1093024298",
+                    "count": 0
+                }
+            ],
+            "itemId": "161124288",
+            "skuId": "1093024298",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Single Gang PVC Back Box For Gang Switch, Gang Socket",
+            "nid": "153848622",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "153848622",
+                "scene_pre": "search",
+                "current_price": "21",
+                "x_sku_ids": "1082656410",
+                "SN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "x_ad": "1",
+                "x_object_id": "153848622"
+            },
+            "productUrl": "//www.daraz.com.bd/products/single-gang-pvc-back-box-for-gang-switch-gang-socket-i153848622-s1082656410.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/8587a5a36b3663c2ef2d182fa7598df8.jpg",
+            "originalPrice": "35.00",
+            "originalPriceShow": "৳ 35",
+            "price": "21",
+            "promotionId": "null",
+            "priceShow": "৳ 21",
+            "discount": "-40%",
+            "ratingScore": "4.83784",
+            "review": "296",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "153848622_BD-1082656410",
+            "sku": "153848622_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1001194",
+            "mainSellerId": "",
+            "sellerName": "Power Motors",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/8587a5a36b3663c2ef2d182fa7598df8.jpg",
+                    "productUrl": "/products/single-gang-pvc-back-box-for-gang-switch-gang-socket-i153848622-s1082656410.html",
+                    "sku": "153848622_BD",
+                    "skuId": "1082656410"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000337,
+                10000353,
+                10000486
+            ],
+            "clickTrace": "query:;nid:153848622;src:LazadaMainSrp;rn:1ffa4b9bdd1e9e2c44b0d34c8f7970ca;region:bd;sku:153848622_BD;price:21;client:desktop;supplier_id:1001194;asc_category_id:10000486;item_id:153848622;sku_id:1082656410;shop_id:7399",
+            "addToCartSkus": [
+                {
+                    "sku": "153848622_BD-1082656410",
+                    "skuId": "1082656410",
+                    "count": 0
+                }
+            ],
+            "itemId": "153848622",
+            "skuId": "1082656410",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/home-improvement/",
+            "title": "Tools, DIY & Outdoor"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/home-improvement/?referer_rn=1ffa4b9bdd1e9e2c44b0d34c8f7970ca&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {},
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/plants-seeds/?item_id=167260721&from=onesearch_category_10000337",
+                "name": "Plants, Seeds & Trees",
+                "image": "//static-01.daraz.com.bd/p/c132c73afde8078cc36d4d0a4b5f5e9d.jpg",
+                "id": "10000727"
+            },
+            {
+                "url": "/hand-tools-repairs/?item_id=122391037&from=onesearch_category_10000337",
+                "name": "Hand Tool Parts & Accessories",
+                "image": "//static-01.daraz.com.bd/p/mdc/2fee1e90c5982dd412b5312cbbc447a7.jpg",
+                "id": "10000511"
+            },
+            {
+                "url": "/electrical-batteries/?item_id=132812722&from=onesearch_category_10000337",
+                "name": "Batteries",
+                "image": "//static-01.daraz.com.bd/p/546a6b5755a555aaf22a1887b2f48cdd.jpg",
+                "id": "10000488"
+            },
+            {
+                "url": "/electrical-tools/?item_id=191902032&from=onesearch_category_10000337",
+                "name": "Electrical Trade Tools & Testers",
+                "image": "//static-01.daraz.com.bd/p/34a68e22c36bc0964f2eb00a9331cce9.jpg",
+                "id": "10000487"
+            },
+            {
+                "url": "/electrical-circuitry/?item_id=185918774&from=onesearch_category_10000337",
+                "name": "Electrical Circuitry & Parts",
+                "image": "//static-01.daraz.com.bd/p/24d8eef0cd6c8ee03b2b6381f8309eeb.jpg",
+                "id": "10000489"
+            },
+            {
+                "url": "/electrical-extension-board/?item_id=190089993&from=onesearch_category_10000337",
+                "name": "Cables, Leads & Adapters",
+                "image": "//static-01.daraz.com.bd/p/8901c8a382b699cc6859c00821c2846b.jpg",
+                "id": "10000485"
+            },
+            {
+                "url": "/powerpoints-switches-savers/?item_id=145332381&from=onesearch_category_10000337",
+                "name": "Powerpoints, Switches & Savers",
+                "image": "//static-01.daraz.com.bd/p/8fb1b8fe80444807ac8fd28dda49b142.jpg",
+                "id": "10000486"
+            },
+            {
+                "url": "/soils-fertilisers-mulches/?item_id=183965842&from=onesearch_category_10000337",
+                "name": "Garden Soil & Fertilizers",
+                "image": "//static-01.daraz.com.bd/p/mdc/1ee5882271d2c23b315300aa3b96d9ce.jpg",
+                "id": "10000723"
+            },
+            {
+                "url": "/insect-killers/?item_id=226497416&from=onesearch_category_10000337",
+                "name": "Electric Insect Killers",
+                "image": "//static-01.daraz.com.bd/p/198287ba0a24718d1df4c22994624acb.jpg",
+                "id": "10000637"
+            },
+            {
+                "url": "/pots-planters-urns/?item_id=185003380&from=onesearch_category_10000337",
+                "name": "Pots, Planters & Urns",
+                "image": "//static-01.daraz.com.bd/p/986d66a01524f00f04d2f28f8d9bd1c4.jpg",
+                "id": "10000726"
+            },
+            {
+                "url": "/door-hardware/?item_id=186377488&from=onesearch_category_10000337",
+                "name": "Door hardware & locks",
+                "image": "//static-01.daraz.com.bd/p/mdc/ef4b3d2cd846cd7008ca906bf8f375c5.jpg",
+                "id": "10000467"
+            },
+            {
+                "url": "/watering-systems/?item_id=200145122&from=onesearch_category_10000337",
+                "name": "Watering Systems & Garden Hoses",
+                "image": "//static-01.daraz.com.bd/p/080b6e56ba608e27e4ac7ab010429f30.jpg",
+                "id": "10000722"
+            },
+            {
+                "url": "/adhesives-tape/?item_id=181662463&from=onesearch_category_10000337",
+                "name": "Adhesives & Tape",
+                "image": "//static-01.daraz.com.bd/p/mdc/fb5c2ccaf0284175ec14d45a5e0a8078.jpg",
+                "id": "10000478"
+            },
+            {
+                "url": "/gardening-tools/?item_id=176320124&from=onesearch_category_10000337",
+                "name": "Gardening Tools",
+                "image": "//static-01.daraz.com.bd/p/311180e6f6f9c0379a5aed641163ec4e.jpg",
+                "id": "10000721"
+            },
+            {
+                "url": "/power-drills/?item_id=187958657&from=onesearch_category_10000337",
+                "name": "Drills & Drivers",
+                "image": "//static-01.daraz.com.bd/p/f0c644677cffa4b7e1e3b61e6d061ddc.jpg",
+                "id": "10000517"
+            },
+            {
+                "url": "/picture-hangers/?item_id=211447204&from=onesearch_category_10000337",
+                "name": "Picture Hangers & Hooks",
+                "image": "//static-01.daraz.com.bd/p/f79d6e6a6c8d8f7eaee96ab61d400af7.jpg",
+                "id": "10000452"
+            },
+            {
+                "url": "/power-tools-accessories/?item_id=136776314&from=onesearch_category_10000337",
+                "name": "Power Tool Accessory",
+                "image": "//static-01.daraz.com.bd/p/5a86834c0c7aad7e17753afb434dac0b.jpg",
+                "id": "10000534"
+            },
+            {
+                "url": "/tool-sets/?item_id=223933238&from=onesearch_category_10000337",
+                "name": "Tool Sets",
+                "image": "//static-01.daraz.com.bd/p/ad245a1060819679a468c9248b66fb28.jpg",
+                "id": "10000501"
+            },
+            {
+                "url": "/fastening-gluing-soldering/?item_id=209536389&from=onesearch_category_10000337",
+                "name": "Fastening, Gluing & Soldering",
+                "image": "//static-01.daraz.com.bd/p/2f5439ed2fbcdeb1ebc046e61c891849.jpg",
+                "id": "10000505"
+            },
+            {
+                "url": "/rechargeable-lights/?item_id=182246913&from=onesearch_category_10000337",
+                "name": "Rechargeable & Flashlights",
+                "image": "//static-01.daraz.com.bd/p/mdc/9f955978695383ab153cb20a95d56994.jpg",
+                "id": "10000483"
+            },
+            {
+                "url": "/measuring-levelling/?item_id=186041957&from=onesearch_category_10000337",
+                "name": "Measuring & Levelling",
+                "image": "//static-01.daraz.com.bd/p/f17712f0f9477dcefcd76983de27eafb.jpg",
+                "id": "10000356"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_10000337"
+        },
+        "title": "",
+        "bizId": "onesearch_category_10000337",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "1949926 items found in {$0}",
+        "title": "Tools, DIY & Outdoor",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Tools, DIY & Outdoor"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Tools, DIY & Outdoor",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "10000337",
+            "category": "10000337"
+        },
+        "categoryRegionalKey": "260000000000",
+        "mainCategoryRegionalKey": "260000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "সরঞ্জাম, ডিআইওয়াই এবং আউটডোর at Best Price | 20% Off on Daraz | Buy Online",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Tools, DIY & Outdoor",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "260000000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=10000337&_p_asc_cateid=10000337",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "home-improvement",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "1ffa4b9bdd1e9e2c44b0d34c8f7970ca",
+                "resultNr": 1949926,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1122549961",
+                "1156820275",
+                "1095232109"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "10000337",
+            "category": "10000337"
+        }
+    }
+}

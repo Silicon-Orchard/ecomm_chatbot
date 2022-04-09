@@ -1,0 +1,4316 @@
+{
+    "listItems": [
+        {
+            "name": "Jpn Blue Staylish cotton polo",
+            "nid": "138502419",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "138502419",
+                "scene_pre": "search",
+                "current_price": "199",
+                "x_sku_ids": "1061354195",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "138502419"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i138502419-s1061354195.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d57e42f89ee53880ff86ca1a6c72ba87.jpg",
+            "originalPrice": "999.00",
+            "originalPriceShow": "৳ 999",
+            "price": "199",
+            "promotionId": "null",
+            "priceShow": "৳ 199",
+            "discount": "-80%",
+            "ratingScore": "4.63894",
+            "review": "529",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "138502419_BD-1061354195",
+            "sku": "138502419_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507314090",
+            "mainSellerId": "",
+            "sellerName": "Brother Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d57e42f89ee53880ff86ca1a6c72ba87.jpg",
+                    "productUrl": "/products/-i138502419-s1061354195.html",
+                    "sku": "138502419_BD",
+                    "skuId": "1061354195"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bfff0858fdaea7f244ab5aeeb5974278.jpg",
+                    "productUrl": "/products/-i138502419-s1182152731.html",
+                    "sku": "138502419_BD",
+                    "skuId": "1182152731"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:138502419;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:138502419_BD;price:199;client:desktop;supplier_id:700507314090;asc_category_id:10001966;item_id:138502419;sku_id:1061354195;shop_id:90975",
+            "addToCartSkus": [
+                {
+                    "sku": "138502419_BD-1061354195",
+                    "title": "Int M",
+                    "skuId": "1061354195",
+                    "count": 0
+                },
+                {
+                    "sku": "138502419_BD-1061354196",
+                    "title": "Int L",
+                    "skuId": "1061354196",
+                    "count": 0
+                },
+                {
+                    "sku": "138502419_BD-1061354197",
+                    "title": "Int XL",
+                    "skuId": "1061354197",
+                    "count": 0
+                }
+            ],
+            "itemId": "138502419",
+            "skuId": "1061354195",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Premium Multicolour Cotton Polo t-Shirt For Men",
+            "nid": "221184195",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "221184195",
+                "scene_pre": "search",
+                "current_price": "160",
+                "x_sku_ids": "1168148007",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "221184195"
+            },
+            "productUrl": "//www.daraz.com.bd/products/premium-multicolour-cotton-polo-t-shirt-for-men-i221184195-s1168148007.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+            "originalPrice": "1200.00",
+            "originalPriceShow": "৳ 1,200",
+            "price": "160",
+            "promotionId": "null",
+            "priceShow": "৳ 160",
+            "discount": "-87%",
+            "ratingScore": "4.55195",
+            "review": "154",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "221184195_BD-1168148007",
+            "sku": "221184195_BD",
+            "skus": [],
+            "description": [
+                "Shop Name: HH Fashion",
+                "Fabric:Cotton",
+                "Color: As per Image",
+                "Size: M,L,XL,",
+                "Size measurement Guide :",
+                "[ M - Length 27\" - Chest 38\" ]",
+                "[ L - Length 28\" - Chest 40\" ]",
+                "[ XL - Length 29\" - Chest 42\" ]"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509954021",
+            "mainSellerId": "",
+            "sellerName": "Toppe Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+                    "productUrl": "/products/premium-multicolour-cotton-polo-t-shirt-for-men-i221184195-s1168148007.html",
+                    "sku": "221184195_BD",
+                    "skuId": "1168148007"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5ce5118fd1f1a60a96ae771c58fe73ec.jpg",
+                    "productUrl": "/products/premium-multicolour-cotton-polo-t-shirt-for-men-i221184195-s1173679761.html",
+                    "sku": "221184195_BD",
+                    "skuId": "1173679761"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/32ea637b43ac917125abf603975b43a9.jpg",
+                    "productUrl": "/products/premium-multicolour-cotton-polo-t-shirt-for-men-i221184195-s1173679764.html",
+                    "sku": "221184195_BD",
+                    "skuId": "1173679764"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:221184195;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:221184195_BD;price:160;client:desktop;supplier_id:700509954021;asc_category_id:10001966;item_id:221184195;sku_id:1168148007;shop_id:222176",
+            "addToCartSkus": [
+                {
+                    "sku": "221184195_BD-1168148009",
+                    "title": "Int M",
+                    "skuId": "1168148009",
+                    "count": 0
+                },
+                {
+                    "sku": "221184195_BD-1168148008",
+                    "title": "Int L",
+                    "skuId": "1168148008",
+                    "count": 0
+                },
+                {
+                    "sku": "221184195_BD-1168148007",
+                    "title": "Int XL",
+                    "skuId": "1168148007",
+                    "count": 0
+                }
+            ],
+            "itemId": "221184195",
+            "skuId": "1168148007",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Navy Blue and Red cotton polo",
+            "nid": "204407774",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "204407774",
+                "scene_pre": "search",
+                "current_price": "214",
+                "x_sku_ids": "1152467775",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "204407774"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i204407774-s1152467775.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2c672156afaabb609e67af22d2f36736.jpg",
+            "originalPrice": "799.00",
+            "originalPriceShow": "৳ 799",
+            "price": "214",
+            "promotionId": "null",
+            "priceShow": "৳ 214",
+            "discount": "-73%",
+            "ratingScore": "4.77647",
+            "review": "85",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "204407774_BD-1152467775",
+            "sku": "204407774_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508892102",
+            "mainSellerId": "",
+            "sellerName": "Asiba worlds",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2c672156afaabb609e67af22d2f36736.jpg",
+                    "productUrl": "/products/-i204407774-s1152467775.html",
+                    "sku": "204407774_BD",
+                    "skuId": "1152467775"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:204407774;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:204407774_BD;price:214;client:desktop;supplier_id:700508892102;asc_category_id:10001966;item_id:204407774;sku_id:1152467775;shop_id:200388",
+            "addToCartSkus": [
+                {
+                    "sku": "204407774_BD-1152467773",
+                    "title": "Int M",
+                    "skuId": "1152467773",
+                    "count": 0
+                },
+                {
+                    "sku": "204407774_BD-1152467774",
+                    "title": "Int L",
+                    "skuId": "1152467774",
+                    "count": 0
+                },
+                {
+                    "sku": "204407774_BD-1152467775",
+                    "title": "Int XL",
+                    "skuId": "1152467775",
+                    "count": 0
+                }
+            ],
+            "itemId": "204407774",
+            "skuId": "1152467775",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Premium Multicolour Cotton Polo t-Shirt For Men_HH Fashion",
+            "nid": "177222745",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "177222745",
+                "scene_pre": "search",
+                "current_price": "193",
+                "x_sku_ids": "1175941412",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "177222745"
+            },
+            "productUrl": "//www.daraz.com.bd/products/premium-multicolour-cotton-polo-t-shirt-for-men_hh-fashion-i177222745-s1175941412.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/6c05be02be4354027bd1ea90ba48627f.jpg",
+            "originalPrice": "1200.00",
+            "originalPriceShow": "৳ 1,200",
+            "price": "193",
+            "promotionId": "null",
+            "priceShow": "৳ 193",
+            "discount": "-84%",
+            "ratingScore": "4.37037",
+            "review": "243",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "177222745_BD-1175941412",
+            "sku": "177222745_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504944126",
+            "mainSellerId": "",
+            "sellerName": "HH Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/6c05be02be4354027bd1ea90ba48627f.jpg",
+                    "productUrl": "/products/premium-multicolour-cotton-polo-t-shirt-for-men_hh-fashion-i177222745-s1175941412.html",
+                    "sku": "177222745_BD",
+                    "skuId": "1175941412"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:177222745;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:177222745_BD;price:193;client:desktop;supplier_id:700504944126;asc_category_id:10001966;item_id:177222745;sku_id:1175941412;shop_id:52085",
+            "addToCartSkus": [
+                {
+                    "sku": "177222745_BD-1175941412",
+                    "title": "Int M",
+                    "skuId": "1175941412",
+                    "count": 0
+                },
+                {
+                    "sku": "177222745_BD-1117138792",
+                    "title": "Int L",
+                    "skuId": "1117138792",
+                    "count": 0
+                },
+                {
+                    "sku": "177222745_BD-1117138793",
+                    "title": "Int XL",
+                    "skuId": "1117138793",
+                    "count": 0
+                }
+            ],
+            "itemId": "177222745",
+            "skuId": "1175941412",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Stylish polo T-shirts  for men - Maroon",
+            "nid": "107678362",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "107678362",
+                "scene_pre": "search",
+                "current_price": "183",
+                "x_sku_ids": "1022946344",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "107678362"
+            },
+            "productUrl": "//www.daraz.com.bd/products/stylish-polo-t-shirts-for-men-maroon-i107678362-s1022946344.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/69eeb200e2dd3df7bed87a73846cabb7.jpg",
+            "originalPrice": "499.00",
+            "originalPriceShow": "৳ 499",
+            "price": "183",
+            "promotionId": "null",
+            "priceShow": "৳ 183",
+            "discount": "-63%",
+            "ratingScore": "4.62",
+            "review": "150",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "107678362_BD-1022946344",
+            "sku": "107678362_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Polo",
+                "Main Material: Cotton",
+                "Color: Maroon",
+                "Gender: Men"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1015264",
+            "mainSellerId": "",
+            "sellerName": "Ahmed Trading International",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/69eeb200e2dd3df7bed87a73846cabb7.jpg",
+                    "productUrl": "/products/stylish-polo-t-shirts-for-men-maroon-i107678362-s1022946344.html",
+                    "sku": "107678362_BD",
+                    "skuId": "1022946344"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3e8bc869ccae3b121ab4624c78659b67.jpg",
+                    "productUrl": "/products/stylish-polo-t-shirts-for-men-maroon-i107678362-s1182439754.html",
+                    "sku": "107678362_BD",
+                    "skuId": "1182439754"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:107678362;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:107678362_BD;price:183;client:desktop;supplier_id:1015264;asc_category_id:10001966;item_id:107678362;sku_id:1022946344;shop_id:21396",
+            "addToCartSkus": [
+                {
+                    "sku": "107678362_BD-1164460177",
+                    "title": "Int M",
+                    "skuId": "1164460177",
+                    "count": 0
+                },
+                {
+                    "sku": "107678362_BD-1022946344",
+                    "title": "Int L",
+                    "skuId": "1022946344",
+                    "count": 0
+                },
+                {
+                    "sku": "107678362_BD-1022946345",
+                    "title": "Int XL",
+                    "skuId": "1022946345",
+                    "count": 0
+                }
+            ],
+            "itemId": "107678362",
+            "skuId": "1022946344",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Half Sleeve Premium HH Fashion Polo T-shirt  For men",
+            "nid": "131624557",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "131624557",
+                "scene_pre": "search",
+                "current_price": "155",
+                "x_sku_ids": "1134491180",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "131624557"
+            },
+            "productUrl": "//www.daraz.com.bd/products/hh-i131624557-s1134491180.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/afa3f2fa4c47a8879651d96825439572.jpg",
+            "originalPrice": "1000.00",
+            "originalPriceShow": "৳ 1,000",
+            "price": "155",
+            "promotionId": "null",
+            "priceShow": "৳ 155",
+            "discount": "-85%",
+            "ratingScore": "4.3219",
+            "review": "2712",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "131624557_BD-1134491180",
+            "sku": "131624557_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504944126",
+            "mainSellerId": "",
+            "sellerName": "HH Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/afa3f2fa4c47a8879651d96825439572.jpg",
+                    "productUrl": "/products/hh-i131624557-s1134491180.html",
+                    "sku": "131624557_BD",
+                    "skuId": "1134491180"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/a299616a43e1392deda0dd2f38bb62b8.jpg",
+                    "productUrl": "/products/hh-i131624557-s1134491184.html",
+                    "sku": "131624557_BD",
+                    "skuId": "1134491184"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/a4896dc6610975df5d96ac078e6a5a8a.jpg",
+                    "productUrl": "/products/hh-i131624557-s1051984890.html",
+                    "sku": "131624557_BD",
+                    "skuId": "1051984890"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/23d9b20a7889e6462590ff9703cc154c.jpg",
+                    "productUrl": "/products/hh-i131624557-s1175243773.html",
+                    "sku": "131624557_BD",
+                    "skuId": "1175243773"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/f94be78e7d605348ab4f3d2d1d35a9b7.jpg",
+                    "productUrl": "/products/hh-i131624557-s1134491187.html",
+                    "sku": "131624557_BD",
+                    "skuId": "1134491187"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:131624557;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:131624557_BD;price:155;client:desktop;supplier_id:700504944126;asc_category_id:10001966;item_id:131624557;sku_id:1134491180;shop_id:52085",
+            "addToCartSkus": [
+                {
+                    "sku": "131624557_BD-1134491179",
+                    "title": "Int M",
+                    "skuId": "1134491179",
+                    "count": 0
+                },
+                {
+                    "sku": "131624557_BD-1134491180",
+                    "title": "Int L",
+                    "skuId": "1134491180",
+                    "count": 0
+                },
+                {
+                    "sku": "131624557_BD-1134491181",
+                    "title": "Int XL",
+                    "skuId": "1134491181",
+                    "count": 0
+                }
+            ],
+            "itemId": "131624557",
+            "skuId": "1134491180",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Eid Special City Boy Premium Polo Shirt For Men",
+            "nid": "182109922",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "182109922",
+                "scene_pre": "search",
+                "current_price": "225",
+                "x_sku_ids": "1125425971",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "182109922"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i182109922-s1125425971.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6309dfe2627344239dcfa05c9a90b0a2.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "225",
+            "promotionId": "null",
+            "priceShow": "৳ 225",
+            "discount": "-50%",
+            "ratingScore": "4.63425",
+            "review": "946",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "182109922_BD-1125425971",
+            "sku": "182109922_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123518828",
+            "brandName": "City Boy",
+            "sellerId": "700508154227",
+            "mainSellerId": "",
+            "sellerName": "City Boy",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6309dfe2627344239dcfa05c9a90b0a2.jpg",
+                    "productUrl": "/products/-i182109922-s1125425971.html",
+                    "sku": "182109922_BD",
+                    "skuId": "1125425971"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:182109922;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:182109922_BD;price:225;client:desktop;supplier_id:700508154227;asc_category_id:10001966;item_id:182109922;sku_id:1125425971;shop_id:130011",
+            "addToCartSkus": [
+                {
+                    "sku": "182109922_BD-1125425971",
+                    "title": "Int M",
+                    "skuId": "1125425971",
+                    "count": 0
+                },
+                {
+                    "sku": "182109922_BD-1125425972",
+                    "title": "Int L",
+                    "skuId": "1125425972",
+                    "count": 0
+                },
+                {
+                    "sku": "182109922_BD-1125425973",
+                    "title": "Int XL",
+                    "skuId": "1125425973",
+                    "count": 0
+                },
+                {
+                    "sku": "182109922_BD-1179773188",
+                    "title": "Int XXL",
+                    "skuId": "1179773188",
+                    "count": 0
+                }
+            ],
+            "itemId": "182109922",
+            "skuId": "1125425971",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Three Star Anther cotton Polo T-Shirt",
+            "nid": "185449049",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "185449049",
+                "scene_pre": "search",
+                "current_price": "195",
+                "x_sku_ids": "1131043336",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "185449049"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i185449049-s1131043336.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f1e15e6cf0bcfe2cf84f5f2cd35d6fbc.jpg",
+            "originalPrice": "499.00",
+            "originalPriceShow": "৳ 499",
+            "price": "195",
+            "promotionId": "null",
+            "priceShow": "৳ 195",
+            "discount": "-61%",
+            "ratingScore": "4.77143",
+            "review": "140",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "185449049_BD-1131043336",
+            "sku": "185449049_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507314090",
+            "mainSellerId": "",
+            "sellerName": "Brother Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f1e15e6cf0bcfe2cf84f5f2cd35d6fbc.jpg",
+                    "productUrl": "/products/-i185449049-s1131043336.html",
+                    "sku": "185449049_BD",
+                    "skuId": "1131043336"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:185449049;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:185449049_BD;price:195;client:desktop;supplier_id:700507314090;asc_category_id:10001966;item_id:185449049;sku_id:1131043336;shop_id:90975",
+            "addToCartSkus": [
+                {
+                    "sku": "185449049_BD-1131043336",
+                    "title": "Int M",
+                    "skuId": "1131043336",
+                    "count": 0
+                },
+                {
+                    "sku": "185449049_BD-1131043337",
+                    "title": "Int L",
+                    "skuId": "1131043337",
+                    "count": 0
+                },
+                {
+                    "sku": "185449049_BD-1131043338",
+                    "title": "Int XL",
+                    "skuId": "1131043338",
+                    "count": 0
+                }
+            ],
+            "itemId": "185449049",
+            "skuId": "1131043336",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Polo T-shirt Blue",
+            "nid": "177254717",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "177254717",
+                "scene_pre": "search",
+                "current_price": "151",
+                "x_sku_ids": "1117180971",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "177254717"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i177254717-s1117180971.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ba7ec285e1a2c89813b1a169a9d8e323.jpg",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "151",
+            "promotionId": "null",
+            "priceShow": "৳ 151",
+            "discount": "-80%",
+            "ratingScore": "4.55474",
+            "review": "137",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "177254717_BD-1117180971",
+            "sku": "177254717_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1015021",
+            "mainSellerId": "",
+            "sellerName": "Eye MART",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ba7ec285e1a2c89813b1a169a9d8e323.jpg",
+                    "productUrl": "/products/-i177254717-s1117180971.html",
+                    "sku": "177254717_BD",
+                    "skuId": "1117180971"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:177254717;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:177254717_BD;price:151;client:desktop;supplier_id:1015021;asc_category_id:10001966;item_id:177254717;sku_id:1117180971;shop_id:21242",
+            "addToCartSkus": [
+                {
+                    "sku": "177254717_BD-1117180970",
+                    "title": "Int M",
+                    "skuId": "1117180970",
+                    "count": 0
+                },
+                {
+                    "sku": "177254717_BD-1117180971",
+                    "title": "Int L",
+                    "skuId": "1117180971",
+                    "count": 0
+                }
+            ],
+            "itemId": "177254717",
+            "skuId": "1117180971",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Trendy Fashionable Cotton Polo Shirt For Men",
+            "nid": "226262977",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226262977",
+                "scene_pre": "search",
+                "current_price": "198",
+                "x_sku_ids": "1170892846",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "226262977"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i226262977-s1170892846.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/94576c9d4c2c8ad4987a7da2ccbba428.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "198",
+            "promotionId": "null",
+            "priceShow": "৳ 198",
+            "discount": "-56%",
+            "ratingScore": "4.70588",
+            "review": "34",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226262977_BD-1170892846",
+            "sku": "226262977_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510104197",
+            "mainSellerId": "",
+            "sellerName": "Classic Pose",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/94576c9d4c2c8ad4987a7da2ccbba428.jpg",
+                    "productUrl": "/products/-i226262977-s1170892846.html",
+                    "sku": "226262977_BD",
+                    "skuId": "1170892846"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:226262977;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:226262977_BD;price:198;client:desktop;supplier_id:700510104197;asc_category_id:10001966;item_id:226262977;sku_id:1170892846;shop_id:228427",
+            "addToCartSkus": [
+                {
+                    "sku": "226262977_BD-1170892846",
+                    "title": "Int M",
+                    "skuId": "1170892846",
+                    "count": 0
+                },
+                {
+                    "sku": "226262977_BD-1170892847",
+                    "title": "Int L",
+                    "skuId": "1170892847",
+                    "count": 0
+                },
+                {
+                    "sku": "226262977_BD-1170892848",
+                    "title": "Int XL",
+                    "skuId": "1170892848",
+                    "count": 0
+                }
+            ],
+            "itemId": "226262977",
+            "skuId": "1170892846",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Half Sleeve cotton polo shirt for men",
+            "nid": "221932478",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "221932478",
+                "scene_pre": "search",
+                "current_price": "227",
+                "x_sku_ids": "1168499194",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "221932478"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i221932478-s1168499194.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/58af10d1dac7cd3e8e532c2088632a40.png",
+            "originalPrice": "599.00",
+            "originalPriceShow": "৳ 599",
+            "price": "227",
+            "promotionId": "null",
+            "priceShow": "৳ 227",
+            "discount": "-62%",
+            "ratingScore": "4.69565",
+            "review": "69",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "221932478_BD-1168499194",
+            "sku": "221932478_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509984130",
+            "mainSellerId": "",
+            "sellerName": "War Faze Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/58af10d1dac7cd3e8e532c2088632a40.png",
+                    "productUrl": "/products/-i221932478-s1168499194.html",
+                    "sku": "221932478_BD",
+                    "skuId": "1168499194"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:221932478;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:221932478_BD;price:227;client:desktop;supplier_id:700509984130;asc_category_id:10001966;item_id:221932478;sku_id:1168499194;shop_id:223169",
+            "addToCartSkus": [
+                {
+                    "sku": "221932478_BD-1168499194",
+                    "title": "Int M",
+                    "skuId": "1168499194",
+                    "count": 0
+                },
+                {
+                    "sku": "221932478_BD-1168499195",
+                    "title": "Int L",
+                    "skuId": "1168499195",
+                    "count": 0
+                },
+                {
+                    "sku": "221932478_BD-1168499196",
+                    "title": "Int XL",
+                    "skuId": "1168499196",
+                    "count": 0
+                }
+            ],
+            "itemId": "221932478",
+            "skuId": "1168499194",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Black Cotton polo  for men",
+            "nid": "191642596",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "191642596",
+                "scene_pre": "search",
+                "current_price": "163",
+                "x_sku_ids": "1138592024",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "191642596"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i191642596-s1138592024.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/dcc9cdd881dffa3099cc45e297be2bc7.jpg",
+            "originalPrice": "899.00",
+            "originalPriceShow": "৳ 899",
+            "price": "163",
+            "promotionId": "null",
+            "priceShow": "৳ 163",
+            "discount": "-82%",
+            "ratingScore": "4.63793",
+            "review": "232",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "191642596_BD-1138592024",
+            "sku": "191642596_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508763382",
+            "mainSellerId": "",
+            "sellerName": "Four Brother Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/dcc9cdd881dffa3099cc45e297be2bc7.jpg",
+                    "productUrl": "/products/-i191642596-s1138592024.html",
+                    "sku": "191642596_BD",
+                    "skuId": "1138592024"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:191642596;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:191642596_BD;price:163;client:desktop;supplier_id:700508763382;asc_category_id:10001966;item_id:191642596;sku_id:1138592024;shop_id:181785",
+            "addToCartSkus": [
+                {
+                    "sku": "191642596_BD-1138592024",
+                    "title": "Int M",
+                    "skuId": "1138592024",
+                    "count": 0
+                },
+                {
+                    "sku": "191642596_BD-1182146757",
+                    "title": "Int L",
+                    "skuId": "1182146757",
+                    "count": 0
+                },
+                {
+                    "sku": "191642596_BD-1182146758",
+                    "title": "Int XL",
+                    "skuId": "1182146758",
+                    "count": 0
+                }
+            ],
+            "itemId": "191642596",
+            "skuId": "1138592024",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cotton Polo T-shirt for Men - Light Blue",
+            "nid": "191649242",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "191649242",
+                "scene_pre": "search",
+                "current_price": "168",
+                "x_sku_ids": "1165397460",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "191649242"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i191649242-s1165397460.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ce79cf3e59f7b7f3ac067fdc4369ea65.jpg",
+            "originalPrice": "899.00",
+            "originalPriceShow": "৳ 899",
+            "price": "168",
+            "promotionId": "null",
+            "priceShow": "৳ 168",
+            "discount": "-81%",
+            "ratingScore": "4.57944",
+            "review": "107",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "191649242_BD-1165397460",
+            "sku": "191649242_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508763382",
+            "mainSellerId": "",
+            "sellerName": "Four Brother Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ce79cf3e59f7b7f3ac067fdc4369ea65.jpg",
+                    "productUrl": "/products/-i191649242-s1165397460.html",
+                    "sku": "191649242_BD",
+                    "skuId": "1165397460"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:191649242;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:191649242_BD;price:168;client:desktop;supplier_id:700508763382;asc_category_id:10001966;item_id:191649242;sku_id:1165397460;shop_id:181785",
+            "addToCartSkus": [
+                {
+                    "sku": "191649242_BD-1170407312",
+                    "title": "Int M",
+                    "skuId": "1170407312",
+                    "count": 0
+                },
+                {
+                    "sku": "191649242_BD-1165397460",
+                    "title": "Int L",
+                    "skuId": "1165397460",
+                    "count": 0
+                },
+                {
+                    "sku": "191649242_BD-1138581845",
+                    "title": "Int XL",
+                    "skuId": "1138581845",
+                    "count": 0
+                }
+            ],
+            "itemId": "191649242",
+            "skuId": "1165397460",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sky blue Polo JPN T-shirt for man-20",
+            "nid": "135218314",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "135218314",
+                "scene_pre": "search",
+                "current_price": "213",
+                "x_sku_ids": "1057180563",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "135218314"
+            },
+            "productUrl": "//www.daraz.com.bd/products/jpn-20-i135218314-s1057180563.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/38928198626dc7d7f158264ecfbc4734.jpg",
+            "originalPrice": "699.00",
+            "originalPriceShow": "৳ 699",
+            "price": "213",
+            "promotionId": "null",
+            "priceShow": "৳ 213",
+            "discount": "-70%",
+            "ratingScore": "4.65289",
+            "review": "121",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "135218314_BD-1057180563",
+            "sku": "135218314_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506417374",
+            "mainSellerId": "",
+            "sellerName": "A-MAN's",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/38928198626dc7d7f158264ecfbc4734.jpg",
+                    "productUrl": "/products/jpn-20-i135218314-s1057180563.html",
+                    "sku": "135218314_BD",
+                    "skuId": "1057180563"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/39a425cba1f9cd796196674891a77e01.jpg",
+                    "productUrl": "/products/jpn-20-i135218314-s1135758369.html",
+                    "sku": "135218314_BD",
+                    "skuId": "1135758369"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/64f1185db341133b5cc11c37562e8a09.jpg",
+                    "productUrl": "/products/jpn-20-i135218314-s1135758363.html",
+                    "sku": "135218314_BD",
+                    "skuId": "1135758363"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/dbbf5acd4456fa17dcbbf163fe75f10d.jpg",
+                    "productUrl": "/products/jpn-20-i135218314-s1135758366.html",
+                    "sku": "135218314_BD",
+                    "skuId": "1135758366"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:135218314;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:135218314_BD;price:213;client:desktop;supplier_id:700506417374;asc_category_id:10001966;item_id:135218314;sku_id:1057180563;shop_id:79080",
+            "addToCartSkus": [
+                {
+                    "sku": "135218314_BD-1057180562",
+                    "title": "Int M",
+                    "skuId": "1057180562",
+                    "count": 0
+                },
+                {
+                    "sku": "135218314_BD-1057180563",
+                    "title": "Int L",
+                    "skuId": "1057180563",
+                    "count": 0
+                },
+                {
+                    "sku": "135218314_BD-1057180564",
+                    "title": "Int XL",
+                    "skuId": "1057180564",
+                    "count": 0
+                }
+            ],
+            "itemId": "135218314",
+            "skuId": "1057180563",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Navy Blue Cotton Polo for Men",
+            "nid": "182525616",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "182525616",
+                "scene_pre": "search",
+                "current_price": "196",
+                "x_sku_ids": "1126386163",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "182525616"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i182525616-s1126386163.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d241b06b843ecc873002c15102e42749.jpg",
+            "originalPrice": "1299.00",
+            "originalPriceShow": "৳ 1,299",
+            "price": "196",
+            "promotionId": "null",
+            "priceShow": "৳ 196",
+            "discount": "-85%",
+            "ratingScore": "4.41224",
+            "review": "245",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "182525616_BD-1126386163",
+            "sku": "182525616_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508265674",
+            "mainSellerId": "",
+            "sellerName": "BD Fashion Country",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d241b06b843ecc873002c15102e42749.jpg",
+                    "productUrl": "/products/-i182525616-s1126386163.html",
+                    "sku": "182525616_BD",
+                    "skuId": "1126386163"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:182525616;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:182525616_BD;price:196;client:desktop;supplier_id:700508265674;asc_category_id:10001966;item_id:182525616;sku_id:1126386163;shop_id:140111",
+            "addToCartSkus": [
+                {
+                    "sku": "182525616_BD-1126386163",
+                    "title": "Int M",
+                    "skuId": "1126386163",
+                    "count": 0
+                },
+                {
+                    "sku": "182525616_BD-1126386164",
+                    "title": "Int L",
+                    "skuId": "1126386164",
+                    "count": 0
+                },
+                {
+                    "sku": "182525616_BD-1126386165",
+                    "title": "Int XL",
+                    "skuId": "1126386165",
+                    "count": 0
+                }
+            ],
+            "itemId": "182525616",
+            "skuId": "1126386163",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Half Sleeve Polo shirt For Men",
+            "nid": "171758477",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171758477",
+                "scene_pre": "search",
+                "current_price": "156",
+                "x_sku_ids": "1107798799",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "171758477"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i171758477-s1107798799.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1168e0c80b0af59867d6c4dfa7f92629.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "156",
+            "promotionId": "null",
+            "priceShow": "৳ 156",
+            "discount": "-55%",
+            "ratingScore": "4.70886",
+            "review": "79",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171758477_BD-1107798799",
+            "sku": "171758477_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1034717",
+            "mainSellerId": "",
+            "sellerName": "Perari",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1168e0c80b0af59867d6c4dfa7f92629.jpg",
+                    "productUrl": "/products/-i171758477-s1107798799.html",
+                    "sku": "171758477_BD",
+                    "skuId": "1107798799"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:171758477;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:171758477_BD;price:156;client:desktop;supplier_id:1034717;asc_category_id:10001966;item_id:171758477;sku_id:1107798799;shop_id:40652",
+            "addToCartSkus": [
+                {
+                    "sku": "171758477_BD-1107798799",
+                    "title": "Int M",
+                    "skuId": "1107798799",
+                    "count": 0
+                },
+                {
+                    "sku": "171758477_BD-1107798800",
+                    "title": "Int L",
+                    "skuId": "1107798800",
+                    "count": 0
+                },
+                {
+                    "sku": "171758477_BD-1107798801",
+                    "title": "Int XL",
+                    "skuId": "1107798801",
+                    "count": 0
+                }
+            ],
+            "itemId": "171758477",
+            "skuId": "1107798799",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cotton Polo t-Shirt For Men",
+            "nid": "169212252",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "169212252",
+                "scene_pre": "search",
+                "current_price": "175",
+                "x_sku_ids": "1135774292",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "169212252"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i169212252-s1135774292.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c076043d101796a97a56c0f800b3730f.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "175",
+            "promotionId": "null",
+            "priceShow": "৳ 175",
+            "discount": "-73%",
+            "ratingScore": "4.5025",
+            "review": "400",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "169212252_BD-1135774292",
+            "sku": "169212252_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1031236",
+            "mainSellerId": "",
+            "sellerName": "Top Up",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c076043d101796a97a56c0f800b3730f.jpg",
+                    "productUrl": "/products/-i169212252-s1135774292.html",
+                    "sku": "169212252_BD",
+                    "skuId": "1135774292"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5ce5118fd1f1a60a96ae771c58fe73ec.jpg",
+                    "productUrl": "/products/-i169212252-s1174989033.html",
+                    "sku": "169212252_BD",
+                    "skuId": "1174989033"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:169212252;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:169212252_BD;price:175;client:desktop;supplier_id:1031236;asc_category_id:10001966;item_id:169212252;sku_id:1135774292;shop_id:37259",
+            "addToCartSkus": [
+                {
+                    "sku": "169212252_BD-1135774291",
+                    "title": "Int M",
+                    "skuId": "1135774291",
+                    "count": 0
+                },
+                {
+                    "sku": "169212252_BD-1135774292",
+                    "title": "Int L",
+                    "skuId": "1135774292",
+                    "count": 0
+                },
+                {
+                    "sku": "169212252_BD-1135774293",
+                    "title": "Int XL",
+                    "skuId": "1135774293",
+                    "count": 0
+                }
+            ],
+            "itemId": "169212252",
+            "skuId": "1135774292",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "polo half sellev shirt for men",
+            "nid": "142564060",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "142564060",
+                "scene_pre": "search",
+                "current_price": "156",
+                "x_sku_ids": "1066524074",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "142564060"
+            },
+            "productUrl": "//www.daraz.com.bd/products/royol-blue-color-half-sleeve-polo-t-shirt-for-men-i142564060-s1066524074.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/28b7b59838fd7baa5bad7601d9c818a8.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "156",
+            "promotionId": "null",
+            "priceShow": "৳ 156",
+            "discount": "-65%",
+            "ratingScore": "4.37676",
+            "review": "284",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "142564060_BD-1066524074",
+            "sku": "142564060_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Polo Shirt",
+                "Style: Short Sleeve",
+                "GSM: 170-180",
+                "Main Material: 100% Polyester",
+                "Exported Quality",
+                "Button closure",
+                "Machine Wash",
+                "WORK, SCHOOL, CASUAL: Our classic polyester blend polo shirt is perfect for any occasion",
+                "INCENTIVE QUALITY: Built with quality, durability, and style that have been Incentive Brand staples for over 3 years",
+                "MODERN COMFORT: Each shirt is carefully crafted to look great and move with you throughout the day",
+                "CONSISTENT FIT: Sizes range from Miduam to XL so you always have a fit not too tight, not too loose",
+                "Size: M, L, XL",
+                "Measurement (In Inch): M- (Length 27&quot;, Chest 34&quot;).L- (Length 28&quot;, Chest 36&quot;).XL- (Length 29&quot;, Chest 40&quot;)."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "3280",
+            "mainSellerId": "",
+            "sellerName": "Incentive Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/28b7b59838fd7baa5bad7601d9c818a8.jpg",
+                    "productUrl": "/products/royol-blue-color-half-sleeve-polo-t-shirt-for-men-i142564060-s1066524074.html",
+                    "sku": "142564060_BD",
+                    "skuId": "1066524074"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:142564060;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:142564060_BD;price:156;client:desktop;supplier_id:3280;asc_category_id:10001966;item_id:142564060;sku_id:1066524074;shop_id:3553",
+            "addToCartSkus": [
+                {
+                    "sku": "142564060_BD-1066524073",
+                    "title": "Int M",
+                    "skuId": "1066524073",
+                    "count": 0
+                },
+                {
+                    "sku": "142564060_BD-1066524075",
+                    "title": "Int L",
+                    "skuId": "1066524075",
+                    "count": 0
+                },
+                {
+                    "sku": "142564060_BD-1066524074",
+                    "title": "Int XL",
+                    "skuId": "1066524074",
+                    "count": 0
+                }
+            ],
+            "itemId": "142564060",
+            "skuId": "1066524074",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Half Sleeve Polo shirt For Men",
+            "nid": "192656388",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "192656388",
+                "scene_pre": "search",
+                "current_price": "150",
+                "x_sku_ids": "1139427337",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "192656388"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i192656388-s1139427337.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0571ce5bf57506dbfbe647a2efde570b.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "150",
+            "promotionId": "null",
+            "priceShow": "৳ 150",
+            "discount": "-67%",
+            "ratingScore": "4.82143",
+            "review": "28",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "192656388_BD-1139427337",
+            "sku": "192656388_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "3280",
+            "mainSellerId": "",
+            "sellerName": "Incentive Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0571ce5bf57506dbfbe647a2efde570b.jpg",
+                    "productUrl": "/products/-i192656388-s1139427337.html",
+                    "sku": "192656388_BD",
+                    "skuId": "1139427337"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:192656388;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:192656388_BD;price:150;client:desktop;supplier_id:3280;asc_category_id:10001966;item_id:192656388;sku_id:1139427337;shop_id:3553",
+            "addToCartSkus": [
+                {
+                    "sku": "192656388_BD-1139427335",
+                    "title": "Int M",
+                    "skuId": "1139427335",
+                    "count": 0
+                },
+                {
+                    "sku": "192656388_BD-1139427336",
+                    "title": "Int L",
+                    "skuId": "1139427336",
+                    "count": 0
+                },
+                {
+                    "sku": "192656388_BD-1139427337",
+                    "title": "Int XL",
+                    "skuId": "1139427337",
+                    "count": 0
+                }
+            ],
+            "itemId": "192656388",
+            "skuId": "1139427337",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Premium Quality Polo Shirt For Men",
+            "nid": "223266910",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223266910",
+                "scene_pre": "search",
+                "current_price": "235",
+                "x_sku_ids": "1169377915",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "223266910"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i223266910-s1169377915.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/332401900edb60900b4730dd198a0fa8.jpg",
+            "originalPrice": "349.00",
+            "originalPriceShow": "৳ 349",
+            "price": "235",
+            "promotionId": "null",
+            "priceShow": "৳ 235",
+            "discount": "-33%",
+            "ratingScore": "4.38462",
+            "review": "26",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223266910_BD-1169377915",
+            "sku": "223266910_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508802155",
+            "mainSellerId": "",
+            "sellerName": "Rajshahi Trade Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/332401900edb60900b4730dd198a0fa8.jpg",
+                    "productUrl": "/products/-i223266910-s1169377915.html",
+                    "sku": "223266910_BD",
+                    "skuId": "1169377915"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:223266910;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:223266910_BD;price:235;client:desktop;supplier_id:700508802155;asc_category_id:10001966;item_id:223266910;sku_id:1169377915;shop_id:188073",
+            "addToCartSkus": [
+                {
+                    "sku": "223266910_BD-1169377915",
+                    "title": "Int M",
+                    "skuId": "1169377915",
+                    "count": 0
+                },
+                {
+                    "sku": "223266910_BD-1169377916",
+                    "title": "Int L",
+                    "skuId": "1169377916",
+                    "count": 0
+                },
+                {
+                    "sku": "223266910_BD-1169377917",
+                    "title": "Int XL",
+                    "skuId": "1169377917",
+                    "count": 0
+                }
+            ],
+            "itemId": "223266910",
+            "skuId": "1169377915",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Polo Jersey T-Shirt For Men",
+            "nid": "202440879",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "202440879",
+                "scene_pre": "search",
+                "current_price": "245",
+                "x_sku_ids": "1150046110",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "202440879"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i202440879-s1150046110.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5a57cfe8503991621a5a87df1e8882fa.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "245",
+            "promotionId": "null",
+            "priceShow": "৳ 245",
+            "discount": "-30%",
+            "ratingScore": "4.85714",
+            "review": "35",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "202440879_BD-1150046110",
+            "sku": "202440879_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507668356",
+            "mainSellerId": "",
+            "sellerName": "SHOPPING MELA HOUSE",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5a57cfe8503991621a5a87df1e8882fa.jpg",
+                    "productUrl": "/products/-i202440879-s1150046110.html",
+                    "sku": "202440879_BD",
+                    "skuId": "1150046110"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:202440879;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:202440879_BD;price:245;client:desktop;supplier_id:700507668356;asc_category_id:10001966;item_id:202440879;sku_id:1150046110;shop_id:105640",
+            "addToCartSkus": [
+                {
+                    "sku": "202440879_BD-1150046110",
+                    "title": "Int L",
+                    "skuId": "1150046110",
+                    "count": 0
+                },
+                {
+                    "sku": "202440879_BD-1150046111",
+                    "title": "Int XL",
+                    "skuId": "1150046111",
+                    "count": 0
+                },
+                {
+                    "sku": "202440879_BD-1150046112",
+                    "title": "Int XXL",
+                    "skuId": "1150046112",
+                    "count": 0
+                }
+            ],
+            "itemId": "202440879",
+            "skuId": "1150046110",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Trendy Fashionable Cotton Polo Shirt For Men",
+            "nid": "226011126",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226011126",
+                "scene_pre": "search",
+                "current_price": "216",
+                "x_sku_ids": "1170798372",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "226011126"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i226011126-s1170798372.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d8082309539d85b11b18809b9c9b13b0.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "216",
+            "promotionId": "null",
+            "priceShow": "৳ 216",
+            "discount": "-52%",
+            "ratingScore": "4.8",
+            "review": "40",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226011126_BD-1170798372",
+            "sku": "226011126_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510104197",
+            "mainSellerId": "",
+            "sellerName": "Classic Pose",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d8082309539d85b11b18809b9c9b13b0.jpg",
+                    "productUrl": "/products/-i226011126-s1170798372.html",
+                    "sku": "226011126_BD",
+                    "skuId": "1170798372"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:226011126;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:226011126_BD;price:216;client:desktop;supplier_id:700510104197;asc_category_id:10001966;item_id:226011126;sku_id:1170798372;shop_id:228427",
+            "addToCartSkus": [
+                {
+                    "sku": "226011126_BD-1170798371",
+                    "title": "Int M",
+                    "skuId": "1170798371",
+                    "count": 0
+                },
+                {
+                    "sku": "226011126_BD-1170798372",
+                    "title": "Int L",
+                    "skuId": "1170798372",
+                    "count": 0
+                },
+                {
+                    "sku": "226011126_BD-1170798373",
+                    "title": "Int XL",
+                    "skuId": "1170798373",
+                    "count": 0
+                }
+            ],
+            "itemId": "226011126",
+            "skuId": "1170798372",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Red Color Cotton PK Polo Shirt for Men",
+            "nid": "138492258",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "138492258",
+                "scene_pre": "search",
+                "current_price": "184",
+                "x_sku_ids": "1061333000",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "138492258"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pk-i138492258-s1061333000.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/15887cc50e47539149a3e0b9579062b0.jpg",
+            "originalPrice": "899.00",
+            "originalPriceShow": "৳ 899",
+            "price": "184",
+            "promotionId": "null",
+            "priceShow": "৳ 184",
+            "discount": "-80%",
+            "ratingScore": "4.66667",
+            "review": "192",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "138492258_BD-1061333000",
+            "sku": "138492258_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507314090",
+            "mainSellerId": "",
+            "sellerName": "Brother Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/15887cc50e47539149a3e0b9579062b0.jpg",
+                    "productUrl": "/products/pk-i138492258-s1061333000.html",
+                    "sku": "138492258_BD",
+                    "skuId": "1061333000"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bfff0858fdaea7f244ab5aeeb5974278.jpg",
+                    "productUrl": "/products/pk-i138492258-s1182145826.html",
+                    "sku": "138492258_BD",
+                    "skuId": "1182145826"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:138492258;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:138492258_BD;price:184;client:desktop;supplier_id:700507314090;asc_category_id:10001966;item_id:138492258;sku_id:1061333000;shop_id:90975",
+            "addToCartSkus": [
+                {
+                    "sku": "138492258_BD-1061333000",
+                    "title": "Int S",
+                    "skuId": "1061333000",
+                    "count": 0
+                },
+                {
+                    "sku": "138492258_BD-1125690187",
+                    "title": "Int M",
+                    "skuId": "1125690187",
+                    "count": 0
+                },
+                {
+                    "sku": "138492258_BD-1061348001",
+                    "title": "Int L",
+                    "skuId": "1061348001",
+                    "count": 0
+                },
+                {
+                    "sku": "138492258_BD-1061348002",
+                    "title": "Int XL",
+                    "skuId": "1061348002",
+                    "count": 0
+                }
+            ],
+            "itemId": "138492258",
+            "skuId": "1061333000",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mesh Jersey Polo Shirt  for Men",
+            "nid": "199414994",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "199414994",
+                "scene_pre": "search",
+                "current_price": "310",
+                "x_sku_ids": "1147124382",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "199414994"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i199414994-s1147124382.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/36e7b76f5c75f9365e97f893ce7eddd5.jpg",
+            "originalPrice": "950.00",
+            "originalPriceShow": "৳ 950",
+            "price": "310",
+            "promotionId": "null",
+            "priceShow": "৳ 310",
+            "discount": "-67%",
+            "ratingScore": "4.69444",
+            "review": "72",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "199414994_BD-1147124382",
+            "sku": "199414994_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506399157",
+            "mainSellerId": "",
+            "sellerName": "NowDeal Shopping",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/36e7b76f5c75f9365e97f893ce7eddd5.jpg",
+                    "productUrl": "/products/-i199414994-s1147124382.html",
+                    "sku": "199414994_BD",
+                    "skuId": "1147124382"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/037c639fee735609d684cafcebbee103.jpg",
+                    "productUrl": "/products/-i199414994-s1146704538.html",
+                    "sku": "199414994_BD",
+                    "skuId": "1146704538"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8acb437cc4c8a62998fb704ec06cf25d.jpg",
+                    "productUrl": "/products/-i199414994-s1146704534.html",
+                    "sku": "199414994_BD",
+                    "skuId": "1146704534"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:199414994;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:199414994_BD;price:310;client:desktop;supplier_id:700506399157;asc_category_id:10001966;item_id:199414994;sku_id:1147124382;shop_id:75703",
+            "addToCartSkus": [
+                {
+                    "sku": "199414994_BD-1147124379",
+                    "title": "Int M",
+                    "skuId": "1147124379",
+                    "count": 0
+                },
+                {
+                    "sku": "199414994_BD-1147124380",
+                    "title": "Int L",
+                    "skuId": "1147124380",
+                    "count": 0
+                },
+                {
+                    "sku": "199414994_BD-1147124381",
+                    "title": "Int XL",
+                    "skuId": "1147124381",
+                    "count": 0
+                },
+                {
+                    "sku": "199414994_BD-1147124382",
+                    "title": "Int XXL",
+                    "skuId": "1147124382",
+                    "count": 0
+                }
+            ],
+            "itemId": "199414994",
+            "skuId": "1147124382",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jpn Blue Cotton polo shirt",
+            "nid": "191638749",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "191638749",
+                "scene_pre": "search",
+                "current_price": "193",
+                "x_sku_ids": "1138586186",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "191638749"
+            },
+            "productUrl": "//www.daraz.com.bd/products/jpn-i191638749-s1138586186.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2c672156afaabb609e67af22d2f36736.jpg",
+            "originalPrice": "899.00",
+            "originalPriceShow": "৳ 899",
+            "price": "193",
+            "promotionId": "null",
+            "priceShow": "৳ 193",
+            "discount": "-79%",
+            "ratingScore": "4.52273",
+            "review": "44",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "191638749_BD-1138586186",
+            "sku": "191638749_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508763382",
+            "mainSellerId": "",
+            "sellerName": "Four Brother Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2c672156afaabb609e67af22d2f36736.jpg",
+                    "productUrl": "/products/jpn-i191638749-s1138586186.html",
+                    "sku": "191638749_BD",
+                    "skuId": "1138586186"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:191638749;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:191638749_BD;price:193;client:desktop;supplier_id:700508763382;asc_category_id:10001966;item_id:191638749;sku_id:1138586186;shop_id:181785",
+            "addToCartSkus": [
+                {
+                    "sku": "191638749_BD-1138586186",
+                    "title": "Int M",
+                    "skuId": "1138586186",
+                    "count": 0
+                },
+                {
+                    "sku": "191638749_BD-1138586187",
+                    "title": "Int L",
+                    "skuId": "1138586187",
+                    "count": 0
+                },
+                {
+                    "sku": "191638749_BD-1138586188",
+                    "title": "Int XL",
+                    "skuId": "1138586188",
+                    "count": 0
+                }
+            ],
+            "itemId": "191638749",
+            "skuId": "1138586186",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Trendy Fashionable Contrast White Polo Shirt For Men",
+            "nid": "223725280",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223725280",
+                "scene_pre": "search",
+                "current_price": "222",
+                "x_sku_ids": "1169654441",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "223725280"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dx-i223725280-s1169654441.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/101ca78e0fa3c29d0d37cfc4ccc08654.jpg",
+            "originalPrice": "480.00",
+            "originalPriceShow": "৳ 480",
+            "price": "222",
+            "promotionId": "null",
+            "priceShow": "৳ 222",
+            "discount": "-54%",
+            "ratingScore": "4.9",
+            "review": "20",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223725280_BD-1169654441",
+            "sku": "223725280_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509981014",
+            "mainSellerId": "",
+            "sellerName": "Fine Touch",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/101ca78e0fa3c29d0d37cfc4ccc08654.jpg",
+                    "productUrl": "/products/dx-i223725280-s1169654441.html",
+                    "sku": "223725280_BD",
+                    "skuId": "1169654441"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:223725280;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:223725280_BD;price:222;client:desktop;supplier_id:700509981014;asc_category_id:10001966;item_id:223725280;sku_id:1169654441;shop_id:222537",
+            "addToCartSkus": [
+                {
+                    "sku": "223725280_BD-1169654441",
+                    "title": "Int M",
+                    "skuId": "1169654441",
+                    "count": 0
+                },
+                {
+                    "sku": "223725280_BD-1169654442",
+                    "title": "Int L",
+                    "skuId": "1169654442",
+                    "count": 0
+                },
+                {
+                    "sku": "223725280_BD-1169654443",
+                    "title": "Int XL",
+                    "skuId": "1169654443",
+                    "count": 0
+                }
+            ],
+            "itemId": "223725280",
+            "skuId": "1169654441",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Trendy Fashionable Cotton Polo Shirt For Men",
+            "nid": "226009139",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226009139",
+                "scene_pre": "search",
+                "current_price": "217",
+                "x_sku_ids": "1170799394",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "226009139"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i226009139-s1170799394.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/67363c33555d82bde7aab685141eea5e.jpg",
+            "originalPrice": "4550.00",
+            "originalPriceShow": "৳ 4,550",
+            "price": "217",
+            "promotionId": "null",
+            "priceShow": "৳ 217",
+            "discount": "-95%",
+            "ratingScore": "4.69466",
+            "review": "131",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226009139_BD-1170799394",
+            "sku": "226009139_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510104197",
+            "mainSellerId": "",
+            "sellerName": "Classic Pose",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/67363c33555d82bde7aab685141eea5e.jpg",
+                    "productUrl": "/products/-i226009139-s1170799394.html",
+                    "sku": "226009139_BD",
+                    "skuId": "1170799394"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:226009139;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:226009139_BD;price:217;client:desktop;supplier_id:700510104197;asc_category_id:10001966;item_id:226009139;sku_id:1170799394;shop_id:228427",
+            "addToCartSkus": [
+                {
+                    "sku": "226009139_BD-1170799394",
+                    "title": "Int M",
+                    "skuId": "1170799394",
+                    "count": 0
+                },
+                {
+                    "sku": "226009139_BD-1170799395",
+                    "title": "Int L",
+                    "skuId": "1170799395",
+                    "count": 0
+                },
+                {
+                    "sku": "226009139_BD-1170799396",
+                    "title": "Int XL",
+                    "skuId": "1170799396",
+                    "count": 0
+                }
+            ],
+            "itemId": "226009139",
+            "skuId": "1170799394",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Trendy Fashionable Cotton Polo Shirt For Men",
+            "nid": "228960948",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "228960948",
+                "scene_pre": "search",
+                "current_price": "242",
+                "x_sku_ids": "1172691722",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "228960948"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i228960948-s1172691722.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6546e14ac8abb7ad46431e29ca834bdc.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "242",
+            "promotionId": "null",
+            "priceShow": "৳ 242",
+            "discount": "-46%",
+            "ratingScore": "4.10833",
+            "review": "120",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "228960948_BD-1172691722",
+            "sku": "228960948_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510104197",
+            "mainSellerId": "",
+            "sellerName": "Classic Pose",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6546e14ac8abb7ad46431e29ca834bdc.jpg",
+                    "productUrl": "/products/-i228960948-s1172691722.html",
+                    "sku": "228960948_BD",
+                    "skuId": "1172691722"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:228960948;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:228960948_BD;price:242;client:desktop;supplier_id:700510104197;asc_category_id:10001966;item_id:228960948;sku_id:1172691722;shop_id:228427",
+            "addToCartSkus": [
+                {
+                    "sku": "228960948_BD-1182442789",
+                    "title": "Int M",
+                    "skuId": "1182442789",
+                    "count": 0
+                },
+                {
+                    "sku": "228960948_BD-1172691721",
+                    "title": "Int L",
+                    "skuId": "1172691721",
+                    "count": 0
+                },
+                {
+                    "sku": "228960948_BD-1172691722",
+                    "title": "Int XL",
+                    "skuId": "1172691722",
+                    "count": 0
+                }
+            ],
+            "itemId": "228960948",
+            "skuId": "1172691722",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sirajganj Trade Special Polo For Men",
+            "nid": "227054683",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227054683",
+                "scene_pre": "search",
+                "current_price": "190",
+                "x_sku_ids": "1171311751",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "227054683"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i227054683-s1171311751.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/92f921e78d1a7606279bfa5e54e3de4d.jpg",
+            "originalPrice": "499.00",
+            "originalPriceShow": "৳ 499",
+            "price": "190",
+            "promotionId": "null",
+            "priceShow": "৳ 190",
+            "discount": "-62%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227054683_BD-1171311751",
+            "sku": "227054683_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508880496",
+            "mainSellerId": "",
+            "sellerName": "Sirajganj Trade",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/92f921e78d1a7606279bfa5e54e3de4d.jpg",
+                    "productUrl": "/products/-i227054683-s1171311751.html",
+                    "sku": "227054683_BD",
+                    "skuId": "1171311751"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:227054683;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:227054683_BD;price:190;client:desktop;supplier_id:700508880496;asc_category_id:10001966;item_id:227054683;sku_id:1171311751;shop_id:198596",
+            "addToCartSkus": [
+                {
+                    "sku": "227054683_BD-1171311751",
+                    "title": "Int M",
+                    "skuId": "1171311751",
+                    "count": 0
+                },
+                {
+                    "sku": "227054683_BD-1171311752",
+                    "title": "Int L",
+                    "skuId": "1171311752",
+                    "count": 0
+                },
+                {
+                    "sku": "227054683_BD-1171311753",
+                    "title": "Int XL",
+                    "skuId": "1171311753",
+                    "count": 0
+                }
+            ],
+            "itemId": "227054683",
+            "skuId": "1171311751",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Premium quality Cotton Polo T-shirt  for Men",
+            "nid": "182241512",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "182241512",
+                "scene_pre": "search",
+                "current_price": "196",
+                "x_sku_ids": "1125695250",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "182241512"
+            },
+            "productUrl": "//www.daraz.com.bd/products/premium-quality-cotton-polo-t-shirt-for-men-i182241512-s1125695250.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5ba195510430b3397751bc92db3cc815.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "196",
+            "promotionId": "null",
+            "priceShow": "৳ 196",
+            "discount": "-44%",
+            "ratingScore": "4.31746",
+            "review": "189",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "182241512_BD-1125695250",
+            "sku": "182241512_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507215007",
+            "mainSellerId": "",
+            "sellerName": "Barakah Style",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5ba195510430b3397751bc92db3cc815.jpg",
+                    "productUrl": "/products/premium-quality-cotton-polo-t-shirt-for-men-i182241512-s1125695250.html",
+                    "sku": "182241512_BD",
+                    "skuId": "1125695250"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/79105305e0f3deef59245c0171b3df07.jpg",
+                    "productUrl": "/products/premium-quality-cotton-polo-t-shirt-for-men-i182241512-s1125909394.html",
+                    "sku": "182241512_BD",
+                    "skuId": "1125909394"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:182241512;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:182241512_BD;price:196;client:desktop;supplier_id:700507215007;asc_category_id:10001966;item_id:182241512;sku_id:1125695250;shop_id:89207",
+            "addToCartSkus": [
+                {
+                    "sku": "182241512_BD-1125695250",
+                    "title": "Int M",
+                    "skuId": "1125695250",
+                    "count": 0
+                },
+                {
+                    "sku": "182241512_BD-1125695251",
+                    "title": "Int L",
+                    "skuId": "1125695251",
+                    "count": 0
+                },
+                {
+                    "sku": "182241512_BD-1125695252",
+                    "title": "Int XL",
+                    "skuId": "1125695252",
+                    "count": 0
+                }
+            ],
+            "itemId": "182241512",
+            "skuId": "1125695250",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Premium Cotton Polo T-shirt for Men",
+            "nid": "182261395",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "182261395",
+                "scene_pre": "search",
+                "current_price": "163",
+                "x_sku_ids": "1125716748",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "182261395"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i182261395-s1125716748.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ebb18cecc0f81c7aa8ae42e079e264bf.jpg",
+            "originalPrice": "320.00",
+            "originalPriceShow": "৳ 320",
+            "price": "163",
+            "promotionId": "null",
+            "priceShow": "৳ 163",
+            "discount": "-49%",
+            "ratingScore": "4.55556",
+            "review": "27",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "182261395_BD-1125716748",
+            "sku": "182261395_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507215007",
+            "mainSellerId": "",
+            "sellerName": "Barakah Style",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ebb18cecc0f81c7aa8ae42e079e264bf.jpg",
+                    "productUrl": "/products/-i182261395-s1125716748.html",
+                    "sku": "182261395_BD",
+                    "skuId": "1125716748"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/df756c3b447fdd8c5edf70625774c7f6.jpg",
+                    "productUrl": "/products/-i182261395-s1182550262.html",
+                    "sku": "182261395_BD",
+                    "skuId": "1182550262"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ef9dc2cc9fa469776c81cbdb5da7d428.jpg",
+                    "productUrl": "/products/-i182261395-s1182548256.html",
+                    "sku": "182261395_BD",
+                    "skuId": "1182548256"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:182261395;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:182261395_BD;price:163;client:desktop;supplier_id:700507215007;asc_category_id:10001966;item_id:182261395;sku_id:1125716748;shop_id:89207",
+            "addToCartSkus": [
+                {
+                    "sku": "182261395_BD-1125716748",
+                    "title": "Int M",
+                    "skuId": "1125716748",
+                    "count": 0
+                },
+                {
+                    "sku": "182261395_BD-1125716749",
+                    "title": "Int L",
+                    "skuId": "1125716749",
+                    "count": 0
+                },
+                {
+                    "sku": "182261395_BD-1125716750",
+                    "title": "Int XL",
+                    "skuId": "1125716750",
+                    "count": 0
+                }
+            ],
+            "itemId": "182261395",
+            "skuId": "1125716748",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jpn Yellow Staylish cotton polo",
+            "nid": "138502506",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "138502506",
+                "scene_pre": "search",
+                "current_price": "184",
+                "x_sku_ids": "1061348166",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "138502506"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i138502506-s1061348166.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/da4bae2786eeef1891489fe14f1cb3b9.jpg",
+            "originalPrice": "999.00",
+            "originalPriceShow": "৳ 999",
+            "price": "184",
+            "promotionId": "null",
+            "priceShow": "৳ 184",
+            "discount": "-82%",
+            "ratingScore": "4.72527",
+            "review": "91",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "138502506_BD-1061348166",
+            "sku": "138502506_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507314090",
+            "mainSellerId": "",
+            "sellerName": "Brother Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/da4bae2786eeef1891489fe14f1cb3b9.jpg",
+                    "productUrl": "/products/-i138502506-s1061348166.html",
+                    "sku": "138502506_BD",
+                    "skuId": "1061348166"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:138502506;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:138502506_BD;price:184;client:desktop;supplier_id:700507314090;asc_category_id:10001966;item_id:138502506;sku_id:1061348166;shop_id:90975",
+            "addToCartSkus": [
+                {
+                    "sku": "138502506_BD-1061348166",
+                    "title": "Int M",
+                    "skuId": "1061348166",
+                    "count": 0
+                },
+                {
+                    "sku": "138502506_BD-1061348167",
+                    "title": "Int L",
+                    "skuId": "1061348167",
+                    "count": 0
+                },
+                {
+                    "sku": "138502506_BD-1061348168",
+                    "title": "Int XL",
+                    "skuId": "1061348168",
+                    "count": 0
+                }
+            ],
+            "itemId": "138502506",
+            "skuId": "1061348166",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Multi-Color Cotton Polo-Shirt for Men",
+            "nid": "104794503",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "104794503",
+                "scene_pre": "search",
+                "current_price": "208",
+                "x_sku_ids": "1019628147",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "104794503"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i104794503-s1019628147.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/976b93d0026e4367024f1f83403a3c48.jpg",
+            "originalPrice": "599.00",
+            "originalPriceShow": "৳ 599",
+            "price": "208",
+            "promotionId": "null",
+            "priceShow": "৳ 208",
+            "discount": "-65%",
+            "ratingScore": "4.5914",
+            "review": "93",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "104794503_BD-1019628147",
+            "sku": "104794503_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Polo",
+                "Main Material: Cotton",
+                "Color: Multi-Color",
+                "Gender: Men"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "3868",
+            "mainSellerId": "",
+            "sellerName": "Dhaka Fashion Wear",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/976b93d0026e4367024f1f83403a3c48.jpg",
+                    "productUrl": "/products/-i104794503-s1019628147.html",
+                    "sku": "104794503_BD",
+                    "skuId": "1019628147"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:104794503;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:104794503_BD;price:208;client:desktop;supplier_id:3868;asc_category_id:10001966;item_id:104794503;sku_id:1019628147;shop_id:4023",
+            "addToCartSkus": [
+                {
+                    "sku": "104794503_BD-1019628146",
+                    "title": "Int M",
+                    "skuId": "1019628146",
+                    "count": 0
+                },
+                {
+                    "sku": "104794503_BD-1019628147",
+                    "title": "Int L",
+                    "skuId": "1019628147",
+                    "count": 0
+                },
+                {
+                    "sku": "104794503_BD-1019628148",
+                    "title": "Int XL",
+                    "skuId": "1019628148",
+                    "count": 0
+                }
+            ],
+            "itemId": "104794503",
+            "skuId": "1019628147",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Trendy Contrast Cotton Half Sleeve Polo Shirt For Men",
+            "nid": "177488018",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "177488018",
+                "scene_pre": "search",
+                "current_price": "199",
+                "x_sku_ids": "1117438958",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "177488018"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i177488018-s1117438958.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1ec9fd6dff3bb21dce1ca64e627bf48b.jpg",
+            "originalPrice": "555.00",
+            "originalPriceShow": "৳ 555",
+            "price": "199",
+            "promotionId": "null",
+            "priceShow": "৳ 199",
+            "discount": "-64%",
+            "ratingScore": "4.58621",
+            "review": "116",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "177488018_BD-1117438958",
+            "sku": "177488018_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508259721",
+            "mainSellerId": "",
+            "sellerName": "Ahmed Trading International 2",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1ec9fd6dff3bb21dce1ca64e627bf48b.jpg",
+                    "productUrl": "/products/-i177488018-s1117438958.html",
+                    "sku": "177488018_BD",
+                    "skuId": "1117438958"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5c8e6864e1e7c5d50ca68ac54cb29688.jpg",
+                    "productUrl": "/products/-i177488018-s1169877136.html",
+                    "sku": "177488018_BD",
+                    "skuId": "1169877136"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6df7e4edcf0cc714034f8b8f0e22f92b.jpg",
+                    "productUrl": "/products/-i177488018-s1169877139.html",
+                    "sku": "177488018_BD",
+                    "skuId": "1169877139"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:177488018;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:177488018_BD;price:199;client:desktop;supplier_id:700508259721;asc_category_id:10001966;item_id:177488018;sku_id:1117438958;shop_id:140495",
+            "addToCartSkus": [
+                {
+                    "sku": "177488018_BD-1117438958",
+                    "title": "Int M",
+                    "skuId": "1117438958",
+                    "count": 0
+                },
+                {
+                    "sku": "177488018_BD-1117438959",
+                    "title": "Int L",
+                    "skuId": "1117438959",
+                    "count": 0
+                },
+                {
+                    "sku": "177488018_BD-1117438960",
+                    "title": "Int XL",
+                    "skuId": "1117438960",
+                    "count": 0
+                }
+            ],
+            "itemId": "177488018",
+            "skuId": "1117438958",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Light blue Stylish Polo T-Shirt For Men's",
+            "nid": "121643458",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "121643458",
+                "scene_pre": "search",
+                "current_price": "157",
+                "x_sku_ids": "1041462663",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "121643458"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i121643458-s1041462663.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/262faff1b80c1e9fc22ac0bd7cef7663.jpg",
+            "originalPrice": "700.00",
+            "originalPriceShow": "৳ 700",
+            "price": "157",
+            "promotionId": "null",
+            "priceShow": "৳ 157",
+            "discount": "-78%",
+            "ratingScore": "4.35495",
+            "review": "293",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "121643458_BD-1041462663",
+            "sku": "121643458_BD",
+            "skus": [],
+            "description": [
+                "Product type: T-shirt",
+                "Material: Cotton",
+                "Gender: Men",
+                "Stylish Design",
+                "High Quality cotton fabric",
+                "Fabric: 100% Cotton",
+                "Fabrication: 170 GSM",
+                "Size: M,L,XL",
+                "M Chest - 36 \", Lenght - 28\"",
+                "L Chest - 38 \"Lenght - 29\"",
+                "XL Chest - 40 \", Lenght Ã¢ÂÂ 30\"",
+                "Color: Light blue"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1019367",
+            "mainSellerId": "",
+            "sellerName": "FD SHOP",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/262faff1b80c1e9fc22ac0bd7cef7663.jpg",
+                    "productUrl": "/products/-i121643458-s1041462663.html",
+                    "sku": "121643458_BD",
+                    "skuId": "1041462663"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:121643458;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:121643458_BD;price:157;client:desktop;supplier_id:1019367;asc_category_id:10001966;item_id:121643458;sku_id:1041462663;shop_id:25899",
+            "addToCartSkus": [
+                {
+                    "sku": "121643458_BD-1041462663",
+                    "title": "Int M",
+                    "skuId": "1041462663",
+                    "count": 0
+                },
+                {
+                    "sku": "121643458_BD-1041462664",
+                    "title": "Int L",
+                    "skuId": "1041462664",
+                    "count": 0
+                },
+                {
+                    "sku": "121643458_BD-1041462665",
+                    "title": "Int XL",
+                    "skuId": "1041462665",
+                    "count": 0
+                }
+            ],
+            "itemId": "121643458",
+            "skuId": "1041462663",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Maroon Cotton Polo t-Shirt For Men",
+            "nid": "107688393",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "107688393",
+                "scene_pre": "search",
+                "current_price": "176",
+                "x_sku_ids": "1022944483",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "107688393"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i107688393-s1022944483.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/be4c4d6c756d2ed9fc4e0e2313f0eaee.jpg",
+            "originalPrice": "399.00",
+            "originalPriceShow": "৳ 399",
+            "price": "176",
+            "promotionId": "null",
+            "priceShow": "৳ 176",
+            "discount": "-56%",
+            "ratingScore": "4.37037",
+            "review": "405",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "107688393_BD-1022944483",
+            "sku": "107688393_BD",
+            "skus": [],
+            "description": [
+                "Product type: T-shirt",
+                "Material: Cotton",
+                "Gender: Men",
+                "Stylish Design",
+                "High Quality cotton fabric",
+                "Fabric: 100% Cotton",
+                "Fabrication: 170 GSM",
+                "Size: M,L,XL",
+                "M Chest - 36 \", Lenght - 28\"",
+                "L Chest - 38 \"Lenght - 29\"",
+                "XL Chest - 40 \", Lenght – 30\"",
+                "Color: Maroon"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "3868",
+            "mainSellerId": "",
+            "sellerName": "Dhaka Fashion Wear",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/be4c4d6c756d2ed9fc4e0e2313f0eaee.jpg",
+                    "productUrl": "/products/-i107688393-s1022944483.html",
+                    "sku": "107688393_BD",
+                    "skuId": "1022944483"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:107688393;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:107688393_BD;price:176;client:desktop;supplier_id:3868;asc_category_id:10001966;item_id:107688393;sku_id:1022944483;shop_id:4023",
+            "addToCartSkus": [
+                {
+                    "sku": "107688393_BD-1022944483",
+                    "title": "Int M",
+                    "skuId": "1022944483",
+                    "count": 0
+                },
+                {
+                    "sku": "107688393_BD-1022944484",
+                    "title": "Int L",
+                    "skuId": "1022944484",
+                    "count": 0
+                },
+                {
+                    "sku": "107688393_BD-1022944485",
+                    "title": "Int XL",
+                    "skuId": "1022944485",
+                    "count": 0
+                }
+            ],
+            "itemId": "107688393",
+            "skuId": "1022944483",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Red and Black Cotton Polo For Men",
+            "nid": "128978048",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "128978048",
+                "scene_pre": "search",
+                "current_price": "211",
+                "x_sku_ids": "1048774893",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "128978048"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i128978048-s1048774893.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bc5a416953742c7aa88ff543e618d3a3.jpg",
+            "originalPrice": "699.00",
+            "originalPriceShow": "৳ 699",
+            "price": "211",
+            "promotionId": "null",
+            "priceShow": "৳ 211",
+            "discount": "-70%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "128978048_BD-1048774893",
+            "sku": "128978048_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Polo",
+                "Color: Red and Black",
+                "Main Material: Cotton",
+                "Gender: Men"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505064144",
+            "mainSellerId": "",
+            "sellerName": "Shopno shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bc5a416953742c7aa88ff543e618d3a3.jpg",
+                    "productUrl": "/products/-i128978048-s1048774893.html",
+                    "sku": "128978048_BD",
+                    "skuId": "1048774893"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:128978048;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:128978048_BD;price:211;client:desktop;supplier_id:700505064144;asc_category_id:10001966;item_id:128978048;sku_id:1048774893;shop_id:55587",
+            "addToCartSkus": [
+                {
+                    "sku": "128978048_BD-1048774893",
+                    "title": "Int M",
+                    "skuId": "1048774893",
+                    "count": 0
+                },
+                {
+                    "sku": "128978048_BD-1048774894",
+                    "title": "Int L",
+                    "skuId": "1048774894",
+                    "count": 0
+                },
+                {
+                    "sku": "128978048_BD-1048774895",
+                    "title": "Int XL",
+                    "skuId": "1048774895",
+                    "count": 0
+                }
+            ],
+            "itemId": "128978048",
+            "skuId": "1048774893",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pink colour   sublimation print polo shirt for men",
+            "nid": "222759243",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "222759243",
+                "scene_pre": "search",
+                "current_price": "277",
+                "x_sku_ids": "1169051526",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "222759243"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i222759243-s1169051526.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ea9293c7bcb966abaeb97d3783d27b65.jpg",
+            "originalPrice": "999.00",
+            "originalPriceShow": "৳ 999",
+            "price": "277",
+            "promotionId": "null",
+            "priceShow": "৳ 277",
+            "discount": "-72%",
+            "ratingScore": "5",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "222759243_BD-1169051526",
+            "sku": "222759243_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507530227",
+            "mainSellerId": "",
+            "sellerName": "FH Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ea9293c7bcb966abaeb97d3783d27b65.jpg",
+                    "productUrl": "/products/-i222759243-s1169051526.html",
+                    "sku": "222759243_BD",
+                    "skuId": "1169051526"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:222759243;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:222759243_BD;price:277;client:desktop;supplier_id:700507530227;asc_category_id:10001966;item_id:222759243;sku_id:1169051526;shop_id:97174",
+            "addToCartSkus": [
+                {
+                    "sku": "222759243_BD-1169051526",
+                    "title": "Int M",
+                    "skuId": "1169051526",
+                    "count": 0
+                },
+                {
+                    "sku": "222759243_BD-1169051527",
+                    "title": "Int L",
+                    "skuId": "1169051527",
+                    "count": 0
+                },
+                {
+                    "sku": "222759243_BD-1169051528",
+                    "title": "Int XL",
+                    "skuId": "1169051528",
+                    "count": 0
+                }
+            ],
+            "itemId": "222759243",
+            "skuId": "1169051526",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "JPN polo T-Shirt for Man",
+            "nid": "177696475",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "177696475",
+                "scene_pre": "search",
+                "current_price": "229.00",
+                "x_sku_ids": "1117748050",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "177696475"
+            },
+            "productUrl": "//www.daraz.com.bd/products/jpn-polo-t-shirt-for-men-i177696475-s1117748050.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d82c73b9b85d676879120e74a3309568.jpg",
+            "originalPrice": "999.00",
+            "originalPriceShow": "৳ 999",
+            "price": "229.00",
+            "promotionId": "null",
+            "priceShow": "৳ 229",
+            "discount": "-77%",
+            "ratingScore": "4",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "177696475_BD-1117748050",
+            "sku": "177696475_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507989047",
+            "mainSellerId": "",
+            "sellerName": "AK Collection Mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d82c73b9b85d676879120e74a3309568.jpg",
+                    "productUrl": "/products/jpn-polo-t-shirt-for-men-i177696475-s1117748050.html",
+                    "sku": "177696475_BD",
+                    "skuId": "1117748050"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2b37738a6cbdd3271fdd3b9f7dccb757.jpg",
+                    "productUrl": "/products/jpn-polo-t-shirt-for-men-i177696475-s1175075480.html",
+                    "sku": "177696475_BD",
+                    "skuId": "1175075480"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/545a51a43568e1f87c65880e7da45542.jpg",
+                    "productUrl": "/products/jpn-polo-t-shirt-for-men-i177696475-s1175075477.html",
+                    "sku": "177696475_BD",
+                    "skuId": "1175075477"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/149a02ab48ba0156d32e05c158debc28.jpg",
+                    "productUrl": "/products/jpn-polo-t-shirt-for-men-i177696475-s1175075474.html",
+                    "sku": "177696475_BD",
+                    "skuId": "1175075474"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9af46a422274a2fe14d871ab9791b0c0.jpg",
+                    "productUrl": "/products/jpn-polo-t-shirt-for-men-i177696475-s1175075483.html",
+                    "sku": "177696475_BD",
+                    "skuId": "1175075483"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:177696475;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:177696475_BD;price:229.00;client:desktop;supplier_id:700507989047;asc_category_id:10001966;item_id:177696475;sku_id:1117748050;shop_id:121456",
+            "addToCartSkus": [
+                {
+                    "sku": "177696475_BD-1117748050",
+                    "title": "Int M",
+                    "skuId": "1117748050",
+                    "count": 0
+                },
+                {
+                    "sku": "177696475_BD-1117748051",
+                    "title": "Int L",
+                    "skuId": "1117748051",
+                    "count": 0
+                },
+                {
+                    "sku": "177696475_BD-1117748052",
+                    "title": "Int XL",
+                    "skuId": "1117748052",
+                    "count": 0
+                }
+            ],
+            "itemId": "177696475",
+            "skuId": "1117748050",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jpn Red Staylish cotton polo",
+            "nid": "138498500",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "138498500",
+                "scene_pre": "search",
+                "current_price": "190",
+                "x_sku_ids": "1061358070",
+                "SN": "27417753ec9f2a87fcebf79a894c51a2",
+                "x_ad": "1",
+                "x_object_id": "138498500"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i138498500-s1061358070.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1daaeaf42bcb489d75894c720691210d.jpg",
+            "originalPrice": "999.00",
+            "originalPriceShow": "৳ 999",
+            "price": "190",
+            "promotionId": "null",
+            "priceShow": "৳ 190",
+            "discount": "-81%",
+            "ratingScore": "4.70213",
+            "review": "47",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "138498500_BD-1061358070",
+            "sku": "138498500_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507314090",
+            "mainSellerId": "",
+            "sellerName": "Brother Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1daaeaf42bcb489d75894c720691210d.jpg",
+                    "productUrl": "/products/-i138498500-s1061358070.html",
+                    "sku": "138498500_BD",
+                    "skuId": "1061358070"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                10001966
+            ],
+            "clickTrace": "query:;nid:138498500;src:LazadaMainSrp;rn:27417753ec9f2a87fcebf79a894c51a2;region:bd;sku:138498500_BD;price:190;client:desktop;supplier_id:700507314090;asc_category_id:10001966;item_id:138498500;sku_id:1061358070;shop_id:90975",
+            "addToCartSkus": [
+                {
+                    "sku": "138498500_BD-1061358070",
+                    "title": "Int M",
+                    "skuId": "1061358070",
+                    "count": 0
+                },
+                {
+                    "sku": "138498500_BD-1061358071",
+                    "title": "Int L",
+                    "skuId": "1061358071",
+                    "count": 0
+                },
+                {
+                    "sku": "138498500_BD-1061358072",
+                    "title": "Int XL",
+                    "skuId": "1061358072",
+                    "count": 0
+                }
+            ],
+            "itemId": "138498500",
+            "skuId": "1061358070",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/fashion/",
+            "title": "Fashion"
+        },
+        {
+            "url": "/mens-fashion/",
+            "title": "Men"
+        },
+        {
+            "url": "/mens-clothing/",
+            "title": "Clothing"
+        },
+        {
+            "url": "/mens-polo-shirts/",
+            "title": "Polo Shirts"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/mens-polo-shirts/?referer_rn=27417753ec9f2a87fcebf79a894c51a2&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Ch3%3EMen%20Polo%20T%20Shirt%20At%20Best%20Price%20In%20Bangladesh%20-%20Daraz.com.bd%3C%2Fh3%3E%0A%0A%3Cp%3EWhen%20it%20comes%20to%20men%2C%20comfort%20and%20style%20is%20what%20they%20mostly%20seek%20for.%20A%20combination%20of%20these%20important%20elements%20is%20perfect%20to%20describe%20the%20sense%20of%20%3Ca%20href%3D%22%2Fmens-clothing%2F%22%3Emen%E2%80%99s%20clothing%3C%2Fa%3E.%20They%20need%20to%20feel%20at%20ease%2C%20selecting%20simpler%20options%20without%20being%20so%20picky.%20This%20criteria%20can%20be%20ideal%20to%20bring%20in%20Polo%20shirts%2C%20a%20blend%20of%20formal%20collared%20shirts%20and%20tees.%20Who%20doesn%27t%20like%20polo%20shirts%3F%20Almost%20none%2C%20it%27s%20a%20classic%20wear%20that%20has%20been%20around%20for%20a%20decade.%20With%20a%20number%20of%20variations%2C%20it%20has%20grown%20popular%20in%20%3Ca%20href%3D%2F%22%3Emens-fashion%2F%22%3Emen%27s%20fashion%20wear%20online%3C%2Fa%3E.%20If%20you%20are%20willing%20to%20revamp%20your%20wardrobe%2C%20here%20is%20an%20amazing%20opportunity%20to%20shop%20online%20and%20avail%20best%20discounts%20on%20polo%20t%20shirt%20price%20in%20bangladesh%20only%20at%20Daraz.com.bd.%3C%2Fp%3E%0A%0A%3Ch4%3EA%20Classic%20Collection%20of%20Polo%20Shirts%20for%20Men%3C%2Fh4%3E%0A%3Cp%3EMen%27s%20polo%20t%20shirts%20are%20a%20must%20have%20without%20any%20doubts.%20Allowing%20a%20greater%20movement%2C%20you%20can%20function%20flexibly%20with%20no%20reluctance.%20They%20can%20be%20paired%20with%20%3Ca%20href%3D%22%2Fmens-jeans%2F%22%3Emens%20jeans%3C%2Fa%3E%20or%20%3Ca%20href%3D%22%2Fshop-mens-shorts%2F%22%3Emens%20shorts%3C%2Fa%3E.%20Or%2C%20paired%20them%20with%20a%20nice%20pair%20of%20%3Ca%20href%3D%22%2Fmens-shoes%2F%22%3Emen%E2%80%99s%20shoes%3C%2Fa%3E%2C%20carrying%20a%20masculine%20aura%20everywhere%20you%20go.%20Men%27s%20polo%20shirts%20are%20often%20associated%20with%20sports%2C%20these%20semi%20%3Ca%20href%3D%22%2Fmens-casual-shirts%2F%22%3Emens%20casual%20shirts%3C%2Fa%3E%20can%20accompany%20you%20for%20golf%20or%20tennis.%20These%20are%20capable%20of%20complement%20any%20of%20the%20body%20type%2C%20so%20you%20can%20slip%20into%20it%20yourself%20or%20give%20it%20as%20a%20present%20to%20one%20of%20your%20friends%2C%20they%20will%20absolutely%20love%20it.%3C%2Fp%3E%20%0A%0A%3Cp%3EDo%20not%20forget%20to%20browse%20through%20our%20catalogue%20of%20impressive%20designs%20to%20experience%20mens%20polo%20t%20shirt%20at%20affordable%20prices.%20Rich%20color%20and%20finest%20quality%20of%20material%20is%20what%20we%20offer%20our%20valuable%20customers.%20From%20colored%20to%20striped%20and%20we%20have%20got%20a%20variety%20of%20polo%20shirts%20for%20men%20in%20one%20place.%20Our%20diverse%20assortment%20of%20men%27s%20polo%20shirt%20can%20be%20your%20everyday%20wear%20making%20you%20look%20great.%20It%27s%20designed%20to%20suit%20all%20occasions%2C%20its%20versatility%20can%20be%20utilized%20while%20wearing%20to%20a%20dinner%20or%20running%20errands.%20So%20place%20your%20order%20now%20and%20be%20more%20fashionable%20with%20attractive%20men%27s%20polo%20shirts%20online%20in%20Bangladesh.%20%3C%2Fp%3E%0A%0A%3Ch4%3EBuy%20Men%27s%20Polo%20T-Shirt%20Online%20from%20Daraz.com.bd%3C%2Fh4%3E%0A%3Cp%3ENow%20you%20can%20easily%20buy%20mens%20polo%20shirts%20online%20without%20any%20hassle%20coming%20your%20way.%20A%20trendy%20polo%20from%20a%20reputed%20brand%20can%20be%20your%20favorite%20attire%20to%20wear%20on%20a%20special%20day.%20Why%20bargain%20with%20your%20local%20retailer%20when%20you%20can%20avail%20discounts%20on%20mens%20polo%20shirt%20price%20in%20bangladesh%20only%20at%20daraz.%20Get%20yours%20delivered%20at%20your%20doorstep%20while%20placing%20an%20order%20from%20the%20comfort%20of%20home.%20In%20addition%20to%20timely%20delivery%20and%20multiple%20payment%20methods%2C%20you%20can%20also%20avail%20discounts%20on%20mens%20polo%20t%20shirt%20price%20with%20delivery%20in%20dhaka%2C%20Khulna%20and%20across%20country.%3C%2Fp%3E"
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "16653 items found in {$0}",
+        "title": "Polo Shirts",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Polo Shirts"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Polo Shirts",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "27417753ec9f2a87fcebf79a894c51a2",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "10001966",
+            "category": "10001966"
+        },
+        "categoryRegionalKey": "090205150000",
+        "mainCategoryRegionalKey": "090000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Polo Shirts - Buy Polo Shirts at Best Price in Bangladesh | www.daraz.com.bd",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "true",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Fashion,Men,Clothing,Polo Shirts",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "090205150000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=10001966&_p_asc_cateid=10001966",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "mens-polo-shirts",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "27417753ec9f2a87fcebf79a894c51a2",
+                "resultNr": 16653,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1182152731",
+                "1173679759",
+                "1152467774"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "10001966",
+            "category": "10001966"
+        }
+    }
+}

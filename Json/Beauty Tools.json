@@ -1,0 +1,3621 @@
+{
+    "listItems": [
+        {
+            "name": "Pimple and Blackhead Remover Stick",
+            "nid": "221583332",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "221583332",
+                "scene_pre": "search",
+                "current_price": "11",
+                "x_sku_ids": "1168311162",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "221583332"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i221583332-s1168311162.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b33cd89f46889d67300b672df231ffdb.jpg",
+            "originalPrice": "40.00",
+            "originalPriceShow": "৳ 40",
+            "price": "11",
+            "promotionId": "null",
+            "priceShow": "৳ 11",
+            "discount": "-73%",
+            "ratingScore": "5",
+            "review": "16",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "221583332_BD-1168311162",
+            "sku": "221583332_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509942031",
+            "mainSellerId": "",
+            "sellerName": "Momtaz Fashion World",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b33cd89f46889d67300b672df231ffdb.jpg",
+                    "productUrl": "/products/-i221583332-s1168311162.html",
+                    "sku": "221583332_BD",
+                    "skuId": "1168311162"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1629,
+                1631
+            ],
+            "clickTrace": "query:;nid:221583332;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:221583332_BD;price:11;client:desktop;supplier_id:700509942031;asc_category_id:1631;item_id:221583332;sku_id:1168311162;shop_id:221091",
+            "addToCartSkus": [
+                {
+                    "sku": "221583332_BD-1168311162",
+                    "skuId": "1168311162",
+                    "count": 0
+                }
+            ],
+            "itemId": "221583332",
+            "skuId": "1168311162",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Derma Roller 1 mm (540 microneedle)",
+            "nid": "190305178",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "190305178",
+                "scene_pre": "search",
+                "current_price": "175",
+                "x_sku_ids": "1137690321",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "190305178"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-mm-i190305178-s1137690321.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b7ba1d71415e61405a2542eb2e04c9f8.png",
+            "originalPrice": "345.00",
+            "originalPriceShow": "৳ 345",
+            "price": "175",
+            "promotionId": "null",
+            "priceShow": "৳ 175",
+            "discount": "-49%",
+            "ratingScore": "4.72321",
+            "review": "112",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "190305178_BD-1137690321",
+            "sku": "190305178_BD",
+            "skus": [],
+            "description": [
+                "Reduces stretch marks &amp; cellulite",
+                "Reduces very deep wrinkles &amp; acne scars",
+                "Hair Loss Treatment / Hair Restoration",
+                "Effectively reduces hyperpigmentation",
+                "Promotes skin regeneration",
+                "Increases skin care product absorption &amp; effectiveness",
+                "Rolling system with 540 needles"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508724442",
+            "mainSellerId": "",
+            "sellerName": "Arhan Mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b7ba1d71415e61405a2542eb2e04c9f8.png",
+                    "productUrl": "/products/1-mm-i190305178-s1137690321.html",
+                    "sku": "190305178_BD",
+                    "skuId": "1137690321"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1629,
+                1631
+            ],
+            "clickTrace": "query:;nid:190305178;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:190305178_BD;price:175;client:desktop;supplier_id:700508724442;asc_category_id:1631;item_id:190305178;sku_id:1137690321;shop_id:178418",
+            "addToCartSkus": [
+                {
+                    "sku": "190305178_BD-1137690321",
+                    "skuId": "1137690321",
+                    "count": 0
+                }
+            ],
+            "itemId": "190305178",
+            "skuId": "1137690321",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Silicone Face Brush Deep Pore Cleaner",
+            "nid": "181592114",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "181592114",
+                "scene_pre": "search",
+                "current_price": "44",
+                "x_sku_ids": "1127646405",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "181592114"
+            },
+            "productUrl": "//www.daraz.com.bd/products/silicone-face-brush-deep-pore-cleaner-i181592114-s1127646405.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1f6910b224720405868811be09c31ef0.jpg",
+            "originalPrice": "60.00",
+            "originalPriceShow": "৳ 60",
+            "price": "44",
+            "promotionId": "null",
+            "priceShow": "৳ 44",
+            "discount": "-27%",
+            "ratingScore": "4.67236",
+            "review": "644",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "181592114_BD-1127646405",
+            "sku": "181592114_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1012789",
+            "mainSellerId": "",
+            "sellerName": "Dream's Fashion BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1f6910b224720405868811be09c31ef0.jpg",
+                    "productUrl": "/products/silicone-face-brush-deep-pore-cleaner-i181592114-s1127646405.html",
+                    "sku": "181592114_BD",
+                    "skuId": "1127646405"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1629,
+                1631
+            ],
+            "clickTrace": "query:;nid:181592114;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:181592114_BD;price:44;client:desktop;supplier_id:1012789;asc_category_id:1631;item_id:181592114;sku_id:1127646405;shop_id:18886",
+            "addToCartSkus": [
+                {
+                    "sku": "181592114_BD-1127646405",
+                    "skuId": "1127646405",
+                    "count": 0
+                }
+            ],
+            "itemId": "181592114",
+            "skuId": "1127646405",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "6PCS Ear Pick Set Portable Ear Cleaner Ear Wax Remover Ear Curette Spiral Ear Spoon Ear Cleaning Tools With Lather Case",
+            "nid": "218867023",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "218867023",
+                "scene_pre": "search",
+                "current_price": "77",
+                "x_sku_ids": "1166558047",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "218867023"
+            },
+            "productUrl": "//www.daraz.com.bd/products/6-i218867023-s1166558047.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0d4d739c096a42e886e08e0df694b90c.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "77",
+            "promotionId": "null",
+            "priceShow": "৳ 77",
+            "discount": "-74%",
+            "ratingScore": "4.85714",
+            "review": "14",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "218867023_BD-1166558047",
+            "sku": "218867023_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "2961",
+            "mainSellerId": "",
+            "sellerName": "SIX DEGREES",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0d4d739c096a42e886e08e0df694b90c.jpg",
+                    "productUrl": "/products/6-i218867023-s1166558047.html",
+                    "sku": "218867023_BD",
+                    "skuId": "1166558047"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1629,
+                1630
+            ],
+            "clickTrace": "query:;nid:218867023;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:218867023_BD;price:77;client:desktop;supplier_id:2961;asc_category_id:1630;item_id:218867023;sku_id:1166558047;shop_id:3313",
+            "addToCartSkus": [
+                {
+                    "sku": "218867023_BD-1166558047",
+                    "skuId": "1166558047",
+                    "count": 0
+                }
+            ],
+            "itemId": "218867023",
+            "skuId": "1166558047",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "XINYAN Apple Electric Mini Handheld Vibrating Body Massagers & Slimming",
+            "nid": "145750691",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "145750691",
+                "scene_pre": "search",
+                "current_price": "121",
+                "x_sku_ids": "1071202122",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "145750691"
+            },
+            "productUrl": "//www.daraz.com.bd/products/xinyan-i145750691-s1071202122.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/1b702d4addeac4dd39873857af028e48.jpg",
+            "originalPrice": "220.00",
+            "originalPriceShow": "৳ 220",
+            "price": "121",
+            "promotionId": "null",
+            "priceShow": "৳ 121",
+            "discount": "-45%",
+            "ratingScore": "4.55372",
+            "review": "242",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "145750691_BD-1071202122",
+            "sku": "145750691_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "155049",
+            "brandName": "24 Bazaar",
+            "sellerId": "1648",
+            "mainSellerId": "",
+            "sellerName": "24 Bazaar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/1b702d4addeac4dd39873857af028e48.jpg",
+                    "productUrl": "/products/xinyan-i145750691-s1071202122.html",
+                    "sku": "145750691_BD",
+                    "skuId": "1071202122"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1643
+            ],
+            "clickTrace": "query:;nid:145750691;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:145750691_BD;price:121;client:desktop;supplier_id:1648;asc_category_id:1643;item_id:145750691;sku_id:1071202122;shop_id:2363",
+            "addToCartSkus": [
+                {
+                    "sku": "145750691_BD-1071202122",
+                    "skuId": "1071202122",
+                    "count": 0
+                }
+            ],
+            "itemId": "145750691",
+            "skuId": "1071202122",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Apple electric massager Apple Electric Mini Handheld Vibrating Body Massager",
+            "nid": "172246598",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "172246598",
+                "scene_pre": "search",
+                "current_price": "110",
+                "x_sku_ids": "1108522423",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "172246598"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i172246598-s1108522423.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fd72762288964a8fb195b8df56f3006f.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "110",
+            "promotionId": "null",
+            "priceShow": "৳ 110",
+            "discount": "-56%",
+            "ratingScore": "4.65714",
+            "review": "35",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "172246598_BD-1108522423",
+            "sku": "172246598_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506393351",
+            "mainSellerId": "",
+            "sellerName": "Online Bongo Shop BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fd72762288964a8fb195b8df56f3006f.jpg",
+                    "productUrl": "/products/-i172246598-s1108522423.html",
+                    "sku": "172246598_BD",
+                    "skuId": "1108522423"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1643
+            ],
+            "clickTrace": "query:;nid:172246598;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:172246598_BD;price:110;client:desktop;supplier_id:700506393351;asc_category_id:1643;item_id:172246598;sku_id:1108522423;shop_id:78048",
+            "addToCartSkus": [
+                {
+                    "sku": "172246598_BD-1108522423",
+                    "title": "One Size",
+                    "skuId": "1108522423",
+                    "count": 0
+                }
+            ],
+            "itemId": "172246598",
+            "skuId": "1108522423",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pimple and Blackhead Remover Stick",
+            "nid": "121762576",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "121762576",
+                "scene_pre": "search",
+                "current_price": "14",
+                "x_sku_ids": "1041598098",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "121762576"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i121762576-s1041598098.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ba0fb1a077aee607553b01ebb93c456f.jpg",
+            "originalPrice": "65.00",
+            "originalPriceShow": "৳ 65",
+            "price": "14",
+            "promotionId": "null",
+            "priceShow": "৳ 14",
+            "discount": "-78%",
+            "ratingScore": "4.65261",
+            "review": "593",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "121762576_BD-1041598098",
+            "sku": "121762576_BD",
+            "skus": [],
+            "description": [
+                "Compact in size",
+                "Convenient to use",
+                "Both sides are useable",
+                "Hassle free and comfortable",
+                "Cleanse your face from pimples and blackheads"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1014694",
+            "mainSellerId": "",
+            "sellerName": "dr health SHOP",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ba0fb1a077aee607553b01ebb93c456f.jpg",
+                    "productUrl": "/products/-i121762576-s1041598098.html",
+                    "sku": "121762576_BD",
+                    "skuId": "1041598098"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1629,
+                1631
+            ],
+            "clickTrace": "query:;nid:121762576;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:121762576_BD;price:14;client:desktop;supplier_id:1014694;asc_category_id:1631;item_id:121762576;sku_id:1041598098;shop_id:20970",
+            "addToCartSkus": [
+                {
+                    "sku": "121762576_BD-1041598098",
+                    "skuId": "1041598098",
+                    "count": 0
+                }
+            ],
+            "itemId": "121762576",
+            "skuId": "1041598098",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Y Shaped 3D Body Message Roller",
+            "nid": "190479293",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "190479293",
+                "scene_pre": "search",
+                "current_price": "191",
+                "x_sku_ids": "1137786908",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "190479293"
+            },
+            "productUrl": "//www.daraz.com.bd/products/y-3d-i190479293-s1137786908.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9ad693c18fde7c8ecfa2ae53c7983a5a.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "191",
+            "promotionId": "null",
+            "priceShow": "৳ 191",
+            "discount": "-58%",
+            "ratingScore": "4.83636",
+            "review": "55",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "190479293_BD-1137786908",
+            "sku": "190479293_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506903004",
+            "mainSellerId": "",
+            "sellerName": "Welldeal BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9ad693c18fde7c8ecfa2ae53c7983a5a.jpg",
+                    "productUrl": "/products/y-3d-i190479293-s1137786908.html",
+                    "sku": "190479293_BD",
+                    "skuId": "1137786908"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1643
+            ],
+            "clickTrace": "query:;nid:190479293;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:190479293_BD;price:191;client:desktop;supplier_id:700506903004;asc_category_id:1643;item_id:190479293;sku_id:1137786908;shop_id:86696",
+            "addToCartSkus": [
+                {
+                    "sku": "190479293_BD-1137786908",
+                    "title": "One Size",
+                    "skuId": "1137786908",
+                    "count": 0
+                }
+            ],
+            "itemId": "190479293",
+            "skuId": "1137786908",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Y Shaped 3D Massage Roller",
+            "nid": "126206682",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "126206682",
+                "scene_pre": "search",
+                "current_price": "172",
+                "x_sku_ids": "1046315750",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "126206682"
+            },
+            "productUrl": "//www.daraz.com.bd/products/y-3d-i126206682-s1046315750.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/55c777d9539c1378462a26ea8c70263d.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "172",
+            "promotionId": "null",
+            "priceShow": "৳ 172",
+            "discount": "-62%",
+            "ratingScore": "4.72065",
+            "review": "247",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "126206682_BD-1046315750",
+            "sku": "126206682_BD",
+            "skus": [],
+            "description": [
+                "High quality product",
+                "Easy to use",
+                "Easy to carry",
+                "Long lasting usage"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1016344",
+            "mainSellerId": "",
+            "sellerName": "Crazy Deal Mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/55c777d9539c1378462a26ea8c70263d.jpg",
+                    "productUrl": "/products/y-3d-i126206682-s1046315750.html",
+                    "sku": "126206682_BD",
+                    "skuId": "1046315750"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1643
+            ],
+            "clickTrace": "query:;nid:126206682;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:126206682_BD;price:172;client:desktop;supplier_id:1016344;asc_category_id:1643;item_id:126206682;sku_id:1046315750;shop_id:22713",
+            "addToCartSkus": [
+                {
+                    "sku": "126206682_BD-1046315750",
+                    "skuId": "1046315750",
+                    "count": 0
+                }
+            ],
+            "itemId": "126206682",
+            "skuId": "1046315750",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Modelling Comb Men Beard and Hair Quick Straightener Curling Straightener",
+            "nid": "211575644",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "211575644",
+                "scene_pre": "search",
+                "current_price": "398.00",
+                "x_sku_ids": "1161374987",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "211575644"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i211575644-s1161374987.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/17be8b8432c8e39de5d50778ddaf2b00.jpg",
+            "originalPrice": "1000.00",
+            "originalPriceShow": "৳ 1,000",
+            "price": "398.00",
+            "promotionId": "null",
+            "priceShow": "৳ 398",
+            "discount": "-60%",
+            "ratingScore": "4.32394",
+            "review": "71",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "211575644_BD-1161374987",
+            "sku": "211575644_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508238083",
+            "mainSellerId": "",
+            "sellerName": "BEST TRIMMER AND SHAVER",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/17be8b8432c8e39de5d50778ddaf2b00.jpg",
+                    "productUrl": "/products/-i211575644-s1161374987.html",
+                    "sku": "211575644_BD",
+                    "skuId": "1161374987"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1632,
+                10002209
+            ],
+            "clickTrace": "query:;nid:211575644;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:211575644_BD;price:398.00;client:desktop;supplier_id:700508238083;asc_category_id:10002209;item_id:211575644;sku_id:1161374987;shop_id:137145",
+            "addToCartSkus": [
+                {
+                    "sku": "211575644_BD-1161374987",
+                    "skuId": "1161374987",
+                    "count": 0
+                }
+            ],
+            "itemId": "211575644",
+            "skuId": "1161374987",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "New NV-658 Folding Hair Dryer - Pink and White",
+            "nid": "212478745",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "212478745",
+                "scene_pre": "search",
+                "current_price": "343.00",
+                "x_sku_ids": "1162061238",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "212478745"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nv-1290-i212478745-s1162061238.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/758ee2deb21552ac0172d28b54489aff.jpg",
+            "originalPrice": "700.00",
+            "originalPriceShow": "৳ 700",
+            "price": "343.00",
+            "promotionId": "null",
+            "priceShow": "৳ 343",
+            "discount": "-51%",
+            "ratingScore": "4.5",
+            "review": "66",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "212478745_BD-1162061238",
+            "sku": "212478745_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "29416",
+            "brandName": "Kemei",
+            "sellerId": "700508238083",
+            "mainSellerId": "",
+            "sellerName": "BEST TRIMMER AND SHAVER",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/758ee2deb21552ac0172d28b54489aff.jpg",
+                    "productUrl": "/products/nv-1290-i212478745-s1162061238.html",
+                    "sku": "212478745_BD",
+                    "skuId": "1162061238"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1632,
+                1634
+            ],
+            "clickTrace": "query:;nid:212478745;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:212478745_BD;price:343.00;client:desktop;supplier_id:700508238083;asc_category_id:1634;item_id:212478745;sku_id:1162061238;shop_id:137145",
+            "addToCartSkus": [
+                {
+                    "sku": "212478745_BD-1162061238",
+                    "skuId": "1162061238",
+                    "count": 0
+                }
+            ],
+            "itemId": "212478745",
+            "skuId": "1162061238",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "New NV-1290 Folding Hair Dryer - Pink and White",
+            "nid": "212480718",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "212480718",
+                "scene_pre": "search",
+                "current_price": "349.00",
+                "x_sku_ids": "1162051991",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "212480718"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nv-1290-i212480718-s1162051991.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1d7790818b15fc7558b2a465441da7ba.jpg",
+            "originalPrice": "600.00",
+            "originalPriceShow": "৳ 600",
+            "price": "349.00",
+            "promotionId": "null",
+            "priceShow": "৳ 349",
+            "discount": "-42%",
+            "ratingScore": "4.60897",
+            "review": "156",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "212480718_BD-1162051991",
+            "sku": "212480718_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508238083",
+            "mainSellerId": "",
+            "sellerName": "BEST TRIMMER AND SHAVER",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1d7790818b15fc7558b2a465441da7ba.jpg",
+                    "productUrl": "/products/nv-1290-i212480718-s1162051991.html",
+                    "sku": "212480718_BD",
+                    "skuId": "1162051991"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1632,
+                1634
+            ],
+            "clickTrace": "query:;nid:212480718;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:212480718_BD;price:349.00;client:desktop;supplier_id:700508238083;asc_category_id:1634;item_id:212480718;sku_id:1162051991;shop_id:137145",
+            "addToCartSkus": [
+                {
+                    "sku": "212480718_BD-1162051991",
+                    "skuId": "1162051991",
+                    "count": 0
+                }
+            ],
+            "itemId": "212480718",
+            "skuId": "1162051991",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Face Cleansing Brush Effective Nose Exfoliator Blackhead Removal Brush",
+            "nid": "190303224",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "190303224",
+                "scene_pre": "search",
+                "current_price": "30",
+                "x_sku_ids": "1137677899",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "190303224"
+            },
+            "productUrl": "//www.daraz.com.bd/products/face-cleansing-brush-effective-nose-exfoliator-blackhead-removal-brush-i190303224-s1137677899.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/a87d56e5a7967471e295e8e0ac3e1854.jpg",
+            "originalPrice": "69.00",
+            "originalPriceShow": "৳ 69",
+            "price": "30",
+            "promotionId": "null",
+            "priceShow": "৳ 30",
+            "discount": "-57%",
+            "ratingScore": "4.55814",
+            "review": "86",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "190303224_BD-1137677899",
+            "sku": "190303224_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508349042",
+            "mainSellerId": "",
+            "sellerName": "Ayan's Corner",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/a87d56e5a7967471e295e8e0ac3e1854.jpg",
+                    "productUrl": "/products/face-cleansing-brush-effective-nose-exfoliator-blackhead-removal-brush-i190303224-s1137677899.html",
+                    "sku": "190303224_BD",
+                    "skuId": "1137677899"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1629,
+                1631
+            ],
+            "clickTrace": "query:;nid:190303224;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:190303224_BD;price:30;client:desktop;supplier_id:700508349042;asc_category_id:1631;item_id:190303224;sku_id:1137677899;shop_id:149170",
+            "addToCartSkus": [
+                {
+                    "sku": "190303224_BD-1137677899",
+                    "skuId": "1137677899",
+                    "count": 0
+                }
+            ],
+            "itemId": "190303224",
+            "skuId": "1137677899",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "2 pieces of a pair, Silicone Gel Heel Socks Insoles for Dry Hard Cracked Heel Repair Pad, Swelling & Pain Relief, Plantar Fasciitis   For Foot Care",
+            "nid": "144352901",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "144352901",
+                "scene_pre": "search",
+                "current_price": "130",
+                "x_sku_ids": "1068996994",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "144352901"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-i144352901-s1068996994.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/f78c625a1649e8343c95542dd374b23d.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "130",
+            "promotionId": "null",
+            "priceShow": "৳ 130",
+            "discount": "-80%",
+            "ratingScore": "4.54331",
+            "review": "127",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "144352901_BD-1068996994",
+            "sku": "144352901_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507518096",
+            "mainSellerId": "",
+            "sellerName": "Nilima Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/f78c625a1649e8343c95542dd374b23d.jpg",
+                    "productUrl": "/products/2-i144352901-s1068996994.html",
+                    "sku": "144352901_BD",
+                    "skuId": "1068996994"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                10002067
+            ],
+            "clickTrace": "query:;nid:144352901;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:144352901_BD;price:130;client:desktop;supplier_id:700507518096;asc_category_id:10002067;item_id:144352901;sku_id:1068996994;shop_id:92976",
+            "addToCartSkus": [
+                {
+                    "sku": "144352901_BD-1068996994",
+                    "skuId": "1068996994",
+                    "count": 0
+                }
+            ],
+            "itemId": "144352901",
+            "skuId": "1068996994",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "New 5 in 1 Electric Facial Washing Brush",
+            "nid": "177690998",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "177690998",
+                "scene_pre": "search",
+                "current_price": "211",
+                "x_sku_ids": "1117784310",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "177690998"
+            },
+            "productUrl": "//www.daraz.com.bd/products/5-1-i177690998-s1117784310.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/724b61e8dc84bf98f621a516c8ac6833.jpg",
+            "originalPrice": "422.00",
+            "originalPriceShow": "৳ 422",
+            "price": "211",
+            "promotionId": "null",
+            "priceShow": "৳ 211",
+            "discount": "-50%",
+            "ratingScore": "4.36667",
+            "review": "30",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "177690998_BD-1117784310",
+            "sku": "177690998_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1014694",
+            "mainSellerId": "",
+            "sellerName": "dr health SHOP",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/724b61e8dc84bf98f621a516c8ac6833.jpg",
+                    "productUrl": "/products/5-1-i177690998-s1117784310.html",
+                    "sku": "177690998_BD",
+                    "skuId": "1117784310"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1629,
+                1631
+            ],
+            "clickTrace": "query:;nid:177690998;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:177690998_BD;price:211;client:desktop;supplier_id:1014694;asc_category_id:1631;item_id:177690998;sku_id:1117784310;shop_id:20970",
+            "addToCartSkus": [
+                {
+                    "sku": "177690998_BD-1117784310",
+                    "skuId": "1117784310",
+                    "count": 0
+                }
+            ],
+            "itemId": "177690998",
+            "skuId": "1117784310",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Multifunction Home Car Electric Body Massager Pillow Infrared Acupressure Shiatsu Neck Pain Relief Massage Machine Tool",
+            "nid": "186373496",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "186373496",
+                "scene_pre": "search",
+                "current_price": "842",
+                "x_sku_ids": "1132856396",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "186373496"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i186373496-s1132856396.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/de38e4e0f3b49cf9919a9e91f2aaf3d8.jpg",
+            "originalPrice": "1550.00",
+            "originalPriceShow": "৳ 1,550",
+            "price": "842",
+            "promotionId": "null",
+            "priceShow": "৳ 842",
+            "discount": "-46%",
+            "ratingScore": "4.69444",
+            "review": "36",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "186373496_BD-1132856396",
+            "sku": "186373496_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508604452",
+            "mainSellerId": "",
+            "sellerName": "etcshop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/de38e4e0f3b49cf9919a9e91f2aaf3d8.jpg",
+                    "productUrl": "/products/-i186373496-s1132856396.html",
+                    "sku": "186373496_BD",
+                    "skuId": "1132856396"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1643
+            ],
+            "clickTrace": "query:;nid:186373496;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:186373496_BD;price:842;client:desktop;supplier_id:700508604452;asc_category_id:1643;item_id:186373496;sku_id:1132856396;shop_id:172788",
+            "addToCartSkus": [
+                {
+                    "sku": "186373496_BD-1132856396",
+                    "title": "One Size",
+                    "skuId": "1132856396",
+                    "count": 0
+                }
+            ],
+            "itemId": "186373496",
+            "skuId": "1132856396",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "DRS Derma Roller 0.75 mm (540 MicroNeedles)",
+            "nid": "216357300",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "216357300",
+                "scene_pre": "search",
+                "current_price": "159",
+                "x_sku_ids": "1164614386",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "216357300"
+            },
+            "productUrl": "//www.daraz.com.bd/products/drs-075mm-540-microneedles-i216357300-s1164614386.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/66219ef9aa9462e08093e5146e7c204a.png",
+            "originalPrice": "390.00",
+            "originalPriceShow": "৳ 390",
+            "price": "159",
+            "promotionId": "null",
+            "priceShow": "৳ 159",
+            "discount": "-59%",
+            "ratingScore": "4.55556",
+            "review": "9",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "216357300_BD-1164614386",
+            "sku": "216357300_BD",
+            "skus": [],
+            "description": [
+                "Reduces stretch marks &amp; cellulite",
+                "Reduces very deep wrinkles &amp; acne scars",
+                "Hair Loss Treatment / Hair Restoration",
+                "Effectively reduces hyperpigmentation",
+                "Promotes skin regeneration",
+                "Increases skin care product absorption &amp; effectiveness",
+                "Rolling system with 540 needles"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508724442",
+            "mainSellerId": "",
+            "sellerName": "Arhan Mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/66219ef9aa9462e08093e5146e7c204a.png",
+                    "productUrl": "/products/drs-075mm-540-microneedles-i216357300-s1164614386.html",
+                    "sku": "216357300_BD",
+                    "skuId": "1164614386"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1629,
+                1631
+            ],
+            "clickTrace": "query:;nid:216357300;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:216357300_BD;price:159;client:desktop;supplier_id:700508724442;asc_category_id:1631;item_id:216357300;sku_id:1164614386;shop_id:178418",
+            "addToCartSkus": [
+                {
+                    "sku": "216357300_BD-1164614386",
+                    "skuId": "1164614386",
+                    "count": 0
+                }
+            ],
+            "itemId": "216357300",
+            "skuId": "1164614386",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Blackhead Remover Tool Acne Pimple Spot Extractor Pin - Silver",
+            "nid": "128944904",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "128944904",
+                "scene_pre": "search",
+                "current_price": "19",
+                "x_sku_ids": "1048754647",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "128944904"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i128944904-s1048754647.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/0b14d34f78b12457dca3fa8c41382734.jpg",
+            "originalPrice": "25.00",
+            "originalPriceShow": "৳ 25",
+            "price": "19",
+            "promotionId": "null",
+            "priceShow": "৳ 19",
+            "discount": "-24%",
+            "ratingScore": "4.64564",
+            "review": "745",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "128944904_BD-1048754647",
+            "sku": "128944904_BD",
+            "skus": [],
+            "description": [
+                "Using face washes, scrubs, and masks can help you in controlling pimples and blackheads, but mostly they don’t eliminate them completely. Squeezing your skin in the process of eliminating gets very painful. This is where a pimple and blackhead remover loop comes in handy.This pimple and blackhead removerprimarily helps you in the removal of stern pimples and deep blackheads. It also assists you with cleaning your skin from makeup and oils. It cleanses deep pores and exfoliates your facial skin. The blemishes in your skin in the form of pimples and blackheads can now be cleared with the help of this tool.This Pimple and Blackhead Remover has two functions from both the ends. One end has a loop while the other has a needle. The loop helps you in removing the blackheads by pressing it gently against the skin. This tool is made of good quality stainless steel. It is also washable and it doesn’t form any rust."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505058037",
+            "mainSellerId": "",
+            "sellerName": "Day Night Bazar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/0b14d34f78b12457dca3fa8c41382734.jpg",
+                    "productUrl": "/products/-i128944904-s1048754647.html",
+                    "sku": "128944904_BD",
+                    "skuId": "1048754647"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1629,
+                1631
+            ],
+            "clickTrace": "query:;nid:128944904;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:128944904_BD;price:19;client:desktop;supplier_id:700505058037;asc_category_id:1631;item_id:128944904;sku_id:1048754647;shop_id:54120",
+            "addToCartSkus": [
+                {
+                    "sku": "128944904_BD-1048754647",
+                    "skuId": "1048754647",
+                    "count": 0
+                }
+            ],
+            "itemId": "128944904",
+            "skuId": "1048754647",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pro Head Neck Scalp Relax Massager Stainless Steel Head Massage",
+            "nid": "190955132",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "190955132",
+                "scene_pre": "search",
+                "current_price": "48",
+                "x_sku_ids": "1138159462",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "190955132"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i190955132-s1138159462.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/83e573894e7a96aeec6c61f1246cf2eb.jpg",
+            "originalPrice": "99.00",
+            "originalPriceShow": "৳ 99",
+            "price": "48",
+            "promotionId": "null",
+            "priceShow": "৳ 48",
+            "discount": "-52%",
+            "ratingScore": "4.76923",
+            "review": "13",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "190955132_BD-1138159462",
+            "sku": "190955132_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "2017",
+            "mainSellerId": "",
+            "sellerName": "Heaven Shop BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/83e573894e7a96aeec6c61f1246cf2eb.jpg",
+                    "productUrl": "/products/-i190955132-s1138159462.html",
+                    "sku": "190955132_BD",
+                    "skuId": "1138159462"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1643
+            ],
+            "clickTrace": "query:;nid:190955132;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:190955132_BD;price:48;client:desktop;supplier_id:2017;asc_category_id:1643;item_id:190955132;sku_id:1138159462;shop_id:2615",
+            "addToCartSkus": [
+                {
+                    "sku": "190955132_BD-1138159462",
+                    "title": "One size fits all",
+                    "skuId": "1138159462",
+                    "count": 0
+                }
+            ],
+            "itemId": "190955132",
+            "skuId": "1138159462",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Octopus Shape Deep Pore Cleansing Face Brush",
+            "nid": "170808481",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "170808481",
+                "scene_pre": "search",
+                "current_price": "44.00",
+                "x_sku_ids": "1106250294",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "170808481"
+            },
+            "productUrl": "//www.daraz.com.bd/products/octopus-shape-deep-pore-exfoliating-cleansing-face-brush-i170808481-s1106250294.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/b0d73d2b3025f4ebd141a9a8e75f7221.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "44.00",
+            "promotionId": "null",
+            "priceShow": "৳ 44",
+            "discount": "-87%",
+            "ratingScore": "4.725",
+            "review": "600",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "170808481_BD-1106250294",
+            "sku": "170808481_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505019128",
+            "mainSellerId": "",
+            "sellerName": "faruk360 Online Shop BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/b0d73d2b3025f4ebd141a9a8e75f7221.jpg",
+                    "productUrl": "/products/octopus-shape-deep-pore-exfoliating-cleansing-face-brush-i170808481-s1106250294.html",
+                    "sku": "170808481_BD",
+                    "skuId": "1106250294"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1629,
+                1631
+            ],
+            "clickTrace": "query:;nid:170808481;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:170808481_BD;price:44.00;client:desktop;supplier_id:700505019128;asc_category_id:1631;item_id:170808481;sku_id:1106250294;shop_id:55604",
+            "addToCartSkus": [
+                {
+                    "sku": "170808481_BD-1106250294",
+                    "skuId": "1106250294",
+                    "count": 0
+                }
+            ],
+            "itemId": "170808481",
+            "skuId": "1106250294",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pimple and Blackhead Remover Stick",
+            "nid": "121759804",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "121759804",
+                "scene_pre": "search",
+                "current_price": "11",
+                "x_sku_ids": "1041590625",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "121759804"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i121759804-s1041590625.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/753ab764c0352e3299e51421b2e3f982.jpg",
+            "originalPrice": "75.00",
+            "originalPriceShow": "৳ 75",
+            "price": "11",
+            "promotionId": "null",
+            "priceShow": "৳ 11",
+            "discount": "-85%",
+            "ratingScore": "4.89796",
+            "review": "49",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "121759804_BD-1041590625",
+            "sku": "121759804_BD",
+            "skus": [],
+            "description": [
+                "Compact in size",
+                "Convenient to use",
+                "Both sides are useable",
+                "Hassle free and comfortable",
+                "Cleanse your face from pimples and blackheads"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1014694",
+            "mainSellerId": "",
+            "sellerName": "dr health SHOP",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/753ab764c0352e3299e51421b2e3f982.jpg",
+                    "productUrl": "/products/-i121759804-s1041590625.html",
+                    "sku": "121759804_BD",
+                    "skuId": "1041590625"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1629,
+                1631
+            ],
+            "clickTrace": "query:;nid:121759804;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:121759804_BD;price:11;client:desktop;supplier_id:1014694;asc_category_id:1631;item_id:121759804;sku_id:1041590625;shop_id:20970",
+            "addToCartSkus": [
+                {
+                    "sku": "121759804_BD-1041590625",
+                    "skuId": "1041590625",
+                    "count": 0
+                }
+            ],
+            "itemId": "121759804",
+            "skuId": "1041590625",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Leg Cleaner 4 in 1",
+            "nid": "197725572",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "197725572",
+                "scene_pre": "search",
+                "current_price": "54",
+                "x_sku_ids": "1144400445",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "197725572"
+            },
+            "productUrl": "//www.daraz.com.bd/products/4-1-i197725572-s1144400445.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8bbfb5c8408f92a585d0fe20ef4c8561.jpg",
+            "originalPrice": "125.00",
+            "originalPriceShow": "৳ 125",
+            "price": "54",
+            "promotionId": "null",
+            "priceShow": "৳ 54",
+            "discount": "-57%",
+            "ratingScore": "4.41667",
+            "review": "12",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "197725572_BD-1144400445",
+            "sku": "197725572_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507146050",
+            "mainSellerId": "",
+            "sellerName": "MB Sell Mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8bbfb5c8408f92a585d0fe20ef4c8561.jpg",
+                    "productUrl": "/products/4-1-i197725572-s1144400445.html",
+                    "sku": "197725572_BD",
+                    "skuId": "1144400445"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                10002067
+            ],
+            "clickTrace": "query:;nid:197725572;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:197725572_BD;price:54;client:desktop;supplier_id:700507146050;asc_category_id:10002067;item_id:197725572;sku_id:1144400445;shop_id:88683",
+            "addToCartSkus": [
+                {
+                    "sku": "197725572_BD-1144400445",
+                    "skuId": "1144400445",
+                    "count": 0
+                }
+            ],
+            "itemId": "197725572",
+            "skuId": "1144400445",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Soli Foot Scrubber 1pcs",
+            "nid": "224966623",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "224966623",
+                "scene_pre": "search",
+                "current_price": "30.00",
+                "x_sku_ids": "1170431219",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "224966623"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i224966623-s1170431219.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ff3a1ebcac99ca1d9be14a5d7bf3b1c3.png",
+            "originalPrice": "55.00",
+            "originalPriceShow": "৳ 55",
+            "price": "30.00",
+            "promotionId": "null",
+            "priceShow": "৳ 30",
+            "discount": "-45%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "224966623_BD-1170431219",
+            "sku": "224966623_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1037352",
+            "mainSellerId": "",
+            "sellerName": "Happy Place Online Shop (KHL)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ff3a1ebcac99ca1d9be14a5d7bf3b1c3.png",
+                    "productUrl": "/products/1-i224966623-s1170431219.html",
+                    "sku": "224966623_BD",
+                    "skuId": "1170431219"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                10002067
+            ],
+            "clickTrace": "query:;nid:224966623;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:224966623_BD;price:30.00;client:desktop;supplier_id:1037352;asc_category_id:10002067;item_id:224966623;sku_id:1170431219;shop_id:43209",
+            "addToCartSkus": [
+                {
+                    "sku": "224966623_BD-1170431219",
+                    "skuId": "1170431219",
+                    "count": 0
+                }
+            ],
+            "itemId": "224966623",
+            "skuId": "1170431219",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "1 Pair Foot Care Protector High Heel Shoe Insole Cushion Pad",
+            "nid": "189987370",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "189987370",
+                "scene_pre": "search",
+                "current_price": "50",
+                "x_sku_ids": "1137517413",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "189987370"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-pair-foot-care-protector-high-heel-shoe-insole-cushion-pad-i189987370-s1137517413.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/68c7ff687575c8c42713d62c3739cd26.jpg",
+            "originalPrice": "99.00",
+            "originalPriceShow": "৳ 99",
+            "price": "50",
+            "promotionId": "null",
+            "priceShow": "৳ 50",
+            "discount": "-49%",
+            "ratingScore": "4.83333",
+            "review": "18",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "189987370_BD-1137517413",
+            "sku": "189987370_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508349042",
+            "mainSellerId": "",
+            "sellerName": "Ayan's Corner",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/68c7ff687575c8c42713d62c3739cd26.jpg",
+                    "productUrl": "/products/1-pair-foot-care-protector-high-heel-shoe-insole-cushion-pad-i189987370-s1137517413.html",
+                    "sku": "189987370_BD",
+                    "skuId": "1137517413"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/68c7ff687575c8c42713d62c3739cd26.jpg",
+                    "productUrl": "/products/1-pair-foot-care-protector-high-heel-shoe-insole-cushion-pad-i189987370-s1176306912.html",
+                    "sku": "189987370_BD",
+                    "skuId": "1176306912"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/68c7ff687575c8c42713d62c3739cd26.jpg",
+                    "productUrl": "/products/1-pair-foot-care-protector-high-heel-shoe-insole-cushion-pad-i189987370-s1137517414.html",
+                    "sku": "189987370_BD",
+                    "skuId": "1137517414"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                10002067
+            ],
+            "clickTrace": "query:;nid:189987370;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:189987370_BD;price:50;client:desktop;supplier_id:700508349042;asc_category_id:10002067;item_id:189987370;sku_id:1137517413;shop_id:149170",
+            "addToCartSkus": [
+                {
+                    "sku": "189987370_BD-1137517413",
+                    "skuId": "1137517413",
+                    "count": 0
+                }
+            ],
+            "itemId": "189987370",
+            "skuId": "1137517413",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "1pcs Silicone Face Cleaning Brush Washing Pad ",
+            "nid": "183929208",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183929208",
+                "scene_pre": "search",
+                "current_price": "30.00",
+                "x_sku_ids": "1128559013",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "183929208"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1pcs-silicone-face-cleaning-brush-washing-pad-i183929208-s1128559013.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/31c68fa1d202018162f8ed8dd3c9a456.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "30.00",
+            "promotionId": "null",
+            "priceShow": "৳ 30",
+            "discount": "-80%",
+            "ratingScore": "4.775",
+            "review": "120",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183929208_BD-1128559013",
+            "sku": "183929208_BD",
+            "skus": [],
+            "description": [
+                "A soft silicone brush can also be used to wash your baby's hair.",
+                "It is created by premium quality silicone material, which could gentle clean the skin deeply.",
+                "Weight:8g",
+                "Material:Silicone",
+                "Made of food grade silicone material",
+                "Size: 6.5*5*1.5cm",
+                "Color: Multi-color optional"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508439320",
+            "mainSellerId": "",
+            "sellerName": "Prottasha Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/31c68fa1d202018162f8ed8dd3c9a456.jpg",
+                    "productUrl": "/products/1pcs-silicone-face-cleaning-brush-washing-pad-i183929208-s1128559013.html",
+                    "sku": "183929208_BD",
+                    "skuId": "1128559013"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1629,
+                1631
+            ],
+            "clickTrace": "query:;nid:183929208;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:183929208_BD;price:30.00;client:desktop;supplier_id:700508439320;asc_category_id:1631;item_id:183929208;sku_id:1128559013;shop_id:160132",
+            "addToCartSkus": [
+                {
+                    "sku": "183929208_BD-1128559013",
+                    "skuId": "1128559013",
+                    "count": 0
+                }
+            ],
+            "itemId": "183929208",
+            "skuId": "1128559013",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "2 pieces of a pair, Silicone Gel Heel Socks Insoles for Dry Hard Cracked Heel Repair Pad, Swelling & Pain Relief, Plantar Fasciitis For Foot Care",
+            "nid": "181295331",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "181295331",
+                "scene_pre": "search",
+                "current_price": "98",
+                "x_sku_ids": "1122941281",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "181295331"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-i181295331-s1122941281.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ed1caad4a0c96ab329b67d2e8d389ea4.jpg",
+            "originalPrice": "110.00",
+            "originalPriceShow": "৳ 110",
+            "price": "98",
+            "promotionId": "null",
+            "priceShow": "৳ 98",
+            "discount": "-11%",
+            "ratingScore": "4.65753",
+            "review": "73",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "181295331_BD-1122941281",
+            "sku": "181295331_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1010417",
+            "mainSellerId": "",
+            "sellerName": "0nlineshopbd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ed1caad4a0c96ab329b67d2e8d389ea4.jpg",
+                    "productUrl": "/products/2-i181295331-s1122941281.html",
+                    "sku": "181295331_BD",
+                    "skuId": "1122941281"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                10002067
+            ],
+            "clickTrace": "query:;nid:181295331;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:181295331_BD;price:98;client:desktop;supplier_id:1010417;asc_category_id:10002067;item_id:181295331;sku_id:1122941281;shop_id:16724",
+            "addToCartSkus": [
+                {
+                    "sku": "181295331_BD-1122941281",
+                    "skuId": "1122941281",
+                    "count": 0
+                }
+            ],
+            "itemId": "181295331",
+            "skuId": "1122941281",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Blackhead Remover Tool Acne Pimple Spot Extractor Pin",
+            "nid": "122036655",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "122036655",
+                "scene_pre": "search",
+                "current_price": "11.00",
+                "x_sku_ids": "1041919029",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "122036655"
+            },
+            "productUrl": "//www.daraz.com.bd/products/blackhead-remover-tool-acne-pimple-spot-extractor-pin-i122036655-s1041919029.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ffc1e88ad51d02987077a189913855b4.jpg",
+            "originalPrice": "60.00",
+            "originalPriceShow": "৳ 60",
+            "price": "11.00",
+            "promotionId": "null",
+            "priceShow": "৳ 11",
+            "discount": "-82%",
+            "ratingScore": "4.5",
+            "review": "10",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "122036655_BD-1041919029",
+            "sku": "122036655_BD",
+            "skus": [],
+            "description": [
+                "The Siluno Blackhead Remover Set helps you to fight impurities and acne-prone skin professionally and effectively.",
+                "By removing Blackhead and Pimples on the nose and other",
+                "commonly affected areas of the face you can save yourself a facial treatment at the beauty salon"
+            ],
+            "brandId": "113342",
+            "brandName": "TVC",
+            "sellerId": "3750",
+            "mainSellerId": "",
+            "sellerName": "Beiuty  Point",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ffc1e88ad51d02987077a189913855b4.jpg",
+                    "productUrl": "/products/blackhead-remover-tool-acne-pimple-spot-extractor-pin-i122036655-s1041919029.html",
+                    "sku": "122036655_BD",
+                    "skuId": "1041919029"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1629,
+                1631
+            ],
+            "clickTrace": "query:;nid:122036655;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:122036655_BD;price:11.00;client:desktop;supplier_id:3750;asc_category_id:1631;item_id:122036655;sku_id:1041919029;shop_id:3930",
+            "addToCartSkus": [
+                {
+                    "sku": "122036655_BD-1041919029",
+                    "skuId": "1041919029",
+                    "count": 0
+                }
+            ],
+            "itemId": "122036655",
+            "skuId": "1041919029",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "1 Pcs Double Side Pedicure Calluses Remover Foot File or Brush",
+            "nid": "232746043",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "232746043",
+                "scene_pre": "search",
+                "current_price": "60.00",
+                "x_sku_ids": "1175516441",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "232746043"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i232746043-s1175516441.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/448d1e0873968a5fff359584f01f5d51.jpg",
+            "originalPrice": "80.00",
+            "originalPriceShow": "৳ 80",
+            "price": "60.00",
+            "promotionId": "null",
+            "priceShow": "৳ 60",
+            "discount": "-25%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "232746043_BD-1175516441",
+            "sku": "232746043_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509945014",
+            "mainSellerId": "",
+            "sellerName": "Dewan Digital World",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/448d1e0873968a5fff359584f01f5d51.jpg",
+                    "productUrl": "/products/1-i232746043-s1175516441.html",
+                    "sku": "232746043_BD",
+                    "skuId": "1175516441"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                10002067
+            ],
+            "clickTrace": "query:;nid:232746043;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:232746043_BD;price:60.00;client:desktop;supplier_id:700509945014;asc_category_id:10002067;item_id:232746043;sku_id:1175516441;shop_id:221011",
+            "addToCartSkus": [
+                {
+                    "sku": "232746043_BD-1175516441",
+                    "skuId": "1175516441",
+                    "count": 0
+                }
+            ],
+            "itemId": "232746043",
+            "skuId": "1175516441",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "100ML Empty Plastic Spray Bottle",
+            "nid": "145738642",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "145738642",
+                "scene_pre": "search",
+                "current_price": "20.00",
+                "x_sku_ids": "1071170478",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "145738642"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100ml-i145738642-s1071170478.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/2b03ef1246c0f551f24588a6f3792764.jpg",
+            "originalPrice": "50.00",
+            "originalPriceShow": "৳ 50",
+            "price": "20.00",
+            "promotionId": "null",
+            "priceShow": "৳ 20",
+            "discount": "-60%",
+            "ratingScore": "4.72755",
+            "review": "1325",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "145738642_BD-1071170478",
+            "sku": "145738642_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1012709",
+            "mainSellerId": "",
+            "sellerName": "AMIR CORPORATION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/2b03ef1246c0f551f24588a6f3792764.jpg",
+                    "productUrl": "/products/100ml-i145738642-s1071170478.html",
+                    "sku": "145738642_BD",
+                    "skuId": "1071170478"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1629,
+                1631
+            ],
+            "clickTrace": "query:;nid:145738642;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:145738642_BD;price:20.00;client:desktop;supplier_id:1012709;asc_category_id:1631;item_id:145738642;sku_id:1071170478;shop_id:18966",
+            "addToCartSkus": [
+                {
+                    "sku": "145738642_BD-1071170478",
+                    "skuId": "1071170478",
+                    "count": 0
+                }
+            ],
+            "itemId": "145738642",
+            "skuId": "1071170478",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mini Handheld Vibrating Body Massager - Pink",
+            "nid": "114422895",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "114422895",
+                "scene_pre": "search",
+                "current_price": "120.00",
+                "x_sku_ids": "1032006306",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "114422895"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i114422895-s1032006306.html?search=1",
+            "image": "https://static-01.daraz.com.bd/original/50ac0ba9b0324d7264501f3e3b66a028.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "120.00",
+            "promotionId": "null",
+            "priceShow": "৳ 120",
+            "discount": "-52%",
+            "ratingScore": "4.71429",
+            "review": "14",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "114422895_BD-1032006306",
+            "sku": "114422895_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1020027",
+            "mainSellerId": "",
+            "sellerName": "Gadget Gallery Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/original/50ac0ba9b0324d7264501f3e3b66a028.jpg",
+                    "productUrl": "/products/-i114422895-s1032006306.html",
+                    "sku": "114422895_BD",
+                    "skuId": "1032006306"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1643
+            ],
+            "clickTrace": "query:;nid:114422895;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:114422895_BD;price:120.00;client:desktop;supplier_id:1020027;asc_category_id:1643;item_id:114422895;sku_id:1032006306;shop_id:26262",
+            "addToCartSkus": [
+                {
+                    "sku": "114422895_BD-1032006306",
+                    "skuId": "1032006306",
+                    "count": 0
+                }
+            ],
+            "itemId": "114422895",
+            "skuId": "1032006306",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Blackhead Remover Tool Acne Pimple Spot Extractor Pin - Silver",
+            "nid": "561892",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "138509",
+                "scene_pre": "search",
+                "current_price": "19.00",
+                "x_sku_ids": "889574",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "138509"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i138509-s889574.html?search=1",
+            "image": "https://static-01.daraz.com.bd/original/0c217d819b8eef165f3ed6cbf3c04fd5.jpg",
+            "originalPrice": "75.00",
+            "originalPriceShow": "৳ 75",
+            "price": "19.00",
+            "promotionId": "null",
+            "priceShow": "৳ 19",
+            "discount": "-75%",
+            "ratingScore": "4.55478",
+            "review": "1004",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "24590HB0HR2K4NAFAMZ-822869",
+            "sku": "24590HB0HR2K4NAFAMZ",
+            "skus": [],
+            "description": [
+                "The Siluno Blackhead Remover Set helps you to fight impurities and acne-prone skin professionally and effectively.",
+                "By removing Blackhead and Pimples on the nose and other",
+                "commonly affected areas of the face you can save yourself a facial treatment at the beauty salon",
+                "The product features maximum dermatological quality guidelines complete set",
+                "Made of stainless steel so the complete set is made of stainless steel",
+                "you can enjoy our product worry free"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1648",
+            "mainSellerId": "",
+            "sellerName": "24 Bazaar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/original/0c217d819b8eef165f3ed6cbf3c04fd5.jpg",
+                    "productUrl": "/products/-i138509-s889574.html",
+                    "sku": "24590HB0HR2K4NAFAMZ",
+                    "skuId": "889574"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1629,
+                1631
+            ],
+            "clickTrace": "query:;nid:561892;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:24590HB0HR2K4NAFAMZ;price:19.00;client:desktop;supplier_id:1648;asc_category_id:1631;item_id:138509;sku_id:889574;shop_id:2363",
+            "addToCartSkus": [
+                {
+                    "sku": "24590HB0HR2K4NAFAMZ-822869",
+                    "skuId": "889574",
+                    "count": 0
+                }
+            ],
+            "itemId": "138509",
+            "skuId": "889574",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "VIGOR 908 Fast Hair Straightener Professional Hair Iron, Heavy Duty -Black",
+            "nid": "202859037",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "202859037",
+                "scene_pre": "search",
+                "current_price": "989",
+                "x_sku_ids": "1150618014",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "202859037"
+            },
+            "productUrl": "//www.daraz.com.bd/products/vigor-908-i202859037-s1150618014.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/067847ed7e35b726de110b33c85aadb1.png",
+            "originalPrice": "1150.00",
+            "originalPriceShow": "৳ 1,150",
+            "price": "989",
+            "promotionId": "null",
+            "priceShow": "৳ 989",
+            "discount": "-14%",
+            "ratingScore": "4.28571",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "202859037_BD-1150618014",
+            "sku": "202859037_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506393380",
+            "mainSellerId": "",
+            "sellerName": "G Planet",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/067847ed7e35b726de110b33c85aadb1.png",
+                    "productUrl": "/products/vigor-908-i202859037-s1150618014.html",
+                    "sku": "202859037_BD",
+                    "skuId": "1150618014"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1632,
+                1633
+            ],
+            "clickTrace": "query:;nid:202859037;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:202859037_BD;price:989;client:desktop;supplier_id:700506393380;asc_category_id:1633;item_id:202859037;sku_id:1150618014;shop_id:78464",
+            "addToCartSkus": [
+                {
+                    "sku": "202859037_BD-1150618014",
+                    "skuId": "1150618014",
+                    "count": 0
+                }
+            ],
+            "itemId": "202859037",
+            "skuId": "1150618014",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mini Straight Hair Curler Straightener - Multicolor",
+            "nid": "189082706",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "189082706",
+                "scene_pre": "search",
+                "current_price": "289.00",
+                "x_sku_ids": "1136948403",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "189082706"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i189082706-s1136948403.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b1581c2d23f44bd51aa9faccc5b34802.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "289.00",
+            "promotionId": "null",
+            "priceShow": "৳ 289",
+            "discount": "-28%",
+            "ratingScore": "4.62963",
+            "review": "189",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "189082706_BD-1136948403",
+            "sku": "189082706_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508505056",
+            "mainSellerId": "",
+            "sellerName": "Trunk",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b1581c2d23f44bd51aa9faccc5b34802.jpg",
+                    "productUrl": "/products/-i189082706-s1136948403.html",
+                    "sku": "189082706_BD",
+                    "skuId": "1136948403"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/96e55d1673a1c10bab32d7e78bc87f95.jpg",
+                    "productUrl": "/products/-i189082706-s1136948404.html",
+                    "sku": "189082706_BD",
+                    "skuId": "1136948404"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9969196177324ea509f54a039e728099.jpg",
+                    "productUrl": "/products/-i189082706-s1140078935.html",
+                    "sku": "189082706_BD",
+                    "skuId": "1140078935"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c8236d2d078a8538faa51c9792a048d7.jpg",
+                    "productUrl": "/products/-i189082706-s1136948405.html",
+                    "sku": "189082706_BD",
+                    "skuId": "1136948405"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/67e6044cca497dac1deba48adda1647b.jpg",
+                    "productUrl": "/products/-i189082706-s1161702153.html",
+                    "sku": "189082706_BD",
+                    "skuId": "1161702153"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1632,
+                1633
+            ],
+            "clickTrace": "query:;nid:189082706;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:189082706_BD;price:289.00;client:desktop;supplier_id:700508505056;asc_category_id:1633;item_id:189082706;sku_id:1136948403;shop_id:162862",
+            "addToCartSkus": [
+                {
+                    "sku": "189082706_BD-1136948403",
+                    "skuId": "1136948403",
+                    "count": 0
+                }
+            ],
+            "itemId": "189082706",
+            "skuId": "1136948403",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Soli Foot Scrubber 1pcs",
+            "nid": "237995697",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237995697",
+                "scene_pre": "search",
+                "current_price": "30.00",
+                "x_sku_ids": "1181526506",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "237995697"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i237995697-s1181526506.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bc1bcb6c3a504ae2bf2ec90dc2a4f9f8.png",
+            "originalPrice": "55.00",
+            "originalPriceShow": "৳ 55",
+            "price": "30.00",
+            "promotionId": "null",
+            "priceShow": "৳ 30",
+            "discount": "-45%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237995697_BD-1181526506",
+            "sku": "237995697_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510092484",
+            "mainSellerId": "",
+            "sellerName": "Clicked In BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bc1bcb6c3a504ae2bf2ec90dc2a4f9f8.png",
+                    "productUrl": "/products/1-i237995697-s1181526506.html",
+                    "sku": "237995697_BD",
+                    "skuId": "1181526506"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                10002067
+            ],
+            "clickTrace": "query:;nid:237995697;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:237995697_BD;price:30.00;client:desktop;supplier_id:700510092484;asc_category_id:10002067;item_id:237995697;sku_id:1181526506;shop_id:229535",
+            "addToCartSkus": [
+                {
+                    "sku": "237995697_BD-1181526506",
+                    "skuId": "1181526506",
+                    "count": 0
+                }
+            ],
+            "itemId": "237995697",
+            "skuId": "1181526506",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Electronic Massage Pillow Shiatsu Deep Kneading Neck Back Shoulder Massager Cushion",
+            "nid": "168080286",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168080286",
+                "scene_pre": "search",
+                "current_price": "842",
+                "x_sku_ids": "1101994630",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "168080286"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i168080286-s1101994630.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3806861d35537cc3f27758d18731ad4a.jpg",
+            "originalPrice": "2567.00",
+            "originalPriceShow": "৳ 2,567",
+            "price": "842",
+            "promotionId": "null",
+            "priceShow": "৳ 842",
+            "discount": "-67%",
+            "ratingScore": "4.6",
+            "review": "20",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168080286_BD-1101994630",
+            "sku": "168080286_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1043958",
+            "mainSellerId": "",
+            "sellerName": "Munim Media",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3806861d35537cc3f27758d18731ad4a.jpg",
+                    "productUrl": "/products/-i168080286-s1101994630.html",
+                    "sku": "168080286_BD",
+                    "skuId": "1101994630"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1643
+            ],
+            "clickTrace": "query:;nid:168080286;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:168080286_BD;price:842;client:desktop;supplier_id:1043958;asc_category_id:1643;item_id:168080286;sku_id:1101994630;shop_id:49601",
+            "addToCartSkus": [
+                {
+                    "sku": "168080286_BD-1101994630",
+                    "skuId": "1101994630",
+                    "count": 0
+                }
+            ],
+            "itemId": "168080286",
+            "skuId": "1101994630",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nose Up Shaper Nose Slimmer Clip (Poly Pack)",
+            "nid": "101174444",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101174444",
+                "scene_pre": "search",
+                "current_price": "23",
+                "x_sku_ids": "1015176321",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "101174444"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i101174444-s1015176321.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e288c6d07eae74d24f4bbd9427552df2.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "23",
+            "promotionId": "null",
+            "priceShow": "৳ 23",
+            "discount": "-81%",
+            "ratingScore": "5",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101174444_BD-1015176321",
+            "sku": "101174444_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "2969",
+            "mainSellerId": "",
+            "sellerName": "Crazy Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e288c6d07eae74d24f4bbd9427552df2.jpg",
+                    "productUrl": "/products/-i101174444-s1015176321.html",
+                    "sku": "101174444_BD",
+                    "skuId": "1015176321"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1629,
+                1631
+            ],
+            "clickTrace": "query:;nid:101174444;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:101174444_BD;price:23;client:desktop;supplier_id:2969;asc_category_id:1631;item_id:101174444;sku_id:1015176321;shop_id:3318",
+            "addToCartSkus": [
+                {
+                    "sku": "101174444_BD-1015176321",
+                    "skuId": "1015176321",
+                    "count": 0
+                }
+            ],
+            "itemId": "101174444",
+            "skuId": "1015176321",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Spray Bottle 100ml Capacity - White Spray",
+            "nid": "116796437",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "116796437",
+                "scene_pre": "search",
+                "current_price": "22.00",
+                "x_sku_ids": "1035802921",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "116796437"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100ml-i116796437-s1035802921.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/33da12ab4da4a4674283e317c0be26c8.jpg",
+            "originalPrice": "100.00",
+            "originalPriceShow": "৳ 100",
+            "price": "22.00",
+            "promotionId": "null",
+            "priceShow": "৳ 22",
+            "discount": "-78%",
+            "ratingScore": "4.70083",
+            "review": "1805",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "116796437_BD-1035802921",
+            "sku": "116796437_BD",
+            "skus": [],
+            "description": [
+                "Very useful kit",
+                "cute looking",
+                "easy to use",
+                "long lasting"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1024394",
+            "mainSellerId": "",
+            "sellerName": "ARIBA MART  Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/33da12ab4da4a4674283e317c0be26c8.jpg",
+                    "productUrl": "/products/100ml-i116796437-s1035802921.html",
+                    "sku": "116796437_BD",
+                    "skuId": "1035802921"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1629,
+                1631
+            ],
+            "clickTrace": "query:;nid:116796437;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:116796437_BD;price:22.00;client:desktop;supplier_id:1024394;asc_category_id:1631;item_id:116796437;sku_id:1035802921;shop_id:30578",
+            "addToCartSkus": [
+                {
+                    "sku": "116796437_BD-1035802921",
+                    "skuId": "1035802921",
+                    "count": 0
+                }
+            ],
+            "itemId": "116796437",
+            "skuId": "1035802921",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Derma Roller for Face, Beard, and Hair Growth 0.5mm",
+            "nid": "220865057",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "220865057",
+                "scene_pre": "search",
+                "current_price": "131",
+                "x_sku_ids": "1167947426",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "220865057"
+            },
+            "productUrl": "//www.daraz.com.bd/products/05mm-i220865057-s1167947426.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/683db1ae6e7f109bfa32969f177d5a8c.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "131",
+            "promotionId": "null",
+            "priceShow": "৳ 131",
+            "discount": "-56%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "220865057_BD-1167947426",
+            "sku": "220865057_BD",
+            "skus": [],
+            "description": [
+                "G",
+                "VISIBLE EFFECT",
+                "NATURALNESS AND PERSISTENCE",
+                "SAVE YOUR TIME AND MONEY",
+                "EASY TO CLEAN AND STORE",
+                "Easy To Use",
+                "Tour Friendly"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507722163",
+            "mainSellerId": "",
+            "sellerName": "lifestyle mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/683db1ae6e7f109bfa32969f177d5a8c.jpg",
+                    "productUrl": "/products/05mm-i220865057-s1167947426.html",
+                    "sku": "220865057_BD",
+                    "skuId": "1167947426"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1629,
+                1631
+            ],
+            "clickTrace": "query:;nid:220865057;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:220865057_BD;price:131;client:desktop;supplier_id:700507722163;asc_category_id:1631;item_id:220865057;sku_id:1167947426;shop_id:108877",
+            "addToCartSkus": [
+                {
+                    "sku": "220865057_BD-1167947426",
+                    "skuId": "1167947426",
+                    "count": 0
+                }
+            ],
+            "itemId": "220865057",
+            "skuId": "1167947426",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Stainless Steel Octopus Scalp Hair Stimulator Stress Relief Relax Head Massager - SILVER",
+            "nid": "190940893",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "190940893",
+                "scene_pre": "search",
+                "current_price": "59.00",
+                "x_sku_ids": "1138162481",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "190940893"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i190940893-s1138162481.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/83e573894e7a96aeec6c61f1246cf2eb.jpg",
+            "originalPrice": "99.00",
+            "originalPriceShow": "৳ 99",
+            "price": "59.00",
+            "promotionId": "null",
+            "priceShow": "৳ 59",
+            "discount": "-40%",
+            "ratingScore": "4.53846",
+            "review": "13",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "190940893_BD-1138162481",
+            "sku": "190940893_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "2017",
+            "mainSellerId": "",
+            "sellerName": "Heaven Shop BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/83e573894e7a96aeec6c61f1246cf2eb.jpg",
+                    "productUrl": "/products/-i190940893-s1138162481.html",
+                    "sku": "190940893_BD",
+                    "skuId": "1138162481"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1643
+            ],
+            "clickTrace": "query:;nid:190940893;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:190940893_BD;price:59.00;client:desktop;supplier_id:2017;asc_category_id:1643;item_id:190940893;sku_id:1138162481;shop_id:2615",
+            "addToCartSkus": [
+                {
+                    "sku": "190940893_BD-1138162481",
+                    "title": "One size fits all",
+                    "skuId": "1138162481",
+                    "count": 0
+                }
+            ],
+            "itemId": "190940893",
+            "skuId": "1138162481",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Silicone Facial Cleaning Brush",
+            "nid": "170976439",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "170976439",
+                "scene_pre": "search",
+                "current_price": "45.00",
+                "x_sku_ids": "1106586740",
+                "SN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "x_ad": "1",
+                "x_object_id": "170976439"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i170976439-s1106586740.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/cb2f97db4d63d53a3f8dd6034e562b52.jpg",
+            "originalPrice": "280.00",
+            "originalPriceShow": "৳ 280",
+            "price": "45.00",
+            "promotionId": "null",
+            "priceShow": "৳ 45",
+            "discount": "-84%",
+            "ratingScore": "4.92857",
+            "review": "14",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "170976439_BD-1106586740",
+            "sku": "170976439_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5310",
+            "mainSellerId": "",
+            "sellerName": "RAICHALIF",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cb2f97db4d63d53a3f8dd6034e562b52.jpg",
+                    "productUrl": "/products/-i170976439-s1106586740.html",
+                    "sku": "170976439_BD",
+                    "skuId": "1106586740"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1628,
+                1629,
+                1631
+            ],
+            "clickTrace": "query:;nid:170976439;src:LazadaMainSrp;rn:0451af7e7b4afe9fc95a6f41f9890e8f;region:bd;sku:170976439_BD;price:45.00;client:desktop;supplier_id:5310;asc_category_id:1631;item_id:170976439;sku_id:1106586740;shop_id:5318",
+            "addToCartSkus": [
+                {
+                    "sku": "170976439_BD-1106586740",
+                    "skuId": "1106586740",
+                    "count": 0
+                }
+            ],
+            "itemId": "170976439",
+            "skuId": "1106586740",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/beauty-health/",
+            "title": "Health & Beauty"
+        },
+        {
+            "url": "/health-beauty-tools/",
+            "title": "Beauty Tools"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/health-beauty-tools/?referer_rn=0451af7e7b4afe9fc95a6f41f9890e8f&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {},
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/hb-face/?item_id=213169298&from=onesearch_category_1628",
+                "name": "Face",
+                "image": "//static-01.daraz.com.bd/p/eb6190e33fbf5a11d4249d77f003c246.jpg",
+                "id": "1631"
+            },
+            {
+                "url": "/massage-relaxation/?item_id=186046297&from=onesearch_category_1628",
+                "name": "Body Slimming & Electric Massagers",
+                "image": "//static-01.daraz.com.bd/p/59dca352c56b684e67156f7327b18da4.jpg",
+                "id": "1643"
+            },
+            {
+                "url": "/hair-brushes-combs/?item_id=211575644&from=onesearch_category_1628",
+                "name": "Straightening Combs & Brushes",
+                "image": "//static-01.daraz.com.bd/p/17be8b8432c8e39de5d50778ddaf2b00.jpg",
+                "id": "10002209"
+            },
+            {
+                "url": "/hair-dryers/?item_id=212478745&from=onesearch_category_1628",
+                "name": "Hair Dryers",
+                "image": "//static-01.daraz.com.bd/p/758ee2deb21552ac0172d28b54489aff.jpg",
+                "id": "1634"
+            },
+            {
+                "url": "/hair-curlers/?item_id=167664168&from=onesearch_category_1628",
+                "name": "Curling Irons & Wands",
+                "image": "//static-01.daraz.com.bd/p/mdc/5af9193fc8c6eaa98a0bbb5b1b3892eb.jpg",
+                "id": "1633"
+            },
+            {
+                "url": "/foot-relief/?item_id=215677779&from=onesearch_category_1628",
+                "name": "Foot Relief Accessories & Tools",
+                "image": "//static-01.daraz.com.bd/p/69d844b4a6d43956089241fa26986b12.jpg",
+                "id": "10002067"
+            },
+            {
+                "url": "/hair-removal-appliances/?item_id=168656678&from=onesearch_category_1628",
+                "name": "Hair Removal Appliances",
+                "image": "//static-01.daraz.com.bd/p/8ba691ee5d40f89011dd43b1fb29b232.jpg",
+                "id": "1637"
+            },
+            {
+                "url": "/hb-body/?item_id=145426347&from=onesearch_category_1628",
+                "name": "Body",
+                "image": "//static-01.daraz.com.bd/p/8884be67fbce80d0d67956917a8430f7.jpg",
+                "id": "1630"
+            },
+            {
+                "url": "/hb-hair-removal-accessories/?item_id=154206648&from=onesearch_category_1628",
+                "name": "Hair Removal Accessories",
+                "image": "//static-01.daraz.com.bd/p/9c937cb2167bacff1f46b4f4718a5a0a.jpg",
+                "id": "10002068"
+            },
+            {
+                "url": "/hair-straighteners/?item_id=132802608&from=onesearch_category_1628",
+                "name": "Flat Irons",
+                "image": "//static-01.daraz.com.bd/p/4ef2105266b29ce5819fec989ae5466f.jpg",
+                "id": "1635"
+            },
+            {
+                "url": "/hair-styling-sets-1/?item_id=142216282&from=onesearch_category_1628",
+                "name": "Hair Styling Sets",
+                "image": "//static-01.daraz.com.bd/p/cace7b88a5564081f8166307af52edd5.jpg",
+                "id": "5264"
+            },
+            {
+                "url": "/styling-hair-stylers/?item_id=147586871&from=onesearch_category_1628",
+                "name": "Multi-stylers",
+                "image": "//static-01.daraz.com.bd/p/cf8d6fc19747718feb650f181ae94d8a.png",
+                "id": "1636"
+            },
+            {
+                "url": "/health-spa-product/?item_id=132560879&from=onesearch_category_1628",
+                "name": "Portable Saunas",
+                "image": "//static-01.daraz.com.bd/p/cdc8b2662261980ac6e1c408992c8ad6.jpg",
+                "id": "5272"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_1628"
+        },
+        "title": "",
+        "bizId": "onesearch_category_1628",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "132137 items found in {$0}",
+        "title": "Beauty Tools",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Beauty Tools"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Beauty Tools",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "0451af7e7b4afe9fc95a6f41f9890e8f",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "1628",
+            "category": "1628"
+        },
+        "categoryRegionalKey": "080700000000",
+        "mainCategoryRegionalKey": "080000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "সৌন্দর্য সরঞ্জামসমূহ at Best Price | 20% Off on Daraz | Buy Online",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Health & Beauty,Beauty Tools",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "080700000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=1628&_p_asc_cateid=1628",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "health-beauty-tools",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "0451af7e7b4afe9fc95a6f41f9890e8f",
+                "resultNr": 132137,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1168311162",
+                "1137690321",
+                "1127646405"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "1628",
+            "category": "1628"
+        }
+    }
+}

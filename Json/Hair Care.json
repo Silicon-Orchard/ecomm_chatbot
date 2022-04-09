@@ -1,0 +1,4131 @@
+{
+    "listItems": [
+        {
+            "name": "12 Pieces Parachute Naturale Nourishing Care Shampoo - 6 ml",
+            "nid": "136834001",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "136834001",
+                "scene_pre": "search",
+                "current_price": "21",
+                "x_sku_ids": "1059010931",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "136834001"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-naturale-nourishing-care-shampoo-6ml-x-12-pcs-i136834001-s1059010931.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/639605320dd5ca7db61e602f4497ed35.jpg",
+            "originalPrice": "24.00",
+            "originalPriceShow": "৳ 24",
+            "price": "21",
+            "promotionId": "null",
+            "priceShow": "৳ 21",
+            "discount": "-13%",
+            "ratingScore": "4.86994",
+            "review": "1038",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "136834001_BD-1059010931",
+            "sku": "136834001_BD",
+            "skus": [],
+            "description": [
+                "Product type: Shampoo",
+                "Brand:Parachute Naturale",
+                "Capacity: 6ml",
+                "Nourishing Care",
+                "Country of Origin:Bangladesh",
+                "Shelf Life: 24 Months"
+            ],
+            "brandId": "123285284",
+            "brandName": "Parachute Naturale",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/639605320dd5ca7db61e602f4497ed35.jpg",
+                    "productUrl": "/products/parachute-naturale-nourishing-care-shampoo-6ml-x-12-pcs-i136834001-s1059010931.html",
+                    "sku": "136834001_BD",
+                    "skuId": "1059010931"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1605
+            ],
+            "clickTrace": "query:;nid:136834001;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:136834001_BD;price:21;client:desktop;supplier_id:1000000;asc_category_id:1605;item_id:136834001;sku_id:1059010931;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "136834001_BD-1059010931",
+                    "skuId": "1059010931",
+                    "count": 0
+                }
+            ],
+            "itemId": "136834001",
+            "skuId": "1059010931",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Coconut Hair Oil - 500Ml",
+            "nid": "323248",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "2390840",
+                "scene_pre": "search",
+                "current_price": "308.00",
+                "x_sku_ids": "62449878",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "2390840"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-coconut-oil-500ml-i2390840-s62449878.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2dba2c1c4f1602d26f0296a0c9e76d63.jpg",
+            "originalPrice": "325.00",
+            "originalPriceShow": "৳ 325",
+            "price": "308.00",
+            "promotionId": "null",
+            "priceShow": "৳ 308",
+            "discount": "-5%",
+            "ratingScore": "4.81706",
+            "review": "727",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "PA534HB0SHAANNAFAMZ-488454",
+            "sku": "PA534HB0SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Product Type: Coconut Oil",
+                "Brand: Parachute",
+                "100% Pure-Best Quality Coconut Oil",
+                "Made from Finest Coconuts",
+                "Capacity: 500ml",
+                "The best quality refined coconut oil that makes your hair naturally soft and healthy"
+            ],
+            "brandId": "153611",
+            "brandName": "Parachute",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2dba2c1c4f1602d26f0296a0c9e76d63.jpg",
+                    "productUrl": "/products/parachute-coconut-oil-500ml-i2390840-s62449878.html",
+                    "sku": "PA534HB0SHAANNAFAMZ",
+                    "skuId": "62449878"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1611
+            ],
+            "clickTrace": "query:;nid:323248;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:PA534HB0SHAANNAFAMZ;price:308.00;client:desktop;supplier_id:1000000;asc_category_id:1611;item_id:2390840;sku_id:62449878;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "PA534HB0SHAANNAFAMZ-488454",
+                    "skuId": "62449878",
+                    "count": 0
+                }
+            ],
+            "itemId": "2390840",
+            "skuId": "62449878",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Naturale Shampoo Anti Hair Fall 340ml",
+            "nid": "131536450",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "131536450",
+                "scene_pre": "search",
+                "current_price": "224.00",
+                "x_sku_ids": "1051766910",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "131536450"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-naturale-shampoo-anti-hair-fall-340ml-i131536450-s1051766910.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c8fce39e871af62447010ed6a21dcbd4.jpg",
+            "originalPrice": "330.00",
+            "originalPriceShow": "৳ 330",
+            "price": "224.00",
+            "promotionId": "null",
+            "priceShow": "৳ 224",
+            "discount": "-32%",
+            "ratingScore": "4.84139",
+            "review": "517",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "131536450_BD-1051766910",
+            "sku": "131536450_BD",
+            "skus": [],
+            "description": [
+                "Product type: Shampoo",
+                "Brand:Parachute Naturale",
+                "Capacity:340ml",
+                "Anti Hair Fall",
+                "Country of Origin:Bangladesh",
+                "Shelf Life:24 Months"
+            ],
+            "brandId": "123285284",
+            "brandName": "Parachute Naturale",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c8fce39e871af62447010ed6a21dcbd4.jpg",
+                    "productUrl": "/products/parachute-naturale-shampoo-anti-hair-fall-340ml-i131536450-s1051766910.html",
+                    "sku": "131536450_BD",
+                    "skuId": "1051766910"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1605
+            ],
+            "clickTrace": "query:;nid:131536450;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:131536450_BD;price:224.00;client:desktop;supplier_id:1000000;asc_category_id:1605;item_id:131536450;sku_id:1051766910;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "131536450_BD-1051766910",
+                    "skuId": "1051766910",
+                    "count": 0
+                }
+            ],
+            "itemId": "131536450",
+            "skuId": "1051766910",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Naturale Shampoo Nourishing Care 340Ml",
+            "nid": "131530545",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "131530545",
+                "scene_pre": "search",
+                "current_price": "224.00",
+                "x_sku_ids": "1051766908",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "131530545"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-naturale-shampoo-nourishing-care-340ml-i131530545-s1051766908.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/29cebf5fb337a7da1015723d2dece651.jpg",
+            "originalPrice": "330.00",
+            "originalPriceShow": "৳ 330",
+            "price": "224.00",
+            "promotionId": "null",
+            "priceShow": "৳ 224",
+            "discount": "-32%",
+            "ratingScore": "4.81982",
+            "review": "555",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "131530545_BD-1051766908",
+            "sku": "131530545_BD",
+            "skus": [],
+            "description": [
+                "Product type: Shampoo",
+                "Brand:Parachute Naturale",
+                "Capacity:340ml",
+                "Nourishing Care",
+                "Country of Origin:Bangladesh",
+                "Shelf Life:24 Months"
+            ],
+            "brandId": "123285284",
+            "brandName": "Parachute Naturale",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/29cebf5fb337a7da1015723d2dece651.jpg",
+                    "productUrl": "/products/parachute-naturale-shampoo-nourishing-care-340ml-i131530545-s1051766908.html",
+                    "sku": "131530545_BD",
+                    "skuId": "1051766908"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1605
+            ],
+            "clickTrace": "query:;nid:131530545;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:131530545_BD;price:224.00;client:desktop;supplier_id:1000000;asc_category_id:1605;item_id:131530545;sku_id:1051766908;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "131530545_BD-1051766908",
+                    "skuId": "1051766908",
+                    "count": 0
+                }
+            ],
+            "itemId": "131530545",
+            "skuId": "1051766908",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Hair Oil Advansed Aloe Vera Enriched Coconut 250Ml",
+            "nid": "193993103",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "193993103",
+                "scene_pre": "search",
+                "current_price": "201",
+                "x_sku_ids": "1140516143",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "193993103"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-hair-oil-advansed-aloe-vera-enriched-coconut-250ml-75ml-hair-oil-free-i193993103-s1140516143.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f18461ad48444bf1c1154965223e42aa.jpg",
+            "originalPrice": "225.00",
+            "originalPriceShow": "৳ 225",
+            "price": "201",
+            "promotionId": "null",
+            "priceShow": "৳ 201",
+            "discount": "-11%",
+            "ratingScore": "4.76712",
+            "review": "219",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "193993103_BD-1140516143",
+            "sku": "193993103_BD",
+            "skus": [],
+            "description": [
+                "Product Type:Hair Oil",
+                "Brand:Parachute",
+                "Capacity: 250ml"
+            ],
+            "brandId": "153611",
+            "brandName": "Parachute",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f18461ad48444bf1c1154965223e42aa.jpg",
+                    "productUrl": "/products/parachute-hair-oil-advansed-aloe-vera-enriched-coconut-250ml-75ml-hair-oil-free-i193993103-s1140516143.html",
+                    "sku": "193993103_BD",
+                    "skuId": "1140516143"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1611
+            ],
+            "clickTrace": "query:;nid:193993103;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:193993103_BD;price:201;client:desktop;supplier_id:1000000;asc_category_id:1611;item_id:193993103;sku_id:1140516143;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "193993103_BD-1140516143",
+                    "skuId": "1140516143",
+                    "count": 0
+                }
+            ],
+            "itemId": "193993103",
+            "skuId": "1140516143",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Anti Hairfall Oil Extra Care - 300ml",
+            "nid": "105998906",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "105998906",
+                "scene_pre": "search",
+                "current_price": "245.00",
+                "x_sku_ids": "1020926448",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "105998906"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-hair-oil-anti-hairfall-oil-extra-care-300ml-root-applier-i105998906-s1020926448.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1ca6419e1ad45d40401a807f3548f5d5.jpg",
+            "originalPrice": "285.00",
+            "originalPriceShow": "৳ 285",
+            "price": "245.00",
+            "promotionId": "null",
+            "priceShow": "৳ 245",
+            "discount": "-14%",
+            "ratingScore": "4.67419",
+            "review": "310",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "105998906_BD-1020926448",
+            "sku": "105998906_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Hair Oil",
+                "Brand: Parachute",
+                "Capacity: 300ml",
+                "With (Root Applier)"
+            ],
+            "brandId": "153611",
+            "brandName": "Parachute",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1ca6419e1ad45d40401a807f3548f5d5.jpg",
+                    "productUrl": "/products/parachute-hair-oil-anti-hairfall-oil-extra-care-300ml-root-applier-i105998906-s1020926448.html",
+                    "sku": "105998906_BD",
+                    "skuId": "1020926448"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1611
+            ],
+            "clickTrace": "query:;nid:105998906;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:105998906_BD;price:245.00;client:desktop;supplier_id:1000000;asc_category_id:1611;item_id:105998906;sku_id:1020926448;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "105998906_BD-1020926448",
+                    "skuId": "1020926448",
+                    "count": 0
+                }
+            ],
+            "itemId": "105998906",
+            "skuId": "1020926448",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Hair Oil Advansed Beliphool - 300ml",
+            "nid": "323254",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "2390846",
+                "scene_pre": "search",
+                "current_price": "205.00",
+                "x_sku_ids": "62449891",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "2390846"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-hair-oil-advansed-beliphool-300ml-i2390846-s62449891.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a1ecddd8744d97f529f51de3f84c79c4.jpg",
+            "originalPrice": "225.00",
+            "originalPriceShow": "৳ 225",
+            "price": "205.00",
+            "promotionId": "null",
+            "priceShow": "৳ 205",
+            "discount": "-9%",
+            "ratingScore": "4.9009",
+            "review": "222",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "PA540HB0SHAANNAFAMZ-488460",
+            "sku": "PA540HB0SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Product Type: Hair Oil",
+                "Capacity: 300ml",
+                "Perfumed coconut hair oil",
+                "It makes your hair naturally soft and healthy",
+                "Enriched with methi",
+                "Gender: Women"
+            ],
+            "brandId": "153611",
+            "brandName": "Parachute",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a1ecddd8744d97f529f51de3f84c79c4.jpg",
+                    "productUrl": "/products/parachute-hair-oil-advansed-beliphool-300ml-i2390846-s62449891.html",
+                    "sku": "PA540HB0SHAANNAFAMZ",
+                    "skuId": "62449891"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1611
+            ],
+            "clickTrace": "query:;nid:323254;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:PA540HB0SHAANNAFAMZ;price:205.00;client:desktop;supplier_id:1000000;asc_category_id:1611;item_id:2390846;sku_id:62449891;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "PA540HB0SHAANNAFAMZ-488460",
+                    "skuId": "62449891",
+                    "count": 0
+                }
+            ],
+            "itemId": "2390846",
+            "skuId": "62449891",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nihar Anti Hairfall 5 Seeds Hair Oil 200ml",
+            "nid": "111972920",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "111972920",
+                "scene_pre": "search",
+                "current_price": "150.00",
+                "x_sku_ids": "1028876937",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "111972920"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nihar-anti-hairfall-5-seeds-hair-oil-200ml-i111972920-s1028876937.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fa67ccfe3cb695de49342f2c19048d4c.jpg",
+            "originalPrice": "220.00",
+            "originalPriceShow": "৳ 220",
+            "price": "150.00",
+            "promotionId": "null",
+            "priceShow": "৳ 150",
+            "discount": "-32%",
+            "ratingScore": "4.81154",
+            "review": "260",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "111972920_BD-1028876937",
+            "sku": "111972920_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Hair Oil",
+                "Capacity: 200ml",
+                "Anti Hairfall 5 Seeds",
+                "Gender: Women",
+                "Manufactured in Bangladesh"
+            ],
+            "brandId": "123759424",
+            "brandName": "Nihar Naturals",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fa67ccfe3cb695de49342f2c19048d4c.jpg",
+                    "productUrl": "/products/nihar-anti-hairfall-5-seeds-hair-oil-200ml-i111972920-s1028876937.html",
+                    "sku": "111972920_BD",
+                    "skuId": "1028876937"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1611
+            ],
+            "clickTrace": "query:;nid:111972920;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:111972920_BD;price:150.00;client:desktop;supplier_id:1000000;asc_category_id:1611;item_id:111972920;sku_id:1028876937;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "111972920_BD-1028876937",
+                    "skuId": "1028876937",
+                    "count": 0
+                }
+            ],
+            "itemId": "111972920",
+            "skuId": "1028876937",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Hair Oil Advansed Aloe Vera Enriched Coconut 75ml",
+            "nid": "135502618",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "135502618",
+                "scene_pre": "search",
+                "current_price": "46.00",
+                "x_sku_ids": "1057512952",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "135502618"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-hair-oil-advansed-aloe-vera-enriched-coconut-75ml-i135502618-s1057512952.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d1a9eaf76724947007d7b20478f35ae7.jpg",
+            "originalPrice": "60.00",
+            "originalPriceShow": "৳ 60",
+            "price": "46.00",
+            "promotionId": "null",
+            "priceShow": "৳ 46",
+            "discount": "-23%",
+            "ratingScore": "4.7931",
+            "review": "464",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "135502618_BD-1057512952",
+            "sku": "135502618_BD",
+            "skus": [],
+            "description": [
+                "Parachute Advansed Aloe Vera Enriched Coconut Hair Oil invites you to the world of irresistably soft and silky hair through the goodness of Aloe Vera. Alongside, the coconut oil ensures that your hair remains strong from within."
+            ],
+            "brandId": "153611",
+            "brandName": "Parachute",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d1a9eaf76724947007d7b20478f35ae7.jpg",
+                    "productUrl": "/products/parachute-hair-oil-advansed-aloe-vera-enriched-coconut-75ml-i135502618-s1057512952.html",
+                    "sku": "135502618_BD",
+                    "skuId": "1057512952"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1611
+            ],
+            "clickTrace": "query:;nid:135502618;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:135502618_BD;price:46.00;client:desktop;supplier_id:1000000;asc_category_id:1611;item_id:135502618;sku_id:1057512952;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "135502618_BD-1057512952",
+                    "skuId": "1057512952",
+                    "count": 0
+                }
+            ],
+            "itemId": "135502618",
+            "skuId": "1057512952",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Naturale Shampoo Damage Repair 170Ml",
+            "nid": "131530546",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "131530546",
+                "scene_pre": "search",
+                "current_price": "130.00",
+                "x_sku_ids": "1051774209",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "131530546"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-naturale-shampoo-damage-repair-170ml-i131530546-s1051774209.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4b6fbd60796ec916fa0eb1735f20c3d2.jpg",
+            "originalPrice": "190.00",
+            "originalPriceShow": "৳ 190",
+            "price": "130.00",
+            "promotionId": "null",
+            "priceShow": "৳ 130",
+            "discount": "-32%",
+            "ratingScore": "4.81848",
+            "review": "303",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "131530546_BD-1051774209",
+            "sku": "131530546_BD",
+            "skus": [],
+            "description": [
+                "Product type: Shampoo",
+                "Brand:Parachute Naturale",
+                "Capacity:170ml",
+                "Damage Repair",
+                "Country of Origin:Bangladesh",
+                "Shelf Life:24 Months"
+            ],
+            "brandId": "123285284",
+            "brandName": "Parachute Naturale",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4b6fbd60796ec916fa0eb1735f20c3d2.jpg",
+                    "productUrl": "/products/parachute-naturale-shampoo-damage-repair-170ml-i131530546-s1051774209.html",
+                    "sku": "131530546_BD",
+                    "skuId": "1051774209"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1605
+            ],
+            "clickTrace": "query:;nid:131530546;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:131530546_BD;price:130.00;client:desktop;supplier_id:1000000;asc_category_id:1605;item_id:131530546;sku_id:1051774209;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "131530546_BD-1051774209",
+                    "skuId": "1051774209",
+                    "count": 0
+                }
+            ],
+            "itemId": "131530546",
+            "skuId": "1051774209",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sunsilk Shampoo Lusciously Thick & Long - 650Ml",
+            "nid": "125832451",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "125832451",
+                "scene_pre": "search",
+                "current_price": "438.00",
+                "x_sku_ids": "1045961253",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "125832451"
+            },
+            "productUrl": "//www.daraz.com.bd/products/sunsilk-shampoo-lusciously-thick-long-650ml-i125832451-s1045961253.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a3c52f0ea4a3f0bafd71818022cf452d.jpg",
+            "originalPrice": "610.00",
+            "originalPriceShow": "৳ 610",
+            "price": "438.00",
+            "promotionId": "null",
+            "priceShow": "৳ 438",
+            "discount": "-28%",
+            "ratingScore": "4.80838",
+            "review": "167",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "125832451_BD-1045961253",
+            "sku": "125832451_BD",
+            "skus": [],
+            "description": [
+                "Product type: Shampoo",
+                "Brand:Sunsilk",
+                "Capacity: 650ml",
+                "Gives you 2x thicker looking hair*",
+                "Co-created with Teddy Charles - Hair style expert",
+                "Enriched with Keratin Yogurt",
+                "Provides hair with essential nutrient",
+                "Gives hair natural body and bounce",
+                "Makes your hair look fuller",
+                "with more body and more bounce"
+            ],
+            "brandId": "31115",
+            "brandName": "Sunsilk",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a3c52f0ea4a3f0bafd71818022cf452d.jpg",
+                    "productUrl": "/products/sunsilk-shampoo-lusciously-thick-long-650ml-i125832451-s1045961253.html",
+                    "sku": "125832451_BD",
+                    "skuId": "1045961253"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1605
+            ],
+            "clickTrace": "query:;nid:125832451;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:125832451_BD;price:438.00;client:desktop;supplier_id:1000000;asc_category_id:1605;item_id:125832451;sku_id:1045961253;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "125832451_BD-1045961253",
+                    "skuId": "1045961253",
+                    "count": 0
+                }
+            ],
+            "itemId": "125832451",
+            "skuId": "1045961253",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sunsilk Shampoo Stunning Black Shine 350ml",
+            "nid": "322574",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "891735",
+                "scene_pre": "search",
+                "current_price": "278.00",
+                "x_sku_ids": "3722281",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "891735"
+            },
+            "productUrl": "//www.daraz.com.bd/products/sunsilk-shampoo-stunning-black-shine-350ml-i891735-s3722281.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/722ee4ec45d29782a5d11a157670bc94.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "278.00",
+            "promotionId": "null",
+            "priceShow": "৳ 278",
+            "discount": "-21%",
+            "ratingScore": "4.78102",
+            "review": "274",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "SU495HBSHAANNAFAMZ-487671",
+            "sku": "SU495HBSHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Enriched with Amla Pearl Complex",
+                "Nourishes your hair from root to tip and gives it a healthy glow",
+                "Gives deeper, shinier hair from the first wash",
+                "Revives your black hair, leaving it fuller, beautifully moisturized and mesmerizingly shiny"
+            ],
+            "brandId": "31115",
+            "brandName": "Sunsilk",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/722ee4ec45d29782a5d11a157670bc94.jpg",
+                    "productUrl": "/products/sunsilk-shampoo-stunning-black-shine-350ml-i891735-s3722281.html",
+                    "sku": "SU495HBSHAANNAFAMZ",
+                    "skuId": "3722281"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1605
+            ],
+            "clickTrace": "query:;nid:322574;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:SU495HBSHAANNAFAMZ;price:278.00;client:desktop;supplier_id:1000000;asc_category_id:1605;item_id:891735;sku_id:3722281;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "SU495HBSHAANNAFAMZ-487671",
+                    "skuId": "3722281",
+                    "count": 0
+                }
+            ],
+            "itemId": "891735",
+            "skuId": "3722281",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dove Shampoo Hairfall Rescue 340ml",
+            "nid": "322553",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "2386832",
+                "scene_pre": "search",
+                "current_price": "349.00",
+                "x_sku_ids": "62432295",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "2386832"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dove-shampoo-hairfall-rescue-340ml-i2386832-s62432295.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/03a6c81b90c1478398334cb996c322bc.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "349.00",
+            "promotionId": "null",
+            "priceShow": "৳ 349",
+            "discount": "-22%",
+            "ratingScore": "4.80588",
+            "review": "170",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "DO699HBSHAANNAFAMZ-487650",
+            "sku": "DO699HBSHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Formulated with Nutrilock actives",
+                "Makes hair visibly fuller",
+                "Provides both instant and long-term results",
+                "Gentle formula, suitable for everyday use"
+            ],
+            "brandId": "31113",
+            "brandName": "Dove",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/03a6c81b90c1478398334cb996c322bc.jpg",
+                    "productUrl": "/products/dove-shampoo-hairfall-rescue-340ml-i2386832-s62432295.html",
+                    "sku": "DO699HBSHAANNAFAMZ",
+                    "skuId": "62432295"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1605
+            ],
+            "clickTrace": "query:;nid:322553;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:DO699HBSHAANNAFAMZ;price:349.00;client:desktop;supplier_id:1000000;asc_category_id:1605;item_id:2386832;sku_id:62432295;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "DO699HBSHAANNAFAMZ-487650",
+                    "skuId": "62432295",
+                    "count": 0
+                }
+            ],
+            "itemId": "2386832",
+            "skuId": "62432295",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sunsilk Shampoo Volume 375ml",
+            "nid": "164384681",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "164384681",
+                "scene_pre": "search",
+                "current_price": "299.00",
+                "x_sku_ids": "1097116652",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "164384681"
+            },
+            "productUrl": "//www.daraz.com.bd/products/sunsilk-shampoo-volume-375ml-i164384681-s1097116652.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5f5e5785cc930f301770f50ae863f22e.jpg",
+            "originalPrice": "380.00",
+            "originalPriceShow": "৳ 380",
+            "price": "299.00",
+            "promotionId": "null",
+            "priceShow": "৳ 299",
+            "discount": "-21%",
+            "ratingScore": "4.79167",
+            "review": "96",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "164384681_BD-1097116652",
+            "sku": "164384681_BD",
+            "skus": [],
+            "description": [
+                "Product type:ShampooVolume",
+                "Brand: Sunsilk",
+                "Capacity:375ml"
+            ],
+            "brandId": "31115",
+            "brandName": "Sunsilk",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5f5e5785cc930f301770f50ae863f22e.jpg",
+                    "productUrl": "/products/sunsilk-shampoo-volume-375ml-i164384681-s1097116652.html",
+                    "sku": "164384681_BD",
+                    "skuId": "1097116652"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1605
+            ],
+            "clickTrace": "query:;nid:164384681;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:164384681_BD;price:299.00;client:desktop;supplier_id:1000000;asc_category_id:1605;item_id:164384681;sku_id:1097116652;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "164384681_BD-1097116652",
+                    "skuId": "1097116652",
+                    "count": 0
+                }
+            ],
+            "itemId": "164384681",
+            "skuId": "1097116652",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dove Shampoo Intense Repair 650Ml",
+            "nid": "187543443",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "187543443",
+                "scene_pre": "search",
+                "current_price": "489.00",
+                "x_sku_ids": "1134496400",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "187543443"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dove-shampoo-intense-repair-650ml-i187543443-s1134496400.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7980cb3715e96b5cc86694001badb557.jpg",
+            "originalPrice": "670.00",
+            "originalPriceShow": "৳ 670",
+            "price": "489.00",
+            "promotionId": "null",
+            "priceShow": "৳ 489",
+            "discount": "-27%",
+            "ratingScore": "4.58571",
+            "review": "70",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "187543443_BD-1134496400",
+            "sku": "187543443_BD",
+            "skus": [],
+            "description": [
+                "Product type:Shampoo",
+                "Brand:Dove",
+                "Capacity: 650ml",
+                "Keratin Actives help repair damage deep inside hair",
+                "Hair looks healthy, strong and more beautiful",
+                "Helps protect against future damage with continuous use",
+                "Suitable for daily use",
+                "We've created a unique formulation to visibly repair and nourish damaged hair with continuous use"
+            ],
+            "brandId": "31113",
+            "brandName": "Dove",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7980cb3715e96b5cc86694001badb557.jpg",
+                    "productUrl": "/products/dove-shampoo-intense-repair-650ml-i187543443-s1134496400.html",
+                    "sku": "187543443_BD",
+                    "skuId": "1134496400"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1605
+            ],
+            "clickTrace": "query:;nid:187543443;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:187543443_BD;price:489.00;client:desktop;supplier_id:1000000;asc_category_id:1605;item_id:187543443;sku_id:1134496400;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "187543443_BD-1134496400",
+                    "skuId": "1134496400",
+                    "count": 0
+                }
+            ],
+            "itemId": "187543443",
+            "skuId": "1134496400",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Naturale Shampoo Damage Repair 340ml (80ml Shampoo Free)",
+            "nid": "179030639",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "179030639",
+                "scene_pre": "search",
+                "current_price": "302",
+                "x_sku_ids": "1120106125",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "179030639"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-naturale-shampoo-damage-repair-340ml-80ml-shampoo-free-i179030639-s1120106125.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/507699a4351b89038dd6ffcb7615651e.jpg",
+            "originalPrice": "330.00",
+            "originalPriceShow": "৳ 330",
+            "price": "302",
+            "promotionId": "null",
+            "priceShow": "৳ 302",
+            "discount": "-8%",
+            "ratingScore": "4.87852",
+            "review": "461",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "179030639_BD-1120106125",
+            "sku": "179030639_BD",
+            "skus": [],
+            "description": [
+                "Product type: Shampoo",
+                "Brand:Parachute Naturale",
+                "Capacity:340ml",
+                "Damage Repair",
+                "Country of Origin:Bangladesh",
+                "Shelf Life:24 Months"
+            ],
+            "brandId": "123285284",
+            "brandName": "Parachute Naturale",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/507699a4351b89038dd6ffcb7615651e.jpg",
+                    "productUrl": "/products/parachute-naturale-shampoo-damage-repair-340ml-80ml-shampoo-free-i179030639-s1120106125.html",
+                    "sku": "179030639_BD",
+                    "skuId": "1120106125"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1605
+            ],
+            "clickTrace": "query:;nid:179030639;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:179030639_BD;price:302;client:desktop;supplier_id:1000000;asc_category_id:1605;item_id:179030639;sku_id:1120106125;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "179030639_BD-1120106125",
+                    "skuId": "1120106125",
+                    "count": 0
+                }
+            ],
+            "itemId": "179030639",
+            "skuId": "1120106125",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sunsilk Conditioner Perfect Straight 80ml",
+            "nid": "322646",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "2386903",
+                "scene_pre": "search",
+                "current_price": "57",
+                "x_sku_ids": "62432596",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "2386903"
+            },
+            "productUrl": "//www.daraz.com.bd/products/sunsilk-conditioner-perfect-straight-80ml-i2386903-s62432596.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c500614bf9777e9a9faeeba70a814d88.jpg",
+            "originalPrice": "65.00",
+            "originalPriceShow": "৳ 65",
+            "price": "57",
+            "promotionId": "null",
+            "priceShow": "৳ 57",
+            "discount": "-12%",
+            "ratingScore": "4.68852",
+            "review": "366",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "SU503HBSHAANNAFAMZ-487741",
+            "sku": "SU503HBSHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "The condtioner for straight hair every day",
+                "Its Straight-Lock technology actively control and hair strands perfectly aligned as it dries",
+                "Experience straight hair that is shiny, smooth and gorgeous, right from the shower",
+                "Penetrates deep within the hair fibre, reducing frizz and keeping them fully aligned as they dry"
+            ],
+            "brandId": "31115",
+            "brandName": "Sunsilk",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c500614bf9777e9a9faeeba70a814d88.jpg",
+                    "productUrl": "/products/sunsilk-conditioner-perfect-straight-80ml-i2386903-s62432596.html",
+                    "sku": "SU503HBSHAANNAFAMZ",
+                    "skuId": "62432596"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                10002066
+            ],
+            "clickTrace": "query:;nid:322646;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:SU503HBSHAANNAFAMZ;price:57;client:desktop;supplier_id:1000000;asc_category_id:10002066;item_id:2386903;sku_id:62432596;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "SU503HBSHAANNAFAMZ-487741",
+                    "skuId": "62432596",
+                    "count": 0
+                }
+            ],
+            "itemId": "2386903",
+            "skuId": "62432596",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Tresemme Conditioner Keratin Smooth 190ml",
+            "nid": "322568",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "891733",
+                "scene_pre": "search",
+                "current_price": "242.00",
+                "x_sku_ids": "3722272",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "891733"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tresemme-conditioner-keratin-smooth-190ml-i891733-s3722272.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/470dde5739bcb1390a8b40cdfaf49c35.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "242.00",
+            "promotionId": "null",
+            "priceShow": "৳ 242",
+            "discount": "-19%",
+            "ratingScore": "4.74576",
+            "review": "118",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "TR660HBSHAANNAFAMZ-487665",
+            "sku": "TR660HBSHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Product Type: Conditioner",
+                "Capacity: 190ml",
+                "Transforms your hair to be smoother and easier to style.",
+                "Infused with keratin, it rescues hair from the brink of unruly despair.",
+                "Gentle enough for daily use",
+                "Gender: Women"
+            ],
+            "brandId": "35132",
+            "brandName": "Tresemme",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/470dde5739bcb1390a8b40cdfaf49c35.jpg",
+                    "productUrl": "/products/tresemme-conditioner-keratin-smooth-190ml-i891733-s3722272.html",
+                    "sku": "TR660HBSHAANNAFAMZ",
+                    "skuId": "3722272"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                10002066
+            ],
+            "clickTrace": "query:;nid:322568;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:TR660HBSHAANNAFAMZ;price:242.00;client:desktop;supplier_id:1000000;asc_category_id:10002066;item_id:891733;sku_id:3722272;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "TR660HBSHAANNAFAMZ-487665",
+                    "skuId": "3722272",
+                    "count": 0
+                }
+            ],
+            "itemId": "891733",
+            "skuId": "3722272",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Tresemme Shampoo Hair Fall Defense - 580ml",
+            "nid": "117892415",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "117892415",
+                "scene_pre": "search",
+                "current_price": "488.00",
+                "x_sku_ids": "1037200889",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "117892415"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tresemme-shampoo-hair-fall-defense-580ml-i117892415-s1037200889.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f9df977bb1f14634302a511d6dcf9b00.jpg",
+            "originalPrice": "740.00",
+            "originalPriceShow": "৳ 740",
+            "price": "488.00",
+            "promotionId": "null",
+            "priceShow": "৳ 488",
+            "discount": "-34%",
+            "ratingScore": "4.625",
+            "review": "112",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "117892415_BD-1037200889",
+            "sku": "117892415_BD",
+            "skus": [],
+            "description": [
+                "Infused with Salon Grade Ionic Complex that recharges and makes hair 100% stronger, bringing them back to life",
+                "Restores & nourishes your hair, thus protecting them from further damage and making them salon strong",
+                "Use affter shampooing with TRESemme Ionic Strength Shampoo to reinforce protection from damage",
+                "Gentle enough for daily use, it makes your hair strong and healthy like you have just stepped out of the salon",
+                "Apply to wet hair, gently massage and work into a lather."
+            ],
+            "brandId": "35132",
+            "brandName": "Tresemme",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f9df977bb1f14634302a511d6dcf9b00.jpg",
+                    "productUrl": "/products/tresemme-shampoo-hair-fall-defense-580ml-i117892415-s1037200889.html",
+                    "sku": "117892415_BD",
+                    "skuId": "1037200889"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1605
+            ],
+            "clickTrace": "query:;nid:117892415;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:117892415_BD;price:488.00;client:desktop;supplier_id:1000000;asc_category_id:1605;item_id:117892415;sku_id:1037200889;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "117892415_BD-1037200889",
+                    "skuId": "1037200889",
+                    "count": 0
+                }
+            ],
+            "itemId": "117892415",
+            "skuId": "1037200889",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Tresemme Shampoo Keratin Smooth 580Ml",
+            "nid": "101528357",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101528357",
+                "scene_pre": "search",
+                "current_price": "488.00",
+                "x_sku_ids": "1015534346",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "101528357"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tresemme-shampoo-keratin-smooth-580ml-i101528357-s1015534346.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/30d981ddd14a505f284d0ca06a404c03.jpg",
+            "originalPrice": "740.00",
+            "originalPriceShow": "৳ 740",
+            "price": "488.00",
+            "promotionId": "null",
+            "priceShow": "৳ 488",
+            "discount": "-34%",
+            "ratingScore": "4.72766",
+            "review": "235",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101528357_BD-1015534346",
+            "sku": "101528357_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Tresemme Shampoo Keratin Smooth",
+                "Brand: Tresemme",
+                "Capacity: 580ml",
+                "Made in Bangladesh"
+            ],
+            "brandId": "35132",
+            "brandName": "Tresemme",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/30d981ddd14a505f284d0ca06a404c03.jpg",
+                    "productUrl": "/products/tresemme-shampoo-keratin-smooth-580ml-i101528357-s1015534346.html",
+                    "sku": "101528357_BD",
+                    "skuId": "1015534346"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1605
+            ],
+            "clickTrace": "query:;nid:101528357;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:101528357_BD;price:488.00;client:desktop;supplier_id:1000000;asc_category_id:1605;item_id:101528357;sku_id:1015534346;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "101528357_BD-1015534346",
+                    "skuId": "1015534346",
+                    "count": 0
+                }
+            ],
+            "itemId": "101528357",
+            "skuId": "1015534346",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mehedi Pata Gura(মেহেদী পাতা গুঁড়া) Henna Leaf Powder(100gm)",
+            "nid": "136936978",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "136936978",
+                "scene_pre": "search",
+                "current_price": "59",
+                "x_sku_ids": "1059246734",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "136936978"
+            },
+            "productUrl": "//www.daraz.com.bd/products/mehedi-pata-gura-henna-leaf-powder100gm-i136936978-s1059246734.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b4c65af7911c4f4c13298724de3404ea.jpg",
+            "originalPrice": "105.00",
+            "originalPriceShow": "৳ 105",
+            "price": "59",
+            "promotionId": "null",
+            "priceShow": "৳ 59",
+            "discount": "-44%",
+            "ratingScore": "4.70943",
+            "review": "265",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "136936978_BD-1059246734",
+            "sku": "136936978_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123434403",
+            "brandName": "Trinamool Herbal",
+            "sellerId": "700506867056",
+            "mainSellerId": "",
+            "sellerName": "Trinamool Herbal",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b4c65af7911c4f4c13298724de3404ea.jpg",
+                    "productUrl": "/products/mehedi-pata-gura-henna-leaf-powder100gm-i136936978-s1059246734.html",
+                    "sku": "136936978_BD",
+                    "skuId": "1059246734"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1618
+            ],
+            "clickTrace": "query:;nid:136936978;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:136936978_BD;price:59;client:desktop;supplier_id:700506867056;asc_category_id:1618;item_id:136936978;sku_id:1059246734;shop_id:85310",
+            "addToCartSkus": [
+                {
+                    "sku": "136936978_BD-1059246734",
+                    "skuId": "1059246734",
+                    "count": 0
+                }
+            ],
+            "itemId": "136936978",
+            "skuId": "1059246734",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ritha Powder (Soap Nut)-100 gm (Exp.-24/05/2023  )",
+            "nid": "129280666",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "129280666",
+                "scene_pre": "search",
+                "current_price": "53",
+                "x_sku_ids": "1049076537",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "129280666"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ritha-powder-soap-nut-100-gm-24052023-i129280666-s1049076537.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/deafb1cf7cd8ad83fe723d410cc48478.jpg",
+            "originalPrice": "100.00",
+            "originalPriceShow": "৳ 100",
+            "price": "53",
+            "promotionId": "null",
+            "priceShow": "৳ 53",
+            "discount": "-47%",
+            "ratingScore": "4.74468",
+            "review": "141",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "129280666_BD-1049076537",
+            "sku": "129280666_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "121230816",
+            "brandName": "Wazih Organic",
+            "sellerId": "700505058146",
+            "mainSellerId": "",
+            "sellerName": "Wazih Organic",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/deafb1cf7cd8ad83fe723d410cc48478.jpg",
+                    "productUrl": "/products/ritha-powder-soap-nut-100-gm-24052023-i129280666-s1049076537.html",
+                    "sku": "129280666_BD",
+                    "skuId": "1049076537"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1618
+            ],
+            "clickTrace": "query:;nid:129280666;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:129280666_BD;price:53;client:desktop;supplier_id:700505058146;asc_category_id:1618;item_id:129280666;sku_id:1049076537;shop_id:55518",
+            "addToCartSkus": [
+                {
+                    "sku": "129280666_BD-1049076537",
+                    "skuId": "1049076537",
+                    "count": 0
+                }
+            ],
+            "itemId": "129280666",
+            "skuId": "1049076537",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pro Fiber Hair Mask - 120ml Made in Thailand",
+            "nid": "214788957",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "214788957",
+                "scene_pre": "search",
+                "current_price": "183",
+                "x_sku_ids": "1163526123",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "214788957"
+            },
+            "productUrl": "//www.daraz.com.bd/products/120ml-i214788957-s1163526123.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3de29262d389c0a04340318d63fd96f4.png",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "183",
+            "promotionId": "null",
+            "priceShow": "৳ 183",
+            "discount": "-63%",
+            "ratingScore": "4.5",
+            "review": "8",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "214788957_BD-1163526123",
+            "sku": "214788957_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509324174",
+            "mainSellerId": "",
+            "sellerName": "Shajan And Brothers",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3de29262d389c0a04340318d63fd96f4.png",
+                    "productUrl": "/products/120ml-i214788957-s1163526123.html",
+                    "sku": "214788957_BD",
+                    "skuId": "1163526123"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1618
+            ],
+            "clickTrace": "query:;nid:214788957;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:214788957_BD;price:183;client:desktop;supplier_id:700509324174;asc_category_id:1618;item_id:214788957;sku_id:1163526123;shop_id:207998",
+            "addToCartSkus": [
+                {
+                    "sku": "214788957_BD-1163526123",
+                    "skuId": "1163526123",
+                    "count": 0
+                }
+            ],
+            "itemId": "214788957",
+            "skuId": "1163526123",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fenugreek Powder (100 gm)- Methi Gura",
+            "nid": "129284369",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "129284369",
+                "scene_pre": "search",
+                "current_price": "32",
+                "x_sku_ids": "1049082083",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "129284369"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fenugreek-powder-100-gm-methi-gura-24052023-i129284369-s1049082083.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/340ecaa3bff2e5d8557095fbc664efd4.jpg",
+            "originalPrice": "65.00",
+            "originalPriceShow": "৳ 65",
+            "price": "32",
+            "promotionId": "null",
+            "priceShow": "৳ 32",
+            "discount": "-51%",
+            "ratingScore": "4.75747",
+            "review": "301",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "129284369_BD-1049082083",
+            "sku": "129284369_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "121230816",
+            "brandName": "Wazih Organic",
+            "sellerId": "700505058146",
+            "mainSellerId": "",
+            "sellerName": "Wazih Organic",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/340ecaa3bff2e5d8557095fbc664efd4.jpg",
+                    "productUrl": "/products/fenugreek-powder-100-gm-methi-gura-24052023-i129284369-s1049082083.html",
+                    "sku": "129284369_BD",
+                    "skuId": "1049082083"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1618
+            ],
+            "clickTrace": "query:;nid:129284369;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:129284369_BD;price:32;client:desktop;supplier_id:700505058146;asc_category_id:1618;item_id:129284369;sku_id:1049082083;shop_id:55518",
+            "addToCartSkus": [
+                {
+                    "sku": "129284369_BD-1049082083",
+                    "skuId": "1049082083",
+                    "count": 0
+                }
+            ],
+            "itemId": "129284369",
+            "skuId": "1049082083",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Methi Gura  Fenugreek Powder 100gm",
+            "nid": "135178111",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "135178111",
+                "scene_pre": "search",
+                "current_price": "36",
+                "x_sku_ids": "1057114682",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "135178111"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i135178111-s1057114682.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/923fca98b86098c18f5025ce50179c66.jpg",
+            "originalPrice": "50.00",
+            "originalPriceShow": "৳ 50",
+            "price": "36",
+            "promotionId": "null",
+            "priceShow": "৳ 36",
+            "discount": "-28%",
+            "ratingScore": "4.83607",
+            "review": "244",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "135178111_BD-1057114682",
+            "sku": "135178111_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123434403",
+            "brandName": "Trinamool Herbal",
+            "sellerId": "700506867056",
+            "mainSellerId": "",
+            "sellerName": "Trinamool Herbal",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/923fca98b86098c18f5025ce50179c66.jpg",
+                    "productUrl": "/products/-i135178111-s1057114682.html",
+                    "sku": "135178111_BD",
+                    "skuId": "1057114682"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1618
+            ],
+            "clickTrace": "query:;nid:135178111;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:135178111_BD;price:36;client:desktop;supplier_id:700506867056;asc_category_id:1618;item_id:135178111;sku_id:1057114682;shop_id:85310",
+            "addToCartSkus": [
+                {
+                    "sku": "135178111_BD-1057114682",
+                    "skuId": "1057114682",
+                    "count": 0
+                }
+            ],
+            "itemId": "135178111",
+            "skuId": "1057114682",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "organic Olive Oil  for Hair - 200Ml",
+            "nid": "150730776",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "150730776",
+                "scene_pre": "search",
+                "current_price": "396",
+                "x_sku_ids": "1154793511",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "150730776"
+            },
+            "productUrl": "//www.daraz.com.bd/products/200ml-i150730776-s1154793511.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1fc4181cca10163da5ddfb7e9cc86f2e.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "396",
+            "promotionId": "null",
+            "priceShow": "৳ 396",
+            "discount": "-12%",
+            "ratingScore": "4.79337",
+            "review": "784",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "150730776_BD-1154793511",
+            "sku": "150730776_BD",
+            "skus": [],
+            "description": [
+                "ol"
+            ],
+            "brandId": "188486",
+            "brandName": "RiBANA",
+            "sellerId": "5059",
+            "mainSellerId": "",
+            "sellerName": "RiBANA",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1fc4181cca10163da5ddfb7e9cc86f2e.jpg",
+                    "productUrl": "/products/200ml-i150730776-s1154793511.html",
+                    "sku": "150730776_BD",
+                    "skuId": "1154793511"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1618
+            ],
+            "clickTrace": "query:;nid:150730776;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:150730776_BD;price:396;client:desktop;supplier_id:5059;asc_category_id:1618;item_id:150730776;sku_id:1154793511;shop_id:5076",
+            "addToCartSkus": [
+                {
+                    "sku": "150730776_BD-1154793511",
+                    "skuId": "1154793511",
+                    "count": 0
+                }
+            ],
+            "itemId": "150730776",
+            "skuId": "1154793511",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Positive Root Therapy Onion Oil for Hair-200ml",
+            "nid": "182568553",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "182568553",
+                "scene_pre": "search",
+                "current_price": "105",
+                "x_sku_ids": "1126457068",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "182568553"
+            },
+            "productUrl": "//www.daraz.com.bd/products/hair-200ml-i182568553-s1126457068.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c538333740a0fd92e82bed662eca53e6.jpg",
+            "originalPrice": "444.00",
+            "originalPriceShow": "৳ 444",
+            "price": "105",
+            "promotionId": "null",
+            "priceShow": "৳ 105",
+            "discount": "-76%",
+            "ratingScore": "4.60365",
+            "review": "603",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "182568553_BD-1126457068",
+            "sku": "182568553_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508337325",
+            "mainSellerId": "",
+            "sellerName": "Women's Best Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c538333740a0fd92e82bed662eca53e6.jpg",
+                    "productUrl": "/products/hair-200ml-i182568553-s1126457068.html",
+                    "sku": "182568553_BD",
+                    "skuId": "1126457068"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1618
+            ],
+            "clickTrace": "query:;nid:182568553;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:182568553_BD;price:105;client:desktop;supplier_id:700508337325;asc_category_id:1618;item_id:182568553;sku_id:1126457068;shop_id:148631",
+            "addToCartSkus": [
+                {
+                    "sku": "182568553_BD-1126457068",
+                    "skuId": "1126457068",
+                    "count": 0
+                }
+            ],
+            "itemId": "182568553",
+            "skuId": "1126457068",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "organic Castor Oil- 200ml",
+            "nid": "816630",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "1219643",
+                "scene_pre": "search",
+                "current_price": "396",
+                "x_sku_ids": "1154799143",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "1219643"
+            },
+            "productUrl": "//www.daraz.com.bd/products/200-ml-i1219643-s1154799143.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/df1685e4199aa56b76c06040d2e0ff4c.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "396",
+            "promotionId": "null",
+            "priceShow": "৳ 396",
+            "discount": "-12%",
+            "ratingScore": "4.74011",
+            "review": "885",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "1219643_BD-1154799143",
+            "sku": "1219643_BD",
+            "skus": [],
+            "description": [
+                "Product type: Organic castor oil",
+                "Gender: unisex",
+                "Recommended: For any kind of hail Problems.",
+                "Stimulate Hair Growth",
+                "Repaid increase of hair regrowth",
+                "Prevent Hair Fall",
+                "Thicken hair",
+                "Helps treat and prevent dandruff",
+                "Repair dry damaged hair",
+                "Thicken the hair"
+            ],
+            "brandId": "188486",
+            "brandName": "RiBANA",
+            "sellerId": "5059",
+            "mainSellerId": "",
+            "sellerName": "RiBANA",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/df1685e4199aa56b76c06040d2e0ff4c.jpg",
+                    "productUrl": "/products/200-ml-i1219643-s1154799143.html",
+                    "sku": "1219643_BD",
+                    "skuId": "1154799143"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1618
+            ],
+            "clickTrace": "query:;nid:816630;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:1219643_BD;price:396;client:desktop;supplier_id:5059;asc_category_id:1618;item_id:1219643;sku_id:1154799143;shop_id:5076",
+            "addToCartSkus": [
+                {
+                    "sku": "1219643_BD-1154799143",
+                    "skuId": "1154799143",
+                    "count": 0
+                }
+            ],
+            "itemId": "1219643",
+            "skuId": "1154799143",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Henna Powder(মেহেদী পাতা গুড়া)Mehedi Gura-(100gm)",
+            "nid": "168078390",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168078390",
+                "scene_pre": "search",
+                "current_price": "76",
+                "x_sku_ids": "1102000838",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "168078390"
+            },
+            "productUrl": "//www.daraz.com.bd/products/henna-powder-mehedi-gura-100gm-i168078390-s1102000838.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/25c7bd0eab960ef0a694998c8c63633c.png",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "76",
+            "promotionId": "null",
+            "priceShow": "৳ 76",
+            "discount": "-49%",
+            "ratingScore": "4.7265",
+            "review": "234",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168078390_BD-1102000838",
+            "sku": "168078390_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1044464",
+            "mainSellerId": "",
+            "sellerName": "Sat Rong",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/25c7bd0eab960ef0a694998c8c63633c.png",
+                    "productUrl": "/products/henna-powder-mehedi-gura-100gm-i168078390-s1102000838.html",
+                    "sku": "168078390_BD",
+                    "skuId": "1102000838"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1618
+            ],
+            "clickTrace": "query:;nid:168078390;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:168078390_BD;price:76;client:desktop;supplier_id:1044464;asc_category_id:1618;item_id:168078390;sku_id:1102000838;shop_id:50097",
+            "addToCartSkus": [
+                {
+                    "sku": "168078390_BD-1102000838",
+                    "skuId": "1102000838",
+                    "count": 0
+                }
+            ],
+            "itemId": "168078390",
+            "skuId": "1102000838",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Amloki Powder (Emblic)(আমলকী গুড়া)-(100gm)",
+            "nid": "168090351",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168090351",
+                "scene_pre": "search",
+                "current_price": "49",
+                "x_sku_ids": "1102018155",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "168090351"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100-i168090351-s1102018155.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7bf5851b207155664e1f18a8aa935344.png",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "49",
+            "promotionId": "null",
+            "priceShow": "৳ 49",
+            "discount": "-76%",
+            "ratingScore": "4.71905",
+            "review": "420",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168090351_BD-1102018155",
+            "sku": "168090351_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1044464",
+            "mainSellerId": "",
+            "sellerName": "Sat Rong",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7bf5851b207155664e1f18a8aa935344.png",
+                    "productUrl": "/products/100-i168090351-s1102018155.html",
+                    "sku": "168090351_BD",
+                    "skuId": "1102018155"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1618
+            ],
+            "clickTrace": "query:;nid:168090351;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:168090351_BD;price:49;client:desktop;supplier_id:1044464;asc_category_id:1618;item_id:168090351;sku_id:1102018155;shop_id:50097",
+            "addToCartSkus": [
+                {
+                    "sku": "168090351_BD-1102018155",
+                    "skuId": "1102018155",
+                    "count": 0
+                }
+            ],
+            "itemId": "168090351",
+            "skuId": "1102018155",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dexe Hair Building Fiber - Black",
+            "nid": "115278101",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "115278101",
+                "scene_pre": "search",
+                "current_price": "355",
+                "x_sku_ids": "1033582372",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "115278101"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dexe-i115278101-s1033582372.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b1b2fc8e5af918146e019a7ed67bf5db.jpg",
+            "originalPrice": "1500.00",
+            "originalPriceShow": "৳ 1,500",
+            "price": "355",
+            "promotionId": "null",
+            "priceShow": "৳ 355",
+            "discount": "-76%",
+            "ratingScore": "4.75817",
+            "review": "153",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "115278101_BD-1033582372",
+            "sku": "115278101_BD",
+            "skus": [],
+            "description": [
+                "Specification:",
+                "Type: Hair building fibers",
+                "Color: Black",
+                "Net Weight: 3.7oz",
+                "Suitable for : Men and Women",
+                "Efficacy: Convenience/natural looking/fast"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1012584",
+            "mainSellerId": "",
+            "sellerName": "Bikreta",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b1b2fc8e5af918146e019a7ed67bf5db.jpg",
+                    "productUrl": "/products/dexe-i115278101-s1033582372.html",
+                    "sku": "115278101_BD",
+                    "skuId": "1033582372"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1618
+            ],
+            "clickTrace": "query:;nid:115278101;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:115278101_BD;price:355;client:desktop;supplier_id:1012584;asc_category_id:1618;item_id:115278101;sku_id:1033582372;shop_id:18778",
+            "addToCartSkus": [
+                {
+                    "sku": "115278101_BD-1033582372",
+                    "skuId": "1033582372",
+                    "count": 0
+                }
+            ],
+            "itemId": "115278101",
+            "skuId": "1033582372",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Exclusive Salon Fashion Professional Round Hair Brush",
+            "nid": "132128375",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132128375",
+                "scene_pre": "search",
+                "current_price": "152",
+                "x_sku_ids": "1052886114",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "132128375"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i132128375-s1052886114.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/78ec1f65d590a5e98743d8af4dc6934d.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "152",
+            "promotionId": "null",
+            "priceShow": "৳ 152",
+            "discount": "-57%",
+            "ratingScore": "4.74468",
+            "review": "282",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132128375_BD-1052886114",
+            "sku": "132128375_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1001603",
+            "mainSellerId": "",
+            "sellerName": "Soft Stars",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/78ec1f65d590a5e98743d8af4dc6934d.jpg",
+                    "productUrl": "/products/-i132128375-s1052886114.html",
+                    "sku": "132128375_BD",
+                    "skuId": "1052886114"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1606,
+                1608
+            ],
+            "clickTrace": "query:;nid:132128375;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:132128375_BD;price:152;client:desktop;supplier_id:1001603;asc_category_id:1608;item_id:132128375;sku_id:1052886114;shop_id:7793",
+            "addToCartSkus": [
+                {
+                    "sku": "132128375_BD-1052886114",
+                    "skuId": "1052886114",
+                    "count": 0
+                }
+            ],
+            "itemId": "132128375",
+            "skuId": "1052886114",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dexe Hair Building Fiber - Black",
+            "nid": "163358490",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "163358490",
+                "scene_pre": "search",
+                "current_price": "330",
+                "x_sku_ids": "1095816436",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "163358490"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dexe-i163358490-s1095816436.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f7f1d49904204645f0995bb7799baecf.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "330",
+            "promotionId": "null",
+            "priceShow": "৳ 330",
+            "discount": "-34%",
+            "ratingScore": "4.62857",
+            "review": "35",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "163358490_BD-1095816436",
+            "sku": "163358490_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "65633",
+            "brandName": "Dexe",
+            "sellerId": "1004511",
+            "mainSellerId": "",
+            "sellerName": "Hossain's Collection",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f7f1d49904204645f0995bb7799baecf.jpg",
+                    "productUrl": "/products/dexe-i163358490-s1095816436.html",
+                    "sku": "163358490_BD",
+                    "skuId": "1095816436"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1618
+            ],
+            "clickTrace": "query:;nid:163358490;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:163358490_BD;price:330;client:desktop;supplier_id:1004511;asc_category_id:1618;item_id:163358490;sku_id:1095816436;shop_id:10644",
+            "addToCartSkus": [
+                {
+                    "sku": "163358490_BD-1095816436",
+                    "skuId": "1095816436",
+                    "count": 0
+                }
+            ],
+            "itemId": "163358490",
+            "skuId": "1095816436",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mehedi Pata Gura (মেহেদী পাতা গুঁড়া) Henna Leaf Powder 100gm",
+            "nid": "163056573",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "163056573",
+                "scene_pre": "search",
+                "current_price": "59",
+                "x_sku_ids": "1095426696",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "163056573"
+            },
+            "productUrl": "//www.daraz.com.bd/products/mehedi-pata-gura-henna-leaf-powder-100gm-i163056573-s1095426696.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/778004486f9510e9b2066c4f408cbbc3.jpg",
+            "originalPrice": "105.00",
+            "originalPriceShow": "৳ 105",
+            "price": "59",
+            "promotionId": "null",
+            "priceShow": "৳ 59",
+            "discount": "-44%",
+            "ratingScore": "4.76786",
+            "review": "168",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "163056573_BD-1095426696",
+            "sku": "163056573_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507938098",
+            "mainSellerId": "",
+            "sellerName": "SK CONSUMER",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/778004486f9510e9b2066c4f408cbbc3.jpg",
+                    "productUrl": "/products/mehedi-pata-gura-henna-leaf-powder-100gm-i163056573-s1095426696.html",
+                    "sku": "163056573_BD",
+                    "skuId": "1095426696"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1618
+            ],
+            "clickTrace": "query:;nid:163056573;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:163056573_BD;price:59;client:desktop;supplier_id:700507938098;asc_category_id:1618;item_id:163056573;sku_id:1095426696;shop_id:120381",
+            "addToCartSkus": [
+                {
+                    "sku": "163056573_BD-1095426696",
+                    "skuId": "1095426696",
+                    "count": 0
+                }
+            ],
+            "itemId": "163056573",
+            "skuId": "1095426696",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Shikakai Powder(শিকাকাই গুড়া )-(100gm)",
+            "nid": "168076949",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168076949",
+                "scene_pre": "search",
+                "current_price": "72",
+                "x_sku_ids": "1102004763",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "168076949"
+            },
+            "productUrl": "//www.daraz.com.bd/products/shikakai-powder-100gm-i168076949-s1102004763.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/cc8631d6f1f3dad976f700cce3bf3487.png",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "72",
+            "promotionId": "null",
+            "priceShow": "৳ 72",
+            "discount": "-76%",
+            "ratingScore": "4.83099",
+            "review": "142",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168076949_BD-1102004763",
+            "sku": "168076949_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1044464",
+            "mainSellerId": "",
+            "sellerName": "Sat Rong",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cc8631d6f1f3dad976f700cce3bf3487.png",
+                    "productUrl": "/products/shikakai-powder-100gm-i168076949-s1102004763.html",
+                    "sku": "168076949_BD",
+                    "skuId": "1102004763"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1618
+            ],
+            "clickTrace": "query:;nid:168076949;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:168076949_BD;price:72;client:desktop;supplier_id:1044464;asc_category_id:1618;item_id:168076949;sku_id:1102004763;shop_id:50097",
+            "addToCartSkus": [
+                {
+                    "sku": "168076949_BD-1102004763",
+                    "skuId": "1102004763",
+                    "count": 0
+                }
+            ],
+            "itemId": "168076949",
+            "skuId": "1102004763",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fair Fall Solution Derma Roller for Hair Growth - 0.5 Mm",
+            "nid": "185751349",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "185751349",
+                "scene_pre": "search",
+                "current_price": "145",
+                "x_sku_ids": "1131587350",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "185751349"
+            },
+            "productUrl": "//www.daraz.com.bd/products/05mm-i185751349-s1131587350.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/e52d9b3b73a660ec15fad130931c9533.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "145",
+            "promotionId": "null",
+            "priceShow": "৳ 145",
+            "discount": "-71%",
+            "ratingScore": "4.68605",
+            "review": "86",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "185751349_BD-1131587350",
+            "sku": "185751349_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1005578",
+            "mainSellerId": "",
+            "sellerName": "Happiness Tours & Travels",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/e52d9b3b73a660ec15fad130931c9533.jpg",
+                    "productUrl": "/products/05mm-i185751349-s1131587350.html",
+                    "sku": "185751349_BD",
+                    "skuId": "1131587350"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1618
+            ],
+            "clickTrace": "query:;nid:185751349;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:185751349_BD;price:145;client:desktop;supplier_id:1005578;asc_category_id:1618;item_id:185751349;sku_id:1131587350;shop_id:11802",
+            "addToCartSkus": [
+                {
+                    "sku": "185751349_BD-1131587350",
+                    "skuId": "1131587350",
+                    "count": 0
+                }
+            ],
+            "itemId": "185751349",
+            "skuId": "1131587350",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Lice and Nit Egg Free Treatment Professional Stainless Steel Lice Removal Comb",
+            "nid": "207091427",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "207091427",
+                "scene_pre": "search",
+                "current_price": "237",
+                "x_sku_ids": "1156683953",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "207091427"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i207091427-s1156683953.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6d2cb9f13ee1ebf17a87aa7dbdd72d91.jpg",
+            "originalPrice": "249.00",
+            "originalPriceShow": "৳ 249",
+            "price": "237",
+            "promotionId": "null",
+            "priceShow": "৳ 237",
+            "discount": "-5%",
+            "ratingScore": "4.77273",
+            "review": "154",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "207091427_BD-1156683953",
+            "sku": "207091427_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508238035",
+            "mainSellerId": "",
+            "sellerName": "Classic SuperMart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6d2cb9f13ee1ebf17a87aa7dbdd72d91.jpg",
+                    "productUrl": "/products/-i207091427-s1156683953.html",
+                    "sku": "207091427_BD",
+                    "skuId": "1156683953"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1606,
+                1608
+            ],
+            "clickTrace": "query:;nid:207091427;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:207091427_BD;price:237;client:desktop;supplier_id:700508238035;asc_category_id:1608;item_id:207091427;sku_id:1156683953;shop_id:136953",
+            "addToCartSkus": [
+                {
+                    "sku": "207091427_BD-1156683953",
+                    "skuId": "1156683953",
+                    "count": 0
+                }
+            ],
+            "itemId": "207091427",
+            "skuId": "1156683953",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "নিম পাতা গুড়া-Neem Powder-(Nim Pata Gura)-100gm",
+            "nid": "188828537",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "188828537",
+                "scene_pre": "search",
+                "current_price": "51",
+                "x_sku_ids": "1136480345",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "188828537"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100-i188828537-s1136480345.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7eeb22388614691477b73e9fabb0daad.png",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "51",
+            "promotionId": "null",
+            "priceShow": "৳ 51",
+            "discount": "-66%",
+            "ratingScore": "4.83673",
+            "review": "49",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "188828537_BD-1136480345",
+            "sku": "188828537_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504920099",
+            "mainSellerId": "",
+            "sellerName": "Fashion & Forest",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7eeb22388614691477b73e9fabb0daad.png",
+                    "productUrl": "/products/100-i188828537-s1136480345.html",
+                    "sku": "188828537_BD",
+                    "skuId": "1136480345"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1618
+            ],
+            "clickTrace": "query:;nid:188828537;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:188828537_BD;price:51;client:desktop;supplier_id:700504920099;asc_category_id:1618;item_id:188828537;sku_id:1136480345;shop_id:51968",
+            "addToCartSkus": [
+                {
+                    "sku": "188828537_BD-1136480345",
+                    "skuId": "1136480345",
+                    "count": 0
+                }
+            ],
+            "itemId": "188828537",
+            "skuId": "1136480345",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Methi Gura-(মেথি গুড়া)Fenugreek Powder-(100gm)",
+            "nid": "167510331",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "167510331",
+                "scene_pre": "search",
+                "current_price": "42",
+                "x_sku_ids": "1101266112",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "167510331"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100-i167510331-s1101266112.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d0c21453fce0d4d209c17dc4217ea556.png",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "42",
+            "promotionId": "null",
+            "priceShow": "৳ 42",
+            "discount": "-72%",
+            "ratingScore": "4.81496",
+            "review": "254",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "167510331_BD-1101266112",
+            "sku": "167510331_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1044464",
+            "mainSellerId": "",
+            "sellerName": "Sat Rong",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d0c21453fce0d4d209c17dc4217ea556.png",
+                    "productUrl": "/products/100-i167510331-s1101266112.html",
+                    "sku": "167510331_BD",
+                    "skuId": "1101266112"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1618
+            ],
+            "clickTrace": "query:;nid:167510331;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:167510331_BD;price:42;client:desktop;supplier_id:1044464;asc_category_id:1618;item_id:167510331;sku_id:1101266112;shop_id:50097",
+            "addToCartSkus": [
+                {
+                    "sku": "167510331_BD-1101266112",
+                    "skuId": "1101266112",
+                    "count": 0
+                }
+            ],
+            "itemId": "167510331",
+            "skuId": "1101266112",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Methi Gura Fenugreek Powder 100gm",
+            "nid": "162544398",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "162544398",
+                "scene_pre": "search",
+                "current_price": "38",
+                "x_sku_ids": "1094696872",
+                "SN": "9df050af97aac002540d976e64a21946",
+                "x_ad": "1",
+                "x_object_id": "162544398"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i162544398-s1094696872.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/14de6528200810b29746e58782c548d0.jpg",
+            "originalPrice": "50.00",
+            "originalPriceShow": "৳ 50",
+            "price": "38",
+            "promotionId": "null",
+            "priceShow": "৳ 38",
+            "discount": "-24%",
+            "ratingScore": "4.82653",
+            "review": "98",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "162544398_BD-1094696872",
+            "sku": "162544398_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507938098",
+            "mainSellerId": "",
+            "sellerName": "SK CONSUMER",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/14de6528200810b29746e58782c548d0.jpg",
+                    "productUrl": "/products/-i162544398-s1094696872.html",
+                    "sku": "162544398_BD",
+                    "skuId": "1094696872"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1604,
+                1618
+            ],
+            "clickTrace": "query:;nid:162544398;src:LazadaMainSrp;rn:9df050af97aac002540d976e64a21946;region:bd;sku:162544398_BD;price:38;client:desktop;supplier_id:700507938098;asc_category_id:1618;item_id:162544398;sku_id:1094696872;shop_id:120381",
+            "addToCartSkus": [
+                {
+                    "sku": "162544398_BD-1094696872",
+                    "skuId": "1094696872",
+                    "count": 0
+                }
+            ],
+            "itemId": "162544398",
+            "skuId": "1094696872",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/beauty-health/",
+            "title": "Health & Beauty"
+        },
+        {
+            "url": "/hair-care-beauty/",
+            "title": "Hair Care"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/hair-care-beauty/?referer_rn=9df050af97aac002540d976e64a21946&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Ch3%3EHair%20Care%20Products%20Online%20At%20Best%20Price%20-%20Daraz.com.bd%3C%2Fh3%3E%20%3Cp%3EHair%20care%20products%20in%20Bangladesh%20are%20a%20standard%20purchase%20for%20both%20men%20and%20women%20throughout%20the%20country.%20They%20are%20the%20essentials%20you%20will%20need%20to%20get%20great%20looking%20hair%20which%20in%20turn%20will%20give%20you%20a%20boost%20in%20confidence%20and%20help%20in%20making%20a%20good%20impression%20at%20work%20and%20with%20family.%20Hair%20care%20products%20online%20at%20daraz.com.bd%20are%20easily%20available%20from%20a%20wide%20variety%20of%20brands%20at%20great%20prices.%3C%2Fp%3E%20%3Ch4%3EBenefits%20of%20Good%20Hair%20Care%20Products%3C%2Fh4%3E%20%3Cp%3EThe%20first%20line%20in%20making%20a%20good%20impression%20begins%20with%20your%20hair.%20Whether%20it%E2%80%99s%20grooming%20up%20for%20work%20or%20for%20a%20party%3B%20you%20want%20your%20hair%20care%20products%20to%20bring%20out%20the%20best%20potential%20in%20your%20hair.%20Hair%20products%20like%20shampoos%20will%20have%20your%20clean%20and%20bring%20about%20a%20great%20elegant%20shine.%20After%20all%20hair%20is%20an%20integral%20part%20of%20your%20beauty%20and%20as%20such%20should%20be%20cared%20for%20with%20great%20zeal%20and%20punctuality.%20%3Ca%20href%3D%22%2Fhair-shampoo%2F%22%3EShampoos%3C%2Fa%3E%20and%20%3Ca%20href%3D%22%2Fhair-conditioner%2F%22%3Econditioners%3C%2Fa%3E%20are%20some%20of%20the%20hair%20care%20products%20online%20that%20will%20keep%20your%20hair%20healthy%20and%20smooth.%20A%20great%20set%20of%20hair%20styling%20tools%20are%20exactly%20what%20you%20will%20need%20to%20get%20perfectly%20ready%20for%20your%20next%20big%20occasion.%20Hair%20care%20for%20men%20is%20specially%20catered%20for%20with%20quality%20styling%20products%20like%20hair%20gels.%20Hair%20gel%20prices%20are%20very%20reasonable%20and%20worth%20their%20price%20tags%20because%20of%20the%20neat%20and%20groomed%20look%20they%20can%20provide.%20Some%20of%20the%20most%20common%20hair%20care%20products%20in%20Bangladesh%20are%20%3Ca%20href%3D%22%2Ftreatments%2F%22%3Ehair%20treatment%20products%3C%2Fa%3E.%3C%2Fp%3E%20%3Cp%3EThese%20hair%20care%20products%20cater%20to%20the%20very%20common%20problem%20of%20dry%20scalp%20and%20dandruff.%20This%20nasty%20combination%20can%20lead%20to%20itching%20and%20large%20amounts%20of%20hair%20loss.%20Additionally%20they%20will%20leave%20you%20with%20low%20level%20of%20self-confidence%20and%20may%20even%20become%20embarrassing%20when%20the%20dandruff%20starts%20to%20show.%20Regular%20use%20of%20hair%20care%20products%20will%20alleviate%20you%20of%20your%20dandruff%20problem%20and%20boost%20your%20self-esteem.%20Women%20who%20want%20to%20look%20their%20best%20and%20need%20great%20products%20regularly%20can%20choose%20from%20the%20wide%20selection%20of%20%3Ca%20href%3D%22%2Fhair-removal-tools%2F%22%3Ehair%20removal%20tools%3C%2Fa%3E%20that%20will%20keep%20your%20skin%20neat%20and%20silky%20smooth.%20Hair%20care%20is%20an%20essential%20part%20of%20everyday%20grooming%20for%20both%20men%20and%20women%3B%20you%20want%20your%20hair%20looking%20its%20best%20when%20you%20head%20out%20to%20an%20interview%20or%20to%20hang%20out%20with%20friends.%20Daraz%20Bangladesh%20has%20a%20vast%20selection%20of%20hair%20care%20products%20online%20for%20you%20to%20choose%20from%2C%20at%20great%20prices.%3C%2Fp%3E%20%3Ch4%3EBuy%20Hair%20Care%20Products%20Online%20From%20Daraz.com.bd%3C%2Fh4%3E%20%3Cp%3EShop%20online%20at%20%3Ca%20href%3D%22%2F%22%3Edaraz.com.bd%3C%2Fa%3E%20and%20get%20the%20best%20brands%20for%20hair%20care%20in%20the%20country%20at%20superb%20prices.%20Cater%20to%20your%20everyday%20grooming%20with%20our%20large%20selection%20of%20great%20brands%20that%20you%20can%20buy%20at%20very%20reasonable%20prices.%20Get%20the%20right%20set%20of%20hair%20care%20products%20today%20and%20let%20your%20hair%20be%20the%20best%20it%20can%20be.%3C%2Fp%3E"
+    },
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/treatments/?item_id=168078390&from=onesearch_category_1604",
+                "name": "Hair Treatments",
+                "image": "//static-01.daraz.com.bd/p/25c7bd0eab960ef0a694998c8c63633c.png",
+                "id": "1618"
+            },
+            {
+                "url": "/hair-shampoo/?item_id=136834001&from=onesearch_category_1604",
+                "name": "Shampoo",
+                "image": "//static-01.daraz.com.bd/p/639605320dd5ca7db61e602f4497ed35.jpg",
+                "id": "1605"
+            },
+            {
+                "url": "/hair-oils/?item_id=2450168&from=onesearch_category_1604",
+                "name": "Hair Oils",
+                "image": "//static-01.daraz.com.bd/p/f85b21c56882dbdab15b3e653de49ca4.jpg",
+                "id": "1611"
+            },
+            {
+                "url": "/shop-hair-brushes/?item_id=132128375&from=onesearch_category_1604",
+                "name": "Hair Brushes & Combs",
+                "image": "//static-01.daraz.com.bd/p/mdc/78ec1f65d590a5e98743d8af4dc6934d.jpg",
+                "id": "1608"
+            },
+            {
+                "url": "/hair-color/?item_id=190041802&from=onesearch_category_1604",
+                "name": "Hair Coloring",
+                "image": "//static-01.daraz.com.bd/p/192118ab09f2d82185d3ede4c396b466.jpg",
+                "id": "1610"
+            },
+            {
+                "url": "/womens-hair-extensions/?item_id=148028627&from=onesearch_category_1604",
+                "name": "Wig & Hair Extensions & Pads",
+                "image": "//static-01.daraz.com.bd/p/22fc90f21fc9b1ab29304eccdbf54ddd.jpg",
+                "id": "1607"
+            },
+            {
+                "url": "/hair-oils/?item_id=108172574&from=onesearch_category_1604",
+                "name": "Hair Styling",
+                "image": "//static-01.daraz.com.bd/p/f12cb971d34ef2d3729b641ea208b6e1.jpg",
+                "id": "1612"
+            },
+            {
+                "url": "/hair-color-accessories/?item_id=208919849&from=onesearch_category_1604",
+                "name": "Hair Accessories",
+                "image": "//static-01.daraz.com.bd/p/ed086a75315c419cd7b8d822e8dc54b9.jpg",
+                "id": "5244"
+            },
+            {
+                "url": "/hair-conditioner/?item_id=2386903&from=onesearch_category_1604",
+                "name": "Conditioner",
+                "image": "//static-01.daraz.com.bd/p/c500614bf9777e9a9faeeba70a814d88.jpg",
+                "id": "10002066"
+            },
+            {
+                "url": "/hair-care-sets/?item_id=132240275&from=onesearch_category_1604",
+                "name": "Gifts & Value Sets",
+                "image": "//static-01.daraz.com.bd/p/b4f81c63f6adff6434773b76f2328c41.jpg",
+                "id": "5261"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_1604"
+        },
+        "title": "",
+        "bizId": "onesearch_category_1604",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "101499 items found in {$0}",
+        "title": "Hair Care",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Hair Care"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Hair Care",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "9df050af97aac002540d976e64a21946",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "1604",
+            "category": "1604"
+        },
+        "categoryRegionalKey": "080600000000",
+        "mainCategoryRegionalKey": "080000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Hair Care Products In Bangladesh At Best Price - Daraz.com.bd",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Health & Beauty,Hair Care",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "080600000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=1604&_p_asc_cateid=1604",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "hair-care-beauty",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "9df050af97aac002540d976e64a21946",
+                "resultNr": 101499,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1059010931",
+                "62449878",
+                "1051766910"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "1604",
+            "category": "1604"
+        }
+    }
+}
