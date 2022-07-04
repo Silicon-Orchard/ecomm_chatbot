@@ -1,0 +1,3559 @@
+{
+    "listItems": [
+        {
+            "name": "Esp8266 nod mcu v3 (লোলিন)",
+            "nid": "151164275",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "151164275",
+                "scene_pre": "search",
+                "current_price": "264",
+                "x_sku_ids": "1078170998",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "151164275"
+            },
+            "productUrl": "//www.daraz.com.bd/products/esp8266-nod-mcu-v3-i151164275-s1078170998.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/afb044aa88350cd37991fd411ae94004.jpg",
+            "originalPrice": "360.00",
+            "originalPriceShow": "৳ 360",
+            "price": "264",
+            "promotionId": "null",
+            "priceShow": "৳ 264",
+            "discount": "-27%",
+            "ratingScore": "4.675",
+            "review": "40",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "151164275_BD-1078170998",
+            "sku": "151164275_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507686425",
+            "mainSellerId": "",
+            "sellerName": "Module Shop BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/afb044aa88350cd37991fd411ae94004.jpg",
+                    "productUrl": "/products/esp8266-nod-mcu-v3-i151164275-s1078170998.html",
+                    "sku": "151164275_BD",
+                    "skuId": "1078170998"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                116
+            ],
+            "clickTrace": "query:;nid:151164275;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:151164275_BD;price:264;client:desktop;supplier_id:700507686425;asc_category_id:116;item_id:151164275;sku_id:1078170998;shop_id:106334",
+            "addToCartSkus": [
+                {
+                    "sku": "151164275_BD-1078170998",
+                    "skuId": "1078170998",
+                    "count": 0
+                }
+            ],
+            "itemId": "151164275",
+            "skuId": "1078170998",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Thermal Grease paste Heat Sink Compound for CPU",
+            "nid": "112252979",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "112252979",
+                "scene_pre": "search",
+                "current_price": "57",
+                "x_sku_ids": "1029170023",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "112252979"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cpu-30-i112252979-s1029170023.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/03c199257f590d3a6081918b0ee3d9c1.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "57",
+            "promotionId": "null",
+            "priceShow": "৳ 57",
+            "discount": "-72%",
+            "ratingScore": "4.6954",
+            "review": "522",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "112252979_BD-1029170023",
+            "sku": "112252979_BD",
+            "skus": [],
+            "description": [
+                "Thermal Conductivity: >1.829W/m-k",
+                "Net Weight: 40g",
+                "Thermal Resistance: <0.123°C-in2/W",
+                "40g Silver thermal grease past"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1010275",
+            "mainSellerId": "",
+            "sellerName": "RK Computer & Technology",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/03c199257f590d3a6081918b0ee3d9c1.jpg",
+                    "productUrl": "/products/cpu-30-i112252979-s1029170023.html",
+                    "sku": "112252979_BD",
+                    "skuId": "1029170023"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                112
+            ],
+            "clickTrace": "query:;nid:112252979;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:112252979_BD;price:57;client:desktop;supplier_id:1010275;asc_category_id:112;item_id:112252979;sku_id:1029170023;shop_id:16538",
+            "addToCartSkus": [
+                {
+                    "sku": "112252979_BD-1029170023",
+                    "skuId": "1029170023",
+                    "count": 0
+                }
+            ],
+            "itemId": "112252979",
+            "skuId": "1029170023",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WGP Mini Ups WGP103-5V 9V 12V for router onu cctv camera etc.",
+            "nid": "222994098",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "222994098",
+                "scene_pre": "search",
+                "current_price": "1381",
+                "x_sku_ids": "1169204872",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "222994098"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cctv-wgp-ups-wgp103-5v-9v-12v-i222994098-s1169204872.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/73e934f0075559a7ac02f70a8590860f.jpg",
+            "originalPrice": "2000.00",
+            "originalPriceShow": "৳ 2,000",
+            "price": "1381",
+            "promotionId": "null",
+            "priceShow": "৳ 1,381",
+            "discount": "-31%",
+            "ratingScore": "5",
+            "review": "13",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "222994098_BD-1169204872",
+            "sku": "222994098_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "121067618",
+            "brandName": "WGP",
+            "sellerId": "700508223034",
+            "mainSellerId": "",
+            "sellerName": "GADGET PALLI",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/73e934f0075559a7ac02f70a8590860f.jpg",
+                    "productUrl": "/products/cctv-wgp-ups-wgp103-5v-9v-12v-i222994098-s1169204872.html",
+                    "sku": "222994098_BD",
+                    "skuId": "1169204872"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                117
+            ],
+            "clickTrace": "query:;nid:222994098;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:222994098_BD;price:1381;client:desktop;supplier_id:700508223034;asc_category_id:117;item_id:222994098;sku_id:1169204872;shop_id:136349",
+            "addToCartSkus": [
+                {
+                    "sku": "222994098_BD-1169204872",
+                    "skuId": "1169204872",
+                    "count": 0
+                }
+            ],
+            "itemId": "222994098",
+            "skuId": "1169204872",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "FANG 2g HY810-OP2G Extreme High Quality CPU Thermal Grease with A Plastic Tool",
+            "nid": "140064410",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "140064410",
+                "scene_pre": "search",
+                "current_price": "116",
+                "x_sku_ids": "1063448254",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "140064410"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fang-2g-hy810-op2g-cpu-i140064410-s1063448254.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/2a762315d50f59def0623b969ce70aec.jpg",
+            "originalPrice": "280.00",
+            "originalPriceShow": "৳ 280",
+            "price": "116",
+            "promotionId": "null",
+            "priceShow": "৳ 116",
+            "discount": "-59%",
+            "ratingScore": "4.72477",
+            "review": "109",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "140064410_BD-1063448254",
+            "sku": "140064410_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1021712",
+            "mainSellerId": "",
+            "sellerName": "RCGEARBD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/2a762315d50f59def0623b969ce70aec.jpg",
+                    "productUrl": "/products/fang-2g-hy810-op2g-cpu-i140064410-s1063448254.html",
+                    "sku": "140064410_BD",
+                    "skuId": "1063448254"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                112
+            ],
+            "clickTrace": "query:;nid:140064410;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:140064410_BD;price:116;client:desktop;supplier_id:1021712;asc_category_id:112;item_id:140064410;sku_id:1063448254;shop_id:27933",
+            "addToCartSkus": [
+                {
+                    "sku": "140064410_BD-1063448254",
+                    "skuId": "1063448254",
+                    "count": 0
+                }
+            ],
+            "itemId": "140064410",
+            "skuId": "1063448254",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "550W Power Supply For PC - Silver",
+            "nid": "221257701",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "221257701",
+                "scene_pre": "search",
+                "current_price": "376",
+                "x_sku_ids": "1168162558",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "221257701"
+            },
+            "productUrl": "//www.daraz.com.bd/products/550w-i221257701-s1168162558.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/dff198d4b797d423f9875df7477f178b.jpg",
+            "originalPrice": "700.00",
+            "originalPriceShow": "৳ 700",
+            "price": "376",
+            "promotionId": "null",
+            "priceShow": "৳ 376",
+            "discount": "-46%",
+            "ratingScore": "4.15625",
+            "review": "32",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "221257701_BD-1168162558",
+            "sku": "221257701_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1019770",
+            "mainSellerId": "",
+            "sellerName": "Choice Electronics",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/dff198d4b797d423f9875df7477f178b.jpg",
+                    "productUrl": "/products/550w-i221257701-s1168162558.html",
+                    "sku": "221257701_BD",
+                    "skuId": "1168162558"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                117
+            ],
+            "clickTrace": "query:;nid:221257701;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:221257701_BD;price:376;client:desktop;supplier_id:1019770;asc_category_id:117;item_id:221257701;sku_id:1168162558;shop_id:26005",
+            "addToCartSkus": [
+                {
+                    "sku": "221257701_BD-1168162558",
+                    "skuId": "1168162558",
+                    "count": 0
+                }
+            ],
+            "itemId": "221257701",
+            "skuId": "1168162558",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "GOLD RGB Game ON GS 120 Casing Cooler",
+            "nid": "192079526",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "192079526",
+                "scene_pre": "search",
+                "current_price": "191",
+                "x_sku_ids": "1138921478",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "192079526"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i192079526-s1138921478.html?search=1",
+            "image": "https://bd-live-21.slatic.net/kf/Sb7a295af06d74d2eba34e5c7fcaa4c3b4.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "191",
+            "promotionId": "null",
+            "priceShow": "৳ 191",
+            "discount": "-36%",
+            "ratingScore": "4.50746",
+            "review": "67",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "192079526_BD-1138921478",
+            "sku": "192079526_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "94673",
+            "brandName": "GSS",
+            "sellerId": "700506441011",
+            "mainSellerId": "",
+            "sellerName": "Golden Star Solution",
+            "thumbs": [
+                {
+                    "image": "https://bd-live-21.slatic.net/kf/Sb7a295af06d74d2eba34e5c7fcaa4c3b4.jpg",
+                    "productUrl": "/products/-i192079526-s1138921478.html",
+                    "sku": "192079526_BD",
+                    "skuId": "1138921478"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                111
+            ],
+            "clickTrace": "query:;nid:192079526;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:192079526_BD;price:191;client:desktop;supplier_id:700506441011;asc_category_id:111;item_id:192079526;sku_id:1138921478;shop_id:79331",
+            "addToCartSkus": [
+                {
+                    "sku": "192079526_BD-1138921478",
+                    "skuId": "1138921478",
+                    "count": 0
+                }
+            ],
+            "itemId": "192079526",
+            "skuId": "1138921478",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "HF-690 CPU Cooler Fan Core i3-iCore7",
+            "nid": "164390735",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "164390735",
+                "scene_pre": "search",
+                "current_price": "376",
+                "x_sku_ids": "1097126678",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "164390735"
+            },
+            "productUrl": "//www.daraz.com.bd/products/hf-690-cpu-i3-icore7-i164390735-s1097126678.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/1858e064ae7fd1796c656e5bfaa5f30d.jpg",
+            "originalPrice": "700.00",
+            "originalPriceShow": "৳ 700",
+            "price": "376",
+            "promotionId": "null",
+            "priceShow": "৳ 376",
+            "discount": "-46%",
+            "ratingScore": "4.53846",
+            "review": "52",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "164390735_BD-1097126678",
+            "sku": "164390735_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507992138",
+            "mainSellerId": "",
+            "sellerName": "C N Computer",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/1858e064ae7fd1796c656e5bfaa5f30d.jpg",
+                    "productUrl": "/products/hf-690-cpu-i3-icore7-i164390735-s1097126678.html",
+                    "sku": "164390735_BD",
+                    "skuId": "1097126678"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                111
+            ],
+            "clickTrace": "query:;nid:164390735;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:164390735_BD;price:376;client:desktop;supplier_id:700507992138;asc_category_id:111;item_id:164390735;sku_id:1097126678;shop_id:122501",
+            "addToCartSkus": [
+                {
+                    "sku": "164390735_BD-1097126678",
+                    "skuId": "1097126678",
+                    "count": 0
+                }
+            ],
+            "itemId": "164390735",
+            "skuId": "1097126678",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "ESP8266 based Wireless module CH340 CH340G NodeMcu LoLin V3 V3 WIFI Internet of Things development board replace Arduino Uno R3 Arduino Mega",
+            "nid": "131118095",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "131118095",
+                "scene_pre": "search",
+                "current_price": "299",
+                "x_sku_ids": "1051158098",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "131118095"
+            },
+            "productUrl": "//www.daraz.com.bd/products/esp8266-nodemcu-lolin-v3-ch340-wifi-development-board-for-smart-switch-automation-iot-based-agriculture-sewage-monitoring-wifi-jammer-i131118095-s1051158098.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/750a4f8db76ef58eb7f78d025ef21c75.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "299",
+            "promotionId": "null",
+            "priceShow": "৳ 299",
+            "discount": "-34%",
+            "ratingScore": "4.48795",
+            "review": "166",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "131118095_BD-1051158098",
+            "sku": "131118095_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1004028",
+            "mainSellerId": "",
+            "sellerName": "Infinite-Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/750a4f8db76ef58eb7f78d025ef21c75.jpg",
+                    "productUrl": "/products/esp8266-nodemcu-lolin-v3-ch340-wifi-development-board-for-smart-switch-automation-iot-based-agriculture-sewage-monitoring-wifi-jammer-i131118095-s1051158098.html",
+                    "sku": "131118095_BD",
+                    "skuId": "1051158098"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                10002890
+            ],
+            "clickTrace": "query:;nid:131118095;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:131118095_BD;price:299;client:desktop;supplier_id:1004028;asc_category_id:10002890;item_id:131118095;sku_id:1051158098;shop_id:10252",
+            "addToCartSkus": [
+                {
+                    "sku": "131118095_BD-1051158098",
+                    "skuId": "1051158098",
+                    "count": 0
+                }
+            ],
+            "itemId": "131118095",
+            "skuId": "1051158098",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "DDR2 2GB SAMSUNG Desktop Ram With 01 Year Warranty",
+            "nid": "166056027",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "166056027",
+                "scene_pre": "search",
+                "current_price": "305.00",
+                "x_sku_ids": "1099576739",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "166056027"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ddr2-2gb-korean-desktop-ram-with-01-year-warranty-i166056027-s1099576739.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9f50bb7ff7aea59b4dd80611d0a0ba85.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "305.00",
+            "promotionId": "null",
+            "priceShow": "৳ 305",
+            "discount": "-39%",
+            "ratingScore": "4.57447",
+            "review": "47",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "166056027_BD-1099576739",
+            "sku": "166056027_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507998134",
+            "mainSellerId": "",
+            "sellerName": "BEST COMPUTER BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9f50bb7ff7aea59b4dd80611d0a0ba85.jpg",
+                    "productUrl": "/products/ddr2-2gb-korean-desktop-ram-with-01-year-warranty-i166056027-s1099576739.html",
+                    "sku": "166056027_BD",
+                    "skuId": "1099576739"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                119
+            ],
+            "clickTrace": "query:;nid:166056027;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:166056027_BD;price:305.00;client:desktop;supplier_id:700507998134;asc_category_id:119;item_id:166056027;sku_id:1099576739;shop_id:122347",
+            "addToCartSkus": [
+                {
+                    "sku": "166056027_BD-1099576739",
+                    "skuId": "1099576739",
+                    "count": 0
+                }
+            ],
+            "itemId": "166056027",
+            "skuId": "1099576739",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "tech cpu cooler fan",
+            "nid": "125122442",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "125122442",
+                "scene_pre": "search",
+                "current_price": "183.00",
+                "x_sku_ids": "1045304099",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "125122442"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cpu-i125122442-s1045304099.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a76b002b9dd9fde39853867722549934.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "183.00",
+            "promotionId": "null",
+            "priceShow": "৳ 183",
+            "discount": "-39%",
+            "ratingScore": "4.5431",
+            "review": "116",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "125122442_BD-1045304099",
+            "sku": "125122442_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1020415",
+            "mainSellerId": "",
+            "sellerName": "Planetx",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a76b002b9dd9fde39853867722549934.jpg",
+                    "productUrl": "/products/cpu-i125122442-s1045304099.html",
+                    "sku": "125122442_BD",
+                    "skuId": "1045304099"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                111
+            ],
+            "clickTrace": "query:;nid:125122442;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:125122442_BD;price:183.00;client:desktop;supplier_id:1020415;asc_category_id:111;item_id:125122442;sku_id:1045304099;shop_id:26646",
+            "addToCartSkus": [
+                {
+                    "sku": "125122442_BD-1045304099",
+                    "skuId": "1045304099",
+                    "count": 0
+                }
+            ],
+            "itemId": "125122442",
+            "skuId": "1045304099",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mini Ups WGP103-5912  for router onu cctv camera",
+            "nid": "137376297",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "137376297",
+                "scene_pre": "search",
+                "current_price": "1500",
+                "x_sku_ids": "1059988090",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "137376297"
+            },
+            "productUrl": "//www.daraz.com.bd/products/mini-ups-wgp103-5912-for-router-onu-cctv-camera-i137376297-s1059988090.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8c809d9268d2f7840d395889b8dfdd81.jpg",
+            "originalPrice": "1800.00",
+            "originalPriceShow": "৳ 1,800",
+            "price": "1500",
+            "promotionId": "null",
+            "priceShow": "৳ 1,500",
+            "discount": "-17%",
+            "ratingScore": "4.87808",
+            "review": "771",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "137376297_BD-1059988090",
+            "sku": "137376297_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1007950",
+            "mainSellerId": "",
+            "sellerName": "Hidden Eye",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8c809d9268d2f7840d395889b8dfdd81.jpg",
+                    "productUrl": "/products/mini-ups-wgp103-5912-for-router-onu-cctv-camera-i137376297-s1059988090.html",
+                    "sku": "137376297_BD",
+                    "skuId": "1059988090"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                117
+            ],
+            "clickTrace": "query:;nid:137376297;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:137376297_BD;price:1500;client:desktop;supplier_id:1007950;asc_category_id:117;item_id:137376297;sku_id:1059988090;shop_id:14160",
+            "addToCartSkus": [
+                {
+                    "sku": "137376297_BD-1059988090",
+                    "skuId": "1059988090",
+                    "count": 0
+                }
+            ],
+            "itemId": "137376297",
+            "skuId": "1059988090",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "AC 12V 5A Power Supply Adapter",
+            "nid": "118728141",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "118728141",
+                "scene_pre": "search",
+                "current_price": "183",
+                "x_sku_ids": "1038022160",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "118728141"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ac-12v-5a-i118728141-s1038022160.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/26e8051976e8faac0eb9e6ec2d2ebf30.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "183",
+            "promotionId": "null",
+            "priceShow": "৳ 183",
+            "discount": "-54%",
+            "ratingScore": "4.40385",
+            "review": "104",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "118728141_BD-1038022160",
+            "sku": "118728141_BD",
+            "skus": [],
+            "description": [
+                "Product details of 12V 5A Power Supply Adapter",
+                "Product Name: 12V 5A Power Supply Adapter (Provide Accurate Volt &amp; Amp)",
+                "Input voltage: 50/60Hz 100-240V",
+                "Output voltage: 12V 5A DC",
+                "Output interface: 5.5 x 2.5mm",
+                "Power : 60W"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1010275",
+            "mainSellerId": "",
+            "sellerName": "RK Computer & Technology",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/26e8051976e8faac0eb9e6ec2d2ebf30.jpg",
+                    "productUrl": "/products/ac-12v-5a-i118728141-s1038022160.html",
+                    "sku": "118728141_BD",
+                    "skuId": "1038022160"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                117
+            ],
+            "clickTrace": "query:;nid:118728141;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:118728141_BD;price:183;client:desktop;supplier_id:1010275;asc_category_id:117;item_id:118728141;sku_id:1038022160;shop_id:16538",
+            "addToCartSkus": [
+                {
+                    "sku": "118728141_BD-1038022160",
+                    "skuId": "1038022160",
+                    "count": 0
+                }
+            ],
+            "itemId": "118728141",
+            "skuId": "1038022160",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "V8-Bluetooth Sound Card Audio USB Headset Microphone Webcast Live Sound Card Interface External Usb Sound Card for Singing",
+            "nid": "213428482",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "213428482",
+                "scene_pre": "search",
+                "current_price": "864",
+                "x_sku_ids": "1162742168",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "213428482"
+            },
+            "productUrl": "//www.daraz.com.bd/products/v8-bluetooth-usb-usb-i213428482-s1162742168.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0cb5115ea2d4156c8216112d94565575.jpg",
+            "originalPrice": "2200.00",
+            "originalPriceShow": "৳ 2,200",
+            "price": "864",
+            "promotionId": "null",
+            "priceShow": "৳ 864",
+            "discount": "-61%",
+            "ratingScore": "3.94444",
+            "review": "18",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "213428482_BD-1162742168",
+            "sku": "213428482_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1022135",
+            "mainSellerId": "",
+            "sellerName": "BD BEST QUALITY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0cb5115ea2d4156c8216112d94565575.jpg",
+                    "productUrl": "/products/v8-bluetooth-usb-usb-i213428482-s1162742168.html",
+                    "sku": "213428482_BD",
+                    "skuId": "1162742168"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                7853
+            ],
+            "clickTrace": "query:;nid:213428482;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:213428482_BD;price:864;client:desktop;supplier_id:1022135;asc_category_id:7853;item_id:213428482;sku_id:1162742168;shop_id:28356",
+            "addToCartSkus": [
+                {
+                    "sku": "213428482_BD-1162742168",
+                    "skuId": "1162742168",
+                    "count": 0
+                }
+            ],
+            "itemId": "213428482",
+            "skuId": "1162742168",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "3-24V 72W Speed Control Volt AC/DC Adjustable Power Adapter Supply Display",
+            "nid": "180085379",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "180085379",
+                "scene_pre": "search",
+                "current_price": "528",
+                "x_sku_ids": "1121251410",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "180085379"
+            },
+            "productUrl": "//www.daraz.com.bd/products/3-24v-72w-acdc-i180085379-s1121251410.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b95e5a6bcd8fdd3fcf8e453cd9f5e76f.jpg",
+            "originalPrice": "1600.00",
+            "originalPriceShow": "৳ 1,600",
+            "price": "528",
+            "promotionId": "null",
+            "priceShow": "৳ 528",
+            "discount": "-67%",
+            "ratingScore": "4.55263",
+            "review": "38",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "180085379_BD-1121251410",
+            "sku": "180085379_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508298141",
+            "mainSellerId": "",
+            "sellerName": "YR Electronics",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b95e5a6bcd8fdd3fcf8e453cd9f5e76f.jpg",
+                    "productUrl": "/products/3-24v-72w-acdc-i180085379-s1121251410.html",
+                    "sku": "180085379_BD",
+                    "skuId": "1121251410"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                117
+            ],
+            "clickTrace": "query:;nid:180085379;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:180085379_BD;price:528;client:desktop;supplier_id:700508298141;asc_category_id:117;item_id:180085379;sku_id:1121251410;shop_id:142102",
+            "addToCartSkus": [
+                {
+                    "sku": "180085379_BD-1121251410",
+                    "skuId": "1121251410",
+                    "count": 0
+                }
+            ],
+            "itemId": "180085379",
+            "skuId": "1121251410",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Samsung  ddr3 2 gb ram",
+            "nid": "123471995",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "123471995",
+                "scene_pre": "search",
+                "current_price": "495",
+                "x_sku_ids": "1043599796",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "123471995"
+            },
+            "productUrl": "//www.daraz.com.bd/products/samsung-ddr3-2-gb-ram-i123471995-s1043599796.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6b1ff59e7ed7a65d5ad9c5e2daf8b94f.jpg",
+            "originalPrice": "1500.00",
+            "originalPriceShow": "৳ 1,500",
+            "price": "495",
+            "promotionId": "null",
+            "priceShow": "৳ 495",
+            "discount": "-67%",
+            "ratingScore": "4.71642",
+            "review": "67",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "123471995_BD-1043599796",
+            "sku": "123471995_BD",
+            "skus": [],
+            "description": [
+                "high quallity productMemory PlatformDesktopCapacity2GBTypeDDR3 1333BusConfiguration (PIN)240-PinSpeed (MHz)1333 MHzProduct WarrantyThis product samsung pc3-10600u ram comes with 1 year warranty."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1035002",
+            "mainSellerId": "",
+            "sellerName": "ARMAN Computer",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6b1ff59e7ed7a65d5ad9c5e2daf8b94f.jpg",
+                    "productUrl": "/products/samsung-ddr3-2-gb-ram-i123471995-s1043599796.html",
+                    "sku": "123471995_BD",
+                    "skuId": "1043599796"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                119
+            ],
+            "clickTrace": "query:;nid:123471995;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:123471995_BD;price:495;client:desktop;supplier_id:1035002;asc_category_id:119;item_id:123471995;sku_id:1043599796;shop_id:40933",
+            "addToCartSkus": [
+                {
+                    "sku": "123471995_BD-1043599796",
+                    "skuId": "1043599796",
+                    "count": 0
+                }
+            ],
+            "itemId": "123471995",
+            "skuId": "1043599796",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "(10 pcs) Grey Soft Pack Thermal Grease Paste",
+            "nid": "132402187",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132402187",
+                "scene_pre": "search",
+                "current_price": "33.00",
+                "x_sku_ids": "1053382443",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "132402187"
+            },
+            "productUrl": "//www.daraz.com.bd/products/10-i132402187-s1053382443.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/79526cfb514fc9cd02a3b9f1f5a77ee7.jpg",
+            "originalPrice": "49.00",
+            "originalPriceShow": "৳ 49",
+            "price": "33.00",
+            "promotionId": "null",
+            "priceShow": "৳ 33",
+            "discount": "-33%",
+            "ratingScore": "4.67619",
+            "review": "105",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132402187_BD-1053382443",
+            "sku": "132402187_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1005203",
+            "mainSellerId": "",
+            "sellerName": "Bright star",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/79526cfb514fc9cd02a3b9f1f5a77ee7.jpg",
+                    "productUrl": "/products/10-i132402187-s1053382443.html",
+                    "sku": "132402187_BD",
+                    "skuId": "1053382443"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                112
+            ],
+            "clickTrace": "query:;nid:132402187;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:132402187_BD;price:33.00;client:desktop;supplier_id:1005203;asc_category_id:112;item_id:132402187;sku_id:1053382443;shop_id:11516",
+            "addToCartSkus": [
+                {
+                    "sku": "132402187_BD-1053382443",
+                    "skuId": "1053382443",
+                    "count": 0
+                }
+            ],
+            "itemId": "132402187",
+            "skuId": "1053382443",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "COOLER MASTER CPU COOLING FAN i30",
+            "nid": "231382300",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "231382300",
+                "scene_pre": "search",
+                "current_price": "365.00",
+                "x_sku_ids": "1174524496",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "231382300"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cooler-master-cpu-cooling-fan-i30-i231382300-s1174524496.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/25fc48fe58eefd0a4dd84b1845693d5b.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "365.00",
+            "promotionId": "null",
+            "priceShow": "৳ 365",
+            "discount": "-34%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "231382300_BD-1174524496",
+            "sku": "231382300_BD",
+            "skus": [],
+            "description": [
+                "PRODUCT NUMBERRH-I30-26FK-R1CPU SOCKETLGA1200, LGA1156, LGA1155, LGA1151, LGA1150MATERIALAluminumDIMENSIONS (L X W X H)95 x 95 x 55 mm / 3.7 x 3.7 x 2.2 inchFAN DIMENSIONS (L X W X H)92 x 92 x 25 mm / 3.6 x 3.6 x 1 inchFAN SPEED2600 RPM ± 10%FAN AIRFLOW31 CFM ± 10%FAN AIR PRESSURE2.21 mmH2O ± 10%FAN NOISE LEVEL28 dBA (Max)FAN BEARING TYPERifle BearingFAN MTTF280,000 HoursFAN L-10 LIFE40,000 HoursCONNECTOR3-PinFAN RATED VOLTAGE12VDCFAN RATED CURRENT0.13APOWER CONSUMPTION1.56WEAN CODE4719512064337UPC CODE884102037009SERIESINTEL SeriesCOOLER TYPEStandard Cooler"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507290044",
+            "mainSellerId": "",
+            "sellerName": "BD BEST COMPUTER",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/25fc48fe58eefd0a4dd84b1845693d5b.jpg",
+                    "productUrl": "/products/cooler-master-cpu-cooling-fan-i30-i231382300-s1174524496.html",
+                    "sku": "231382300_BD",
+                    "skuId": "1174524496"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                111
+            ],
+            "clickTrace": "query:;nid:231382300;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:231382300_BD;price:365.00;client:desktop;supplier_id:700507290044;asc_category_id:111;item_id:231382300;sku_id:1174524496;shop_id:89628",
+            "addToCartSkus": [
+                {
+                    "sku": "231382300_BD-1174524496",
+                    "skuId": "1174524496",
+                    "count": 0
+                }
+            ],
+            "itemId": "231382300",
+            "skuId": "1174524496",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "10 PCS New Thermal Grease Paste Compound Silicon CPU Heat Sink CPU Processor Cooling Paste Silicone Thermal Grease - gray",
+            "nid": "196950438",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "196950438",
+                "scene_pre": "search",
+                "current_price": "29",
+                "x_sku_ids": "1143502207",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "196950438"
+            },
+            "productUrl": "//www.daraz.com.bd/products/10-cpu-cpu-i196950438-s1143502207.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/79526cfb514fc9cd02a3b9f1f5a77ee7.jpg",
+            "originalPrice": "50.00",
+            "originalPriceShow": "৳ 50",
+            "price": "29",
+            "promotionId": "null",
+            "priceShow": "৳ 29",
+            "discount": "-42%",
+            "ratingScore": "4.6",
+            "review": "30",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "196950438_BD-1143502207",
+            "sku": "196950438_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1001682",
+            "mainSellerId": "",
+            "sellerName": "bright star technology",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/79526cfb514fc9cd02a3b9f1f5a77ee7.jpg",
+                    "productUrl": "/products/10-cpu-cpu-i196950438-s1143502207.html",
+                    "sku": "196950438_BD",
+                    "skuId": "1143502207"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                112
+            ],
+            "clickTrace": "query:;nid:196950438;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:196950438_BD;price:29;client:desktop;supplier_id:1001682;asc_category_id:112;item_id:196950438;sku_id:1143502207;shop_id:7919",
+            "addToCartSkus": [
+                {
+                    "sku": "196950438_BD-1143502207",
+                    "skuId": "1143502207",
+                    "count": 0
+                }
+            ],
+            "itemId": "196950438",
+            "skuId": "1143502207",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "External 3D USB Sound Card Audio 5.1 Adapter Channel 3.5mm Mic Speaker Interface For Laptop PC",
+            "nid": "131900496",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "131900496",
+                "scene_pre": "search",
+                "current_price": "80.00",
+                "x_sku_ids": "1052470529",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "131900496"
+            },
+            "productUrl": "//www.daraz.com.bd/products/3d-usb-51-35mm-i131900496-s1052470529.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3dd9e987051f31d9742e03ee66c83374.jpg",
+            "originalPrice": "190.00",
+            "originalPriceShow": "৳ 190",
+            "price": "80.00",
+            "promotionId": "null",
+            "priceShow": "৳ 80",
+            "discount": "-58%",
+            "ratingScore": "4.77778",
+            "review": "9",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "131900496_BD-1052470529",
+            "sku": "131900496_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1020415",
+            "mainSellerId": "",
+            "sellerName": "Planetx",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3dd9e987051f31d9742e03ee66c83374.jpg",
+                    "productUrl": "/products/3d-usb-51-35mm-i131900496-s1052470529.html",
+                    "sku": "131900496_BD",
+                    "skuId": "1052470529"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                7853
+            ],
+            "clickTrace": "query:;nid:131900496;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:131900496_BD;price:80.00;client:desktop;supplier_id:1020415;asc_category_id:7853;item_id:131900496;sku_id:1052470529;shop_id:26646",
+            "addToCartSkus": [
+                {
+                    "sku": "131900496_BD-1052470529",
+                    "skuId": "1052470529",
+                    "count": 0
+                }
+            ],
+            "itemId": "131900496",
+            "skuId": "1052470529",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Noctua NT-H2 3.5g Pro-Grade Thermal Paste",
+            "nid": "231186883",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "231186883",
+                "scene_pre": "search",
+                "current_price": "1000.00",
+                "x_sku_ids": "1174396920",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "231186883"
+            },
+            "productUrl": "//www.daraz.com.bd/products/noctua-nt-h2-35g-i231186883-s1174396920.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9b1fba5ee284043057562f80aff117a7.jpg",
+            "originalPrice": "1100.00",
+            "originalPriceShow": "৳ 1,100",
+            "price": "1000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,000",
+            "discount": "-9%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "231186883_BD-1174396920",
+            "sku": "231186883_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "27925",
+            "brandName": "Noctua",
+            "sellerId": "3",
+            "mainSellerId": "",
+            "sellerName": "Star Tech & Engineering Ltd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9b1fba5ee284043057562f80aff117a7.jpg",
+                    "productUrl": "/products/noctua-nt-h2-35g-i231186883-s1174396920.html",
+                    "sku": "231186883_BD",
+                    "skuId": "1174396920"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                112
+            ],
+            "clickTrace": "query:;nid:231186883;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:231186883_BD;price:1000.00;client:desktop;supplier_id:3;asc_category_id:112;item_id:231186883;sku_id:1174396920;shop_id:156",
+            "addToCartSkus": [
+                {
+                    "sku": "231186883_BD-1174396920",
+                    "skuId": "1174396920",
+                    "count": 0
+                }
+            ],
+            "itemId": "231186883",
+            "skuId": "1174396920",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Thermal Grease paste Heat Sink Compound For CPU & Chipset 30 Grams Pack",
+            "nid": "125120602",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "125120602",
+                "scene_pre": "search",
+                "current_price": "55.00",
+                "x_sku_ids": "1045299860",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "125120602"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cpu-30-i125120602-s1045299860.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bc522d85001da59715f25c1e640bc567.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "55.00",
+            "promotionId": "null",
+            "priceShow": "৳ 55",
+            "discount": "-73%",
+            "ratingScore": "4.60227",
+            "review": "88",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "125120602_BD-1045299860",
+            "sku": "125120602_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1020415",
+            "mainSellerId": "",
+            "sellerName": "Planetx",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bc522d85001da59715f25c1e640bc567.jpg",
+                    "productUrl": "/products/cpu-30-i125120602-s1045299860.html",
+                    "sku": "125120602_BD",
+                    "skuId": "1045299860"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                112
+            ],
+            "clickTrace": "query:;nid:125120602;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:125120602_BD;price:55.00;client:desktop;supplier_id:1020415;asc_category_id:112;item_id:125120602;sku_id:1045299860;shop_id:26646",
+            "addToCartSkus": [
+                {
+                    "sku": "125120602_BD-1045299860",
+                    "skuId": "1045299860",
+                    "count": 0
+                }
+            ],
+            "itemId": "125120602",
+            "skuId": "1045299860",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "ESP8266 based Wireless module CH340G NodeMcu V3 LoLin Lua WIFI Internet of Things Connector Development Board replace Arduino Uno R3 Arduino Mega ESP-12E",
+            "nid": "148200716",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "148200716",
+                "scene_pre": "search",
+                "current_price": "299",
+                "x_sku_ids": "1074118293",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "148200716"
+            },
+            "productUrl": "//www.daraz.com.bd/products/esp8266-nodemcu-lolin-v3-ch340-wifi-development-board-for-smart-switch-automation-iot-based-agriculture-sewage-monitoring-wifi-jammer-i148200716-s1074118293.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2433b6b5f3f907846b5750f12c7b2ab1.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "299",
+            "promotionId": "null",
+            "priceShow": "৳ 299",
+            "discount": "-34%",
+            "ratingScore": "4.64062",
+            "review": "64",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "148200716_BD-1074118293",
+            "sku": "148200716_BD",
+            "skus": [],
+            "description": [
+                "Model Number: NodeMcu Lua WIFI V3",
+                "Ard--uino-like hardware IO",
+                "Advanced API for hardware IO, which can dramatically reduce the redundant work for configuring and manipulating hardware.",
+                "Code like ard--uino, but interactively in Lua script.",
+                "Nodejs style network API",
+                "Event-driven API for network applicaitons, which faciliates developers writing code running on a",
+                "Greatly speed up your IOT application developing process.",
+                "Lowest cost WI-FI",
+                "The Development Kit based on ESP8266, integates GPIO, PWM, IIC, 1-Wire and ADC all in one board.",
+                "Power your developement in the fastest way combinating with NodeMCU Firmware!",
+                "USB-TTL included, plug&play",
+                "10 GPIO, every GPIO can be PWM, I2C, 1-wire",
+                "PCB antenna"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1004028",
+            "mainSellerId": "",
+            "sellerName": "Infinite-Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2433b6b5f3f907846b5750f12c7b2ab1.jpg",
+                    "productUrl": "/products/esp8266-nodemcu-lolin-v3-ch340-wifi-development-board-for-smart-switch-automation-iot-based-agriculture-sewage-monitoring-wifi-jammer-i148200716-s1074118293.html",
+                    "sku": "148200716_BD",
+                    "skuId": "1074118293"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                10002890
+            ],
+            "clickTrace": "query:;nid:148200716;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:148200716_BD;price:299;client:desktop;supplier_id:1004028;asc_category_id:10002890;item_id:148200716;sku_id:1074118293;shop_id:10252",
+            "addToCartSkus": [
+                {
+                    "sku": "148200716_BD-1074118293",
+                    "skuId": "1074118293",
+                    "count": 0
+                }
+            ],
+            "itemId": "148200716",
+            "skuId": "1074118293",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Thermal Grease paste Heat Sink Compound For CPU & Chipset 1 Grams Pack",
+            "nid": "183925998",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183925998",
+                "scene_pre": "search",
+                "current_price": "40.00",
+                "x_sku_ids": "1128568389",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "183925998"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cpu-1-i183925998-s1128568389.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/3d6e384df5fe3266be00c883c997d06f.jpg",
+            "price": "40.00",
+            "promotionId": "null",
+            "priceShow": "৳ 40",
+            "ratingScore": "4.50704",
+            "review": "71",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183925998_BD-1128568389",
+            "sku": "183925998_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507671464",
+            "mainSellerId": "",
+            "sellerName": "RHB World",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/3d6e384df5fe3266be00c883c997d06f.jpg",
+                    "productUrl": "/products/cpu-1-i183925998-s1128568389.html",
+                    "sku": "183925998_BD",
+                    "skuId": "1128568389"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                112
+            ],
+            "clickTrace": "query:;nid:183925998;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:183925998_BD;price:40.00;client:desktop;supplier_id:700507671464;asc_category_id:112;item_id:183925998;sku_id:1128568389;shop_id:106341",
+            "addToCartSkus": [
+                {
+                    "sku": "183925998_BD-1128568389",
+                    "skuId": "1128568389",
+                    "count": 0
+                }
+            ],
+            "itemId": "183925998",
+            "skuId": "1128568389",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Syringe Thermal Grease Silver CPU Chip Heatsink Paste Conductive Compound",
+            "nid": "116588714",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "116588714",
+                "scene_pre": "search",
+                "current_price": "65.00",
+                "x_sku_ids": "1035624955",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "116588714"
+            },
+            "productUrl": "//www.daraz.com.bd/products/syringe-cpu-heatsink-i116588714-s1035624955.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/f6e88f75d75d352a333ad4c3bc4e2591.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "65.00",
+            "promotionId": "null",
+            "priceShow": "৳ 65",
+            "discount": "-68%",
+            "ratingScore": "4.61677",
+            "review": "167",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "116588714_BD-1035624955",
+            "sku": "116588714_BD",
+            "skus": [],
+            "description": [
+                "Thermal Conductivity: >1.829W/m-k",
+                "Net Weight: 40g",
+                "Thermal Resistance: <0.123°C-in2/W",
+                "40g Silver thermal grease past"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1005203",
+            "mainSellerId": "",
+            "sellerName": "Bright star",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/f6e88f75d75d352a333ad4c3bc4e2591.jpg",
+                    "productUrl": "/products/syringe-cpu-heatsink-i116588714-s1035624955.html",
+                    "sku": "116588714_BD",
+                    "skuId": "1035624955"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                112
+            ],
+            "clickTrace": "query:;nid:116588714;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:116588714_BD;price:65.00;client:desktop;supplier_id:1005203;asc_category_id:112;item_id:116588714;sku_id:1035624955;shop_id:11516",
+            "addToCartSkus": [
+                {
+                    "sku": "116588714_BD-1035624955",
+                    "skuId": "1035624955",
+                    "count": 0
+                }
+            ],
+            "itemId": "116588714",
+            "skuId": "1035624955",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "10Pcs- White 3W LED SMD Chip 3v 3.8v With Metal Plate Heatsink Heat Sink Aluminum Base 20mm PCB DIY",
+            "nid": "130068183",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "130068183",
+                "scene_pre": "search",
+                "current_price": "52",
+                "x_sku_ids": "1049856159",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "130068183"
+            },
+            "productUrl": "//www.daraz.com.bd/products/10-20mm-pcb-diy-3w-led-smd-3v-38v-i130068183-s1049856159.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ded56f3b62fa19009f1a68d6fa7d0867.jpg",
+            "originalPrice": "89.00",
+            "originalPriceShow": "৳ 89",
+            "price": "52",
+            "promotionId": "null",
+            "priceShow": "৳ 52",
+            "discount": "-42%",
+            "ratingScore": "4.67742",
+            "review": "93",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "130068183_BD-1049856159",
+            "sku": "130068183_BD",
+            "skus": [],
+            "description": [
+                "LED Size: 5mm on 20mm Heatsink Board",
+                "Luminous Intensity: ~60,000 mcd ( 188.5 Lumens )",
+                "Forward Voltage: 3V &ndash; 3.8V",
+                "Viewing Angle: 120 degrees",
+                "Color: White",
+                "Color Temperature: 3000-6000K",
+                "Forward Current: 500mA &ndash; 700mA",
+                "Power Dissipation: 3W"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1000750",
+            "mainSellerId": "",
+            "sellerName": "Binary System",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ded56f3b62fa19009f1a68d6fa7d0867.jpg",
+                    "productUrl": "/products/10-20mm-pcb-diy-3w-led-smd-3v-38v-i130068183-s1049856159.html",
+                    "sku": "130068183_BD",
+                    "skuId": "1049856159"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                112
+            ],
+            "clickTrace": "query:;nid:130068183;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:130068183_BD;price:52;client:desktop;supplier_id:1000750;asc_category_id:112;item_id:130068183;sku_id:1049856159;shop_id:6947",
+            "addToCartSkus": [
+                {
+                    "sku": "130068183_BD-1049856159",
+                    "skuId": "1049856159",
+                    "count": 0
+                }
+            ],
+            "itemId": "130068183",
+            "skuId": "1049856159",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Thermal Grease Paste Compound for CPU Heat Sink",
+            "nid": "112640430",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "112640430",
+                "scene_pre": "search",
+                "current_price": "30",
+                "x_sku_ids": "1029560895",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "112640430"
+            },
+            "productUrl": "//www.daraz.com.bd/products/10-cpu-cpu-i112640430-s1029560895.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/87e70c86e6539678788568f74600e5fd.jpg",
+            "originalPrice": "100.00",
+            "originalPriceShow": "৳ 100",
+            "price": "30",
+            "promotionId": "null",
+            "priceShow": "৳ 30",
+            "discount": "-70%",
+            "ratingScore": "4.49123",
+            "review": "285",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "112640430_BD-1029560895",
+            "sku": "112640430_BD",
+            "skus": [],
+            "description": [
+                "High Thermal Demand Moudle;Cooling device to the end plate or between the frame",
+                "High speed and large storage Drive; Automotive Engine control",
+                "Hard disk drive and DVD drive; Power conversion apparatus",
+                "High Power LED ;Notebook and desktop computers",
+                "Network Communicaion Equipment Household appliances, electronic components, electrical"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1010275",
+            "mainSellerId": "",
+            "sellerName": "RK Computer & Technology",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/87e70c86e6539678788568f74600e5fd.jpg",
+                    "productUrl": "/products/10-cpu-cpu-i112640430-s1029560895.html",
+                    "sku": "112640430_BD",
+                    "skuId": "1029560895"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                112
+            ],
+            "clickTrace": "query:;nid:112640430;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:112640430_BD;price:30;client:desktop;supplier_id:1010275;asc_category_id:112;item_id:112640430;sku_id:1029560895;shop_id:16538",
+            "addToCartSkus": [
+                {
+                    "sku": "112640430_BD-1029560895",
+                    "skuId": "1029560895",
+                    "count": 0
+                }
+            ],
+            "itemId": "112640430",
+            "skuId": "1029560895",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "USB to 3.5mm Mic Headphone Jack Stereo Headset 3D Sound Card Audio Adapter PC",
+            "nid": "131898583",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "131898583",
+                "scene_pre": "search",
+                "current_price": "93",
+                "x_sku_ids": "1052466650",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "131898583"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-to-35mm-mic-headphone-jack-stereo-headset-3d-sound-card-audio-adapter-pc-i131898583-s1052466650.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/78137dd9bfad1f287f62f120b6d524ce.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "93",
+            "promotionId": "null",
+            "priceShow": "৳ 93",
+            "discount": "-23%",
+            "ratingScore": "4.06107",
+            "review": "131",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "131898583_BD-1052466650",
+            "sku": "131898583_BD",
+            "skus": [],
+            "description": [
+                "USB bus-powered mode, no external power required.",
+                "Digital Class-B power amplifier inside.",
+                "Supports 3D post tonal sound and virtual 5.1 CH sound track.",
+                "Speaker/headphone jack Microphone jack.",
+                "Work for Windows 2000 / XP.",
+                "Plug and Play USB 2.0.",
+                "Material:Plastic",
+                "Size: 5 * 2 * 0.5CM",
+                "Colour:Random Color",
+                "Condition: 100% Brand new and high quality",
+                "Compact, portable, convenient to carry.",
+                "Package include:1 x USB Audio Sound Card Adapter",
+                "Note: Random color, don't accept the specified color."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1005203",
+            "mainSellerId": "",
+            "sellerName": "Bright star",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/78137dd9bfad1f287f62f120b6d524ce.jpg",
+                    "productUrl": "/products/usb-to-35mm-mic-headphone-jack-stereo-headset-3d-sound-card-audio-adapter-pc-i131898583-s1052466650.html",
+                    "sku": "131898583_BD",
+                    "skuId": "1052466650"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                7853
+            ],
+            "clickTrace": "query:;nid:131898583;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:131898583_BD;price:93;client:desktop;supplier_id:1005203;asc_category_id:7853;item_id:131898583;sku_id:1052466650;shop_id:11516",
+            "addToCartSkus": [
+                {
+                    "sku": "131898583_BD-1052466650",
+                    "skuId": "1052466650",
+                    "count": 0
+                }
+            ],
+            "itemId": "131898583",
+            "skuId": "1052466650",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fan DC 12V 50x50mm With Aluminium Heat Sink",
+            "nid": "129684012",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "129684012",
+                "scene_pre": "search",
+                "current_price": "102",
+                "x_sku_ids": "1049462364",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "129684012"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dc-12v-50x50mm-i129684012-s1049462364.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/42efff933fa0b38dc96f99b16c0a3c77.jpg",
+            "originalPrice": "204.00",
+            "originalPriceShow": "৳ 204",
+            "price": "102",
+            "promotionId": "null",
+            "priceShow": "৳ 102",
+            "discount": "-50%",
+            "ratingScore": "4.47143",
+            "review": "70",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "129684012_BD-1049462364",
+            "sku": "129684012_BD",
+            "skus": [],
+            "description": [
+                "Voltage : DC 12V",
+                "Lead: 2-wire and Connector",
+                "Size: 50x50mm",
+                "Alliminium Heat Sink"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1000750",
+            "mainSellerId": "",
+            "sellerName": "Binary System",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/42efff933fa0b38dc96f99b16c0a3c77.jpg",
+                    "productUrl": "/products/dc-12v-50x50mm-i129684012-s1049462364.html",
+                    "sku": "129684012_BD",
+                    "skuId": "1049462364"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                112
+            ],
+            "clickTrace": "query:;nid:129684012;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:129684012_BD;price:102;client:desktop;supplier_id:1000750;asc_category_id:112;item_id:129684012;sku_id:1049462364;shop_id:6947",
+            "addToCartSkus": [
+                {
+                    "sku": "129684012_BD-1049462364",
+                    "skuId": "1049462364",
+                    "count": 0
+                }
+            ],
+            "itemId": "129684012",
+            "skuId": "1049462364",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "USB Sound Card",
+            "nid": "124376631",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "124376631",
+                "scene_pre": "search",
+                "current_price": "150.00",
+                "x_sku_ids": "1044631384",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "124376631"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-i124376631-s1044631384.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7c2e9428ab66b6c805262cfd47d88597.jpg",
+            "price": "150.00",
+            "promotionId": "null",
+            "priceShow": "৳ 150",
+            "ratingScore": "4.55556",
+            "review": "9",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "124376631_BD-1044631384",
+            "sku": "124376631_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1040433",
+            "mainSellerId": "",
+            "sellerName": "Atik Technology(Sylhet)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7c2e9428ab66b6c805262cfd47d88597.jpg",
+                    "productUrl": "/products/usb-i124376631-s1044631384.html",
+                    "sku": "124376631_BD",
+                    "skuId": "1044631384"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                7853
+            ],
+            "clickTrace": "query:;nid:124376631;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:124376631_BD;price:150.00;client:desktop;supplier_id:1040433;asc_category_id:7853;item_id:124376631;sku_id:1044631384;shop_id:46210",
+            "addToCartSkus": [
+                {
+                    "sku": "124376631_BD-1044631384",
+                    "skuId": "1044631384",
+                    "count": 0
+                }
+            ],
+            "itemId": "124376631",
+            "skuId": "1044631384",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "PC Casing Power Push Button Cable ATX Computer On/Off 20 51cm Switch Wire",
+            "nid": "125991138",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "125991138",
+                "scene_pre": "search",
+                "current_price": "20.00",
+                "x_sku_ids": "1046098846",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "125991138"
+            },
+            "productUrl": "//www.daraz.com.bd/products/atx-20-51cm-i125991138-s1046098846.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/173e1b2a126cbf618aed18e2b59a5ccc.jpg",
+            "originalPrice": "35.00",
+            "originalPriceShow": "৳ 35",
+            "price": "20.00",
+            "promotionId": "null",
+            "priceShow": "৳ 20",
+            "discount": "-43%",
+            "ratingScore": "4.69841",
+            "review": "63",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "125991138_BD-1046098846",
+            "sku": "125991138_BD",
+            "skus": [],
+            "description": [
+                "Replacement for a broken or damaged power button switch/cable on a desktop computer",
+                "Perfect fit for a motherboard's 2-pin power switch (Power SW) header",
+                "Length: 51cm / 20in",
+                "Great item for case mods and custom on/off buttons",
+                "Easy to install; Please ensure power in disconnected before installatio"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1020415",
+            "mainSellerId": "",
+            "sellerName": "Planetx",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/173e1b2a126cbf618aed18e2b59a5ccc.jpg",
+                    "productUrl": "/products/atx-20-51cm-i125991138-s1046098846.html",
+                    "sku": "125991138_BD",
+                    "skuId": "1046098846"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                117
+            ],
+            "clickTrace": "query:;nid:125991138;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:125991138_BD;price:20.00;client:desktop;supplier_id:1020415;asc_category_id:117;item_id:125991138;sku_id:1046098846;shop_id:26646",
+            "addToCartSkus": [
+                {
+                    "sku": "125991138_BD-1046098846",
+                    "skuId": "1046098846",
+                    "count": 0
+                }
+            ],
+            "itemId": "125991138",
+            "skuId": "1046098846",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sound Card 7.1 Channel USB Soundcard With Microphone And Speaker Port Audio Splitter Cable Mic And Headphone USB Sound card For PC Condenser Microphone Windows Laptop Desktop Android TV Box Microphone Port External USB Soundcard",
+            "nid": "205745939",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "205745939",
+                "scene_pre": "search",
+                "current_price": "147",
+                "x_sku_ids": "1154162829",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "205745939"
+            },
+            "productUrl": "//www.daraz.com.bd/products/sound-card-71-channel-usb-soundcard-with-microphone-and-speaker-port-audio-splitter-cable-mic-and-headphone-usb-sound-card-for-pc-condenser-microphone-windows-laptop-desktop-android-tv-box-microphone-port-external-usb-soundcard-i205745939-s1154162829.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/dbc73fb3c42d68206271368040baaf3a.png",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "147",
+            "promotionId": "null",
+            "priceShow": "৳ 147",
+            "discount": "-18%",
+            "ratingScore": "4.6",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "205745939_BD-1154162829",
+            "sku": "205745939_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1025157",
+            "mainSellerId": "",
+            "sellerName": "MR Project Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/dbc73fb3c42d68206271368040baaf3a.png",
+                    "productUrl": "/products/sound-card-71-channel-usb-soundcard-with-microphone-and-speaker-port-audio-splitter-cable-mic-and-headphone-usb-sound-card-for-pc-condenser-microphone-windows-laptop-desktop-android-tv-box-microphone-port-external-usb-soundcard-i205745939-s1154162829.html",
+                    "sku": "205745939_BD",
+                    "skuId": "1154162829"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                7853
+            ],
+            "clickTrace": "query:;nid:205745939;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:205745939_BD;price:147;client:desktop;supplier_id:1025157;asc_category_id:7853;item_id:205745939;sku_id:1154162829;shop_id:31336",
+            "addToCartSkus": [
+                {
+                    "sku": "205745939_BD-1154162829",
+                    "skuId": "1154162829",
+                    "count": 0
+                }
+            ],
+            "itemId": "205745939",
+            "skuId": "1154162829",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Computer 120mm Fan Dust Filter Dustproof Cover Chassis Dust Cover 12cm x 12cm",
+            "nid": "183467401",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183467401",
+                "scene_pre": "search",
+                "current_price": "65.00",
+                "x_sku_ids": "1176898356",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "183467401"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1pcs-computer-mesh-pvc-case-fan-dust-filter-dustproof-cover-chassis-dust-cover-12cm-x-12cm-i183467401-s1176898356.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a12e789cfb3621fe63fd2b7bffebe3f4.jpg",
+            "price": "65.00",
+            "promotionId": "null",
+            "priceShow": "৳ 65",
+            "ratingScore": "4.52174",
+            "review": "23",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183467401_BD-1176898356",
+            "sku": "183467401_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508427088",
+            "mainSellerId": "",
+            "sellerName": "Fantas'Tech Express",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a12e789cfb3621fe63fd2b7bffebe3f4.jpg",
+                    "productUrl": "/products/1pcs-computer-mesh-pvc-case-fan-dust-filter-dustproof-cover-chassis-dust-cover-12cm-x-12cm-i183467401-s1176898356.html",
+                    "sku": "183467401_BD",
+                    "skuId": "1176898356"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3eff90e3848db9148abf8f87436d17a0.jpg",
+                    "productUrl": "/products/1pcs-computer-mesh-pvc-case-fan-dust-filter-dustproof-cover-chassis-dust-cover-12cm-x-12cm-i183467401-s1127806588.html",
+                    "sku": "183467401_BD",
+                    "skuId": "1127806588"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                111
+            ],
+            "clickTrace": "query:;nid:183467401;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:183467401_BD;price:65.00;client:desktop;supplier_id:700508427088;asc_category_id:111;item_id:183467401;sku_id:1176898356;shop_id:158631",
+            "addToCartSkus": [
+                {
+                    "sku": "183467401_BD-1176898356",
+                    "skuId": "1176898356",
+                    "count": 0
+                }
+            ],
+            "itemId": "183467401",
+            "skuId": "1176898356",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "New Thermal Grease Paste Compound Silicon CPU Heat Sink CPU Processor Cooling Paste Silicone Thermal Grease",
+            "nid": "121153446",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "121153446",
+                "scene_pre": "search",
+                "current_price": "11",
+                "x_sku_ids": "1040781370",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "121153446"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cpu-cpu-i121153446-s1040781370.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/4d4f24f2332c5a350d780147c2213800.jpg",
+            "originalPrice": "50.00",
+            "originalPriceShow": "৳ 50",
+            "price": "11",
+            "promotionId": "null",
+            "priceShow": "৳ 11",
+            "discount": "-78%",
+            "ratingScore": "4.48485",
+            "review": "66",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "121153446_BD-1040781370",
+            "sku": "121153446_BD",
+            "skus": [],
+            "description": [
+                "High Thermal Demand Moudle;Cooling device to the end plate or between the frame",
+                "High speed and large storage Drive; Automotive Engine control",
+                "Hard disk drive and DVD drive; Power conversion apparatus",
+                "High Power LED ;Notebook and desktop computers",
+                "Network Communicaion Equipment Household appliances, electronic components, electrical",
+                "Non-electrically conductive",
+                "improving cooling performance",
+                "Exceptional heat dissipation from components",
+                "High-Density Polysynthetic Silver Thermal Compound"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1010275",
+            "mainSellerId": "",
+            "sellerName": "RK Computer & Technology",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/4d4f24f2332c5a350d780147c2213800.jpg",
+                    "productUrl": "/products/cpu-cpu-i121153446-s1040781370.html",
+                    "sku": "121153446_BD",
+                    "skuId": "1040781370"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                112
+            ],
+            "clickTrace": "query:;nid:121153446;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:121153446_BD;price:11;client:desktop;supplier_id:1010275;asc_category_id:112;item_id:121153446;sku_id:1040781370;shop_id:16538",
+            "addToCartSkus": [
+                {
+                    "sku": "121153446_BD-1040781370",
+                    "skuId": "1040781370",
+                    "count": 0
+                }
+            ],
+            "itemId": "121153446",
+            "skuId": "1040781370",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Channel USB Soundcard With Microphone And Speaker Port Audio Splitter Cable Brothers Computer(Sylhet)",
+            "nid": "184051009",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184051009",
+                "scene_pre": "search",
+                "current_price": "199.00",
+                "x_sku_ids": "1128741028",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "184051009"
+            },
+            "productUrl": "//www.daraz.com.bd/products/channel-usb-soundcard-with-microphone-and-speaker-port-audio-splitter-cable-i184051009-s1128741028.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/dbc73fb3c42d68206271368040baaf3a.png",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "199.00",
+            "promotionId": "null",
+            "priceShow": "৳ 199",
+            "discount": "-34%",
+            "ratingScore": "4.5",
+            "review": "32",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184051009_BD-1128741028",
+            "sku": "184051009_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1040433",
+            "mainSellerId": "",
+            "sellerName": "Atik Technology(Sylhet)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/dbc73fb3c42d68206271368040baaf3a.png",
+                    "productUrl": "/products/channel-usb-soundcard-with-microphone-and-speaker-port-audio-splitter-cable-i184051009-s1128741028.html",
+                    "sku": "184051009_BD",
+                    "skuId": "1128741028"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                7853
+            ],
+            "clickTrace": "query:;nid:184051009;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:184051009_BD;price:199.00;client:desktop;supplier_id:1040433;asc_category_id:7853;item_id:184051009;sku_id:1128741028;shop_id:46210",
+            "addToCartSkus": [
+                {
+                    "sku": "184051009_BD-1128741028",
+                    "skuId": "1128741028",
+                    "count": 0
+                }
+            ],
+            "itemId": "184051009",
+            "skuId": "1128741028",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "2 PCS New Thermal Grease Paste Compound Silicon CPU Heat Sink CPU Processor Cooling Paste Silicone Thermal Grease",
+            "nid": "229949714",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "229949714",
+                "scene_pre": "search",
+                "current_price": "11.00",
+                "x_sku_ids": "1173451186",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "229949714"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-pcs-new-thermal-grease-paste-compound-silicon-cpu-heat-sink-cpu-processor-cooling-paste-silicone-thermal-grease-i229949714-s1173451186.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4072aa168148f095974521609525aef8.jpg",
+            "originalPrice": "50.00",
+            "originalPriceShow": "৳ 50",
+            "price": "11.00",
+            "promotionId": "null",
+            "priceShow": "৳ 11",
+            "discount": "-78%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "229949714_BD-1173451186",
+            "sku": "229949714_BD",
+            "skus": [],
+            "description": [
+                "Thermal Grease (1gm) Paste Compound Silicone Syringe GraySyringe design, for easy operation Helps disperse the heat from CPU to heatsink effectively Suitable for: CPU heatsink or chip.High temperature resistance Non-toxic,tasteless,non-corrosive Primary Use:Thermal coupling of electrical/electronic devices to heat sinks Special Properties:High conductivity;low bleed;Stable at high temperatures Thermal Conductivity: >1.829W/m-k Thermal Resistance: "
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509741059",
+            "mainSellerId": "",
+            "sellerName": "MULTIPLAN COMPUTER",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4072aa168148f095974521609525aef8.jpg",
+                    "productUrl": "/products/2-pcs-new-thermal-grease-paste-compound-silicon-cpu-heat-sink-cpu-processor-cooling-paste-silicone-thermal-grease-i229949714-s1173451186.html",
+                    "sku": "229949714_BD",
+                    "skuId": "1173451186"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                112
+            ],
+            "clickTrace": "query:;nid:229949714;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:229949714_BD;price:11.00;client:desktop;supplier_id:700509741059;asc_category_id:112;item_id:229949714;sku_id:1173451186;shop_id:216864",
+            "addToCartSkus": [
+                {
+                    "sku": "229949714_BD-1173451186",
+                    "skuId": "1173451186",
+                    "count": 0
+                }
+            ],
+            "itemId": "229949714",
+            "skuId": "1173451186",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Thermal Grease paste Heat Sink Compound For CPU & Chipset 1 Grams Pack",
+            "nid": "123587808",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "123587808",
+                "scene_pre": "search",
+                "current_price": "23",
+                "x_sku_ids": "1043745110",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "123587808"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cpu-1-i123587808-s1043745110.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/3d6e384df5fe3266be00c883c997d06f.jpg",
+            "originalPrice": "50.00",
+            "originalPriceShow": "৳ 50",
+            "price": "23",
+            "promotionId": "null",
+            "priceShow": "৳ 23",
+            "discount": "-54%",
+            "ratingScore": "4.59692",
+            "review": "325",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "123587808_BD-1043745110",
+            "sku": "123587808_BD",
+            "skus": [],
+            "description": [
+                "Thermal Conductivity: >1.829W/m-k",
+                "Net Weight: 1.5g",
+                "Thermal Resistance: <0.123°C-in2/W",
+                "40g Silver thermal grease past"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1010275",
+            "mainSellerId": "",
+            "sellerName": "RK Computer & Technology",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/3d6e384df5fe3266be00c883c997d06f.jpg",
+                    "productUrl": "/products/cpu-1-i123587808-s1043745110.html",
+                    "sku": "123587808_BD",
+                    "skuId": "1043745110"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                112
+            ],
+            "clickTrace": "query:;nid:123587808;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:123587808_BD;price:23;client:desktop;supplier_id:1010275;asc_category_id:112;item_id:123587808;sku_id:1043745110;shop_id:16538",
+            "addToCartSkus": [
+                {
+                    "sku": "123587808_BD-1043745110",
+                    "skuId": "1043745110",
+                    "count": 0
+                }
+            ],
+            "itemId": "123587808",
+            "skuId": "1043745110",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WATER COOLING LIQUID COOLER HEATSINK BLOCK FOR 2 PELTIER",
+            "nid": "180235003",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "180235003",
+                "scene_pre": "search",
+                "current_price": "312",
+                "x_sku_ids": "1121433172",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "180235003"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-i180235003-s1121433172.html?search=1",
+            "image": "https://bd-live-21.slatic.net/kf/S77826215b028444096f9daddf1d85e27H.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "312",
+            "promotionId": "null",
+            "priceShow": "৳ 312",
+            "discount": "-38%",
+            "ratingScore": "4.88889",
+            "review": "36",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "180235003_BD-1121433172",
+            "sku": "180235003_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508298141",
+            "mainSellerId": "",
+            "sellerName": "YR Electronics",
+            "thumbs": [
+                {
+                    "image": "https://bd-live-21.slatic.net/kf/S77826215b028444096f9daddf1d85e27H.jpg",
+                    "productUrl": "/products/2-i180235003-s1121433172.html",
+                    "sku": "180235003_BD",
+                    "skuId": "1121433172"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                112
+            ],
+            "clickTrace": "query:;nid:180235003;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:180235003_BD;price:312;client:desktop;supplier_id:700508298141;asc_category_id:112;item_id:180235003;sku_id:1121433172;shop_id:142102",
+            "addToCartSkus": [
+                {
+                    "sku": "180235003_BD-1121433172",
+                    "skuId": "1121433172",
+                    "count": 0
+                }
+            ],
+            "itemId": "180235003",
+            "skuId": "1121433172",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WGP Mini UPS - Router + ONU Backup",
+            "nid": "173278695",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "173278695",
+                "scene_pre": "search",
+                "current_price": "1530.00",
+                "x_sku_ids": "1109792501",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "173278695"
+            },
+            "productUrl": "//www.daraz.com.bd/products/wgp-ups-onu-i173278695-s1109792501.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1b16247d08320a2543f798ac15e56051.jpg",
+            "originalPrice": "2250.00",
+            "originalPriceShow": "৳ 2,250",
+            "price": "1530.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,530",
+            "discount": "-32%",
+            "ratingScore": "4.72727",
+            "review": "55",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "173278695_BD-1109792501",
+            "sku": "173278695_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508181240",
+            "mainSellerId": "",
+            "sellerName": "LN Gadgets House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1b16247d08320a2543f798ac15e56051.jpg",
+                    "productUrl": "/products/wgp-ups-onu-i173278695-s1109792501.html",
+                    "sku": "173278695_BD",
+                    "skuId": "1109792501"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                117
+            ],
+            "clickTrace": "query:;nid:173278695;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:173278695_BD;price:1530.00;client:desktop;supplier_id:700508181240;asc_category_id:117;item_id:173278695;sku_id:1109792501;shop_id:132827",
+            "addToCartSkus": [
+                {
+                    "sku": "173278695_BD-1109792501",
+                    "skuId": "1109792501",
+                    "count": 0
+                }
+            ],
+            "itemId": "173278695",
+            "skuId": "1109792501",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "12V 5A 60W SMPS Power Supply lighting Transformer For Tec1-12706 775 Motor 775 Water Pump LED Strip light CCTV Camera W1209 XH-M452",
+            "nid": "150238218",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "150238218",
+                "scene_pre": "search",
+                "current_price": "356",
+                "x_sku_ids": "1076726524",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "150238218"
+            },
+            "productUrl": "//www.daraz.com.bd/products/12v-5a-60w-smps-tec1-12706-775-led-cctv-w1209-775-i150238218-s1076726524.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d12fa707cd0421a1fba1a42e9a085872.jpg",
+            "originalPrice": "1050.00",
+            "originalPriceShow": "৳ 1,050",
+            "price": "356",
+            "promotionId": "null",
+            "priceShow": "৳ 356",
+            "discount": "-66%",
+            "ratingScore": "4.92308",
+            "review": "13",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "150238218_BD-1076726524",
+            "sku": "150238218_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1016001",
+            "mainSellerId": "",
+            "sellerName": "Noor Electronics",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d12fa707cd0421a1fba1a42e9a085872.jpg",
+                    "productUrl": "/products/12v-5a-60w-smps-tec1-12706-775-led-cctv-w1209-775-i150238218-s1076726524.html",
+                    "sku": "150238218_BD",
+                    "skuId": "1076726524"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                117
+            ],
+            "clickTrace": "query:;nid:150238218;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:150238218_BD;price:356;client:desktop;supplier_id:1016001;asc_category_id:117;item_id:150238218;sku_id:1076726524;shop_id:22171",
+            "addToCartSkus": [
+                {
+                    "sku": "150238218_BD-1076726524",
+                    "skuId": "1076726524",
+                    "count": 0
+                }
+            ],
+            "itemId": "150238218",
+            "skuId": "1076726524",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "(10 pcs) Grey Soft Pack Thermal Grease Paste",
+            "nid": "182451495",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "182451495",
+                "scene_pre": "search",
+                "current_price": "20",
+                "x_sku_ids": "1126268847",
+                "SN": "1866864dc6a85cac7bc43b55ed87b50f",
+                "x_ad": "1",
+                "x_object_id": "182451495"
+            },
+            "productUrl": "//www.daraz.com.bd/products/10-i182451495-s1126268847.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/79526cfb514fc9cd02a3b9f1f5a77ee7.jpg",
+            "originalPrice": "100.00",
+            "originalPriceShow": "৳ 100",
+            "price": "20",
+            "promotionId": "null",
+            "priceShow": "৳ 20",
+            "discount": "-80%",
+            "ratingScore": "4.66667",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "182451495_BD-1126268847",
+            "sku": "182451495_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1001682",
+            "mainSellerId": "",
+            "sellerName": "bright star technology",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/79526cfb514fc9cd02a3b9f1f5a77ee7.jpg",
+                    "productUrl": "/products/10-i182451495-s1126268847.html",
+                    "sku": "182451495_BD",
+                    "skuId": "1126268847"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                107,
+                110,
+                112
+            ],
+            "clickTrace": "query:;nid:182451495;src:LazadaMainSrp;rn:1866864dc6a85cac7bc43b55ed87b50f;region:bd;sku:182451495_BD;price:20;client:desktop;supplier_id:1001682;asc_category_id:112;item_id:182451495;sku_id:1126268847;shop_id:7919",
+            "addToCartSkus": [
+                {
+                    "sku": "182451495_BD-1126268847",
+                    "skuId": "1126268847",
+                    "count": 0
+                }
+            ],
+            "itemId": "182451495",
+            "skuId": "1126268847",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/computing/",
+            "title": "Computers & Laptops"
+        },
+        {
+            "url": "/components-spare-parts/",
+            "title": "Computer Components"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/components-spare-parts/?referer_rn=1866864dc6a85cac7bc43b55ed87b50f&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {},
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/cabinet-fans/?item_id=171628914&from=onesearch_category_107",
+                "name": "Cooling Fans",
+                "image": "//static-01.daraz.com.bd/p/29ef6c5d8ff8c1b0a99eadca76965d57.jpg",
+                "id": "111"
+            },
+            {
+                "url": "/console-power-supply-units/?item_id=222994098&from=onesearch_category_107",
+                "name": "Power Supply Units",
+                "image": "//static-01.daraz.com.bd/p/73e934f0075559a7ac02f70a8590860f.jpg",
+                "id": "117"
+            },
+            {
+                "url": "/motherboard/?item_id=122200901&from=onesearch_category_107",
+                "name": "Motherboards",
+                "image": "//static-01.daraz.com.bd/p/a29c54bfdc894d631f6f6721d3d9e321.jpg",
+                "id": "116"
+            },
+            {
+                "url": "/casing/?item_id=214304709&from=onesearch_category_107",
+                "name": "Desktop Casings",
+                "image": "//static-01.daraz.com.bd/p/9ff389be9ba84ba7125c33475f93cc30.png",
+                "id": "108"
+            },
+            {
+                "url": "/ram/?item_id=201134149&from=onesearch_category_107",
+                "name": "RAM",
+                "image": "//static-01.daraz.com.bd/p/ce0217cf70044ca14d999cb4fc6c8f99.jpg",
+                "id": "119"
+            },
+            {
+                "url": "/processor/?item_id=156720090&from=onesearch_category_107",
+                "name": "Processors",
+                "image": "//static-01.daraz.com.bd/p/07cd2ec959ca99f21efab8d36afd61d6.jpg",
+                "id": "118"
+            },
+            {
+                "url": "/sound-cards/?item_id=163390662&from=onesearch_category_107",
+                "name": "Sound cards",
+                "image": "//static-01.daraz.com.bd/p/fe56eb00b9fe97a832a2d81add6528b9.jpg",
+                "id": "7853"
+            },
+            {
+                "url": "/cpu-fans-heatsinks/?item_id=130068183&from=onesearch_category_107",
+                "name": "Heatsinks",
+                "image": "//static-01.daraz.com.bd/p/ded56f3b62fa19009f1a68d6fa7d0867.jpg",
+                "id": "112"
+            },
+            {
+                "url": "/computer-graphic-cards/?item_id=191545122&from=onesearch_category_107",
+                "name": "Graphic Cards",
+                "image": "//static-01.daraz.com.bd/p/b7ae677e946212769818068a7b806cb8.jpg",
+                "id": "113"
+            },
+            {
+                "url": "/single-board-computer/?item_id=131118095&from=onesearch_category_107",
+                "name": "Single Board Computer",
+                "image": "//static-01.daraz.com.bd/p/mdc/750a4f8db76ef58eb7f78d025ef21c75.jpg",
+                "id": "10002890"
+            },
+            {
+                "url": "/internal-optical-drives/?item_id=185253089&from=onesearch_category_107",
+                "name": "Front Bay Devices",
+                "image": "//static-01.daraz.com.bd/p/e60267d31cb769fa64abea370171d2a5.jpg",
+                "id": "115"
+            },
+            {
+                "url": "/water-cooling-system/?item_id=181043940&from=onesearch_category_107",
+                "name": "Water Cooling System",
+                "image": "//static-01.daraz.com.bd/p/826d58ab0873a3a37549b9e5ad0ac4c2.jpg",
+                "id": "10002889"
+            },
+            {
+                "url": "//?item_id=121812717&from=onesearch_category_107",
+                "name": "TV Tuners",
+                "image": "//static-01.daraz.com.bd/p/cc1f392ac002fb7129bae9f05e1bfaa2.jpg",
+                "id": "120"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_107"
+        },
+        "title": "",
+        "bizId": "onesearch_category_107",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "45916 items found in {$0}",
+        "title": "Computer Components",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Computer Components"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Computer Components",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "1866864dc6a85cac7bc43b55ed87b50f",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "107",
+            "category": "107"
+        },
+        "categoryRegionalKey": "020600000000",
+        "mainCategoryRegionalKey": "020000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Computer Components & PC Parts In Bangladesh - Daraz.com.bd",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Computers & Laptops,Computer Components",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "020600000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=107&_p_asc_cateid=107",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "components-spare-parts",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "1866864dc6a85cac7bc43b55ed87b50f",
+                "resultNr": 45916,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1078170998",
+                "1029170023",
+                "1169204872"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "107",
+            "category": "107"
+        }
+    }
+}

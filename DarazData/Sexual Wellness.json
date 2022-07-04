@@ -1,0 +1,4507 @@
+{
+    "listItems": [
+        {
+            "name": "J&J Ky Jelly Personal Lubricant - 50g (Made In Thailand)",
+            "nid": "225706450",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225706450",
+                "scene_pre": "search",
+                "current_price": "132",
+                "x_sku_ids": "1170701927",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "225706450"
+            },
+            "productUrl": "//www.daraz.com.bd/products/j-j-ky-50g-i225706450-s1170701927.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fe9d570df12f0d412a75ddfa9678e2d7.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "132",
+            "promotionId": "null",
+            "priceShow": "৳ 132",
+            "discount": "-74%",
+            "ratingScore": "4.60396",
+            "review": "101",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225706450_BD-1170701927",
+            "sku": "225706450_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1011155",
+            "mainSellerId": "",
+            "sellerName": "Medicare Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fe9d570df12f0d412a75ddfa9678e2d7.jpg",
+                    "productUrl": "/products/j-j-ky-50g-i225706450-s1170701927.html",
+                    "sku": "225706450_BD",
+                    "skuId": "1170701927"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:225706450;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:225706450_BD;price:132;client:desktop;supplier_id:1011155;asc_category_id:10564;item_id:225706450;sku_id:1170701927;shop_id:17224",
+            "addToCartSkus": [
+                {
+                    "sku": "225706450_BD-1170701927",
+                    "skuId": "1170701927",
+                    "count": 0
+                }
+            ],
+            "itemId": "225706450",
+            "skuId": "1170701927",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "J&J Ky Jelly Personal Lubricant - 50g (Made In Thailand)",
+            "nid": "209127130",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209127130",
+                "scene_pre": "search",
+                "current_price": "150.00",
+                "x_sku_ids": "1159360060",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "209127130"
+            },
+            "productUrl": "//www.daraz.com.bd/products/jj-ky-jelly-personal-lubricant-50g-made-in-thailand-i209127130-s1159360060.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1b6b2def50847d99be51c3ca3e9d5af2.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "150.00",
+            "promotionId": "null",
+            "priceShow": "৳ 150",
+            "discount": "-67%",
+            "ratingScore": "4.5896",
+            "review": "173",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209127130_BD-1159360060",
+            "sku": "209127130_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123291012",
+            "brandName": "Well-being Distribution Ltd.",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1b6b2def50847d99be51c3ca3e9d5af2.jpg",
+                    "productUrl": "/products/jj-ky-jelly-personal-lubricant-50g-made-in-thailand-i209127130-s1159360060.html",
+                    "sku": "209127130_BD",
+                    "skuId": "1159360060"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10567
+            ],
+            "clickTrace": "query:;nid:209127130;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:209127130_BD;price:150.00;client:desktop;supplier_id:700504956150;asc_category_id:10567;item_id:209127130;sku_id:1159360060;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "209127130_BD-1159360060",
+                    "skuId": "1159360060",
+                    "count": 0
+                }
+            ],
+            "itemId": "209127130",
+            "skuId": "1159360060",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Coral Ice Cream Flavored Lubricated Natural Latex Condom- 3x1- 3 Pieces",
+            "nid": "170584201",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "170584201",
+                "scene_pre": "search",
+                "current_price": "21",
+                "x_sku_ids": "1105744125",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "170584201"
+            },
+            "productUrl": "//www.daraz.com.bd/products/coral-ice-cream-flavored-lubricated-natural-latex-condom-3x1-3-pieces-i170584201-s1105744125.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/97f20ee511c87b13f740789edd1958c3.jpg",
+            "originalPrice": "30.00",
+            "originalPriceShow": "৳ 30",
+            "price": "21",
+            "promotionId": "null",
+            "priceShow": "৳ 21",
+            "discount": "-30%",
+            "ratingScore": "4.68929",
+            "review": "943",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "170584201_BD-1105744125",
+            "sku": "170584201_BD",
+            "skus": [],
+            "description": [
+                "Product: Condom",
+                "Brand: Coral",
+                "Type: Ice Cream Flavour ",
+                "Quantity: 1 pack",
+                "Length: 180mm",
+                "Width: 53mm +/- 2mm",
+                "Country of Origin: Malaysia"
+            ],
+            "brandId": "194479",
+            "brandName": "CORAL",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/97f20ee511c87b13f740789edd1958c3.jpg",
+                    "productUrl": "/products/coral-ice-cream-flavored-lubricated-natural-latex-condom-3x1-3-pieces-i170584201-s1105744125.html",
+                    "sku": "170584201_BD",
+                    "skuId": "1105744125"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:170584201;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:170584201_BD;price:21;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:170584201;sku_id:1105744125;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "170584201_BD-1105744125",
+                    "skuId": "1105744125",
+                    "count": 0
+                }
+            ],
+            "itemId": "170584201",
+            "skuId": "1105744125",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Coral 3 Fruits Flavors Lubricated Natural Latex Condoms Full Box - 30 Pcs/30 time use",
+            "nid": "167400732",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "167400732",
+                "scene_pre": "search",
+                "current_price": "194",
+                "x_sku_ids": "1101124802",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "167400732"
+            },
+            "productUrl": "//www.daraz.com.bd/products/coral-3-fruits-flavors-lubricated-natural-latex-condoms-full-box-30-pcs30-time-use-i167400732-s1101124802.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/145754b0174d775654dd69e022502ee2.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "194",
+            "promotionId": "null",
+            "priceShow": "৳ 194",
+            "discount": "-35%",
+            "ratingScore": "4.72368",
+            "review": "76",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "167400732_BD-1101124802",
+            "sku": "167400732_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507869040",
+            "mainSellerId": "",
+            "sellerName": "Cosmic Love",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/145754b0174d775654dd69e022502ee2.jpg",
+                    "productUrl": "/products/coral-3-fruits-flavors-lubricated-natural-latex-condoms-full-box-30-pcs30-time-use-i167400732-s1101124802.html",
+                    "sku": "167400732_BD",
+                    "skuId": "1101124802"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:167400732;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:167400732_BD;price:194;client:desktop;supplier_id:700507869040;asc_category_id:10564;item_id:167400732;sku_id:1101124802;shop_id:117355",
+            "addToCartSkus": [
+                {
+                    "sku": "167400732_BD-1101124802",
+                    "skuId": "1101124802",
+                    "count": 0
+                }
+            ],
+            "itemId": "167400732",
+            "skuId": "1101124802",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Coral-Super Dotted Lubricated Condom - 3 Pieces",
+            "nid": "170478429",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "170478429",
+                "scene_pre": "search",
+                "current_price": "25",
+                "x_sku_ids": "1105604543",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "170478429"
+            },
+            "productUrl": "//www.daraz.com.bd/products/coral-super-dotted-lubricated-condom-3-pieces-i170478429-s1105604543.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c2c1b258fcfe4b15f24ddee0eb271b0d.jpg",
+            "originalPrice": "35.00",
+            "originalPriceShow": "৳ 35",
+            "price": "25",
+            "promotionId": "null",
+            "priceShow": "৳ 25",
+            "discount": "-29%",
+            "ratingScore": "4.81092",
+            "review": "238",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "170478429_BD-1105604543",
+            "sku": "170478429_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "194479",
+            "brandName": "CORAL",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c2c1b258fcfe4b15f24ddee0eb271b0d.jpg",
+                    "productUrl": "/products/coral-super-dotted-lubricated-condom-3-pieces-i170478429-s1105604543.html",
+                    "sku": "170478429_BD",
+                    "skuId": "1105604543"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:170478429;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:170478429_BD;price:25;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:170478429;sku_id:1105604543;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "170478429_BD-1105604543",
+                    "skuId": "1105604543",
+                    "count": 0
+                }
+            ],
+            "itemId": "170478429",
+            "skuId": "1105604543",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "EXS - Nano Thin Condom - Single Pack - 3x1=3pcs",
+            "nid": "164412975",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "164412975",
+                "scene_pre": "search",
+                "current_price": "56",
+                "x_sku_ids": "1097152957",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "164412975"
+            },
+            "productUrl": "//www.daraz.com.bd/products/exs-nano-thin-condom-single-pack-3x13pcs-i164412975-s1097152957.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/72d5ca34d5e4c2cc9d4758ae66c58c5d.jpg",
+            "originalPrice": "70.00",
+            "originalPriceShow": "৳ 70",
+            "price": "56",
+            "promotionId": "null",
+            "priceShow": "৳ 56",
+            "discount": "-20%",
+            "ratingScore": "4.68323",
+            "review": "483",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "164412975_BD-1097152957",
+            "sku": "164412975_BD",
+            "skus": [],
+            "description": [
+                "Pack Size: 3 Pieces",
+                "Brand: EXS",
+                "Features: Ultra-Thin",
+                "Flavour: None",
+                "Size: Regular",
+                "Thickness: 0.070 mm",
+                "Length: 185 mm",
+                "Girth: 106 mm",
+                "Width at Base: 53 mm",
+                "Width at Base of Head: 53 mm",
+                "Width at Head: 53 mm",
+                "Shape: Straight",
+                "Lubricant Type: Silicone (Non-Spermicidal)"
+            ],
+            "brandId": "197657",
+            "brandName": "EXS",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/72d5ca34d5e4c2cc9d4758ae66c58c5d.jpg",
+                    "productUrl": "/products/exs-nano-thin-condom-single-pack-3x13pcs-i164412975-s1097152957.html",
+                    "sku": "164412975_BD",
+                    "skuId": "1097152957"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:164412975;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:164412975_BD;price:56;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:164412975;sku_id:1097152957;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "164412975_BD-1097152957",
+                    "skuId": "1097152957",
+                    "count": 0
+                }
+            ],
+            "itemId": "164412975",
+            "skuId": "1097152957",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Coral - 3 Fruits Flavors Lubricated Natural Latex Condom - Single Pack - 3x1=3pcs",
+            "nid": "155906236",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "155906236",
+                "scene_pre": "search",
+                "current_price": "19",
+                "x_sku_ids": "1085288406",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "155906236"
+            },
+            "productUrl": "//www.daraz.com.bd/products/coral-3-fruits-flavors-lubricated-natural-latex-condom-single-pack-3x13pcs-i155906236-s1085288406.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/dfffb8306d9f9508eab09c6e703d4458.jpg",
+            "originalPrice": "30.00",
+            "originalPriceShow": "৳ 30",
+            "price": "19",
+            "promotionId": "null",
+            "priceShow": "৳ 19",
+            "discount": "-37%",
+            "ratingScore": "4.75177",
+            "review": "282",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "155906236_BD-1085288406",
+            "sku": "155906236_BD",
+            "skus": [],
+            "description": [
+                "Product: Condom",
+                "Brand: Coral",
+                "Quantity: 3 Pcs in 1 Packet",
+                "Length: 180mm",
+                "Width: 53mm +/- 2mm",
+                "Country of Origin: Malaysia"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/dfffb8306d9f9508eab09c6e703d4458.jpg",
+                    "productUrl": "/products/coral-3-fruits-flavors-lubricated-natural-latex-condom-single-pack-3x13pcs-i155906236-s1085288406.html",
+                    "sku": "155906236_BD",
+                    "skuId": "1085288406"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:155906236;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:155906236_BD;price:19;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:155906236;sku_id:1085288406;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "155906236_BD-1085288406",
+                    "skuId": "1085288406",
+                    "count": 0
+                }
+            ],
+            "itemId": "155906236",
+            "skuId": "1085288406",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Durex - Extra Safe Condom - Combo Pack - 3 Packs - 3x3=9pcs",
+            "nid": "143010179",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "143010179",
+                "scene_pre": "search",
+                "current_price": "85",
+                "x_sku_ids": "1067104368",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "143010179"
+            },
+            "productUrl": "//www.daraz.com.bd/products/durex-extra-safe-condom-combo-pack-3-packs-3x39pcs-i143010179-s1067104368.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/87dc90e1841caa41acc9e567b62c53b1.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "85",
+            "promotionId": "null",
+            "priceShow": "৳ 85",
+            "discount": "-72%",
+            "ratingScore": "4.18824",
+            "review": "340",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "143010179_BD-1067104368",
+            "sku": "143010179_BD",
+            "skus": [],
+            "description": [
+                "Durex is the World&rsquo;s No. 1 Condom Brand, trusted by millions of lovers every day, and exceeding worldwide quality standards.",
+                "Durex condoms are shaped to be easier to put on and to provide a better fit and feel during lovemaking.",
+                "Durex condoms smell better, are comfortable to wear, are rigorously tested against breakage, made with fine quality raw materials, and there is no loss of sensitivity during sex.",
+                "Easy-On Shape",
+                "Dermatologically tested",
+                "100% electronically tested",
+                "Nominal width 56mm"
+            ],
+            "brandId": "28059",
+            "brandName": "Durex",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/87dc90e1841caa41acc9e567b62c53b1.jpg",
+                    "productUrl": "/products/durex-extra-safe-condom-combo-pack-3-packs-3x39pcs-i143010179-s1067104368.html",
+                    "sku": "143010179_BD",
+                    "skuId": "1067104368"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:143010179;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:143010179_BD;price:85;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:143010179;sku_id:1067104368;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "143010179_BD-1067104368",
+                    "skuId": "1067104368",
+                    "count": 0
+                }
+            ],
+            "itemId": "143010179",
+            "skuId": "1067104368",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Panther Dotted Condoms 4 pack combo, Total 12 pcs",
+            "nid": "136878368",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "136878368",
+                "scene_pre": "search",
+                "current_price": "50",
+                "x_sku_ids": "1059106539",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "136878368"
+            },
+            "productUrl": "//www.daraz.com.bd/products/panther-dotted-condoms-4-pack-combo-total-12-pcs-i136878368-s1059106539.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/92a21ca4cee9dbea8c9fd2b35f2f8d52.jpg",
+            "originalPrice": "60.00",
+            "originalPriceShow": "৳ 60",
+            "price": "50",
+            "promotionId": "null",
+            "priceShow": "৳ 50",
+            "discount": "-17%",
+            "ratingScore": "4.72169",
+            "review": "830",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "136878368_BD-1059106539",
+            "sku": "136878368_BD",
+            "skus": [],
+            "description": [
+                "Comfortable",
+                "Extra Timing this condom",
+                "Extra High-Quality Dotted",
+                "Provides a better fit and feel during lovemaking",
+                "Made in Bangladesh",
+                "Comfortable",
+                "Extra lube."
+            ],
+            "brandId": "24212",
+            "brandName": "Panther",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/92a21ca4cee9dbea8c9fd2b35f2f8d52.jpg",
+                    "productUrl": "/products/panther-dotted-condoms-4-pack-combo-total-12-pcs-i136878368-s1059106539.html",
+                    "sku": "136878368_BD",
+                    "skuId": "1059106539"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:136878368;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:136878368_BD;price:50;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:136878368;sku_id:1059106539;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "136878368_BD-1059106539",
+                    "skuId": "1059106539",
+                    "count": 0
+                }
+            ],
+            "itemId": "136878368",
+            "skuId": "1059106539",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Coral - Super Ultra Thin Lubricated Natural Latex Condom - Single Pack - 3x1=3pcs",
+            "nid": "170470707",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "170470707",
+                "scene_pre": "search",
+                "current_price": "25",
+                "x_sku_ids": "1105602794",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "170470707"
+            },
+            "productUrl": "//www.daraz.com.bd/products/coral-super-ultra-thin-lubricated-natural-latex-condom-single-pack-3x13pcs-i170470707-s1105602794.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/cc7edb63201e0adced35387f25564100.jpg",
+            "originalPrice": "35.00",
+            "originalPriceShow": "৳ 35",
+            "price": "25",
+            "promotionId": "null",
+            "priceShow": "৳ 25",
+            "discount": "-29%",
+            "ratingScore": "4.73913",
+            "review": "161",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "170470707_BD-1105602794",
+            "sku": "170470707_BD",
+            "skus": [],
+            "description": [
+                "Product: Condom",
+                "Brand: Coral",
+                "Type: Super Ultra Thin",
+                "Quantity: 1 pack",
+                "Length: 180mm",
+                "Width: 53mm +/- 2mm",
+                "Country of Origin: Malaysia"
+            ],
+            "brandId": "194479",
+            "brandName": "CORAL",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cc7edb63201e0adced35387f25564100.jpg",
+                    "productUrl": "/products/coral-super-ultra-thin-lubricated-natural-latex-condom-single-pack-3x13pcs-i170470707-s1105602794.html",
+                    "sku": "170470707_BD",
+                    "skuId": "1105602794"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:170470707;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:170470707_BD;price:25;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:170470707;sku_id:1105602794;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "170470707_BD-1105602794",
+                    "skuId": "1105602794",
+                    "count": 0
+                }
+            ],
+            "itemId": "170470707",
+            "skuId": "1105602794",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Coral-Vanila Flavored Lubricated Condom",
+            "nid": "170570448",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "170570448",
+                "scene_pre": "search",
+                "current_price": "21",
+                "x_sku_ids": "1105724567",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "170570448"
+            },
+            "productUrl": "//www.daraz.com.bd/products/coral-vanila-flavored-lubricated-condom-i170570448-s1105724567.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/217c4fe5aea1a22b5560cd29e4062a5b.jpg",
+            "originalPrice": "30.00",
+            "originalPriceShow": "৳ 30",
+            "price": "21",
+            "promotionId": "null",
+            "priceShow": "৳ 21",
+            "discount": "-30%",
+            "ratingScore": "4.76854",
+            "review": "445",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "170570448_BD-1105724567",
+            "sku": "170570448_BD",
+            "skus": [],
+            "description": [
+                "Product: Condom",
+                "Brand: Coral",
+                "Type: Vanilla Flavour ",
+                "Quantity: 1 pack",
+                "Length: 180mm",
+                "Width: 53mm +/- 2mm",
+                "Country of Origin: Malaysia"
+            ],
+            "brandId": "194479",
+            "brandName": "CORAL",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/217c4fe5aea1a22b5560cd29e4062a5b.jpg",
+                    "productUrl": "/products/coral-vanila-flavored-lubricated-condom-i170570448-s1105724567.html",
+                    "sku": "170570448_BD",
+                    "skuId": "1105724567"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:170570448;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:170570448_BD;price:21;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:170570448;sku_id:1105724567;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "170570448_BD-1105724567",
+                    "skuId": "1105724567",
+                    "count": 0
+                }
+            ],
+            "itemId": "170570448",
+            "skuId": "1105724567",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Coral - Chocolate Flavors Lubricated Natural Latex Condom - Single Pack - 3x1=3pcs",
+            "nid": "170576046",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "170576046",
+                "scene_pre": "search",
+                "current_price": "26",
+                "x_sku_ids": "1105732094",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "170576046"
+            },
+            "productUrl": "//www.daraz.com.bd/products/coral-chocolate-flavors-lubricated-natural-latex-condom-single-pack-3x13pcs-i170576046-s1105732094.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/424467dbd8a747334aa7ad984f65031f.jpg",
+            "originalPrice": "30.00",
+            "originalPriceShow": "৳ 30",
+            "price": "26",
+            "promotionId": "null",
+            "priceShow": "৳ 26",
+            "discount": "-13%",
+            "ratingScore": "4.72315",
+            "review": "661",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "170576046_BD-1105732094",
+            "sku": "170576046_BD",
+            "skus": [],
+            "description": [
+                "Product: Condom",
+                "Brand: Coral",
+                "Type: Chocolate Flavour ",
+                "Quantity: 1 pack",
+                "Length: 180mm",
+                "Width: 53mm +/- 2mm",
+                "Country of Origin: Malaysia"
+            ],
+            "brandId": "194479",
+            "brandName": "CORAL",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/424467dbd8a747334aa7ad984f65031f.jpg",
+                    "productUrl": "/products/coral-chocolate-flavors-lubricated-natural-latex-condom-single-pack-3x13pcs-i170576046-s1105732094.html",
+                    "sku": "170576046_BD",
+                    "skuId": "1105732094"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:170576046;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:170576046_BD;price:26;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:170576046;sku_id:1105732094;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "170576046_BD-1105732094",
+                    "skuId": "1105732094",
+                    "count": 0
+                }
+            ],
+            "itemId": "170576046",
+            "skuId": "1105732094",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "GreenLove - Luxury Dotted Condom - Combo Pack - 3 Packs - 3x3=9pcs",
+            "nid": "155904232",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "155904232",
+                "scene_pre": "search",
+                "current_price": "42",
+                "x_sku_ids": "1085292199",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "155904232"
+            },
+            "productUrl": "//www.daraz.com.bd/products/greenlove-luxury-dotted-condom-combo-pack-3-packs-3x39pcs-i155904232-s1085292199.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ffcc671db8e808c171e35ee936bca46a.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "42",
+            "promotionId": "null",
+            "priceShow": "৳ 42",
+            "discount": "-65%",
+            "ratingScore": "4.58986",
+            "review": "217",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "155904232_BD-1085292199",
+            "sku": "155904232_BD",
+            "skus": [],
+            "description": [
+                "Product: Green Love quality condoms",
+                "Brand: GreenLove",
+                "Flavor: Ultrathin",
+                "Length: 180mm",
+                "Width: 53mm +/- 2mm",
+                "Electronically Tested.",
+                "USA formulation.",
+                "With expiry date.",
+                "Packets of 3&#39;s pieces.",
+                "For your private enjoyment."
+            ],
+            "brandId": "123291012",
+            "brandName": "Well-being Distribution Ltd.",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ffcc671db8e808c171e35ee936bca46a.jpg",
+                    "productUrl": "/products/greenlove-luxury-dotted-condom-combo-pack-3-packs-3x39pcs-i155904232-s1085292199.html",
+                    "sku": "155904232_BD",
+                    "skuId": "1085292199"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:155904232;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:155904232_BD;price:42;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:155904232;sku_id:1085292199;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "155904232_BD-1085292199",
+                    "skuId": "1085292199",
+                    "count": 0
+                }
+            ],
+            "itemId": "155904232",
+            "skuId": "1085292199",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Durex - Thin Feel Condom - Combo Pack - 3 Pack",
+            "nid": "143008081",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "143008081",
+                "scene_pre": "search",
+                "current_price": "88",
+                "x_sku_ids": "1067108121",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "143008081"
+            },
+            "productUrl": "//www.daraz.com.bd/products/durex-thin-feel-condom-combo-pack-3-pack-i143008081-s1067108121.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/092ffae15d388dd9c365e43e4d325481.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "88",
+            "promotionId": "null",
+            "priceShow": "৳ 88",
+            "discount": "-71%",
+            "ratingScore": "4.25688",
+            "review": "545",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "143008081_BD-1067108121",
+            "sku": "143008081_BD",
+            "skus": [],
+            "description": [
+                "Durex is the World&rsquo;s No. 1 Condom Brand, trusted by millions of lovers every day, and exceeding worldwide quality standards.",
+                "Durex condoms are shaped to be easier to put on, and to provide a better fit and feel during lovemaking.",
+                "Durex condoms smell better, are comfortable to wear, rigorously tested against breakage, made with fine quality raw materials, and there is no loss of sensitivity during sex.",
+                "Easy-On Shape",
+                "Dermatologically tested",
+                "100% electronically tested",
+                "Nominal width 56mm"
+            ],
+            "brandId": "28059",
+            "brandName": "Durex",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/092ffae15d388dd9c365e43e4d325481.jpg",
+                    "productUrl": "/products/durex-thin-feel-condom-combo-pack-3-pack-i143008081-s1067108121.html",
+                    "sku": "143008081_BD",
+                    "skuId": "1067108121"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:143008081;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:143008081_BD;price:88;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:143008081;sku_id:1067108121;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "143008081_BD-1067108121",
+                    "skuId": "1067108121",
+                    "count": 0
+                }
+            ],
+            "itemId": "143008081",
+            "skuId": "1067108121",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Panther - Dotted Condom - Full Box - 3x12=36pcs",
+            "nid": "136872784",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "136872784",
+                "scene_pre": "search",
+                "current_price": "146",
+                "x_sku_ids": "1059102843",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "136872784"
+            },
+            "productUrl": "//www.daraz.com.bd/products/panther-dotted-condom-full-box-3x1236pcs-i136872784-s1059102843.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1f8a3525f0985420adb3a8a0ca87787a.jpg",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "146",
+            "promotionId": "null",
+            "priceShow": "৳ 146",
+            "discount": "-19%",
+            "ratingScore": "4.76222",
+            "review": "614",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "136872784_BD-1059102843",
+            "sku": "136872784_BD",
+            "skus": [],
+            "description": [
+                "Comfortable",
+                "Extra Timing remain this condoms",
+                "Extra High Quality Dotted",
+                "Provides a better fit and feel during lovemaking",
+                "Made in Bangladesh",
+                "Comfortable"
+            ],
+            "brandId": "24212",
+            "brandName": "Panther",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1f8a3525f0985420adb3a8a0ca87787a.jpg",
+                    "productUrl": "/products/panther-dotted-condom-full-box-3x1236pcs-i136872784-s1059102843.html",
+                    "sku": "136872784_BD",
+                    "skuId": "1059102843"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:136872784;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:136872784_BD;price:146;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:136872784;sku_id:1059102843;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "136872784_BD-1059102843",
+                    "skuId": "1059102843",
+                    "count": 0
+                }
+            ],
+            "itemId": "136872784",
+            "skuId": "1059102843",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "GREEN LOVE DOTTED condoms 30pic 1 box",
+            "nid": "140104297",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "140104297",
+                "scene_pre": "search",
+                "current_price": "128",
+                "x_sku_ids": "1063496088",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "140104297"
+            },
+            "productUrl": "//www.daraz.com.bd/products/30-1-i140104297-s1063496088.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/dd4407fbbda85fa0364b9ef6448e2f68.png",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "128",
+            "promotionId": "null",
+            "priceShow": "৳ 128",
+            "discount": "-49%",
+            "ratingScore": "4.67241",
+            "review": "174",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "140104297_BD-1063496088",
+            "sku": "140104297_BD",
+            "skus": [],
+            "description": [
+                "materials : natural latex ( low protein)",
+                " shape:parallel + sided, teat - ended",
+                " foil shape/dimension: square",
+                " 55mm* 55 mm",
+                " banana flavaour",
+                " slicon oil",
+                " lenght 180 mm",
+                " thickness 0.065 mm+ 0.015"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1036797",
+            "mainSellerId": "",
+            "sellerName": "Moriyam Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/dd4407fbbda85fa0364b9ef6448e2f68.png",
+                    "productUrl": "/products/30-1-i140104297-s1063496088.html",
+                    "sku": "140104297_BD",
+                    "skuId": "1063496088"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:140104297;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:140104297_BD;price:128;client:desktop;supplier_id:1036797;asc_category_id:10564;item_id:140104297;sku_id:1063496088;shop_id:42662",
+            "addToCartSkus": [
+                {
+                    "sku": "140104297_BD-1063496088",
+                    "skuId": "1063496088",
+                    "count": 0
+                }
+            ],
+            "itemId": "140104297",
+            "skuId": "1063496088",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Durex Mix It Up Assorted Condoms Combo (3'S Pack X 4)",
+            "nid": "150750962",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "150750962",
+                "scene_pre": "search",
+                "current_price": "119",
+                "x_sku_ids": "1077522739",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "150750962"
+            },
+            "productUrl": "//www.daraz.com.bd/products/durex-3-x-4-i150750962-s1077522739.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/77ddd1aad38cb040a01271c6386fffd1.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "119",
+            "promotionId": "null",
+            "priceShow": "৳ 119",
+            "discount": "-41%",
+            "ratingScore": "4.06536",
+            "review": "153",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "150750962_BD-1077522739",
+            "sku": "150750962_BD",
+            "skus": [],
+            "description": [
+                "Total 4Box = 12 PCS",
+                " World’s no. 1 condom brand",
+                " 3 condoms in each pack",
+                " Nominal width 52.5mm, made of natural rubber latex",
+                " This combo has 4 different variants of Durex (3\\'s) condoms inside: 1. Thin Feel -3s 2. Extra Safe- 3s 3. Pleasure Me- 3s 4. Strawberry- 3s, Total 12 usable condoms. Get the feel of all 4 Durex variants at a discounted price.",
+                " One 3\\'s pack Extra Safe",
+                " One 3\\'s pack Strawberry",
+                " One 3\\'s packPleasure me",
+                " One 3\\'s pack Thin Feel",
+                " Durex is the World’s No. 1 Condom Brand, trusted by millions of lovers every day, and exceeding worldwide quality standards.",
+                " Durex condoms are shaped to be easier to put on, and to provide a better fit and feel during lovemaking.",
+                " Durex condoms smell better, are comfortable to wear, rigorously tested against breakage, made with fine quality raw materials, and there is no loss of sensitivity during sex."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507665052",
+            "mainSellerId": "",
+            "sellerName": "Brothers Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/77ddd1aad38cb040a01271c6386fffd1.jpg",
+                    "productUrl": "/products/durex-3-x-4-i150750962-s1077522739.html",
+                    "sku": "150750962_BD",
+                    "skuId": "1077522739"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:150750962;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:150750962_BD;price:119;client:desktop;supplier_id:700507665052;asc_category_id:10564;item_id:150750962;sku_id:1077522739;shop_id:102497",
+            "addToCartSkus": [
+                {
+                    "sku": "150750962_BD-1077522739",
+                    "skuId": "1077522739",
+                    "count": 0
+                }
+            ],
+            "itemId": "150750962",
+            "skuId": "1077522739",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "JJ Jasmine Flavour Dotted Condoms 1 Pack  - 3x1= 3 pcs",
+            "nid": "176844553",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "176844553",
+                "scene_pre": "search",
+                "current_price": "18",
+                "x_sku_ids": "1116702320",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "176844553"
+            },
+            "productUrl": "//www.daraz.com.bd/products/jj-jasmine-flavour-dotted-condoms-1-pack-3x1-3-pcs-i176844553-s1116702320.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7cd45a8372b40779a5ca49a6ff51fe4d.jpg",
+            "originalPrice": "30.00",
+            "originalPriceShow": "৳ 30",
+            "price": "18",
+            "promotionId": "null",
+            "priceShow": "৳ 18",
+            "discount": "-40%",
+            "ratingScore": "4.63103",
+            "review": "290",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "176844553_BD-1116702320",
+            "sku": "176844553_BD",
+            "skus": [],
+            "description": [
+                "Product: Condom",
+                "Brand: JJ",
+                "Type: Jasmin Flavour",
+                "Quantity: 1 pack",
+                "Length: 180mm",
+                "Width: 53mm +/- 2mm"
+            ],
+            "brandId": "123291012",
+            "brandName": "Well-being Distribution Ltd.",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7cd45a8372b40779a5ca49a6ff51fe4d.jpg",
+                    "productUrl": "/products/jj-jasmine-flavour-dotted-condoms-1-pack-3x1-3-pcs-i176844553-s1116702320.html",
+                    "sku": "176844553_BD",
+                    "skuId": "1116702320"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:176844553;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:176844553_BD;price:18;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:176844553;sku_id:1116702320;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "176844553_BD-1116702320",
+                    "skuId": "1116702320",
+                    "count": 0
+                }
+            ],
+            "itemId": "176844553",
+            "skuId": "1116702320",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Panther - Dotted Banana Flavored Condom - Full Box - 3x12=36pcs",
+            "nid": "166266953",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "166266953",
+                "scene_pre": "search",
+                "current_price": "190",
+                "x_sku_ids": "1099846318",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "166266953"
+            },
+            "productUrl": "//www.daraz.com.bd/products/panther-dotted-banana-flavored-condom-full-box-3x1236pcs-i166266953-s1099846318.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/82ce38ae695f478c412de1b29840f515.jpg",
+            "originalPrice": "240.00",
+            "originalPriceShow": "৳ 240",
+            "price": "190",
+            "promotionId": "null",
+            "priceShow": "৳ 190",
+            "discount": "-21%",
+            "ratingScore": "4.8125",
+            "review": "64",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "166266953_BD-1099846318",
+            "sku": "166266953_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "24212",
+            "brandName": "Panther",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/82ce38ae695f478c412de1b29840f515.jpg",
+                    "productUrl": "/products/panther-dotted-banana-flavored-condom-full-box-3x1236pcs-i166266953-s1099846318.html",
+                    "sku": "166266953_BD",
+                    "skuId": "1099846318"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:166266953;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:166266953_BD;price:190;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:166266953;sku_id:1099846318;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "166266953_BD-1099846318",
+                    "skuId": "1099846318",
+                    "count": 0
+                }
+            ],
+            "itemId": "166266953",
+            "skuId": "1099846318",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "কোরাল-মিন্ট ফ্লেভারস লুব্রিকেটেড ন্যাচারাল ল্যাটেক্স কনডম-সিঙ্গেল প্যাক-3x1 = 3 পিস",
+            "nid": "170572849",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "170572849",
+                "scene_pre": "search",
+                "current_price": "21",
+                "x_sku_ids": "1105730962",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "170572849"
+            },
+            "productUrl": "//www.daraz.com.bd/products/3x1-3-i170572849-s1105730962.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ec2090ddca542c1c36824206c33e9b8d.jpg",
+            "originalPrice": "30.00",
+            "originalPriceShow": "৳ 30",
+            "price": "21",
+            "promotionId": "null",
+            "priceShow": "৳ 21",
+            "discount": "-30%",
+            "ratingScore": "4.7395",
+            "review": "714",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "170572849_BD-1105730962",
+            "sku": "170572849_BD",
+            "skus": [],
+            "description": [
+                "Product: Condom",
+                "Brand: Coral",
+                "Type: Mint Flavour ",
+                "Quantity: 1 pack",
+                "Length: 180mm",
+                "Width: 53mm +/- 2mm",
+                "Country of Origin: Malaysia"
+            ],
+            "brandId": "194479",
+            "brandName": "CORAL",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ec2090ddca542c1c36824206c33e9b8d.jpg",
+                    "productUrl": "/products/3x1-3-i170572849-s1105730962.html",
+                    "sku": "170572849_BD",
+                    "skuId": "1105730962"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:170572849;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:170572849_BD;price:21;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:170572849;sku_id:1105730962;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "170572849_BD-1105730962",
+                    "skuId": "1105730962",
+                    "count": 0
+                }
+            ],
+            "itemId": "170572849",
+            "skuId": "1105730962",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Xtreme - Ultra Thin Condom - Single Pack - 3x1=3pcs",
+            "nid": "131570851",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "131570851",
+                "scene_pre": "search",
+                "current_price": "60",
+                "x_sku_ids": "1051872795",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "131570851"
+            },
+            "productUrl": "//www.daraz.com.bd/products/xtreme-ultra-thin-condom-single-pack-3x13pcs-i131570851-s1051872795.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0145b6ba75974e8ea22ad776809e21bd.jpg",
+            "originalPrice": "70.00",
+            "originalPriceShow": "৳ 70",
+            "price": "60",
+            "promotionId": "null",
+            "priceShow": "৳ 60",
+            "discount": "-14%",
+            "ratingScore": "4.74219",
+            "review": "256",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "131570851_BD-1051872795",
+            "sku": "131570851_BD",
+            "skus": [],
+            "description": [
+                "Xtreme Ultra Thin Premium condom",
+                "Ultra-Thin, smooth, parallel, and teat-ended shaped natural rubber latex condom with attractive fragrance.",
+                "Ultra-Thin condoms are thin but super safe. You&#39;ll get all the pleasure without any worries.",
+                "Xtreme condoms are designed for pleasure and total reliability.",
+                "Made from premium quality, natural rubber latex, each Xtreme condom is electrically tested to provide maximum protection and safety",
+                "Xtreme condoms will help to reduce the risk of transmission of HIV (AIDS) and many other sexually transmitted diseases (STDs).",
+                "A Product of Social Marketing Company (SMC)"
+            ],
+            "brandId": "27730",
+            "brandName": "Xtreme",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0145b6ba75974e8ea22ad776809e21bd.jpg",
+                    "productUrl": "/products/xtreme-ultra-thin-condom-single-pack-3x13pcs-i131570851-s1051872795.html",
+                    "sku": "131570851_BD",
+                    "skuId": "1051872795"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:131570851;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:131570851_BD;price:60;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:131570851;sku_id:1051872795;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "131570851_BD-1051872795",
+                    "skuId": "1051872795",
+                    "count": 0
+                }
+            ],
+            "itemId": "131570851",
+            "skuId": "1051872795",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Panther - Dotted Banana Flavored Condom - Single Pack - 3x1=3pcs",
+            "nid": "166268802",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "166268802",
+                "scene_pre": "search",
+                "current_price": "17",
+                "x_sku_ids": "1099850113",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "166268802"
+            },
+            "productUrl": "//www.daraz.com.bd/products/panther-dotted-banana-flavored-condom-single-pack-3x13pcs-i166268802-s1099850113.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3a355e3206dfa82fc0eb984e8d829962.jpg",
+            "originalPrice": "20.00",
+            "originalPriceShow": "৳ 20",
+            "price": "17",
+            "promotionId": "null",
+            "priceShow": "৳ 17",
+            "discount": "-15%",
+            "ratingScore": "4.78028",
+            "review": "355",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "166268802_BD-1099850113",
+            "sku": "166268802_BD",
+            "skus": [],
+            "description": [
+                "Comfortable",
+                "Extra Timing this condom",
+                "Extra High Quality Dotted",
+                "Provides a better fit and feel during lovemaking",
+                "Made in Bangladesh",
+                "Comfortable",
+                "Extra lube."
+            ],
+            "brandId": "24212",
+            "brandName": "Panther",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3a355e3206dfa82fc0eb984e8d829962.jpg",
+                    "productUrl": "/products/panther-dotted-banana-flavored-condom-single-pack-3x13pcs-i166268802-s1099850113.html",
+                    "sku": "166268802_BD",
+                    "skuId": "1099850113"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:166268802;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:166268802_BD;price:17;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:166268802;sku_id:1099850113;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "166268802_BD-1099850113",
+                    "skuId": "1099850113",
+                    "count": 0
+                }
+            ],
+            "itemId": "166268802",
+            "skuId": "1099850113",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Panther - Dotted Condom - Combo Pack - 6 Packs - 3x6=18pcs",
+            "nid": "197331832",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "197331832",
+                "scene_pre": "search",
+                "current_price": "73",
+                "x_sku_ids": "1143923596",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "197331832"
+            },
+            "productUrl": "//www.daraz.com.bd/products/6-3x6-18-i197331832-s1143923596.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/98e82bf7d003382c023bf1deaa78f31b.jpg",
+            "originalPrice": "90.00",
+            "originalPriceShow": "৳ 90",
+            "price": "73",
+            "promotionId": "null",
+            "priceShow": "৳ 73",
+            "discount": "-19%",
+            "ratingScore": "4.85075",
+            "review": "67",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "197331832_BD-1143923596",
+            "sku": "197331832_BD",
+            "skus": [],
+            "description": [
+                "Comfortable",
+                "Extra Timing this condoms",
+                "Extra High Quality Dotted",
+                "Provides a better fit and feel during lovemaking",
+                "Made in Bangladesh",
+                "Comfortable",
+                "Extra lube."
+            ],
+            "brandId": "24212",
+            "brandName": "Panther",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/98e82bf7d003382c023bf1deaa78f31b.jpg",
+                    "productUrl": "/products/6-3x6-18-i197331832-s1143923596.html",
+                    "sku": "197331832_BD",
+                    "skuId": "1143923596"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:197331832;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:197331832_BD;price:73;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:197331832;sku_id:1143923596;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "197331832_BD-1143923596",
+                    "skuId": "1143923596",
+                    "count": 0
+                }
+            ],
+            "itemId": "197331832",
+            "skuId": "1143923596",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sensation - Classic Dotted Latex Condom - Full Box - 3x12=36pcs",
+            "nid": "135928473",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "135928473",
+                "scene_pre": "search",
+                "current_price": "239",
+                "x_sku_ids": "1057998174",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "135928473"
+            },
+            "productUrl": "//www.daraz.com.bd/products/sensation-classic-dotted-latex-condom-full-box-3x1236pcs-i135928473-s1057998174.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/770596d1c2428bc015e5ec0257b6856d.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "239",
+            "promotionId": "null",
+            "priceShow": "৳ 239",
+            "discount": "-20%",
+            "ratingScore": "4.58523",
+            "review": "176",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "135928473_BD-1057998174",
+            "sku": "135928473_BD",
+            "skus": [],
+            "description": [
+                "Brand: SMC",
+                "Protect Conception",
+                "Premium Quality ",
+                "3 Pack Combo"
+            ],
+            "brandId": "154365",
+            "brandName": "Sensation",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/770596d1c2428bc015e5ec0257b6856d.jpg",
+                    "productUrl": "/products/sensation-classic-dotted-latex-condom-full-box-3x1236pcs-i135928473-s1057998174.html",
+                    "sku": "135928473_BD",
+                    "skuId": "1057998174"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:135928473;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:135928473_BD;price:239;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:135928473;sku_id:1057998174;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "135928473_BD-1057998174",
+                    "skuId": "1057998174",
+                    "count": 0
+                }
+            ],
+            "itemId": "135928473",
+            "skuId": "1057998174",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Moods - Gold Cool Condom - Single Pack- 3x1=3pcs",
+            "nid": "164954989",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "164954989",
+                "scene_pre": "search",
+                "current_price": "89",
+                "x_sku_ids": "1097972102",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "164954989"
+            },
+            "productUrl": "//www.daraz.com.bd/products/moods-gold-cool-condom-single-pack-3x13pcs-i164954989-s1097972102.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e8ea77589e4aab4a61b5e2798e321fd4.jpg",
+            "originalPrice": "100.00",
+            "originalPriceShow": "৳ 100",
+            "price": "89",
+            "promotionId": "null",
+            "priceShow": "৳ 89",
+            "discount": "-11%",
+            "ratingScore": "4.61736",
+            "review": "311",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "164954989_BD-1097972102",
+            "sku": "164954989_BD",
+            "skus": [],
+            "description": [
+                "ProductType: Dotted Condom",
+                "Menthol Flavor",
+                "Brand: Moods",
+                "Quantity: 3Pcs",
+                "Length: 180mm",
+                "Width: 53mm +/- 2mm",
+                "Country of Origin: India"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e8ea77589e4aab4a61b5e2798e321fd4.jpg",
+                    "productUrl": "/products/moods-gold-cool-condom-single-pack-3x13pcs-i164954989-s1097972102.html",
+                    "sku": "164954989_BD",
+                    "skuId": "1097972102"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:164954989;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:164954989_BD;price:89;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:164954989;sku_id:1097972102;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "164954989_BD-1097972102",
+                    "skuId": "1097972102",
+                    "count": 0
+                }
+            ],
+            "itemId": "164954989",
+            "skuId": "1097972102",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Durex - Thin Feel Condom - Combo Pack - 6 Packs - 3x6=18pcs",
+            "nid": "137086851",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "137086851",
+                "scene_pre": "search",
+                "current_price": "175",
+                "x_sku_ids": "1059508976",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "137086851"
+            },
+            "productUrl": "//www.daraz.com.bd/products/durex-thin-feel-condom-combo-pack-6-packs-3x618pcs-i137086851-s1059508976.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/50f32c68fa81aa7dd3ead756db583d16.jpg",
+            "originalPrice": "600.00",
+            "originalPriceShow": "৳ 600",
+            "price": "175",
+            "promotionId": "null",
+            "priceShow": "৳ 175",
+            "discount": "-71%",
+            "ratingScore": "4.03279",
+            "review": "122",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "137086851_BD-1059508976",
+            "sku": "137086851_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "28059",
+            "brandName": "Durex",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/50f32c68fa81aa7dd3ead756db583d16.jpg",
+                    "productUrl": "/products/durex-thin-feel-condom-combo-pack-6-packs-3x618pcs-i137086851-s1059508976.html",
+                    "sku": "137086851_BD",
+                    "skuId": "1059508976"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:137086851;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:137086851_BD;price:175;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:137086851;sku_id:1059508976;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "137086851_BD-1059508976",
+                    "skuId": "1059508976",
+                    "count": 0
+                }
+            ],
+            "itemId": "137086851",
+            "skuId": "1059508976",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Coral Lubricated Natural 3 Fruits Flavors Condoms - 3pcs or 3 time use",
+            "nid": "161868033",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "161868033",
+                "scene_pre": "search",
+                "current_price": "18",
+                "x_sku_ids": "1093910505",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "161868033"
+            },
+            "productUrl": "//www.daraz.com.bd/products/3-3-3-i161868033-s1093910505.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fe6976b31193246350f9f3f61b013809.jpg",
+            "originalPrice": "30.00",
+            "originalPriceShow": "৳ 30",
+            "price": "18",
+            "promotionId": "null",
+            "priceShow": "৳ 18",
+            "discount": "-40%",
+            "ratingScore": "4.84211",
+            "review": "57",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "161868033_BD-1093910505",
+            "sku": "161868033_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507869040",
+            "mainSellerId": "",
+            "sellerName": "Cosmic Love",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fe6976b31193246350f9f3f61b013809.jpg",
+                    "productUrl": "/products/3-3-3-i161868033-s1093910505.html",
+                    "sku": "161868033_BD",
+                    "skuId": "1093910505"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:161868033;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:161868033_BD;price:18;client:desktop;supplier_id:700507869040;asc_category_id:10564;item_id:161868033;sku_id:1093910505;shop_id:117355",
+            "addToCartSkus": [
+                {
+                    "sku": "161868033_BD-1093910505",
+                    "skuId": "1093910505",
+                    "count": 0
+                }
+            ],
+            "itemId": "161868033",
+            "skuId": "1093910505",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Grip Unlimited Mix It Up Assorted Condom Combo",
+            "nid": "123950583",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "123950583",
+                "scene_pre": "search",
+                "current_price": "145",
+                "x_sku_ids": "1044206100",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "123950583"
+            },
+            "productUrl": "//www.daraz.com.bd/products/grip-unlimited-mix-it-up-assorted-condom-combo-i123950583-s1044206100.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c690b466821e7d322cfa1acca7bc38f0.jpg",
+            "originalPrice": "245.00",
+            "originalPriceShow": "৳ 245",
+            "price": "145",
+            "promotionId": "null",
+            "priceShow": "৳ 145",
+            "discount": "-41%",
+            "ratingScore": "4.66358",
+            "review": "1296",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "123950583_BD-1044206100",
+            "sku": "123950583_BD",
+            "skus": [],
+            "description": [
+                "Easy-on shaped thinner condoms designed to bring people closer together",
+                "Nominal width 52mm, made of natural rubber latex",
+                "2 Condoms in each pack",
+                "Grip condom fits well and is rigorously tested against breakage",
+                "No loss of sensitivity during love",
+                "Grip is the World's Best condom brand"
+            ],
+            "brandId": "158005",
+            "brandName": "Grip Unlimited",
+            "sellerId": "4552",
+            "mainSellerId": "",
+            "sellerName": "GearGeek & Co.(Pvt.) Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c690b466821e7d322cfa1acca7bc38f0.jpg",
+                    "productUrl": "/products/grip-unlimited-mix-it-up-assorted-condom-combo-i123950583-s1044206100.html",
+                    "sku": "123950583_BD",
+                    "skuId": "1044206100"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:123950583;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:123950583_BD;price:145;client:desktop;supplier_id:4552;asc_category_id:10564;item_id:123950583;sku_id:1044206100;shop_id:4609",
+            "addToCartSkus": [
+                {
+                    "sku": "123950583_BD-1044206100",
+                    "skuId": "1044206100",
+                    "count": 0
+                }
+            ],
+            "itemId": "123950583",
+            "skuId": "1044206100",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Durex Extra Time Condoms - 10pcs",
+            "nid": "124974381",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "124974381",
+                "scene_pre": "search",
+                "current_price": "308",
+                "x_sku_ids": "1045178436",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "124974381"
+            },
+            "productUrl": "//www.daraz.com.bd/products/durex-10-i124974381-s1045178436.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/005c1ec834c811fa229a2527bf23f8e6.jpg",
+            "originalPrice": "680.00",
+            "originalPriceShow": "৳ 680",
+            "price": "308",
+            "promotionId": "null",
+            "priceShow": "৳ 308",
+            "discount": "-55%",
+            "ratingScore": "4.67763",
+            "review": "152",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "124974381_BD-1045178436",
+            "sku": "124974381_BD",
+            "skus": [],
+            "description": [
+                "Contains special climax-control lubricant, Benzocaine, that helps him last longer",
+                " Straight walled & teat ended condoms that smellgood",
+                " Transparent & lubricated natural rubber latex condoms",
+                " 100% electronically tested",
+                " Complies to ISO 4074 Standards",
+                " Length: 180 ± 2 mm; Width: 53 ± 2 mm"
+            ],
+            "brandId": "28059",
+            "brandName": "Durex",
+            "sellerId": "1015633",
+            "mainSellerId": "",
+            "sellerName": "Fatema's World",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/005c1ec834c811fa229a2527bf23f8e6.jpg",
+                    "productUrl": "/products/durex-10-i124974381-s1045178436.html",
+                    "sku": "124974381_BD",
+                    "skuId": "1045178436"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:124974381;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:124974381_BD;price:308;client:desktop;supplier_id:1015633;asc_category_id:10564;item_id:124974381;sku_id:1045178436;shop_id:21651",
+            "addToCartSkus": [
+                {
+                    "sku": "124974381_BD-1045178436",
+                    "skuId": "1045178436",
+                    "count": 0
+                }
+            ],
+            "itemId": "124974381",
+            "skuId": "1045178436",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Coral-orange natural latex condom-single pack-3x1 = 3 pieces",
+            "nid": "155994352",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "155994352",
+                "scene_pre": "search",
+                "current_price": "27.00",
+                "x_sku_ids": "1085418588",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "155994352"
+            },
+            "productUrl": "//www.daraz.com.bd/products/coral-orange-natural-latex-condom-single-pack-3x1-3-pieces-i155994352-s1085418588.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bfdc9b32d78c4c659b689c75a7e3765f.jpg",
+            "originalPrice": "30.00",
+            "originalPriceShow": "৳ 30",
+            "price": "27.00",
+            "promotionId": "null",
+            "priceShow": "৳ 27",
+            "discount": "-10%",
+            "ratingScore": "4.77273",
+            "review": "506",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "155994352_BD-1085418588",
+            "sku": "155994352_BD",
+            "skus": [],
+            "description": [
+                "Product: Condom",
+                "Brand: Coral",
+                "Quantity: 3 Pcs in 1 Packet",
+                "Length: 180mm",
+                "Width: 53mm +/- 2mm",
+                "Country of Origin: Malaysia"
+            ],
+            "brandId": "194479",
+            "brandName": "CORAL",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bfdc9b32d78c4c659b689c75a7e3765f.jpg",
+                    "productUrl": "/products/coral-orange-natural-latex-condom-single-pack-3x1-3-pieces-i155994352-s1085418588.html",
+                    "sku": "155994352_BD",
+                    "skuId": "1085418588"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:155994352;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:155994352_BD;price:27.00;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:155994352;sku_id:1085418588;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "155994352_BD-1085418588",
+                    "skuId": "1085418588",
+                    "count": 0
+                }
+            ],
+            "itemId": "155994352",
+            "skuId": "1085418588",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Coral-Banana Flavor Extra Performance Condom-Single Pack-3x1 = 3 Piece",
+            "nid": "155996306",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "155996306",
+                "scene_pre": "search",
+                "current_price": "27.00",
+                "x_sku_ids": "1085422181",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "155996306"
+            },
+            "productUrl": "//www.daraz.com.bd/products/coral-banana-flavor-extra-performance-condom-single-pack-3x1-3-piece-i155996306-s1085422181.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e3217d46021f6d486194d6d5e58bf827.jpg",
+            "originalPrice": "30.00",
+            "originalPriceShow": "৳ 30",
+            "price": "27.00",
+            "promotionId": "null",
+            "priceShow": "৳ 27",
+            "discount": "-10%",
+            "ratingScore": "4.72658",
+            "review": "395",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "155996306_BD-1085422181",
+            "sku": "155996306_BD",
+            "skus": [],
+            "description": [
+                "Product: Condom",
+                "Brand: Coral",
+                "Quantity: 3 Pcs in 1 Packet",
+                "Length: 180mm",
+                "Width: 53mm +/- 2mm",
+                "Country of Origin: Malaysia"
+            ],
+            "brandId": "194479",
+            "brandName": "CORAL",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e3217d46021f6d486194d6d5e58bf827.jpg",
+                    "productUrl": "/products/coral-banana-flavor-extra-performance-condom-single-pack-3x1-3-piece-i155996306-s1085422181.html",
+                    "sku": "155996306_BD",
+                    "skuId": "1085422181"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:155996306;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:155996306_BD;price:27.00;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:155996306;sku_id:1085422181;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "155996306_BD-1085422181",
+                    "skuId": "1085422181",
+                    "count": 0
+                }
+            ],
+            "itemId": "155996306",
+            "skuId": "1085422181",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sensation Strawberry Condoms(3s×3)Total 9 Pieces",
+            "nid": "142998999",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "142998999",
+                "scene_pre": "search",
+                "current_price": "64",
+                "x_sku_ids": "1067110248",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "142998999"
+            },
+            "productUrl": "//www.daraz.com.bd/products/sensation-strawberry-condoms3s3total-9-pieces-i142998999-s1067110248.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f9f452437631b8f34427b0b2c5ccc979.jpg",
+            "originalPrice": "75.00",
+            "originalPriceShow": "৳ 75",
+            "price": "64",
+            "promotionId": "null",
+            "priceShow": "৳ 64",
+            "discount": "-15%",
+            "ratingScore": "4.80342",
+            "review": "117",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "142998999_BD-1067110248",
+            "sku": "142998999_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "154365",
+            "brandName": "Sensation",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f9f452437631b8f34427b0b2c5ccc979.jpg",
+                    "productUrl": "/products/sensation-strawberry-condoms3s3total-9-pieces-i142998999-s1067110248.html",
+                    "sku": "142998999_BD",
+                    "skuId": "1067110248"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:142998999;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:142998999_BD;price:64;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:142998999;sku_id:1067110248;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "142998999_BD-1067110248",
+                    "skuId": "1067110248",
+                    "count": 0
+                }
+            ],
+            "itemId": "142998999",
+            "skuId": "1067110248",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sensation Super Dotted Strawberry Condoms Single Pack - 3x1=3 pcs Condoms",
+            "nid": "185893434",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "185893434",
+                "scene_pre": "search",
+                "current_price": "23",
+                "x_sku_ids": "1131824905",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "185893434"
+            },
+            "productUrl": "//www.daraz.com.bd/products/3x1-3-i185893434-s1131824905.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/95954fc6e7fd8d59919fb2cb9a9f43da.jpg",
+            "originalPrice": "25.00",
+            "originalPriceShow": "৳ 25",
+            "price": "23",
+            "promotionId": "null",
+            "priceShow": "৳ 23",
+            "discount": "-8%",
+            "ratingScore": "4.69697",
+            "review": "33",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "185893434_BD-1131824905",
+            "sku": "185893434_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507665052",
+            "mainSellerId": "",
+            "sellerName": "Brothers Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/95954fc6e7fd8d59919fb2cb9a9f43da.jpg",
+                    "productUrl": "/products/3x1-3-i185893434-s1131824905.html",
+                    "sku": "185893434_BD",
+                    "skuId": "1131824905"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:185893434;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:185893434_BD;price:23;client:desktop;supplier_id:700507665052;asc_category_id:10564;item_id:185893434;sku_id:1131824905;shop_id:102497",
+            "addToCartSkus": [
+                {
+                    "sku": "185893434_BD-1131824905",
+                    "skuId": "1131824905",
+                    "count": 0
+                }
+            ],
+            "itemId": "185893434",
+            "skuId": "1131824905",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Grip Unlimited Air Ultra Thin condom for Men (3 pack)",
+            "nid": "124298351",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "124298351",
+                "scene_pre": "search",
+                "current_price": "58",
+                "x_sku_ids": "1044566998",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "124298351"
+            },
+            "productUrl": "//www.daraz.com.bd/products/grip-unlimited-air-ultra-thin-condom-for-men-3-pack-i124298351-s1044566998.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b7b682cc9f6ccf7bcb5c540fa4b62011.jpg",
+            "originalPrice": "65.00",
+            "originalPriceShow": "৳ 65",
+            "price": "58",
+            "promotionId": "null",
+            "priceShow": "৳ 58",
+            "discount": "-11%",
+            "ratingScore": "4.46606",
+            "review": "221",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "124298351_BD-1044566998",
+            "sku": "124298351_BD",
+            "skus": [],
+            "description": [
+                "Easy-on shaped thinner condoms designed to bring people closer together",
+                "Nominal width 52mm, made of natural rubber latex",
+                "2 Condoms in each pack",
+                "Grip condom fits well and is rigorously tested against breakage",
+                "No loss of sensitivity during intercourse",
+                "Grip is the World's Best condom brand"
+            ],
+            "brandId": "158005",
+            "brandName": "Grip Unlimited",
+            "sellerId": "4552",
+            "mainSellerId": "",
+            "sellerName": "GearGeek & Co.(Pvt.) Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b7b682cc9f6ccf7bcb5c540fa4b62011.jpg",
+                    "productUrl": "/products/grip-unlimited-air-ultra-thin-condom-for-men-3-pack-i124298351-s1044566998.html",
+                    "sku": "124298351_BD",
+                    "skuId": "1044566998"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:124298351;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:124298351_BD;price:58;client:desktop;supplier_id:4552;asc_category_id:10564;item_id:124298351;sku_id:1044566998;shop_id:4609",
+            "addToCartSkus": [
+                {
+                    "sku": "124298351_BD-1044566998",
+                    "skuId": "1044566998",
+                    "count": 0
+                }
+            ],
+            "itemId": "124298351",
+            "skuId": "1044566998",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Manforce Litchi Flavour 1500 Dots Super Condoms Single Pack - 3x1= 3pcs",
+            "nid": "181217784",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "181217784",
+                "scene_pre": "search",
+                "current_price": "65.00",
+                "x_sku_ids": "1122844615",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "181217784"
+            },
+            "productUrl": "//www.daraz.com.bd/products/manforce-litchi-flavour-1500-dots-super-condoms-single-pack-3x1-3pcs-i181217784-s1122844615.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5c8204deb9a793f623d3bf18b046b904.jpg",
+            "originalPrice": "100.00",
+            "originalPriceShow": "৳ 100",
+            "price": "65.00",
+            "promotionId": "null",
+            "priceShow": "৳ 65",
+            "discount": "-35%",
+            "ratingScore": "4.7732",
+            "review": "97",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "181217784_BD-1122844615",
+            "sku": "181217784_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "154332",
+            "brandName": "Manforce",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5c8204deb9a793f623d3bf18b046b904.jpg",
+                    "productUrl": "/products/manforce-litchi-flavour-1500-dots-super-condoms-single-pack-3x1-3pcs-i181217784-s1122844615.html",
+                    "sku": "181217784_BD",
+                    "skuId": "1122844615"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:181217784;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:181217784_BD;price:65.00;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:181217784;sku_id:1122844615;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "181217784_BD-1122844615",
+                    "skuId": "1122844615",
+                    "count": 0
+                }
+            ],
+            "itemId": "181217784",
+            "skuId": "1122844615",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sensation Strawberry Condom Full Box- (12x3)-36pcs Condom",
+            "nid": "171792447",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171792447",
+                "scene_pre": "search",
+                "current_price": "240.00",
+                "x_sku_ids": "1107860731",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "171792447"
+            },
+            "productUrl": "//www.daraz.com.bd/products/12x3-36-i171792447-s1107860731.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6083d01ac4a524ae5b707c0c3e7ec496.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "240.00",
+            "promotionId": "null",
+            "priceShow": "৳ 240",
+            "discount": "-20%",
+            "ratingScore": "4.7451",
+            "review": "51",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171792447_BD-1107860731",
+            "sku": "171792447_BD",
+            "skus": [],
+            "description": [
+                "Brand: SMC",
+                "Flavor: Coffee",
+                "Protect Conception",
+                "Premium Quality ",
+                "1 Pack"
+            ],
+            "brandId": "123378227",
+            "brandName": "SMC Enterprise Ltd.",
+            "sellerId": "700508217214",
+            "mainSellerId": "",
+            "sellerName": "Ms Zafor And Sons (JAS)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6083d01ac4a524ae5b707c0c3e7ec496.jpg",
+                    "productUrl": "/products/12x3-36-i171792447-s1107860731.html",
+                    "sku": "171792447_BD",
+                    "skuId": "1107860731"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:171792447;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:171792447_BD;price:240.00;client:desktop;supplier_id:700508217214;asc_category_id:10564;item_id:171792447;sku_id:1107860731;shop_id:135738",
+            "addToCartSkus": [
+                {
+                    "sku": "171792447_BD-1107860731",
+                    "skuId": "1107860731",
+                    "count": 0
+                }
+            ],
+            "itemId": "171792447",
+            "skuId": "1107860731",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Manforce Chocolate Flavour Super Condoms Single Pack - 3x1= 3pcs",
+            "nid": "181179105",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "181179105",
+                "scene_pre": "search",
+                "current_price": "62",
+                "x_sku_ids": "1122730373",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "181179105"
+            },
+            "productUrl": "//www.daraz.com.bd/products/manforce-chocolate-flavour-super-condoms-single-pack-3x1-3pcs-i181179105-s1122730373.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/74efdf255886eda0493acfe32c90d15a.jpg",
+            "originalPrice": "100.00",
+            "originalPriceShow": "৳ 100",
+            "price": "62",
+            "promotionId": "null",
+            "priceShow": "৳ 62",
+            "discount": "-38%",
+            "ratingScore": "4.71795",
+            "review": "156",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "181179105_BD-1122730373",
+            "sku": "181179105_BD",
+            "skus": [],
+            "description": [
+                "Brand: ManforceChocolate Flavour",
+                "Quantity: 1pack",
+                "Length: 180mm",
+                "Width: 53mm +/- 2mm",
+                "Country of Origin: India",
+                "Provide greater sensitivity and a sleeker feel",
+                "Transparent and lubricated natural rubber latex condoms",
+                "Dermatologically tested and 100% electronically tested, 100% safe and secure"
+            ],
+            "brandId": "154332",
+            "brandName": "Manforce",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/74efdf255886eda0493acfe32c90d15a.jpg",
+                    "productUrl": "/products/manforce-chocolate-flavour-super-condoms-single-pack-3x1-3pcs-i181179105-s1122730373.html",
+                    "sku": "181179105_BD",
+                    "skuId": "1122730373"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:181179105;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:181179105_BD;price:62;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:181179105;sku_id:1122730373;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "181179105_BD-1122730373",
+                    "skuId": "1122730373",
+                    "count": 0
+                }
+            ],
+            "itemId": "181179105",
+            "skuId": "1122730373",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Coral - Mint Flavored Natural Lubricated Condom - Single 10pcs Pack",
+            "nid": "224769252",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "224769252",
+                "scene_pre": "search",
+                "current_price": "75.00",
+                "x_sku_ids": "1170343348",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "224769252"
+            },
+            "productUrl": "//www.daraz.com.bd/products/10-i224769252-s1170343348.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ef849adfe8e32299fac2c96f15c63459.jpg",
+            "originalPrice": "100.00",
+            "originalPriceShow": "৳ 100",
+            "price": "75.00",
+            "promotionId": "null",
+            "priceShow": "৳ 75",
+            "discount": "-25%",
+            "ratingScore": "4.6",
+            "review": "10",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "224769252_BD-1170343348",
+            "sku": "224769252_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "194479",
+            "brandName": "CORAL",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ef849adfe8e32299fac2c96f15c63459.jpg",
+                    "productUrl": "/products/10-i224769252-s1170343348.html",
+                    "sku": "224769252_BD",
+                    "skuId": "1170343348"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:224769252;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:224769252_BD;price:75.00;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:224769252;sku_id:1170343348;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "224769252_BD-1170343348",
+                    "skuId": "1170343348",
+                    "count": 0
+                }
+            ],
+            "itemId": "224769252",
+            "skuId": "1170343348",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Amore Mix - 1 Pack Luxury Gold & 1 Pack Luxury Black Condom - 3x2=6pcs",
+            "nid": "194888127",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "194888127",
+                "scene_pre": "search",
+                "current_price": "165.00",
+                "x_sku_ids": "1141247700",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "194888127"
+            },
+            "productUrl": "//www.daraz.com.bd/products/amore-mix-1-pack-luxury-gold-1-pack-luxury-black-condom-3x26pcs-i194888127-s1141247700.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4dd29d575f52a5cd4e3baac60e359d9b.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "165.00",
+            "promotionId": "null",
+            "priceShow": "৳ 165",
+            "discount": "-18%",
+            "ratingScore": "4.2",
+            "review": "10",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "194888127_BD-1141247700",
+            "sku": "194888127_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "59556",
+            "brandName": "Amore",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4dd29d575f52a5cd4e3baac60e359d9b.jpg",
+                    "productUrl": "/products/amore-mix-1-pack-luxury-gold-1-pack-luxury-black-condom-3x26pcs-i194888127-s1141247700.html",
+                    "sku": "194888127_BD",
+                    "skuId": "1141247700"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:194888127;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:194888127_BD;price:165.00;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:194888127;sku_id:1141247700;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "194888127_BD-1141247700",
+                    "skuId": "1141247700",
+                    "count": 0
+                }
+            ],
+            "itemId": "194888127",
+            "skuId": "1141247700",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sensation - Dotted Coffee Condom - Combo Pack - 2 Packs - 3x2=6pcs",
+            "nid": "193252206",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "193252206",
+                "scene_pre": "search",
+                "current_price": "54.00",
+                "x_sku_ids": "1139980348",
+                "SN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "x_ad": "1",
+                "x_object_id": "193252206"
+            },
+            "productUrl": "//www.daraz.com.bd/products/sensation-dotted-coffee-condom-combo-pack-2-packs-3x26pcs-i193252206-s1139980348.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/71d910c4ee1e637381350c0caee05502.jpg",
+            "originalPrice": "60.00",
+            "originalPriceShow": "৳ 60",
+            "price": "54.00",
+            "promotionId": "null",
+            "priceShow": "৳ 54",
+            "discount": "-10%",
+            "ratingScore": "4.75",
+            "review": "20",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "193252206_BD-1139980348",
+            "sku": "193252206_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "154365",
+            "brandName": "Sensation",
+            "sellerId": "700504956150",
+            "mainSellerId": "",
+            "sellerName": "Well-being Distribution Ltd.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/71d910c4ee1e637381350c0caee05502.jpg",
+                    "productUrl": "/products/sensation-dotted-coffee-condom-combo-pack-2-packs-3x26pcs-i193252206-s1139980348.html",
+                    "sku": "193252206_BD",
+                    "skuId": "1139980348"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                10518,
+                10564
+            ],
+            "clickTrace": "query:;nid:193252206;src:LazadaMainSrp;rn:2a485a7a81fc33eaa41d6ec6086aecd8;region:bd;sku:193252206_BD;price:54.00;client:desktop;supplier_id:700504956150;asc_category_id:10564;item_id:193252206;sku_id:1139980348;shop_id:52350",
+            "addToCartSkus": [
+                {
+                    "sku": "193252206_BD-1139980348",
+                    "skuId": "1139980348",
+                    "count": 0
+                }
+            ],
+            "itemId": "193252206",
+            "skuId": "1139980348",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/beauty-health/",
+            "title": "Health & Beauty"
+        },
+        {
+            "url": "/sexual-wellness/",
+            "title": "Sexual Wellness"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/sexual-wellness/?referer_rn=2a485a7a81fc33eaa41d6ec6086aecd8&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Ch2%3E%3Cstrong%3EElectric%20Cooktops%20%26ndash%3B%20Conducting%20to%20Heat%3C%2Fstrong%3E%3C%2Fh2%3E%0A%0A%3Cp%3EThe%20electric%20cooktops%20in%20Bangladesh%20are%20one%20of%20the%20fastest%20growing%20appliances%20to%20come%20out%20in%20recent%20years%20owing%20to%20their%20innovative%20and%20superior%20technology.%20They%20have%20become%20something%20of%20great%20demand%20and%20if%20you%26rsquo%3Bre%20looking%20to%20buy%20electric%20cooktops%20online%2C%20head%20on%20to%20daraz.com.bd%20to%20avail%20a%20wide%20range%20of%20these%20amazing%20devices.%3C%2Fp%3E%0A%0A%3Ch3%3E%3Cstrong%3EThe%20Vastly%20Beneficial%20Electric%20Cooktop%3C%2Fstrong%3E%3C%2Fh3%3E%0A%0A%3Cp%3EThe%20electric%20cooktop%20operates%20by%20using%20electricity%20as%20a%20power%20source%3B%20the%20copper%20wiring%20at%20the%20base%20of%20the%20stove%20becomes%20red%20hot%20with%20electric%20energy%20and%20then%20emits%20a%20controlled%20wave%20of%20radiant%20heat%20that%20is%20able%20to%20quickly%20cook%20any%20form%20of%20food%20item%20to%20complete%20perfection.%20Popular%20brands%20such%20as%20Linnex%20offer%20great%20features%20in%20their%20products.%20Most%20of%20these%20electric%20cooktops%20come%20complete%20with%20a%20set%20of%20five%20burners%20that%20serve%20different%20purposes%20according%20to%20the%20heating%20needed.%20There%20are%20two%20dual%20burners%20that%20give%20the%20traditional%20cooking%20heat%20which%20can%20be%20altered%20to%20suit%20the%20heating%20required%20in%20the%20preparation%20of%20a%20great%20meal.%20These%20two%20burners%20are%20controlled%20by%20separate%20thermostat%20controls%20that%20are%20controlled%20as%20wanted%20by%20easy%20to%20use%20dials%20on%20the%20main%20cooktop%20display.%20It%20has%20a%20warming%20burning%20which%20has%20an%20automated%20thermostat%20control%2C%20so%20it%20can%20efficiently%20regulate%20at%20the%20desired%20temperature%20without%20having%20to%20be%20reconfigured%20manually.%20It%26rsquo%3Bs%20designed%20for%20those%20cold%20days%20when%20sitting%20by%20the%20stove%20keeps%20you%20warm%20and%20cozy.%20The%20warmer%20is%20there%20to%20keep%20tea%2C%20soup%20or%20any%20other%20food%20or%20beverage%20that%20needs%20warming%2C%20keep%20heated.%20The%20fourth%20burner%20is%20the%20master%20burner%2C%20for%20all%20those%20times%20that%20you%20need%20to%20prepare%20that%20really%20big%20meal%20for%20gatherings%20and%20other%20events.%3C%2Fp%3E%0A%0A%3Cp%3ESome%20electric%20cooktops%20in%20Bangladesh%2C%20like%20those%20being%20offered%20by%20KDK%20are%20easy%20to%20detach%20for%20easy%20and%20effective%20cleaning%20of%20the%20entire%20appliance.%20Most%20brands%20like%20KDK%20offer%20electric%20cooktops%20that%20come%20in%20stylish%20modern%20designs%20and%20attractive%20color%20schemes%20which%20are%20guaranteed%20to%20give%20that%20added%20sophistication%20to%20your%20kitchen%26rsquo%3Bs%20ambiance%2C%20leaving%20it%20looking%20elegant%20and%20neat.%20If%20you%20find%20that%20these%20cooktops%20are%20what%20your%20kitchen%20is%20missing%2C%20your%20most%20convenient%20option%20is%20to%20head%20to%20daraz.com.bd.%3C%2Fp%3E%0A%0A%3Ch3%3E%3Cstrong%3EGet%20Your%20Perfect%20Cooktop%20Online%3C%2Fstrong%3E%3C%2Fh3%3E%0A%0A%3Cp%3EOnline%20shopping%20for%20electric%20cooktops%20has%20never%20been%20easier%20and%20more%20convenient%20due%20to%20sites%20like%20Daraz%20Bangladesh.%20It%20offers%20great%20quality%20brands%20at%20some%20of%20the%20most%20reasonable%20electric%20cooktop%20prices%20in%20Bangladesh.%20The%20stores%20catalogs%20are%20equipped%20with%20detail%20pictures%20and%20descriptions%3B%20something%20that%20provides%20you%20with%20hands%20on%20research%20of%20what%20each%20brand%20is%20offering.%20Once%20you%26rsquo%3Bve%20chosen%20your%20optimal%20brand%2C%20pay%20through%20the%20many%20payment%20options%20and%20see%20your%20electric%20cooktop%20delivered%20right%20to%20your%20home.%3C%2Fp%3E"
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "3406 items found in {$0}",
+        "title": "Sexual Wellness",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Sexual Wellness"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Sexual Wellness",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "3406",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "2a485a7a81fc33eaa41d6ec6086aecd8",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "10518",
+            "category": "10518"
+        },
+        "categoryRegionalKey": "081700000000",
+        "mainCategoryRegionalKey": "080000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "যৌন সুস্থতা at Best Price | 20% Off on Daraz | Buy Online",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Health & Beauty,Sexual Wellness",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "081700000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=10518&_p_asc_cateid=10518",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "sexual-wellness",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "2a485a7a81fc33eaa41d6ec6086aecd8",
+                "resultNr": 3406,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1170701927",
+                "1159360060",
+                "1105744125"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "10518",
+            "category": "10518"
+        }
+    }
+}

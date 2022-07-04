@@ -1,0 +1,3682 @@
+{
+    "listItems": [
+        {
+            "name": "Kitchen Towel - Dish Cloth-1PCS",
+            "nid": "190300562",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "190300562",
+                "scene_pre": "search",
+                "current_price": "34",
+                "x_sku_ids": "1137691368",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "190300562"
+            },
+            "productUrl": "//www.daraz.com.bd/products/kitchen-towel-dish-cloth-1pcs-i190300562-s1137691368.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f757e1ce4ce43e32668e66e354c16dd6.png",
+            "originalPrice": "69.00",
+            "originalPriceShow": "৳ 69",
+            "price": "34",
+            "promotionId": "null",
+            "priceShow": "৳ 34",
+            "discount": "-51%",
+            "ratingScore": "4.69492",
+            "review": "59",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "190300562_BD-1137691368",
+            "sku": "190300562_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508349042",
+            "mainSellerId": "",
+            "sellerName": "Ayan's Corner",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f757e1ce4ce43e32668e66e354c16dd6.png",
+                    "productUrl": "/products/kitchen-towel-dish-cloth-1pcs-i190300562-s1137691368.html",
+                    "sku": "190300562_BD",
+                    "skuId": "1137691368"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000368,
+                10000619
+            ],
+            "clickTrace": "query:;nid:190300562;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:190300562_BD;price:34;client:desktop;supplier_id:700508349042;asc_category_id:10000619;item_id:190300562;sku_id:1137691368;shop_id:149170",
+            "addToCartSkus": [
+                {
+                    "sku": "190300562_BD-1137691368",
+                    "skuId": "1137691368",
+                    "count": 0
+                }
+            ],
+            "itemId": "190300562",
+            "skuId": "1137691368",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "water proof kitchen apron",
+            "nid": "211609739",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "211609739",
+                "scene_pre": "search",
+                "current_price": "94",
+                "x_sku_ids": "1161414960",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "211609739"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i211609739-s1161414960.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1c187b69733149c11db040ff95a8f273.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "94",
+            "promotionId": "null",
+            "priceShow": "৳ 94",
+            "discount": "-62%",
+            "ratingScore": "4.73684",
+            "review": "19",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "211609739_BD-1161414960",
+            "sku": "211609739_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508883688",
+            "mainSellerId": "",
+            "sellerName": "Budget Shop Within 100 Taka",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1c187b69733149c11db040ff95a8f273.jpg",
+                    "productUrl": "/products/-i211609739-s1161414960.html",
+                    "sku": "211609739_BD",
+                    "skuId": "1161414960"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000368,
+                10000622
+            ],
+            "clickTrace": "query:;nid:211609739;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:211609739_BD;price:94;client:desktop;supplier_id:700508883688;asc_category_id:10000622;item_id:211609739;sku_id:1161414960;shop_id:199160",
+            "addToCartSkus": [
+                {
+                    "sku": "211609739_BD-1161414960",
+                    "skuId": "1161414960",
+                    "count": 0
+                }
+            ],
+            "itemId": "211609739",
+            "skuId": "1161414960",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Waterproof Kitchen Apron- China",
+            "nid": "182637805",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "182637805",
+                "scene_pre": "search",
+                "current_price": "130",
+                "x_sku_ids": "1126581816",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "182637805"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i182637805-s1126581816.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a1711ede1fe82e8471ba0ffce83bb4cd.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "130",
+            "promotionId": "null",
+            "priceShow": "৳ 130",
+            "discount": "-48%",
+            "ratingScore": "4.41322",
+            "review": "121",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "182637805_BD-1126581816",
+            "sku": "182637805_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1033055",
+            "mainSellerId": "",
+            "sellerName": "MRI COLLECTION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a1711ede1fe82e8471ba0ffce83bb4cd.jpg",
+                    "productUrl": "/products/-i182637805-s1126581816.html",
+                    "sku": "182637805_BD",
+                    "skuId": "1126581816"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000368,
+                10000622
+            ],
+            "clickTrace": "query:;nid:182637805;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:182637805_BD;price:130;client:desktop;supplier_id:1033055;asc_category_id:10000622;item_id:182637805;sku_id:1126581816;shop_id:39032",
+            "addToCartSkus": [
+                {
+                    "sku": "182637805_BD-1126581816",
+                    "skuId": "1126581816",
+                    "count": 0
+                }
+            ],
+            "itemId": "182637805",
+            "skuId": "1126581816",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Wooden Kitchen Tissue Holder টিস্যু - Brown",
+            "nid": "156834898",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "156834898",
+                "scene_pre": "search",
+                "current_price": "179",
+                "x_sku_ids": "1086724425",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "156834898"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i156834898-s1086724425.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/6fabeb10d489e031bac4b323241e73da.jpg",
+            "originalPrice": "499.00",
+            "originalPriceShow": "৳ 499",
+            "price": "179",
+            "promotionId": "null",
+            "priceShow": "৳ 179",
+            "discount": "-64%",
+            "ratingScore": "4.63194",
+            "review": "144",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "156834898_BD-1086724425",
+            "sku": "156834898_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1034124",
+            "mainSellerId": "",
+            "sellerName": "Feriwala BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/6fabeb10d489e031bac4b323241e73da.jpg",
+                    "productUrl": "/products/-i156834898-s1086724425.html",
+                    "sku": "156834898_BD",
+                    "skuId": "1086724425"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000368,
+                10000623
+            ],
+            "clickTrace": "query:;nid:156834898;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:156834898_BD;price:179;client:desktop;supplier_id:1034124;asc_category_id:10000623;item_id:156834898;sku_id:1086724425;shop_id:40075",
+            "addToCartSkus": [
+                {
+                    "sku": "156834898_BD-1086724425",
+                    "skuId": "1086724425",
+                    "count": 0
+                }
+            ],
+            "itemId": "156834898",
+            "skuId": "1086724425",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Oven Gloves - Printed",
+            "nid": "177742724",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "177742724",
+                "scene_pre": "search",
+                "current_price": "49",
+                "x_sku_ids": "1117820279",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "177742724"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i177742724-s1117820279.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/0a22bbb9598f549e6b635ba7594c4b21.jpg",
+            "originalPrice": "285.00",
+            "originalPriceShow": "৳ 285",
+            "price": "49",
+            "promotionId": "null",
+            "priceShow": "৳ 49",
+            "discount": "-83%",
+            "ratingScore": "4.34783",
+            "review": "138",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "177742724_BD-1117820279",
+            "sku": "177742724_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Household Item",
+                "Color: Printed",
+                "Main Material: Cotton"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507779051",
+            "mainSellerId": "",
+            "sellerName": "AJP Collection",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/0a22bbb9598f549e6b635ba7594c4b21.jpg",
+                    "productUrl": "/products/-i177742724-s1117820279.html",
+                    "sku": "177742724_BD",
+                    "skuId": "1117820279"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000615
+            ],
+            "clickTrace": "query:;nid:177742724;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:177742724_BD;price:49;client:desktop;supplier_id:700507779051;asc_category_id:10000615;item_id:177742724;sku_id:1117820279;shop_id:109746",
+            "addToCartSkus": [
+                {
+                    "sku": "177742724_BD-1117820279",
+                    "skuId": "1117820279",
+                    "count": 0
+                }
+            ],
+            "itemId": "177742724",
+            "skuId": "1117820279",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Standing Kitchen Boti Folding Boti /Table Boti/Ranch free",
+            "nid": "223323293",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223323293",
+                "scene_pre": "search",
+                "current_price": "410",
+                "x_sku_ids": "1169413310",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "223323293"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i223323293-s1169413310.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4a9f43a75186d0e4c8735db8c2e4676a.jpg",
+            "originalPrice": "1150.00",
+            "originalPriceShow": "৳ 1,150",
+            "price": "410",
+            "promotionId": "null",
+            "priceShow": "৳ 410",
+            "discount": "-64%",
+            "ratingScore": "4.78947",
+            "review": "38",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223323293_BD-1169413310",
+            "sku": "223323293_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508541689",
+            "mainSellerId": "",
+            "sellerName": "Glass Ware (KHL)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4a9f43a75186d0e4c8735db8c2e4676a.jpg",
+                    "productUrl": "/products/-i223323293-s1169413310.html",
+                    "sku": "223323293_BD",
+                    "skuId": "1169413310"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000615
+            ],
+            "clickTrace": "query:;nid:223323293;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:223323293_BD;price:410;client:desktop;supplier_id:700508541689;asc_category_id:10000615;item_id:223323293;sku_id:1169413310;shop_id:167747",
+            "addToCartSkus": [
+                {
+                    "sku": "223323293_BD-1169413310",
+                    "skuId": "1169413310",
+                    "count": 0
+                }
+            ],
+            "itemId": "223323293",
+            "skuId": "1169413310",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "5Pair 10Pcs Bamboo Chopsticks",
+            "nid": "174408813",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "174408813",
+                "scene_pre": "search",
+                "current_price": "96",
+                "x_sku_ids": "1111524546",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "174408813"
+            },
+            "productUrl": "//www.daraz.com.bd/products/5-10-i174408813-s1111524546.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/c104314b3f6c81fff89214887c4c5416.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "96",
+            "promotionId": "null",
+            "priceShow": "৳ 96",
+            "discount": "-52%",
+            "ratingScore": "4.61719",
+            "review": "128",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "174408813_BD-1111524546",
+            "sku": "174408813_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504959163",
+            "mainSellerId": "",
+            "sellerName": "Twin",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/c104314b3f6c81fff89214887c4c5416.jpg",
+                    "productUrl": "/products/5-10-i174408813-s1111524546.html",
+                    "sku": "174408813_BD",
+                    "skuId": "1111524546"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000363,
+                10000565
+            ],
+            "clickTrace": "query:;nid:174408813;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:174408813_BD;price:96;client:desktop;supplier_id:700504959163;asc_category_id:10000565;item_id:174408813;sku_id:1111524546;shop_id:53090",
+            "addToCartSkus": [
+                {
+                    "sku": "174408813_BD-1111524546",
+                    "skuId": "1111524546",
+                    "count": 0
+                }
+            ],
+            "itemId": "174408813",
+            "skuId": "1111524546",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Stainless Steel Fish Scale Cleaner - Silver",
+            "nid": "130944603",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "130944603",
+                "scene_pre": "search",
+                "current_price": "35",
+                "x_sku_ids": "1050956069",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "130944603"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i130944603-s1050956069.html?search=1",
+            "image": "https://static-01.daraz.com.bd/original/d3479f3f45ef9678cd62b5f20e0af595.jpg",
+            "originalPrice": "345.00",
+            "originalPriceShow": "৳ 345",
+            "price": "35",
+            "promotionId": "null",
+            "priceShow": "৳ 35",
+            "discount": "-90%",
+            "ratingScore": "4.64706",
+            "review": "68",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "130944603_BD-1050956069",
+            "sku": "130944603_BD",
+            "skus": [],
+            "description": [
+                "Brand: Whole Sale Bazar",
+                "Product Type: Fish Scale Cleaner",
+                "Color: Silver"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "3810",
+            "mainSellerId": "",
+            "sellerName": "Naaptol",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/original/d3479f3f45ef9678cd62b5f20e0af595.jpg",
+                    "productUrl": "/products/-i130944603-s1050956069.html",
+                    "sku": "130944603_BD",
+                    "skuId": "1050956069"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000615
+            ],
+            "clickTrace": "query:;nid:130944603;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:130944603_BD;price:35;client:desktop;supplier_id:3810;asc_category_id:10000615;item_id:130944603;sku_id:1050956069;shop_id:3976",
+            "addToCartSkus": [
+                {
+                    "sku": "130944603_BD-1050956069",
+                    "skuId": "1050956069",
+                    "count": 0
+                }
+            ],
+            "itemId": "130944603",
+            "skuId": "1050956069",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Silicon Food Cover Set of 6pcs Kitchen Reusable Silicone Stretch Cover Seal Lid Preservation Vacuum Food Storage Wrap Bowl Pot Cover",
+            "nid": "207650302",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "207650302",
+                "scene_pre": "search",
+                "current_price": "160",
+                "x_sku_ids": "1157439420",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "207650302"
+            },
+            "productUrl": "//www.daraz.com.bd/products/6-i207650302-s1157439420.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9f311cc2da01f4bcb57ab1f222f88531.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "160",
+            "promotionId": "null",
+            "priceShow": "৳ 160",
+            "discount": "-54%",
+            "ratingScore": "4.61225",
+            "review": "49",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "207650302_BD-1157439420",
+            "sku": "207650302_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505781291",
+            "mainSellerId": "",
+            "sellerName": "Ardi Accessories",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9f311cc2da01f4bcb57ab1f222f88531.jpg",
+                    "productUrl": "/products/6-i207650302-s1157439420.html",
+                    "sku": "207650302_BD",
+                    "skuId": "1157439420"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000369,
+                10000629
+            ],
+            "clickTrace": "query:;nid:207650302;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:207650302_BD;price:160;client:desktop;supplier_id:700505781291;asc_category_id:10000629;item_id:207650302;sku_id:1157439420;shop_id:65926",
+            "addToCartSkus": [
+                {
+                    "sku": "207650302_BD-1157439420",
+                    "skuId": "1157439420",
+                    "count": 0
+                }
+            ],
+            "itemId": "207650302",
+            "skuId": "1157439420",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "10 Kgs Weight Measure Spices Vegetable Liquids, Digital Kitchen Scale Electronic Digital Kitchen Weighing Scale for Kitchen/Weight Machine for Kitchen,",
+            "nid": "197880099",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "197880099",
+                "scene_pre": "search",
+                "current_price": "263",
+                "x_sku_ids": "1144643805",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "197880099"
+            },
+            "productUrl": "//www.daraz.com.bd/products/10-i197880099-s1144643805.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/355fe26b38e5b296af58bd0665ea8ce0.jpg",
+            "originalPrice": "490.00",
+            "originalPriceShow": "৳ 490",
+            "price": "263",
+            "promotionId": "null",
+            "priceShow": "৳ 263",
+            "discount": "-46%",
+            "ratingScore": "4.5",
+            "review": "16",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "197880099_BD-1144643805",
+            "sku": "197880099_BD",
+            "skus": [],
+            "description": [
+                "Automatic switch off",
+                "Low battery and over load indication",
+                "Automatic zero resetting",
+                "Display LCD",
+                "Power supply 2AA x 1.5V battery Inlcuded"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508631279",
+            "mainSellerId": "",
+            "sellerName": "Tahminas Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/355fe26b38e5b296af58bd0665ea8ce0.jpg",
+                    "productUrl": "/products/10-i197880099-s1144643805.html",
+                    "sku": "197880099_BD",
+                    "skuId": "1144643805"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000600
+            ],
+            "clickTrace": "query:;nid:197880099;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:197880099_BD;price:263;client:desktop;supplier_id:700508631279;asc_category_id:10000600;item_id:197880099;sku_id:1144643805;shop_id:174832",
+            "addToCartSkus": [
+                {
+                    "sku": "197880099_BD-1144643805",
+                    "skuId": "1144643805",
+                    "count": 0
+                }
+            ],
+            "itemId": "197880099",
+            "skuId": "1144643805",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Electric Hand Mixer Espresso Cappuccino Coffee Maker",
+            "nid": "132334743",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132334743",
+                "scene_pre": "search",
+                "current_price": "95",
+                "x_sku_ids": "1053288255",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "132334743"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i132334743-s1053288255.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/7747704230598690df1a2f026c8aa4c3.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "95",
+            "promotionId": "null",
+            "priceShow": "৳ 95",
+            "discount": "-68%",
+            "ratingScore": "4.18518",
+            "review": "189",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132334743_BD-1053288255",
+            "sku": "132334743_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1036261",
+            "mainSellerId": "",
+            "sellerName": "Saad International BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/7747704230598690df1a2f026c8aa4c3.jpg",
+                    "productUrl": "/products/-i132334743-s1053288255.html",
+                    "sku": "132334743_BD",
+                    "skuId": "1053288255"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000366,
+                10000594
+            ],
+            "clickTrace": "query:;nid:132334743;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:132334743_BD;price:95;client:desktop;supplier_id:1036261;asc_category_id:10000594;item_id:132334743;sku_id:1053288255;shop_id:42141",
+            "addToCartSkus": [
+                {
+                    "sku": "132334743_BD-1053288255",
+                    "skuId": "1053288255",
+                    "count": 0
+                }
+            ],
+            "itemId": "132334743",
+            "skuId": "1053288255",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Marco Stainless Steel Tea Spoon 6pcs (length 6 inches)",
+            "nid": "139940348",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "139940348",
+                "scene_pre": "search",
+                "current_price": "151",
+                "x_sku_ids": "1063258044",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "139940348"
+            },
+            "productUrl": "//www.daraz.com.bd/products/6-6-i139940348-s1063258044.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2b63f79842873e5eb0f24fe5a1e31af3.jpg",
+            "originalPrice": "190.00",
+            "originalPriceShow": "৳ 190",
+            "price": "151",
+            "promotionId": "null",
+            "priceShow": "৳ 151",
+            "discount": "-21%",
+            "ratingScore": "4.94667",
+            "review": "150",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "139940348_BD-1063258044",
+            "sku": "139940348_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506387193",
+            "mainSellerId": "",
+            "sellerName": "Click N Pick bd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2b63f79842873e5eb0f24fe5a1e31af3.jpg",
+                    "productUrl": "/products/6-6-i139940348-s1063258044.html",
+                    "sku": "139940348_BD",
+                    "skuId": "1063258044"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000363,
+                10000565
+            ],
+            "clickTrace": "query:;nid:139940348;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:139940348_BD;price:151;client:desktop;supplier_id:700506387193;asc_category_id:10000565;item_id:139940348;sku_id:1063258044;shop_id:75858",
+            "addToCartSkus": [
+                {
+                    "sku": "139940348_BD-1063258044",
+                    "skuId": "1063258044",
+                    "count": 0
+                }
+            ],
+            "itemId": "139940348",
+            "skuId": "1063258044",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Portable Mini Chaleur Sealing Machine Sealer",
+            "nid": "130376223",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "130376223",
+                "scene_pre": "search",
+                "current_price": "106",
+                "x_sku_ids": "1050254392",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "130376223"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i130376223-s1050254392.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e706bdf0ac9903068b98f382cb3a84c1.jpg",
+            "originalPrice": "401.00",
+            "originalPriceShow": "৳ 401",
+            "price": "106",
+            "promotionId": "null",
+            "priceShow": "৳ 106",
+            "discount": "-74%",
+            "ratingScore": "3.95161",
+            "review": "62",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "130376223_BD-1050254392",
+            "sku": "130376223_BD",
+            "skus": [],
+            "description": [
+                "Before use, install two batteries; open the lock cover, press and preheat it for 5 seconds.",
+                "Put the plastic bags that need to be sealed into the sealing machine, pay attent"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504941160",
+            "mainSellerId": "",
+            "sellerName": "New Offer",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e706bdf0ac9903068b98f382cb3a84c1.jpg",
+                    "productUrl": "/products/-i130376223-s1050254392.html",
+                    "sku": "130376223_BD",
+                    "skuId": "1050254392"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000615
+            ],
+            "clickTrace": "query:;nid:130376223;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:130376223_BD;price:106;client:desktop;supplier_id:700504941160;asc_category_id:10000615;item_id:130376223;sku_id:1050254392;shop_id:52868",
+            "addToCartSkus": [
+                {
+                    "sku": "130376223_BD-1050254392",
+                    "skuId": "1050254392",
+                    "count": 0
+                }
+            ],
+            "itemId": "130376223",
+            "skuId": "1050254392",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Knife Sharpener Mechine",
+            "nid": "185883536",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "185883536",
+                "scene_pre": "search",
+                "current_price": "235",
+                "x_sku_ids": "1131824331",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "185883536"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i185883536-s1131824331.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/74e0d9c5a120794d4b449ea0a9a6965b.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "235",
+            "promotionId": "null",
+            "priceShow": "৳ 235",
+            "discount": "-33%",
+            "ratingScore": "4.61194",
+            "review": "67",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "185883536_BD-1131824331",
+            "sku": "185883536_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508358341",
+            "mainSellerId": "",
+            "sellerName": "Serve Kitchen",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/74e0d9c5a120794d4b449ea0a9a6965b.jpg",
+                    "productUrl": "/products/-i185883536-s1131824331.html",
+                    "sku": "185883536_BD",
+                    "skuId": "1131824331"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000616,
+                10000790
+            ],
+            "clickTrace": "query:;nid:185883536;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:185883536_BD;price:235;client:desktop;supplier_id:700508358341;asc_category_id:10000790;item_id:185883536;sku_id:1131824331;shop_id:150999",
+            "addToCartSkus": [
+                {
+                    "sku": "185883536_BD-1131824331",
+                    "skuId": "1131824331",
+                    "count": 0
+                }
+            ],
+            "itemId": "185883536",
+            "skuId": "1131824331",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fish Clean Scales with Cover fish scaler scraper remover fish skin brush scraping fishing - 17",
+            "nid": "212547383",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "212547383",
+                "scene_pre": "search",
+                "current_price": "99",
+                "x_sku_ids": "1162101316",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "212547383"
+            },
+            "productUrl": "//www.daraz.com.bd/products/17-i212547383-s1162101316.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/27272cfd0ed78bce38ebd9d13bb5cf8d.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "99",
+            "promotionId": "null",
+            "priceShow": "৳ 99",
+            "discount": "-72%",
+            "ratingScore": "4.6",
+            "review": "15",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "212547383_BD-1162101316",
+            "sku": "212547383_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508604204",
+            "mainSellerId": "",
+            "sellerName": "FFS COLLECTION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/27272cfd0ed78bce38ebd9d13bb5cf8d.jpg",
+                    "productUrl": "/products/17-i212547383-s1162101316.html",
+                    "sku": "212547383_BD",
+                    "skuId": "1162101316"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000615
+            ],
+            "clickTrace": "query:;nid:212547383;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:212547383_BD;price:99;client:desktop;supplier_id:700508604204;asc_category_id:10000615;item_id:212547383;sku_id:1162101316;shop_id:171836",
+            "addToCartSkus": [
+                {
+                    "sku": "212547383_BD-1162101316",
+                    "skuId": "1162101316",
+                    "count": 0
+                }
+            ],
+            "itemId": "212547383",
+            "skuId": "1162101316",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Laaibah Rutimaker (Model ECO-275) (Wooden Ruti Maker)",
+            "nid": "122399388",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "122399388",
+                "scene_pre": "search",
+                "current_price": "1690",
+                "x_sku_ids": "1042373154",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "122399388"
+            },
+            "productUrl": "//www.daraz.com.bd/products/eco-275-i122399388-s1042373154.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/767c60b5fc9e2fc47932383ebee30db3.jpg",
+            "originalPrice": "2000.00",
+            "originalPriceShow": "৳ 2,000",
+            "price": "1690",
+            "promotionId": "null",
+            "priceShow": "৳ 1,690",
+            "discount": "-16%",
+            "ratingScore": "4.49398",
+            "review": "332",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "122399388_BD-1042373154",
+            "sku": "122399388_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1026087",
+            "mainSellerId": "",
+            "sellerName": "Laaibah Ruti Maker Factory",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/767c60b5fc9e2fc47932383ebee30db3.jpg",
+                    "productUrl": "/products/eco-275-i122399388-s1042373154.html",
+                    "sku": "122399388_BD",
+                    "skuId": "1042373154"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000615
+            ],
+            "clickTrace": "query:;nid:122399388;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:122399388_BD;price:1690;client:desktop;supplier_id:1026087;asc_category_id:10000615;item_id:122399388;sku_id:1042373154;shop_id:32236",
+            "addToCartSkus": [
+                {
+                    "sku": "122399388_BD-1042373154",
+                    "skuId": "1042373154",
+                    "count": 0
+                }
+            ],
+            "itemId": "122399388",
+            "skuId": "1042373154",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "14 Pcs Plastic Lid Set Package",
+            "nid": "216456407",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "216456407",
+                "scene_pre": "search",
+                "current_price": "160",
+                "x_sku_ids": "1164704487",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "216456407"
+            },
+            "productUrl": "//www.daraz.com.bd/products/14-i216456407-s1164704487.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2dd605bd0b5546949fb62631e862c074.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "160",
+            "promotionId": "null",
+            "priceShow": "৳ 160",
+            "discount": "-36%",
+            "ratingScore": "4.63492",
+            "review": "63",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "216456407_BD-1164704487",
+            "sku": "216456407_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509750024",
+            "mainSellerId": "",
+            "sellerName": "Alzeena Mart (KHL)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2dd605bd0b5546949fb62631e862c074.jpg",
+                    "productUrl": "/products/14-i216456407-s1164704487.html",
+                    "sku": "216456407_BD",
+                    "skuId": "1164704487"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000369,
+                10000629
+            ],
+            "clickTrace": "query:;nid:216456407;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:216456407_BD;price:160;client:desktop;supplier_id:700509750024;asc_category_id:10000629;item_id:216456407;sku_id:1164704487;shop_id:216150",
+            "addToCartSkus": [
+                {
+                    "sku": "216456407_BD-1164704487",
+                    "skuId": "1164704487",
+                    "count": 0
+                }
+            ],
+            "itemId": "216456407",
+            "skuId": "1164704487",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Stove Spark Lighter - Silver",
+            "nid": "158324695",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "158324695",
+                "scene_pre": "search",
+                "current_price": "49.00",
+                "x_sku_ids": "1089714911",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "158324695"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i158324695-s1089714911.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0565be6e6fbfcdf1efd6bec2c1412b33.jpg",
+            "originalPrice": "199.00",
+            "originalPriceShow": "৳ 199",
+            "price": "49.00",
+            "promotionId": "null",
+            "priceShow": "৳ 49",
+            "discount": "-75%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "158324695_BD-1089714911",
+            "sku": "158324695_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1034221",
+            "mainSellerId": "",
+            "sellerName": "Women World",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0565be6e6fbfcdf1efd6bec2c1412b33.jpg",
+                    "productUrl": "/products/-i158324695-s1089714911.html",
+                    "sku": "158324695_BD",
+                    "skuId": "1089714911"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000615
+            ],
+            "clickTrace": "query:;nid:158324695;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:158324695_BD;price:49.00;client:desktop;supplier_id:1034221;asc_category_id:10000615;item_id:158324695;sku_id:1089714911;shop_id:40168",
+            "addToCartSkus": [
+                {
+                    "sku": "158324695_BD-1089714911",
+                    "skuId": "1089714911",
+                    "count": 0
+                }
+            ],
+            "itemId": "158324695",
+            "skuId": "1089714911",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pump Plastic Bottle 500ML Black",
+            "nid": "182467885",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "182467885",
+                "scene_pre": "search",
+                "current_price": "40.00",
+                "x_sku_ids": "1126313330",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "182467885"
+            },
+            "productUrl": "//www.daraz.com.bd/products/500ml-i182467885-s1126313330.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/d3e8c31e8462ae11eb823262a07536b0.jpg",
+            "originalPrice": "140.00",
+            "originalPriceShow": "৳ 140",
+            "price": "40.00",
+            "promotionId": "null",
+            "priceShow": "৳ 40",
+            "discount": "-71%",
+            "ratingScore": "4.74429",
+            "review": "919",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "182467885_BD-1126313330",
+            "sku": "182467885_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507995047",
+            "mainSellerId": "",
+            "sellerName": "PET PLASTIC MANUFACTURE",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/d3e8c31e8462ae11eb823262a07536b0.jpg",
+                    "productUrl": "/products/500ml-i182467885-s1126313330.html",
+                    "sku": "182467885_BD",
+                    "skuId": "1126313330"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000613
+            ],
+            "clickTrace": "query:;nid:182467885;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:182467885_BD;price:40.00;client:desktop;supplier_id:700507995047;asc_category_id:10000613;item_id:182467885;sku_id:1126313330;shop_id:121414",
+            "addToCartSkus": [
+                {
+                    "sku": "182467885_BD-1126313330",
+                    "skuId": "1126313330",
+                    "count": 0
+                }
+            ],
+            "itemId": "182467885",
+            "skuId": "1126313330",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "White Kitchen Plastic Tea Filter Strainer ( Tea Chakni) - 1pcs",
+            "nid": "202120578",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "202120578",
+                "scene_pre": "search",
+                "current_price": "8",
+                "x_sku_ids": "1149710226",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "202120578"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i202120578-s1149710226.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ecc9797ebc63b9e77398616ff17e9092.jpg",
+            "originalPrice": "9.00",
+            "originalPriceShow": "৳ 9",
+            "price": "8",
+            "promotionId": "null",
+            "priceShow": "৳ 8",
+            "discount": "-11%",
+            "ratingScore": "4.69231",
+            "review": "26",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "202120578_BD-1149710226",
+            "sku": "202120578_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "6185",
+            "mainSellerId": "",
+            "sellerName": "Ideal Product",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ecc9797ebc63b9e77398616ff17e9092.jpg",
+                    "productUrl": "/products/1-i202120578-s1149710226.html",
+                    "sku": "202120578_BD",
+                    "skuId": "1149710226"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000603
+            ],
+            "clickTrace": "query:;nid:202120578;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:202120578_BD;price:8;client:desktop;supplier_id:6185;asc_category_id:10000603;item_id:202120578;sku_id:1149710226;shop_id:6308",
+            "addToCartSkus": [
+                {
+                    "sku": "202120578_BD-1149710226",
+                    "skuId": "1149710226",
+                    "count": 0
+                }
+            ],
+            "itemId": "202120578",
+            "skuId": "1149710226",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Measerment Cup Set 9 piece set - White",
+            "nid": "150700686",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "150700686",
+                "scene_pre": "search",
+                "current_price": "30",
+                "x_sku_ids": "1077406292",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "150700686"
+            },
+            "productUrl": "//www.daraz.com.bd/products/9-i150700686-s1077406292.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f0343574808e2ed9eb7d484453bac2df.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "30",
+            "promotionId": "null",
+            "priceShow": "৳ 30",
+            "discount": "-75%",
+            "ratingScore": "4.70172",
+            "review": "1046",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "150700686_BD-1077406292",
+            "sku": "150700686_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4208",
+            "mainSellerId": "",
+            "sellerName": "Shop Today Bd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f0343574808e2ed9eb7d484453bac2df.jpg",
+                    "productUrl": "/products/9-i150700686-s1077406292.html",
+                    "sku": "150700686_BD",
+                    "skuId": "1077406292"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000600
+            ],
+            "clickTrace": "query:;nid:150700686;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:150700686_BD;price:30;client:desktop;supplier_id:4208;asc_category_id:10000600;item_id:150700686;sku_id:1077406292;shop_id:4314",
+            "addToCartSkus": [
+                {
+                    "sku": "150700686_BD-1077406292",
+                    "skuId": "1077406292",
+                    "count": 0
+                }
+            ],
+            "itemId": "150700686",
+            "skuId": "1077406292",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Best Quality Flexible Straws - 100pcs",
+            "nid": "189090382",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "189090382",
+                "scene_pre": "search",
+                "current_price": "49.00",
+                "x_sku_ids": "1136934806",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "189090382"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100-i189090382-s1136934806.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/710e4cf2f5259a987d1253045bc2bae6.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "49.00",
+            "promotionId": "null",
+            "priceShow": "৳ 49",
+            "discount": "-59%",
+            "ratingScore": "4.90741",
+            "review": "54",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "189090382_BD-1136934806",
+            "sku": "189090382_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123682815",
+            "brandName": "Legency Foods",
+            "sellerId": "1041949",
+            "mainSellerId": "",
+            "sellerName": "Shop to Home Delivery.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/710e4cf2f5259a987d1253045bc2bae6.jpg",
+                    "productUrl": "/products/100-i189090382-s1136934806.html",
+                    "sku": "189090382_BD",
+                    "skuId": "1136934806"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000364,
+                10000572
+            ],
+            "clickTrace": "query:;nid:189090382;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:189090382_BD;price:49.00;client:desktop;supplier_id:1041949;asc_category_id:10000572;item_id:189090382;sku_id:1136934806;shop_id:47678",
+            "addToCartSkus": [
+                {
+                    "sku": "189090382_BD-1136934806",
+                    "skuId": "1136934806",
+                    "count": 0
+                }
+            ],
+            "itemId": "189090382",
+            "skuId": "1136934806",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "4Pcs Straw for Kids & Party Useful for Juice Drinks Mock Tail in Attractive Designs (Assorted Print's & Multicolor)",
+            "nid": "191222666",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "191222666",
+                "scene_pre": "search",
+                "current_price": "98",
+                "x_sku_ids": "1138350395",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "191222666"
+            },
+            "productUrl": "//www.daraz.com.bd/products/4-i191222666-s1138350395.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/dccafff3d4d8dd76a324ce57ef964b65.jpg",
+            "originalPrice": "260.00",
+            "originalPriceShow": "৳ 260",
+            "price": "98",
+            "promotionId": "null",
+            "priceShow": "৳ 98",
+            "discount": "-62%",
+            "ratingScore": "4.69767",
+            "review": "43",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "191222666_BD-1138350395",
+            "sku": "191222666_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1648",
+            "mainSellerId": "",
+            "sellerName": "24 Bazaar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/dccafff3d4d8dd76a324ce57ef964b65.jpg",
+                    "productUrl": "/products/4-i191222666-s1138350395.html",
+                    "sku": "191222666_BD",
+                    "skuId": "1138350395"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000364,
+                10000572
+            ],
+            "clickTrace": "query:;nid:191222666;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:191222666_BD;price:98;client:desktop;supplier_id:1648;asc_category_id:10000572;item_id:191222666;sku_id:1138350395;shop_id:2363",
+            "addToCartSkus": [
+                {
+                    "sku": "191222666_BD-1138350395",
+                    "skuId": "1138350395",
+                    "count": 0
+                }
+            ],
+            "itemId": "191222666",
+            "skuId": "1138350395",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Oil Bottle Stopper Super Quality",
+            "nid": "224897059",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "224897059",
+                "scene_pre": "search",
+                "current_price": "68",
+                "x_sku_ids": "1170402389",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "224897059"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i224897059-s1170402389.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8f791294e9a5fe12108a6826ceae72d1.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "68",
+            "promotionId": "null",
+            "priceShow": "৳ 68",
+            "discount": "-55%",
+            "ratingScore": "4.96154",
+            "review": "26",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "224897059_BD-1170402389",
+            "sku": "224897059_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1034197",
+            "mainSellerId": "",
+            "sellerName": "Mia Trade International (KHL)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8f791294e9a5fe12108a6826ceae72d1.jpg",
+                    "productUrl": "/products/-i224897059-s1170402389.html",
+                    "sku": "224897059_BD",
+                    "skuId": "1170402389"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000613
+            ],
+            "clickTrace": "query:;nid:224897059;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:224897059_BD;price:68;client:desktop;supplier_id:1034197;asc_category_id:10000613;item_id:224897059;sku_id:1170402389;shop_id:40144",
+            "addToCartSkus": [
+                {
+                    "sku": "224897059_BD-1170402389",
+                    "skuId": "1170402389",
+                    "count": 0
+                }
+            ],
+            "itemId": "224897059",
+            "skuId": "1170402389",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Can & Bottle Opener",
+            "nid": "164310832",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "164310832",
+                "scene_pre": "search",
+                "current_price": "195.00",
+                "x_sku_ids": "1097028055",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "164310832"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i164310832-s1097028055.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/13eb4a6f445af5ec9aee85ef4d7ae666.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "195.00",
+            "promotionId": "null",
+            "priceShow": "৳ 195",
+            "discount": "-70%",
+            "ratingScore": "4.78571",
+            "review": "28",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "164310832_BD-1097028055",
+            "sku": "164310832_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507944066",
+            "mainSellerId": "",
+            "sellerName": "Rasui Ghar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/13eb4a6f445af5ec9aee85ef4d7ae666.jpg",
+                    "productUrl": "/products/-i164310832-s1097028055.html",
+                    "sku": "164310832_BD",
+                    "skuId": "1097028055"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000601
+            ],
+            "clickTrace": "query:;nid:164310832;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:164310832_BD;price:195.00;client:desktop;supplier_id:700507944066;asc_category_id:10000601;item_id:164310832;sku_id:1097028055;shop_id:120118",
+            "addToCartSkus": [
+                {
+                    "sku": "164310832_BD-1097028055",
+                    "skuId": "1097028055",
+                    "count": 0
+                }
+            ],
+            "itemId": "164310832",
+            "skuId": "1097028055",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Manual Can Openers & Cordless Tin Opener with Lids off Jar Opener",
+            "nid": "197135614",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "197135614",
+                "scene_pre": "search",
+                "current_price": "299.00",
+                "x_sku_ids": "1143752028",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "197135614"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ids-i197135614-s1143752028.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ce2b8b7728da6a032eef46d15f1c8deb.png",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "299.00",
+            "promotionId": "null",
+            "priceShow": "৳ 299",
+            "discount": "-25%",
+            "ratingScore": "4.8125",
+            "review": "16",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "197135614_BD-1143752028",
+            "sku": "197135614_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507944114",
+            "mainSellerId": "",
+            "sellerName": "Mahadi Trade",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ce2b8b7728da6a032eef46d15f1c8deb.png",
+                    "productUrl": "/products/ids-i197135614-s1143752028.html",
+                    "sku": "197135614_BD",
+                    "skuId": "1143752028"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000601
+            ],
+            "clickTrace": "query:;nid:197135614;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:197135614_BD;price:299.00;client:desktop;supplier_id:700507944114;asc_category_id:10000601;item_id:197135614;sku_id:1143752028;shop_id:120676",
+            "addToCartSkus": [
+                {
+                    "sku": "197135614_BD-1143752028",
+                    "skuId": "1143752028",
+                    "count": 0
+                }
+            ],
+            "itemId": "197135614",
+            "skuId": "1143752028",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Large Handy and Compact Chopper",
+            "nid": "135194461",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "135194461",
+                "scene_pre": "search",
+                "current_price": "270.00",
+                "x_sku_ids": "1117644557",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "135194461"
+            },
+            "productUrl": "//www.daraz.com.bd/products/large-handy-and-compact-chopper-i135194461-s1117644557.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/075b5ff706cf44e2df1a9d7525ff2369.jpg",
+            "originalPrice": "580.00",
+            "originalPriceShow": "৳ 580",
+            "price": "270.00",
+            "promotionId": "null",
+            "priceShow": "৳ 270",
+            "discount": "-53%",
+            "ratingScore": "4.45126",
+            "review": "277",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "135194461_BD-1117644557",
+            "sku": "135194461_BD",
+            "skus": [],
+            "description": [
+                "ShadaMon Shop",
+                "Made In India",
+                "Sturdy 3-blade design made from Stainless Steel",
+                "Unique string function to chop vegetables and fruits with ease",
+                "No electricity required",
+                "Easy to use - easy to detach",
+                "unbreakable ABS plastic for long-lasting use",
+                "Colour: Green, Material: Plastic",
+                "Package Contents: 1 Handy chopper"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1032375",
+            "mainSellerId": "",
+            "sellerName": "SHADA MON SHOP",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/075b5ff706cf44e2df1a9d7525ff2369.jpg",
+                    "productUrl": "/products/large-handy-and-compact-chopper-i135194461-s1117644557.html",
+                    "sku": "135194461_BD",
+                    "skuId": "1117644557"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/79014702da6b5eedc56b575d446af0d6.jpg",
+                    "productUrl": "/products/large-handy-and-compact-chopper-i135194461-s1161035389.html",
+                    "sku": "135194461_BD",
+                    "skuId": "1161035389"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000602
+            ],
+            "clickTrace": "query:;nid:135194461;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:135194461_BD;price:270.00;client:desktop;supplier_id:1032375;asc_category_id:10000602;item_id:135194461;sku_id:1117644557;shop_id:38373",
+            "addToCartSkus": [
+                {
+                    "sku": "135194461_BD-1117644557",
+                    "skuId": "1117644557",
+                    "count": 0
+                }
+            ],
+            "itemId": "135194461",
+            "skuId": "1117644557",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Measerment Cup Set - White",
+            "nid": "100768620",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "100768620",
+                "scene_pre": "search",
+                "current_price": "35.00",
+                "x_sku_ids": "1014754405",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "100768620"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i100768620-s1014754405.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/48da7e3c8b1c335c0cd9c67bf97fb276.jpg",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "35.00",
+            "promotionId": "null",
+            "priceShow": "৳ 35",
+            "discount": "-81%",
+            "ratingScore": "4.73018",
+            "review": "1249",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "100768620_BD-1014754405",
+            "sku": "100768620_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Measuring Cup Set",
+                "Color: White",
+                "Durable",
+                "Brand new product"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "2997",
+            "mainSellerId": "",
+            "sellerName": "Crockeries",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/48da7e3c8b1c335c0cd9c67bf97fb276.jpg",
+                    "productUrl": "/products/-i100768620-s1014754405.html",
+                    "sku": "100768620_BD",
+                    "skuId": "1014754405"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000600
+            ],
+            "clickTrace": "query:;nid:100768620;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:100768620_BD;price:35.00;client:desktop;supplier_id:2997;asc_category_id:10000600;item_id:100768620;sku_id:1014754405;shop_id:3339",
+            "addToCartSkus": [
+                {
+                    "sku": "100768620_BD-1014754405",
+                    "skuId": "1014754405",
+                    "count": 0
+                }
+            ],
+            "itemId": "100768620",
+            "skuId": "1014754405",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "2 Piecess Oil Brush Spatula Set-Multicolor",
+            "nid": "899018",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "2515500",
+                "scene_pre": "search",
+                "current_price": "77.00",
+                "x_sku_ids": "112204953",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "2515500"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-i2515500-s112204953.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/55171a0d3b1ce1400809625f23a26905.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "77.00",
+            "promotionId": "null",
+            "priceShow": "৳ 77",
+            "discount": "-49%",
+            "ratingScore": "4.4459",
+            "review": "536",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "MO857HL1CA908NAFAMZ-1269362",
+            "sku": "MO857HL1CA908NAFAMZ",
+            "skus": [],
+            "description": [
+                "2PCS Oil Brush",
+                "Main Material: Silicone",
+                "Size: Packet size, L-11.25\", W-5\"",
+                "Easy to Use and High Quality Product"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4667",
+            "mainSellerId": "",
+            "sellerName": "Modern Kitchen",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/55171a0d3b1ce1400809625f23a26905.jpg",
+                    "productUrl": "/products/2-i2515500-s112204953.html",
+                    "sku": "MO857HL1CA908NAFAMZ",
+                    "skuId": "112204953"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000610
+            ],
+            "clickTrace": "query:;nid:899018;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:MO857HL1CA908NAFAMZ;price:77.00;client:desktop;supplier_id:4667;asc_category_id:10000610;item_id:2515500;sku_id:112204953;shop_id:4715",
+            "addToCartSkus": [
+                {
+                    "sku": "MO857HL1CA908NAFAMZ-1269362",
+                    "skuId": "112204953",
+                    "count": 0
+                }
+            ],
+            "itemId": "2515500",
+            "skuId": "112204953",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Stainless Steel Food Tongs Kitchen Tongs Utensil",
+            "nid": "193666641",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "193666641",
+                "scene_pre": "search",
+                "current_price": "41.00",
+                "x_sku_ids": "1152926874",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "193666641"
+            },
+            "productUrl": "//www.daraz.com.bd/products/stainless-steel-food-tongs-kitchen-tongs-utensil-i193666641-s1152926874.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/17db5e83ccd4eaf7b729b02a0d43ea04.jpg",
+            "originalPrice": "130.00",
+            "originalPriceShow": "৳ 130",
+            "price": "41.00",
+            "promotionId": "null",
+            "priceShow": "৳ 41",
+            "discount": "-68%",
+            "ratingScore": "4.71698",
+            "review": "159",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "193666641_BD-1152926874",
+            "sku": "193666641_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123682815",
+            "brandName": "Legency Foods",
+            "sellerId": "1041949",
+            "mainSellerId": "",
+            "sellerName": "Shop to Home Delivery.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/17db5e83ccd4eaf7b729b02a0d43ea04.jpg",
+                    "productUrl": "/products/stainless-steel-food-tongs-kitchen-tongs-utensil-i193666641-s1152926874.html",
+                    "sku": "193666641_BD",
+                    "skuId": "1152926874"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/076432d4a90288383a45cc2b61ae7e65.jpg",
+                    "productUrl": "/products/stainless-steel-food-tongs-kitchen-tongs-utensil-i193666641-s1140241210.html",
+                    "sku": "193666641_BD",
+                    "skuId": "1140241210"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000365,
+                10000579
+            ],
+            "clickTrace": "query:;nid:193666641;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:193666641_BD;price:41.00;client:desktop;supplier_id:1041949;asc_category_id:10000579;item_id:193666641;sku_id:1152926874;shop_id:47678",
+            "addToCartSkus": [
+                {
+                    "sku": "193666641_BD-1152926874",
+                    "skuId": "1152926874",
+                    "count": 0
+                }
+            ],
+            "itemId": "193666641",
+            "skuId": "1152926874",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fresher Plastic Vinyl Film 60m Roll The best food wrapping paper for keeping food fresh",
+            "nid": "156940931",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "156940931",
+                "scene_pre": "search",
+                "current_price": "120",
+                "x_sku_ids": "1087012936",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "156940931"
+            },
+            "productUrl": "//www.daraz.com.bd/products/60-i156940931-s1087012936.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/39cb3dbacfad520f030ccabc798833ea.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "120",
+            "promotionId": "null",
+            "priceShow": "৳ 120",
+            "discount": "-40%",
+            "ratingScore": "4.7305",
+            "review": "141",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "156940931_BD-1087012936",
+            "sku": "156940931_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1020209",
+            "mainSellerId": "",
+            "sellerName": "Fairy Moon(CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/39cb3dbacfad520f030ccabc798833ea.jpg",
+                    "productUrl": "/products/60-i156940931-s1087012936.html",
+                    "sku": "156940931_BD",
+                    "skuId": "1087012936"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000369,
+                10000629
+            ],
+            "clickTrace": "query:;nid:156940931;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:156940931_BD;price:120;client:desktop;supplier_id:1020209;asc_category_id:10000629;item_id:156940931;sku_id:1087012936;shop_id:26444",
+            "addToCartSkus": [
+                {
+                    "sku": "156940931_BD-1087012936",
+                    "skuId": "1087012936",
+                    "count": 0
+                }
+            ],
+            "itemId": "156940931",
+            "skuId": "1087012936",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "10 Pcs Wooden Ice Cream Sticks",
+            "nid": "123101407",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "123101407",
+                "scene_pre": "search",
+                "current_price": "4",
+                "x_sku_ids": "1043216017",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "123101407"
+            },
+            "productUrl": "//www.daraz.com.bd/products/10-i123101407-s1043216017.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/754abe5483f08208d533f009f5045a66.jpg",
+            "originalPrice": "9.00",
+            "originalPriceShow": "৳ 9",
+            "price": "4",
+            "promotionId": "null",
+            "priceShow": "৳ 4",
+            "discount": "-56%",
+            "ratingScore": "4.49544",
+            "review": "658",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "123101407_BD-1043216017",
+            "sku": "123101407_BD",
+            "skus": [],
+            "description": [
+                "Quality Product",
+                "Normal Stick but useful",
+                "One time Usages",
+                "Measures 80mm length by 10mm width by 2mm height."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5283",
+            "mainSellerId": "",
+            "sellerName": "BOOK-BAZAR",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/754abe5483f08208d533f009f5045a66.jpg",
+                    "productUrl": "/products/10-i123101407-s1043216017.html",
+                    "sku": "123101407_BD",
+                    "skuId": "1043216017"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000361,
+                10000550
+            ],
+            "clickTrace": "query:;nid:123101407;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:123101407_BD;price:4;client:desktop;supplier_id:5283;asc_category_id:10000550;item_id:123101407;sku_id:1043216017;shop_id:5291",
+            "addToCartSkus": [
+                {
+                    "sku": "123101407_BD-1043216017",
+                    "skuId": "1043216017",
+                    "count": 0
+                }
+            ],
+            "itemId": "123101407",
+            "skuId": "1043216017",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "3 Pieces MICROWAVE 3 Size FOOD COVER / Plate Cover Splatter Guard Non Stick Plastic Clear Dish Lid",
+            "nid": "221396222",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "221396222",
+                "scene_pre": "search",
+                "current_price": "153",
+                "x_sku_ids": "1168213384",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "221396222"
+            },
+            "productUrl": "//www.daraz.com.bd/products/3-3-i221396222-s1168213384.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4167948d44392add5d2a8538a5c32839.jpg",
+            "originalPrice": "320.00",
+            "originalPriceShow": "৳ 320",
+            "price": "153",
+            "promotionId": "null",
+            "priceShow": "৳ 153",
+            "discount": "-52%",
+            "ratingScore": "4.66667",
+            "review": "9",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "221396222_BD-1168213384",
+            "sku": "221396222_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1016441",
+            "mainSellerId": "",
+            "sellerName": "Wish Box",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4167948d44392add5d2a8538a5c32839.jpg",
+                    "productUrl": "/products/3-3-i221396222-s1168213384.html",
+                    "sku": "221396222_BD",
+                    "skuId": "1168213384"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000369,
+                10000629
+            ],
+            "clickTrace": "query:;nid:221396222;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:221396222_BD;price:153;client:desktop;supplier_id:1016441;asc_category_id:10000629;item_id:221396222;sku_id:1168213384;shop_id:22616",
+            "addToCartSkus": [
+                {
+                    "sku": "221396222_BD-1168213384",
+                    "skuId": "1168213384",
+                    "count": 0
+                }
+            ],
+            "itemId": "221396222",
+            "skuId": "1168213384",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "24 Pieces Cotton Made Pot Holder or Lusni",
+            "nid": "101580657",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101580657",
+                "scene_pre": "search",
+                "current_price": "128",
+                "x_sku_ids": "1015592629",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "101580657"
+            },
+            "productUrl": "//www.daraz.com.bd/products/24-i101580657-s1015592629.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/7f4f14b6de1be5c939f349cfb56336e1.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "128",
+            "promotionId": "null",
+            "priceShow": "৳ 128",
+            "discount": "-49%",
+            "ratingScore": "4.31538",
+            "review": "260",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101580657_BD-1015592629",
+            "sku": "101580657_BD",
+            "skus": [],
+            "description": [
+                "24 Pcs Lusni",
+                "Assorted Color",
+                "Powerful heat absorb capacity",
+                "Colorful design",
+                "Denim fabrics",
+                "Size: 5&rsquo; x 5&rsquo;&rsquo; Inch",
+                "Cotton Made"
+            ],
+            "brandId": "155927",
+            "brandName": "Livingtex",
+            "sellerId": "2421",
+            "mainSellerId": "",
+            "sellerName": "Livingtex",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/7f4f14b6de1be5c939f349cfb56336e1.jpg",
+                    "productUrl": "/products/24-i101580657-s1015592629.html",
+                    "sku": "101580657_BD",
+                    "skuId": "1015592629"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000610
+            ],
+            "clickTrace": "query:;nid:101580657;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:101580657_BD;price:128;client:desktop;supplier_id:2421;asc_category_id:10000610;item_id:101580657;sku_id:1015592629;shop_id:2913",
+            "addToCartSkus": [
+                {
+                    "sku": "101580657_BD-1015592629",
+                    "skuId": "1015592629",
+                    "count": 0
+                }
+            ],
+            "itemId": "101580657",
+            "skuId": "1015592629",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Stainless Steel Food Clip",
+            "nid": "153126744",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "153126744",
+                "scene_pre": "search",
+                "current_price": "75.00",
+                "x_sku_ids": "1081432060",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "153126744"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i153126744-s1081432060.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/c1b84b0207176e4da28acf252b1f2cea.jpg",
+            "originalPrice": "130.00",
+            "originalPriceShow": "৳ 130",
+            "price": "75.00",
+            "promotionId": "null",
+            "priceShow": "৳ 75",
+            "discount": "-42%",
+            "ratingScore": "4.71806",
+            "review": "681",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "153126744_BD-1081432060",
+            "sku": "153126744_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1003692",
+            "mainSellerId": "",
+            "sellerName": "bd_shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/c1b84b0207176e4da28acf252b1f2cea.jpg",
+                    "productUrl": "/products/-i153126744-s1081432060.html",
+                    "sku": "153126744_BD",
+                    "skuId": "1081432060"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/9ac3ef653e02fe78242d19ed3827cbcf.jpg",
+                    "productUrl": "/products/-i153126744-s1128741257.html",
+                    "sku": "153126744_BD",
+                    "skuId": "1128741257"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/b8bcc1b68a9eabadf49ca67251f9eb7c.jpg",
+                    "productUrl": "/products/-i153126744-s1128394417.html",
+                    "sku": "153126744_BD",
+                    "skuId": "1128394417"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000363,
+                10000565
+            ],
+            "clickTrace": "query:;nid:153126744;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:153126744_BD;price:75.00;client:desktop;supplier_id:1003692;asc_category_id:10000565;item_id:153126744;sku_id:1081432060;shop_id:9888",
+            "addToCartSkus": [
+                {
+                    "sku": "153126744_BD-1081432060",
+                    "skuId": "1081432060",
+                    "count": 0
+                }
+            ],
+            "itemId": "153126744",
+            "skuId": "1081432060",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Salt and Pepper Shaker Wood Salt and Pepper Mill Shakers, Wooden Spice & Pepper Grinders, Salt and Pepper Grinder, Wood pepper and Salt Grinder, Manual Herbs Mills Adjustable Kithcen Tool 6 inches",
+            "nid": "167724629",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "167724629",
+                "scene_pre": "search",
+                "current_price": "295.00",
+                "x_sku_ids": "1101538887",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "167724629"
+            },
+            "productUrl": "//www.daraz.com.bd/products/6-i167724629-s1101538887.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b2c498f0ae7fc604505c8e1d1aa6ca11.jpg",
+            "originalPrice": "480.00",
+            "originalPriceShow": "৳ 480",
+            "price": "295.00",
+            "promotionId": "null",
+            "priceShow": "৳ 295",
+            "discount": "-39%",
+            "ratingScore": "4.34286",
+            "review": "35",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "167724629_BD-1101538887",
+            "sku": "167724629_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507758291",
+            "mainSellerId": "",
+            "sellerName": "Nobokena",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b2c498f0ae7fc604505c8e1d1aa6ca11.jpg",
+                    "productUrl": "/products/6-i167724629-s1101538887.html",
+                    "sku": "167724629_BD",
+                    "skuId": "1101538887"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000614,
+                10000783
+            ],
+            "clickTrace": "query:;nid:167724629;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:167724629_BD;price:295.00;client:desktop;supplier_id:700507758291;asc_category_id:10000783;item_id:167724629;sku_id:1101538887;shop_id:111954",
+            "addToCartSkus": [
+                {
+                    "sku": "167724629_BD-1101538887",
+                    "skuId": "1101538887",
+                    "count": 0
+                }
+            ],
+            "itemId": "167724629",
+            "skuId": "1101538887",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Portable Electronic Scale Digital Weight Machine 50kg",
+            "nid": "200915767",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "200915767",
+                "scene_pre": "search",
+                "current_price": "261",
+                "x_sku_ids": "1148110328",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "200915767"
+            },
+            "productUrl": "//www.daraz.com.bd/products/50kg-i200915767-s1148110328.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bbd27fb5e961e8fbf675e02a4f2acfaf.jpg",
+            "originalPrice": "850.00",
+            "originalPriceShow": "৳ 850",
+            "price": "261",
+            "promotionId": "null",
+            "priceShow": "৳ 261",
+            "discount": "-69%",
+            "ratingScore": "4",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "200915767_BD-1148110328",
+            "sku": "200915767_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1010770",
+            "mainSellerId": "",
+            "sellerName": "Beasy",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bbd27fb5e961e8fbf675e02a4f2acfaf.jpg",
+                    "productUrl": "/products/50kg-i200915767-s1148110328.html",
+                    "sku": "200915767_BD",
+                    "skuId": "1148110328"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000600
+            ],
+            "clickTrace": "query:;nid:200915767;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:200915767_BD;price:261;client:desktop;supplier_id:1010770;asc_category_id:10000600;item_id:200915767;sku_id:1148110328;shop_id:17025",
+            "addToCartSkus": [
+                {
+                    "sku": "200915767_BD-1148110328",
+                    "skuId": "1148110328",
+                    "count": 0
+                }
+            ],
+            "itemId": "200915767",
+            "skuId": "1148110328",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "High Quality Over Heating Gas Saving Net",
+            "nid": "130858356",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "130858356",
+                "scene_pre": "search",
+                "current_price": "22.00",
+                "x_sku_ids": "1050836985",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "130858356"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i130858356-s1050836985.html?search=1",
+            "image": "https://static-01.daraz.com.bd/original/c38fab7a2b0e83124bd4b0517816ec81.jpg",
+            "originalPrice": "127.00",
+            "originalPriceShow": "৳ 127",
+            "price": "22.00",
+            "promotionId": "null",
+            "priceShow": "৳ 22",
+            "discount": "-83%",
+            "ratingScore": "4.8",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "130858356_BD-1050836985",
+            "sku": "130858356_BD",
+            "skus": [],
+            "description": [
+                "Saveup to 38% gas.",
+                "Keepcooking utensils clean by eliminating carbon deposits;",
+                "Reducecarbon monoxide from 0.18% to 0.026%.",
+                "Cookyour food 14% faster!",
+                "SafetyFeatures – Wind proof"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4115",
+            "mainSellerId": "",
+            "sellerName": "Kitchen India",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/original/c38fab7a2b0e83124bd4b0517816ec81.jpg",
+                    "productUrl": "/products/-i130858356-s1050836985.html",
+                    "sku": "130858356_BD",
+                    "skuId": "1050836985"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000610
+            ],
+            "clickTrace": "query:;nid:130858356;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:130858356_BD;price:22.00;client:desktop;supplier_id:4115;asc_category_id:10000610;item_id:130858356;sku_id:1050836985;shop_id:4234",
+            "addToCartSkus": [
+                {
+                    "sku": "130858356_BD-1050836985",
+                    "skuId": "1050836985",
+                    "count": 0
+                }
+            ],
+            "itemId": "130858356",
+            "skuId": "1050836985",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Stainless Steel Rendom Handle Coconut Opener Punch Driller Cut Drill Hole Tools",
+            "nid": "229396721",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "229396721",
+                "scene_pre": "search",
+                "current_price": "229.00",
+                "x_sku_ids": "1173047258",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "229396721"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i229396721-s1173047258.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4f8fbe78531503bc7cf9c2279b2eb40b.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "229.00",
+            "promotionId": "null",
+            "priceShow": "৳ 229",
+            "discount": "-43%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "229396721_BD-1173047258",
+            "sku": "229396721_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1032437",
+            "mainSellerId": "",
+            "sellerName": "Dokan 99 Plus",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4f8fbe78531503bc7cf9c2279b2eb40b.jpg",
+                    "productUrl": "/products/-i229396721-s1173047258.html",
+                    "sku": "229396721_BD",
+                    "skuId": "1173047258"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000367,
+                10000601
+            ],
+            "clickTrace": "query:;nid:229396721;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:229396721_BD;price:229.00;client:desktop;supplier_id:1032437;asc_category_id:10000601;item_id:229396721;sku_id:1173047258;shop_id:38436",
+            "addToCartSkus": [
+                {
+                    "sku": "229396721_BD-1173047258",
+                    "skuId": "1173047258",
+                    "count": 0
+                }
+            ],
+            "itemId": "229396721",
+            "skuId": "1173047258",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "1Pc PVC Plastic Kitchen Sink Strainer Shower Drain Hair Trap Hair Catcher Bath Tub Protector Drain Cover For Bathroom Laundry",
+            "nid": "177268061",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "177268061",
+                "scene_pre": "search",
+                "current_price": "90.00",
+                "x_sku_ids": "1117194399",
+                "SN": "566fe33ce873f1eb447624d9f3305cfc",
+                "x_ad": "1",
+                "x_object_id": "177268061"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1pc-pvc-plastic-kitchen-sink-strainer-shower-drain-hair-trap-hair-catcher-bath-tub-protector-drain-cover-for-bathroom-laundry-i177268061-s1117194399.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/10506b805f7b311c3ab46b79e4db4896.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "90.00",
+            "promotionId": "null",
+            "priceShow": "৳ 90",
+            "discount": "-55%",
+            "ratingScore": "4.09091",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "177268061_BD-1117194399",
+            "sku": "177268061_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506402151",
+            "mainSellerId": "",
+            "sellerName": "ART-Shop-BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/10506b805f7b311c3ab46b79e4db4896.jpg",
+                    "productUrl": "/products/1pc-pvc-plastic-kitchen-sink-strainer-shower-drain-hair-trap-hair-catcher-bath-tub-protector-drain-cover-for-bathroom-laundry-i177268061-s1117194399.html",
+                    "sku": "177268061_BD",
+                    "skuId": "1117194399"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10000339,
+                10000369,
+                10000627
+            ],
+            "clickTrace": "query:;nid:177268061;src:LazadaMainSrp;rn:566fe33ce873f1eb447624d9f3305cfc;region:bd;sku:177268061_BD;price:90.00;client:desktop;supplier_id:700506402151;asc_category_id:10000627;item_id:177268061;sku_id:1117194399;shop_id:75563",
+            "addToCartSkus": [
+                {
+                    "sku": "177268061_BD-1117194399",
+                    "skuId": "1117194399",
+                    "count": 0
+                }
+            ],
+            "itemId": "177268061",
+            "skuId": "1117194399",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/kitchen-dining/",
+            "title": "Kitchen & Dining"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/kitchen-dining/?referer_rn=566fe33ce873f1eb447624d9f3305cfc&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Cbr%2F%3E%3Ca%20href%3D%22%2Fkitchen-dining%2Fhome-junction%2F%22%20%3EHome%20Junction%20Kitchen%20Dining%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fkitchen-dining%2Fihw%2F%22%20%3EIhw%20Kitchen%20Dining%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fkitchen-dining%2Fkiam%2F%22%20%3EKiam%20Kitchen%20Dining%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fkitchen-dining%2Fluminarc%2F%22%20%3ELuminarc%20Kitchen%20Dining%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fkitchen-dining%2Fmilton%2F%22%20%3EMilton%20Kitchen%20Dining%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fkitchen-dining%2Fregal%2F%22%20%3ERegal%20Kitchen%20Dining%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fkitchen-dining%2Fsattar-metal-industries%2F%22%20%3ESattar%20Metal%20Industries%20Kitchen%20Dining%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fkitchen-dining%2Ftong-ghor%2F%22%20%3ETong%20Ghor%20Kitchen%20Dining%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fkitchen-dining%2Fwellmax%2F%22%20%3EWellmax%20Kitchen%20Dining%3C%2Fa%3E"
+    },
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/kitchen-tools/?item_id=226398941&from=onesearch_category_10000339",
+                "name": "Specialty Kitchen Tools",
+                "image": "//static-01.daraz.com.bd/p/ad226108874a9c36b0d6cf33ab895ea6.jpg",
+                "id": "10000615"
+            },
+            {
+                "url": "/bins-and-cabinet-organizer/?item_id=215018107&from=onesearch_category_10000339",
+                "name": "Kitchen Organizers",
+                "image": "//static-01.daraz.com.bd/p/e7930ce6daa04aead070b57a3f2af4e6.jpg",
+                "id": "10000631"
+            },
+            {
+                "url": "/water-bottle/?item_id=208862651&from=onesearch_category_10000339",
+                "name": "Drink Bottles",
+                "image": "//static-01.daraz.com.bd/kf/S6c019be005314df68f783ecd746e0f96N.jpg",
+                "id": "10000626"
+            },
+            {
+                "url": "/slicers-dicers/?item_id=198990418&from=onesearch_category_10000339",
+                "name": "Graters, Peelers & Slicers",
+                "image": "//static-01.daraz.com.bd/p/mdc/8f4d31ba355a5bc9a720efb26f552281.jpg",
+                "id": "10000602"
+            },
+            {
+                "url": "/baking-tools-accessories/?item_id=183896742&from=onesearch_category_10000339",
+                "name": "Baking Tools & Accessories",
+                "image": "//static-01.daraz.com.bd/p/4ec8a27be8a2966ca810d3d932930689.jpg",
+                "id": "10000550"
+            },
+            {
+                "url": "/cups-mugs-saucers/?item_id=220677467&from=onesearch_category_10000339",
+                "name": "Cups, Mugs & Saucers",
+                "image": "//static-01.daraz.com.bd/p/0f18ca27b9dde4ada450c68c7aa689c2.jpg",
+                "id": "10000575"
+            },
+            {
+                "url": "/pots-pans/?item_id=212397673&from=onesearch_category_10000339",
+                "name": "Pots & Pans",
+                "image": "//static-01.daraz.com.bd/p/de99b42a1d8b0996741268b93717e59f.jpg",
+                "id": "10000554"
+            },
+            {
+                "url": "/cooking-knives/?item_id=114182936&from=onesearch_category_10000339",
+                "name": "Cooking Knives",
+                "image": "//static-01.daraz.com.bd/p/mdc/15d5fae70fff881eedf638cc6d2b1d09.jpg",
+                "id": "10000788"
+            },
+            {
+                "url": "/cutlery/?item_id=178097529&from=onesearch_category_10000339",
+                "name": "Cutlery",
+                "image": "//static-01.daraz.com.bd/p/mdc/3cdc3ba666ce7180ebcca2ee1ae47a4b.jpg",
+                "id": "10000565"
+            },
+            {
+                "url": "/kitchen-scales/?item_id=200997968&from=onesearch_category_10000339",
+                "name": "Measuring Tools & Scales",
+                "image": "//static-01.daraz.com.bd/p/mdc/9ba4ee2ca7dfb24de71b43cd6ed84e6b.jpg",
+                "id": "10000600"
+            },
+            {
+                "url": "/kitchen-canisters-jars/?item_id=179331237&from=onesearch_category_10000339",
+                "name": "Kitchen Canisters & Jars",
+                "image": "//static-01.daraz.com.bd/p/f85f25a06790b4a5dbfa04c5238c503e.jpg",
+                "id": "10000628"
+            },
+            {
+                "url": "/lunch-bags-boxes/?item_id=191990144&from=onesearch_category_10000339",
+                "name": "Lunch Bags & Boxes",
+                "image": "//static-01.daraz.com.bd/p/f346d0fade89e7fa506e96d7c89c5276.jpg",
+                "id": "10000625"
+            },
+            {
+                "url": "/decorative-storage-box/?item_id=173752502&from=onesearch_category_10000339",
+                "name": "Food Storage & Dispensers",
+                "image": "//static-01.daraz.com.bd/p/d0d15216efb5a78d6945949de1e2e142.jpg",
+                "id": "10000629"
+            },
+            {
+                "url": "/plates/?item_id=156656487&from=onesearch_category_10000339",
+                "name": "Plates",
+                "image": "//static-01.daraz.com.bd/p/558dbe0819da59f434468c7a66cde29f.jpg",
+                "id": "10000566"
+            },
+            {
+                "url": "/bowls/?item_id=127163538&from=onesearch_category_10000339",
+                "name": "Bowls",
+                "image": "//static-01.daraz.com.bd/p/819756757ca042178630ecb8b681d615.jpg",
+                "id": "10000567"
+            },
+            {
+                "url": "/tablecloths/?item_id=177644223&from=onesearch_category_10000339",
+                "name": "Table Cloths & Runners",
+                "image": "//static-01.daraz.com.bd/p/fa5956e05c3d761e0b88eb9ec603edb9.jpg",
+                "id": "10000618"
+            },
+            {
+                "url": "/cooking-utensil/?item_id=203508811&from=onesearch_category_10000339",
+                "name": "Cooking Utensils",
+                "image": "//static-01.daraz.com.bd/p/8734f27cca1cb1698dd2a23d73f16bac.jpg",
+                "id": "10000610"
+            },
+            {
+                "url": "/dinnerware-sets/?item_id=153776160&from=onesearch_category_10000339",
+                "name": "Dining Sets",
+                "image": "//static-01.daraz.com.bd/p/e082de1c04e1e58d34c485d350d70bc8.jpg",
+                "id": "10000568"
+            },
+            {
+                "url": "/coffee-grinders-accessories/?item_id=154356323&from=onesearch_category_10000339",
+                "name": "Coffee Making Accessories",
+                "image": "//static-01.daraz.com.bd/p/mdc/26e077b4d1efa7f6a278ffdc030f8300.jpg",
+                "id": "10000594"
+            },
+            {
+                "url": "/dish-racks-sink-accessories/?item_id=127279398&from=onesearch_category_10000339",
+                "name": "Dishracks & Sink accessories",
+                "image": "//static-01.daraz.com.bd/p/6094591046950933470e97cbf640028a.jpg",
+                "id": "10000627"
+            },
+            {
+                "url": "/pressure-cookers/?item_id=129014941&from=onesearch_category_10000339",
+                "name": "Stovetop Pressure Cookers",
+                "image": "//static-01.daraz.com.bd/p/mdc/472686d7e2c685a627b9de992a5b7d0a.jpg",
+                "id": "10000558"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_10000339"
+        },
+        "title": "",
+        "bizId": "onesearch_category_10000339",
+        "pos": 0
+    },
+    "campaignBanner": {
+        "tItemType": "nx_campaignBanner",
+        "items": [
+            {
+                "url": "https://www.daraz.com.bd/coffee-tea-kitchenware/?spm=a2a0e.searchlistcategory.card.1.3ec23c6az1Ccn0&from=onesearch_category_10000366&from=onesearch_category_10000339",
+                "cover": "//static-01.daraz.com.bd/skyline/i8/084654c7e44d4b7a8793c75748e2ea8e-1188-300.jpg_desktop.jpg",
+                "st_time": "2019-04-30 11:36:14",
+                "end_time": "2022-12-31 23:59:59"
+            },
+            {
+                "url": "https://www.daraz.com.bd/cookware/?spm=a2a0e.searchlistcategory.card.1.5f9d110fxExJU3&from=onesearch_category_10000362&from=onesearch_category_10000339",
+                "cover": "//static-01.daraz.com.bd/skyline/i8/94dc2ecdf7134b98894e3971f3766de7-1188-300.jpg_desktop.jpg",
+                "st_time": "2019-03-10 18:22:54",
+                "end_time": "2022-12-31 23:59:59"
+            },
+            {
+                "url": "https://www.daraz.com.bd/dinnerware/?spm=a2a0e.searchlistcategory.cate_7_5.4.7f586f5ftnTDq9&from=onesearch_category_10000339",
+                "cover": "//static-01.daraz.com.bd/skyline/i8/644640a26dee4df1836f7bd80ced6e9f-1188-300.jpg_desktop.jpg",
+                "st_time": "2019-03-10 18:23:38",
+                "end_time": "2022-12-31 23:59:59"
+            },
+            {
+                "url": "https://www.daraz.com.bd/storage-organisation/?spm=a2a0e.searchlistcategory.cate_7_5.1.7f586f5ftnTDq9&from=onesearch_category_10000339",
+                "cover": "//static-01.daraz.com.bd/skyline/i8/5a08bee495a44c94a7cf59748370a8cd-1188-300.jpg_desktop.jpg",
+                "st_time": "2019-03-10 18:37:55",
+                "end_time": "2022-12-31 23:59:59"
+            },
+            {
+                "url": "https://www.daraz.com.bd/kitchen-table-linens-accessories/?spm=a2a0e.searchlistcategory.cate_7_5.5.7f586f5ftnTDq9&from=onesearch_category_10000339",
+                "cover": "//static-01.daraz.com.bd/skyline/i8/f44622790dad462085f88c7749ac8baf-1188-300.jpg_desktop.jpg",
+                "st_time": "2019-03-10 18:39:49",
+                "end_time": "2022-12-31 23:59:59"
+            },
+            {
+                "url": "https://www.daraz.com.bd/kitchen-tools-accessories/?spm=a2a0e.searchlistcategory.cate_7_5.7.7f586f5ftnTDq9&from=onesearch_category_10000339",
+                "cover": "//static-01.daraz.com.bd/skyline/i8/8f6a5c5e4ae44da983aed2015cc4fc76-1188-300.jpg_desktop.jpg",
+                "st_time": "2019-03-10 18:43:16",
+                "end_time": "2022-12-31 23:59:59"
+            },
+            {
+                "url": "https://www.daraz.com.bd/serveware/?spm=a2a0e.searchlistcategory.cate_7_5.8.7f586f5ftnTDq9&from=onesearch_category_10000339",
+                "cover": "//static-01.daraz.com.bd/skyline/i8/08d30aa7f6ad411b8f335a4e68772028-1188-300.jpg_desktop.jpg",
+                "st_time": "2019-03-10 18:44:16",
+                "end_time": "2022-12-31 23:59:59"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_10000339"
+        },
+        "bizId": "onesearch_category_10000339",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "1319804 items found in {$0}",
+        "title": "Kitchen & Dining",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Kitchen & Dining"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Kitchen & Dining",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "566fe33ce873f1eb447624d9f3305cfc",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "10000339",
+            "category": "10000339"
+        },
+        "categoryRegionalKey": "240000000000",
+        "mainCategoryRegionalKey": "240000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Kitchen & Dining Products Online In Bangladesh - Daraz.com.bd",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Kitchen & Dining",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "240000000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=10000339&_p_asc_cateid=10000339",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "kitchen-dining",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "566fe33ce873f1eb447624d9f3305cfc",
+                "resultNr": 1319804,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1137691368",
+                "1161414960",
+                "1126581816"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "10000339",
+            "category": "10000339"
+        }
+    }
+}

@@ -1,0 +1,4174 @@
+{
+    "listItems": [
+        {
+            "name": "Ushape baby brash",
+            "nid": "223677552",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223677552",
+                "scene_pre": "search",
+                "current_price": "76",
+                "x_sku_ids": "1169642370",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "223677552"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ushape-i223677552-s1169642370.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/881e7fc5ca9e0dac90912361edd1de97.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "76",
+            "promotionId": "null",
+            "priceShow": "৳ 76",
+            "discount": "-62%",
+            "ratingScore": "5",
+            "review": "20",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223677552_BD-1169642370",
+            "sku": "223677552_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508292210",
+            "mainSellerId": "",
+            "sellerName": "Fahim Fashion BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/881e7fc5ca9e0dac90912361edd1de97.jpg",
+                    "productUrl": "/products/ushape-i223677552-s1169642370.html",
+                    "sku": "223677552_BD",
+                    "skuId": "1169642370"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002697
+            ],
+            "clickTrace": "query:;nid:223677552;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:223677552_BD;price:76;client:desktop;supplier_id:700508292210;asc_category_id:10002697;item_id:223677552;sku_id:1169642370;shop_id:142277",
+            "addToCartSkus": [
+                {
+                    "sku": "223677552_BD-1169642370",
+                    "skuId": "1169642370",
+                    "count": 0
+                }
+            ],
+            "itemId": "223677552",
+            "skuId": "1169642370",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Just for Baby Baby Soap 75g",
+            "nid": "117344218",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "117344218",
+                "scene_pre": "search",
+                "current_price": "46",
+                "x_sku_ids": "1036536484",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "117344218"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-just-for-baby-baby-soap-75g-i117344218-s1036536484.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7c157f60b927e7bc350820c336862fc2.jpg",
+            "originalPrice": "75.00",
+            "originalPriceShow": "৳ 75",
+            "price": "46",
+            "promotionId": "null",
+            "priceShow": "৳ 46",
+            "discount": "-39%",
+            "ratingScore": "4.78125",
+            "review": "320",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "117344218_BD-1036536484",
+            "sku": "117344218_BD",
+            "skus": [],
+            "description": [
+                "Brand: Just for Baby",
+                "Product type: Baby Soap",
+                "Gender: For baby",
+                "Net Weight: 75gm"
+            ],
+            "brandId": "196081",
+            "brandName": "Just For Baby",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7c157f60b927e7bc350820c336862fc2.jpg",
+                    "productUrl": "/products/parachute-just-for-baby-baby-soap-75g-i117344218-s1036536484.html",
+                    "sku": "117344218_BD",
+                    "skuId": "1036536484"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002693,
+                10002758
+            ],
+            "clickTrace": "query:;nid:117344218;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:117344218_BD;price:46;client:desktop;supplier_id:1000000;asc_category_id:10002758;item_id:117344218;sku_id:1036536484;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "117344218_BD-1036536484",
+                    "skuId": "1036536484",
+                    "count": 0
+                }
+            ],
+            "itemId": "117344218",
+            "skuId": "1036536484",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Silicone Baby Finger Tooth Brush with Box",
+            "nid": "206994503",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "206994503",
+                "scene_pre": "search",
+                "current_price": "38",
+                "x_sku_ids": "1156424254",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "206994503"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i206994503-s1156424254.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/352040c88610e64b4e8d7858bc784453.jpg",
+            "originalPrice": "199.00",
+            "originalPriceShow": "৳ 199",
+            "price": "38",
+            "promotionId": "null",
+            "priceShow": "৳ 38",
+            "discount": "-81%",
+            "ratingScore": "4.87368",
+            "review": "95",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "206994503_BD-1156424254",
+            "sku": "206994503_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506402269",
+            "mainSellerId": "",
+            "sellerName": "Eco Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/352040c88610e64b4e8d7858bc784453.jpg",
+                    "productUrl": "/products/-i206994503-s1156424254.html",
+                    "sku": "206994503_BD",
+                    "skuId": "1156424254"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002697
+            ],
+            "clickTrace": "query:;nid:206994503;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:206994503_BD;price:38;client:desktop;supplier_id:700506402269;asc_category_id:10002697;item_id:206994503;sku_id:1156424254;shop_id:77387",
+            "addToCartSkus": [
+                {
+                    "sku": "206994503_BD-1156424254",
+                    "skuId": "1156424254",
+                    "count": 0
+                }
+            ],
+            "itemId": "206994503",
+            "skuId": "1156424254",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fabric Wash (Refill) 600ml",
+            "nid": "100723917",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "100723917",
+                "scene_pre": "search",
+                "current_price": "289",
+                "x_sku_ids": "1014706068",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "100723917"
+            },
+            "productUrl": "//www.daraz.com.bd/products/600ml-i100723917-s1014706068.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8ca4e9aeedac5cd501c2a2338f206f77.jpg",
+            "originalPrice": "328.00",
+            "originalPriceShow": "৳ 328",
+            "price": "289",
+            "promotionId": "null",
+            "priceShow": "৳ 289",
+            "discount": "-12%",
+            "ratingScore": "4.9697",
+            "review": "33",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "100723917_BD-1014706068",
+            "sku": "100723917_BD",
+            "skus": [],
+            "description": [
+                "Baby Fabric Wash",
+                "Product of Thailand",
+                "For New Born Babies"
+            ],
+            "brandId": "36780",
+            "brandName": "Kodomo",
+            "sellerId": "1002213",
+            "mainSellerId": "",
+            "sellerName": "Pentagon International Limited",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8ca4e9aeedac5cd501c2a2338f206f77.jpg",
+                    "productUrl": "/products/600ml-i100723917-s1014706068.html",
+                    "sku": "100723917_BD",
+                    "skuId": "1014706068"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002954
+            ],
+            "clickTrace": "query:;nid:100723917;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:100723917_BD;price:289;client:desktop;supplier_id:1002213;asc_category_id:10002954;item_id:100723917;sku_id:1014706068;shop_id:8450",
+            "addToCartSkus": [
+                {
+                    "sku": "100723917_BD-1014706068",
+                    "skuId": "1014706068",
+                    "count": 0
+                }
+            ],
+            "itemId": "100723917",
+            "skuId": "1014706068",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Just for Baby - Baby Lotion 200ml",
+            "nid": "101174268",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101174268",
+                "scene_pre": "search",
+                "current_price": "189.00",
+                "x_sku_ids": "1015184111",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "101174268"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-just-for-baby-baby-lotion-200ml-i101174268-s1015184111.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/03e5ce4c61a13ab68427ab8e4bf7760b.jpg",
+            "originalPrice": "260.00",
+            "originalPriceShow": "৳ 260",
+            "price": "189.00",
+            "promotionId": "null",
+            "priceShow": "৳ 189",
+            "discount": "-27%",
+            "ratingScore": "4.86811",
+            "review": "417",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101174268_BD-1015184111",
+            "sku": "101174268_BD",
+            "skus": [],
+            "description": [
+                "Product type: Baby Lotion",
+                "Capacity: 200ml",
+                "Good quality product",
+                "Gender: Baby",
+                "For all skin types"
+            ],
+            "brandId": "196081",
+            "brandName": "Just For Baby",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/03e5ce4c61a13ab68427ab8e4bf7760b.jpg",
+                    "productUrl": "/products/parachute-just-for-baby-baby-lotion-200ml-i101174268-s1015184111.html",
+                    "sku": "101174268_BD",
+                    "skuId": "1015184111"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002692,
+                10002755
+            ],
+            "clickTrace": "query:;nid:101174268;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:101174268_BD;price:189.00;client:desktop;supplier_id:1000000;asc_category_id:10002755;item_id:101174268;sku_id:1015184111;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "101174268_BD-1015184111",
+                    "skuId": "1015184111",
+                    "count": 0
+                }
+            ],
+            "itemId": "101174268",
+            "skuId": "1015184111",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Just for Baby Baby Powder 100g",
+            "nid": "117356114",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "117356114",
+                "scene_pre": "search",
+                "current_price": "72.00",
+                "x_sku_ids": "1036556117",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "117356114"
+            },
+            "productUrl": "//www.daraz.com.bd/products/just-for-baby-baby-powder-100g-i117356114-s1036556117.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2078549485e0d2c26179d7e566da8184.jpg",
+            "originalPrice": "110.00",
+            "originalPriceShow": "৳ 110",
+            "price": "72.00",
+            "promotionId": "null",
+            "priceShow": "৳ 72",
+            "discount": "-35%",
+            "ratingScore": "4.82773",
+            "review": "238",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "117356114_BD-1036556117",
+            "sku": "117356114_BD",
+            "skus": [],
+            "description": [
+                "Brand: Just for Baby",
+                "Product type: Baby Powder",
+                "Gender: For baby",
+                "Net Weight: 100gm"
+            ],
+            "brandId": "196081",
+            "brandName": "Just For Baby",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2078549485e0d2c26179d7e566da8184.jpg",
+                    "productUrl": "/products/just-for-baby-baby-powder-100g-i117356114-s1036556117.html",
+                    "sku": "117356114_BD",
+                    "skuId": "1036556117"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002692,
+                10002757
+            ],
+            "clickTrace": "query:;nid:117356114;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:117356114_BD;price:72.00;client:desktop;supplier_id:1000000;asc_category_id:10002757;item_id:117356114;sku_id:1036556117;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "117356114_BD-1036556117",
+                    "skuId": "1036556117",
+                    "count": 0
+                }
+            ],
+            "itemId": "117356114",
+            "skuId": "1036556117",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Baby Mini Hot Water Heater Bag-1 Piece",
+            "nid": "216375247",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "216375247",
+                "scene_pre": "search",
+                "current_price": "50",
+                "x_sku_ids": "1164631312",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "216375247"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i216375247-s1164631312.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/afdf02b046dbaf055b8aa48c149e48a8.png",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "50",
+            "promotionId": "null",
+            "priceShow": "৳ 50",
+            "discount": "-67%",
+            "ratingScore": "4.43333",
+            "review": "30",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "216375247_BD-1164631312",
+            "sku": "216375247_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508349042",
+            "mainSellerId": "",
+            "sellerName": "Ayan's Corner",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/afdf02b046dbaf055b8aa48c149e48a8.png",
+                    "productUrl": "/products/1-i216375247-s1164631312.html",
+                    "sku": "216375247_BD",
+                    "skuId": "1164631312"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/19e32367a9837650a6957bd0244354e8.jpg",
+                    "productUrl": "/products/1-i216375247-s1175871048.html",
+                    "sku": "216375247_BD",
+                    "skuId": "1175871048"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002690
+            ],
+            "clickTrace": "query:;nid:216375247;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:216375247_BD;price:50;client:desktop;supplier_id:700508349042;asc_category_id:10002690;item_id:216375247;sku_id:1164631312;shop_id:149170",
+            "addToCartSkus": [
+                {
+                    "sku": "216375247_BD-1164631312",
+                    "skuId": "1164631312",
+                    "count": 0
+                }
+            ],
+            "itemId": "216375247",
+            "skuId": "1164631312",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Baby Shampoo - 110Ml For Baby",
+            "nid": "318267",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "58854",
+                "scene_pre": "search",
+                "current_price": "109",
+                "x_sku_ids": "436892",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "58854"
+            },
+            "productUrl": "//www.daraz.com.bd/products/baby-shampoo-110ml-for-baby-i58854-s436892.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d2ab066a590221c0fbadfb7f97f84cbb.jpg",
+            "originalPrice": "130.00",
+            "originalPriceShow": "৳ 130",
+            "price": "109",
+            "promotionId": "null",
+            "priceShow": "৳ 109",
+            "discount": "-16%",
+            "ratingScore": "4.90323",
+            "review": "124",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "ME467TB0SHAANNAFAMZ-481730",
+            "sku": "ME467TB0SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Product Type: Shampoo",
+                "Brand: Meril",
+                "Capacity: 110ml",
+                "Babies have a jolly good time when they bath",
+                "The shampoo is gentle on baby's hair and scalp",
+                "Soft and healthy"
+            ],
+            "brandId": "155667",
+            "brandName": "Meril",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d2ab066a590221c0fbadfb7f97f84cbb.jpg",
+                    "productUrl": "/products/baby-shampoo-110ml-for-baby-i58854-s436892.html",
+                    "sku": "ME467TB0SHAANNAFAMZ",
+                    "skuId": "436892"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002689
+            ],
+            "clickTrace": "query:;nid:318267;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:ME467TB0SHAANNAFAMZ;price:109;client:desktop;supplier_id:1000000;asc_category_id:10002689;item_id:58854;sku_id:436892;shop_id:7474",
+            "addToCartSkus": [
+                {
+                    "sku": "ME467TB0SHAANNAFAMZ-481730",
+                    "skuId": "436892",
+                    "count": 0
+                }
+            ],
+            "itemId": "58854",
+            "skuId": "436892",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Just  for Baby - Baby Oil 100Ml",
+            "nid": "101182198",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101182198",
+                "scene_pre": "search",
+                "current_price": "130.00",
+                "x_sku_ids": "1015188076",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "101182198"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-just-for-baby-baby-oil-100ml-i101182198-s1015188076.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ad98308deaabe7f11b7a99e333573e47.jpg",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "130.00",
+            "promotionId": "null",
+            "priceShow": "৳ 130",
+            "discount": "-28%",
+            "ratingScore": "4.77206",
+            "review": "272",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101182198_BD-1015188076",
+            "sku": "101182198_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Baby Oil",
+                "Capacity: 100ml",
+                "Good quality product",
+                "Gender: Baby",
+                "Made in Banlgadesh"
+            ],
+            "brandId": "196081",
+            "brandName": "Just For Baby",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ad98308deaabe7f11b7a99e333573e47.jpg",
+                    "productUrl": "/products/parachute-just-for-baby-baby-oil-100ml-i101182198-s1015188076.html",
+                    "sku": "101182198_BD",
+                    "skuId": "1015188076"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002692,
+                10002756
+            ],
+            "clickTrace": "query:;nid:101182198;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:101182198_BD;price:130.00;client:desktop;supplier_id:1000000;asc_category_id:10002756;item_id:101182198;sku_id:1015188076;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "101182198_BD-1015188076",
+                    "skuId": "1015188076",
+                    "count": 0
+                }
+            ],
+            "itemId": "101182198",
+            "skuId": "1015188076",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Just for Baby - Baby Wash 100Ml",
+            "nid": "101178232",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101178232",
+                "scene_pre": "search",
+                "current_price": "111.00",
+                "x_sku_ids": "1015190088",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "101178232"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-just-for-baby-baby-wash-100ml-i101178232-s1015190088.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d5526c22a4a59880a8d89a7a12723623.jpg",
+            "originalPrice": "155.00",
+            "originalPriceShow": "৳ 155",
+            "price": "111.00",
+            "promotionId": "null",
+            "priceShow": "৳ 111",
+            "discount": "-28%",
+            "ratingScore": "4.79024",
+            "review": "205",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101178232_BD-1015190088",
+            "sku": "101178232_BD",
+            "skus": [],
+            "description": [
+                "Product type: Baby Wash",
+                "Capacity: 100ml",
+                "Good quality product",
+                "Gender: Baby",
+                "For all skin types"
+            ],
+            "brandId": "196081",
+            "brandName": "Just For Baby",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d5526c22a4a59880a8d89a7a12723623.jpg",
+                    "productUrl": "/products/parachute-just-for-baby-baby-wash-100ml-i101178232-s1015190088.html",
+                    "sku": "101178232_BD",
+                    "skuId": "1015190088"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002693,
+                10002759
+            ],
+            "clickTrace": "query:;nid:101178232;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:101178232_BD;price:111.00;client:desktop;supplier_id:1000000;asc_category_id:10002759;item_id:101178232;sku_id:1015190088;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "101178232_BD-1015190088",
+                    "skuId": "1015190088",
+                    "count": 0
+                }
+            ],
+            "itemId": "101178232",
+            "skuId": "1015190088",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Just for Baby - Baby Toothpaste 45G",
+            "nid": "170236997",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "170236997",
+                "scene_pre": "search",
+                "current_price": "36",
+                "x_sku_ids": "1105148794",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "170236997"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-just-for-baby-baby-toothpaste-45g-mix-fruit-i170236997-s1105148794.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/76da494eace37e1137ea92116af42b96.jpg",
+            "originalPrice": "75.00",
+            "originalPriceShow": "৳ 75",
+            "price": "36",
+            "promotionId": "null",
+            "priceShow": "৳ 36",
+            "discount": "-52%",
+            "ratingScore": "4.765",
+            "review": "200",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "170236997_BD-1105148794",
+            "sku": "170236997_BD",
+            "skus": [],
+            "description": [
+                "Product type: Toothpaste",
+                "Brand: Just for Baby",
+                "Capacity: 45g"
+            ],
+            "brandId": "196081",
+            "brandName": "Just For Baby",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/76da494eace37e1137ea92116af42b96.jpg",
+                    "productUrl": "/products/parachute-just-for-baby-baby-toothpaste-45g-mix-fruit-i170236997-s1105148794.html",
+                    "sku": "170236997_BD",
+                    "skuId": "1105148794"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002697
+            ],
+            "clickTrace": "query:;nid:170236997;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:170236997_BD;price:36;client:desktop;supplier_id:1000000;asc_category_id:10002697;item_id:170236997;sku_id:1105148794;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "170236997_BD-1105148794",
+                    "skuId": "1105148794",
+                    "count": 0
+                }
+            ],
+            "itemId": "170236997",
+            "skuId": "1105148794",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Just for Baby - Baby Powder 200g (Baby Soap 75g Free)",
+            "nid": "225459583",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225459583",
+                "scene_pre": "search",
+                "current_price": "184",
+                "x_sku_ids": "1170622056",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "225459583"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-just-for-baby-baby-powder-200g-baby-soap-75g-free-i225459583-s1170622056.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/76ac310fb561907d3d7efbe3067f420a.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "184",
+            "promotionId": "null",
+            "priceShow": "৳ 184",
+            "discount": "-8%",
+            "ratingScore": "4.91304",
+            "review": "23",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225459583_BD-1170622056",
+            "sku": "225459583_BD",
+            "skus": [],
+            "description": [
+                "Just for Baby Powder with goodness of Almond Milk &amp; Neemcreates a barrier that locks moisture for 24 hours &amp; protects your baby&rsquo;s beautiful skin from dryness.",
+                "This rich nourishing lotion enriched with vitamin E gets easily absorbed in your baby&rsquo;s skin &amp; keeps it smooth and soft naturally.",
+                "Your baby&rsquo;s skin is delicate and needs special care.",
+                "International expert in Safe Baby care, Parachute Just for BabyTM  Baby Face Cream is enriched with goodness of Olive oil and Almond milk.",
+                "It works gently, moisturizing your baby&rsquo;s soft face, keeping it healthy, supple and dryness-free, all day long",
+                "TESTED FOR ALLERGY AND FORMULATED WITH 100% SAFE INGREDIENTS"
+            ],
+            "brandId": "196081",
+            "brandName": "Just For Baby",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/76ac310fb561907d3d7efbe3067f420a.jpg",
+                    "productUrl": "/products/parachute-just-for-baby-baby-powder-200g-baby-soap-75g-free-i225459583-s1170622056.html",
+                    "sku": "225459583_BD",
+                    "skuId": "1170622056"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002692,
+                10002757
+            ],
+            "clickTrace": "query:;nid:225459583;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:225459583_BD;price:184;client:desktop;supplier_id:1000000;asc_category_id:10002757;item_id:225459583;sku_id:1170622056;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "225459583_BD-1170622056",
+                    "skuId": "1170622056",
+                    "count": 0
+                }
+            ],
+            "itemId": "225459583",
+            "skuId": "1170622056",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cleaner Nasal Vacuum Mucus Suction Aspirator Soft Tip Tools",
+            "nid": "123923716",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "123923716",
+                "scene_pre": "search",
+                "current_price": "92",
+                "x_sku_ids": "1044180142",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "123923716"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i123923716-s1044180142.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/4ba49b19b01a3f7d1761d0ac85bcdca0.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "92",
+            "promotionId": "null",
+            "priceShow": "৳ 92",
+            "discount": "-39%",
+            "ratingScore": "4.7963",
+            "review": "216",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "123923716_BD-1044180142",
+            "sku": "123923716_BD",
+            "skus": [],
+            "description": [
+                "Product Type:Nasal Aspirator",
+                "Age Group: Babies",
+                "Material: Silicone",
+                "Quality assurance",
+                "Nasal Cleaner",
+                "Product Type:Nasal Aspirator"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1034310",
+            "mainSellerId": "",
+            "sellerName": "Silent Bazar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/4ba49b19b01a3f7d1761d0ac85bcdca0.jpg",
+                    "productUrl": "/products/-i123923716-s1044180142.html",
+                    "sku": "123923716_BD",
+                    "skuId": "1044180142"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002690
+            ],
+            "clickTrace": "query:;nid:123923716;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:123923716_BD;price:92;client:desktop;supplier_id:1034310;asc_category_id:10002690;item_id:123923716;sku_id:1044180142;shop_id:40255",
+            "addToCartSkus": [
+                {
+                    "sku": "123923716_BD-1044180142",
+                    "skuId": "1044180142",
+                    "count": 0
+                }
+            ],
+            "itemId": "123923716",
+            "skuId": "1044180142",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Just for Baby - Baby Shampoo 200ml (Baby Soap 75g Free)",
+            "nid": "225465276",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225465276",
+                "scene_pre": "search",
+                "current_price": "204",
+                "x_sku_ids": "1170611988",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "225465276"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-just-for-baby-baby-shampoo-200ml-baby-soap-75g-free-i225465276-s1170611988.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a1c3763ad1276c4dd9d4e2296caa95c2.jpg",
+            "originalPrice": "235.00",
+            "originalPriceShow": "৳ 235",
+            "price": "204",
+            "promotionId": "null",
+            "priceShow": "৳ 204",
+            "discount": "-13%",
+            "ratingScore": "5",
+            "review": "15",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225465276_BD-1170611988",
+            "sku": "225465276_BD",
+            "skus": [],
+            "description": [
+                "Baby Shampoo 200ml",
+                "No Tears Formula",
+                "Made Safe certified",
+                "Australian Allergy Certified",
+                "Paraben free",
+                "Sulfate free",
+                "Color free",
+                "100% safe ingredients",
+                "pH balanced",
+                "Dermatologically Tested"
+            ],
+            "brandId": "196081",
+            "brandName": "Just For Baby",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a1c3763ad1276c4dd9d4e2296caa95c2.jpg",
+                    "productUrl": "/products/parachute-just-for-baby-baby-shampoo-200ml-baby-soap-75g-free-i225465276-s1170611988.html",
+                    "sku": "225465276_BD",
+                    "skuId": "1170611988"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002689
+            ],
+            "clickTrace": "query:;nid:225465276;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:225465276_BD;price:204;client:desktop;supplier_id:1000000;asc_category_id:10002689;item_id:225465276;sku_id:1170611988;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "225465276_BD-1170611988",
+                    "skuId": "1170611988",
+                    "count": 0
+                }
+            ],
+            "itemId": "225465276",
+            "skuId": "1170611988",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Just  for Baby - Baby Lotion 100ml",
+            "nid": "101192190",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101192190",
+                "scene_pre": "search",
+                "current_price": "101.00",
+                "x_sku_ids": "1015174204",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "101192190"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-just-for-baby-baby-lotion-100ml-i101192190-s1015174204.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c1fda4ff9a2fb2f019f41722e5cb5ccc.jpg",
+            "originalPrice": "145.00",
+            "originalPriceShow": "৳ 145",
+            "price": "101.00",
+            "promotionId": "null",
+            "priceShow": "৳ 101",
+            "discount": "-30%",
+            "ratingScore": "4.85934",
+            "review": "455",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101192190_BD-1015174204",
+            "sku": "101192190_BD",
+            "skus": [],
+            "description": [
+                "Product type: Baby Lotion",
+                "Capacity: 100ml",
+                "Good quality product",
+                "Gender: Baby",
+                "For all skin types"
+            ],
+            "brandId": "196081",
+            "brandName": "Just For Baby",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c1fda4ff9a2fb2f019f41722e5cb5ccc.jpg",
+                    "productUrl": "/products/parachute-just-for-baby-baby-lotion-100ml-i101192190-s1015174204.html",
+                    "sku": "101192190_BD",
+                    "skuId": "1015174204"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002692,
+                10002755
+            ],
+            "clickTrace": "query:;nid:101192190;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:101192190_BD;price:101.00;client:desktop;supplier_id:1000000;asc_category_id:10002755;item_id:101192190;sku_id:1015174204;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "101192190_BD-1015174204",
+                    "skuId": "1015174204",
+                    "count": 0
+                }
+            ],
+            "itemId": "101192190",
+            "skuId": "1015174204",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Just for Baby - Baby Toothpaste 45g Buy 1 Get 1 (Mix Fruit + Orange)",
+            "nid": "194003443",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "194003443",
+                "scene_pre": "search",
+                "current_price": "75.00",
+                "x_sku_ids": "1140516675",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "194003443"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-just-for-baby-baby-toothpaste-45g-buy-1-get-1-mix-fruit-orange-i194003443-s1140516675.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e19ae5e97f8160970bcbe62127d0f971.jpg",
+            "price": "75.00",
+            "promotionId": "null",
+            "priceShow": "৳ 75",
+            "ratingScore": "4.93233",
+            "review": "133",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "194003443_BD-1140516675",
+            "sku": "194003443_BD",
+            "skus": [],
+            "description": [
+                "Parachute Just for Baby - Baby Toothpaste 45g Buy 1 Get 1 (Mix Fruit + Orange)",
+                "Parachute Just for Baby - Baby Toothpaste 45g Buy 1 Get 1 (Mix Fruit + Orange)"
+            ],
+            "brandId": "196081",
+            "brandName": "Just For Baby",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e19ae5e97f8160970bcbe62127d0f971.jpg",
+                    "productUrl": "/products/parachute-just-for-baby-baby-toothpaste-45g-buy-1-get-1-mix-fruit-orange-i194003443-s1140516675.html",
+                    "sku": "194003443_BD",
+                    "skuId": "1140516675"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002697
+            ],
+            "clickTrace": "query:;nid:194003443;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:194003443_BD;price:75.00;client:desktop;supplier_id:1000000;asc_category_id:10002697;item_id:194003443;sku_id:1140516675;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "194003443_BD-1140516675",
+                    "skuId": "1140516675",
+                    "count": 0
+                }
+            ],
+            "itemId": "194003443",
+            "skuId": "1140516675",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Just for Baby - Baby Wash 200Ml",
+            "nid": "101186216",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101186216",
+                "scene_pre": "search",
+                "current_price": "169.00",
+                "x_sku_ids": "1015178163",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "101186216"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-just-for-baby-baby-wash-200ml-i101186216-s1015178163.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/289ffbdf6af412c864fda6a458ff51c4.jpg",
+            "originalPrice": "235.00",
+            "originalPriceShow": "৳ 235",
+            "price": "169.00",
+            "promotionId": "null",
+            "priceShow": "৳ 169",
+            "discount": "-28%",
+            "ratingScore": "4.80769",
+            "review": "338",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101186216_BD-1015178163",
+            "sku": "101186216_BD",
+            "skus": [],
+            "description": [
+                "Product type: Baby Wash",
+                "Capacity: 200ml",
+                "Good quality product",
+                "Gender: Baby",
+                "For all skin types"
+            ],
+            "brandId": "196081",
+            "brandName": "Just For Baby",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/289ffbdf6af412c864fda6a458ff51c4.jpg",
+                    "productUrl": "/products/parachute-just-for-baby-baby-wash-200ml-i101186216-s1015178163.html",
+                    "sku": "101186216_BD",
+                    "skuId": "1015178163"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002693,
+                10002759
+            ],
+            "clickTrace": "query:;nid:101186216;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:101186216_BD;price:169.00;client:desktop;supplier_id:1000000;asc_category_id:10002759;item_id:101186216;sku_id:1015178163;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "101186216_BD-1015178163",
+                    "skuId": "1015178163",
+                    "count": 0
+                }
+            ],
+            "itemId": "101186216",
+            "skuId": "1015178163",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Meril Baby Powder - 100gm",
+            "nid": "318264",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "58851",
+                "scene_pre": "search",
+                "current_price": "84",
+                "x_sku_ids": "436886",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "58851"
+            },
+            "productUrl": "//www.daraz.com.bd/products/meril-baby-powder-100gm-i58851-s436886.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/484004000b1516427b741ee2e5338206.jpg",
+            "originalPrice": "100.00",
+            "originalPriceShow": "৳ 100",
+            "price": "84",
+            "promotionId": "null",
+            "priceShow": "৳ 84",
+            "discount": "-16%",
+            "ratingScore": "4.93421",
+            "review": "76",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "ME464TB0SHAANNAFAMZ-481727",
+            "sku": "ME464TB0SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Product Type: Powder",
+                "Brand: Meril",
+                "Capacity: 100g",
+                "Enriched with 5 essential nutrients",
+                "Recommended by doctors",
+                "Soothes and relieves baby?s soft skin",
+                "To keep your baby feeling fresh, cool and comfortable"
+            ],
+            "brandId": "155667",
+            "brandName": "Meril",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/484004000b1516427b741ee2e5338206.jpg",
+                    "productUrl": "/products/meril-baby-powder-100gm-i58851-s436886.html",
+                    "sku": "ME464TB0SHAANNAFAMZ",
+                    "skuId": "436886"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002692,
+                10002757
+            ],
+            "clickTrace": "query:;nid:318264;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:ME464TB0SHAANNAFAMZ;price:84;client:desktop;supplier_id:1000000;asc_category_id:10002757;item_id:58851;sku_id:436886;shop_id:7474",
+            "addToCartSkus": [
+                {
+                    "sku": "ME464TB0SHAANNAFAMZ-481727",
+                    "skuId": "436886",
+                    "count": 0
+                }
+            ],
+            "itemId": "58851",
+            "skuId": "436886",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Johnson's Baby Powder Blossoms 200 g",
+            "nid": "132890829",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132890829",
+                "scene_pre": "search",
+                "current_price": "205",
+                "x_sku_ids": "1054160675",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "132890829"
+            },
+            "productUrl": "//www.daraz.com.bd/products/johnsons-baby-powder-blossoms-200-g-i132890829-s1054160675.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/beb74a6384680aba2d5cffe4c502bcb9.jpg",
+            "originalPrice": "230.00",
+            "originalPriceShow": "৳ 230",
+            "price": "205",
+            "promotionId": "null",
+            "priceShow": "৳ 205",
+            "discount": "-11%",
+            "ratingScore": "4.71698",
+            "review": "53",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132890829_BD-1054160675",
+            "sku": "132890829_BD",
+            "skus": [],
+            "description": [
+                "Package may or may not be in original shape/box",
+                "Product Type: Baby PowderBlossoms",
+                "Brand: Johnson's Baby",
+                "Capacity:200g",
+                "Country of Origin: India"
+            ],
+            "brandId": "31197",
+            "brandName": "Johnson's Baby",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/beb74a6384680aba2d5cffe4c502bcb9.jpg",
+                    "productUrl": "/products/johnsons-baby-powder-blossoms-200-g-i132890829-s1054160675.html",
+                    "sku": "132890829_BD",
+                    "skuId": "1054160675"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002692,
+                10002757
+            ],
+            "clickTrace": "query:;nid:132890829;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:132890829_BD;price:205;client:desktop;supplier_id:1000000;asc_category_id:10002757;item_id:132890829;sku_id:1054160675;shop_id:96945",
+            "addToCartSkus": [
+                {
+                    "sku": "132890829_BD-1054160675",
+                    "skuId": "1054160675",
+                    "count": 0
+                }
+            ],
+            "itemId": "132890829",
+            "skuId": "1054160675",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Children'S Nose Cleaner for Clear Breath",
+            "nid": "127522930",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "127522930",
+                "scene_pre": "search",
+                "current_price": "99",
+                "x_sku_ids": "1047498767",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "127522930"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i127522930-s1047498767.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/0a900574581a1c5dad748d83e78ddd80.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "99",
+            "promotionId": "null",
+            "priceShow": "৳ 99",
+            "discount": "-34%",
+            "ratingScore": "4.56522",
+            "review": "115",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "127522930_BD-1047498767",
+            "sku": "127522930_BD",
+            "skus": [],
+            "description": [
+                "td {border: 1.0px solid #cccccc;}br {mso-data-placement: same-cell;}The soft suction nozzle can protect the baby's delicate nostrils, let the baby feel more comfortable.",
+                "Suction is easy to control, simple to use",
+                "Easy to clean, the parts can be disassembled, convenient and sanitary.",
+                "Safe for babies and small children.",
+                "Applicable for nasal mucus.",
+                "Recommended by the Medici.",
+                "Material: Silicone",
+                "Color: Pink, Blue,",
+                "Bottle height: approx. 85 mm",
+                "Suction nozzle Length: Approx. 40 mm"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1045282",
+            "mainSellerId": "",
+            "sellerName": "LA-VIDA Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/0a900574581a1c5dad748d83e78ddd80.jpg",
+                    "productUrl": "/products/-i127522930-s1047498767.html",
+                    "sku": "127522930_BD",
+                    "skuId": "1047498767"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002690
+            ],
+            "clickTrace": "query:;nid:127522930;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:127522930_BD;price:99;client:desktop;supplier_id:1045282;asc_category_id:10002690;item_id:127522930;sku_id:1047498767;shop_id:50906",
+            "addToCartSkus": [
+                {
+                    "sku": "127522930_BD-1047498767",
+                    "skuId": "1047498767",
+                    "count": 0
+                }
+            ],
+            "itemId": "127522930",
+            "skuId": "1047498767",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "ছোট বাচ্চাদের নাকের সর্দি ও ময়লা বার করা Cleaner Nasal Vacuum Mucus Suction Aspirator Soft Tip Tools",
+            "nid": "149508631",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "149508631",
+                "scene_pre": "search",
+                "current_price": "89",
+                "x_sku_ids": "1075848025",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "149508631"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cleaner-nasal-vacuum-mucus-suction-aspirator-soft-tip-tools-i149508631-s1075848025.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/495b31a9a73c139a1cb36858059c98b9.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "89",
+            "promotionId": "null",
+            "priceShow": "৳ 89",
+            "discount": "-41%",
+            "ratingScore": "4.89744",
+            "review": "39",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "149508631_BD-1075848025",
+            "sku": "149508631_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506864020",
+            "mainSellerId": "",
+            "sellerName": "Ready Shop BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/495b31a9a73c139a1cb36858059c98b9.jpg",
+                    "productUrl": "/products/cleaner-nasal-vacuum-mucus-suction-aspirator-soft-tip-tools-i149508631-s1075848025.html",
+                    "sku": "149508631_BD",
+                    "skuId": "1075848025"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002690
+            ],
+            "clickTrace": "query:;nid:149508631;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:149508631_BD;price:89;client:desktop;supplier_id:700506864020;asc_category_id:10002690;item_id:149508631;sku_id:1075848025;shop_id:84832",
+            "addToCartSkus": [
+                {
+                    "sku": "149508631_BD-1075848025",
+                    "skuId": "1075848025",
+                    "count": 0
+                }
+            ],
+            "itemId": "149508631",
+            "skuId": "1075848025",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "GACOTOUCH ANTISEPTIC SOAP 102G",
+            "nid": "226137194",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226137194",
+                "scene_pre": "search",
+                "current_price": "56",
+                "x_sku_ids": "1170840515",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "226137194"
+            },
+            "productUrl": "//www.daraz.com.bd/products/102g-i226137194-s1170840515.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1db3a0dafd77c40149023ce81125ac64.jpg",
+            "originalPrice": "110.00",
+            "originalPriceShow": "৳ 110",
+            "price": "56",
+            "promotionId": "null",
+            "priceShow": "৳ 56",
+            "discount": "-49%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226137194_BD-1170840515",
+            "sku": "226137194_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509438111",
+            "mainSellerId": "",
+            "sellerName": "Dnj Shop BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1db3a0dafd77c40149023ce81125ac64.jpg",
+                    "productUrl": "/products/102g-i226137194-s1170840515.html",
+                    "sku": "226137194_BD",
+                    "skuId": "1170840515"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002693,
+                10002761
+            ],
+            "clickTrace": "query:;nid:226137194;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:226137194_BD;price:56;client:desktop;supplier_id:700509438111;asc_category_id:10002761;item_id:226137194;sku_id:1170840515;shop_id:213326",
+            "addToCartSkus": [
+                {
+                    "sku": "226137194_BD-1170840515",
+                    "skuId": "1170840515",
+                    "count": 0
+                }
+            ],
+            "itemId": "226137194",
+            "skuId": "1170840515",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Silicone Baby Finger Tooth Brush with Box Children Teeth Clear Soft Silicone Infant Tooth Brush Rubber Cleaning",
+            "nid": "233819028",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233819028",
+                "scene_pre": "search",
+                "current_price": "43.00",
+                "x_sku_ids": "1176611023",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "233819028"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233819028-s1176611023.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/73ef619e741fcbbfabf38f116b6d4568.jpg",
+            "originalPrice": "110.00",
+            "originalPriceShow": "৳ 110",
+            "price": "43.00",
+            "promotionId": "null",
+            "priceShow": "৳ 43",
+            "discount": "-61%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233819028_BD-1176611023",
+            "sku": "233819028_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508106345",
+            "mainSellerId": "",
+            "sellerName": "UnlimitedShop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/73ef619e741fcbbfabf38f116b6d4568.jpg",
+                    "productUrl": "/products/-i233819028-s1176611023.html",
+                    "sku": "233819028_BD",
+                    "skuId": "1176611023"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002697
+            ],
+            "clickTrace": "query:;nid:233819028;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:233819028_BD;price:43.00;client:desktop;supplier_id:700508106345;asc_category_id:10002697;item_id:233819028;sku_id:1176611023;shop_id:127629",
+            "addToCartSkus": [
+                {
+                    "sku": "233819028_BD-1176611023",
+                    "skuId": "1176611023",
+                    "count": 0
+                }
+            ],
+            "itemId": "233819028",
+            "skuId": "1176611023",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Just for Baby - Face Cream 100g",
+            "nid": "139908417",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "139908417",
+                "scene_pre": "search",
+                "current_price": "162.00",
+                "x_sku_ids": "1063188972",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "139908417"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-just-for-baby-face-cream-100g-i139908417-s1063188972.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/579611509229c1e793be9f02cbe63405.jpg",
+            "originalPrice": "220.00",
+            "originalPriceShow": "৳ 220",
+            "price": "162.00",
+            "promotionId": "null",
+            "priceShow": "৳ 162",
+            "discount": "-26%",
+            "ratingScore": "4.85316",
+            "review": "395",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "139908417_BD-1063188972",
+            "sku": "139908417_BD",
+            "skus": [],
+            "description": [
+                "Product type: Baby Face Cream",
+                "Brand: Just for Baby",
+                "Net Weight: 100g"
+            ],
+            "brandId": "196081",
+            "brandName": "Just For Baby",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/579611509229c1e793be9f02cbe63405.jpg",
+                    "productUrl": "/products/parachute-just-for-baby-face-cream-100g-i139908417-s1063188972.html",
+                    "sku": "139908417_BD",
+                    "skuId": "1063188972"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002692,
+                10002755
+            ],
+            "clickTrace": "query:;nid:139908417;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:139908417_BD;price:162.00;client:desktop;supplier_id:1000000;asc_category_id:10002755;item_id:139908417;sku_id:1063188972;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "139908417_BD-1063188972",
+                    "skuId": "1063188972",
+                    "count": 0
+                }
+            ],
+            "itemId": "139908417",
+            "skuId": "1063188972",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Baby Soap - 75g",
+            "nid": "318260",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "58843",
+                "scene_pre": "search",
+                "current_price": "64.00",
+                "x_sku_ids": "436866",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "58843"
+            },
+            "productUrl": "//www.daraz.com.bd/products/baby-soap-75g-i58843-s436866.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f0ed1df9e8cf4daab30e2eeff88de5ee.jpg",
+            "originalPrice": "75.00",
+            "originalPriceShow": "৳ 75",
+            "price": "64.00",
+            "promotionId": "null",
+            "priceShow": "৳ 64",
+            "discount": "-15%",
+            "ratingScore": "4.85714",
+            "review": "77",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "ME460TB0SHAANNAFAMZ-481723",
+            "sku": "ME460TB0SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Product Type: Soap",
+                "Brand: Meril",
+                "Capacity: 75g",
+                "Meril Baby soap infused with lotion and honey",
+                "Baby soap is 5 times milder than regular soap",
+                "Makes babies skin soft, supple and healthy"
+            ],
+            "brandId": "155667",
+            "brandName": "Meril",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f0ed1df9e8cf4daab30e2eeff88de5ee.jpg",
+                    "productUrl": "/products/baby-soap-75g-i58843-s436866.html",
+                    "sku": "ME460TB0SHAANNAFAMZ",
+                    "skuId": "436866"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002693,
+                10002758
+            ],
+            "clickTrace": "query:;nid:318260;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:ME460TB0SHAANNAFAMZ;price:64.00;client:desktop;supplier_id:1000000;asc_category_id:10002758;item_id:58843;sku_id:436866;shop_id:7474",
+            "addToCartSkus": [
+                {
+                    "sku": "ME460TB0SHAANNAFAMZ-481723",
+                    "skuId": "436866",
+                    "count": 0
+                }
+            ],
+            "itemId": "58843",
+            "skuId": "436866",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute Just for Baby Baby Soap 125g",
+            "nid": "117344276",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "117344276",
+                "scene_pre": "search",
+                "current_price": "86.00",
+                "x_sku_ids": "1036544296",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "117344276"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-just-for-baby-baby-soap-125g-i117344276-s1036544296.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d549dbd81e6d859ff3ad6dee7540d798.jpg",
+            "originalPrice": "115.00",
+            "originalPriceShow": "৳ 115",
+            "price": "86.00",
+            "promotionId": "null",
+            "priceShow": "৳ 86",
+            "discount": "-25%",
+            "ratingScore": "4.86364",
+            "review": "88",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "117344276_BD-1036544296",
+            "sku": "117344276_BD",
+            "skus": [],
+            "description": [
+                "Brand: Just for Baby",
+                "Product type: Baby Soap",
+                "Gender: For baby",
+                "Net Weight: 125gm"
+            ],
+            "brandId": "196081",
+            "brandName": "Just For Baby",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d549dbd81e6d859ff3ad6dee7540d798.jpg",
+                    "productUrl": "/products/parachute-just-for-baby-baby-soap-125g-i117344276-s1036544296.html",
+                    "sku": "117344276_BD",
+                    "skuId": "1036544296"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002693,
+                10002758
+            ],
+            "clickTrace": "query:;nid:117344276;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:117344276_BD;price:86.00;client:desktop;supplier_id:1000000;asc_category_id:10002758;item_id:117344276;sku_id:1036544296;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "117344276_BD-1036544296",
+                    "skuId": "1036544296",
+                    "count": 0
+                }
+            ],
+            "itemId": "117344276",
+            "skuId": "1036544296",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pepsodent Awesome Orange 45g Toothpaste",
+            "nid": "204535163",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "204535163",
+                "scene_pre": "search",
+                "current_price": "66.00",
+                "x_sku_ids": "1152567863",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "204535163"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pepsodent-awesome-orange-45g-toothpaste-i204535163-s1152567863.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e8f418ff368b13e7eabe31d3dc6a421a.jpg",
+            "originalPrice": "75.00",
+            "originalPriceShow": "৳ 75",
+            "price": "66.00",
+            "promotionId": "null",
+            "priceShow": "৳ 66",
+            "discount": "-12%",
+            "ratingScore": "4.95455",
+            "review": "22",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "204535163_BD-1152567863",
+            "sku": "204535163_BD",
+            "skus": [],
+            "description": [
+                "Gentle Formula that is appropriate for children",
+                "Protects from Cavity",
+                "Protects from Enamel erosion",
+                "Orange Flavored"
+            ],
+            "brandId": "126676",
+            "brandName": "Pepsodent",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e8f418ff368b13e7eabe31d3dc6a421a.jpg",
+                    "productUrl": "/products/pepsodent-awesome-orange-45g-toothpaste-i204535163-s1152567863.html",
+                    "sku": "204535163_BD",
+                    "skuId": "1152567863"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002697
+            ],
+            "clickTrace": "query:;nid:204535163;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:204535163_BD;price:66.00;client:desktop;supplier_id:1000000;asc_category_id:10002697;item_id:204535163;sku_id:1152567863;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "204535163_BD-1152567863",
+                    "skuId": "1152567863",
+                    "count": 0
+                }
+            ],
+            "itemId": "204535163",
+            "skuId": "1152567863",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Meril Baby Lotion - 100 ml",
+            "nid": "167812143",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "167812143",
+                "scene_pre": "search",
+                "current_price": "109",
+                "x_sku_ids": "1101656677",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "167812143"
+            },
+            "productUrl": "//www.daraz.com.bd/products/meril-baby-lotion-100-ml-i167812143-s1101656677.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/966cf99edd62b765605d1445724a5051.jpg",
+            "originalPrice": "130.00",
+            "originalPriceShow": "৳ 130",
+            "price": "109",
+            "promotionId": "null",
+            "priceShow": "৳ 109",
+            "discount": "-16%",
+            "ratingScore": "4.85882",
+            "review": "85",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "167812143_BD-1101656677",
+            "sku": "167812143_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Baby Lotion",
+                "Brand: Meril",
+                "Capacity: 100ml",
+                "Has a sweet fragrance while giving your baby loving protection",
+                "Will improve your baby's overall health",
+                "Environment friendly"
+            ],
+            "brandId": "155667",
+            "brandName": "Meril",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/966cf99edd62b765605d1445724a5051.jpg",
+                    "productUrl": "/products/meril-baby-lotion-100-ml-i167812143-s1101656677.html",
+                    "sku": "167812143_BD",
+                    "skuId": "1101656677"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002692,
+                10002755
+            ],
+            "clickTrace": "query:;nid:167812143;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:167812143_BD;price:109;client:desktop;supplier_id:1000000;asc_category_id:10002755;item_id:167812143;sku_id:1101656677;shop_id:7474",
+            "addToCartSkus": [
+                {
+                    "sku": "167812143_BD-1101656677",
+                    "skuId": "1101656677",
+                    "count": 0
+                }
+            ],
+            "itemId": "167812143",
+            "skuId": "1101656677",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Baby U Shape Toothbrush Infant With Silicone Handle Oral Care Cleaning Brush For Kids Ages 2-12",
+            "nid": "230566536",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230566536",
+                "scene_pre": "search",
+                "current_price": "55",
+                "x_sku_ids": "1173966618",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "230566536"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-12-i230566536-s1173966618.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/dcc7fcacec0c0088c30ed1e5897edba8.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "55",
+            "promotionId": "null",
+            "priceShow": "৳ 55",
+            "discount": "-73%",
+            "ratingScore": "4.5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230566536_BD-1173966618",
+            "sku": "230566536_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510131169",
+            "mainSellerId": "",
+            "sellerName": "MUNSHI TRADERS BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/dcc7fcacec0c0088c30ed1e5897edba8.jpg",
+                    "productUrl": "/products/2-12-i230566536-s1173966618.html",
+                    "sku": "230566536_BD",
+                    "skuId": "1173966618"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002690
+            ],
+            "clickTrace": "query:;nid:230566536;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:230566536_BD;price:55;client:desktop;supplier_id:700510131169;asc_category_id:10002690;item_id:230566536;sku_id:1173966618;shop_id:230882",
+            "addToCartSkus": [
+                {
+                    "sku": "230566536_BD-1173966618",
+                    "skuId": "1173966618",
+                    "count": 0
+                }
+            ],
+            "itemId": "230566536",
+            "skuId": "1173966618",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Vicks BabyRub 25ml INDIAN",
+            "nid": "223796305",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223796305",
+                "scene_pre": "search",
+                "current_price": "150.00",
+                "x_sku_ids": "1169682881",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "223796305"
+            },
+            "productUrl": "//www.daraz.com.bd/products/vicks-babyrub-25ml-indian-i223796305-s1169682881.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e2e311763739ac9f0c4bceb47a2787d6.jpg",
+            "originalPrice": "220.00",
+            "originalPriceShow": "৳ 220",
+            "price": "150.00",
+            "promotionId": "null",
+            "priceShow": "৳ 150",
+            "discount": "-32%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223796305_BD-1169682881",
+            "sku": "223796305_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506387281",
+            "mainSellerId": "",
+            "sellerName": "NUREXPRESS",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e2e311763739ac9f0c4bceb47a2787d6.jpg",
+                    "productUrl": "/products/vicks-babyrub-25ml-indian-i223796305-s1169682881.html",
+                    "sku": "223796305_BD",
+                    "skuId": "1169682881"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002692,
+                10002755
+            ],
+            "clickTrace": "query:;nid:223796305;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:223796305_BD;price:150.00;client:desktop;supplier_id:700506387281;asc_category_id:10002755;item_id:223796305;sku_id:1169682881;shop_id:77143",
+            "addToCartSkus": [
+                {
+                    "sku": "223796305_BD-1169682881",
+                    "skuId": "1169682881",
+                    "count": 0
+                }
+            ],
+            "itemId": "223796305",
+            "skuId": "1169682881",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Baby Toothbrush Children U shaped Cleansing Infant Baby Soft Teeth Traning Cleaner Oral Care 1pc (2-6 years)",
+            "nid": "230617554",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230617554",
+                "scene_pre": "search",
+                "current_price": "73",
+                "x_sku_ids": "1174023418",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "230617554"
+            },
+            "productUrl": "//www.daraz.com.bd/products/u-1-2-6-i230617554-s1174023418.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d36ed9d95a3ae5a5090b2c1d5814e77f.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "73",
+            "promotionId": "null",
+            "priceShow": "৳ 73",
+            "discount": "-71%",
+            "ratingScore": "4.71429",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230617554_BD-1174023418",
+            "sku": "230617554_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510896473",
+            "mainSellerId": "",
+            "sellerName": "Mom & Kids Bazar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d36ed9d95a3ae5a5090b2c1d5814e77f.jpg",
+                    "productUrl": "/products/u-1-2-6-i230617554-s1174023418.html",
+                    "sku": "230617554_BD",
+                    "skuId": "1174023418"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002697
+            ],
+            "clickTrace": "query:;nid:230617554;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:230617554_BD;price:73;client:desktop;supplier_id:700510896473;asc_category_id:10002697;item_id:230617554;sku_id:1174023418;shop_id:234636",
+            "addToCartSkus": [
+                {
+                    "sku": "230617554_BD-1174023418",
+                    "skuId": "1174023418",
+                    "count": 0
+                }
+            ],
+            "itemId": "230617554",
+            "skuId": "1174023418",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Orange Gel Toothpaste For Baby - 45g",
+            "nid": "318266",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "58853",
+                "scene_pre": "search",
+                "current_price": "64.00",
+                "x_sku_ids": "436890",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "58853"
+            },
+            "productUrl": "//www.daraz.com.bd/products/orange-gel-toothpaste-for-baby-45g-i58853-s436890.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ab3a7848b329e44d53f3bfbfdb52fb33.jpg",
+            "originalPrice": "75.00",
+            "originalPriceShow": "৳ 75",
+            "price": "64.00",
+            "promotionId": "null",
+            "priceShow": "৳ 64",
+            "discount": "-15%",
+            "ratingScore": "4.91791",
+            "review": "134",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "ME466TB0SHAANNAFAMZ-481729",
+            "sku": "ME466TB0SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Product Type: Toothpaste",
+                "Brand: Meril",
+                "Capacity: 45g",
+                "Orange flavor",
+                "Fruitilicious Taste",
+                "Care of your baby's milk teeth and gums"
+            ],
+            "brandId": "155667",
+            "brandName": "Meril",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ab3a7848b329e44d53f3bfbfdb52fb33.jpg",
+                    "productUrl": "/products/orange-gel-toothpaste-for-baby-45g-i58853-s436890.html",
+                    "sku": "ME466TB0SHAANNAFAMZ",
+                    "skuId": "436890"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002693,
+                10002761
+            ],
+            "clickTrace": "query:;nid:318266;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:ME466TB0SHAANNAFAMZ;price:64.00;client:desktop;supplier_id:1000000;asc_category_id:10002761;item_id:58853;sku_id:436890;shop_id:7474",
+            "addToCartSkus": [
+                {
+                    "sku": "ME466TB0SHAANNAFAMZ-481729",
+                    "skuId": "436890",
+                    "count": 0
+                }
+            ],
+            "itemId": "58853",
+            "skuId": "436890",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Abzorb antifungal dusting powder-100g",
+            "nid": "198265243",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "198265243",
+                "scene_pre": "search",
+                "current_price": "443",
+                "x_sku_ids": "1145096009",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "198265243"
+            },
+            "productUrl": "//www.daraz.com.bd/products/abzorb-powder-100g-i198265243-s1145096009.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7a54963eb452b9563b0670033341536f.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "443",
+            "promotionId": "null",
+            "priceShow": "৳ 443",
+            "discount": "-2%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "198265243_BD-1145096009",
+            "sku": "198265243_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508787112",
+            "mainSellerId": "",
+            "sellerName": "H&E Fashion Bd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7a54963eb452b9563b0670033341536f.jpg",
+                    "productUrl": "/products/abzorb-powder-100g-i198265243-s1145096009.html",
+                    "sku": "198265243_BD",
+                    "skuId": "1145096009"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002692,
+                10002757
+            ],
+            "clickTrace": "query:;nid:198265243;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:198265243_BD;price:443;client:desktop;supplier_id:700508787112;asc_category_id:10002757;item_id:198265243;sku_id:1145096009;shop_id:185112",
+            "addToCartSkus": [
+                {
+                    "sku": "198265243_BD-1145096009",
+                    "skuId": "1145096009",
+                    "count": 0
+                }
+            ],
+            "itemId": "198265243",
+            "skuId": "1145096009",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "baby thumb toothbrush, baby toothbrush silicone milk toothbrush, finger toothbrush, baby tongue cleaning brush",
+            "nid": "194142804",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "194142804",
+                "scene_pre": "search",
+                "current_price": "30",
+                "x_sku_ids": "1140641614",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "194142804"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i194142804-s1140641614.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/8c6b1c7d4f2116389a782ddf7569d653.jpg",
+            "originalPrice": "95.00",
+            "originalPriceShow": "৳ 95",
+            "price": "30",
+            "promotionId": "null",
+            "priceShow": "৳ 30",
+            "discount": "-68%",
+            "ratingScore": "5",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "194142804_BD-1140641614",
+            "sku": "194142804_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1044508",
+            "mainSellerId": "",
+            "sellerName": "Sera Songroho",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/8c6b1c7d4f2116389a782ddf7569d653.jpg",
+                    "productUrl": "/products/-i194142804-s1140641614.html",
+                    "sku": "194142804_BD",
+                    "skuId": "1140641614"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002697
+            ],
+            "clickTrace": "query:;nid:194142804;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:194142804_BD;price:30;client:desktop;supplier_id:1044508;asc_category_id:10002697;item_id:194142804;sku_id:1140641614;shop_id:50141",
+            "addToCartSkus": [
+                {
+                    "sku": "194142804_BD-1140641614",
+                    "skuId": "1140641614",
+                    "count": 0
+                }
+            ],
+            "itemId": "194142804",
+            "skuId": "1140641614",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Kodomo Baby Hair & Body Wash 400ml",
+            "nid": "100233801",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "100233801",
+                "scene_pre": "search",
+                "current_price": "420.00",
+                "x_sku_ids": "1014115135",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "100233801"
+            },
+            "productUrl": "//www.daraz.com.bd/products/kodomo-baby-hair-body-wash-400ml-i100233801-s1014115135.html?search=1",
+            "image": "https://static-01.daraz.com.bd/original/b0ed77119ac8c20aec661953f5bc8f6b.jpg",
+            "originalPrice": "600.00",
+            "originalPriceShow": "৳ 600",
+            "price": "420.00",
+            "promotionId": "null",
+            "priceShow": "৳ 420",
+            "discount": "-30%",
+            "ratingScore": "4.92308",
+            "review": "13",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "100233801_BD-1014115135",
+            "sku": "100233801_BD",
+            "skus": [],
+            "description": [
+                "Hair & Body Wash",
+                "Baby Care",
+                "Body Wash",
+                "Country of Origin Thailand"
+            ],
+            "brandId": "36780",
+            "brandName": "Kodomo",
+            "sellerId": "1002213",
+            "mainSellerId": "",
+            "sellerName": "Pentagon International Limited",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/original/b0ed77119ac8c20aec661953f5bc8f6b.jpg",
+                    "productUrl": "/products/kodomo-baby-hair-body-wash-400ml-i100233801-s1014115135.html",
+                    "sku": "100233801_BD",
+                    "skuId": "1014115135"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002693,
+                10002759
+            ],
+            "clickTrace": "query:;nid:100233801;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:100233801_BD;price:420.00;client:desktop;supplier_id:1002213;asc_category_id:10002759;item_id:100233801;sku_id:1014115135;shop_id:8450",
+            "addToCartSkus": [
+                {
+                    "sku": "100233801_BD-1014115135",
+                    "skuId": "1014115135",
+                    "count": 0
+                }
+            ],
+            "itemId": "100233801",
+            "skuId": "1014115135",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Baby Nasal Aspirator 1 Pcs Nose Cleaner for baby made in china",
+            "nid": "184080947",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184080947",
+                "scene_pre": "search",
+                "current_price": "91",
+                "x_sku_ids": "1173235187",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "184080947"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cleaner-nasal-vacuum-soft-tip-tools-multicolor-i184080947-s1173235187.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/05dda16bd6f97dca5f9023438248cf44.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "91",
+            "promotionId": "null",
+            "priceShow": "৳ 91",
+            "discount": "-55%",
+            "ratingScore": "5",
+            "review": "8",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184080947_BD-1173235187",
+            "sku": "184080947_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507785276",
+            "mainSellerId": "",
+            "sellerName": "BTS TRADE",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/05dda16bd6f97dca5f9023438248cf44.jpg",
+                    "productUrl": "/products/cleaner-nasal-vacuum-soft-tip-tools-multicolor-i184080947-s1173235187.html",
+                    "sku": "184080947_BD",
+                    "skuId": "1173235187"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/dd8c3954c742c29947c814677abc821f.jpg",
+                    "productUrl": "/products/cleaner-nasal-vacuum-soft-tip-tools-multicolor-i184080947-s1173235189.html",
+                    "sku": "184080947_BD",
+                    "skuId": "1173235189"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f1d88c29c0fd1dfee5c715e223ebd690.jpg",
+                    "productUrl": "/products/cleaner-nasal-vacuum-soft-tip-tools-multicolor-i184080947-s1173235188.html",
+                    "sku": "184080947_BD",
+                    "skuId": "1173235188"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8fe69f13aa068aa6553bc6799300ffb7.jpg",
+                    "productUrl": "/products/cleaner-nasal-vacuum-soft-tip-tools-multicolor-i184080947-s1173235190.html",
+                    "sku": "184080947_BD",
+                    "skuId": "1173235190"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002690
+            ],
+            "clickTrace": "query:;nid:184080947;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:184080947_BD;price:91;client:desktop;supplier_id:700507785276;asc_category_id:10002690;item_id:184080947;sku_id:1173235187;shop_id:112376",
+            "addToCartSkus": [
+                {
+                    "sku": "184080947_BD-1173235187",
+                    "skuId": "1173235187",
+                    "count": 0
+                }
+            ],
+            "itemId": "184080947",
+            "skuId": "1173235187",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "2 pcs cotton Bib for kids-Blue,Pink(China)",
+            "nid": "121256775",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "121256775",
+                "scene_pre": "search",
+                "current_price": "91",
+                "x_sku_ids": "1040904837",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "121256775"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-i121256775-s1040904837.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/580c3559a749c177f481e71a9df61ca4.jpg",
+            "originalPrice": "325.00",
+            "originalPriceShow": "৳ 325",
+            "price": "91",
+            "promotionId": "null",
+            "priceShow": "৳ 91",
+            "discount": "-72%",
+            "ratingScore": "4.90566",
+            "review": "106",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "121256775_BD-1040904837",
+            "sku": "121256775_BD",
+            "skus": [],
+            "description": [
+                "Brand:Baby Shop",
+                "Product Type:CottonBib",
+                "Color:Blue,pink",
+                "Main material:Cotton",
+                "Gender:kids",
+                "Use it during feeding",
+                "Height:10inch",
+                "Easy to wash",
+                "Made in Chaina"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4638",
+            "mainSellerId": "",
+            "sellerName": "Baby Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/580c3559a749c177f481e71a9df61ca4.jpg",
+                    "productUrl": "/products/2-i121256775-s1040904837.html",
+                    "sku": "121256775_BD",
+                    "skuId": "1040904837"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002696,
+                10002764
+            ],
+            "clickTrace": "query:;nid:121256775;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:121256775_BD;price:91;client:desktop;supplier_id:4638;asc_category_id:10002764;item_id:121256775;sku_id:1040904837;shop_id:4689",
+            "addToCartSkus": [
+                {
+                    "sku": "121256775_BD-1040904837",
+                    "skuId": "1040904837",
+                    "count": 0
+                }
+            ],
+            "itemId": "121256775",
+            "skuId": "1040904837",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Silicone Baby Finger Tooth Brush",
+            "nid": "218787929",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "218787929",
+                "scene_pre": "search",
+                "current_price": "36",
+                "x_sku_ids": "1166486853",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "218787929"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i218787929-s1166486853.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/249c6f1c404aaeb2db4c7bdfc52bc18a.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "36",
+            "promotionId": "null",
+            "priceShow": "৳ 36",
+            "discount": "-76%",
+            "ratingScore": "5",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "218787929_BD-1166486853",
+            "sku": "218787929_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506396280",
+            "mainSellerId": "",
+            "sellerName": "BOATMAN",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/249c6f1c404aaeb2db4c7bdfc52bc18a.jpg",
+                    "productUrl": "/products/-i218787929-s1166486853.html",
+                    "sku": "218787929_BD",
+                    "skuId": "1166486853"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6a90759d5caee330aa22d2340deb0647.jpg",
+                    "productUrl": "/products/-i218787929-s1166486855.html",
+                    "sku": "218787929_BD",
+                    "skuId": "1166486855"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/352040c88610e64b4e8d7858bc784453.jpg",
+                    "productUrl": "/products/-i218787929-s1166486854.html",
+                    "sku": "218787929_BD",
+                    "skuId": "1166486854"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002697
+            ],
+            "clickTrace": "query:;nid:218787929;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:218787929_BD;price:36;client:desktop;supplier_id:700506396280;asc_category_id:10002697;item_id:218787929;sku_id:1166486853;shop_id:77404",
+            "addToCartSkus": [
+                {
+                    "sku": "218787929_BD-1166486853",
+                    "skuId": "1166486853",
+                    "count": 0
+                }
+            ],
+            "itemId": "218787929",
+            "skuId": "1166486853",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Johnson's Baby Soap Blossoms 75 g",
+            "nid": "132892267",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132892267",
+                "scene_pre": "search",
+                "current_price": "89",
+                "x_sku_ids": "1054156749",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "132892267"
+            },
+            "productUrl": "//www.daraz.com.bd/products/johnsons-baby-soap-blossoms-75-g-i132892267-s1054156749.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/db3e8ed565822d65c35a1d7cfac92384.jpg",
+            "originalPrice": "100.00",
+            "originalPriceShow": "৳ 100",
+            "price": "89",
+            "promotionId": "null",
+            "priceShow": "৳ 89",
+            "discount": "-11%",
+            "ratingScore": "4.94444",
+            "review": "36",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132892267_BD-1054156749",
+            "sku": "132892267_BD",
+            "skus": [],
+            "description": [
+                "Package may or may not be in original shape/box",
+                "Product Type: Baby Soap",
+                "Brand: Johnson's Baby",
+                "Capacity: 75g",
+                "Country of Origin: India"
+            ],
+            "brandId": "31197",
+            "brandName": "Johnson's Baby",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/db3e8ed565822d65c35a1d7cfac92384.jpg",
+                    "productUrl": "/products/johnsons-baby-soap-blossoms-75-g-i132892267-s1054156749.html",
+                    "sku": "132892267_BD",
+                    "skuId": "1054156749"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002693,
+                10002760
+            ],
+            "clickTrace": "query:;nid:132892267;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:132892267_BD;price:89;client:desktop;supplier_id:1000000;asc_category_id:10002760;item_id:132892267;sku_id:1054156749;shop_id:96945",
+            "addToCartSkus": [
+                {
+                    "sku": "132892267_BD-1054156749",
+                    "skuId": "1054156749",
+                    "count": 0
+                }
+            ],
+            "itemId": "132892267",
+            "skuId": "1054156749",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Johnson's Baby Milk Soap 75 g",
+            "nid": "132898111",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132898111",
+                "scene_pre": "search",
+                "current_price": "85",
+                "x_sku_ids": "1054158664",
+                "SN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "x_ad": "1",
+                "x_object_id": "132898111"
+            },
+            "productUrl": "//www.daraz.com.bd/products/johnsons-baby-milk-soap-75-g-i132898111-s1054158664.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/05384d2ffa767b38433d151f0c9384d4.jpg",
+            "originalPrice": "95.00",
+            "originalPriceShow": "৳ 95",
+            "price": "85",
+            "promotionId": "null",
+            "priceShow": "৳ 85",
+            "discount": "-11%",
+            "ratingScore": "4.94805",
+            "review": "77",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132898111_BD-1054158664",
+            "sku": "132898111_BD",
+            "skus": [],
+            "description": [
+                "Package may or may not be in original shape/box",
+                "Product Type: Baby Soap",
+                "Brand: Johnson's Baby",
+                "Capacity: 75g",
+                "Country of Origin: India"
+            ],
+            "brandId": "31197",
+            "brandName": "Johnson's Baby",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/05384d2ffa767b38433d151f0c9384d4.jpg",
+                    "productUrl": "/products/johnsons-baby-milk-soap-75-g-i132898111-s1054158664.html",
+                    "sku": "132898111_BD",
+                    "skuId": "1054158664"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                10002677,
+                10002693,
+                10002760
+            ],
+            "clickTrace": "query:;nid:132898111;src:LazadaMainSrp;rn:55b4c1c6dd96f8c58e2fcd8eb4a78527;region:bd;sku:132898111_BD;price:85;client:desktop;supplier_id:1000000;asc_category_id:10002760;item_id:132898111;sku_id:1054158664;shop_id:96945",
+            "addToCartSkus": [
+                {
+                    "sku": "132898111_BD-1054158664",
+                    "skuId": "1054158664",
+                    "count": 0
+                }
+            ],
+            "itemId": "132898111",
+            "skuId": "1054158664",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/mother-baby/",
+            "title": "Mother & Baby"
+        },
+        {
+            "url": "/baby-personal-care/",
+            "title": "Baby Personal Care"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/baby-personal-care/?referer_rn=55b4c1c6dd96f8c58e2fcd8eb4a78527&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {},
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/lotions/?item_id=139898990&from=onesearch_category_10002677",
+                "name": "Lotions & Creams",
+                "image": "//static-01.daraz.com.bd/p/8964183e5077ba37fbb75b696efb7b05.jpg",
+                "id": "10002755"
+            },
+            {
+                "url": "/grooming-heathcare/?item_id=216375247&from=onesearch_category_10002677",
+                "name": "Grooming & Healthcare Kits",
+                "image": "//static-01.daraz.com.bd/p/afdf02b046dbaf055b8aa48c149e48a8.png",
+                "id": "10002690"
+            },
+            {
+                "url": "/baby-oral-care/?item_id=206994503&from=onesearch_category_10002677",
+                "name": "Toothbrushes & Toothpaste",
+                "image": "//static-01.daraz.com.bd/p/352040c88610e64b4e8d7858bc784453.jpg",
+                "id": "10002697"
+            },
+            {
+                "url": "/bath-tubs-seats/?item_id=140046387&from=onesearch_category_10002677",
+                "name": "Bathing Tubs & Seats",
+                "image": "//static-01.daraz.com.bd/p/4d809152123c794df82aa5cc8216ab48.jpg",
+                "id": "10002687"
+            },
+            {
+                "url": "/baby-wash-clothes/?item_id=131994017&from=onesearch_category_10002677",
+                "name": "Washcloths",
+                "image": "//static-01.daraz.com.bd/p/mdc/655efbeb09f99233f931829c3203b0af.png",
+                "id": "10002764"
+            },
+            {
+                "url": "/baby-hooded-towels/?item_id=156826416&from=onesearch_category_10002677",
+                "name": "Hooded Towels",
+                "image": "//static-01.daraz.com.bd/p/mdc/fab10b09d9d07ea82207f16fb8ed5ee5.jpg",
+                "id": "10002763"
+            },
+            {
+                "url": "/soap-body-wash/?item_id=101186216&from=onesearch_category_10002677",
+                "name": "Body Wash",
+                "image": "//static-01.daraz.com.bd/p/289ffbdf6af412c864fda6a458ff51c4.jpg",
+                "id": "10002759"
+            },
+            {
+                "url": "/powder-skin-care/?item_id=225459583&from=onesearch_category_10002677",
+                "name": "Powders",
+                "image": "//static-01.daraz.com.bd/p/76ac310fb561907d3d7efbe3067f420a.jpg",
+                "id": "10002757"
+            },
+            {
+                "url": "/baby-shampoo-conditioners/?item_id=58854&from=onesearch_category_10002677",
+                "name": "Shampoo & Conditioners",
+                "image": "//static-01.daraz.com.bd/p/d2ab066a590221c0fbadfb7f97f84cbb.jpg",
+                "id": "10002689"
+            },
+            {
+                "url": "/oils/?item_id=101182198&from=onesearch_category_10002677",
+                "name": "Oils",
+                "image": "//static-01.daraz.com.bd/p/ad98308deaabe7f11b7a99e333573e47.jpg",
+                "id": "10002756"
+            },
+            {
+                "url": "/baby-bar-soaps/?item_id=117344218&from=onesearch_category_10002677",
+                "name": "Bar Soaps",
+                "image": "//static-01.daraz.com.bd/p/7c157f60b927e7bc350820c336862fc2.jpg",
+                "id": "10002758"
+            },
+            {
+                "url": "/baby-foaming-soaps/?item_id=132892267&from=onesearch_category_10002677",
+                "name": "Foaming Soaps",
+                "image": "//static-01.daraz.com.bd/p/db3e8ed565822d65c35a1d7cfac92384.jpg",
+                "id": "10002760"
+            },
+            {
+                "url": "/baby-aromatherapy/?item_id=209703624&from=onesearch_category_10002677",
+                "name": "Aromatherapy",
+                "image": "//static-01.daraz.com.bd/p/b0a2d97eba69b597105ee979632f8695.jpg",
+                "id": "10002686"
+            },
+            {
+                "url": "/womens-baby-cleansing/?item_id=58853&from=onesearch_category_10002677",
+                "name": "Hypoallergenic Cleansers",
+                "image": "//static-01.daraz.com.bd/p/ab3a7848b329e44d53f3bfbfdb52fb33.jpg",
+                "id": "10002761"
+            },
+            {
+                "url": "/baby-detergent/?item_id=183920860&from=onesearch_category_10002677",
+                "name": "Baby Detergent",
+                "image": "//static-01.daraz.com.bd/p/2bd39c7cfb9c9391f2c90d666d786049.jpg",
+                "id": "10002954"
+            },
+            {
+                "url": "/baby-bubble-bath/?item_id=100291794&from=onesearch_category_10002677",
+                "name": "Bubble Bath",
+                "image": "//static-01.daraz.com.bd/p/14e5972c7701df47fbbed02011d3bed1.jpg",
+                "id": "10002688"
+            },
+            {
+                "url": "/baby-non-slip-bath-mats/?item_id=208542799&from=onesearch_category_10002677",
+                "name": "Non-Slip Bath Mats",
+                "image": "//static-01.daraz.com.bd/p/539ca284c9ccebad22338ce0f209660e.jpg",
+                "id": "10002691"
+            },
+            {
+                "url": "/baby-travel-bathing-kits/?item_id=230240442&from=onesearch_category_10002677",
+                "name": "Travel Bathing Kits",
+                "image": "//static-01.daraz.com.bd/p/eb58bbe0be1f026d0fb0d1e0d6a3f64e.png",
+                "id": "10002695"
+            },
+            {
+                "url": "/baby-sun-protection/?item_id=135174198&from=onesearch_category_10002677",
+                "name": "Sun Protection",
+                "image": "//static-01.daraz.com.bd/p/b24d4818974f6ec1f7cd389f5741caf9.png",
+                "id": "10002698"
+            },
+            {
+                "url": "/baby-colognes-fragrances/?item_id=168900391&from=onesearch_category_10002677",
+                "name": "Baby Colognes & Frangrances",
+                "image": "//static-01.daraz.com.bd/p/mdc/bb920554f3a1219123b51b2fdabae791.jpg",
+                "id": "10002694"
+            },
+            {
+                "url": "/baby-no-rinse-cleansers/?item_id=199416830&from=onesearch_category_10002677",
+                "name": "No-Rinse Cleansers",
+                "image": "//static-01.daraz.com.bd/p/bf127a5e89fc4376e0e2407401e20f32.jpg",
+                "id": "10002762"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_10002677"
+        },
+        "title": "",
+        "bizId": "onesearch_category_10002677",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "15206 items found in {$0}",
+        "title": "Baby Personal Care",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Baby Personal Care"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Baby Personal Care",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "10002677",
+            "category": "10002677"
+        },
+        "categoryRegionalKey": "181200000000",
+        "mainCategoryRegionalKey": "180000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "বেবী ব্যক্তিগত পরিচর্যা at Best Price | 20% Off on Daraz | Buy Online",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Mother & Baby,Baby Personal Care",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "181200000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=10002677&_p_asc_cateid=10002677",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "baby-personal-care",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "55b4c1c6dd96f8c58e2fcd8eb4a78527",
+                "resultNr": 15206,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1169642370",
+                "1036536484",
+                "1156424254"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "10002677",
+            "category": "10002677"
+        }
+    }
+}

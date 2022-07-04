@@ -1,0 +1,4479 @@
+{
+    "listItems": [
+        {
+            "name": "Baby Cotton Soft Shoes for (0-6 Months)-Multicolor",
+            "nid": "206375759",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "206375759",
+                "scene_pre": "search",
+                "current_price": "155",
+                "x_sku_ids": "1155486747",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "206375759"
+            },
+            "productUrl": "//www.daraz.com.bd/products/0-12-i206375759-s1155486747.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1643a5b07b3b9964c4512903197c1761.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "155",
+            "promotionId": "null",
+            "priceShow": "৳ 155",
+            "discount": "-61%",
+            "ratingScore": "4.66071",
+            "review": "56",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "206375759_BD-1155486747",
+            "sku": "206375759_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5158",
+            "mainSellerId": "",
+            "sellerName": "Beautiful Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1643a5b07b3b9964c4512903197c1761.jpg",
+                    "productUrl": "/products/0-12-i206375759-s1155486747.html",
+                    "sku": "206375759_BD",
+                    "skuId": "1155486747"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8048222800e5092e680a96dc8847ee6d.jpg",
+                    "productUrl": "/products/0-12-i206375759-s1155486745.html",
+                    "sku": "206375759_BD",
+                    "skuId": "1155486745"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f4a9c4bf8e76ba26466dd1a86bc1cb30.jpg",
+                    "productUrl": "/products/0-12-i206375759-s1155486746.html",
+                    "sku": "206375759_BD",
+                    "skuId": "1155486746"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                9021,
+                9054,
+                9060
+            ],
+            "clickTrace": "query:;nid:206375759;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:206375759_BD;price:155;client:desktop;supplier_id:5158;asc_category_id:9060;item_id:206375759;sku_id:1155486747;shop_id:5173",
+            "addToCartSkus": [
+                {
+                    "sku": "206375759_BD-1155486747",
+                    "skuId": "1155486747",
+                    "count": 0
+                }
+            ],
+            "itemId": "206375759",
+            "skuId": "1155486747",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Newborn Baby Soft Shoes for (0-12 Months)",
+            "nid": "218264612",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "218264612",
+                "scene_pre": "search",
+                "current_price": "163",
+                "x_sku_ids": "1166122938",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "218264612"
+            },
+            "productUrl": "//www.daraz.com.bd/products/0-12-i218264612-s1166122938.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/77b780218d3e7bfdd7a8437b272cdbc8.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "163",
+            "promotionId": "null",
+            "priceShow": "৳ 163",
+            "discount": "-53%",
+            "ratingScore": "4.89474",
+            "review": "19",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "218264612_BD-1166122938",
+            "sku": "218264612_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506402269",
+            "mainSellerId": "",
+            "sellerName": "Eco Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/77b780218d3e7bfdd7a8437b272cdbc8.jpg",
+                    "productUrl": "/products/0-12-i218264612-s1166122938.html",
+                    "sku": "218264612_BD",
+                    "skuId": "1166122938"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/13277ff6d61836a21d9b14ea20bf2d1a.jpg",
+                    "productUrl": "/products/0-12-i218264612-s1166139078.html",
+                    "sku": "218264612_BD",
+                    "skuId": "1166139078"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b0bcf3a2ee20f8cbfa7d6cfd505c0ecb.jpg",
+                    "productUrl": "/products/0-12-i218264612-s1166122939.html",
+                    "sku": "218264612_BD",
+                    "skuId": "1166122939"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                9021,
+                9054,
+                9060
+            ],
+            "clickTrace": "query:;nid:218264612;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:218264612_BD;price:163;client:desktop;supplier_id:700506402269;asc_category_id:9060;item_id:218264612;sku_id:1166122938;shop_id:77387",
+            "addToCartSkus": [
+                {
+                    "sku": "218264612_BD-1166122938",
+                    "skuId": "1166122938",
+                    "count": 0
+                }
+            ],
+            "itemId": "218264612",
+            "skuId": "1166122938",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Kids Non Slip Crawling Elbow Infants Toddlers Baby Accessories Smile Knee Pads Protector Safety Kneepad Leg Warmer Girls Boys- 1Pair",
+            "nid": "148764288",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "148764288",
+                "scene_pre": "search",
+                "current_price": "77",
+                "x_sku_ids": "1074910393",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "148764288"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i148764288-s1074910393.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/d1201566c05414a4143660b5acf1965f.png",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "77",
+            "promotionId": "null",
+            "priceShow": "৳ 77",
+            "discount": "-78%",
+            "ratingScore": "4.54839",
+            "review": "31",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "148764288_BD-1074910393",
+            "sku": "148764288_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1017677",
+            "mainSellerId": "",
+            "sellerName": "PUTUL",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/d1201566c05414a4143660b5acf1965f.png",
+                    "productUrl": "/products/1-i148764288-s1074910393.html",
+                    "sku": "148764288_BD",
+                    "skuId": "1074910393"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                9021,
+                9061,
+                9064
+            ],
+            "clickTrace": "query:;nid:148764288;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:148764288_BD;price:77;client:desktop;supplier_id:1017677;asc_category_id:9064;item_id:148764288;sku_id:1074910393;shop_id:23957",
+            "addToCartSkus": [
+                {
+                    "sku": "148764288_BD-1074910393",
+                    "skuId": "1074910393",
+                    "count": 0
+                }
+            ],
+            "itemId": "148764288",
+            "skuId": "1074910393",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Baby Knee Pad Kids Safety Breathable Crawling Elbow Knee Protective Pad Warmers For Infant Toddlers-1Pair",
+            "nid": "151862104",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "151862104",
+                "scene_pre": "search",
+                "current_price": "120.00",
+                "x_sku_ids": "1079234082",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "151862104"
+            },
+            "productUrl": "//www.daraz.com.bd/products/toddlers-1pair-i151862104-s1079234082.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/dcd4e7e3dd9340807902b04312323da2.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "120.00",
+            "promotionId": "null",
+            "priceShow": "৳ 120",
+            "discount": "-52%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "151862104_BD-1079234082",
+            "sku": "151862104_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507338093",
+            "mainSellerId": "",
+            "sellerName": "RK Tech Point",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/dcd4e7e3dd9340807902b04312323da2.jpg",
+                    "productUrl": "/products/toddlers-1pair-i151862104-s1079234082.html",
+                    "sku": "151862104_BD",
+                    "skuId": "1079234082"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                9021,
+                9061,
+                9064
+            ],
+            "clickTrace": "query:;nid:151862104;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:151862104_BD;price:120.00;client:desktop;supplier_id:700507338093;asc_category_id:9064;item_id:151862104;sku_id:1079234082;shop_id:90893",
+            "addToCartSkus": [
+                {
+                    "sku": "151862104_BD-1079234082",
+                    "skuId": "1079234082",
+                    "count": 0
+                }
+            ],
+            "itemId": "151862104",
+            "skuId": "1079234082",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cotton Nappy For Baby - 7pcs - Multicolor",
+            "nid": "151336941",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "151336941",
+                "scene_pre": "search",
+                "current_price": "120",
+                "x_sku_ids": "1078446504",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "151336941"
+            },
+            "productUrl": "//www.daraz.com.bd/products/7-i151336941-s1078446504.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/15bba816f1c85985303460cbbc817d23.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "120",
+            "promotionId": "null",
+            "priceShow": "৳ 120",
+            "discount": "-52%",
+            "ratingScore": "4.63235",
+            "review": "136",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "151336941_BD-1078446504",
+            "sku": "151336941_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507677246",
+            "mainSellerId": "",
+            "sellerName": "Style Collection Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/15bba816f1c85985303460cbbc817d23.jpg",
+                    "productUrl": "/products/7-i151336941-s1078446504.html",
+                    "sku": "151336941_BD",
+                    "skuId": "1078446504"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8966,
+                8970
+            ],
+            "clickTrace": "query:;nid:151336941;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:151336941_BD;price:120;client:desktop;supplier_id:700507677246;asc_category_id:8970;item_id:151336941;sku_id:1078446504;shop_id:105166",
+            "addToCartSkus": [
+                {
+                    "sku": "151336941_BD-1078446504",
+                    "skuId": "1078446504",
+                    "count": 0
+                }
+            ],
+            "itemId": "151336941",
+            "skuId": "1078446504",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cotton Newborn baby Nima 6 pcs combo, Soft & High Quality Multi-color",
+            "nid": "135140638",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "135140638",
+                "scene_pre": "search",
+                "current_price": "165",
+                "x_sku_ids": "1057056724",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "135140638"
+            },
+            "productUrl": "//www.daraz.com.bd/products/6-i135140638-s1057056724.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/14f4589e763ee6bb9cf30eaad7ef6a34.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "165",
+            "promotionId": "null",
+            "priceShow": "৳ 165",
+            "discount": "-53%",
+            "ratingScore": "4.87179",
+            "review": "78",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "135140638_BD-1057056724",
+            "sku": "135140638_BD",
+            "skus": [],
+            "description": [
+                "Almost every baby will enjoy it",
+                "Appropriate for summer",
+                "Thin & Comfortable with Kushikata design",
+                "Unique design which provides an attractive look in it",
+                "The material used in it will meet your expectation and need also",
+                "Enjoy the feel of the good quality product",
+                "Age group: 0-6 months",
+                "Product type: Nima",
+                "6 pcs Color Nima",
+                "Material: 100% Cotton",
+                "Color: Multicolor",
+                "Size: N/A",
+                "Weight: 150 GM"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1043668",
+            "mainSellerId": "",
+            "sellerName": "Impressive House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/14f4589e763ee6bb9cf30eaad7ef6a34.jpg",
+                    "productUrl": "/products/6-i135140638-s1057056724.html",
+                    "sku": "135140638_BD",
+                    "skuId": "1057056724"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8966,
+                8967
+            ],
+            "clickTrace": "query:;nid:135140638;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:135140638_BD;price:165;client:desktop;supplier_id:1043668;asc_category_id:8967;item_id:135140638;sku_id:1057056724;shop_id:49329",
+            "addToCartSkus": [
+                {
+                    "sku": "135140638_BD-1057056724",
+                    "title": "S",
+                    "skuId": "1057056724",
+                    "count": 0
+                }
+            ],
+            "itemId": "135140638",
+            "skuId": "1057056724",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Baby Girl  Long Frock One Piece",
+            "nid": "224229038",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "224229038",
+                "scene_pre": "search",
+                "current_price": "149.00",
+                "x_sku_ids": "1182122116",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "224229038"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i224229038-s1182122116.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/606ade8c66e65d35cf085e15fcfe42c9.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "149.00",
+            "promotionId": "null",
+            "priceShow": "৳ 149",
+            "discount": "-40%",
+            "ratingScore": "4.71818",
+            "review": "110",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "224229038_BD-1182122116",
+            "sku": "224229038_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509906122",
+            "mainSellerId": "",
+            "sellerName": "Burgandi Knit Wear",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/606ade8c66e65d35cf085e15fcfe42c9.jpg",
+                    "productUrl": "/products/-i224229038-s1182122116.html",
+                    "sku": "224229038_BD",
+                    "skuId": "1182122116"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f870b5355f17e44c4115a3f924b9c6f0.jpg",
+                    "productUrl": "/products/-i224229038-s1182122123.html",
+                    "sku": "224229038_BD",
+                    "skuId": "1182122123"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f870b5355f17e44c4115a3f924b9c6f0.jpg",
+                    "productUrl": "/products/-i224229038-s1182122121.html",
+                    "sku": "224229038_BD",
+                    "skuId": "1182122121"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f870b5355f17e44c4115a3f924b9c6f0.jpg",
+                    "productUrl": "/products/-i224229038-s1182122122.html",
+                    "sku": "224229038_BD",
+                    "skuId": "1182122122"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f870b5355f17e44c4115a3f924b9c6f0.jpg",
+                    "productUrl": "/products/-i224229038-s1182122120.html",
+                    "sku": "224229038_BD",
+                    "skuId": "1182122120"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/02742d8814326886d01c49443cea0b52.jpg",
+                    "productUrl": "/products/-i224229038-s1182122130.html",
+                    "sku": "224229038_BD",
+                    "skuId": "1182122130"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/57f38fbee42b435630e3b562b4800e91.jpg",
+                    "productUrl": "/products/-i224229038-s1182122127.html",
+                    "sku": "224229038_BD",
+                    "skuId": "1182122127"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/57f38fbee42b435630e3b562b4800e91.jpg",
+                    "productUrl": "/products/-i224229038-s1182122125.html",
+                    "sku": "224229038_BD",
+                    "skuId": "1182122125"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/57f38fbee42b435630e3b562b4800e91.jpg",
+                    "productUrl": "/products/-i224229038-s1182122126.html",
+                    "sku": "224229038_BD",
+                    "skuId": "1182122126"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/02742d8814326886d01c49443cea0b52.jpg",
+                    "productUrl": "/products/-i224229038-s1182122131.html",
+                    "sku": "224229038_BD",
+                    "skuId": "1182122131"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/57f38fbee42b435630e3b562b4800e91.jpg",
+                    "productUrl": "/products/-i224229038-s1182122124.html",
+                    "sku": "224229038_BD",
+                    "skuId": "1182122124"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/606ade8c66e65d35cf085e15fcfe42c9.jpg",
+                    "productUrl": "/products/-i224229038-s1182122119.html",
+                    "sku": "224229038_BD",
+                    "skuId": "1182122119"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/606ade8c66e65d35cf085e15fcfe42c9.jpg",
+                    "productUrl": "/products/-i224229038-s1182122117.html",
+                    "sku": "224229038_BD",
+                    "skuId": "1182122117"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/02742d8814326886d01c49443cea0b52.jpg",
+                    "productUrl": "/products/-i224229038-s1182122128.html",
+                    "sku": "224229038_BD",
+                    "skuId": "1182122128"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/02742d8814326886d01c49443cea0b52.jpg",
+                    "productUrl": "/products/-i224229038-s1182122129.html",
+                    "sku": "224229038_BD",
+                    "skuId": "1182122129"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/606ade8c66e65d35cf085e15fcfe42c9.jpg",
+                    "productUrl": "/products/-i224229038-s1182122118.html",
+                    "sku": "224229038_BD",
+                    "skuId": "1182122118"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8972,
+                8973,
+                8976
+            ],
+            "clickTrace": "query:;nid:224229038;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:224229038_BD;price:149.00;client:desktop;supplier_id:700509906122;asc_category_id:8976;item_id:224229038;sku_id:1182122116;shop_id:220015",
+            "addToCartSkus": [
+                {
+                    "sku": "224229038_BD-1182122116",
+                    "skuId": "1182122116",
+                    "count": 0
+                }
+            ],
+            "itemId": "224229038",
+            "skuId": "1182122116",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Baby Girls Crib Shoes Toddler Birthday Party Home Prewalker Soft Non-Slip Crib Baby Girls Shoes(6 to 12 month)",
+            "nid": "230569511",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230569511",
+                "scene_pre": "search",
+                "current_price": "147",
+                "x_sku_ids": "1173957925",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "230569511"
+            },
+            "productUrl": "//www.daraz.com.bd/products/6-12-i230569511-s1173957925.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1527369ed2f652dbe8599af987ea1318.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "147",
+            "promotionId": "null",
+            "priceShow": "৳ 147",
+            "discount": "-51%",
+            "ratingScore": "4.85714",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230569511_BD-1173957925",
+            "sku": "230569511_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510896473",
+            "mainSellerId": "",
+            "sellerName": "Mom & Kids Bazar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1527369ed2f652dbe8599af987ea1318.jpg",
+                    "productUrl": "/products/6-12-i230569511-s1173957925.html",
+                    "sku": "230569511_BD",
+                    "skuId": "1173957925"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bbb25b2b52884d0a371d08c17b71a854.jpg",
+                    "productUrl": "/products/6-12-i230569511-s1173957926.html",
+                    "sku": "230569511_BD",
+                    "skuId": "1173957926"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8972,
+                9006,
+                9009
+            ],
+            "clickTrace": "query:;nid:230569511;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:230569511_BD;price:147;client:desktop;supplier_id:700510896473;asc_category_id:9009;item_id:230569511;sku_id:1173957925;shop_id:234636",
+            "addToCartSkus": [
+                {
+                    "sku": "230569511_BD-1173957925",
+                    "skuId": "1173957925",
+                    "count": 0
+                }
+            ],
+            "itemId": "230569511",
+            "skuId": "1173957925",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Assorted Baby Romper Bodysuit  Baby Keeper Unisex Zero 0 Month- 36 Month Cotton High Quality",
+            "nid": "225887599",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225887599",
+                "scene_pre": "search",
+                "current_price": "61",
+                "x_sku_ids": "1170773275",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "225887599"
+            },
+            "productUrl": "//www.daraz.com.bd/products/0-36-i225887599-s1170773275.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3df766576527bf436d154370e540763c.jpg",
+            "originalPrice": "220.00",
+            "originalPriceShow": "৳ 220",
+            "price": "61",
+            "promotionId": "null",
+            "priceShow": "৳ 61",
+            "discount": "-72%",
+            "ratingScore": "4.8169",
+            "review": "71",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225887599_BD-1170773275",
+            "sku": "225887599_BD",
+            "skus": [],
+            "description": [
+                "Item: 1pcs Baby Romper/ 3pcs set",
+                "Type: Baby Romper, New Born bodysuit, Baby Jumpsuit",
+                "Category: Kids Fashion Wear",
+                "Unisex (For both Girl and Boy)",
+                "Material: 100% Cotton",
+                "Pattern: Printed",
+                "High-Quality Baby Gift item"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508478211",
+            "mainSellerId": "",
+            "sellerName": "Country Soul",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3df766576527bf436d154370e540763c.jpg",
+                    "productUrl": "/products/0-36-i225887599-s1170773275.html",
+                    "sku": "225887599_BD",
+                    "skuId": "1170773275"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3df766576527bf436d154370e540763c.jpg",
+                    "productUrl": "/products/0-36-i225887599-s1170773274.html",
+                    "sku": "225887599_BD",
+                    "skuId": "1170773274"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7ab5ec0cab63abe56604b6e528e153ea.jpg",
+                    "productUrl": "/products/0-36-i225887599-s1178476598.html",
+                    "sku": "225887599_BD",
+                    "skuId": "1178476598"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3df766576527bf436d154370e540763c.jpg",
+                    "productUrl": "/products/0-36-i225887599-s1170773273.html",
+                    "sku": "225887599_BD",
+                    "skuId": "1170773273"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3df766576527bf436d154370e540763c.jpg",
+                    "productUrl": "/products/0-36-i225887599-s1170773272.html",
+                    "sku": "225887599_BD",
+                    "skuId": "1170773272"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7ab5ec0cab63abe56604b6e528e153ea.jpg",
+                    "productUrl": "/products/0-36-i225887599-s1178476595.html",
+                    "sku": "225887599_BD",
+                    "skuId": "1178476595"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7ab5ec0cab63abe56604b6e528e153ea.jpg",
+                    "productUrl": "/products/0-36-i225887599-s1178476596.html",
+                    "sku": "225887599_BD",
+                    "skuId": "1178476596"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7ab5ec0cab63abe56604b6e528e153ea.jpg",
+                    "productUrl": "/products/0-36-i225887599-s1178476599.html",
+                    "sku": "225887599_BD",
+                    "skuId": "1178476599"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7ab5ec0cab63abe56604b6e528e153ea.jpg",
+                    "productUrl": "/products/0-36-i225887599-s1178476597.html",
+                    "sku": "225887599_BD",
+                    "skuId": "1178476597"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7ab5ec0cab63abe56604b6e528e153ea.jpg",
+                    "productUrl": "/products/0-36-i225887599-s1178476600.html",
+                    "sku": "225887599_BD",
+                    "skuId": "1178476600"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8966,
+                8967
+            ],
+            "clickTrace": "query:;nid:225887599;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:225887599_BD;price:61;client:desktop;supplier_id:700508478211;asc_category_id:8967;item_id:225887599;sku_id:1170773275;shop_id:162257",
+            "addToCartSkus": [
+                {
+                    "sku": "225887599_BD-1170773275",
+                    "skuId": "1170773275",
+                    "count": 0
+                }
+            ],
+            "itemId": "225887599",
+            "skuId": "1170773275",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "4 Piece Cotton Nima for New Born Baby",
+            "nid": "187440597",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "187440597",
+                "scene_pre": "search",
+                "current_price": "117",
+                "x_sku_ids": "1134339884",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "187440597"
+            },
+            "productUrl": "//www.daraz.com.bd/products/4-i187440597-s1134339884.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/70e2723779626ab6616a8b71e35b15dc.jpg",
+            "originalPrice": "352.00",
+            "originalPriceShow": "৳ 352",
+            "price": "117",
+            "promotionId": "null",
+            "priceShow": "৳ 117",
+            "discount": "-67%",
+            "ratingScore": "4.875",
+            "review": "32",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "187440597_BD-1134339884",
+            "sku": "187440597_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1001831",
+            "mainSellerId": "",
+            "sellerName": "Rokomari Fashion House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/70e2723779626ab6616a8b71e35b15dc.jpg",
+                    "productUrl": "/products/4-i187440597-s1134339884.html",
+                    "sku": "187440597_BD",
+                    "skuId": "1134339884"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8966,
+                8970
+            ],
+            "clickTrace": "query:;nid:187440597;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:187440597_BD;price:117;client:desktop;supplier_id:1001831;asc_category_id:8970;item_id:187440597;sku_id:1134339884;shop_id:8107",
+            "addToCartSkus": [
+                {
+                    "sku": "187440597_BD-1134339884",
+                    "skuId": "1134339884",
+                    "count": 0
+                }
+            ],
+            "itemId": "187440597",
+            "skuId": "1134339884",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "8 Pcs Nima For Baby (0-6 Months)-Multicolor",
+            "nid": "133056250",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "133056250",
+                "scene_pre": "search",
+                "current_price": "231",
+                "x_sku_ids": "1054482993",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "133056250"
+            },
+            "productUrl": "//www.daraz.com.bd/products/8-0-6-i133056250-s1054482993.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/4c1533f20a124a5af729c8f4a1ae5f05.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "231",
+            "promotionId": "null",
+            "priceShow": "৳ 231",
+            "discount": "-49%",
+            "ratingScore": "4.67391",
+            "review": "92",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "133056250_BD-1054482993",
+            "sku": "133056250_BD",
+            "skus": [],
+            "description": [
+                "Brand: kid zone bd",
+                "Product Type:Baby Nima",
+                "Age group:0-6 months",
+                "Nima Size:12”X10 inch",
+                "Soft and ComfortableSuitable for new bornBaby"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1012184",
+            "mainSellerId": "",
+            "sellerName": "kidz zone bd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/4c1533f20a124a5af729c8f4a1ae5f05.jpg",
+                    "productUrl": "/products/8-0-6-i133056250-s1054482993.html",
+                    "sku": "133056250_BD",
+                    "skuId": "1054482993"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8966,
+                8970
+            ],
+            "clickTrace": "query:;nid:133056250;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:133056250_BD;price:231;client:desktop;supplier_id:1012184;asc_category_id:8970;item_id:133056250;sku_id:1054482993;shop_id:18303",
+            "addToCartSkus": [
+                {
+                    "sku": "133056250_BD-1054482993",
+                    "skuId": "1054482993",
+                    "count": 0
+                }
+            ],
+            "itemId": "133056250",
+            "skuId": "1054482993",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "বেবি হ্যাট, গ্লাভস এবং জুতা 0-6 মাস (China) বিভিন্ন রঙের",
+            "nid": "151602104",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "151602104",
+                "scene_pre": "search",
+                "current_price": "159",
+                "x_sku_ids": "1078798076",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "151602104"
+            },
+            "productUrl": "//www.daraz.com.bd/products/0-6-china-i151602104-s1078798076.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/9d64bea740e2aca4c86ca363ea0a6259.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "159",
+            "promotionId": "null",
+            "priceShow": "৳ 159",
+            "discount": "-36%",
+            "ratingScore": "4.66667",
+            "review": "51",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "151602104_BD-1078798076",
+            "sku": "151602104_BD",
+            "skus": [],
+            "description": [
+                "Brand: Baby Corner",
+                "Product Type:Hat,Gloves & Sheo",
+                "Main Material:Cotton",
+                "Color:Multicolor",
+                "Good Quality Product",
+                "For Baby",
+                "For 0-6 months baby"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1012307",
+            "mainSellerId": "",
+            "sellerName": "Baby Corner",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/9d64bea740e2aca4c86ca363ea0a6259.jpg",
+                    "productUrl": "/products/0-6-china-i151602104-s1078798076.html",
+                    "sku": "151602104_BD",
+                    "skuId": "1078798076"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8966,
+                8970
+            ],
+            "clickTrace": "query:;nid:151602104;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:151602104_BD;price:159;client:desktop;supplier_id:1012307;asc_category_id:8970;item_id:151602104;sku_id:1078798076;shop_id:18613",
+            "addToCartSkus": [
+                {
+                    "sku": "151602104_BD-1078798076",
+                    "skuId": "1078798076",
+                    "count": 0
+                }
+            ],
+            "itemId": "151602104",
+            "skuId": "1078798076",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "1Pair Multiprinted Newborn Unisex Baby Cotton Hand Gloves (0-12 Months)",
+            "nid": "208882002",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "208882002",
+                "scene_pre": "search",
+                "current_price": "70",
+                "x_sku_ids": "1159081829",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "208882002"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-0-12-i208882002-s1159081829.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/20d941ea1ac835827c33f9a71fad6d72.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "70",
+            "promotionId": "null",
+            "priceShow": "৳ 70",
+            "discount": "-42%",
+            "ratingScore": "4.68421",
+            "review": "38",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "208882002_BD-1159081829",
+            "sku": "208882002_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1025988",
+            "mainSellerId": "",
+            "sellerName": "Take Away Bazar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/20d941ea1ac835827c33f9a71fad6d72.jpg",
+                    "productUrl": "/products/1-0-12-i208882002-s1159081829.html",
+                    "sku": "208882002_BD",
+                    "skuId": "1159081829"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8966,
+                8971
+            ],
+            "clickTrace": "query:;nid:208882002;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:208882002_BD;price:70;client:desktop;supplier_id:1025988;asc_category_id:8971;item_id:208882002;sku_id:1159081829;shop_id:32145",
+            "addToCartSkus": [
+                {
+                    "sku": "208882002_BD-1159081829",
+                    "skuId": "1159081829",
+                    "count": 0
+                }
+            ],
+            "itemId": "208882002",
+            "skuId": "1159081829",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Baby nima Eight pcs (0-5 months) Multicolor (9 X 11 inch)8 pcs",
+            "nid": "131918391",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "131918391",
+                "scene_pre": "search",
+                "current_price": "260",
+                "x_sku_ids": "1052524558",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "131918391"
+            },
+            "productUrl": "//www.daraz.com.bd/products/baby-nima-eight-pcs-0-5-months-multicolor-9-x-11-inch8-pcs-i131918391-s1052524558.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2a1ce204a11fb2a66c5ef6157c83857f.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "260",
+            "promotionId": "null",
+            "priceShow": "৳ 260",
+            "discount": "-53%",
+            "ratingScore": "4.81452",
+            "review": "248",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "131918391_BD-1052524558",
+            "sku": "131918391_BD",
+            "skus": [],
+            "description": [
+                "Brand: Baby corner",
+                "Product Type: Baby Nima",
+                "Age group: 0-5 months",
+                "Nima Size: 9 X 11 inch",
+                "Soft and Comfortable",
+                "Suitable for newborn Baby"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1012307",
+            "mainSellerId": "",
+            "sellerName": "Baby Corner",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2a1ce204a11fb2a66c5ef6157c83857f.jpg",
+                    "productUrl": "/products/baby-nima-eight-pcs-0-5-months-multicolor-9-x-11-inch8-pcs-i131918391-s1052524558.html",
+                    "sku": "131918391_BD",
+                    "skuId": "1052524558"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8966,
+                8970
+            ],
+            "clickTrace": "query:;nid:131918391;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:131918391_BD;price:260;client:desktop;supplier_id:1012307;asc_category_id:8970;item_id:131918391;sku_id:1052524558;shop_id:18613",
+            "addToCartSkus": [
+                {
+                    "sku": "131918391_BD-1052524558",
+                    "skuId": "1052524558",
+                    "count": 0
+                }
+            ],
+            "itemId": "131918391",
+            "skuId": "1052524558",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Exclusive Pack of 3 print Nima for New Born Baby",
+            "nid": "132314928",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132314928",
+                "scene_pre": "search",
+                "current_price": "89",
+                "x_sku_ids": "1053248633",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "132314928"
+            },
+            "productUrl": "//www.daraz.com.bd/products/3-i132314928-s1053248633.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bc3e255ec54f16ec05dc9adf9f2cb0bd.jpg",
+            "originalPrice": "299.00",
+            "originalPriceShow": "৳ 299",
+            "price": "89",
+            "promotionId": "null",
+            "priceShow": "৳ 89",
+            "discount": "-70%",
+            "ratingScore": "4.69231",
+            "review": "26",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132314928_BD-1053248633",
+            "sku": "132314928_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Nima",
+                "Color: Multi-Color",
+                "Main Material: Cotton",
+                "Good Quality Product",
+                "For Baby",
+                "Comfortable Baby dress",
+                "100% Cotton"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1043668",
+            "mainSellerId": "",
+            "sellerName": "Impressive House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bc3e255ec54f16ec05dc9adf9f2cb0bd.jpg",
+                    "productUrl": "/products/3-i132314928-s1053248633.html",
+                    "sku": "132314928_BD",
+                    "skuId": "1053248633"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8966,
+                8970
+            ],
+            "clickTrace": "query:;nid:132314928;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:132314928_BD;price:89;client:desktop;supplier_id:1043668;asc_category_id:8970;item_id:132314928;sku_id:1053248633;shop_id:49329",
+            "addToCartSkus": [
+                {
+                    "sku": "132314928_BD-1053248633",
+                    "skuId": "1053248633",
+                    "count": 0
+                }
+            ],
+            "itemId": "132314928",
+            "skuId": "1053248633",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Waterproof Baby Urine Mat XL Size (32\" * 24\") Multicolor",
+            "nid": "168460091",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168460091",
+                "scene_pre": "search",
+                "current_price": "262",
+                "x_sku_ids": "1102574807",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "168460091"
+            },
+            "productUrl": "//www.daraz.com.bd/products/xl-32-24-i168460091-s1102574807.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/45e13160dd58c271c1a46d16690b664f.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "262",
+            "promotionId": "null",
+            "priceShow": "৳ 262",
+            "discount": "-35%",
+            "ratingScore": "4.83333",
+            "review": "24",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168460091_BD-1102574807",
+            "sku": "168460091_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1023970",
+            "mainSellerId": "",
+            "sellerName": "suveccha mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/45e13160dd58c271c1a46d16690b664f.jpg",
+                    "productUrl": "/products/xl-32-24-i168460091-s1102574807.html",
+                    "sku": "168460091_BD",
+                    "skuId": "1102574807"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8966,
+                8971
+            ],
+            "clickTrace": "query:;nid:168460091;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:168460091_BD;price:262;client:desktop;supplier_id:1023970;asc_category_id:8971;item_id:168460091;sku_id:1102574807;shop_id:30157",
+            "addToCartSkus": [
+                {
+                    "sku": "168460091_BD-1102574807",
+                    "skuId": "1102574807",
+                    "count": 0
+                }
+            ],
+            "itemId": "168460091",
+            "skuId": "1102574807",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "8 Pieces Multi Color Cotton Boy Magi T-shirt By Any Color",
+            "nid": "133278817",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "133278817",
+                "scene_pre": "search",
+                "current_price": "262",
+                "x_sku_ids": "1117208841",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "133278817"
+            },
+            "productUrl": "//www.daraz.com.bd/products/8-pieces-multi-color-cotton-boy-magi-t-shirt-by-any-color-i133278817-s1117208841.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d1d8485965558ae0f376458ccd311742.jpg",
+            "originalPrice": "295.00",
+            "originalPriceShow": "৳ 295",
+            "price": "262",
+            "promotionId": "null",
+            "priceShow": "৳ 262",
+            "discount": "-11%",
+            "ratingScore": "4.34685",
+            "review": "222",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "133278817_BD-1117208841",
+            "sku": "133278817_BD",
+            "skus": [],
+            "description": [
+                "8 Inch"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504938122",
+            "mainSellerId": "",
+            "sellerName": "Hobby Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d1d8485965558ae0f376458ccd311742.jpg",
+                    "productUrl": "/products/8-pieces-multi-color-cotton-boy-magi-t-shirt-by-any-color-i133278817-s1117208841.html",
+                    "sku": "133278817_BD",
+                    "skuId": "1117208841"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d1d8485965558ae0f376458ccd311742.jpg",
+                    "productUrl": "/products/8-pieces-multi-color-cotton-boy-magi-t-shirt-by-any-color-i133278817-s1117218296.html",
+                    "sku": "133278817_BD",
+                    "skuId": "1117218296"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d1d8485965558ae0f376458ccd311742.jpg",
+                    "productUrl": "/products/8-pieces-multi-color-cotton-boy-magi-t-shirt-by-any-color-i133278817-s1117218291.html",
+                    "sku": "133278817_BD",
+                    "skuId": "1117218291"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d1d8485965558ae0f376458ccd311742.jpg",
+                    "productUrl": "/products/8-pieces-multi-color-cotton-boy-magi-t-shirt-by-any-color-i133278817-s1117218292.html",
+                    "sku": "133278817_BD",
+                    "skuId": "1117218292"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d1d8485965558ae0f376458ccd311742.jpg",
+                    "productUrl": "/products/8-pieces-multi-color-cotton-boy-magi-t-shirt-by-any-color-i133278817-s1126751795.html",
+                    "sku": "133278817_BD",
+                    "skuId": "1126751795"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d1d8485965558ae0f376458ccd311742.jpg",
+                    "productUrl": "/products/8-pieces-multi-color-cotton-boy-magi-t-shirt-by-any-color-i133278817-s1117218295.html",
+                    "sku": "133278817_BD",
+                    "skuId": "1117218295"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d1d8485965558ae0f376458ccd311742.jpg",
+                    "productUrl": "/products/8-pieces-multi-color-cotton-boy-magi-t-shirt-by-any-color-i133278817-s1117218290.html",
+                    "sku": "133278817_BD",
+                    "skuId": "1117218290"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d1d8485965558ae0f376458ccd311742.jpg",
+                    "productUrl": "/products/8-pieces-multi-color-cotton-boy-magi-t-shirt-by-any-color-i133278817-s1117218293.html",
+                    "sku": "133278817_BD",
+                    "skuId": "1117218293"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                9021,
+                9022,
+                9025,
+                9026
+            ],
+            "clickTrace": "query:;nid:133278817;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:133278817_BD;price:262;client:desktop;supplier_id:700504938122;asc_category_id:9026;item_id:133278817;sku_id:1117208841;shop_id:52489",
+            "addToCartSkus": [
+                {
+                    "sku": "133278817_BD-1117208841",
+                    "skuId": "1117208841",
+                    "count": 0
+                }
+            ],
+            "itemId": "133278817",
+            "skuId": "1117208841",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "1Pcs Waterproof Children's Saliva Towel Bib Super Soft Double Baby Supplies(Suede + PU Waterproof Layer)",
+            "nid": "215316418",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "215316418",
+                "scene_pre": "search",
+                "current_price": "41",
+                "x_sku_ids": "1163893317",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "215316418"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i215316418-s1163893317.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e37ce464eb50514e87a77a7db34acb18.jpg",
+            "originalPrice": "100.00",
+            "originalPriceShow": "৳ 100",
+            "price": "41",
+            "promotionId": "null",
+            "priceShow": "৳ 41",
+            "discount": "-59%",
+            "ratingScore": "4.63636",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "215316418_BD-1163893317",
+            "sku": "215316418_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509318018",
+            "mainSellerId": "",
+            "sellerName": "Baby's Day Out",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e37ce464eb50514e87a77a7db34acb18.jpg",
+                    "productUrl": "/products/1-i215316418-s1163893317.html",
+                    "sku": "215316418_BD",
+                    "skuId": "1163893317"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8966,
+                8971
+            ],
+            "clickTrace": "query:;nid:215316418;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:215316418_BD;price:41;client:desktop;supplier_id:700509318018;asc_category_id:8971;item_id:215316418;sku_id:1163893317;shop_id:205214",
+            "addToCartSkus": [
+                {
+                    "sku": "215316418_BD-1163893317",
+                    "skuId": "1163893317",
+                    "count": 0
+                }
+            ],
+            "itemId": "215316418",
+            "skuId": "1163893317",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Baby Bibs (1 pcs) very soft waterproof Bibs for Baby Safety",
+            "nid": "201077456",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "201077456",
+                "scene_pre": "search",
+                "current_price": "46.00",
+                "x_sku_ids": "1148250004",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "201077456"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i201077456-s1148250004.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d65a008f88fbfab2b933e5212081f7e8.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "46.00",
+            "promotionId": "null",
+            "priceShow": "৳ 46",
+            "discount": "-62%",
+            "ratingScore": "4.84",
+            "review": "25",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "201077456_BD-1148250004",
+            "sku": "201077456_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508859118",
+            "mainSellerId": "",
+            "sellerName": "Farish shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d65a008f88fbfab2b933e5212081f7e8.jpg",
+                    "productUrl": "/products/-i201077456-s1148250004.html",
+                    "sku": "201077456_BD",
+                    "skuId": "1148250004"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8966,
+                8971
+            ],
+            "clickTrace": "query:;nid:201077456;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:201077456_BD;price:46.00;client:desktop;supplier_id:700508859118;asc_category_id:8971;item_id:201077456;sku_id:1148250004;shop_id:196322",
+            "addToCartSkus": [
+                {
+                    "sku": "201077456_BD-1148250004",
+                    "skuId": "1148250004",
+                    "count": 0
+                }
+            ],
+            "itemId": "201077456",
+            "skuId": "1148250004",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Baby Knee Protection Pad",
+            "nid": "149576719",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "149576719",
+                "scene_pre": "search",
+                "current_price": "110.00",
+                "x_sku_ids": "1075924972",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "149576719"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i149576719-s1075924972.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a9e033a2fd8667dce24e352426309b60.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "110.00",
+            "promotionId": "null",
+            "priceShow": "৳ 110",
+            "discount": "-56%",
+            "ratingScore": "4",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "149576719_BD-1075924972",
+            "sku": "149576719_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1044504",
+            "mainSellerId": "",
+            "sellerName": "Quick Collection",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a9e033a2fd8667dce24e352426309b60.jpg",
+                    "productUrl": "/products/-i149576719-s1075924972.html",
+                    "sku": "149576719_BD",
+                    "skuId": "1075924972"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a9e033a2fd8667dce24e352426309b60.jpg",
+                    "productUrl": "/products/-i149576719-s1075924973.html",
+                    "sku": "149576719_BD",
+                    "skuId": "1075924973"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/461f534e0cfc21b8ca6ca5ff2df53696.jpg",
+                    "productUrl": "/products/-i149576719-s1075924979.html",
+                    "sku": "149576719_BD",
+                    "skuId": "1075924979"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/461f534e0cfc21b8ca6ca5ff2df53696.jpg",
+                    "productUrl": "/products/-i149576719-s1075924978.html",
+                    "sku": "149576719_BD",
+                    "skuId": "1075924978"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/468b0ec7ee24c343ad4ced14ff2fb6e4.jpg",
+                    "productUrl": "/products/-i149576719-s1075924989.html",
+                    "sku": "149576719_BD",
+                    "skuId": "1075924989"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a9e033a2fd8667dce24e352426309b60.jpg",
+                    "productUrl": "/products/-i149576719-s1075924977.html",
+                    "sku": "149576719_BD",
+                    "skuId": "1075924977"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/468b0ec7ee24c343ad4ced14ff2fb6e4.jpg",
+                    "productUrl": "/products/-i149576719-s1075924984.html",
+                    "sku": "149576719_BD",
+                    "skuId": "1075924984"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/461f534e0cfc21b8ca6ca5ff2df53696.jpg",
+                    "productUrl": "/products/-i149576719-s1075924981.html",
+                    "sku": "149576719_BD",
+                    "skuId": "1075924981"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/461f534e0cfc21b8ca6ca5ff2df53696.jpg",
+                    "productUrl": "/products/-i149576719-s1075924983.html",
+                    "sku": "149576719_BD",
+                    "skuId": "1075924983"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/468b0ec7ee24c343ad4ced14ff2fb6e4.jpg",
+                    "productUrl": "/products/-i149576719-s1075924988.html",
+                    "sku": "149576719_BD",
+                    "skuId": "1075924988"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a9e033a2fd8667dce24e352426309b60.jpg",
+                    "productUrl": "/products/-i149576719-s1075924975.html",
+                    "sku": "149576719_BD",
+                    "skuId": "1075924975"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/468b0ec7ee24c343ad4ced14ff2fb6e4.jpg",
+                    "productUrl": "/products/-i149576719-s1075924987.html",
+                    "sku": "149576719_BD",
+                    "skuId": "1075924987"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/468b0ec7ee24c343ad4ced14ff2fb6e4.jpg",
+                    "productUrl": "/products/-i149576719-s1075924986.html",
+                    "sku": "149576719_BD",
+                    "skuId": "1075924986"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/461f534e0cfc21b8ca6ca5ff2df53696.jpg",
+                    "productUrl": "/products/-i149576719-s1075924980.html",
+                    "sku": "149576719_BD",
+                    "skuId": "1075924980"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a9e033a2fd8667dce24e352426309b60.jpg",
+                    "productUrl": "/products/-i149576719-s1075924974.html",
+                    "sku": "149576719_BD",
+                    "skuId": "1075924974"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a9e033a2fd8667dce24e352426309b60.jpg",
+                    "productUrl": "/products/-i149576719-s1075924976.html",
+                    "sku": "149576719_BD",
+                    "skuId": "1075924976"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/461f534e0cfc21b8ca6ca5ff2df53696.jpg",
+                    "productUrl": "/products/-i149576719-s1075924982.html",
+                    "sku": "149576719_BD",
+                    "skuId": "1075924982"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/468b0ec7ee24c343ad4ced14ff2fb6e4.jpg",
+                    "productUrl": "/products/-i149576719-s1075924985.html",
+                    "sku": "149576719_BD",
+                    "skuId": "1075924985"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8972,
+                9013,
+                9014
+            ],
+            "clickTrace": "query:;nid:149576719;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:149576719_BD;price:110.00;client:desktop;supplier_id:1044504;asc_category_id:9014;item_id:149576719;sku_id:1075924972;shop_id:50137",
+            "addToCartSkus": [
+                {
+                    "sku": "149576719_BD-1075924972",
+                    "skuId": "1075924972",
+                    "count": 0
+                }
+            ],
+            "itemId": "149576719",
+            "skuId": "1075924972",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Multi Color 6 Pieces kuchi half pant for girls by any color",
+            "nid": "171214672",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171214672",
+                "scene_pre": "search",
+                "current_price": "277",
+                "x_sku_ids": "1107158081",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "171214672"
+            },
+            "productUrl": "//www.daraz.com.bd/products/6-i171214672-s1107158081.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c28edf23dc2374f75ae2007e71bf73e0.jpg",
+            "originalPrice": "305.00",
+            "originalPriceShow": "৳ 305",
+            "price": "277",
+            "promotionId": "null",
+            "priceShow": "৳ 277",
+            "discount": "-9%",
+            "ratingScore": "4.4375",
+            "review": "16",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171214672_BD-1107158081",
+            "sku": "171214672_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504938122",
+            "mainSellerId": "",
+            "sellerName": "Hobby Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c28edf23dc2374f75ae2007e71bf73e0.jpg",
+                    "productUrl": "/products/6-i171214672-s1107158081.html",
+                    "sku": "171214672_BD",
+                    "skuId": "1107158081"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c28edf23dc2374f75ae2007e71bf73e0.jpg",
+                    "productUrl": "/products/6-i171214672-s1107158087.html",
+                    "sku": "171214672_BD",
+                    "skuId": "1107158087"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c28edf23dc2374f75ae2007e71bf73e0.jpg",
+                    "productUrl": "/products/6-i171214672-s1107158086.html",
+                    "sku": "171214672_BD",
+                    "skuId": "1107158086"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c28edf23dc2374f75ae2007e71bf73e0.jpg",
+                    "productUrl": "/products/6-i171214672-s1107158082.html",
+                    "sku": "171214672_BD",
+                    "skuId": "1107158082"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c28edf23dc2374f75ae2007e71bf73e0.jpg",
+                    "productUrl": "/products/6-i171214672-s1107158084.html",
+                    "sku": "171214672_BD",
+                    "skuId": "1107158084"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c28edf23dc2374f75ae2007e71bf73e0.jpg",
+                    "productUrl": "/products/6-i171214672-s1107158083.html",
+                    "sku": "171214672_BD",
+                    "skuId": "1107158083"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c28edf23dc2374f75ae2007e71bf73e0.jpg",
+                    "productUrl": "/products/6-i171214672-s1107158088.html",
+                    "sku": "171214672_BD",
+                    "skuId": "1107158088"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c28edf23dc2374f75ae2007e71bf73e0.jpg",
+                    "productUrl": "/products/6-i171214672-s1107158085.html",
+                    "sku": "171214672_BD",
+                    "skuId": "1107158085"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8972,
+                8973,
+                8981,
+                8985
+            ],
+            "clickTrace": "query:;nid:171214672;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:171214672_BD;price:277;client:desktop;supplier_id:700504938122;asc_category_id:8985;item_id:171214672;sku_id:1107158081;shop_id:52489",
+            "addToCartSkus": [
+                {
+                    "sku": "171214672_BD-1107158081",
+                    "skuId": "1107158081",
+                    "count": 0
+                }
+            ],
+            "itemId": "171214672",
+            "skuId": "1107158081",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Unisex Baby Infant Toddler Knee pads for Crawling Soft Knee Elbow Brace pads Cap Anti-slip Crawling Safety Protector Cushion Leg Sleeve Warmers",
+            "nid": "195886657",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "195886657",
+                "scene_pre": "search",
+                "current_price": "90.00",
+                "x_sku_ids": "1142143847",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "195886657"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i195886657-s1142143847.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b07c54d09c91b181e159adb595fb28f6.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "90.00",
+            "promotionId": "null",
+            "priceShow": "৳ 90",
+            "discount": "-55%",
+            "ratingScore": "4.3",
+            "review": "10",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "195886657_BD-1142143847",
+            "sku": "195886657_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507527387",
+            "mainSellerId": "",
+            "sellerName": "winter Cap BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b07c54d09c91b181e159adb595fb28f6.jpg",
+                    "productUrl": "/products/-i195886657-s1142143847.html",
+                    "sku": "195886657_BD",
+                    "skuId": "1142143847"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8972,
+                9013,
+                9017
+            ],
+            "clickTrace": "query:;nid:195886657;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:195886657_BD;price:90.00;client:desktop;supplier_id:700507527387;asc_category_id:9017;item_id:195886657;sku_id:1142143847;shop_id:99332",
+            "addToCartSkus": [
+                {
+                    "sku": "195886657_BD-1142143847",
+                    "skuId": "1142143847",
+                    "count": 0
+                }
+            ],
+            "itemId": "195886657",
+            "skuId": "1142143847",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Students Raincoat With School Bag Pocket Children Raincoat Waterproof Boys Girls Cartoon Animal Style Kids Rain Coat",
+            "nid": "105328672",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "105328672",
+                "scene_pre": "search",
+                "current_price": "550.00",
+                "x_sku_ids": "1020206174",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "105328672"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i105328672-s1020206174.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/01f766d2bb2f1107109df3afece3574f.jpg",
+            "originalPrice": "850.00",
+            "originalPriceShow": "৳ 850",
+            "price": "550.00",
+            "promotionId": "null",
+            "priceShow": "৳ 550",
+            "discount": "-35%",
+            "ratingScore": "4.63158",
+            "review": "19",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "105328672_BD-1020206174",
+            "sku": "105328672_BD",
+            "skus": [],
+            "description": [
+                "Brand Name: Play Pack",
+                "Gender: Chlidren ",
+                "Raincoat/Rain-proof Pants/Rain Cape: Rainwear ",
+                "Age Group: Children ",
+                "Poncho style: Single-person Rainwear ",
+                "Raincoat fabric: PVC (Hygienic)",
+                "Waterproof layer: PVC glue ",
+                "Design: Randomly selected",
+                "Size: XS, S, XL, XXL"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1007981",
+            "mainSellerId": "",
+            "sellerName": "Wrist Watch",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/01f766d2bb2f1107109df3afece3574f.jpg",
+                    "productUrl": "/products/-i105328672-s1020206174.html",
+                    "sku": "105328672_BD",
+                    "skuId": "1020206174"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/01f766d2bb2f1107109df3afece3574f.jpg",
+                    "productUrl": "/products/-i105328672-s1020206176.html",
+                    "sku": "105328672_BD",
+                    "skuId": "1020206176"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/01f766d2bb2f1107109df3afece3574f.jpg",
+                    "productUrl": "/products/-i105328672-s1020206175.html",
+                    "sku": "105328672_BD",
+                    "skuId": "1020206175"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/01f766d2bb2f1107109df3afece3574f.jpg",
+                    "productUrl": "/products/-i105328672-s1020206177.html",
+                    "sku": "105328672_BD",
+                    "skuId": "1020206177"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                9021,
+                9022,
+                9036,
+                9041
+            ],
+            "clickTrace": "query:;nid:105328672;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:105328672_BD;price:550.00;client:desktop;supplier_id:1007981;asc_category_id:9041;item_id:105328672;sku_id:1020206174;shop_id:14275",
+            "addToCartSkus": [
+                {
+                    "sku": "105328672_BD-1020206174",
+                    "skuId": "1020206174",
+                    "count": 0
+                }
+            ],
+            "itemId": "105328672",
+            "skuId": "1020206174",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "3pcs Cotton T-shirt for baby",
+            "nid": "174358476",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "174358476",
+                "scene_pre": "search",
+                "current_price": "280.00",
+                "x_sku_ids": "1170595457",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "174358476"
+            },
+            "productUrl": "//www.daraz.com.bd/products/3-i174358476-s1170595457.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4d2b406778418298c31d0e2848649b13.jpg",
+            "originalPrice": "390.00",
+            "originalPriceShow": "৳ 390",
+            "price": "280.00",
+            "promotionId": "null",
+            "priceShow": "৳ 280",
+            "discount": "-28%",
+            "ratingScore": "4.53846",
+            "review": "26",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "174358476_BD-1170595457",
+            "sku": "174358476_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508088125",
+            "mainSellerId": "",
+            "sellerName": "HOSEN N CO",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4d2b406778418298c31d0e2848649b13.jpg",
+                    "productUrl": "/products/3-i174358476-s1170595457.html",
+                    "sku": "174358476_BD",
+                    "skuId": "1170595457"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4d2b406778418298c31d0e2848649b13.jpg",
+                    "productUrl": "/products/3-i174358476-s1170595461.html",
+                    "sku": "174358476_BD",
+                    "skuId": "1170595461"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4d2b406778418298c31d0e2848649b13.jpg",
+                    "productUrl": "/products/3-i174358476-s1170595459.html",
+                    "sku": "174358476_BD",
+                    "skuId": "1170595459"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4d2b406778418298c31d0e2848649b13.jpg",
+                    "productUrl": "/products/3-i174358476-s1170595460.html",
+                    "sku": "174358476_BD",
+                    "skuId": "1170595460"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4d2b406778418298c31d0e2848649b13.jpg",
+                    "productUrl": "/products/3-i174358476-s1170595458.html",
+                    "sku": "174358476_BD",
+                    "skuId": "1170595458"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                9021,
+                9022,
+                9025,
+                9026
+            ],
+            "clickTrace": "query:;nid:174358476;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:174358476_BD;price:280.00;client:desktop;supplier_id:700508088125;asc_category_id:9026;item_id:174358476;sku_id:1170595457;shop_id:126308",
+            "addToCartSkus": [
+                {
+                    "sku": "174358476_BD-1170595457",
+                    "skuId": "1170595457",
+                    "count": 0
+                }
+            ],
+            "itemId": "174358476",
+            "skuId": "1170595457",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Baby Girls Frock Type with Pant Summer Collection - 0-12Month",
+            "nid": "141500535",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "141500535",
+                "scene_pre": "search",
+                "current_price": "170",
+                "x_sku_ids": "1065202800",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "141500535"
+            },
+            "productUrl": "//www.daraz.com.bd/products/0-12-i141500535-s1065202800.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/129aaf1e289207b6362991cb5d10ef94.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "170",
+            "promotionId": "null",
+            "priceShow": "৳ 170",
+            "discount": "-69%",
+            "ratingScore": "4.82184",
+            "review": "174",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "141500535_BD-1065202800",
+            "sku": "141500535_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505766181",
+            "mainSellerId": "",
+            "sellerName": "Saaiqa Baby World",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/129aaf1e289207b6362991cb5d10ef94.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1065202800.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1065202800"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7be70d0082ef36f169046d88a2bc4c7f.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1110142111.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1110142111"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/316407c1ec883d94b8fbebee8a6bf3eb.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1105874368.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1105874368"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c0bf1698f2f6d52988cd7eccb00c9a02.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1101962202.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1101962202"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c0bf1698f2f6d52988cd7eccb00c9a02.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1065202799.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1065202799"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/56fbb3d7530266b2ee32c5581b5535f3.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1102716273.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1102716273"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/316407c1ec883d94b8fbebee8a6bf3eb.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1105874369.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1105874369"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/295f948b02bc367cbdc29c1732b2e572.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1146755606.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1146755606"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/56fbb3d7530266b2ee32c5581b5535f3.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1102716275.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1102716275"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0efc96756dfbd5e54530989c4384c24c.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1110142108.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1110142108"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/56fbb3d7530266b2ee32c5581b5535f3.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1102716274.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1102716274"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0efc96756dfbd5e54530989c4384c24c.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1118078054.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1118078054"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/316407c1ec883d94b8fbebee8a6bf3eb.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1065202802.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1065202802"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c0bf1698f2f6d52988cd7eccb00c9a02.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1101962203.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1101962203"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7be70d0082ef36f169046d88a2bc4c7f.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1105874365.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1105874365"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/129aaf1e289207b6362991cb5d10ef94.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1065202801.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1065202801"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2a5df07fc1a0875e524d7e3f75890b79.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1126910778.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1126910778"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c0bf1698f2f6d52988cd7eccb00c9a02.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1065202798.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1065202798"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0efc96756dfbd5e54530989c4384c24c.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1110142109.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1110142109"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4b6724dec2385ee631c49b2abfeee07b.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1146755609.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1146755609"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/56fbb3d7530266b2ee32c5581b5535f3.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1102716276.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1102716276"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7be70d0082ef36f169046d88a2bc4c7f.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1110142112.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1110142112"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0efc96756dfbd5e54530989c4384c24c.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1110142110.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1110142110"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/316407c1ec883d94b8fbebee8a6bf3eb.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1065202803.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1065202803"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7be70d0082ef36f169046d88a2bc4c7f.jpg",
+                    "productUrl": "/products/0-12-i141500535-s1105874364.html",
+                    "sku": "141500535_BD",
+                    "skuId": "1105874364"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8972,
+                8973,
+                8976
+            ],
+            "clickTrace": "query:;nid:141500535;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:141500535_BD;price:170;client:desktop;supplier_id:700505766181;asc_category_id:8976;item_id:141500535;sku_id:1065202800;shop_id:64708",
+            "addToCartSkus": [
+                {
+                    "sku": "141500535_BD-1107552018",
+                    "title": "M",
+                    "skuId": "1107552018",
+                    "count": 0
+                }
+            ],
+            "itemId": "141500535",
+            "skuId": "1065202800",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "New born baby boy summer baptism shoes [0-6 month]",
+            "nid": "224226602",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "224226602",
+                "scene_pre": "search",
+                "current_price": "180.00",
+                "x_sku_ids": "1169972715",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "224226602"
+            },
+            "productUrl": "//www.daraz.com.bd/products/0-12-i224226602-s1169972715.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/20a5953c8807c520abcc7adf587070b8.jpg",
+            "originalPrice": "290.00",
+            "originalPriceShow": "৳ 290",
+            "price": "180.00",
+            "promotionId": "null",
+            "priceShow": "৳ 180",
+            "discount": "-38%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "224226602_BD-1169972715",
+            "sku": "224226602_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508361212",
+            "mainSellerId": "",
+            "sellerName": "BD CHILD WORLD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/20a5953c8807c520abcc7adf587070b8.jpg",
+                    "productUrl": "/products/0-12-i224226602-s1169972715.html",
+                    "sku": "224226602_BD",
+                    "skuId": "1169972715"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8966,
+                8969
+            ],
+            "clickTrace": "query:;nid:224226602;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:224226602_BD;price:180.00;client:desktop;supplier_id:700508361212;asc_category_id:8969;item_id:224226602;sku_id:1169972715;shop_id:150439",
+            "addToCartSkus": [
+                {
+                    "sku": "224226602_BD-1169972715",
+                    "skuId": "1169972715",
+                    "count": 0
+                }
+            ],
+            "itemId": "224226602",
+            "skuId": "1169972715",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "1pice baby party frock with pant",
+            "nid": "200249226",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "200249226",
+                "scene_pre": "search",
+                "current_price": "180.00",
+                "x_sku_ids": "1173006446",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "200249226"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i200249226-s1173006446.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e5f4e5334fb0b1469633fd7aa22f51e6.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "180.00",
+            "promotionId": "null",
+            "priceShow": "৳ 180",
+            "discount": "-49%",
+            "ratingScore": "4.94444",
+            "review": "54",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "200249226_BD-1173006446",
+            "sku": "200249226_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1021723",
+            "mainSellerId": "",
+            "sellerName": "RODELA FASHION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e5f4e5334fb0b1469633fd7aa22f51e6.jpg",
+                    "productUrl": "/products/1-i200249226-s1173006446.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1173006446"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a4f32fe9d85e5dc47edf5fe1dd7061e9.jpg",
+                    "productUrl": "/products/1-i200249226-s1167603018.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1167603018"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e5f4e5334fb0b1469633fd7aa22f51e6.jpg",
+                    "productUrl": "/products/1-i200249226-s1175004078.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1175004078"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a4f32fe9d85e5dc47edf5fe1dd7061e9.jpg",
+                    "productUrl": "/products/1-i200249226-s1175004080.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1175004080"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e5f4e5334fb0b1469633fd7aa22f51e6.jpg",
+                    "productUrl": "/products/1-i200249226-s1173006450.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1173006450"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/8c6bc361ae57179864232f0993a325d8.jpg",
+                    "productUrl": "/products/1-i200249226-s1170000083.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1170000083"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/8c6bc361ae57179864232f0993a325d8.jpg",
+                    "productUrl": "/products/1-i200249226-s1173030632.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1173030632"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a4f32fe9d85e5dc47edf5fe1dd7061e9.jpg",
+                    "productUrl": "/products/1-i200249226-s1175004084.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1175004084"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/8c6bc361ae57179864232f0993a325d8.jpg",
+                    "productUrl": "/products/1-i200249226-s1173030636.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1173030636"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a4f32fe9d85e5dc47edf5fe1dd7061e9.jpg",
+                    "productUrl": "/products/1-i200249226-s1173030637.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1173030637"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e5f4e5334fb0b1469633fd7aa22f51e6.jpg",
+                    "productUrl": "/products/1-i200249226-s1173030635.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1173030635"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/8c6bc361ae57179864232f0993a325d8.jpg",
+                    "productUrl": "/products/1-i200249226-s1175004081.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1175004081"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a4f32fe9d85e5dc47edf5fe1dd7061e9.jpg",
+                    "productUrl": "/products/1-i200249226-s1170000075.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1170000075"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/8c6bc361ae57179864232f0993a325d8.jpg",
+                    "productUrl": "/products/1-i200249226-s1167603016.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1167603016"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a4f32fe9d85e5dc47edf5fe1dd7061e9.jpg",
+                    "productUrl": "/products/1-i200249226-s1173030633.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1173030633"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e5f4e5334fb0b1469633fd7aa22f51e6.jpg",
+                    "productUrl": "/products/1-i200249226-s1175004082.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1175004082"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/8c6bc361ae57179864232f0993a325d8.jpg",
+                    "productUrl": "/products/1-i200249226-s1175004085.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1175004085"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/8c6bc361ae57179864232f0993a325d8.jpg",
+                    "productUrl": "/products/1-i200249226-s1173030631.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1173030631"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/3102398f0a77b9b43dd5f2ad5b6bfeec.jpg",
+                    "productUrl": "/products/1-i200249226-s1170000079.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1170000079"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/3102398f0a77b9b43dd5f2ad5b6bfeec.jpg",
+                    "productUrl": "/products/1-i200249226-s1170000078.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1170000078"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a4f32fe9d85e5dc47edf5fe1dd7061e9.jpg",
+                    "productUrl": "/products/1-i200249226-s1170000074.html",
+                    "sku": "200249226_BD",
+                    "skuId": "1170000074"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8972,
+                8973,
+                8976
+            ],
+            "clickTrace": "query:;nid:200249226;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:200249226_BD;price:180.00;client:desktop;supplier_id:1021723;asc_category_id:8976;item_id:200249226;sku_id:1173006446;shop_id:27944",
+            "addToCartSkus": [
+                {
+                    "sku": "200249226_BD-1173006446",
+                    "skuId": "1173006446",
+                    "count": 0
+                }
+            ],
+            "itemId": "200249226",
+            "skuId": "1173006446",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "2pcs Baby Girls Lace Flower Headbands Multicolor Hair Bands",
+            "nid": "214645671",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "214645671",
+                "scene_pre": "search",
+                "current_price": "83",
+                "x_sku_ids": "1163483346",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "214645671"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-i214645671-s1163483346.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/15d7ba91b10922755a21c7ab85603f68.jpg",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "83",
+            "promotionId": "null",
+            "priceShow": "৳ 83",
+            "discount": "-54%",
+            "ratingScore": "4.9375",
+            "review": "16",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "214645671_BD-1163483346",
+            "sku": "214645671_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508331421",
+            "mainSellerId": "",
+            "sellerName": "Prince Fashon-BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/15d7ba91b10922755a21c7ab85603f68.jpg",
+                    "productUrl": "/products/2-i214645671-s1163483346.html",
+                    "sku": "214645671_BD",
+                    "skuId": "1163483346"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8972,
+                9013,
+                9016
+            ],
+            "clickTrace": "query:;nid:214645671;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:214645671_BD;price:83;client:desktop;supplier_id:700508331421;asc_category_id:9016;item_id:214645671;sku_id:1163483346;shop_id:148849",
+            "addToCartSkus": [
+                {
+                    "sku": "214645671_BD-1163483346",
+                    "skuId": "1163483346",
+                    "count": 0
+                }
+            ],
+            "itemId": "214645671",
+            "skuId": "1163483346",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Multi Color Baby Girls Panty (12 Pieces Combo) by difference color",
+            "nid": "188122884",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "188122884",
+                "scene_pre": "search",
+                "current_price": "292",
+                "x_sku_ids": "1135339056",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "188122884"
+            },
+            "productUrl": "//www.daraz.com.bd/products/12-i188122884-s1135339056.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3e66a31ccc59b960e626840c57b26fac.jpg",
+            "originalPrice": "320.00",
+            "originalPriceShow": "৳ 320",
+            "price": "292",
+            "promotionId": "null",
+            "priceShow": "৳ 292",
+            "discount": "-9%",
+            "ratingScore": "4.125",
+            "review": "32",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "188122884_BD-1135339056",
+            "sku": "188122884_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508319269",
+            "mainSellerId": "",
+            "sellerName": "Hobby shop bd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3e66a31ccc59b960e626840c57b26fac.jpg",
+                    "productUrl": "/products/12-i188122884-s1135339056.html",
+                    "sku": "188122884_BD",
+                    "skuId": "1135339056"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3e66a31ccc59b960e626840c57b26fac.jpg",
+                    "productUrl": "/products/12-i188122884-s1135339060.html",
+                    "sku": "188122884_BD",
+                    "skuId": "1135339060"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3e66a31ccc59b960e626840c57b26fac.jpg",
+                    "productUrl": "/products/12-i188122884-s1135339059.html",
+                    "sku": "188122884_BD",
+                    "skuId": "1135339059"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3e66a31ccc59b960e626840c57b26fac.jpg",
+                    "productUrl": "/products/12-i188122884-s1135339061.html",
+                    "sku": "188122884_BD",
+                    "skuId": "1135339061"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3e66a31ccc59b960e626840c57b26fac.jpg",
+                    "productUrl": "/products/12-i188122884-s1135339055.html",
+                    "sku": "188122884_BD",
+                    "skuId": "1135339055"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3e66a31ccc59b960e626840c57b26fac.jpg",
+                    "productUrl": "/products/12-i188122884-s1135339057.html",
+                    "sku": "188122884_BD",
+                    "skuId": "1135339057"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3e66a31ccc59b960e626840c57b26fac.jpg",
+                    "productUrl": "/products/12-i188122884-s1135339058.html",
+                    "sku": "188122884_BD",
+                    "skuId": "1135339058"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8972,
+                8973,
+                8981,
+                8985
+            ],
+            "clickTrace": "query:;nid:188122884;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:188122884_BD;price:292;client:desktop;supplier_id:700508319269;asc_category_id:8985;item_id:188122884;sku_id:1135339056;shop_id:144588",
+            "addToCartSkus": [
+                {
+                    "sku": "188122884_BD-1135339056",
+                    "skuId": "1135339056",
+                    "count": 0
+                }
+            ],
+            "itemId": "188122884",
+            "skuId": "1135339056",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cute Cartoon Baby Shoes Fleece Lining Baby Shoes for Boys and girls Anti Slip Winter Newborn Toddler Shoes slipper",
+            "nid": "221305321",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "221305321",
+                "scene_pre": "search",
+                "current_price": "178",
+                "x_sku_ids": "1168181480",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "221305321"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i221305321-s1168181480.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/abf4e683e676ad9a23d18d951c7456f1.jpg",
+            "originalPrice": "690.00",
+            "originalPriceShow": "৳ 690",
+            "price": "178",
+            "promotionId": "null",
+            "priceShow": "৳ 178",
+            "discount": "-74%",
+            "ratingScore": "4.84",
+            "review": "25",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "221305321_BD-1168181480",
+            "sku": "221305321_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508505159",
+            "mainSellerId": "",
+            "sellerName": "Mahmud Express",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/abf4e683e676ad9a23d18d951c7456f1.jpg",
+                    "productUrl": "/products/-i221305321-s1168181480.html",
+                    "sku": "221305321_BD",
+                    "skuId": "1168181480"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/8b8a02b0299ee479d5ad7e0dbd25c518.jpg",
+                    "productUrl": "/products/-i221305321-s1172176820.html",
+                    "sku": "221305321_BD",
+                    "skuId": "1172176820"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/abf4e683e676ad9a23d18d951c7456f1.jpg",
+                    "productUrl": "/products/-i221305321-s1172176819.html",
+                    "sku": "221305321_BD",
+                    "skuId": "1172176819"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/abf4e683e676ad9a23d18d951c7456f1.jpg",
+                    "productUrl": "/products/-i221305321-s1168181478.html",
+                    "sku": "221305321_BD",
+                    "skuId": "1168181478"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/8b8a02b0299ee479d5ad7e0dbd25c518.jpg",
+                    "productUrl": "/products/-i221305321-s1168181484.html",
+                    "sku": "221305321_BD",
+                    "skuId": "1168181484"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/abf4e683e676ad9a23d18d951c7456f1.jpg",
+                    "productUrl": "/products/-i221305321-s1172176817.html",
+                    "sku": "221305321_BD",
+                    "skuId": "1172176817"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/8b8a02b0299ee479d5ad7e0dbd25c518.jpg",
+                    "productUrl": "/products/-i221305321-s1168181482.html",
+                    "sku": "221305321_BD",
+                    "skuId": "1168181482"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/8b8a02b0299ee479d5ad7e0dbd25c518.jpg",
+                    "productUrl": "/products/-i221305321-s1172176818.html",
+                    "sku": "221305321_BD",
+                    "skuId": "1172176818"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8972,
+                9006,
+                9009
+            ],
+            "clickTrace": "query:;nid:221305321;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:221305321_BD;price:178;client:desktop;supplier_id:700508505159;asc_category_id:9009;item_id:221305321;sku_id:1168181480;shop_id:163253",
+            "addToCartSkus": [
+                {
+                    "sku": "221305321_BD-1168181480",
+                    "skuId": "1168181480",
+                    "count": 0
+                }
+            ],
+            "itemId": "221305321",
+            "skuId": "1168181480",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Newborn Baby Stylish Cotton Soft Shoes for (0-6 Months)-Multicolor",
+            "nid": "231417151",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "231417151",
+                "scene_pre": "search",
+                "current_price": "155",
+                "x_sku_ids": "1174549663",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "231417151"
+            },
+            "productUrl": "//www.daraz.com.bd/products/0-6-i231417151-s1174549663.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f4a9c4bf8e76ba26466dd1a86bc1cb30.jpg",
+            "originalPrice": "299.00",
+            "originalPriceShow": "৳ 299",
+            "price": "155",
+            "promotionId": "null",
+            "priceShow": "৳ 155",
+            "discount": "-48%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "231417151_BD-1174549663",
+            "sku": "231417151_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "2017",
+            "mainSellerId": "",
+            "sellerName": "Heaven Shop BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f4a9c4bf8e76ba26466dd1a86bc1cb30.jpg",
+                    "productUrl": "/products/0-6-i231417151-s1174549663.html",
+                    "sku": "231417151_BD",
+                    "skuId": "1174549663"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1643a5b07b3b9964c4512903197c1761.jpg",
+                    "productUrl": "/products/0-6-i231417151-s1174549665.html",
+                    "sku": "231417151_BD",
+                    "skuId": "1174549665"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8048222800e5092e680a96dc8847ee6d.jpg",
+                    "productUrl": "/products/0-6-i231417151-s1174549664.html",
+                    "sku": "231417151_BD",
+                    "skuId": "1174549664"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8966,
+                8970
+            ],
+            "clickTrace": "query:;nid:231417151;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:231417151_BD;price:155;client:desktop;supplier_id:2017;asc_category_id:8970;item_id:231417151;sku_id:1174549663;shop_id:2615",
+            "addToCartSkus": [
+                {
+                    "sku": "231417151_BD-1174549663",
+                    "title": "XS",
+                    "skuId": "1174549663",
+                    "count": 0
+                }
+            ],
+            "itemId": "231417151",
+            "skuId": "1174549663",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Newborn Baby Girl Shoes Footwear Soft First Walker Infant Toddler Christening Walker 0-12 month",
+            "nid": "223079694",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223079694",
+                "scene_pre": "search",
+                "current_price": "152",
+                "x_sku_ids": "1169243863",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "223079694"
+            },
+            "productUrl": "//www.daraz.com.bd/products/i-love-0-6-i223079694-s1169243863.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b7957ba83b5f780fe17d728be9c3433b.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "152",
+            "promotionId": "null",
+            "priceShow": "৳ 152",
+            "discount": "-66%",
+            "ratingScore": "5",
+            "review": "9",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223079694_BD-1169243863",
+            "sku": "223079694_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507731121",
+            "mainSellerId": "",
+            "sellerName": "Twenty Twenty",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b7957ba83b5f780fe17d728be9c3433b.jpg",
+                    "productUrl": "/products/i-love-0-6-i223079694-s1169243863.html",
+                    "sku": "223079694_BD",
+                    "skuId": "1169243863"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1527369ed2f652dbe8599af987ea1318.jpg",
+                    "productUrl": "/products/i-love-0-6-i223079694-s1169243864.html",
+                    "sku": "223079694_BD",
+                    "skuId": "1169243864"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8972,
+                9006,
+                9012
+            ],
+            "clickTrace": "query:;nid:223079694;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:223079694_BD;price:152;client:desktop;supplier_id:700507731121;asc_category_id:9012;item_id:223079694;sku_id:1169243863;shop_id:108265",
+            "addToCartSkus": [
+                {
+                    "sku": "223079694_BD-1169243863",
+                    "skuId": "1169243863",
+                    "count": 0
+                }
+            ],
+            "itemId": "223079694",
+            "skuId": "1169243863",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "free size New Princess Baby Girl Socks Lace Ruffle Kids Girls Socks tow  to ten year free size  Meia Infantil baby girl socks",
+            "nid": "171728305",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171728305",
+                "scene_pre": "search",
+                "current_price": "150.00",
+                "x_sku_ids": "1107758758",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "171728305"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i171728305-s1107758758.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/51cd060f457d80590bdadbfb80b098ca.jpg",
+            "originalPrice": "260.00",
+            "originalPriceShow": "৳ 260",
+            "price": "150.00",
+            "promotionId": "null",
+            "priceShow": "৳ 150",
+            "discount": "-42%",
+            "ratingScore": "4.8",
+            "review": "25",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171728305_BD-1107758758",
+            "sku": "171728305_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508076126",
+            "mainSellerId": "",
+            "sellerName": "Iccheghuri",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/51cd060f457d80590bdadbfb80b098ca.jpg",
+                    "productUrl": "/products/-i171728305-s1107758758.html",
+                    "sku": "171728305_BD",
+                    "skuId": "1107758758"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f0a9af20347c2bb56c0daf7484ec41a1.jpg",
+                    "productUrl": "/products/-i171728305-s1107758759.html",
+                    "sku": "171728305_BD",
+                    "skuId": "1107758759"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/84194e9fd29ae86964d390b4cba7153d.jpg",
+                    "productUrl": "/products/-i171728305-s1162331791.html",
+                    "sku": "171728305_BD",
+                    "skuId": "1162331791"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f0a9af20347c2bb56c0daf7484ec41a1.jpg",
+                    "productUrl": "/products/-i171728305-s1107758760.html",
+                    "sku": "171728305_BD",
+                    "skuId": "1107758760"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8972,
+                9013,
+                9017
+            ],
+            "clickTrace": "query:;nid:171728305;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:171728305_BD;price:150.00;client:desktop;supplier_id:700508076126;asc_category_id:9017;item_id:171728305;sku_id:1107758758;shop_id:126304",
+            "addToCartSkus": [
+                {
+                    "sku": "171728305_BD-1107758758",
+                    "skuId": "1107758758",
+                    "count": 0
+                }
+            ],
+            "itemId": "171728305",
+            "skuId": "1107758758",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "4Pcs Colorful Cotton Newborn Pant/Penty for Girl",
+            "nid": "183402945",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183402945",
+                "scene_pre": "search",
+                "current_price": "186",
+                "x_sku_ids": "1127713964",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "183402945"
+            },
+            "productUrl": "//www.daraz.com.bd/products/4-i183402945-s1127713964.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b601c8a29b70f7ae2f3e7275e891eb0c.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "186",
+            "promotionId": "null",
+            "priceShow": "৳ 186",
+            "discount": "-38%",
+            "ratingScore": "4.78571",
+            "review": "14",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183402945_BD-1127713964",
+            "sku": "183402945_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4638",
+            "mainSellerId": "",
+            "sellerName": "Baby Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b601c8a29b70f7ae2f3e7275e891eb0c.jpg",
+                    "productUrl": "/products/4-i183402945-s1127713964.html",
+                    "sku": "183402945_BD",
+                    "skuId": "1127713964"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b601c8a29b70f7ae2f3e7275e891eb0c.jpg",
+                    "productUrl": "/products/4-i183402945-s1127713966.html",
+                    "sku": "183402945_BD",
+                    "skuId": "1127713966"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b601c8a29b70f7ae2f3e7275e891eb0c.jpg",
+                    "productUrl": "/products/4-i183402945-s1127713965.html",
+                    "sku": "183402945_BD",
+                    "skuId": "1127713965"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8972,
+                8973,
+                8975
+            ],
+            "clickTrace": "query:;nid:183402945;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:183402945_BD;price:186;client:desktop;supplier_id:4638;asc_category_id:8975;item_id:183402945;sku_id:1127713964;shop_id:4689",
+            "addToCartSkus": [
+                {
+                    "sku": "183402945_BD-1127713964",
+                    "skuId": "1127713964",
+                    "count": 0
+                }
+            ],
+            "itemId": "183402945",
+            "skuId": "1127713964",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "T-shirts of T-shirts of the small hand of cotton 2-8 years",
+            "nid": "183584918",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183584918",
+                "scene_pre": "search",
+                "current_price": "140.00",
+                "x_sku_ids": "1127999450",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "183584918"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-8-i183584918-s1127999450.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3a71dcd9ad670e242f932c8c6808c6ef.jpg",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "140.00",
+            "promotionId": "null",
+            "priceShow": "৳ 140",
+            "discount": "-22%",
+            "ratingScore": "5",
+            "review": "8",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183584918_BD-1127999450",
+            "sku": "183584918_BD",
+            "skus": [],
+            "description": [
+                " New Exclusive Jersey Kaporerhalf Sleeve T Shirt Product Description  ",
+                " Product Type: T-shirts  ",
+                " gender: male  ",
+                " high quality products  ",
+                " standard and smart design  "
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508328249",
+            "mainSellerId": "",
+            "sellerName": "Mahin Collections",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3a71dcd9ad670e242f932c8c6808c6ef.jpg",
+                    "productUrl": "/products/2-8-i183584918-s1127999450.html",
+                    "sku": "183584918_BD",
+                    "skuId": "1127999450"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3a71dcd9ad670e242f932c8c6808c6ef.jpg",
+                    "productUrl": "/products/2-8-i183584918-s1127999451.html",
+                    "sku": "183584918_BD",
+                    "skuId": "1127999451"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3a71dcd9ad670e242f932c8c6808c6ef.jpg",
+                    "productUrl": "/products/2-8-i183584918-s1127999452.html",
+                    "sku": "183584918_BD",
+                    "skuId": "1127999452"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3a71dcd9ad670e242f932c8c6808c6ef.jpg",
+                    "productUrl": "/products/2-8-i183584918-s1127999453.html",
+                    "sku": "183584918_BD",
+                    "skuId": "1127999453"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                9021,
+                9022,
+                9024
+            ],
+            "clickTrace": "query:;nid:183584918;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:183584918_BD;price:140.00;client:desktop;supplier_id:700508328249;asc_category_id:9024;item_id:183584918;sku_id:1127999450;shop_id:144613",
+            "addToCartSkus": [
+                {
+                    "sku": "183584918_BD-1127999450",
+                    "skuId": "1127999450",
+                    "count": 0
+                }
+            ],
+            "itemId": "183584918",
+            "skuId": "1127999450",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Baby Girsl Sequins Princess Shoes Newborn Baby Girl Crib Shoes Soft Sole Prewalker Anti-slip Sneaker Baby First Walkers",
+            "nid": "214891361",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "214891361",
+                "scene_pre": "search",
+                "current_price": "140.00",
+                "x_sku_ids": "1163579977",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "214891361"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i214891361-s1163579977.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/46f31c5a9246e86e625e1041de854133.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "140.00",
+            "promotionId": "null",
+            "priceShow": "৳ 140",
+            "discount": "-44%",
+            "ratingScore": "5",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "214891361_BD-1163579977",
+            "sku": "214891361_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506825032",
+            "mainSellerId": "",
+            "sellerName": "Baby Twin",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/46f31c5a9246e86e625e1041de854133.jpg",
+                    "productUrl": "/products/-i214891361-s1163579977.html",
+                    "sku": "214891361_BD",
+                    "skuId": "1163579977"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8972,
+                9006,
+                9009
+            ],
+            "clickTrace": "query:;nid:214891361;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:214891361_BD;price:140.00;client:desktop;supplier_id:700506825032;asc_category_id:9009;item_id:214891361;sku_id:1163579977;shop_id:83922",
+            "addToCartSkus": [
+                {
+                    "sku": "214891361_BD-1163579977",
+                    "skuId": "1163579977",
+                    "count": 0
+                }
+            ],
+            "itemId": "214891361",
+            "skuId": "1163579977",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "4 Pieces Multi Color Cotton Boy Magi T-shirt By Any Color",
+            "nid": "133288423",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "133288423",
+                "scene_pre": "search",
+                "current_price": "138",
+                "x_sku_ids": "1107612440",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "133288423"
+            },
+            "productUrl": "//www.daraz.com.bd/products/4-i133288423-s1107612440.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f677fb390a37ec45eeecf921597801d5.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "138",
+            "promotionId": "null",
+            "priceShow": "৳ 138",
+            "discount": "-8%",
+            "ratingScore": "4.3",
+            "review": "50",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "133288423_BD-1107612440",
+            "sku": "133288423_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Travel Bed",
+                "Color: Multicolour",
+                "Brand: Master Kitchen "
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504938122",
+            "mainSellerId": "",
+            "sellerName": "Hobby Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f677fb390a37ec45eeecf921597801d5.jpg",
+                    "productUrl": "/products/4-i133288423-s1107612440.html",
+                    "sku": "133288423_BD",
+                    "skuId": "1107612440"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f677fb390a37ec45eeecf921597801d5.jpg",
+                    "productUrl": "/products/4-i133288423-s1054934065.html",
+                    "sku": "133288423_BD",
+                    "skuId": "1054934065"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f677fb390a37ec45eeecf921597801d5.jpg",
+                    "productUrl": "/products/4-i133288423-s1107556418.html",
+                    "sku": "133288423_BD",
+                    "skuId": "1107556418"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f677fb390a37ec45eeecf921597801d5.jpg",
+                    "productUrl": "/products/4-i133288423-s1107556420.html",
+                    "sku": "133288423_BD",
+                    "skuId": "1107556420"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f677fb390a37ec45eeecf921597801d5.jpg",
+                    "productUrl": "/products/4-i133288423-s1107556421.html",
+                    "sku": "133288423_BD",
+                    "skuId": "1107556421"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f677fb390a37ec45eeecf921597801d5.jpg",
+                    "productUrl": "/products/4-i133288423-s1107556417.html",
+                    "sku": "133288423_BD",
+                    "skuId": "1107556417"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f677fb390a37ec45eeecf921597801d5.jpg",
+                    "productUrl": "/products/4-i133288423-s1101624882.html",
+                    "sku": "133288423_BD",
+                    "skuId": "1101624882"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f677fb390a37ec45eeecf921597801d5.jpg",
+                    "productUrl": "/products/4-i133288423-s1107556419.html",
+                    "sku": "133288423_BD",
+                    "skuId": "1107556419"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                9021,
+                9022,
+                9025,
+                9026
+            ],
+            "clickTrace": "query:;nid:133288423;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:133288423_BD;price:138;client:desktop;supplier_id:700504938122;asc_category_id:9026;item_id:133288423;sku_id:1107612440;shop_id:52489",
+            "addToCartSkus": [
+                {
+                    "sku": "133288423_BD-1107612440",
+                    "skuId": "1107612440",
+                    "count": 0
+                }
+            ],
+            "itemId": "133288423",
+            "skuId": "1107612440",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "New Born Baby Dress for (0-05Month)-Unisex-Gift set",
+            "nid": "172058945",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "172058945",
+                "scene_pre": "search",
+                "current_price": "99.00",
+                "x_sku_ids": "1108254669",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "172058945"
+            },
+            "productUrl": "//www.daraz.com.bd/products/0-05-i172058945-s1108254669.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/c61d4a38403b8d6abc8b544e21f4f2ea.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "99.00",
+            "promotionId": "null",
+            "priceShow": "৳ 99",
+            "discount": "-51%",
+            "ratingScore": "4.37288",
+            "review": "59",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "172058945_BD-1108254669",
+            "sku": "172058945_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505766181",
+            "mainSellerId": "",
+            "sellerName": "Saaiqa Baby World",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/c61d4a38403b8d6abc8b544e21f4f2ea.jpg",
+                    "productUrl": "/products/0-05-i172058945-s1108254669.html",
+                    "sku": "172058945_BD",
+                    "skuId": "1108254669"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d39e50e2ae430c7373b8d6ef15eef5fe.jpg",
+                    "productUrl": "/products/0-05-i172058945-s1108254670.html",
+                    "sku": "172058945_BD",
+                    "skuId": "1108254670"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/93465cca7d0dc23827a76162ae639ef7.jpg",
+                    "productUrl": "/products/0-05-i172058945-s1108254671.html",
+                    "sku": "172058945_BD",
+                    "skuId": "1108254671"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8966,
+                8970
+            ],
+            "clickTrace": "query:;nid:172058945;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:172058945_BD;price:99.00;client:desktop;supplier_id:700505766181;asc_category_id:8970;item_id:172058945;sku_id:1108254669;shop_id:64708",
+            "addToCartSkus": [
+                {
+                    "sku": "172058945_BD-1108254669",
+                    "skuId": "1108254669",
+                    "count": 0
+                }
+            ],
+            "itemId": "172058945",
+            "skuId": "1108254669",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Baby Sleeping Bag Ultra-Soft Fluffy Fleece Newborn Receiving Blanket Infant Boys Girls ClothesSleeping Nursery Wrap Swaddle",
+            "nid": "213732069",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "213732069",
+                "scene_pre": "search",
+                "current_price": "349.00",
+                "x_sku_ids": "1162925598",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "213732069"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i213732069-s1162925598.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0dbfc34556eb67fbbfe9ed024b3792ff.jpg",
+            "originalPrice": "950.00",
+            "originalPriceShow": "৳ 950",
+            "price": "349.00",
+            "promotionId": "null",
+            "priceShow": "৳ 349",
+            "discount": "-63%",
+            "ratingScore": "5",
+            "review": "10",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "213732069_BD-1162925598",
+            "sku": "213732069_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "687",
+            "mainSellerId": "",
+            "sellerName": "Latest Shop 24",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0dbfc34556eb67fbbfe9ed024b3792ff.jpg",
+                    "productUrl": "/products/-i213732069-s1162925598.html",
+                    "sku": "213732069_BD",
+                    "skuId": "1162925598"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                8966,
+                8968
+            ],
+            "clickTrace": "query:;nid:213732069;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:213732069_BD;price:349.00;client:desktop;supplier_id:687;asc_category_id:8968;item_id:213732069;sku_id:1162925598;shop_id:425",
+            "addToCartSkus": [
+                {
+                    "sku": "213732069_BD-1162925598",
+                    "skuId": "1162925598",
+                    "count": 0
+                }
+            ],
+            "itemId": "213732069",
+            "skuId": "1162925598",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Kids Contrast Polo",
+            "nid": "229427947",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "229427947",
+                "scene_pre": "search",
+                "current_price": "150.00",
+                "x_sku_ids": "1173063917",
+                "SN": "379868dbf775823c02df3d3574f9438c",
+                "x_ad": "1",
+                "x_object_id": "229427947"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i229427947-s1173063917.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b404f6e202cf73ce8658266839d11b70.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "150.00",
+            "promotionId": "null",
+            "priceShow": "৳ 150",
+            "discount": "-50%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "229427947_BD-1173063917",
+            "sku": "229427947_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123502845",
+            "brandName": "Salt Apparels",
+            "sellerId": "700507671154",
+            "mainSellerId": "",
+            "sellerName": "Salt Apparels",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b404f6e202cf73ce8658266839d11b70.jpg",
+                    "productUrl": "/products/-i229427947-s1173063917.html",
+                    "sku": "229427947_BD",
+                    "skuId": "1173063917"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b404f6e202cf73ce8658266839d11b70.jpg",
+                    "productUrl": "/products/-i229427947-s1173063918.html",
+                    "sku": "229427947_BD",
+                    "skuId": "1173063918"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b404f6e202cf73ce8658266839d11b70.jpg",
+                    "productUrl": "/products/-i229427947-s1173063920.html",
+                    "sku": "229427947_BD",
+                    "skuId": "1173063920"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b404f6e202cf73ce8658266839d11b70.jpg",
+                    "productUrl": "/products/-i229427947-s1173063919.html",
+                    "sku": "229427947_BD",
+                    "skuId": "1173063919"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                8706,
+                8965,
+                9021,
+                9022,
+                9025,
+                9027
+            ],
+            "clickTrace": "query:;nid:229427947;src:LazadaMainSrp;rn:379868dbf775823c02df3d3574f9438c;region:bd;sku:229427947_BD;price:150.00;client:desktop;supplier_id:700507671154;asc_category_id:9027;item_id:229427947;sku_id:1173063917;shop_id:104038",
+            "addToCartSkus": [
+                {
+                    "sku": "229427947_BD-1173063917",
+                    "skuId": "1173063917",
+                    "count": 0
+                }
+            ],
+            "itemId": "229427947",
+            "skuId": "1173063917",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/mother-baby/",
+            "title": "Mother & Baby"
+        },
+        {
+            "url": "/baby-clothings-accessories/",
+            "title": "Clothing & Accessories"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/baby-clothings-accessories/?referer_rn=379868dbf775823c02df3d3574f9438c&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Cbr%2F%3E%3Ca%20href%3D%22%2Fbaby-clothings-accessories%2Fapex%2F%22%20%3EApex%20Baby%20Clothings%20Accessories%3C%2Fa%3E"
+    },
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/baby-girls-dresses/?item_id=225449981&from=onesearch_category_8965",
+                "name": "Dresses",
+                "image": "//static-01.daraz.com.bd/p/115eb05795464d5f1e5ab6a1b3ad4b8b.jpg",
+                "id": "8976"
+            },
+            {
+                "url": "/baby-boy-clothing/?item_id=224723359&from=onesearch_category_8965",
+                "name": "Clothing Sets",
+                "image": "//static-01.daraz.com.bd/p/a61a738825505cde4301a8b47a3ea452.jpg",
+                "id": "9024"
+            },
+            {
+                "url": "/babies-hair-accessories/?item_id=204258646&from=onesearch_category_8965",
+                "name": "Hair accessories",
+                "image": "//static-01.daraz.com.bd/p/671f282c857bf8f97e9adceacee7c53f.jpg",
+                "id": "9016"
+            },
+            {
+                "url": "/sets-packs/?item_id=151336941&from=onesearch_category_8965",
+                "name": "Sets & Packs",
+                "image": "//static-01.daraz.com.bd/p/mdc/15bba816f1c85985303460cbbc817d23.jpg",
+                "id": "8970"
+            },
+            {
+                "url": "/bodysuits-one-pieces/?item_id=182431579&from=onesearch_category_8965",
+                "name": "Bodysuits & One-Pieces",
+                "image": "//static-01.daraz.com.bd/p/mdc/7ae4ab792a223c32633c30c03d955a83.png",
+                "id": "8967"
+            },
+            {
+                "url": "/baby-boys-sneakers/?item_id=206375759&from=onesearch_category_8965",
+                "name": "Sneakers",
+                "image": "//static-01.daraz.com.bd/p/1643a5b07b3b9964c4512903197c1761.jpg",
+                "id": "9060"
+            },
+            {
+                "url": "/girls-jumpsuits-and-rompers/?item_id=157792196&from=onesearch_category_8965",
+                "name": "Body Suits",
+                "image": "//static-01.daraz.com.bd/p/ff37db8baafa05f5eb8ea5c8d1fc95af.jpg",
+                "id": "8974"
+            },
+            {
+                "url": "/girls-dresses-skirts-frocks/?item_id=183407139&from=onesearch_category_8965",
+                "name": "Clothing Sets",
+                "image": "//static-01.daraz.com.bd/p/mdc/11c817f5a8996d59aeeff89bcfb11d77.jpg",
+                "id": "8975"
+            },
+            {
+                "url": "/baby-girls-flat-shoes/?item_id=204254866&from=onesearch_category_8965",
+                "name": "Flats",
+                "image": "//static-01.daraz.com.bd/p/4a0183a587d4ec7848cb81e01e5afaa1.jpg",
+                "id": "9009"
+            },
+            {
+                "url": "/boys-tank-tops/?item_id=133278817&from=onesearch_category_8965",
+                "name": "Tops & Tank Tees",
+                "image": "//static-01.daraz.com.bd/p/d1d8485965558ae0f376458ccd311742.jpg",
+                "id": "9026"
+            },
+            {
+                "url": "/boys-fashion-pants-trousers/?item_id=132204315&from=onesearch_category_8965",
+                "name": "Pants",
+                "image": "//static-01.daraz.com.bd/p/8d8fccf234503241e4d33ed237e6d962.jpg",
+                "id": "9034"
+            },
+            {
+                "url": "/girls-tops-t-shirts/?item_id=138024095&from=onesearch_category_8965",
+                "name": "Tops & Tank Tees",
+                "image": "//static-01.daraz.com.bd/p/3c0a880876406c64f1c55d620b0002e2.jpg",
+                "id": "8978"
+            },
+            {
+                "url": "/girls-pants-and-bottoms/?item_id=132470271&from=onesearch_category_8965",
+                "name": "Pants",
+                "image": "//static-01.daraz.com.bd/p/9e252e6859677220b186cadde8061b46.jpg",
+                "id": "8985"
+            },
+            {
+                "url": "/new-born-baby-clothing-accessories/?item_id=215316418&from=onesearch_category_8965",
+                "name": "Accessories",
+                "image": "//static-01.daraz.com.bd/p/e37ce464eb50514e87a77a7db34acb18.jpg",
+                "id": "8971"
+            },
+            {
+                "url": "/baby-girls-sandals/?item_id=226750899&from=onesearch_category_8965",
+                "name": "Sandals",
+                "image": "//static-01.daraz.com.bd/p/a60a6c22c153e403cd3be6e076f526ea.jpg",
+                "id": "9010"
+            },
+            {
+                "url": "/baby-girls-sneakers/?item_id=204265304&from=onesearch_category_8965",
+                "name": "Sneakers",
+                "image": "//static-01.daraz.com.bd/p/29648c989a242ea237114f3d68bb4ac1.jpg",
+                "id": "9012"
+            },
+            {
+                "url": "/baby-boys-sandals/?item_id=205771954&from=onesearch_category_8965",
+                "name": "Sandals",
+                "image": "//static-01.daraz.com.bd/p/688927538f690323f3505040f050b67b.jpg",
+                "id": "9058"
+            },
+            {
+                "url": "/baby-girls-socks/?item_id=209718902&from=onesearch_category_8965",
+                "name": "Socks",
+                "image": "//static-01.daraz.com.bd/p/4eaa5a8301598f110dff5e0f023ada4d.jpg",
+                "id": "9017"
+            },
+            {
+                "url": "/baby-boys-socks/?item_id=124607838&from=onesearch_category_8965",
+                "name": "Socks",
+                "image": "//static-01.daraz.com.bd/p/8bca97913def9dc47f6e39347da51a66.jpg",
+                "id": "9064"
+            },
+            {
+                "url": "/baby-boys-flat-shoes/?item_id=214499784&from=onesearch_category_8965",
+                "name": "Flats",
+                "image": "//static-01.daraz.com.bd/p/c292e104fdf588b888364f6c18cdb260.jpg",
+                "id": "9057"
+            },
+            {
+                "url": "/boys-jumpsuits-rompers/?item_id=227841940&from=onesearch_category_8965",
+                "name": "Body Suits",
+                "image": "//static-01.daraz.com.bd/p/4f04efa8459dc80f1c882c1ca2e3bf6e.jpg",
+                "id": "9023"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_8965"
+        },
+        "title": "",
+        "bizId": "onesearch_category_8965",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "168654 items found in {$0}",
+        "title": "Clothing & Accessories",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Clothing & Accessories"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Clothing & Accessories",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "379868dbf775823c02df3d3574f9438c",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "8965",
+            "category": "8965"
+        },
+        "categoryRegionalKey": "181100000000",
+        "mainCategoryRegionalKey": "180000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Clothing & Accessories - Buy Clothing & Accessories at Best Price in Bangladesh | www.daraz.com.bd",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "true",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Mother & Baby,Clothing & Accessories",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "181100000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=8965&_p_asc_cateid=8965",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "baby-clothings-accessories",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "379868dbf775823c02df3d3574f9438c",
+                "resultNr": 168654,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1155486747",
+                "1166122938",
+                "1074910393"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "8965",
+            "category": "8965"
+        }
+    }
+}

@@ -1,0 +1,3855 @@
+{
+    "listItems": [
+        {
+            "name": "Multani Mati Powder Jar- 100gm",
+            "nid": "167504490",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "167504490",
+                "scene_pre": "search",
+                "current_price": "38",
+                "x_sku_ids": "1101258458",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "167504490"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100-i167504490-s1101258458.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b7bae0076fc8d4f839e36f04d3951e4a.png",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "38",
+            "promotionId": "null",
+            "priceShow": "৳ 38",
+            "discount": "-68%",
+            "ratingScore": "4.78806",
+            "review": "854",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "167504490_BD-1101258458",
+            "sku": "167504490_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1044464",
+            "mainSellerId": "",
+            "sellerName": "Sat Rong",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b7bae0076fc8d4f839e36f04d3951e4a.png",
+                    "productUrl": "/products/100-i167504490-s1101258458.html",
+                    "sku": "167504490_BD",
+                    "skuId": "1101258458"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7279
+            ],
+            "clickTrace": "query:;nid:167504490;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:167504490_BD;price:38;client:desktop;supplier_id:1044464;asc_category_id:7279;item_id:167504490;sku_id:1101258458;shop_id:50097",
+            "addToCartSkus": [
+                {
+                    "sku": "167504490_BD-1101258458",
+                    "skuId": "1101258458",
+                    "count": 0
+                }
+            ],
+            "itemId": "167504490",
+            "skuId": "1101258458",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Multani Mati gura   -150gm ( ex -24/05/2023)",
+            "nid": "129154634",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "129154634",
+                "scene_pre": "search",
+                "current_price": "57",
+                "x_sku_ids": "1048960179",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "129154634"
+            },
+            "productUrl": "//www.daraz.com.bd/products/150-ex-24052023-i129154634-s1048960179.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/6115bfd406045b1c52fa10c7081642c8.jpg",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "57",
+            "promotionId": "null",
+            "priceShow": "৳ 57",
+            "discount": "-68%",
+            "ratingScore": "4.71816",
+            "review": "369",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "129154634_BD-1048960179",
+            "sku": "129154634_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "121230816",
+            "brandName": "Wazih Organic",
+            "sellerId": "700505058146",
+            "mainSellerId": "",
+            "sellerName": "Wazih Organic",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/6115bfd406045b1c52fa10c7081642c8.jpg",
+                    "productUrl": "/products/150-ex-24052023-i129154634-s1048960179.html",
+                    "sku": "129154634_BD",
+                    "skuId": "1048960179"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7279
+            ],
+            "clickTrace": "query:;nid:129154634;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:129154634_BD;price:57;client:desktop;supplier_id:700505058146;asc_category_id:7279;item_id:129154634;sku_id:1048960179;shop_id:55518",
+            "addToCartSkus": [
+                {
+                    "sku": "129154634_BD-1048960179",
+                    "skuId": "1048960179",
+                    "count": 0
+                }
+            ],
+            "itemId": "129154634",
+            "skuId": "1048960179",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Natural White Parachute Skinpure Skin Lotion 300Ml",
+            "nid": "183010353",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183010353",
+                "scene_pre": "search",
+                "current_price": "140",
+                "x_sku_ids": "1127058053",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "183010353"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-skinpure-skin-lotion-natural-white-300ml-i183010353-s1127058053.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5c7c23bc5d719a7567cb748a1127e334.jpg",
+            "originalPrice": "280.00",
+            "originalPriceShow": "৳ 280",
+            "price": "140",
+            "promotionId": "null",
+            "priceShow": "৳ 140",
+            "discount": "-50%",
+            "ratingScore": "4.79592",
+            "review": "98",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183010353_BD-1127058053",
+            "sku": "183010353_BD",
+            "skus": [],
+            "description": [
+                "Product type: Moisturizer",
+                "Capacity: 300ml",
+                "Brand: Parachute SkinPure",
+                "Enriched with the goodness of COCONUT MILK & SANDALWOOD"
+            ],
+            "brandId": "123324239",
+            "brandName": "Parachute SkinPure",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5c7c23bc5d719a7567cb748a1127e334.jpg",
+                    "productUrl": "/products/parachute-skinpure-skin-lotion-natural-white-300ml-i183010353-s1127058053.html",
+                    "sku": "183010353_BD",
+                    "skuId": "1127058053"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                10002061,
+                10002199
+            ],
+            "clickTrace": "query:;nid:183010353;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:183010353_BD;price:140;client:desktop;supplier_id:1000000;asc_category_id:10002199;item_id:183010353;sku_id:1127058053;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "183010353_BD-1127058053",
+                    "skuId": "1127058053",
+                    "count": 0
+                }
+            ],
+            "itemId": "183010353",
+            "skuId": "1127058053",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Multani Mati Powder Jar (100gm)- Multani Mud Powder",
+            "nid": "100781116",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "100781116",
+                "scene_pre": "search",
+                "current_price": "99",
+                "x_sku_ids": "1014763146",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "100781116"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100-i100781116-s1014763146.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2ffdf0f03aba7e7e538e29d804b0c022.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "99",
+            "promotionId": "null",
+            "priceShow": "৳ 99",
+            "discount": "-18%",
+            "ratingScore": "4.82497",
+            "review": "2131",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "100781116_BD-1014763146",
+            "sku": "100781116_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "194732",
+            "brandName": "Rongon Herbals",
+            "sellerId": "3325",
+            "mainSellerId": "",
+            "sellerName": "Rely Foods",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2ffdf0f03aba7e7e538e29d804b0c022.jpg",
+                    "productUrl": "/products/100-i100781116-s1014763146.html",
+                    "sku": "100781116_BD",
+                    "skuId": "1014763146"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7279
+            ],
+            "clickTrace": "query:;nid:100781116;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:100781116_BD;price:99;client:desktop;supplier_id:3325;asc_category_id:7279;item_id:100781116;sku_id:1014763146;shop_id:3591",
+            "addToCartSkus": [
+                {
+                    "sku": "100781116_BD-1014763146",
+                    "skuId": "1014763146",
+                    "count": 0
+                }
+            ],
+            "itemId": "100781116",
+            "skuId": "1014763146",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "মুলতানি মাটি গুড়া-Multani Mati Powder-100gm",
+            "nid": "188668628",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "188668628",
+                "scene_pre": "search",
+                "current_price": "38",
+                "x_sku_ids": "1136212672",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "188668628"
+            },
+            "productUrl": "//www.daraz.com.bd/products/multani-mati-powder-100gm-i188668628-s1136212672.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/b0a54ecec3f4ffc0e6ab9d45c52de5b0.png",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "38",
+            "promotionId": "null",
+            "priceShow": "৳ 38",
+            "discount": "-68%",
+            "ratingScore": "4.87719",
+            "review": "228",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "188668628_BD-1136212672",
+            "sku": "188668628_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504920099",
+            "mainSellerId": "",
+            "sellerName": "Fashion & Forest",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/b0a54ecec3f4ffc0e6ab9d45c52de5b0.png",
+                    "productUrl": "/products/multani-mati-powder-100gm-i188668628-s1136212672.html",
+                    "sku": "188668628_BD",
+                    "skuId": "1136212672"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7279
+            ],
+            "clickTrace": "query:;nid:188668628;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:188668628_BD;price:38;client:desktop;supplier_id:700504920099;asc_category_id:7279;item_id:188668628;sku_id:1136212672;shop_id:51968",
+            "addToCartSkus": [
+                {
+                    "sku": "188668628_BD-1136212672",
+                    "skuId": "1136212672",
+                    "count": 0
+                }
+            ],
+            "itemId": "188668628",
+            "skuId": "1136212672",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Face Wash Weekly Peeling -Aloevera 100 ml",
+            "nid": "174074618",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "174074618",
+                "scene_pre": "search",
+                "current_price": "200",
+                "x_sku_ids": "1110822785",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "174074618"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100-ml-i174074618-s1110822785.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f3d8f52b671fdc05833a036bee0b5a30.png",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "200",
+            "promotionId": "null",
+            "priceShow": "৳ 200",
+            "discount": "-64%",
+            "ratingScore": "4.81081",
+            "review": "37",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "174074618_BD-1110822785",
+            "sku": "174074618_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508292055",
+            "mainSellerId": "",
+            "sellerName": "RJ Corporation BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f3d8f52b671fdc05833a036bee0b5a30.png",
+                    "productUrl": "/products/100-ml-i174074618-s1110822785.html",
+                    "sku": "174074618_BD",
+                    "skuId": "1110822785"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7279
+            ],
+            "clickTrace": "query:;nid:174074618;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:174074618_BD;price:200;client:desktop;supplier_id:700508292055;asc_category_id:7279;item_id:174074618;sku_id:1110822785;shop_id:141774",
+            "addToCartSkus": [
+                {
+                    "sku": "174074618_BD-1110822785",
+                    "skuId": "1110822785",
+                    "count": 0
+                }
+            ],
+            "itemId": "174074618",
+            "skuId": "1110822785",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Activated Carbon Soap- 95gm",
+            "nid": "816735",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "1219648",
+                "scene_pre": "search",
+                "current_price": "308",
+                "x_sku_ids": "1154792502",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "1219648"
+            },
+            "productUrl": "//www.daraz.com.bd/products/120-i1219648-s1154792502.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/de9b7f768790c747cbdf2cbcff4f2a9b.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "308",
+            "promotionId": "null",
+            "priceShow": "৳ 308",
+            "discount": "-12%",
+            "ratingScore": "4.67718",
+            "review": "666",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "1219648_BD-1154792502",
+            "sku": "1219648_BD",
+            "skus": [],
+            "description": [
+                "Product type: soap",
+                "Gender: unisex",
+                "Recommended: solution for all problematic faces.",
+                "Acne",
+                "Pimples",
+                "Eczema",
+                "Whitehead",
+                "Oilyskin",
+                "Blackheads",
+                "Rashes"
+            ],
+            "brandId": "188486",
+            "brandName": "RiBANA",
+            "sellerId": "5059",
+            "mainSellerId": "",
+            "sellerName": "RiBANA",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/de9b7f768790c747cbdf2cbcff4f2a9b.jpg",
+                    "productUrl": "/products/120-i1219648-s1154792502.html",
+                    "sku": "1219648_BD",
+                    "skuId": "1154792502"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7280
+            ],
+            "clickTrace": "query:;nid:816735;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:1219648_BD;price:308;client:desktop;supplier_id:5059;asc_category_id:7280;item_id:1219648;sku_id:1154792502;shop_id:5076",
+            "addToCartSkus": [
+                {
+                    "sku": "1219648_BD-1154792502",
+                    "skuId": "1154792502",
+                    "count": 0
+                }
+            ],
+            "itemId": "1219648",
+            "skuId": "1154792502",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "24k_gold 99% soothing gel.",
+            "nid": "185000954",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "185000954",
+                "scene_pre": "search",
+                "current_price": "99",
+                "x_sku_ids": "1130441293",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "185000954"
+            },
+            "productUrl": "//www.daraz.com.bd/products/24k_gold-99-i185000954-s1130441293.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a91921ec7907b571cd1eb1b1e9bedc12.jpg",
+            "originalPrice": "398.00",
+            "originalPriceShow": "৳ 398",
+            "price": "99",
+            "promotionId": "null",
+            "priceShow": "৳ 99",
+            "discount": "-75%",
+            "ratingScore": "4.76106",
+            "review": "113",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "185000954_BD-1130441293",
+            "sku": "185000954_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508259406",
+            "mainSellerId": "",
+            "sellerName": "Daily Fashion's",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a91921ec7907b571cd1eb1b1e9bedc12.jpg",
+                    "productUrl": "/products/24k_gold-99-i185000954-s1130441293.html",
+                    "sku": "185000954_BD",
+                    "skuId": "1130441293"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7280
+            ],
+            "clickTrace": "query:;nid:185000954;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:185000954_BD;price:99;client:desktop;supplier_id:700508259406;asc_category_id:7280;item_id:185000954;sku_id:1130441293;shop_id:139301",
+            "addToCartSkus": [
+                {
+                    "sku": "185000954_BD-1130441293",
+                    "skuId": "1130441293",
+                    "count": 0
+                }
+            ],
+            "itemId": "185000954",
+            "skuId": "1130441293",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "RorEC White Rice Serum Essence",
+            "nid": "124350759",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "124350759",
+                "scene_pre": "search",
+                "current_price": "67",
+                "x_sku_ids": "1044607869",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "124350759"
+            },
+            "productUrl": "//www.daraz.com.bd/products/rorec-i124350759-s1044607869.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/cfc668a53b4a41d0bee26841c32cbd2b.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "67",
+            "promotionId": "null",
+            "priceShow": "৳ 67",
+            "discount": "-78%",
+            "ratingScore": "4.59506",
+            "review": "2225",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "124350759_BD-1044607869",
+            "sku": "124350759_BD",
+            "skus": [],
+            "description": [
+                "GeneralSkin Type: GeneralEfficacy: Lifting firming, moisturizing, brightening skin tone, revitalizing, moisturizing, oil control, hydratingColor: transparentmaterial: plasticNet weight: 15 (g / ml)Item Type: Face SerumFeature:WhiteningFormulation: LiquidProduct name:White rice tender skin essence"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1020860",
+            "mainSellerId": "",
+            "sellerName": "KHALED TRADING",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/cfc668a53b4a41d0bee26841c32cbd2b.jpg",
+                    "productUrl": "/products/rorec-i124350759-s1044607869.html",
+                    "sku": "124350759_BD",
+                    "skuId": "1044607869"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7286
+            ],
+            "clickTrace": "query:;nid:124350759;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:124350759_BD;price:67;client:desktop;supplier_id:1020860;asc_category_id:7286;item_id:124350759;sku_id:1044607869;shop_id:27092",
+            "addToCartSkus": [
+                {
+                    "sku": "124350759_BD-1044607869",
+                    "skuId": "1044607869",
+                    "count": 0
+                }
+            ],
+            "itemId": "124350759",
+            "skuId": "1044607869",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Clob G cream",
+            "nid": "191652450",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "191652450",
+                "scene_pre": "search",
+                "current_price": "84",
+                "x_sku_ids": "1138584746",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "191652450"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i191652450-s1138584746.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/59e4b379ff009cae81085a17b88a9047.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "84",
+            "promotionId": "null",
+            "priceShow": "৳ 84",
+            "discount": "-30%",
+            "ratingScore": "4.86192",
+            "review": "239",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "191652450_BD-1138584746",
+            "sku": "191652450_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508766437",
+            "mainSellerId": "",
+            "sellerName": "Jashore Mart BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/59e4b379ff009cae81085a17b88a9047.jpg",
+                    "productUrl": "/products/-i191652450-s1138584746.html",
+                    "sku": "191652450_BD",
+                    "skuId": "1138584746"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7283
+            ],
+            "clickTrace": "query:;nid:191652450;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:191652450_BD;price:84;client:desktop;supplier_id:700508766437;asc_category_id:7283;item_id:191652450;sku_id:1138584746;shop_id:182038",
+            "addToCartSkus": [
+                {
+                    "sku": "191652450_BD-1138584746",
+                    "skuId": "1138584746",
+                    "count": 0
+                }
+            ],
+            "itemId": "191652450",
+            "skuId": "1138584746",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "কস্তুরি হলুদ গুড়া-Wild Turmeric Powder-Kasturi Holud Gura-100gm",
+            "nid": "189627202",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "189627202",
+                "scene_pre": "search",
+                "current_price": "53",
+                "x_sku_ids": "1137312835",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "189627202"
+            },
+            "productUrl": "//www.daraz.com.bd/products/wild-turmeric-powder-kasturi-holud-gura-100gm-i189627202-s1137312835.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/c7fe173b9b5aac30e1e330c3aed0d3b1.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "53",
+            "promotionId": "null",
+            "priceShow": "৳ 53",
+            "discount": "-65%",
+            "ratingScore": "4.76351",
+            "review": "148",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "189627202_BD-1137312835",
+            "sku": "189627202_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504920099",
+            "mainSellerId": "",
+            "sellerName": "Fashion & Forest",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/c7fe173b9b5aac30e1e330c3aed0d3b1.jpg",
+                    "productUrl": "/products/wild-turmeric-powder-kasturi-holud-gura-100gm-i189627202-s1137312835.html",
+                    "sku": "189627202_BD",
+                    "skuId": "1137312835"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7278
+            ],
+            "clickTrace": "query:;nid:189627202;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:189627202_BD;price:53;client:desktop;supplier_id:700504920099;asc_category_id:7278;item_id:189627202;sku_id:1137312835;shop_id:51968",
+            "addToCartSkus": [
+                {
+                    "sku": "189627202_BD-1137312835",
+                    "skuId": "1137312835",
+                    "count": 0
+                }
+            ],
+            "itemId": "189627202",
+            "skuId": "1137312835",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Scru cream lip care best lip Scrub",
+            "nid": "223391830",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223391830",
+                "scene_pre": "search",
+                "current_price": "81",
+                "x_sku_ids": "1169461521",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "223391830"
+            },
+            "productUrl": "//www.daraz.com.bd/products/scru-i223391830-s1169461521.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ad8b27c87718ea4425c08b578fd241fd.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "81",
+            "promotionId": "null",
+            "priceShow": "৳ 81",
+            "discount": "-60%",
+            "ratingScore": "4.82353",
+            "review": "17",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223391830_BD-1169461521",
+            "sku": "223391830_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507803102",
+            "mainSellerId": "",
+            "sellerName": "Happy shop bd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ad8b27c87718ea4425c08b578fd241fd.jpg",
+                    "productUrl": "/products/scru-i223391830-s1169461521.html",
+                    "sku": "223391830_BD",
+                    "skuId": "1169461521"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                10002062
+            ],
+            "clickTrace": "query:;nid:223391830;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:223391830_BD;price:81;client:desktop;supplier_id:700507803102;asc_category_id:10002062;item_id:223391830;sku_id:1169461521;shop_id:113677",
+            "addToCartSkus": [
+                {
+                    "sku": "223391830_BD-1169461521",
+                    "skuId": "1169461521",
+                    "count": 0
+                }
+            ],
+            "itemId": "223391830",
+            "skuId": "1169461521",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Multani Mud Body and Face Mask  (80 gm)",
+            "nid": "100767461",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "100767461",
+                "scene_pre": "search",
+                "current_price": "118",
+                "x_sku_ids": "1014747431",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "100767461"
+            },
+            "productUrl": "//www.daraz.com.bd/products/multani-mud-body-and-face-mask-80-gm-i100767461-s1014747431.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c9389c2ac46df07edd6d02436decbf06.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "118",
+            "promotionId": "null",
+            "priceShow": "৳ 118",
+            "discount": "-21%",
+            "ratingScore": "4.82353",
+            "review": "3043",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "100767461_BD-1014747431",
+            "sku": "100767461_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "194732",
+            "brandName": "Rongon Herbals",
+            "sellerId": "3325",
+            "mainSellerId": "",
+            "sellerName": "Rely Foods",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c9389c2ac46df07edd6d02436decbf06.jpg",
+                    "productUrl": "/products/multani-mud-body-and-face-mask-80-gm-i100767461-s1014747431.html",
+                    "sku": "100767461_BD",
+                    "skuId": "1014747431"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7278
+            ],
+            "clickTrace": "query:;nid:100767461;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:100767461_BD;price:118;client:desktop;supplier_id:3325;asc_category_id:7278;item_id:100767461;sku_id:1014747431;shop_id:3591",
+            "addToCartSkus": [
+                {
+                    "sku": "100767461_BD-1014747431",
+                    "skuId": "1014747431",
+                    "count": 0
+                }
+            ],
+            "itemId": "100767461",
+            "skuId": "1014747431",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Organic Multani Mati Bar 100g",
+            "nid": "189315021",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "189315021",
+                "scene_pre": "search",
+                "current_price": "18",
+                "x_sku_ids": "1137123666",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "189315021"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100-100gindus-i189315021-s1137123666.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/3c3dce0f921ccae31ae62d11eb9ddb5b.jpg",
+            "originalPrice": "90.00",
+            "originalPriceShow": "৳ 90",
+            "price": "18",
+            "promotionId": "null",
+            "priceShow": "৳ 18",
+            "discount": "-80%",
+            "ratingScore": "4.62",
+            "review": "150",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "189315021_BD-1137123666",
+            "sku": "189315021_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508739052",
+            "mainSellerId": "",
+            "sellerName": "Bornolota Herbal",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/3c3dce0f921ccae31ae62d11eb9ddb5b.jpg",
+                    "productUrl": "/products/100-100gindus-i189315021-s1137123666.html",
+                    "sku": "189315021_BD",
+                    "skuId": "1137123666"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7278
+            ],
+            "clickTrace": "query:;nid:189315021;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:189315021_BD;price:18;client:desktop;supplier_id:700508739052;asc_category_id:7278;item_id:189315021;sku_id:1137123666;shop_id:180116",
+            "addToCartSkus": [
+                {
+                    "sku": "189315021_BD-1137123666",
+                    "skuId": "1137123666",
+                    "count": 0
+                }
+            ],
+            "itemId": "189315021",
+            "skuId": "1137123666",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Lentil Powder - 150gm",
+            "nid": "121715705",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "121715705",
+                "scene_pre": "search",
+                "current_price": "51",
+                "x_sku_ids": "1041547840",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "121715705"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i121715705-s1041547840.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a569e657303f714a3fd35aa2daec2c69.jpg",
+            "originalPrice": "60.00",
+            "originalPriceShow": "৳ 60",
+            "price": "51",
+            "promotionId": "null",
+            "priceShow": "৳ 51",
+            "discount": "-15%",
+            "ratingScore": "4.88105",
+            "review": "1177",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "121715705_BD-1041547840",
+            "sku": "121715705_BD",
+            "skus": [],
+            "description": [
+                "Lentil powder"
+            ],
+            "brandId": "194732",
+            "brandName": "Rongon Herbals",
+            "sellerId": "3325",
+            "mainSellerId": "",
+            "sellerName": "Rely Foods",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a569e657303f714a3fd35aa2daec2c69.jpg",
+                    "productUrl": "/products/-i121715705-s1041547840.html",
+                    "sku": "121715705_BD",
+                    "skuId": "1041547840"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7278
+            ],
+            "clickTrace": "query:;nid:121715705;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:121715705_BD;price:51;client:desktop;supplier_id:3325;asc_category_id:7278;item_id:121715705;sku_id:1041547840;shop_id:3591",
+            "addToCartSkus": [
+                {
+                    "sku": "121715705_BD-1041547840",
+                    "skuId": "1041547840",
+                    "count": 0
+                }
+            ],
+            "itemId": "121715705",
+            "skuId": "1041547840",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Multani Mati gura ( মুলতানি মাটি গুঁড়া ) Multani Mud Powder (100gm)",
+            "nid": "135390490",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "135390490",
+                "scene_pre": "search",
+                "current_price": "50",
+                "x_sku_ids": "1057392228",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "135390490"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100-i135390490-s1057392228.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/06f5d0dafa19e52149e9322d3e420e3d.jpg",
+            "originalPrice": "105.00",
+            "originalPriceShow": "৳ 105",
+            "price": "50",
+            "promotionId": "null",
+            "priceShow": "৳ 50",
+            "discount": "-52%",
+            "ratingScore": "4.72797",
+            "review": "261",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "135390490_BD-1057392228",
+            "sku": "135390490_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123434403",
+            "brandName": "Trinamool Herbal",
+            "sellerId": "700506867056",
+            "mainSellerId": "",
+            "sellerName": "Trinamool Herbal",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/06f5d0dafa19e52149e9322d3e420e3d.jpg",
+                    "productUrl": "/products/100-i135390490-s1057392228.html",
+                    "sku": "135390490_BD",
+                    "skuId": "1057392228"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7278
+            ],
+            "clickTrace": "query:;nid:135390490;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:135390490_BD;price:50;client:desktop;supplier_id:700506867056;asc_category_id:7278;item_id:135390490;sku_id:1057392228;shop_id:85310",
+            "addToCartSkus": [
+                {
+                    "sku": "135390490_BD-1057392228",
+                    "skuId": "1057392228",
+                    "count": 0
+                }
+            ],
+            "itemId": "135390490",
+            "skuId": "1057392228",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Neem Pata Gura/ Neem leaf powder-100gm",
+            "nid": "167510512",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "167510512",
+                "scene_pre": "search",
+                "current_price": "48",
+                "x_sku_ids": "1101260984",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "167510512"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100gm-i167510512-s1101260984.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/146084af021057d236f060a831e17a4a.png",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "48",
+            "promotionId": "null",
+            "priceShow": "৳ 48",
+            "discount": "-76%",
+            "ratingScore": "4.7957",
+            "review": "279",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "167510512_BD-1101260984",
+            "sku": "167510512_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1044464",
+            "mainSellerId": "",
+            "sellerName": "Sat Rong",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/146084af021057d236f060a831e17a4a.png",
+                    "productUrl": "/products/100gm-i167510512-s1101260984.html",
+                    "sku": "167510512_BD",
+                    "skuId": "1101260984"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7278
+            ],
+            "clickTrace": "query:;nid:167510512;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:167510512_BD;price:48;client:desktop;supplier_id:1044464;asc_category_id:7278;item_id:167510512;sku_id:1101260984;shop_id:50097",
+            "addToCartSkus": [
+                {
+                    "sku": "167510512_BD-1101260984",
+                    "skuId": "1101260984",
+                    "count": 0
+                }
+            ],
+            "itemId": "167510512",
+            "skuId": "1101260984",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Malai Kesar Face Pack - 350gm",
+            "nid": "205921793",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "205921793",
+                "scene_pre": "search",
+                "current_price": "92",
+                "x_sku_ids": "1154507906",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "205921793"
+            },
+            "productUrl": "//www.daraz.com.bd/products/malai-kesar-face-pack-350gm-i205921793-s1154507906.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3154de253c6add71d85c2c9ea1d104a8.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "92",
+            "promotionId": "null",
+            "priceShow": "৳ 92",
+            "discount": "-74%",
+            "ratingScore": "4.58333",
+            "review": "120",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "205921793_BD-1154507906",
+            "sku": "205921793_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1028852",
+            "mainSellerId": "",
+            "sellerName": "Smart Zone 24",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3154de253c6add71d85c2c9ea1d104a8.jpg",
+                    "productUrl": "/products/malai-kesar-face-pack-350gm-i205921793-s1154507906.html",
+                    "sku": "205921793_BD",
+                    "skuId": "1154507906"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7278
+            ],
+            "clickTrace": "query:;nid:205921793;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:205921793_BD;price:92;client:desktop;supplier_id:1028852;asc_category_id:7278;item_id:205921793;sku_id:1154507906;shop_id:34940",
+            "addToCartSkus": [
+                {
+                    "sku": "205921793_BD-1154507906",
+                    "skuId": "1154507906",
+                    "count": 0
+                }
+            ],
+            "itemId": "205921793",
+            "skuId": "1154507906",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Lanbena Teeth Essence-10ml",
+            "nid": "143716351",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "143716351",
+                "scene_pre": "search",
+                "current_price": "109",
+                "x_sku_ids": "1068130318",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "143716351"
+            },
+            "productUrl": "//www.daraz.com.bd/products/lanbena-teeth-essence-10ml-i143716351-s1068130318.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b48dee7778ecd6c68750e93cf6175f15.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "109",
+            "promotionId": "null",
+            "priceShow": "৳ 109",
+            "discount": "-69%",
+            "ratingScore": "4.42353",
+            "review": "85",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "143716351_BD-1068130318",
+            "sku": "143716351_BD",
+            "skus": [],
+            "description": [
+                "Lanbena Brand 100% originalNo side effect100%originalMade In China"
+            ],
+            "brandId": "144510",
+            "brandName": "LANBENA",
+            "sellerId": "1020860",
+            "mainSellerId": "",
+            "sellerName": "KHALED TRADING",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b48dee7778ecd6c68750e93cf6175f15.jpg",
+                    "productUrl": "/products/lanbena-teeth-essence-10ml-i143716351-s1068130318.html",
+                    "sku": "143716351_BD",
+                    "skuId": "1068130318"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7286
+            ],
+            "clickTrace": "query:;nid:143716351;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:143716351_BD;price:109;client:desktop;supplier_id:1020860;asc_category_id:7286;item_id:143716351;sku_id:1068130318;shop_id:27092",
+            "addToCartSkus": [
+                {
+                    "sku": "143716351_BD-1068130318",
+                    "skuId": "1068130318",
+                    "count": 0
+                }
+            ],
+            "itemId": "143716351",
+            "skuId": "1068130318",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "LAIKOU Sakura Eye Cream Anti-Aging Wrinkles Remover Dark Circles Eye Care Against Puffiness and Bags",
+            "nid": "127084854",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "127084854",
+                "scene_pre": "search",
+                "current_price": "141",
+                "x_sku_ids": "1047117048",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "127084854"
+            },
+            "productUrl": "//www.daraz.com.bd/products/laikou-i127084854-s1047117048.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/abec62fcd452c9ba29cea3daaf55060a.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "141",
+            "promotionId": "null",
+            "priceShow": "৳ 141",
+            "discount": "-72%",
+            "ratingScore": "4.58741",
+            "review": "143",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "127084854_BD-1047117048",
+            "sku": "127084854_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "57539",
+            "brandName": "LAIKOU",
+            "sellerId": "1002455",
+            "mainSellerId": "",
+            "sellerName": "OGERIO",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/abec62fcd452c9ba29cea3daaf55060a.jpg",
+                    "productUrl": "/products/laikou-i127084854-s1047117048.html",
+                    "sku": "127084854_BD",
+                    "skuId": "1047117048"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7296
+            ],
+            "clickTrace": "query:;nid:127084854;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:127084854_BD;price:141;client:desktop;supplier_id:1002455;asc_category_id:7296;item_id:127084854;sku_id:1047117048;shop_id:8742",
+            "addToCartSkus": [
+                {
+                    "sku": "127084854_BD-1047117048",
+                    "skuId": "1047117048",
+                    "count": 0
+                }
+            ],
+            "itemId": "127084854",
+            "skuId": "1047117048",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Parachute SkinPure Petroleum Jelly 100ml",
+            "nid": "115440796",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "115440796",
+                "scene_pre": "search",
+                "current_price": "58.00",
+                "x_sku_ids": "1033976604",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "115440796"
+            },
+            "productUrl": "//www.daraz.com.bd/products/parachute-skinpure-petroleum-jelly-100ml-i115440796-s1033976604.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d93662be36bf09e26fb79b475a739343.jpg",
+            "originalPrice": "80.00",
+            "originalPriceShow": "৳ 80",
+            "price": "58.00",
+            "promotionId": "null",
+            "priceShow": "৳ 58",
+            "discount": "-28%",
+            "ratingScore": "4.84914",
+            "review": "928",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "115440796_BD-1033976604",
+            "sku": "115440796_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Petrolium Jelly",
+                "Capacity: 100ml",
+                "24h Moisture protection",
+                "Soothes Dry Skin And Lips",
+                "Brand: Parachute"
+            ],
+            "brandId": "123324239",
+            "brandName": "Parachute SkinPure",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d93662be36bf09e26fb79b475a739343.jpg",
+                    "productUrl": "/products/parachute-skinpure-petroleum-jelly-100ml-i115440796-s1033976604.html",
+                    "sku": "115440796_BD",
+                    "skuId": "1033976604"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7282
+            ],
+            "clickTrace": "query:;nid:115440796;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:115440796_BD;price:58.00;client:desktop;supplier_id:1000000;asc_category_id:7282;item_id:115440796;sku_id:1033976604;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "115440796_BD-1033976604",
+                    "skuId": "1033976604",
+                    "count": 0
+                }
+            ],
+            "itemId": "115440796",
+            "skuId": "1033976604",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "YC EXTRA WHIETENING MEN FACE WASH",
+            "nid": "176694910",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "176694910",
+                "scene_pre": "search",
+                "current_price": "210",
+                "x_sku_ids": "1116552024",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "176694910"
+            },
+            "productUrl": "//www.daraz.com.bd/products/yc-extra-whietening-men-face-wash-i176694910-s1116552024.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8b097d4f5de44c2903fa530a12fa2961.jpg",
+            "originalPrice": "240.00",
+            "originalPriceShow": "৳ 240",
+            "price": "210",
+            "promotionId": "null",
+            "priceShow": "৳ 210",
+            "discount": "-13%",
+            "ratingScore": "4.70779",
+            "review": "154",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "176694910_BD-1116552024",
+            "sku": "176694910_BD",
+            "skus": [],
+            "description": [
+                "6X Whitening",
+                "Oil Free",
+                "Deep Cleasing"
+            ],
+            "brandId": "38050",
+            "brandName": "YC",
+            "sellerId": "700508181335",
+            "mainSellerId": "",
+            "sellerName": "Yc Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8b097d4f5de44c2903fa530a12fa2961.jpg",
+                    "productUrl": "/products/yc-extra-whietening-men-face-wash-i176694910-s1116552024.html",
+                    "sku": "176694910_BD",
+                    "skuId": "1116552024"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7280
+            ],
+            "clickTrace": "query:;nid:176694910;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:176694910_BD;price:210;client:desktop;supplier_id:700508181335;asc_category_id:7280;item_id:176694910;sku_id:1116552024;shop_id:133189",
+            "addToCartSkus": [
+                {
+                    "sku": "176694910_BD-1116552024",
+                    "skuId": "1116552024",
+                    "count": 0
+                }
+            ],
+            "itemId": "176694910",
+            "skuId": "1116552024",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Rajkonna Acne Fighting Facial Wash (100ml)",
+            "nid": "170414597",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "170414597",
+                "scene_pre": "search",
+                "current_price": "167",
+                "x_sku_ids": "1105484341",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "170414597"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100ml-i170414597-s1105484341.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6bf7f7a9c62d24b30688459055bcad55.jpg",
+            "originalPrice": "185.00",
+            "originalPriceShow": "৳ 185",
+            "price": "167",
+            "promotionId": "null",
+            "priceShow": "৳ 167",
+            "discount": "-10%",
+            "ratingScore": "4.75625",
+            "review": "160",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "170414597_BD-1105484341",
+            "sku": "170414597_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123653476",
+            "brandName": "RAJKONNA",
+            "sellerId": "700507896114",
+            "mainSellerId": "",
+            "sellerName": "Unicorn Rajkonna",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6bf7f7a9c62d24b30688459055bcad55.jpg",
+                    "productUrl": "/products/100ml-i170414597-s1105484341.html",
+                    "sku": "170414597_BD",
+                    "skuId": "1105484341"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7280
+            ],
+            "clickTrace": "query:;nid:170414597;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:170414597_BD;price:167;client:desktop;supplier_id:700507896114;asc_category_id:7280;item_id:170414597;sku_id:1105484341;shop_id:118705",
+            "addToCartSkus": [
+                {
+                    "sku": "170414597_BD-1105484341",
+                    "skuId": "1105484341",
+                    "count": 0
+                }
+            ],
+            "itemId": "170414597",
+            "skuId": "1105484341",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bioaqua NenHong Pink Cream - 30g",
+            "nid": "201354851",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "201354851",
+                "scene_pre": "search",
+                "current_price": "184",
+                "x_sku_ids": "1148551418",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "201354851"
+            },
+            "productUrl": "//www.daraz.com.bd/products/bioaqua-nenhong-30g-i201354851-s1148551418.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/eda1dfe1c48cd20eb7db4caeb01ba1c4.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "184",
+            "promotionId": "null",
+            "priceShow": "৳ 184",
+            "discount": "-47%",
+            "ratingScore": "4.7451",
+            "review": "51",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "201354851_BD-1148551418",
+            "sku": "201354851_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "49371",
+            "brandName": "Bioaqua",
+            "sellerId": "1002455",
+            "mainSellerId": "",
+            "sellerName": "OGERIO",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/eda1dfe1c48cd20eb7db4caeb01ba1c4.jpg",
+                    "productUrl": "/products/bioaqua-nenhong-30g-i201354851-s1148551418.html",
+                    "sku": "201354851_BD",
+                    "skuId": "1148551418"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                10002062
+            ],
+            "clickTrace": "query:;nid:201354851;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:201354851_BD;price:184;client:desktop;supplier_id:1002455;asc_category_id:10002062;item_id:201354851;sku_id:1148551418;shop_id:8742",
+            "addToCartSkus": [
+                {
+                    "sku": "201354851_BD-1148551418",
+                    "skuId": "1148551418",
+                    "count": 0
+                }
+            ],
+            "itemId": "201354851",
+            "skuId": "1148551418",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Aroma Magic Neem and Teatree Face Wash (100 ml)",
+            "nid": "210282757",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "210282757",
+                "scene_pre": "search",
+                "current_price": "368",
+                "x_sku_ids": "1160377476",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "210282757"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100-ml-i210282757-s1160377476.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6c33cdf9658a5717f47d1e23f2e5d6b5.png",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "368",
+            "promotionId": "null",
+            "priceShow": "৳ 368",
+            "discount": "-51%",
+            "ratingScore": "4.78788",
+            "review": "33",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "210282757_BD-1160377476",
+            "sku": "210282757_BD",
+            "skus": [],
+            "description": [
+                "For Men &amp; Women",
+                "Liquid Based",
+                "For Oily Skin",
+                "Controls acne",
+                "Prevent blackheads and soothes skin irritation",
+                "Lightens scars, blemishes and improves skin tone"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1000539",
+            "mainSellerId": "",
+            "sellerName": "Orpa",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6c33cdf9658a5717f47d1e23f2e5d6b5.png",
+                    "productUrl": "/products/100-ml-i210282757-s1160377476.html",
+                    "sku": "210282757_BD",
+                    "skuId": "1160377476"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7280
+            ],
+            "clickTrace": "query:;nid:210282757;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:210282757_BD;price:368;client:desktop;supplier_id:1000539;asc_category_id:7280;item_id:210282757;sku_id:1160377476;shop_id:6048",
+            "addToCartSkus": [
+                {
+                    "sku": "210282757_BD-1160377476",
+                    "skuId": "1160377476",
+                    "count": 0
+                }
+            ],
+            "itemId": "210282757",
+            "skuId": "1160377476",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "ROREC White Rice Serum Essence Moisturizing Anti Wrinkle Anti-Allergy",
+            "nid": "208778512",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "208778512",
+                "scene_pre": "search",
+                "current_price": "66.00",
+                "x_sku_ids": "1158974084",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "208778512"
+            },
+            "productUrl": "//www.daraz.com.bd/products/rorec-i208778512-s1158974084.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9ad9f7383889d6d6a5ffbad16a6910c8.jpg",
+            "originalPrice": "95.00",
+            "originalPriceShow": "৳ 95",
+            "price": "66.00",
+            "promotionId": "null",
+            "priceShow": "৳ 66",
+            "discount": "-31%",
+            "ratingScore": "4.73308",
+            "review": "266",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "208778512_BD-1158974084",
+            "sku": "208778512_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508343170",
+            "mainSellerId": "",
+            "sellerName": "Wholesale Market World",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9ad9f7383889d6d6a5ffbad16a6910c8.jpg",
+                    "productUrl": "/products/rorec-i208778512-s1158974084.html",
+                    "sku": "208778512_BD",
+                    "skuId": "1158974084"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7286
+            ],
+            "clickTrace": "query:;nid:208778512;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:208778512_BD;price:66.00;client:desktop;supplier_id:700508343170;asc_category_id:7286;item_id:208778512;sku_id:1158974084;shop_id:149517",
+            "addToCartSkus": [
+                {
+                    "sku": "208778512_BD-1158974084",
+                    "skuId": "1158974084",
+                    "count": 0
+                }
+            ],
+            "itemId": "208778512",
+            "skuId": "1158974084",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Divas intimate Brightening Solution 20ml",
+            "nid": "184328929",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184328929",
+                "scene_pre": "search",
+                "current_price": "95",
+                "x_sku_ids": "1129194168",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "184328929"
+            },
+            "productUrl": "//www.daraz.com.bd/products/divas-20ml-i184328929-s1129194168.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/981044511b4d6ac4fb1a18976caccc4d.jpg",
+            "originalPrice": "140.00",
+            "originalPriceShow": "৳ 140",
+            "price": "95",
+            "promotionId": "null",
+            "priceShow": "৳ 95",
+            "discount": "-32%",
+            "ratingScore": "4.70588",
+            "review": "51",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184328929_BD-1129194168",
+            "sku": "184328929_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123684454",
+            "brandName": "Divas secret",
+            "sellerId": "1008569",
+            "mainSellerId": "",
+            "sellerName": "The Makeup Company",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/981044511b4d6ac4fb1a18976caccc4d.jpg",
+                    "productUrl": "/products/divas-20ml-i184328929-s1129194168.html",
+                    "sku": "184328929_BD",
+                    "skuId": "1129194168"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7282
+            ],
+            "clickTrace": "query:;nid:184328929;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:184328929_BD;price:95;client:desktop;supplier_id:1008569;asc_category_id:7282;item_id:184328929;sku_id:1129194168;shop_id:14734",
+            "addToCartSkus": [
+                {
+                    "sku": "184328929_BD-1129194168",
+                    "skuId": "1129194168",
+                    "count": 0
+                }
+            ],
+            "itemId": "184328929",
+            "skuId": "1129194168",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "5 pcs Matcha Green Clay Mud",
+            "nid": "199483126",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "199483126",
+                "scene_pre": "search",
+                "current_price": "84",
+                "x_sku_ids": "1146726140",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "199483126"
+            },
+            "productUrl": "//www.daraz.com.bd/products/5-i199483126-s1146726140.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/67852fb6a494f8f806de605910ef784e.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "84",
+            "promotionId": "null",
+            "priceShow": "৳ 84",
+            "discount": "-44%",
+            "ratingScore": "4.83784",
+            "review": "74",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "199483126_BD-1146726140",
+            "sku": "199483126_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508193027",
+            "mainSellerId": "",
+            "sellerName": "TS Shop BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/67852fb6a494f8f806de605910ef784e.jpg",
+                    "productUrl": "/products/5-i199483126-s1146726140.html",
+                    "sku": "199483126_BD",
+                    "skuId": "1146726140"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7278
+            ],
+            "clickTrace": "query:;nid:199483126;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:199483126_BD;price:84;client:desktop;supplier_id:700508193027;asc_category_id:7278;item_id:199483126;sku_id:1146726140;shop_id:133656",
+            "addToCartSkus": [
+                {
+                    "sku": "199483126_BD-1146726140",
+                    "skuId": "1146726140",
+                    "count": 0
+                }
+            ],
+            "itemId": "199483126",
+            "skuId": "1146726140",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Khadi এর প্রাকৃতিক নিম এবং টিট্রি ফেস ওয়াশ-sls & paraben ফ্রি",
+            "nid": "204320926",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "204320926",
+                "scene_pre": "search",
+                "current_price": "512",
+                "x_sku_ids": "1152386414",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "204320926"
+            },
+            "productUrl": "//www.daraz.com.bd/products/khadi-sls-paraben-i204320926-s1152386414.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/acf4354c3400afc9c7b82145c44d9fa3.jpg",
+            "originalPrice": "600.00",
+            "originalPriceShow": "৳ 600",
+            "price": "512",
+            "promotionId": "null",
+            "priceShow": "৳ 512",
+            "discount": "-15%",
+            "ratingScore": "4.87129",
+            "review": "101",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "204320926_BD-1152386414",
+            "sku": "204320926_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123947448",
+            "brandName": "Khadi Natural",
+            "sellerId": "700508760528",
+            "mainSellerId": "",
+            "sellerName": "Khadi Natural BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/acf4354c3400afc9c7b82145c44d9fa3.jpg",
+                    "productUrl": "/products/khadi-sls-paraben-i204320926-s1152386414.html",
+                    "sku": "204320926_BD",
+                    "skuId": "1152386414"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7280
+            ],
+            "clickTrace": "query:;nid:204320926;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:204320926_BD;price:512;client:desktop;supplier_id:700508760528;asc_category_id:7280;item_id:204320926;sku_id:1152386414;shop_id:182225",
+            "addToCartSkus": [
+                {
+                    "sku": "204320926_BD-1152386414",
+                    "skuId": "1152386414",
+                    "count": 0
+                }
+            ],
+            "itemId": "204320926",
+            "skuId": "1152386414",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ayur Herbal Milk Facial Scrub - 250ml",
+            "nid": "157912221",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "157912221",
+                "scene_pre": "search",
+                "current_price": "70",
+                "x_sku_ids": "1089022113",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "157912221"
+            },
+            "productUrl": "//www.daraz.com.bd/products/250ml-i157912221-s1089022113.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/45f3a0311ba2c9a4f8ce347136b078eb.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "70",
+            "promotionId": "null",
+            "priceShow": "৳ 70",
+            "discount": "-42%",
+            "ratingScore": "4.74275",
+            "review": "552",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "157912221_BD-1089022113",
+            "sku": "157912221_BD",
+            "skus": [],
+            "description": [
+                "Product type: Facial Scrub.Capacity: 250ml.Deep cleansing and refreshing.Moisturizing and skin tightening.For external use only"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507632197",
+            "mainSellerId": "",
+            "sellerName": "Cosmetic Point",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/45f3a0311ba2c9a4f8ce347136b078eb.jpg",
+                    "productUrl": "/products/250ml-i157912221-s1089022113.html",
+                    "sku": "157912221_BD",
+                    "skuId": "1089022113"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7280
+            ],
+            "clickTrace": "query:;nid:157912221;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:157912221_BD;price:70;client:desktop;supplier_id:700507632197;asc_category_id:7280;item_id:157912221;sku_id:1089022113;shop_id:101323",
+            "addToCartSkus": [
+                {
+                    "sku": "157912221_BD-1089022113",
+                    "skuId": "1089022113",
+                    "count": 0
+                }
+            ],
+            "itemId": "157912221",
+            "skuId": "1089022113",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "পার্মানেন্টলি ঠোঁট গোলাপী করার Scru Lip Scrub  Cream",
+            "nid": "184496678",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184496678",
+                "scene_pre": "search",
+                "current_price": "136",
+                "x_sku_ids": "1129535687",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "184496678"
+            },
+            "productUrl": "//www.daraz.com.bd/products/scru-lip-scrub-cream-i184496678-s1129535687.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2ca9b7d14f1a7d0df2fb563022ef3c1c.jpg",
+            "originalPrice": "600.00",
+            "originalPriceShow": "৳ 600",
+            "price": "136",
+            "promotionId": "null",
+            "priceShow": "৳ 136",
+            "discount": "-77%",
+            "ratingScore": "4.76316",
+            "review": "38",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184496678_BD-1129535687",
+            "sku": "184496678_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508535384",
+            "mainSellerId": "",
+            "sellerName": "SomoyerHat Express",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2ca9b7d14f1a7d0df2fb563022ef3c1c.jpg",
+                    "productUrl": "/products/scru-lip-scrub-cream-i184496678-s1129535687.html",
+                    "sku": "184496678_BD",
+                    "skuId": "1129535687"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                10002062
+            ],
+            "clickTrace": "query:;nid:184496678;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:184496678_BD;price:136;client:desktop;supplier_id:700508535384;asc_category_id:10002062;item_id:184496678;sku_id:1129535687;shop_id:166458",
+            "addToCartSkus": [
+                {
+                    "sku": "184496678_BD-1129535687",
+                    "skuId": "1129535687",
+                    "count": 0
+                }
+            ],
+            "itemId": "184496678",
+            "skuId": "1129535687",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Aloe Vera Gel 200ml Parachute SkinPure",
+            "nid": "129068800",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "129068800",
+                "scene_pre": "search",
+                "current_price": "199",
+                "x_sku_ids": "1048884044",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "129068800"
+            },
+            "productUrl": "//www.daraz.com.bd/products/aloe-vera-gel-200ml-parachute-skinpure-i129068800-s1048884044.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8beea358c87808a15329cc3c72c3d5fa.jpg",
+            "originalPrice": "325.00",
+            "originalPriceShow": "৳ 325",
+            "price": "199",
+            "promotionId": "null",
+            "priceShow": "৳ 199",
+            "discount": "-39%",
+            "ratingScore": "4.63314",
+            "review": "338",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "129068800_BD-1048884044",
+            "sku": "129068800_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Gel",
+                "Brand: Parachute",
+                "Capacity: 200ml",
+                "Aloe Vera",
+                "24h Moisture protection",
+                "Soothes Dry Skin And Lips"
+            ],
+            "brandId": "123324239",
+            "brandName": "Parachute SkinPure",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8beea358c87808a15329cc3c72c3d5fa.jpg",
+                    "productUrl": "/products/aloe-vera-gel-200ml-parachute-skinpure-i129068800-s1048884044.html",
+                    "sku": "129068800_BD",
+                    "skuId": "1048884044"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7280
+            ],
+            "clickTrace": "query:;nid:129068800;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:129068800_BD;price:199;client:desktop;supplier_id:1000000;asc_category_id:7280;item_id:129068800;sku_id:1048884044;shop_id:5728",
+            "addToCartSkus": [
+                {
+                    "sku": "129068800_BD-1048884044",
+                    "skuId": "1048884044",
+                    "count": 0
+                }
+            ],
+            "itemId": "129068800",
+            "skuId": "1048884044",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Multani Mud Bar (50 gm)",
+            "nid": "100778930",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "100778930",
+                "scene_pre": "search",
+                "current_price": "72",
+                "x_sku_ids": "1014761189",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "100778930"
+            },
+            "productUrl": "//www.daraz.com.bd/products/multani-mud-bar-50-gm-i100778930-s1014761189.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/355be063168fb737cba9ec45f92a59e4.png",
+            "originalPrice": "85.00",
+            "originalPriceShow": "৳ 85",
+            "price": "72",
+            "promotionId": "null",
+            "priceShow": "৳ 72",
+            "discount": "-15%",
+            "ratingScore": "4.68696",
+            "review": "115",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "100778930_BD-1014761189",
+            "sku": "100778930_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "194732",
+            "brandName": "Rongon Herbals",
+            "sellerId": "3325",
+            "mainSellerId": "",
+            "sellerName": "Rely Foods",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/355be063168fb737cba9ec45f92a59e4.png",
+                    "productUrl": "/products/multani-mud-bar-50-gm-i100778930-s1014761189.html",
+                    "sku": "100778930_BD",
+                    "skuId": "1014761189"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7280
+            ],
+            "clickTrace": "query:;nid:100778930;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:100778930_BD;price:72;client:desktop;supplier_id:3325;asc_category_id:7280;item_id:100778930;sku_id:1014761189;shop_id:3591",
+            "addToCartSkus": [
+                {
+                    "sku": "100778930_BD-1014761189",
+                    "skuId": "1014761189",
+                    "count": 0
+                }
+            ],
+            "itemId": "100778930",
+            "skuId": "1014761189",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SCRU Cream Lips Scrub",
+            "nid": "223397321",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223397321",
+                "scene_pre": "search",
+                "current_price": "86",
+                "x_sku_ids": "1169463258",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "223397321"
+            },
+            "productUrl": "//www.daraz.com.bd/products/scru-i223397321-s1169463258.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/744282030a3b70bc62e93d49c6e6984a.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "86",
+            "promotionId": "null",
+            "priceShow": "৳ 86",
+            "discount": "-57%",
+            "ratingScore": "5",
+            "review": "6",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223397321_BD-1169463258",
+            "sku": "223397321_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507803102",
+            "mainSellerId": "",
+            "sellerName": "Happy shop bd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/744282030a3b70bc62e93d49c6e6984a.jpg",
+                    "productUrl": "/products/scru-i223397321-s1169463258.html",
+                    "sku": "223397321_BD",
+                    "skuId": "1169463258"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                10002062
+            ],
+            "clickTrace": "query:;nid:223397321;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:223397321_BD;price:86;client:desktop;supplier_id:700507803102;asc_category_id:10002062;item_id:223397321;sku_id:1169463258;shop_id:113677",
+            "addToCartSkus": [
+                {
+                    "sku": "223397321_BD-1169463258",
+                    "skuId": "1169463258",
+                    "count": 0
+                }
+            ],
+            "itemId": "223397321",
+            "skuId": "1169463258",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Skinpro Acne Clearing Gel Cleanser 100ml",
+            "nid": "231776822",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "231776822",
+                "scene_pre": "search",
+                "current_price": "159.00",
+                "x_sku_ids": "1174898106",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "231776822"
+            },
+            "productUrl": "//www.daraz.com.bd/products/skinpro-100ml-i231776822-s1174898106.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a72f366c79c9d5f1e349c439f966f59c.jpg",
+            "originalPrice": "225.00",
+            "originalPriceShow": "৳ 225",
+            "price": "159.00",
+            "promotionId": "null",
+            "priceShow": "৳ 159",
+            "discount": "-29%",
+            "ratingScore": "4.77246",
+            "review": "334",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "231776822_BD-1174898106",
+            "sku": "231776822_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "60763",
+            "brandName": "SkinPro",
+            "sellerId": "700511091360",
+            "mainSellerId": "",
+            "sellerName": "SkinPro",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a72f366c79c9d5f1e349c439f966f59c.jpg",
+                    "productUrl": "/products/skinpro-100ml-i231776822-s1174898106.html",
+                    "sku": "231776822_BD",
+                    "skuId": "1174898106"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7280
+            ],
+            "clickTrace": "query:;nid:231776822;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:231776822_BD;price:159.00;client:desktop;supplier_id:700511091360;asc_category_id:7280;item_id:231776822;sku_id:1174898106;shop_id:235233",
+            "addToCartSkus": [
+                {
+                    "sku": "231776822_BD-1174898106",
+                    "skuId": "1174898106",
+                    "count": 0
+                }
+            ],
+            "itemId": "231776822",
+            "skuId": "1174898106",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ponds Face Wash Pure White - 100G",
+            "nid": "322517",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "2386802",
+                "scene_pre": "search",
+                "current_price": "124.00",
+                "x_sku_ids": "62432205",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "2386802"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ponds-face-wash-pure-white-100g-i2386802-s62432205.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/17e2c65d1a51e00d7fdb42b52093cacc.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "124.00",
+            "promotionId": "null",
+            "priceShow": "৳ 124",
+            "discount": "-38%",
+            "ratingScore": "4.78102",
+            "review": "548",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "PO496HBSHAANNAFAMZ-487614",
+            "sku": "PO496HBSHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Product Type: Face Wash",
+                "Helps reduce the causes of blemishes",
+                "Reveals your natural pure looking white skin",
+                "Capacity: 100g",
+                "Gender: Women",
+                "Made in Bangladesh"
+            ],
+            "brandId": "33233",
+            "brandName": "Ponds",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/17e2c65d1a51e00d7fdb42b52093cacc.jpg",
+                    "productUrl": "/products/ponds-face-wash-pure-white-100g-i2386802-s62432205.html",
+                    "sku": "PO496HBSHAANNAFAMZ",
+                    "skuId": "62432205"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7280
+            ],
+            "clickTrace": "query:;nid:322517;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:PO496HBSHAANNAFAMZ;price:124.00;client:desktop;supplier_id:1000000;asc_category_id:7280;item_id:2386802;sku_id:62432205;shop_id:5726",
+            "addToCartSkus": [
+                {
+                    "sku": "PO496HBSHAANNAFAMZ-487614",
+                    "skuId": "62432205",
+                    "count": 0
+                }
+            ],
+            "itemId": "2386802",
+            "skuId": "62432205",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Rangapori Total Care Glycerin 120 ml",
+            "nid": "138970849",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "138970849",
+                "scene_pre": "search",
+                "current_price": "65.00",
+                "x_sku_ids": "1062024687",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "138970849"
+            },
+            "productUrl": "//www.daraz.com.bd/products/120-ml-i138970849-s1062024687.html?search=1",
+            "image": "https://bd-live-21.slatic.net/kf/S94ffb03e07664be4aa46e7ee21ef3223E.jpg",
+            "originalPrice": "90.00",
+            "originalPriceShow": "৳ 90",
+            "price": "65.00",
+            "promotionId": "null",
+            "priceShow": "৳ 65",
+            "discount": "-28%",
+            "ratingScore": "4.75676",
+            "review": "74",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "138970849_BD-1062024687",
+            "sku": "138970849_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123996300",
+            "brandName": "RANGA PORI",
+            "sellerId": "700505085106",
+            "mainSellerId": "",
+            "sellerName": "RANGA PORI",
+            "thumbs": [
+                {
+                    "image": "https://bd-live-21.slatic.net/kf/S94ffb03e07664be4aa46e7ee21ef3223E.jpg",
+                    "productUrl": "/products/120-ml-i138970849-s1062024687.html",
+                    "sku": "138970849_BD",
+                    "skuId": "1062024687"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7285
+            ],
+            "clickTrace": "query:;nid:138970849;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:138970849_BD;price:65.00;client:desktop;supplier_id:700505085106;asc_category_id:7285;item_id:138970849;sku_id:1062024687;shop_id:57588",
+            "addToCartSkus": [
+                {
+                    "sku": "138970849_BD-1062024687",
+                    "skuId": "1062024687",
+                    "count": 0
+                }
+            ],
+            "itemId": "138970849",
+            "skuId": "1062024687",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Face Bron Or Acne Remover Stick Easy To Use Pimple Stick",
+            "nid": "168980763",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168980763",
+                "scene_pre": "search",
+                "current_price": "12.00",
+                "x_sku_ids": "1103334853",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "168980763"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i168980763-s1103334853.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a27e4317a6b8d4876f3f5dd67676893f.jpg",
+            "originalPrice": "30.00",
+            "originalPriceShow": "৳ 30",
+            "price": "12.00",
+            "promotionId": "null",
+            "priceShow": "৳ 12",
+            "discount": "-60%",
+            "ratingScore": "4.83333",
+            "review": "30",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168980763_BD-1103334853",
+            "sku": "168980763_BD",
+            "skus": [],
+            "description": [
+                "Compact in size",
+                "Convenient to use",
+                "Both sides are useable",
+                "Hassle free and comfortable",
+                "Cleanse your face from pimples and blackheads."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507347061",
+            "mainSellerId": "",
+            "sellerName": "Quality With Style",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a27e4317a6b8d4876f3f5dd67676893f.jpg",
+                    "productUrl": "/products/-i168980763-s1103334853.html",
+                    "sku": "168980763_BD",
+                    "skuId": "1103334853"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7286
+            ],
+            "clickTrace": "query:;nid:168980763;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:168980763_BD;price:12.00;client:desktop;supplier_id:700507347061;asc_category_id:7286;item_id:168980763;sku_id:1103334853;shop_id:93387",
+            "addToCartSkus": [
+                {
+                    "sku": "168980763_BD-1103334853",
+                    "skuId": "1103334853",
+                    "count": 0
+                }
+            ],
+            "itemId": "168980763",
+            "skuId": "1103334853",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "active mesta out cream",
+            "nid": "177266373",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "177266373",
+                "scene_pre": "search",
+                "current_price": "59",
+                "x_sku_ids": "1117196883",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "177266373"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i177266373-s1117196883.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b08f2594b3e1967b2b106fd2a0a412ae.jpg",
+            "originalPrice": "60.00",
+            "originalPriceShow": "৳ 60",
+            "price": "59",
+            "promotionId": "null",
+            "priceShow": "৳ 59",
+            "discount": "-2%",
+            "ratingScore": "4.5082",
+            "review": "61",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "177266373_BD-1117196883",
+            "sku": "177266373_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508265040",
+            "mainSellerId": "",
+            "sellerName": "New Beautifly",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b08f2594b3e1967b2b106fd2a0a412ae.jpg",
+                    "productUrl": "/products/-i177266373-s1117196883.html",
+                    "sku": "177266373_BD",
+                    "skuId": "1117196883"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7282
+            ],
+            "clickTrace": "query:;nid:177266373;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:177266373_BD;price:59;client:desktop;supplier_id:700508265040;asc_category_id:7282;item_id:177266373;sku_id:1117196883;shop_id:137746",
+            "addToCartSkus": [
+                {
+                    "sku": "177266373_BD-1117196883",
+                    "skuId": "1117196883",
+                    "count": 0
+                }
+            ],
+            "itemId": "177266373",
+            "skuId": "1117196883",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mamaearth Oil Free Moisturizer With Apple Cider Vinegar - 80ml",
+            "nid": "218401576",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "218401576",
+                "scene_pre": "search",
+                "current_price": "509",
+                "x_sku_ids": "1166234413",
+                "SN": "c5aaab89ba9621c377a865bfe51e4130",
+                "x_ad": "1",
+                "x_object_id": "218401576"
+            },
+            "productUrl": "//www.daraz.com.bd/products/mamaearth-oil-free-moisturizer-with-apple-cider-vinegar-80ml-i218401576-s1166234413.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/30a77ade17ff36d54e92c896e70a588d.png",
+            "originalPrice": "790.00",
+            "originalPriceShow": "৳ 790",
+            "price": "509",
+            "promotionId": "null",
+            "priceShow": "৳ 509",
+            "discount": "-36%",
+            "ratingScore": "4.9375",
+            "review": "32",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "218401576_BD-1166234413",
+            "sku": "218401576_BD",
+            "skus": [],
+            "description": [
+                "Mamaearth ",
+                "Oil-Free Moisturizer With Apple Cider Vinegar",
+                "Prevents acne and pimples",
+                "Non-greasy formula",
+                "Provides effective hydration"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1000539",
+            "mainSellerId": "",
+            "sellerName": "Orpa",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/30a77ade17ff36d54e92c896e70a588d.png",
+                    "productUrl": "/products/mamaearth-oil-free-moisturizer-with-apple-cider-vinegar-80ml-i218401576-s1166234413.html",
+                    "sku": "218401576_BD",
+                    "skuId": "1166234413"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1545,
+                7280
+            ],
+            "clickTrace": "query:;nid:218401576;src:LazadaMainSrp;rn:c5aaab89ba9621c377a865bfe51e4130;region:bd;sku:218401576_BD;price:509;client:desktop;supplier_id:1000539;asc_category_id:7280;item_id:218401576;sku_id:1166234413;shop_id:6048",
+            "addToCartSkus": [
+                {
+                    "sku": "218401576_BD-1166234413",
+                    "skuId": "1166234413",
+                    "count": 0
+                }
+            ],
+            "itemId": "218401576",
+            "skuId": "1166234413",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/beauty-health/",
+            "title": "Health & Beauty"
+        },
+        {
+            "url": "/skincare-beauty/",
+            "title": "Skin Care"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/skincare-beauty/?referer_rn=c5aaab89ba9621c377a865bfe51e4130&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Cbr%2F%3E%3Ca%20href%3D%22%2Fskincare%2Fforever%2F%22%20%3EForever%20Skincare%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fskincare%2Fthai-shop-bd50-156913%2F%22%20%3EThai%20Shop%20Bd50%20156913%20Skincare%3C%2Fa%3E"
+    },
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/facial-masks-peels/?item_id=199477583&from=onesearch_category_1545",
+                "name": "Face Mask & Packs",
+                "image": "//static-01.daraz.com.bd/p/7236440f5a753458861ebfedeed75f3d.jpg",
+                "id": "7278"
+            },
+            {
+                "url": "/face-wash/?item_id=216728937&from=onesearch_category_1545",
+                "name": "Facial Cleansers",
+                "image": "//static-01.daraz.com.bd/p/f7c331fb3dc26774d82aea2082ac4e92.jpg",
+                "id": "7280"
+            },
+            {
+                "url": "/serums-creams/?item_id=117266684&from=onesearch_category_1545",
+                "name": "Serum & Essence",
+                "image": "//static-01.daraz.com.bd/p/mdc/af91ba5bdc335e7a53384cf66629f66f.jpg",
+                "id": "7286"
+            },
+            {
+                "url": "//?item_id=190661405&from=onesearch_category_1545",
+                "name": "Moisturizers and Cream",
+                "image": "//static-01.daraz.com.bd/p/fad55513aecbb42a5e646b805f3118f9.jpg",
+                "id": "7282"
+            },
+            {
+                "url": "/lip-balms-treatments/?item_id=204581417&from=onesearch_category_1545",
+                "name": "Lip Balm and Treatment",
+                "image": "//static-01.daraz.com.bd/p/570efff0ac3b5e40af4dcbceb8b70211.jpg",
+                "id": "10002062"
+            },
+            {
+                "url": "/body-moisturizer/?item_id=185916003&from=onesearch_category_1545",
+                "name": "Moisturizers",
+                "image": "//static-01.daraz.com.bd/p/e033898799de276217974d2fef04577b.jpg",
+                "id": "10002199"
+            },
+            {
+                "url": "/sun-care/?item_id=138376617&from=onesearch_category_1545",
+                "name": "Sunscreen and Aftersun",
+                "image": "//static-01.daraz.com.bd/p/c10c8b693b976a663d8fe962e64a922e.jpg",
+                "id": "7284"
+            },
+            {
+                "url": "/mens-face/?item_id=167504490&from=onesearch_category_1545",
+                "name": "Face Scrubs & Exfoliators",
+                "image": "//static-01.daraz.com.bd/p/b7bae0076fc8d4f839e36f04d3951e4a.png",
+                "id": "7279"
+            },
+            {
+                "url": "/toners/?item_id=153758363&from=onesearch_category_1545",
+                "name": "Toner & Mists",
+                "image": "//static-01.daraz.com.bd/p/16abd40cfd891ce30c48575f7debec9e.jpg",
+                "id": "7285"
+            },
+            {
+                "url": "/eye-creams/?item_id=127084854&from=onesearch_category_1545",
+                "name": "Eye Care",
+                "image": "//static-01.daraz.com.bd/p/abec62fcd452c9ba29cea3daaf55060a.jpg",
+                "id": "7296"
+            },
+            {
+                "url": "//?item_id=225537236&from=onesearch_category_1545",
+                "name": "Scar Cream",
+                "image": "//static-01.daraz.com.bd/p/d3e1e80cf1a2788cde7f08614852c4e1.jpg",
+                "id": "7283"
+            },
+            {
+                "url": "/night-creams/?item_id=185823717&from=onesearch_category_1545",
+                "name": "Night Cream",
+                "image": "//static-01.daraz.com.bd/p/16acd5feadc299f21b7630db5047384c.jpg",
+                "id": "10002200"
+            },
+            {
+                "url": "/gifts-value-sets/?item_id=198986917&from=onesearch_category_1545",
+                "name": "Gifts & Value Sets",
+                "image": "//static-01.daraz.com.bd/p/5a89d966a57360f2520fc113048ebf3d.jpg",
+                "id": "7281"
+            },
+            {
+                "url": "/dermacare-face-treatments/?item_id=178774237&from=onesearch_category_1545",
+                "name": "Serum & Essence",
+                "image": "//static-01.daraz.com.bd/p/d926cb49658f4ece320eed1d75440204.jpg",
+                "id": "7293"
+            },
+            {
+                "url": "/dermacare-sunscreen-aftersun/?item_id=200776144&from=onesearch_category_1545",
+                "name": "Sunscreen and Aftersun",
+                "image": "//static-01.daraz.com.bd/p/25ff42bd3d81a77193c0cc9a80f4754f.jpg",
+                "id": "7291"
+            },
+            {
+                "url": "/face-moisturizer/?item_id=2412047&from=onesearch_category_1545",
+                "name": "Facial Oils",
+                "image": "//static-01.daraz.com.bd/p/3b1f4bbe6c8ca8a46383474e5ae85ce4.jpg",
+                "id": "10002201"
+            },
+            {
+                "url": "/day-creams/?item_id=132076957&from=onesearch_category_1545",
+                "name": "Moisturizers",
+                "image": "//static-01.daraz.com.bd/p/0cefa501f5810fea8743d3b7f6524aa2.jpg",
+                "id": "10002666"
+            },
+            {
+                "url": "/acne-cream/?item_id=100920620&from=onesearch_category_1545",
+                "name": "Acne",
+                "image": "//static-01.daraz.com.bd/p/bf21b2f76822d0ba04e398e6a7e4c8d2.jpg",
+                "id": "1551"
+            },
+            {
+                "url": "/dermacare-gifts/?item_id=189312841&from=onesearch_category_1545",
+                "name": "Gifts & Value Sets",
+                "image": "//static-01.daraz.com.bd/p/af9bac52a36405f808a5140b4cc6163d.jpg",
+                "id": "7288"
+            },
+            {
+                "url": "/night-cream-dermacare/?item_id=211133557&from=onesearch_category_1545",
+                "name": "Night Cream",
+                "image": "//static-01.daraz.com.bd/p/94f61af7063b5ede3b5eb90d8ef4b16a.jpg",
+                "id": "10002667"
+            },
+            {
+                "url": "/dermacare-toner-mists/?item_id=133432434&from=onesearch_category_1545",
+                "name": "Toner & Mists",
+                "image": "//static-01.daraz.com.bd/p/28e47a50f7fee3bb78f9d749d26282c5.png",
+                "id": "7292"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_1545"
+        },
+        "title": "",
+        "bizId": "onesearch_category_1545",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "222074 items found in {$0}",
+        "title": "Skin Care",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Skin Care"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Skin Care",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "c5aaab89ba9621c377a865bfe51e4130",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "1545",
+            "category": "1545"
+        },
+        "categoryRegionalKey": "080200000000",
+        "mainCategoryRegionalKey": "080000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Skin Care Products in Bangladesh At Best Price - Daraz.com.bd",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Health & Beauty,Skin Care",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "080200000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=1545&_p_asc_cateid=1545",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "skincare-beauty",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "c5aaab89ba9621c377a865bfe51e4130",
+                "resultNr": 222074,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1101258458",
+                "1048960179",
+                "1127058053"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "1545",
+            "category": "1545"
+        }
+    }
+}

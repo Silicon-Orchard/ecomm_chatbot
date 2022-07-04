@@ -1,0 +1,3776 @@
+{
+    "listItems": [
+        {
+            "name": "HP USB 3.1 Pendrive -64 GB -Silver",
+            "nid": "166162494",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "166162494",
+                "scene_pre": "search",
+                "current_price": "360",
+                "x_sku_ids": "1099728654",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "166162494"
+            },
+            "productUrl": "//www.daraz.com.bd/products/hp-usb-31-64-gb-i166162494-s1099728654.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/5d26a25b04f752ee9dc0bbba2d7872e6.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "360",
+            "promotionId": "null",
+            "priceShow": "৳ 360",
+            "discount": "-28%",
+            "ratingScore": "4.61137",
+            "review": "422",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "166162494_BD-1099728654",
+            "sku": "166162494_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507782045",
+            "mainSellerId": "",
+            "sellerName": "AST",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/5d26a25b04f752ee9dc0bbba2d7872e6.jpg",
+                    "productUrl": "/products/hp-usb-31-64-gb-i166162494-s1099728654.html",
+                    "sku": "166162494_BD",
+                    "skuId": "1099728654"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                10490
+            ],
+            "clickTrace": "query:;nid:166162494;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:166162494_BD;price:360;client:desktop;supplier_id:700507782045;asc_category_id:10490;item_id:166162494;sku_id:1099728654;shop_id:109540",
+            "addToCartSkus": [
+                {
+                    "sku": "166162494_BD-1099728654",
+                    "skuId": "1099728654",
+                    "count": 0
+                }
+            ],
+            "itemId": "166162494",
+            "skuId": "1099728654",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "64 GB USB Pen Drive-Silver",
+            "nid": "205088098",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "205088098",
+                "scene_pre": "search",
+                "current_price": "370",
+                "x_sku_ids": "1153363966",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "205088098"
+            },
+            "productUrl": "//www.daraz.com.bd/products/64-gb-usb-i205088098-s1153363966.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4da001b14e86511efc4e8cc7a257fd36.jpg",
+            "originalPrice": "990.00",
+            "originalPriceShow": "৳ 990",
+            "price": "370",
+            "promotionId": "null",
+            "priceShow": "৳ 370",
+            "discount": "-63%",
+            "ratingScore": "4.58784",
+            "review": "148",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "205088098_BD-1153363966",
+            "sku": "205088098_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508880014",
+            "mainSellerId": "",
+            "sellerName": "SALE SCALE",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4da001b14e86511efc4e8cc7a257fd36.jpg",
+                    "productUrl": "/products/64-gb-usb-i205088098-s1153363966.html",
+                    "sku": "205088098_BD",
+                    "skuId": "1153363966"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                103
+            ],
+            "clickTrace": "query:;nid:205088098;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:205088098_BD;price:370;client:desktop;supplier_id:700508880014;asc_category_id:103;item_id:205088098;sku_id:1153363966;shop_id:197160",
+            "addToCartSkus": [
+                {
+                    "sku": "205088098_BD-1153363966",
+                    "skuId": "1153363966",
+                    "count": 0
+                }
+            ],
+            "itemId": "205088098",
+            "skuId": "1153363966",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Remax Micro USB to OTG 1Piece",
+            "nid": "226992513",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226992513",
+                "scene_pre": "search",
+                "current_price": "18",
+                "x_sku_ids": "1171292264",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "226992513"
+            },
+            "productUrl": "//www.daraz.com.bd/products/remax-usb-otg-1-i226992513-s1171292264.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3d49b500dbc2ae9fdf3a2afcb84780d6.jpg",
+            "originalPrice": "60.00",
+            "originalPriceShow": "৳ 60",
+            "price": "18",
+            "promotionId": "null",
+            "priceShow": "৳ 18",
+            "discount": "-70%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226992513_BD-1171292264",
+            "sku": "226992513_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "28269",
+            "brandName": "Remax",
+            "sellerId": "700508505104",
+            "mainSellerId": "",
+            "sellerName": "Dhaka electronics gadget shop bd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3d49b500dbc2ae9fdf3a2afcb84780d6.jpg",
+                    "productUrl": "/products/remax-usb-otg-1-i226992513-s1171292264.html",
+                    "sku": "226992513_BD",
+                    "skuId": "1171292264"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                10486
+            ],
+            "clickTrace": "query:;nid:226992513;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:226992513_BD;price:18;client:desktop;supplier_id:700508505104;asc_category_id:10486;item_id:226992513;sku_id:1171292264;shop_id:163036",
+            "addToCartSkus": [
+                {
+                    "sku": "226992513_BD-1171292264",
+                    "skuId": "1171292264",
+                    "count": 0
+                }
+            ],
+            "itemId": "226992513",
+            "skuId": "1171292264",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "32 GB 3.0 USB Flash Pen Drive-Silver",
+            "nid": "205761545",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "205761545",
+                "scene_pre": "search",
+                "current_price": "293",
+                "x_sku_ids": "1154166820",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "205761545"
+            },
+            "productUrl": "//www.daraz.com.bd/products/32-gb-30-usb-i205761545-s1154166820.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5238ef03671810a16ddebd9b09a9a60e.jpg",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "293",
+            "promotionId": "null",
+            "priceShow": "৳ 293",
+            "discount": "-61%",
+            "ratingScore": "4.79167",
+            "review": "24",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "205761545_BD-1154166820",
+            "sku": "205761545_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508895099",
+            "mainSellerId": "",
+            "sellerName": "BigBest",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5238ef03671810a16ddebd9b09a9a60e.jpg",
+                    "productUrl": "/products/32-gb-30-usb-i205761545-s1154166820.html",
+                    "sku": "205761545_BD",
+                    "skuId": "1154166820"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                103
+            ],
+            "clickTrace": "query:;nid:205761545;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:205761545_BD;price:293;client:desktop;supplier_id:700508895099;asc_category_id:103;item_id:205761545;sku_id:1154166820;shop_id:200866",
+            "addToCartSkus": [
+                {
+                    "sku": "205761545_BD-1154166820",
+                    "skuId": "1154166820",
+                    "count": 0
+                }
+            ],
+            "itemId": "205761545",
+            "skuId": "1154166820",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton 32GB Class 10/U1 Micro SDHC Memory Card with Adapter",
+            "nid": "173396675",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "173396675",
+                "scene_pre": "search",
+                "current_price": "399",
+                "x_sku_ids": "1109918714",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "173396675"
+            },
+            "productUrl": "//www.daraz.com.bd/products/walton-32gb-10u1-sdhc-i173396675-s1109918714.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/bae9854f05acf703efe84ab534a76ca4.jpg",
+            "originalPrice": "595.00",
+            "originalPriceShow": "৳ 595",
+            "price": "399",
+            "promotionId": "null",
+            "priceShow": "৳ 399",
+            "discount": "-33%",
+            "ratingScore": "4.66154",
+            "review": "195",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "173396675_BD-1109918714",
+            "sku": "173396675_BD",
+            "skus": [],
+            "description": [
+                "Capacity: 32GB",
+                "Speed Class 10/ U1 ensures high-speed data transfer",
+                "Supports full HD video recording",
+                "Data Transfer: Speed Class 10/ U3 Ensures High-Speed Data Transfer",
+                "Supports: Supports Full HD Video Recording",
+                "Slot: Supported by any device with TF Card Slot",
+                "Temperature: Can Work Properly at Temperature from 0&deg;C to 70&deg;C"
+            ],
+            "brandId": "121088282",
+            "brandName": "Walton Computers",
+            "sellerId": "700507935002",
+            "mainSellerId": "",
+            "sellerName": "Walton Accessories",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/bae9854f05acf703efe84ab534a76ca4.jpg",
+                    "productUrl": "/products/walton-32gb-10u1-sdhc-i173396675-s1109918714.html",
+                    "sku": "173396675_BD",
+                    "skuId": "1109918714"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                100
+            ],
+            "clickTrace": "query:;nid:173396675;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:173396675_BD;price:399;client:desktop;supplier_id:700507935002;asc_category_id:100;item_id:173396675;sku_id:1109918714;shop_id:119266",
+            "addToCartSkus": [
+                {
+                    "sku": "173396675_BD-1109918714",
+                    "skuId": "1109918714",
+                    "count": 0
+                }
+            ],
+            "itemId": "173396675",
+            "skuId": "1109918714",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "HP V250W Waterproof Metal USB Flash Drives pen drive 64GB Flash Drive",
+            "nid": "213792100",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "213792100",
+                "scene_pre": "search",
+                "current_price": "362",
+                "x_sku_ids": "1162978234",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "213792100"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-31-64gb-i213792100-s1162978234.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e49c0dc16b39a815a294b334e04bd0cc.jpg",
+            "originalPrice": "900.00",
+            "originalPriceShow": "৳ 900",
+            "price": "362",
+            "promotionId": "null",
+            "priceShow": "৳ 362",
+            "discount": "-60%",
+            "ratingScore": "4.40426",
+            "review": "94",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "213792100_BD-1162978234",
+            "sku": "213792100_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1012483",
+            "mainSellerId": "",
+            "sellerName": "GADGET corner",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e49c0dc16b39a815a294b334e04bd0cc.jpg",
+                    "productUrl": "/products/usb-31-64gb-i213792100-s1162978234.html",
+                    "sku": "213792100_BD",
+                    "skuId": "1162978234"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                10490
+            ],
+            "clickTrace": "query:;nid:213792100;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:213792100_BD;price:362;client:desktop;supplier_id:1012483;asc_category_id:10490;item_id:213792100;sku_id:1162978234;shop_id:18879",
+            "addToCartSkus": [
+                {
+                    "sku": "213792100_BD-1162978234",
+                    "skuId": "1162978234",
+                    "count": 0
+                }
+            ],
+            "itemId": "213792100",
+            "skuId": "1162978234",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Toshiba 500gb Internal Desktop Hard Disk With 1Years Warrenty",
+            "nid": "168442636",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168442636",
+                "scene_pre": "search",
+                "current_price": "1145",
+                "x_sku_ids": "1102566835",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "168442636"
+            },
+            "productUrl": "//www.daraz.com.bd/products/toshiba-500gb-1-i168442636-s1102566835.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8ccb5ecae564ccea88661a2f8f12abba.jpg",
+            "originalPrice": "1500.00",
+            "originalPriceShow": "৳ 1,500",
+            "price": "1145",
+            "promotionId": "null",
+            "priceShow": "৳ 1,145",
+            "discount": "-24%",
+            "ratingScore": "4.3913",
+            "review": "46",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168442636_BD-1102566835",
+            "sku": "168442636_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507998134",
+            "mainSellerId": "",
+            "sellerName": "BEST COMPUTER BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8ccb5ecae564ccea88661a2f8f12abba.jpg",
+                    "productUrl": "/products/toshiba-500gb-1-i168442636-s1102566835.html",
+                    "sku": "168442636_BD",
+                    "skuId": "1102566835"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                114
+            ],
+            "clickTrace": "query:;nid:168442636;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:168442636_BD;price:1145;client:desktop;supplier_id:700507998134;asc_category_id:114;item_id:168442636;sku_id:1102566835;shop_id:122347",
+            "addToCartSkus": [
+                {
+                    "sku": "168442636_BD-1102566835",
+                    "skuId": "1102566835",
+                    "count": 0
+                }
+            ],
+            "itemId": "168442636",
+            "skuId": "1102566835",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "pendrive 64gb usb flash drive",
+            "nid": "223791574",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223791574",
+                "scene_pre": "search",
+                "current_price": "363",
+                "x_sku_ids": "1169685910",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "223791574"
+            },
+            "productUrl": "//www.daraz.com.bd/products/64gb-usb-i223791574-s1169685910.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/766fbbda102ee9e07db7da0625483bf5.jpg",
+            "originalPrice": "1050.00",
+            "originalPriceShow": "৳ 1,050",
+            "price": "363",
+            "promotionId": "null",
+            "priceShow": "৳ 363",
+            "discount": "-65%",
+            "ratingScore": "4.53061",
+            "review": "98",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223791574_BD-1169685910",
+            "sku": "223791574_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508277113",
+            "mainSellerId": "",
+            "sellerName": "Click & Get",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/766fbbda102ee9e07db7da0625483bf5.jpg",
+                    "productUrl": "/products/64gb-usb-i223791574-s1169685910.html",
+                    "sku": "223791574_BD",
+                    "skuId": "1169685910"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                10490
+            ],
+            "clickTrace": "query:;nid:223791574;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:223791574_BD;price:363;client:desktop;supplier_id:700508277113;asc_category_id:10490;item_id:223791574;sku_id:1169685910;shop_id:141287",
+            "addToCartSkus": [
+                {
+                    "sku": "223791574_BD-1169685910",
+                    "skuId": "1169685910",
+                    "count": 0
+                }
+            ],
+            "itemId": "223791574",
+            "skuId": "1169685910",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "240GB SSD / 120GB SSD SATA3 / SATA III 2.5 Inch Internal SSD Drive - Support all Brand Laptop and PC With 3 Years Warranty",
+            "nid": "208120666",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "208120666",
+                "scene_pre": "search",
+                "current_price": "1399.00",
+                "x_sku_ids": "1158168773",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "208120666"
+            },
+            "productUrl": "//www.daraz.com.bd/products/240gb-ssd-120gb-ssd-sata3-sata-iii-25-inch-internal-ssd-drive-support-all-brand-laptop-and-pc-with-3-years-warranty-i208120666-s1158168773.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/df2f2d845fdf211792760775be4f0529.jpg",
+            "originalPrice": "2000.00",
+            "originalPriceShow": "৳ 2,000",
+            "price": "1399.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,399",
+            "discount": "-30%",
+            "ratingScore": "4.60976",
+            "review": "41",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "208120666_BD-1158168773",
+            "sku": "208120666_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508400011",
+            "mainSellerId": "",
+            "sellerName": "Maxpro Computer",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/df2f2d845fdf211792760775be4f0529.jpg",
+                    "productUrl": "/products/240gb-ssd-120gb-ssd-sata3-sata-iii-25-inch-internal-ssd-drive-support-all-brand-laptop-and-pc-with-3-years-warranty-i208120666-s1158168773.html",
+                    "sku": "208120666_BD",
+                    "skuId": "1158168773"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8a0297dd4618b9ce4481c63d31afa366.jpg",
+                    "productUrl": "/products/240gb-ssd-120gb-ssd-sata3-sata-iii-25-inch-internal-ssd-drive-support-all-brand-laptop-and-pc-with-3-years-warranty-i208120666-s1164341503.html",
+                    "sku": "208120666_BD",
+                    "skuId": "1164341503"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                114
+            ],
+            "clickTrace": "query:;nid:208120666;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:208120666_BD;price:1399.00;client:desktop;supplier_id:700508400011;asc_category_id:114;item_id:208120666;sku_id:1158168773;shop_id:157804",
+            "addToCartSkus": [
+                {
+                    "sku": "208120666_BD-1158168773",
+                    "skuId": "1158168773",
+                    "count": 0
+                }
+            ],
+            "itemId": "208120666",
+            "skuId": "1158168773",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Windows Bootable Pendrive With Multi Windows 7 8 10 Auto Active Key And Free 32GB/16GB USB Flash Drive",
+            "nid": "174176313",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "174176313",
+                "scene_pre": "search",
+                "current_price": "332",
+                "x_sku_ids": "1110974161",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "174176313"
+            },
+            "productUrl": "//www.daraz.com.bd/products/7-8-10-32gb16gb-usb-i174176313-s1110974161.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ad8bd83f1ebe633350f2603358daf6fa.png",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "332",
+            "promotionId": "null",
+            "priceShow": "৳ 332",
+            "discount": "-56%",
+            "ratingScore": "4.12953",
+            "review": "193",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "174176313_BD-1110974161",
+            "sku": "174176313_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508259570",
+            "mainSellerId": "",
+            "sellerName": "Online Computer Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ad8bd83f1ebe633350f2603358daf6fa.png",
+                    "productUrl": "/products/7-8-10-32gb16gb-usb-i174176313-s1110974161.html",
+                    "sku": "174176313_BD",
+                    "skuId": "1110974161"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/913b8dbc9a1327c9af628cd1ff15636a.png",
+                    "productUrl": "/products/7-8-10-32gb16gb-usb-i174176313-s1117452413.html",
+                    "sku": "174176313_BD",
+                    "skuId": "1117452413"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                10490
+            ],
+            "clickTrace": "query:;nid:174176313;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:174176313_BD;price:332;client:desktop;supplier_id:700508259570;asc_category_id:10490;item_id:174176313;sku_id:1110974161;shop_id:139863",
+            "addToCartSkus": [
+                {
+                    "sku": "174176313_BD-1110974161",
+                    "skuId": "1110974161",
+                    "count": 0
+                }
+            ],
+            "itemId": "174176313",
+            "skuId": "1110974161",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "64 GB USB Pen Drive-Silver",
+            "nid": "205918085",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "205918085",
+                "scene_pre": "search",
+                "current_price": "381",
+                "x_sku_ids": "1154490712",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "205918085"
+            },
+            "productUrl": "//www.daraz.com.bd/products/64-gb-usb-i205918085-s1154490712.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f6e90342ea548f04101c237a437b5eee.png",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "381",
+            "promotionId": "null",
+            "priceShow": "৳ 381",
+            "discount": "-49%",
+            "ratingScore": "4.83333",
+            "review": "24",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "205918085_BD-1154490712",
+            "sku": "205918085_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508964026",
+            "mainSellerId": "",
+            "sellerName": "eDreamers",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f6e90342ea548f04101c237a437b5eee.png",
+                    "productUrl": "/products/64-gb-usb-i205918085-s1154490712.html",
+                    "sku": "205918085_BD",
+                    "skuId": "1154490712"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                103
+            ],
+            "clickTrace": "query:;nid:205918085;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:205918085_BD;price:381;client:desktop;supplier_id:700508964026;asc_category_id:103;item_id:205918085;sku_id:1154490712;shop_id:202692",
+            "addToCartSkus": [
+                {
+                    "sku": "205918085_BD-1154490712",
+                    "skuId": "1154490712",
+                    "count": 0
+                }
+            ],
+            "itemId": "205918085",
+            "skuId": "1154490712",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "64 GB USB Pen Drive-Silver",
+            "nid": "205757750",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "205757750",
+                "scene_pre": "search",
+                "current_price": "382",
+                "x_sku_ids": "1154169838",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "205757750"
+            },
+            "productUrl": "//www.daraz.com.bd/products/64-gb-usb-i205757750-s1154169838.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/98b4d6638efd09f95f44fb2f247fbfba.jpg",
+            "originalPrice": "980.00",
+            "originalPriceShow": "৳ 980",
+            "price": "382",
+            "promotionId": "null",
+            "priceShow": "৳ 382",
+            "discount": "-61%",
+            "ratingScore": "4.83333",
+            "review": "18",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "205757750_BD-1154169838",
+            "sku": "205757750_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508895099",
+            "mainSellerId": "",
+            "sellerName": "BigBest",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/98b4d6638efd09f95f44fb2f247fbfba.jpg",
+                    "productUrl": "/products/64-gb-usb-i205757750-s1154169838.html",
+                    "sku": "205757750_BD",
+                    "skuId": "1154169838"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                103
+            ],
+            "clickTrace": "query:;nid:205757750;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:205757750_BD;price:382;client:desktop;supplier_id:700508895099;asc_category_id:103;item_id:205757750;sku_id:1154169838;shop_id:200866",
+            "addToCartSkus": [
+                {
+                    "sku": "205757750_BD-1154169838",
+                    "skuId": "1154169838",
+                    "count": 0
+                }
+            ],
+            "itemId": "205757750",
+            "skuId": "1154169838",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "METAL PANDRIVE 64 GB USB 3.1 COLOR SILVER",
+            "nid": "184638602",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184638602",
+                "scene_pre": "search",
+                "current_price": "379",
+                "x_sku_ids": "1129792438",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "184638602"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pandrive-64-gb-usb-31-i184638602-s1129792438.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/aecc2dd908185d29728104956744d783.jpg",
+            "originalPrice": "950.00",
+            "originalPriceShow": "৳ 950",
+            "price": "379",
+            "promotionId": "null",
+            "priceShow": "৳ 379",
+            "discount": "-60%",
+            "ratingScore": "4.22222",
+            "review": "36",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184638602_BD-1129792438",
+            "sku": "184638602_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1022596",
+            "mainSellerId": "",
+            "sellerName": "BD Dhaka",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/aecc2dd908185d29728104956744d783.jpg",
+                    "productUrl": "/products/pandrive-64-gb-usb-31-i184638602-s1129792438.html",
+                    "sku": "184638602_BD",
+                    "skuId": "1129792438"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                10490
+            ],
+            "clickTrace": "query:;nid:184638602;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:184638602_BD;price:379;client:desktop;supplier_id:1022596;asc_category_id:10490;item_id:184638602;sku_id:1129792438;shop_id:28810",
+            "addToCartSkus": [
+                {
+                    "sku": "184638602_BD-1129792438",
+                    "skuId": "1129792438",
+                    "count": 0
+                }
+            ],
+            "itemId": "184638602",
+            "skuId": "1129792438",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton 64GB Class 10/U3 Micro SDHC/SDXC Memory Card with Adapter",
+            "nid": "173622489",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "173622489",
+                "scene_pre": "search",
+                "current_price": "685",
+                "x_sku_ids": "1110236397",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "173622489"
+            },
+            "productUrl": "//www.daraz.com.bd/products/walton-64gb-10u3-sdhcsdxc-i173622489-s1110236397.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/db6505a38187ee0937d788085b712dcf.jpg",
+            "originalPrice": "995.00",
+            "originalPriceShow": "৳ 995",
+            "price": "685",
+            "promotionId": "null",
+            "priceShow": "৳ 685",
+            "discount": "-31%",
+            "ratingScore": "4.59568",
+            "review": "324",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "173622489_BD-1110236397",
+            "sku": "173622489_BD",
+            "skus": [],
+            "description": [
+                "Capacity: 64 GB",
+                "Speed Class 10/ U3 ensures high speed data transfer",
+                "Supports Full HD Vdeo Recording",
+                "Supported by any device with TF card slot",
+                "Can work properly at temperature from 0&deg;C to 70&deg;C",
+                "Shockproof, Waterproof and Magnetically Shielded",
+                "Dimension: 15mm* 11mm* 1mm"
+            ],
+            "brandId": "121088282",
+            "brandName": "Walton Computers",
+            "sellerId": "700507935002",
+            "mainSellerId": "",
+            "sellerName": "Walton Accessories",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/db6505a38187ee0937d788085b712dcf.jpg",
+                    "productUrl": "/products/walton-64gb-10u3-sdhcsdxc-i173622489-s1110236397.html",
+                    "sku": "173622489_BD",
+                    "skuId": "1110236397"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                100
+            ],
+            "clickTrace": "query:;nid:173622489;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:173622489_BD;price:685;client:desktop;supplier_id:700507935002;asc_category_id:100;item_id:173622489;sku_id:1110236397;shop_id:119266",
+            "addToCartSkus": [
+                {
+                    "sku": "173622489_BD-1110236397",
+                    "skuId": "1110236397",
+                    "count": 0
+                }
+            ],
+            "itemId": "173622489",
+            "skuId": "1110236397",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SEAGATE HARD DISK DRIVE ST2000DM008 BARRACUDA 2TB 7200RPM 64 MB CACHE SATA HDD",
+            "nid": "220582492",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "220582492",
+                "scene_pre": "search",
+                "current_price": "5626",
+                "x_sku_ids": "1167823228",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "220582492"
+            },
+            "productUrl": "//www.daraz.com.bd/products/st2000dm008-barracuda-2tb-7200rpm-64-mb-sata-hdd-i220582492-s1167823228.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7bb8dd27af29520dcd937482ffcdd600.jpg",
+            "originalPrice": "6000.00",
+            "originalPriceShow": "৳ 6,000",
+            "price": "5626",
+            "promotionId": "null",
+            "priceShow": "৳ 5,626",
+            "discount": "-6%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "220582492_BD-1167823228",
+            "sku": "220582492_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123315479",
+            "brandName": "SEAGATE INTERNAL",
+            "sellerId": "700509912019",
+            "mainSellerId": "",
+            "sellerName": "Al Hasub Trading",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7bb8dd27af29520dcd937482ffcdd600.jpg",
+                    "productUrl": "/products/st2000dm008-barracuda-2tb-7200rpm-64-mb-sata-hdd-i220582492-s1167823228.html",
+                    "sku": "220582492_BD",
+                    "skuId": "1167823228"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                114
+            ],
+            "clickTrace": "query:;nid:220582492;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:220582492_BD;price:5626;client:desktop;supplier_id:700509912019;asc_category_id:114;item_id:220582492;sku_id:1167823228;shop_id:220493",
+            "addToCartSkus": [
+                {
+                    "sku": "220582492_BD-1167823228",
+                    "skuId": "1167823228",
+                    "count": 0
+                }
+            ],
+            "itemId": "220582492",
+            "skuId": "1167823228",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "32 GB USB 3.1 Pen Drive - Silver",
+            "nid": "205247243",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "205247243",
+                "scene_pre": "search",
+                "current_price": "306",
+                "x_sku_ids": "1153557394",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "205247243"
+            },
+            "productUrl": "//www.daraz.com.bd/products/32-gb-usb-31-i205247243-s1153557394.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a463480522410960553e6ea2e2a63507.jpg",
+            "originalPrice": "780.00",
+            "originalPriceShow": "৳ 780",
+            "price": "306",
+            "promotionId": "null",
+            "priceShow": "৳ 306",
+            "discount": "-61%",
+            "ratingScore": "4.94737",
+            "review": "19",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "205247243_BD-1153557394",
+            "sku": "205247243_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505103030",
+            "mainSellerId": "",
+            "sellerName": "BD Gadget And Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a463480522410960553e6ea2e2a63507.jpg",
+                    "productUrl": "/products/32-gb-usb-31-i205247243-s1153557394.html",
+                    "sku": "205247243_BD",
+                    "skuId": "1153557394"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                10490
+            ],
+            "clickTrace": "query:;nid:205247243;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:205247243_BD;price:306;client:desktop;supplier_id:700505103030;asc_category_id:10490;item_id:205247243;sku_id:1153557394;shop_id:56532",
+            "addToCartSkus": [
+                {
+                    "sku": "205247243_BD-1153557394",
+                    "skuId": "1153557394",
+                    "count": 0
+                }
+            ],
+            "itemId": "205247243",
+            "skuId": "1153557394",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "32 GB USB Flash Drive",
+            "nid": "205081605",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "205081605",
+                "scene_pre": "search",
+                "current_price": "287",
+                "x_sku_ids": "1153379127",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "205081605"
+            },
+            "productUrl": "//www.daraz.com.bd/products/32-gb-usb-i205081605-s1153379127.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5238ef03671810a16ddebd9b09a9a60e.jpg",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "287",
+            "promotionId": "null",
+            "priceShow": "৳ 287",
+            "discount": "-62%",
+            "ratingScore": "4.5625",
+            "review": "64",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "205081605_BD-1153379127",
+            "sku": "205081605_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508880014",
+            "mainSellerId": "",
+            "sellerName": "SALE SCALE",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5238ef03671810a16ddebd9b09a9a60e.jpg",
+                    "productUrl": "/products/32-gb-usb-i205081605-s1153379127.html",
+                    "sku": "205081605_BD",
+                    "skuId": "1153379127"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                10490
+            ],
+            "clickTrace": "query:;nid:205081605;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:205081605_BD;price:287;client:desktop;supplier_id:700508880014;asc_category_id:10490;item_id:205081605;sku_id:1153379127;shop_id:197160",
+            "addToCartSkus": [
+                {
+                    "sku": "205081605_BD-1153379127",
+                    "skuId": "1153379127",
+                    "count": 0
+                }
+            ],
+            "itemId": "205081605",
+            "skuId": "1153379127",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "64 GB PENDRIVE WITH 1 YEAR REPLACEMENT WARANTEE",
+            "nid": "226584538",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226584538",
+                "scene_pre": "search",
+                "current_price": "405",
+                "x_sku_ids": "1171035610",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "226584538"
+            },
+            "productUrl": "//www.daraz.com.bd/products/64-gb-1-i226584538-s1171035610.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/865d5b11d2080922f8d5c0f59d5d9c14.png",
+            "originalPrice": "1150.00",
+            "originalPriceShow": "৳ 1,150",
+            "price": "405",
+            "promotionId": "null",
+            "priceShow": "৳ 405",
+            "discount": "-65%",
+            "ratingScore": "4.875",
+            "review": "16",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226584538_BD-1171035610",
+            "sku": "226584538_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508277113",
+            "mainSellerId": "",
+            "sellerName": "Click & Get",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/865d5b11d2080922f8d5c0f59d5d9c14.png",
+                    "productUrl": "/products/64-gb-1-i226584538-s1171035610.html",
+                    "sku": "226584538_BD",
+                    "skuId": "1171035610"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                10490
+            ],
+            "clickTrace": "query:;nid:226584538;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:226584538_BD;price:405;client:desktop;supplier_id:700508277113;asc_category_id:10490;item_id:226584538;sku_id:1171035610;shop_id:141287",
+            "addToCartSkus": [
+                {
+                    "sku": "226584538_BD-1171035610",
+                    "skuId": "1171035610",
+                    "count": 0
+                }
+            ],
+            "itemId": "226584538",
+            "skuId": "1171035610",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pendrive 32gb high speed flash drives",
+            "nid": "223801110",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223801110",
+                "scene_pre": "search",
+                "current_price": "302",
+                "x_sku_ids": "1169696022",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "223801110"
+            },
+            "productUrl": "//www.daraz.com.bd/products/32gb-i223801110-s1169696022.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d2fe7f6bc581ba06845544d34b3361dd.jpg",
+            "originalPrice": "850.00",
+            "originalPriceShow": "৳ 850",
+            "price": "302",
+            "promotionId": "null",
+            "priceShow": "৳ 302",
+            "discount": "-64%",
+            "ratingScore": "4.65",
+            "review": "20",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223801110_BD-1169696022",
+            "sku": "223801110_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508277113",
+            "mainSellerId": "",
+            "sellerName": "Click & Get",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d2fe7f6bc581ba06845544d34b3361dd.jpg",
+                    "productUrl": "/products/32gb-i223801110-s1169696022.html",
+                    "sku": "223801110_BD",
+                    "skuId": "1169696022"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                10490
+            ],
+            "clickTrace": "query:;nid:223801110;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:223801110_BD;price:302;client:desktop;supplier_id:700508277113;asc_category_id:10490;item_id:223801110;sku_id:1169696022;shop_id:141287",
+            "addToCartSkus": [
+                {
+                    "sku": "223801110_BD-1169696022",
+                    "skuId": "1169696022",
+                    "count": 0
+                }
+            ],
+            "itemId": "223801110",
+            "skuId": "1169696022",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Laptop DVD to 2nd SSD/HDD Caddy Hard Drive Enclosures Size 9.5mm -Black",
+            "nid": "209232526",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209232526",
+                "scene_pre": "search",
+                "current_price": "147.00",
+                "x_sku_ids": "1159480770",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "209232526"
+            },
+            "productUrl": "//www.daraz.com.bd/products/laptop-dvd-to-2nd-ssdhdd-caddy-hard-drive-enclosures-size-95mm-black-i209232526-s1159480770.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/132a9a089bc417e5acc0b5050fb074d0.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "147.00",
+            "promotionId": "null",
+            "priceShow": "৳ 147",
+            "discount": "-27%",
+            "ratingScore": "4.51351",
+            "review": "37",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209232526_BD-1159480770",
+            "sku": "209232526_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1020415",
+            "mainSellerId": "",
+            "sellerName": "Planetx",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/132a9a089bc417e5acc0b5050fb074d0.jpg",
+                    "productUrl": "/products/laptop-dvd-to-2nd-ssdhdd-caddy-hard-drive-enclosures-size-95mm-black-i209232526-s1159480770.html",
+                    "sku": "209232526_BD",
+                    "skuId": "1159480770"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                114
+            ],
+            "clickTrace": "query:;nid:209232526;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:209232526_BD;price:147.00;client:desktop;supplier_id:1020415;asc_category_id:114;item_id:209232526;sku_id:1159480770;shop_id:26646",
+            "addToCartSkus": [
+                {
+                    "sku": "209232526_BD-1159480770",
+                    "skuId": "1159480770",
+                    "count": 0
+                }
+            ],
+            "itemId": "209232526",
+            "skuId": "1159480770",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Transcend 64GB JetFlash 790 USB 3.1 Gen1 Flash Drive",
+            "nid": "101768956",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101768956",
+                "scene_pre": "search",
+                "current_price": "775",
+                "x_sku_ids": "1015844227",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "101768956"
+            },
+            "productUrl": "//www.daraz.com.bd/products/transcend-64gb-jetflash-790-usb-31-gen1-flash-drive-i101768956-s1015844227.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/fd38438d4b860d662d929df04b1e1910.jpg",
+            "originalPrice": "950.00",
+            "originalPriceShow": "৳ 950",
+            "price": "775",
+            "promotionId": "null",
+            "priceShow": "৳ 775",
+            "discount": "-18%",
+            "ratingScore": "4.59358",
+            "review": "187",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101768956_BD-1015844227",
+            "sku": "101768956_BD",
+            "skus": [],
+            "description": [
+                "Equipped with the USB 3.1 Gen 1 interface, Transcend's JetFlash 790 offers ultra-fast transfer speeds and superioe reliability during data transfer.",
+                "Lanyard / keyring loop",
+                "Capless design with slide-out USB connector",
+                "Lightweight and compact",
+                "ExclusiveTranscend Elitedata management software",
+                "Transcend Elite is advanced data management software that keeps important files organized, protected and up- to-date",
+                "The JetFlash 790 is compatible with multiple devices such as PCs, notebook and tablets"
+            ],
+            "brandId": "25293",
+            "brandName": "Transcend",
+            "sellerId": "1008264",
+            "mainSellerId": "",
+            "sellerName": "TRANSCEND Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/fd38438d4b860d662d929df04b1e1910.jpg",
+                    "productUrl": "/products/transcend-64gb-jetflash-790-usb-31-gen1-flash-drive-i101768956-s1015844227.html",
+                    "sku": "101768956_BD",
+                    "skuId": "1015844227"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                10490
+            ],
+            "clickTrace": "query:;nid:101768956;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:101768956_BD;price:775;client:desktop;supplier_id:1008264;asc_category_id:10490;item_id:101768956;sku_id:1015844227;shop_id:14496",
+            "addToCartSkus": [
+                {
+                    "sku": "101768956_BD-1015844227",
+                    "skuId": "1015844227",
+                    "count": 0
+                }
+            ],
+            "itemId": "101768956",
+            "skuId": "1015844227",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Transcend 64GB UHS-I microSD 300S Memory Card",
+            "nid": "102794149",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "102794149",
+                "scene_pre": "search",
+                "current_price": "831",
+                "x_sku_ids": "1017142955",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "102794149"
+            },
+            "productUrl": "//www.daraz.com.bd/products/transcend-64gb-uhs-i-microsd-300s-memory-card-i102794149-s1017142955.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/1779dfbcda7a4b628a190a6d5443e5ed.jpg",
+            "originalPrice": "950.00",
+            "originalPriceShow": "৳ 950",
+            "price": "831",
+            "promotionId": "null",
+            "priceShow": "৳ 831",
+            "discount": "-13%",
+            "ratingScore": "4.8223",
+            "review": "287",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "102794149_BD-1017142955",
+            "sku": "102794149_BD",
+            "skus": [],
+            "description": [
+                "Transcend's microSDXC/SDHC 300S memory cards meet the new A1 standards, delivering minimum random read of 1,500 IOPS and random write of 500 IOPS, and sustained sequential speeds of at least 10MB/s.",
+                "Transcend's microSDXC/SDHC 300S memory cards meet both the UHS Speed Class 3 (U3) and the UHS Video Speed Class 30 (V30) standards for 4K Ultra HD video recordings, with read/write speeds of up to 95MB/s and 45MB/s respectively.",
+                "Transcend offers exclusive RecoveRx software, a free data recovery utility that allows you to search deep within a storage device for traces of erased files including digital photos, documents, music and videos.",
+                "Speed may vary due to host hardware, software, usage, and storage capacity."
+            ],
+            "brandId": "25293",
+            "brandName": "Transcend",
+            "sellerId": "1008264",
+            "mainSellerId": "",
+            "sellerName": "TRANSCEND Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/1779dfbcda7a4b628a190a6d5443e5ed.jpg",
+                    "productUrl": "/products/transcend-64gb-uhs-i-microsd-300s-memory-card-i102794149-s1017142955.html",
+                    "sku": "102794149_BD",
+                    "skuId": "1017142955"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                100
+            ],
+            "clickTrace": "query:;nid:102794149;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:102794149_BD;price:831;client:desktop;supplier_id:1008264;asc_category_id:100;item_id:102794149;sku_id:1017142955;shop_id:14496",
+            "addToCartSkus": [
+                {
+                    "sku": "102794149_BD-1017142955",
+                    "skuId": "1017142955",
+                    "count": 0
+                }
+            ],
+            "itemId": "102794149",
+            "skuId": "1017142955",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Type C OTG Cable",
+            "nid": "121810708",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "121810708",
+                "scene_pre": "search",
+                "current_price": "17",
+                "x_sku_ids": "1041653910",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "121810708"
+            },
+            "productUrl": "//www.daraz.com.bd/products/c-otg-i121810708-s1041653910.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/81bf79394159e3f8ceca73050c062edb.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "17",
+            "promotionId": "null",
+            "priceShow": "৳ 17",
+            "discount": "-86%",
+            "ratingScore": "4.17143",
+            "review": "35",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "121810708_BD-1041653910",
+            "sku": "121810708_BD",
+            "skus": [],
+            "description": [
+                "Compatibility: HTC, Samsung, Motorola, Nokia, Sony",
+                "Interface: USB 2.0/ 3.0/ 3.1",
+                "Style: Type-C OTG",
+                "PlugConnector: Micro USB",
+                "Data transmission",
+                "Fast charging for your phone"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1031366",
+            "mainSellerId": "",
+            "sellerName": "Digital Accessories",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/81bf79394159e3f8ceca73050c062edb.jpg",
+                    "productUrl": "/products/c-otg-i121810708-s1041653910.html",
+                    "sku": "121810708_BD",
+                    "skuId": "1041653910"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                10486
+            ],
+            "clickTrace": "query:;nid:121810708;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:121810708_BD;price:17;client:desktop;supplier_id:1031366;asc_category_id:10486;item_id:121810708;sku_id:1041653910;shop_id:37387",
+            "addToCartSkus": [
+                {
+                    "sku": "121810708_BD-1041653910",
+                    "skuId": "1041653910",
+                    "count": 0
+                }
+            ],
+            "itemId": "121810708",
+            "skuId": "1041653910",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Transcend 128GB SSD 230S 3D TLC SATA III 2.5 Inch SSD",
+            "nid": "103722471",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "103722471",
+                "scene_pre": "search",
+                "current_price": "2799",
+                "x_sku_ids": "1018382964",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "103722471"
+            },
+            "productUrl": "//www.daraz.com.bd/products/transcend-128gb-ssd-230s-3d-tlc-sata-iii-25inch-solid-state-drive-i103722471-s1018382964.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f4176d83ca8dae3bf271a442a9a64a45.jpg",
+            "originalPrice": "3200.00",
+            "originalPriceShow": "৳ 3,200",
+            "price": "2799",
+            "promotionId": "null",
+            "priceShow": "৳ 2,799",
+            "discount": "-13%",
+            "ratingScore": "4.89865",
+            "review": "148",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "103722471_BD-1018382964",
+            "sku": "103722471_BD",
+            "skus": [],
+            "description": [
+                "Transcend's SATA III 6Gb/s SSD230S uses the latest 3D NAND technology that features vertical, stacked expansion of storage cells.",
+                "Taking full advantage of the SATA III 6Gb/s interface and built-in SLC caching technology, Transcend's SSD230S achieves exceptional transfer speeds of up to 560MB/s read and 520MB/s write.."
+            ],
+            "brandId": "25293",
+            "brandName": "Transcend",
+            "sellerId": "1008264",
+            "mainSellerId": "",
+            "sellerName": "TRANSCEND Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f4176d83ca8dae3bf271a442a9a64a45.jpg",
+                    "productUrl": "/products/transcend-128gb-ssd-230s-3d-tlc-sata-iii-25inch-solid-state-drive-i103722471-s1018382964.html",
+                    "sku": "103722471_BD",
+                    "skuId": "1018382964"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                114
+            ],
+            "clickTrace": "query:;nid:103722471;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:103722471_BD;price:2799;client:desktop;supplier_id:1008264;asc_category_id:114;item_id:103722471;sku_id:1018382964;shop_id:14496",
+            "addToCartSkus": [
+                {
+                    "sku": "103722471_BD-1018382964",
+                    "skuId": "1018382964",
+                    "count": 0
+                }
+            ],
+            "itemId": "103722471",
+            "skuId": "1018382964",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "16 GB USB Flash Pen Drive-Silver",
+            "nid": "205915797",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "205915797",
+                "scene_pre": "search",
+                "current_price": "255.00",
+                "x_sku_ids": "1154506174",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "205915797"
+            },
+            "productUrl": "//www.daraz.com.bd/products/16-gb-usb-i205915797-s1154506174.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/03069d4c1aed54ea7c39d783967a261f.jpg",
+            "originalPrice": "490.00",
+            "originalPriceShow": "৳ 490",
+            "price": "255.00",
+            "promotionId": "null",
+            "priceShow": "৳ 255",
+            "discount": "-48%",
+            "ratingScore": "5",
+            "review": "14",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "205915797_BD-1154506174",
+            "sku": "205915797_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508964026",
+            "mainSellerId": "",
+            "sellerName": "eDreamers",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/03069d4c1aed54ea7c39d783967a261f.jpg",
+                    "productUrl": "/products/16-gb-usb-i205915797-s1154506174.html",
+                    "sku": "205915797_BD",
+                    "skuId": "1154506174"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                103
+            ],
+            "clickTrace": "query:;nid:205915797;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:205915797_BD;price:255.00;client:desktop;supplier_id:700508964026;asc_category_id:103;item_id:205915797;sku_id:1154506174;shop_id:202692",
+            "addToCartSkus": [
+                {
+                    "sku": "205915797_BD-1154506174",
+                    "skuId": "1154506174",
+                    "count": 0
+                }
+            ],
+            "itemId": "205915797",
+            "skuId": "1154506174",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "16 GB USB Flash Pen Drive-Silver",
+            "nid": "199295830",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "199295830",
+                "scene_pre": "search",
+                "current_price": "259",
+                "x_sku_ids": "1146647624",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "199295830"
+            },
+            "productUrl": "//www.daraz.com.bd/products/16-gb-usb-i199295830-s1146647624.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6890640fb1982cc160788d9204af726d.jpg",
+            "originalPrice": "490.00",
+            "originalPriceShow": "৳ 490",
+            "price": "259",
+            "promotionId": "null",
+            "priceShow": "৳ 259",
+            "discount": "-47%",
+            "ratingScore": "4.75",
+            "review": "24",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "199295830_BD-1146647624",
+            "sku": "199295830_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508826716",
+            "mainSellerId": "",
+            "sellerName": "GH Tech",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6890640fb1982cc160788d9204af726d.jpg",
+                    "productUrl": "/products/16-gb-usb-i199295830-s1146647624.html",
+                    "sku": "199295830_BD",
+                    "skuId": "1146647624"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                10490
+            ],
+            "clickTrace": "query:;nid:199295830;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:199295830_BD;price:259;client:desktop;supplier_id:700508826716;asc_category_id:10490;item_id:199295830;sku_id:1146647624;shop_id:192995",
+            "addToCartSkus": [
+                {
+                    "sku": "199295830_BD-1146647624",
+                    "skuId": "1146647624",
+                    "count": 0
+                }
+            ],
+            "itemId": "199295830",
+            "skuId": "1146647624",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Transcend 256GB UHS-I microSD 300S Memory Card",
+            "nid": "102794201",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "102794201",
+                "scene_pre": "search",
+                "current_price": "3350",
+                "x_sku_ids": "1017148219",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "102794201"
+            },
+            "productUrl": "//www.daraz.com.bd/products/transcend-256gb-uhs-i-microsd-300s-memory-card-i102794201-s1017148219.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fee8d27c286c10a240f28482244844dd.jpg",
+            "originalPrice": "3700.00",
+            "originalPriceShow": "৳ 3,700",
+            "price": "3350",
+            "promotionId": "null",
+            "priceShow": "৳ 3,350",
+            "discount": "-9%",
+            "ratingScore": "4.80645",
+            "review": "124",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "102794201_BD-1017148219",
+            "sku": "102794201_BD",
+            "skus": [],
+            "description": [
+                "Transcend's microSDXC/SDHC 300S memory cards meet the new A1 standards, delivering minimum random read of 1,500 IOPS and random write of 500 IOPS, and sustained sequential speeds of at least 10MB/s.",
+                "Transcend's microSDXC/SDHC 300S memory cards meet both the UHS Speed Class 3 (U3) and the UHS Video Speed Class 30 (V30) standards for 4K Ultra HD video recordings, with read/write speeds of up to 95MB/s and 45MB/s respectively.",
+                "Transcend offers exclusive RecoveRx software, a free data recovery utility that allows you to search deep within a storage device for traces of erased files including digital photos, documents, music and videos.",
+                "Speed may vary due to host hardware, software, usage, and storage capacity."
+            ],
+            "brandId": "25293",
+            "brandName": "Transcend",
+            "sellerId": "1008264",
+            "mainSellerId": "",
+            "sellerName": "TRANSCEND Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fee8d27c286c10a240f28482244844dd.jpg",
+                    "productUrl": "/products/transcend-256gb-uhs-i-microsd-300s-memory-card-i102794201-s1017148219.html",
+                    "sku": "102794201_BD",
+                    "skuId": "1017148219"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                100
+            ],
+            "clickTrace": "query:;nid:102794201;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:102794201_BD;price:3350;client:desktop;supplier_id:1008264;asc_category_id:100;item_id:102794201;sku_id:1017148219;shop_id:14496",
+            "addToCartSkus": [
+                {
+                    "sku": "102794201_BD-1017148219",
+                    "skuId": "1017148219",
+                    "count": 0
+                }
+            ],
+            "itemId": "102794201",
+            "skuId": "1017148219",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Type C OTG for Smartphone,Laptop,Computer",
+            "nid": "119912093",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "119912093",
+                "scene_pre": "search",
+                "current_price": "48.00",
+                "x_sku_ids": "1039282247",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "119912093"
+            },
+            "productUrl": "//www.daraz.com.bd/products/c-otg-i119912093-s1039282247.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6082d0f3c26945c46ce4cf17955b89a5.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "48.00",
+            "promotionId": "null",
+            "priceShow": "৳ 48",
+            "discount": "-60%",
+            "ratingScore": "4.66667",
+            "review": "12",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "119912093_BD-1039282247",
+            "sku": "119912093_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1011177",
+            "mainSellerId": "",
+            "sellerName": "Helmet King",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6082d0f3c26945c46ce4cf17955b89a5.jpg",
+                    "productUrl": "/products/c-otg-i119912093-s1039282247.html",
+                    "sku": "119912093_BD",
+                    "skuId": "1039282247"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                10486
+            ],
+            "clickTrace": "query:;nid:119912093;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:119912093_BD;price:48.00;client:desktop;supplier_id:1011177;asc_category_id:10486;item_id:119912093;sku_id:1039282247;shop_id:17580",
+            "addToCartSkus": [
+                {
+                    "sku": "119912093_BD-1039282247",
+                    "skuId": "1039282247",
+                    "count": 0
+                }
+            ],
+            "itemId": "119912093",
+            "skuId": "1039282247",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton Stylish Metal Finishing Pendrive WU3032P050 (32GB) USB 3.0",
+            "nid": "173658993",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "173658993",
+                "scene_pre": "search",
+                "current_price": "399",
+                "x_sku_ids": "1110280951",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "173658993"
+            },
+            "productUrl": "//www.daraz.com.bd/products/walton-wu3032p050-32gb-usb-30-i173658993-s1110280951.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/e96c0955527035e09095283bbcc1c9a7.jpg",
+            "originalPrice": "465.00",
+            "originalPriceShow": "৳ 465",
+            "price": "399",
+            "promotionId": "null",
+            "priceShow": "৳ 399",
+            "discount": "-14%",
+            "ratingScore": "4.62562",
+            "review": "203",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "173658993_BD-1110280951",
+            "sku": "173658993_BD",
+            "skus": [],
+            "description": [
+                "Product Type: USB Specification Version 3.0",
+                "Backward Compatible with Hi-Speed USB 2.0 Specification",
+                "Supported OS: Windows / MAC OS / Linux",
+                "Product Size: L55mm *W17.7mm *H9.8mm",
+                "Metal Feeling with Fashionable Design",
+                "Lightweight and Compact",
+                "Hot Plug and Play"
+            ],
+            "brandId": "121088282",
+            "brandName": "Walton Computers",
+            "sellerId": "700507935002",
+            "mainSellerId": "",
+            "sellerName": "Walton Accessories",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/e96c0955527035e09095283bbcc1c9a7.jpg",
+                    "productUrl": "/products/walton-wu3032p050-32gb-usb-30-i173658993-s1110280951.html",
+                    "sku": "173658993_BD",
+                    "skuId": "1110280951"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                103
+            ],
+            "clickTrace": "query:;nid:173658993;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:173658993_BD;price:399;client:desktop;supplier_id:700507935002;asc_category_id:103;item_id:173658993;sku_id:1110280951;shop_id:119266",
+            "addToCartSkus": [
+                {
+                    "sku": "173658993_BD-1110280951",
+                    "skuId": "1110280951",
+                    "count": 0
+                }
+            ],
+            "itemId": "173658993",
+            "skuId": "1110280951",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Storite Optical Bay 2nd Hard Drive Caddy 9.5 mm, Universal for 9.5mm CD/DVD Drive Slot (for SSD and HDD)",
+            "nid": "101556383",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101556383",
+                "scene_pre": "search",
+                "current_price": "176",
+                "x_sku_ids": "1015544667",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "101556383"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2nd-95mm-95mm-ssd-hdd-i101556383-s1015544667.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/b0f955e8d384930de8196e7a5ff118e8.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "176",
+            "promotionId": "null",
+            "priceShow": "৳ 176",
+            "discount": "-41%",
+            "ratingScore": "4.60305",
+            "review": "131",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101556383_BD-1015544667",
+            "sku": "101556383_BD",
+            "skus": [],
+            "description": [
+                "Fully integrated into laptop,",
+                "No cables/PSU/software needed.",
+                "Uses 2.5\" SATA hard drives"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1009425",
+            "mainSellerId": "",
+            "sellerName": "Hanif Computer And Technology",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/b0f955e8d384930de8196e7a5ff118e8.jpg",
+                    "productUrl": "/products/2nd-95mm-95mm-ssd-hdd-i101556383-s1015544667.html",
+                    "sku": "101556383_BD",
+                    "skuId": "1015544667"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                114
+            ],
+            "clickTrace": "query:;nid:101556383;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:101556383_BD;price:176;client:desktop;supplier_id:1009425;asc_category_id:114;item_id:101556383;sku_id:1015544667;shop_id:15594",
+            "addToCartSkus": [
+                {
+                    "sku": "101556383_BD-1015544667",
+                    "skuId": "1015544667",
+                    "count": 0
+                }
+            ],
+            "itemId": "101556383",
+            "skuId": "1015544667",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Transcend 128GB UHS-I microSD 300S Memory Card",
+            "nid": "102804089",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "102804089",
+                "scene_pre": "search",
+                "current_price": "1690",
+                "x_sku_ids": "1017160058",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "102804089"
+            },
+            "productUrl": "//www.daraz.com.bd/products/transcend-128gb-uhs-i-microsd-300s-memory-card-i102804089-s1017160058.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/51678409357b771a56e86e283e190c02.jpg",
+            "originalPrice": "1800.00",
+            "originalPriceShow": "৳ 1,800",
+            "price": "1690",
+            "promotionId": "null",
+            "priceShow": "৳ 1,690",
+            "discount": "-6%",
+            "ratingScore": "4.78006",
+            "review": "632",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "102804089_BD-1017160058",
+            "sku": "102804089_BD",
+            "skus": [],
+            "description": [
+                "Transcend's microSDXC/SDHC 300S memory cards meet the new A1 standards, delivering minimum random read of 1,500 IOPS and random write of 500 IOPS, and sustained sequential speeds of at least 10MB/s.",
+                "Transcend's microSDXC/SDHC 300S memory cards meet both the UHS Speed Class 3 (U3) and the UHS Video Speed Class 30 (V30) standards for 4K Ultra HD video recordings, with read/write speeds of up to 95MB/s and 45MB/s respectively.",
+                "Transcend offers exclusive RecoveRx software, a free data recovery utility that allows you to search deep within a storage device for traces of erased files including digital photos, documents, music and videos.",
+                "Speed may vary due to host hardware, software, usage, and storage capacity."
+            ],
+            "brandId": "25293",
+            "brandName": "Transcend",
+            "sellerId": "1008264",
+            "mainSellerId": "",
+            "sellerName": "TRANSCEND Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/51678409357b771a56e86e283e190c02.jpg",
+                    "productUrl": "/products/transcend-128gb-uhs-i-microsd-300s-memory-card-i102804089-s1017160058.html",
+                    "sku": "102804089_BD",
+                    "skuId": "1017160058"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                100
+            ],
+            "clickTrace": "query:;nid:102804089;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:102804089_BD;price:1690;client:desktop;supplier_id:1008264;asc_category_id:100;item_id:102804089;sku_id:1017160058;shop_id:14496",
+            "addToCartSkus": [
+                {
+                    "sku": "102804089_BD-1017160058",
+                    "skuId": "1017160058",
+                    "count": 0
+                }
+            ],
+            "itemId": "102804089",
+            "skuId": "1017160058",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "64 GB USB Pen Drive-Silver",
+            "nid": "205912712",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "205912712",
+                "scene_pre": "search",
+                "current_price": "389.00",
+                "x_sku_ids": "1154495289",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "205912712"
+            },
+            "productUrl": "//www.daraz.com.bd/products/64-gb-usb-i205912712-s1154495289.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3da5bd8f125a075bb3da19e4956c4291.jpg",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "389.00",
+            "promotionId": "null",
+            "priceShow": "৳ 389",
+            "discount": "-48%",
+            "ratingScore": "5",
+            "review": "8",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "205912712_BD-1154495289",
+            "sku": "205912712_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508964026",
+            "mainSellerId": "",
+            "sellerName": "eDreamers",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3da5bd8f125a075bb3da19e4956c4291.jpg",
+                    "productUrl": "/products/64-gb-usb-i205912712-s1154495289.html",
+                    "sku": "205912712_BD",
+                    "skuId": "1154495289"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                103
+            ],
+            "clickTrace": "query:;nid:205912712;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:205912712_BD;price:389.00;client:desktop;supplier_id:700508964026;asc_category_id:103;item_id:205912712;sku_id:1154495289;shop_id:202692",
+            "addToCartSkus": [
+                {
+                    "sku": "205912712_BD-1154495289",
+                    "skuId": "1154495289",
+                    "count": 0
+                }
+            ],
+            "itemId": "205912712",
+            "skuId": "1154495289",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Transcend 1TB StoreJet 25H3 Portable Hard Drives",
+            "nid": "102958685",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "102958685",
+                "scene_pre": "search",
+                "current_price": "5100",
+                "x_sku_ids": "1017328492",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "102958685"
+            },
+            "productUrl": "//www.daraz.com.bd/products/transcend-1tb-storejet-25h3-portable-hard-drives-i102958685-s1017328492.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/30bed8204b6667e34a657516152e3787.jpg",
+            "originalPrice": "5500.00",
+            "originalPriceShow": "৳ 5,500",
+            "price": "5100",
+            "promotionId": "null",
+            "priceShow": "৳ 5,100",
+            "discount": "-7%",
+            "ratingScore": "4.84146",
+            "review": "82",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "102958685_BD-1017328492",
+            "sku": "102958685_BD",
+            "skus": [],
+            "description": [
+                "The StoreJet 25H3 external hard drive is equipped with the USB 3.1 Gen 1 interface with the support of UASP (USB Attached SCSI Protocol), providing lightning-fast transfer rates of up to 5Gbps.",
+                "The StoreJet 25H3 features a three-stage shock protection system that meets US military drop-test standards to fully protect data stored on the drive.",
+                "Transcend Elite is advanced data management software that keeps important files organized, protected, and up-to-date."
+            ],
+            "brandId": "25293",
+            "brandName": "Transcend",
+            "sellerId": "1008264",
+            "mainSellerId": "",
+            "sellerName": "TRANSCEND Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/30bed8204b6667e34a657516152e3787.jpg",
+                    "productUrl": "/products/transcend-1tb-storejet-25h3-portable-hard-drives-i102958685-s1017328492.html",
+                    "sku": "102958685_BD",
+                    "skuId": "1017328492"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                91
+            ],
+            "clickTrace": "query:;nid:102958685;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:102958685_BD;price:5100;client:desktop;supplier_id:1008264;asc_category_id:91;item_id:102958685;sku_id:1017328492;shop_id:14496",
+            "addToCartSkus": [
+                {
+                    "sku": "102958685_BD-1017328492",
+                    "skuId": "1017328492",
+                    "count": 0
+                }
+            ],
+            "itemId": "102958685",
+            "skuId": "1017328492",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "32 GB USB Flash Drive",
+            "nid": "204019743",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "204019743",
+                "scene_pre": "search",
+                "current_price": "294",
+                "x_sku_ids": "1152105044",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "204019743"
+            },
+            "productUrl": "//www.daraz.com.bd/products/32-gb-usb-i204019743-s1152105044.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bb31b11d8419fdfe28e240e6be14cc37.jpg",
+            "originalPrice": "780.00",
+            "originalPriceShow": "৳ 780",
+            "price": "294",
+            "promotionId": "null",
+            "priceShow": "৳ 294",
+            "discount": "-62%",
+            "ratingScore": "4.6875",
+            "review": "16",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "204019743_BD-1152105044",
+            "sku": "204019743_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508880014",
+            "mainSellerId": "",
+            "sellerName": "SALE SCALE",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bb31b11d8419fdfe28e240e6be14cc37.jpg",
+                    "productUrl": "/products/32-gb-usb-i204019743-s1152105044.html",
+                    "sku": "204019743_BD",
+                    "skuId": "1152105044"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                10490
+            ],
+            "clickTrace": "query:;nid:204019743;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:204019743_BD;price:294;client:desktop;supplier_id:700508880014;asc_category_id:10490;item_id:204019743;sku_id:1152105044;shop_id:197160",
+            "addToCartSkus": [
+                {
+                    "sku": "204019743_BD-1152105044",
+                    "skuId": "1152105044",
+                    "count": 0
+                }
+            ],
+            "itemId": "204019743",
+            "skuId": "1152105044",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Laptop DVD to 2nd SSD/HDD Caddy Hard Drive Enclosures 12.7mm-Black",
+            "nid": "209229883",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209229883",
+                "scene_pre": "search",
+                "current_price": "155.00",
+                "x_sku_ids": "1159488349",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "209229883"
+            },
+            "productUrl": "//www.daraz.com.bd/products/laptop-dvd-to-2nd-ssdhdd-caddy-hard-drive-enclosures-127mm-black-i209229883-s1159488349.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/132a9a089bc417e5acc0b5050fb074d0.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "155.00",
+            "promotionId": "null",
+            "priceShow": "৳ 155",
+            "discount": "-23%",
+            "ratingScore": "4.68421",
+            "review": "19",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209229883_BD-1159488349",
+            "sku": "209229883_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1020415",
+            "mainSellerId": "",
+            "sellerName": "Planetx",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/132a9a089bc417e5acc0b5050fb074d0.jpg",
+                    "productUrl": "/products/laptop-dvd-to-2nd-ssdhdd-caddy-hard-drive-enclosures-127mm-black-i209229883-s1159488349.html",
+                    "sku": "209229883_BD",
+                    "skuId": "1159488349"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                114
+            ],
+            "clickTrace": "query:;nid:209229883;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:209229883_BD;price:155.00;client:desktop;supplier_id:1020415;asc_category_id:114;item_id:209229883;sku_id:1159488349;shop_id:26646",
+            "addToCartSkus": [
+                {
+                    "sku": "209229883_BD-1159488349",
+                    "skuId": "1159488349",
+                    "count": 0
+                }
+            ],
+            "itemId": "209229883",
+            "skuId": "1159488349",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "32 GB USB Flash Drive",
+            "nid": "221611432",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "221611432",
+                "scene_pre": "search",
+                "current_price": "288",
+                "x_sku_ids": "1168321293",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "221611432"
+            },
+            "productUrl": "//www.daraz.com.bd/products/32-gb-usb-flash-drive-i221611432-s1168321293.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bb31b11d8419fdfe28e240e6be14cc37.jpg",
+            "originalPrice": "780.00",
+            "originalPriceShow": "৳ 780",
+            "price": "288",
+            "promotionId": "null",
+            "priceShow": "৳ 288",
+            "discount": "-63%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "221611432_BD-1168321293",
+            "sku": "221611432_BD",
+            "skus": [],
+            "description": [
+                "Full Metal Body",
+                "Silver Colour",
+                "Capacity 32GB",
+                "USB 3.1",
+                "Suitable for Smart Devices",
+                "Easy Plug and Play",
+                "Extremely Slim and Portable."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507950120",
+            "mainSellerId": "",
+            "sellerName": "One Ninety Nine Bazar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bb31b11d8419fdfe28e240e6be14cc37.jpg",
+                    "productUrl": "/products/32-gb-usb-flash-drive-i221611432-s1168321293.html",
+                    "sku": "221611432_BD",
+                    "skuId": "1168321293"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                10490
+            ],
+            "clickTrace": "query:;nid:221611432;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:221611432_BD;price:288;client:desktop;supplier_id:700507950120;asc_category_id:10490;item_id:221611432;sku_id:1168321293;shop_id:120701",
+            "addToCartSkus": [
+                {
+                    "sku": "221611432_BD-1168321293",
+                    "skuId": "1168321293",
+                    "count": 0
+                }
+            ],
+            "itemId": "221611432",
+            "skuId": "1168321293",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Micro OTG Adapter - Golden",
+            "nid": "102622165",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "102622165",
+                "scene_pre": "search",
+                "current_price": "9",
+                "x_sku_ids": "1016880899",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "102622165"
+            },
+            "productUrl": "//www.daraz.com.bd/products/otg-i102622165-s1016880899.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/564efddc4a8e0f6cd61c9d2ffbd50014.jpg",
+            "originalPrice": "50.00",
+            "originalPriceShow": "৳ 50",
+            "price": "9",
+            "promotionId": "null",
+            "priceShow": "৳ 9",
+            "discount": "-82%",
+            "ratingScore": "4.42857",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "102622165_BD-1016880899",
+            "sku": "102622165_BD",
+            "skus": [],
+            "description": [
+                "Excellent Value For Money",
+                "High Quality Product",
+                "Remax Datatraveler Micro USB 2.0",
+                "Can plug in Pendrive, Keyboard, Mouse, USB Light, USB Fan, etc",
+                "High Compatibility Output Current 2.1A",
+                "Working Temperature",
+                "Storage Temperature",
+                "Storage Devices Connect for Data Transfers, Smartphones, Flash Drive and etc.",
+                "High Sustainability of 10000 times Plug in and out",
+                "ANDROID Compatible Only",
+                "Convenient and wuick",
+                "Super Compatible For: Phone, Pad/Tablet, USB, Mouse, Keyboard, Game Handle",
+                "Best Quality Product"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1011248",
+            "mainSellerId": "",
+            "sellerName": "UNIMART",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/564efddc4a8e0f6cd61c9d2ffbd50014.jpg",
+                    "productUrl": "/products/otg-i102622165-s1016880899.html",
+                    "sku": "102622165_BD",
+                    "skuId": "1016880899"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                10486
+            ],
+            "clickTrace": "query:;nid:102622165;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:102622165_BD;price:9;client:desktop;supplier_id:1011248;asc_category_id:10486;item_id:102622165;sku_id:1016880899;shop_id:17509",
+            "addToCartSkus": [
+                {
+                    "sku": "102622165_BD-1016880899",
+                    "skuId": "1016880899",
+                    "count": 0
+                }
+            ],
+            "itemId": "102622165",
+            "skuId": "1016880899",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "OTG Micro USB OTG Adapter USB 2.0 to micro USB - Remax Type-B micro usb OTG cable converter for Android OTG supported device",
+            "nid": "176678957",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "176678957",
+                "scene_pre": "search",
+                "current_price": "17",
+                "x_sku_ids": "1116520829",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "176678957"
+            },
+            "productUrl": "//www.daraz.com.bd/products/otg-otg-usb-otg-usb-20-usb-remax-b-usb-otg-i176678957-s1116520829.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a63cd7d90ed6ef5d3f0fa4e034445efa.jpg",
+            "originalPrice": "50.00",
+            "originalPriceShow": "৳ 50",
+            "price": "17",
+            "promotionId": "null",
+            "priceShow": "৳ 17",
+            "discount": "-66%",
+            "ratingScore": "4.625",
+            "review": "16",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "176678957_BD-1116520829",
+            "sku": "176678957_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508259645",
+            "mainSellerId": "",
+            "sellerName": "PRIME Gadget",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a63cd7d90ed6ef5d3f0fa4e034445efa.jpg",
+                    "productUrl": "/products/otg-otg-usb-otg-usb-20-usb-remax-b-usb-otg-i176678957-s1116520829.html",
+                    "sku": "176678957_BD",
+                    "skuId": "1116520829"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                10486
+            ],
+            "clickTrace": "query:;nid:176678957;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:176678957_BD;price:17;client:desktop;supplier_id:700508259645;asc_category_id:10486;item_id:176678957;sku_id:1116520829;shop_id:140189",
+            "addToCartSkus": [
+                {
+                    "sku": "176678957_BD-1116520829",
+                    "skuId": "1116520829",
+                    "count": 0
+                }
+            ],
+            "itemId": "176678957",
+            "skuId": "1116520829",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Remax OTG USB 3.0 Type C",
+            "nid": "123490415",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "123490415",
+                "scene_pre": "search",
+                "current_price": "27",
+                "x_sku_ids": "1043617188",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "123490415"
+            },
+            "productUrl": "//www.daraz.com.bd/products/remax-otg-usb-30-type-c-i123490415-s1043617188.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0a34b5e6ac0bb718fdc8c02f69e2a71b.jpg",
+            "originalPrice": "100.00",
+            "originalPriceShow": "৳ 100",
+            "price": "27",
+            "promotionId": "null",
+            "priceShow": "৳ 27",
+            "discount": "-73%",
+            "ratingScore": "4.50943",
+            "review": "53",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "123490415_BD-1043617188",
+            "sku": "123490415_BD",
+            "skus": [],
+            "description": [
+                "Remax: OTG USB 3.0 TYPE C",
+                "Data Traveler Leading Innovation",
+                "Compatibility: Android phones, digital devices",
+                "Plug and play, convenient, quick to use"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1037692",
+            "mainSellerId": "",
+            "sellerName": "My First Choice",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0a34b5e6ac0bb718fdc8c02f69e2a71b.jpg",
+                    "productUrl": "/products/remax-otg-usb-30-type-c-i123490415-s1043617188.html",
+                    "sku": "123490415_BD",
+                    "skuId": "1043617188"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/244fc3a43db3fd2baf40b8c351af763e.jpg",
+                    "productUrl": "/products/remax-otg-usb-30-type-c-i123490415-s1043617193.html",
+                    "sku": "123490415_BD",
+                    "skuId": "1043617193"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7b50ca1af4b4cba95abac00962cd81da.jpg",
+                    "productUrl": "/products/remax-otg-usb-30-type-c-i123490415-s1043617190.html",
+                    "sku": "123490415_BD",
+                    "skuId": "1043617190"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ed4bd3f24147ea415d312f22bec0ec2d.jpg",
+                    "productUrl": "/products/remax-otg-usb-30-type-c-i123490415-s1043617189.html",
+                    "sku": "123490415_BD",
+                    "skuId": "1043617189"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f19441e0c7cda1f06b293c918dada2a3.jpg",
+                    "productUrl": "/products/remax-otg-usb-30-type-c-i123490415-s1043617192.html",
+                    "sku": "123490415_BD",
+                    "skuId": "1043617192"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cb5632146d289ecaba296a7eabbe2b66.jpg",
+                    "productUrl": "/products/remax-otg-usb-30-type-c-i123490415-s1043617191.html",
+                    "sku": "123490415_BD",
+                    "skuId": "1043617191"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5e2a2aeeff61211509747687ee275c83.jpg",
+                    "productUrl": "/products/remax-otg-usb-30-type-c-i123490415-s1043617194.html",
+                    "sku": "123490415_BD",
+                    "skuId": "1043617194"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                10486
+            ],
+            "clickTrace": "query:;nid:123490415;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:123490415_BD;price:27;client:desktop;supplier_id:1037692;asc_category_id:10486;item_id:123490415;sku_id:1043617188;shop_id:43537",
+            "addToCartSkus": [
+                {
+                    "sku": "123490415_BD-1043617188",
+                    "skuId": "1043617188",
+                    "count": 0
+                }
+            ],
+            "itemId": "123490415",
+            "skuId": "1043617188",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Universal 2nd Hard Disk Drive Caddy For Laptop 12.7mm SATA to SATA",
+            "nid": "126030335",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "126030335",
+                "scene_pre": "search",
+                "current_price": "135.00",
+                "x_sku_ids": "1046141743",
+                "SN": "385114f1c4eed45435e429c61d2ea7af",
+                "x_ad": "1",
+                "x_object_id": "126030335"
+            },
+            "productUrl": "//www.daraz.com.bd/products/127mm-sata-sata-2nd-i126030335-s1046141743.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6ba4d2ec899d496ccb10bbe006931cd7.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "135.00",
+            "promotionId": "null",
+            "priceShow": "৳ 135",
+            "discount": "-55%",
+            "ratingScore": "4.15789",
+            "review": "19",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "126030335_BD-1046141743",
+            "sku": "126030335_BD",
+            "skus": [],
+            "description": [
+                "1X(100% Brand New 12.7 mm-thick caddy. This 2nd Hard Disk Drive Adapter that gives you maximum storage.",
+                "12.7 mm-thick Combo/Super Drive with SATA interface. It enables you to add a second notebook hard disk drive to any modular bay.",
+                "PLAIN FACE PLATE; HDD Interface: SATA; Laptop/Mother Board Interface: SATA",
+                "SATA 2ND Hard Disk Drive HDD caddy/adapter for any uses 12.7 mm height DVD drive with SATA connector to the motherboard. It work with SATA Hard drive, and SSD (Solid State Drive) as well.",
+                "Fast & Reliable connection, just as the primary HDD. Fully integrated into laptop, no cables/PSU/software driver needed. Dual boot, Support installation of 2nd operating system on the 2nd HDD and boot selection.",
+                "Specification:"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1020415",
+            "mainSellerId": "",
+            "sellerName": "Planetx",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6ba4d2ec899d496ccb10bbe006931cd7.jpg",
+                    "productUrl": "/products/127mm-sata-sata-2nd-i126030335-s1046141743.html",
+                    "sku": "126030335_BD",
+                    "skuId": "1046141743"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                5676,
+                91
+            ],
+            "clickTrace": "query:;nid:126030335;src:LazadaMainSrp;rn:385114f1c4eed45435e429c61d2ea7af;region:bd;sku:126030335_BD;price:135.00;client:desktop;supplier_id:1020415;asc_category_id:91;item_id:126030335;sku_id:1046141743;shop_id:26646",
+            "addToCartSkus": [
+                {
+                    "sku": "126030335_BD-1046141743",
+                    "skuId": "1046141743",
+                    "count": 0
+                }
+            ],
+            "itemId": "126030335",
+            "skuId": "1046141743",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/computing/",
+            "title": "Computers & Laptops"
+        },
+        {
+            "url": "/computing-storage/",
+            "title": "Storage"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/computing-storage/?referer_rn=385114f1c4eed45435e429c61d2ea7af&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Cbr%2F%3E%3Ca%20href%3D%22%2Fcomputing-storage%2Fadata%2F%22%20%3EAdata%20Computing%20Storage%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fcomputing-storage%2Fhp%2F%22%20%3EHp%20Computing%20Storage%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fcomputing-storage%2Fpny%2F%22%20%3EPny%20Computing%20Storage%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fcomputing-storage%2Fremax%2F%22%20%3ERemax%20Computing%20Storage%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fcomputing-storage%2Ftoshiba%2F%22%20%3EToshiba%20Computing%20Storage%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fcomputing-storage%2Ftranscend%2F%22%20%3ETranscend%20Computing%20Storage%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fcomputing-storage%2Ftwinmos%2F%22%20%3ETwinmos%20Computing%20Storage%3C%2Fa%3E"
+    },
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/storage-flash-drives/?item_id=166162494&from=onesearch_category_5676",
+                "name": "Flash Drives",
+                "image": "//static-01.daraz.com.bd/p/mdc/5d26a25b04f752ee9dc0bbba2d7872e6.jpg",
+                "id": "10490"
+            },
+            {
+                "url": "/external-hard-drives/?item_id=177476606&from=onesearch_category_5676",
+                "name": "External Hard Drives",
+                "image": "//static-01.daraz.com.bd/p/f3d4920cd75aeb50351e949747c7846a.jpg",
+                "id": "91"
+            },
+            {
+                "url": "/internal-hard-drives/?item_id=208120666&from=onesearch_category_5676",
+                "name": "Internal Hard Drives",
+                "image": "//static-01.daraz.com.bd/p/df2f2d845fdf211792760775be4f0529.jpg",
+                "id": "114"
+            },
+            {
+                "url": "/solid-state-drives/?item_id=163464264&from=onesearch_category_5676",
+                "name": "Internal Solid State Drives",
+                "image": "//static-01.daraz.com.bd/p/444779031de27ef829a91d1031127ca0.jpg",
+                "id": "10002892"
+            },
+            {
+                "url": "/usb-flash-drives/?item_id=173658993&from=onesearch_category_5676",
+                "name": "USB Flash Drives",
+                "image": "//static-01.daraz.com.bd/p/mdc/e96c0955527035e09095283bbcc1c9a7.jpg",
+                "id": "103"
+            },
+            {
+                "url": "/computer-memory-cards/?item_id=173622489&from=onesearch_category_5676",
+                "name": "Memory Cards",
+                "image": "//static-01.daraz.com.bd/p/mdc/db6505a38187ee0937d788085b712dcf.jpg",
+                "id": "100"
+            },
+            {
+                "url": "/storage-otg-drives/?item_id=102622165&from=onesearch_category_5676",
+                "name": "OTG Drives",
+                "image": "//static-01.daraz.com.bd/p/564efddc4a8e0f6cd61c9d2ffbd50014.jpg",
+                "id": "10486"
+            },
+            {
+                "url": "//?item_id=230629812&from=onesearch_category_5676",
+                "name": "Solid State Drives",
+                "image": "//static-01.daraz.com.bd/p/9b0a63eae9b6eac0511566b4ea3787b5.jpg",
+                "id": "5682"
+            },
+            {
+                "url": "/external-solid-state-drive/?item_id=220701619&from=onesearch_category_5676",
+                "name": "External Solid State Drives",
+                "image": "//static-01.daraz.com.bd/p/4e52a23020f46c95bb11f3c6f0617ac1.jpg",
+                "id": "10002893"
+            },
+            {
+                "url": "/storage-mac/?item_id=139510535&from=onesearch_category_5676",
+                "name": "Storage for Mac",
+                "image": "//static-01.daraz.com.bd/p/dc59681929b46173b182c117f0c7c762.jpg",
+                "id": "10494"
+            },
+            {
+                "url": "/nas-storage/?item_id=139030180&from=onesearch_category_5676",
+                "name": "NAS",
+                "image": "//static-01.daraz.com.bd/p/f53770da354f41ab25a99fc5f581fe5a.jpg",
+                "id": "7889"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_5676"
+        },
+        "title": "",
+        "bizId": "onesearch_category_5676",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "15255 items found in {$0}",
+        "title": "Storage",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Storage"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Storage",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "385114f1c4eed45435e429c61d2ea7af",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "5676",
+            "category": "5676"
+        },
+        "categoryRegionalKey": "021000000000",
+        "mainCategoryRegionalKey": "020000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Storage Devices Online in Bangladesh",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Computers & Laptops,Storage",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "021000000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=5676&_p_asc_cateid=5676",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "computing-storage",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "385114f1c4eed45435e429c61d2ea7af",
+                "resultNr": 15255,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1099728654",
+                "1153363966",
+                "1171292264"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "5676",
+            "category": "5676"
+        }
+    }
+}

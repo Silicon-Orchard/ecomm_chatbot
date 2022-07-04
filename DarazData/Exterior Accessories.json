@@ -1,0 +1,3678 @@
+{
+    "listItems": [
+        {
+            "name": "Bike Mini Sticker",
+            "nid": "226542043",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226542043",
+                "scene_pre": "search",
+                "current_price": "29",
+                "x_sku_ids": "1171013738",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "226542043"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i226542043-s1171013738.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9775d173aa3387b286e81be77111264f.jpg",
+            "originalPrice": "40.00",
+            "originalPriceShow": "৳ 40",
+            "price": "29",
+            "promotionId": "null",
+            "priceShow": "৳ 29",
+            "discount": "-28%",
+            "ratingScore": "4.91667",
+            "review": "24",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226542043_BD-1171013738",
+            "sku": "226542043_BD",
+            "skus": [],
+            "description": [
+                "Mini Sticker for BikeSize: H-2&rdquo; X W-3.5&rdquo; (approx)Waterproof Washable Long lasting"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508724078",
+            "mainSellerId": "",
+            "sellerName": "Bike  Sticker Gallery",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9775d173aa3387b286e81be77111264f.jpg",
+                    "productUrl": "/products/-i226542043-s1171013738.html",
+                    "sku": "226542043_BD",
+                    "skuId": "1171013738"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001015
+            ],
+            "clickTrace": "query:;nid:226542043;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:226542043_BD;price:29;client:desktop;supplier_id:700508724078;asc_category_id:10001015;item_id:226542043;sku_id:1171013738;shop_id:177435",
+            "addToCartSkus": [
+                {
+                    "sku": "226542043_BD-1171013738",
+                    "skuId": "1171013738",
+                    "count": 0
+                }
+            ],
+            "itemId": "226542043",
+            "skuId": "1171013738",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Anti Fog or Rain motorcycle helmet Sticker",
+            "nid": "211839582",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "211839582",
+                "scene_pre": "search",
+                "current_price": "109",
+                "x_sku_ids": "1161598481",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "211839582"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i211839582-s1161598481.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/41bfd1cc4b99b53b0866f7b64d9de96c.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "109",
+            "promotionId": "null",
+            "priceShow": "৳ 109",
+            "discount": "-56%",
+            "ratingScore": "4.57143",
+            "review": "28",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "211839582_BD-1161598481",
+            "sku": "211839582_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508283091",
+            "mainSellerId": "",
+            "sellerName": "Vivid Gallery Bd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/41bfd1cc4b99b53b0866f7b64d9de96c.jpg",
+                    "productUrl": "/products/-i211839582-s1161598481.html",
+                    "sku": "211839582_BD",
+                    "skuId": "1161598481"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001026
+            ],
+            "clickTrace": "query:;nid:211839582;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:211839582_BD;price:109;client:desktop;supplier_id:700508283091;asc_category_id:10001026;item_id:211839582;sku_id:1161598481;shop_id:141115",
+            "addToCartSkus": [
+                {
+                    "sku": "211839582_BD-1161598481",
+                    "skuId": "1161598481",
+                    "count": 0
+                }
+            ],
+            "itemId": "211839582",
+            "skuId": "1161598481",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Looking Glass",
+            "nid": "217915824",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "217915824",
+                "scene_pre": "search",
+                "current_price": "73",
+                "x_sku_ids": "1165832131",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "217915824"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i217915824-s1165832131.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7be38351038b6cf9120b2739858e85b3.jpg",
+            "originalPrice": "78.00",
+            "originalPriceShow": "৳ 78",
+            "price": "73",
+            "promotionId": "null",
+            "priceShow": "৳ 73",
+            "discount": "-6%",
+            "ratingScore": "4.94872",
+            "review": "39",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "217915824_BD-1165832131",
+            "sku": "217915824_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508754082",
+            "mainSellerId": "",
+            "sellerName": "Megh Roddur",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7be38351038b6cf9120b2739858e85b3.jpg",
+                    "productUrl": "/products/-i217915824-s1165832131.html",
+                    "sku": "217915824_BD",
+                    "skuId": "1165832131"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001026
+            ],
+            "clickTrace": "query:;nid:217915824;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:217915824_BD;price:73;client:desktop;supplier_id:700508754082;asc_category_id:10001026;item_id:217915824;sku_id:1165832131;shop_id:180543",
+            "addToCartSkus": [
+                {
+                    "sku": "217915824_BD-1165832131",
+                    "skuId": "1165832131",
+                    "count": 0
+                }
+            ],
+            "itemId": "217915824",
+            "skuId": "1165832131",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "4Pcs Mud Flaps Guards Mudguard Fits For Universal Car",
+            "nid": "210923411",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "210923411",
+                "scene_pre": "search",
+                "current_price": "154",
+                "x_sku_ids": "1160829809",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "210923411"
+            },
+            "productUrl": "//www.daraz.com.bd/products/4-i210923411-s1160829809.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1e2096c4a696558023de5f75ba2ef4b0.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "154",
+            "promotionId": "null",
+            "priceShow": "৳ 154",
+            "discount": "-62%",
+            "ratingScore": "4.68182",
+            "review": "22",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "210923411_BD-1160829809",
+            "sku": "210923411_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508103296",
+            "mainSellerId": "",
+            "sellerName": "Hasib  Enterprise",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1e2096c4a696558023de5f75ba2ef4b0.jpg",
+                    "productUrl": "/products/4-i210923411-s1160829809.html",
+                    "sku": "210923411_BD",
+                    "skuId": "1160829809"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001014
+            ],
+            "clickTrace": "query:;nid:210923411;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:210923411_BD;price:154;client:desktop;supplier_id:700508103296;asc_category_id:10001014;item_id:210923411;sku_id:1160829809;shop_id:127566",
+            "addToCartSkus": [
+                {
+                    "sku": "210923411_BD-1160829809",
+                    "skuId": "1160829809",
+                    "count": 0
+                }
+            ],
+            "itemId": "210923411",
+            "skuId": "1160829809",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "775 dc motor car wash pump with cooling fan water pump sprayer dc 12v-18v 21000rpm large torque speed low noise rs775 5mm",
+            "nid": "148880286",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "148880286",
+                "scene_pre": "search",
+                "current_price": "356",
+                "x_sku_ids": "1075080954",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "148880286"
+            },
+            "productUrl": "//www.daraz.com.bd/products/775-dc-dc-12v-18v-21000rpm-rs775-5mm-i148880286-s1075080954.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/f594118f48ad4f36a0bff047b0c30fad.jpg",
+            "originalPrice": "407.00",
+            "originalPriceShow": "৳ 407",
+            "price": "356",
+            "promotionId": "null",
+            "priceShow": "৳ 356",
+            "discount": "-13%",
+            "ratingScore": "4.47826",
+            "review": "69",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "148880286_BD-1075080954",
+            "sku": "148880286_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506726012",
+            "mainSellerId": "",
+            "sellerName": "Mishmash Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/f594118f48ad4f36a0bff047b0c30fad.jpg",
+                    "productUrl": "/products/775-dc-dc-12v-18v-21000rpm-rs775-5mm-i148880286-s1075080954.html",
+                    "sku": "148880286_BD",
+                    "skuId": "1075080954"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001028
+            ],
+            "clickTrace": "query:;nid:148880286;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:148880286_BD;price:356;client:desktop;supplier_id:700506726012;asc_category_id:10001028;item_id:148880286;sku_id:1075080954;shop_id:82796",
+            "addToCartSkus": [
+                {
+                    "sku": "148880286_BD-1075080954",
+                    "skuId": "1075080954",
+                    "count": 0
+                }
+            ],
+            "itemId": "148880286",
+            "skuId": "1075080954",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Best Quality Motorcyle VIP Horn - 1pc",
+            "nid": "112176965",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "112176965",
+                "scene_pre": "search",
+                "current_price": "339",
+                "x_sku_ids": "1029090082",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "112176965"
+            },
+            "productUrl": "//www.daraz.com.bd/products/best-quality-motorcyle-vip-horn-1pc-i112176965-s1029090082.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b840ed6864c739a19fde36317670f7b8.jpg",
+            "originalPrice": "950.00",
+            "originalPriceShow": "৳ 950",
+            "price": "339",
+            "promotionId": "null",
+            "priceShow": "৳ 339",
+            "discount": "-64%",
+            "ratingScore": "4.68333",
+            "review": "60",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "112176965_BD-1029090082",
+            "sku": "112176965_BD",
+            "skus": [],
+            "description": [
+                "Type:Cell Phone Underwear",
+                "Sound level:110 (DB)",
+                "colour:black",
+                "model:JC2005",
+                "caliber:100 (mm)",
+                "Processing customization:yes",
+                "power:30 (W)",
+                "Applicable models:Motorcycle automobile electric vehicle",
+                "type:Vehicle mounted",
+                "supply voltage:12 (V)",
+                "Buttons3 (three sounds optional)"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1000651",
+            "mainSellerId": "",
+            "sellerName": "PART AUTO",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b840ed6864c739a19fde36317670f7b8.jpg",
+                    "productUrl": "/products/best-quality-motorcyle-vip-horn-1pc-i112176965-s1029090082.html",
+                    "sku": "112176965_BD",
+                    "skuId": "1029090082"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001024
+            ],
+            "clickTrace": "query:;nid:112176965;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:112176965_BD;price:339;client:desktop;supplier_id:1000651;asc_category_id:10001024;item_id:112176965;sku_id:1029090082;shop_id:6879",
+            "addToCartSkus": [
+                {
+                    "sku": "112176965_BD-1029090082",
+                    "skuId": "1029090082",
+                    "count": 0
+                }
+            ],
+            "itemId": "112176965",
+            "skuId": "1029090082",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "BSEOCH 12V Wind Tone Horn 110dB 510Hz Auto Dual Snail Horn Clear & Natural Loud Sound for Car & Bikes (Set of 2)",
+            "nid": "200037318",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "200037318",
+                "scene_pre": "search",
+                "current_price": "506",
+                "x_sku_ids": "1147254006",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "200037318"
+            },
+            "productUrl": "//www.daraz.com.bd/products/bseoch-12v-110db-510hz-2-i200037318-s1147254006.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bb90c5762e410ad541cf5318b44004f7.jpg",
+            "originalPrice": "1150.00",
+            "originalPriceShow": "৳ 1,150",
+            "price": "506",
+            "promotionId": "null",
+            "priceShow": "৳ 506",
+            "discount": "-56%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "200037318_BD-1147254006",
+            "sku": "200037318_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508322911",
+            "mainSellerId": "",
+            "sellerName": "ShopExpress BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bb90c5762e410ad541cf5318b44004f7.jpg",
+                    "productUrl": "/products/bseoch-12v-110db-510hz-2-i200037318-s1147254006.html",
+                    "sku": "200037318_BD",
+                    "skuId": "1147254006"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001024
+            ],
+            "clickTrace": "query:;nid:200037318;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:200037318_BD;price:506;client:desktop;supplier_id:700508322911;asc_category_id:10001024;item_id:200037318;sku_id:1147254006;shop_id:146914",
+            "addToCartSkus": [
+                {
+                    "sku": "200037318_BD-1147254006",
+                    "skuId": "1147254006",
+                    "count": 0
+                }
+            ],
+            "itemId": "200037318",
+            "skuId": "1147254006",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Car Styling Funny Fuel Tank Cap Sticker Black, Auto Vinyl JDM Gage Empty Big Decal Sticker, Car Decoration Accessories Sticker",
+            "nid": "112796696",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "112796696",
+                "scene_pre": "search",
+                "current_price": "85",
+                "x_sku_ids": "1029856793",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "112796696"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i112796696-s1029856793.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/8f9e3ef4e417e67cd34db8fc225f4610.jpg",
+            "originalPrice": "130.00",
+            "originalPriceShow": "৳ 130",
+            "price": "85",
+            "promotionId": "null",
+            "priceShow": "৳ 85",
+            "discount": "-35%",
+            "ratingScore": "4.69231",
+            "review": "52",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "112796696_BD-1029856793",
+            "sku": "112796696_BD",
+            "skus": [],
+            "description": [
+                "Item Type: Stickers",
+                "Item Length: 11.3cm",
+                "Type: Glue Sticker",
+                "Item Diameter: 10cm",
+                "Customized: Yes",
+                "Sticker Placement: Fuel Tank Cap",
+                "Design: Cartoon",
+                "Type Of Sticker: Creative Stickers",
+                "Category: Stickers",
+                "Color: Black",
+                "Use for: Personalized DIY & Beautify Custom etc.",
+                "Material: High Quality Self-Adhesive Plastic, Easy to Paste & Tear Off, Funny and Leave No Trace "
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1016095",
+            "mainSellerId": "",
+            "sellerName": "Darun Online Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/8f9e3ef4e417e67cd34db8fc225f4610.jpg",
+                    "productUrl": "/products/-i112796696-s1029856793.html",
+                    "sku": "112796696_BD",
+                    "skuId": "1029856793"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001015
+            ],
+            "clickTrace": "query:;nid:112796696;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:112796696_BD;price:85;client:desktop;supplier_id:1016095;asc_category_id:10001015;item_id:112796696;sku_id:1029856793;shop_id:22380",
+            "addToCartSkus": [
+                {
+                    "sku": "112796696_BD-1029856793",
+                    "skuId": "1029856793",
+                    "count": 0
+                }
+            ],
+            "itemId": "112796696",
+            "skuId": "1029856793",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Drive Slow Decorative Stickers",
+            "nid": "182853229",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "182853229",
+                "scene_pre": "search",
+                "current_price": "29",
+                "x_sku_ids": "1126819269",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "182853229"
+            },
+            "productUrl": "//www.daraz.com.bd/products/drive-slow-decorative-stickers-i182853229-s1126819269.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/eff2c083065a078db2dcddceffbb6eef.jpg",
+            "originalPrice": "80.00",
+            "originalPriceShow": "৳ 80",
+            "price": "29",
+            "promotionId": "null",
+            "priceShow": "৳ 29",
+            "discount": "-64%",
+            "ratingScore": "4.48276",
+            "review": "58",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "182853229_BD-1126819269",
+            "sku": "182853229_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508238100",
+            "mainSellerId": "",
+            "sellerName": "Modify Point Faridpur",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/eff2c083065a078db2dcddceffbb6eef.jpg",
+                    "productUrl": "/products/drive-slow-decorative-stickers-i182853229-s1126819269.html",
+                    "sku": "182853229_BD",
+                    "skuId": "1126819269"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001015
+            ],
+            "clickTrace": "query:;nid:182853229;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:182853229_BD;price:29;client:desktop;supplier_id:700508238100;asc_category_id:10001015;item_id:182853229;sku_id:1126819269;shop_id:137202",
+            "addToCartSkus": [
+                {
+                    "sku": "182853229_BD-1126819269",
+                    "skuId": "1126819269",
+                    "count": 0
+                }
+            ],
+            "itemId": "182853229",
+            "skuId": "1126819269",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Car Body Cover for Toyota Allion/Premio/Axio-2010-ON Silver Color Waterproof",
+            "nid": "112398259",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "112398259",
+                "scene_pre": "search",
+                "current_price": "1178",
+                "x_sku_ids": "1029256669",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "112398259"
+            },
+            "productUrl": "//www.daraz.com.bd/products/axio-2010-on-i112398259-s1029256669.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f0d29269d188317c50cd1699dc5e53ca.jpg",
+            "originalPrice": "1500.00",
+            "originalPriceShow": "৳ 1,500",
+            "price": "1178",
+            "promotionId": "null",
+            "priceShow": "৳ 1,178",
+            "discount": "-21%",
+            "ratingScore": "4.32",
+            "review": "25",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "112398259_BD-1029256669",
+            "sku": "112398259_BD",
+            "skus": [],
+            "description": [
+                "ParachuteMaterial",
+                "Light Weight, Machine Washable",
+                "Solid Silver Color..",
+                "Double stitched seams with Customized Fitting and Perfection.",
+                "Features a built-in strap and buckle system to keep car cover secure in windy conditions.",
+                "Elastic is used for front and rear of the cover for custom fitment.",
+                "No Antenna Pocket.",
+                "Two Backet Lock System",
+                "Mirror Refecelted green extra mark",
+                "3XL Size 18' up to !8'7''",
+                "Light Weight Material",
+                "Superior Protection agianst sun and rain",
+                "100% Waterproof",
+                "Fit For Toyota Allion,Premio,Axio,Corolla,(2005-on) Spinter(90-100),LancerEX, Nissan sunny,any any salon car"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1016605",
+            "mainSellerId": "",
+            "sellerName": "All-in-One Trading Corporation",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f0d29269d188317c50cd1699dc5e53ca.jpg",
+                    "productUrl": "/products/axio-2010-on-i112398259-s1029256669.html",
+                    "sku": "112398259_BD",
+                    "skuId": "1029256669"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                3222
+            ],
+            "clickTrace": "query:;nid:112398259;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:112398259_BD;price:1178;client:desktop;supplier_id:1016605;asc_category_id:3222;item_id:112398259;sku_id:1029256669;shop_id:22912",
+            "addToCartSkus": [
+                {
+                    "sku": "112398259_BD-1029256669",
+                    "skuId": "1029256669",
+                    "count": 0
+                }
+            ],
+            "itemId": "112398259",
+            "skuId": "1029256669",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bike Sticker",
+            "nid": "227166843",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227166843",
+                "scene_pre": "search",
+                "current_price": "28",
+                "x_sku_ids": "1171391229",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "227166843"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i227166843-s1171391229.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fac141c1e6de2917b222fbae754628e0.jpg",
+            "originalPrice": "40.00",
+            "originalPriceShow": "৳ 40",
+            "price": "28",
+            "promotionId": "null",
+            "priceShow": "৳ 28",
+            "discount": "-30%",
+            "ratingScore": "5",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227166843_BD-1171391229",
+            "sku": "227166843_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508724078",
+            "mainSellerId": "",
+            "sellerName": "Bike  Sticker Gallery",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fac141c1e6de2917b222fbae754628e0.jpg",
+                    "productUrl": "/products/-i227166843-s1171391229.html",
+                    "sku": "227166843_BD",
+                    "skuId": "1171391229"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001015
+            ],
+            "clickTrace": "query:;nid:227166843;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:227166843_BD;price:28;client:desktop;supplier_id:700508724078;asc_category_id:10001015;item_id:227166843;sku_id:1171391229;shop_id:177435",
+            "addToCartSkus": [
+                {
+                    "sku": "227166843_BD-1171391229",
+                    "skuId": "1171391229",
+                    "count": 0
+                }
+            ],
+            "itemId": "227166843",
+            "skuId": "1171391229",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "775 Motor DC 12v 21000RPM High Power Motor",
+            "nid": "134608286",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "134608286",
+                "scene_pre": "search",
+                "current_price": "357",
+                "x_sku_ids": "1056450065",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "134608286"
+            },
+            "productUrl": "//www.daraz.com.bd/products/775-dc-12v-21000rpm-i134608286-s1056450065.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0926d2ae5d7753a7e39ebe24b09895dd.jpg",
+            "originalPrice": "415.00",
+            "originalPriceShow": "৳ 415",
+            "price": "357",
+            "promotionId": "null",
+            "priceShow": "৳ 357",
+            "discount": "-14%",
+            "ratingScore": "4.5098",
+            "review": "51",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "134608286_BD-1056450065",
+            "sku": "134608286_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506726012",
+            "mainSellerId": "",
+            "sellerName": "Mishmash Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0926d2ae5d7753a7e39ebe24b09895dd.jpg",
+                    "productUrl": "/products/775-dc-12v-21000rpm-i134608286-s1056450065.html",
+                    "sku": "134608286_BD",
+                    "skuId": "1056450065"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001028
+            ],
+            "clickTrace": "query:;nid:134608286;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:134608286_BD;price:357;client:desktop;supplier_id:700506726012;asc_category_id:10001028;item_id:134608286;sku_id:1056450065;shop_id:82796",
+            "addToCartSkus": [
+                {
+                    "sku": "134608286_BD-1056450065",
+                    "skuId": "1056450065",
+                    "count": 0
+                }
+            ],
+            "itemId": "134608286",
+            "skuId": "1056450065",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Waterproof Motorcycle Cover Black",
+            "nid": "116182139",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "116182139",
+                "scene_pre": "search",
+                "current_price": "300.00",
+                "x_sku_ids": "1035018761",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "116182139"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i116182139-s1035018761.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/efcb70cf2e92d865809bcc083d9f85ee.jpg",
+            "price": "300.00",
+            "promotionId": "null",
+            "priceShow": "৳ 300",
+            "ratingScore": "4.77778",
+            "review": "18",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "116182139_BD-1035018761",
+            "sku": "116182139_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1008745",
+            "mainSellerId": "",
+            "sellerName": "Moto Bazar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/efcb70cf2e92d865809bcc083d9f85ee.jpg",
+                    "productUrl": "/products/-i116182139-s1035018761.html",
+                    "sku": "116182139_BD",
+                    "skuId": "1035018761"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/efcb70cf2e92d865809bcc083d9f85ee.jpg",
+                    "productUrl": "/products/-i116182139-s1035018762.html",
+                    "sku": "116182139_BD",
+                    "skuId": "1035018762"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                3222
+            ],
+            "clickTrace": "query:;nid:116182139;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:116182139_BD;price:300.00;client:desktop;supplier_id:1008745;asc_category_id:3222;item_id:116182139;sku_id:1035018761;shop_id:14960",
+            "addToCartSkus": [
+                {
+                    "sku": "116182139_BD-1035018761",
+                    "skuId": "1035018761",
+                    "count": 0
+                }
+            ],
+            "itemId": "116182139",
+            "skuId": "1035018761",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Car Body Cover for Toyota Aqua Silver Color Waterproof",
+            "nid": "112372527",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "112372527",
+                "scene_pre": "search",
+                "current_price": "1299",
+                "x_sku_ids": "1029250411",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "112372527"
+            },
+            "productUrl": "//www.daraz.com.bd/products/toyota-aqua-i112372527-s1029250411.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9da145a26f1b74799248ddd695b6bc90.jpg",
+            "originalPrice": "1800.00",
+            "originalPriceShow": "৳ 1,800",
+            "price": "1299",
+            "promotionId": "null",
+            "priceShow": "৳ 1,299",
+            "discount": "-28%",
+            "ratingScore": "4.63636",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "112372527_BD-1029250411",
+            "sku": "112372527_BD",
+            "skus": [],
+            "description": [
+                "ParachuteMaterial",
+                "Light Weight, Machine Washable",
+                "Solid Silver Color..",
+                "Double stitched seams with Customized Fitting and Perfection.",
+                "Features a built-in strap and buckle system to keep car cover secure in windy conditions.",
+                "Elastic is used for front and rear of the cover for custom fitment.",
+                "No Antenna Pocket.",
+                "Two Backet Lock System",
+                "Mirror Refecelted green extra mark",
+                "2L Size",
+                "Light Weight Material",
+                "Superior Protection agianst sun and rain",
+                "100% Waterproof",
+                "Fit For Toyota AQUA"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4690",
+            "mainSellerId": "",
+            "sellerName": "Aysha Enterprise",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9da145a26f1b74799248ddd695b6bc90.jpg",
+                    "productUrl": "/products/toyota-aqua-i112372527-s1029250411.html",
+                    "sku": "112372527_BD",
+                    "skuId": "1029250411"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                3222
+            ],
+            "clickTrace": "query:;nid:112372527;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:112372527_BD;price:1299;client:desktop;supplier_id:4690;asc_category_id:3222;item_id:112372527;sku_id:1029250411;shop_id:4735",
+            "addToCartSkus": [
+                {
+                    "sku": "112372527_BD-1029250411",
+                    "skuId": "1029250411",
+                    "count": 0
+                }
+            ],
+            "itemId": "112372527",
+            "skuId": "1029250411",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Universal Motorcycle Front Fender Extender Splash Wheel Cover MotoAuto Mudguard Mudflap Extension Anti-splash rear ABS Wheel Cover For Most Motor",
+            "nid": "115142829",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "115142829",
+                "scene_pre": "search",
+                "current_price": "109",
+                "x_sku_ids": "1033162941",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "115142829"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i115142829-s1033162941.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/9e0d044c992420bdf2c49032fea51b75.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "109",
+            "promotionId": "null",
+            "priceShow": "৳ 109",
+            "discount": "-64%",
+            "ratingScore": "4.65079",
+            "review": "189",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "115142829_BD-1033162941",
+            "sku": "115142829_BD",
+            "skus": [],
+            "description": [
+                "Item Height:7cm",
+                "Item Width:17cm",
+                "Item Type:Covers & Ornamental Mouldings",
+                "Item Length:27cm",
+                "Model Name:For And standard motorcycle and scooters",
+                "Material Type:PP plastic",
+                "Item Weight:0.1kg"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1002985",
+            "mainSellerId": "",
+            "sellerName": "MotoAuto",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/9e0d044c992420bdf2c49032fea51b75.jpg",
+                    "productUrl": "/products/-i115142829-s1033162941.html",
+                    "sku": "115142829_BD",
+                    "skuId": "1033162941"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001020
+            ],
+            "clickTrace": "query:;nid:115142829;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:115142829_BD;price:109;client:desktop;supplier_id:1002985;asc_category_id:10001020;item_id:115142829;sku_id:1033162941;shop_id:9203",
+            "addToCartSkus": [
+                {
+                    "sku": "115142829_BD-1033162941",
+                    "skuId": "1033162941",
+                    "count": 0
+                }
+            ],
+            "itemId": "115142829",
+            "skuId": "1033162941",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Car Body Cover for Toyota Vitz Silver Color Waterproof",
+            "nid": "182649512",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "182649512",
+                "scene_pre": "search",
+                "current_price": "1399.00",
+                "x_sku_ids": "1126582712",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "182649512"
+            },
+            "productUrl": "//www.daraz.com.bd/products/toyota-vitz-i182649512-s1126582712.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/19f5396fa63d4bc966ec570c9df1ea52.jpg",
+            "price": "1399.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,399",
+            "ratingScore": "4.5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "182649512_BD-1126582712",
+            "sku": "182649512_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1016605",
+            "mainSellerId": "",
+            "sellerName": "All-in-One Trading Corporation",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/19f5396fa63d4bc966ec570c9df1ea52.jpg",
+                    "productUrl": "/products/toyota-vitz-i182649512-s1126582712.html",
+                    "sku": "182649512_BD",
+                    "skuId": "1126582712"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                3222
+            ],
+            "clickTrace": "query:;nid:182649512;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:182649512_BD;price:1399.00;client:desktop;supplier_id:1016605;asc_category_id:3222;item_id:182649512;sku_id:1126582712;shop_id:22912",
+            "addToCartSkus": [
+                {
+                    "sku": "182649512_BD-1126582712",
+                    "skuId": "1126582712",
+                    "count": 0
+                }
+            ],
+            "itemId": "182649512",
+            "skuId": "1126582712",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bike Mini Sticker",
+            "nid": "226112156",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226112156",
+                "scene_pre": "search",
+                "current_price": "28",
+                "x_sku_ids": "1170832523",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "226112156"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i226112156-s1170832523.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7591c76ee2a4381bbe1210f684ec8130.jpg",
+            "originalPrice": "40.00",
+            "originalPriceShow": "৳ 40",
+            "price": "28",
+            "promotionId": "null",
+            "priceShow": "৳ 28",
+            "discount": "-30%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226112156_BD-1170832523",
+            "sku": "226112156_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508724078",
+            "mainSellerId": "",
+            "sellerName": "Bike  Sticker Gallery",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7591c76ee2a4381bbe1210f684ec8130.jpg",
+                    "productUrl": "/products/-i226112156-s1170832523.html",
+                    "sku": "226112156_BD",
+                    "skuId": "1170832523"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001015
+            ],
+            "clickTrace": "query:;nid:226112156;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:226112156_BD;price:28;client:desktop;supplier_id:700508724078;asc_category_id:10001015;item_id:226112156;sku_id:1170832523;shop_id:177435",
+            "addToCartSkus": [
+                {
+                    "sku": "226112156_BD-1170832523",
+                    "skuId": "1170832523",
+                    "count": 0
+                }
+            ],
+            "itemId": "226112156",
+            "skuId": "1170832523",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bike Mini Sticker",
+            "nid": "226107313",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226107313",
+                "scene_pre": "search",
+                "current_price": "30.00",
+                "x_sku_ids": "1170829742",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "226107313"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i226107313-s1170829742.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b92d207b07e55a45a37fb939433441db.jpg",
+            "originalPrice": "40.00",
+            "originalPriceShow": "৳ 40",
+            "price": "30.00",
+            "promotionId": "null",
+            "priceShow": "৳ 30",
+            "discount": "-25%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226107313_BD-1170829742",
+            "sku": "226107313_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508724078",
+            "mainSellerId": "",
+            "sellerName": "Bike  Sticker Gallery",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b92d207b07e55a45a37fb939433441db.jpg",
+                    "productUrl": "/products/-i226107313-s1170829742.html",
+                    "sku": "226107313_BD",
+                    "skuId": "1170829742"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001015
+            ],
+            "clickTrace": "query:;nid:226107313;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:226107313_BD;price:30.00;client:desktop;supplier_id:700508724078;asc_category_id:10001015;item_id:226107313;sku_id:1170829742;shop_id:177435",
+            "addToCartSkus": [
+                {
+                    "sku": "226107313_BD-1170829742",
+                    "skuId": "1170829742",
+                    "count": 0
+                }
+            ],
+            "itemId": "226107313",
+            "skuId": "1170829742",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "2 pcs Car Sun Shade- Black",
+            "nid": "104160843",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "104160843",
+                "scene_pre": "search",
+                "current_price": "193",
+                "x_sku_ids": "1018918171",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "104160843"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-i104160843-s1018918171.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3074e587718ec39dadf7268789898aad.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "193",
+            "promotionId": "null",
+            "priceShow": "৳ 193",
+            "discount": "-45%",
+            "ratingScore": "4",
+            "review": "31",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "104160843_BD-1018918171",
+            "sku": "104160843_BD",
+            "skus": [],
+            "description": [
+                "Easy to install",
+                "Multi-fit UV protection",
+                "Size: 44x36cm (length x wide)",
+                "Qty: 2 pieces per pack"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5682",
+            "mainSellerId": "",
+            "sellerName": "Easymart BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3074e587718ec39dadf7268789898aad.jpg",
+                    "productUrl": "/products/2-i104160843-s1018918171.html",
+                    "sku": "104160843_BD",
+                    "skuId": "1018918171"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                3222
+            ],
+            "clickTrace": "query:;nid:104160843;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:104160843_BD;price:193;client:desktop;supplier_id:5682;asc_category_id:3222;item_id:104160843;sku_id:1018918171;shop_id:5631",
+            "addToCartSkus": [
+                {
+                    "sku": "104160843_BD-1018918171",
+                    "skuId": "1018918171",
+                    "count": 0
+                }
+            ],
+            "itemId": "104160843",
+            "skuId": "1018918171",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "MAGIC 18 SNAIL HORN TYPE R MOTORCYCLE, CAR, BUS CONTINUOUS 6-18 SOUND EASY INSTALLATION ELECTRONIC SOUND SYSTEM TOGETHER",
+            "nid": "185682205",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "185682205",
+                "scene_pre": "search",
+                "current_price": "499.00",
+                "x_sku_ids": "1131479120",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "185682205"
+            },
+            "productUrl": "//www.daraz.com.bd/products/18-r-6-18-i185682205-s1131479120.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/468262bb6a5a795d2347b469632b91c9.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "499.00",
+            "promotionId": "null",
+            "priceShow": "৳ 499",
+            "discount": "-23%",
+            "ratingScore": "4.5",
+            "review": "8",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "185682205_BD-1131479120",
+            "sku": "185682205_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508295180",
+            "mainSellerId": "",
+            "sellerName": "Motor Parts Center",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/468262bb6a5a795d2347b469632b91c9.jpg",
+                    "productUrl": "/products/18-r-6-18-i185682205-s1131479120.html",
+                    "sku": "185682205_BD",
+                    "skuId": "1131479120"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001024
+            ],
+            "clickTrace": "query:;nid:185682205;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:185682205_BD;price:499.00;client:desktop;supplier_id:700508295180;asc_category_id:10001024;item_id:185682205;sku_id:1131479120;shop_id:142312",
+            "addToCartSkus": [
+                {
+                    "sku": "185682205_BD-1131479120",
+                    "skuId": "1131479120",
+                    "count": 0
+                }
+            ],
+            "itemId": "185682205",
+            "skuId": "1131479120",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "2pis Blind spot Mirror 360 Wide Angle Round HD Convex Mirror Car Vehicle Side Blind Spot Mirror, Wide Rear View Mirror Small Round Mirror",
+            "nid": "111872775",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "111872775",
+                "scene_pre": "search",
+                "current_price": "199.00",
+                "x_sku_ids": "1028802283",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "111872775"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2pis-blind-spot-mirror-360-wide-angle-round-hd-convex-mirror-car-vehicle-side-blind-spot-mirror-wide-rear-view-mirror-small-round-mirror-i111872775-s1028802283.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c6c7d366bee6c3ee73a1ae1afe371c06.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "199.00",
+            "promotionId": "null",
+            "priceShow": "৳ 199",
+            "discount": "-1%",
+            "ratingScore": "4.09091",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "111872775_BD-1028802283",
+            "sku": "111872775_BD",
+            "skus": [],
+            "description": [
+                "Type: Blind Spot Mirror",
+                "Item Length: 5.5cm",
+                "Item Weight: 40g",
+                "Material: ABS, Glass",
+                "Plating Color: Black",
+                "Mirror Diameter: 50mm/1.97&quot; (Approx.)",
+                "Frame Diameter: 58mm/2.28&quot; (Approx.)",
+                "Special Features: Reversing small round mirror"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1016095",
+            "mainSellerId": "",
+            "sellerName": "Darun Online Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c6c7d366bee6c3ee73a1ae1afe371c06.jpg",
+                    "productUrl": "/products/2pis-blind-spot-mirror-360-wide-angle-round-hd-convex-mirror-car-vehicle-side-blind-spot-mirror-wide-rear-view-mirror-small-round-mirror-i111872775-s1028802283.html",
+                    "sku": "111872775_BD",
+                    "skuId": "1028802283"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001026
+            ],
+            "clickTrace": "query:;nid:111872775;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:111872775_BD;price:199.00;client:desktop;supplier_id:1016095;asc_category_id:10001026;item_id:111872775;sku_id:1028802283;shop_id:22380",
+            "addToCartSkus": [
+                {
+                    "sku": "111872775_BD-1028802283",
+                    "skuId": "1028802283",
+                    "count": 0
+                }
+            ],
+            "itemId": "111872775",
+            "skuId": "1028802283",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cloudsale 2PCS Car Rearview Mirror Film, Anti Fog Film Car Rear View Mirror Waterproof Film Protective Film Anti Glare Rain-Proof Anti Water Protector for Car Mirrors in Oval Shape",
+            "nid": "219206379",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "219206379",
+                "scene_pre": "search",
+                "current_price": "230",
+                "x_sku_ids": "1166791804",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "219206379"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cloudsale-2pcs-car-rearview-mirror-film-anti-fog-film-car-rear-view-mirror-waterproof-film-protective-film-anti-glare-rain-proof-anti-water-protector-for-car-mirrors-in-oval-shape-i219206379-s1166791804.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/77abc116a22c5146b6e2d9a821351b3e.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "230",
+            "promotionId": "null",
+            "priceShow": "৳ 230",
+            "discount": "-65%",
+            "ratingScore": "5",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "219206379_BD-1166791804",
+            "sku": "219206379_BD",
+            "skus": [],
+            "description": [
+                "Universal designed Rearview Mirror Protective Film for Car, Bike, Suv, Truck, Trailer, etc., which fits all standard size of side mirrors.",
+                "It can protect your driving sight line in the rainy day",
+                "Shield and protect your Rearview Side Mirrors from unwanted scratches, smears, dust and dirt, so as to keep your rearview mirror clear all the times.High strength and high transmittance",
+                "PET+Nano coating protective film with 99% transmittance, anti-fog, anti-glare, anti-mist, waterproof, rainproof, which effectively clearer your sight and better view in a rainy or foggy day.",
+                "Size：100*100mm",
+                "Heat Resistent: Normal Temperature",
+                "1Pair Car Anti Water Mist Film Anti Fog Rainproof Rearview Mirror Protective Film",
+                "Universal designed Rearview Mirror Protective Film for Car, Bike, Suv, Truck, Trailer, etc., which fits all standard size of side mirrors.",
+                "It can protect your driving sight line in the rainy day",
+                "Shield and protect your Rearview Side Mirrors from unwanted scratches, smears, dust and dirt, so as to keep your rearview mirror clear all the times.High strength and high transmittance",
+                "PET+Nano coating protective film with 99% transmittance, anti-fog, anti-glare, anti-mist, waterproof, rainproof, which effectively clearer your sight and better view in a rainy or foggy day.",
+                "Size：100*100mm",
+                "Heat Resistent: Normal Temperature",
+                "1Pair Car Anti Water Mist Film Anti Fog Rainproof Rearview Mirror Protective Film"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509897086",
+            "mainSellerId": "",
+            "sellerName": "Shopping  Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/77abc116a22c5146b6e2d9a821351b3e.jpg",
+                    "productUrl": "/products/cloudsale-2pcs-car-rearview-mirror-film-anti-fog-film-car-rear-view-mirror-waterproof-film-protective-film-anti-glare-rain-proof-anti-water-protector-for-car-mirrors-in-oval-shape-i219206379-s1166791804.html",
+                    "sku": "219206379_BD",
+                    "skuId": "1166791804"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001026
+            ],
+            "clickTrace": "query:;nid:219206379;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:219206379_BD;price:230;client:desktop;supplier_id:700509897086;asc_category_id:10001026;item_id:219206379;sku_id:1166791804;shop_id:219784",
+            "addToCartSkus": [
+                {
+                    "sku": "219206379_BD-1166791804",
+                    "skuId": "1166791804",
+                    "count": 0
+                }
+            ],
+            "itemId": "219206379",
+            "skuId": "1166791804",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Angry Eyes Reflective  Stickers And Decals",
+            "nid": "186912764",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "186912764",
+                "scene_pre": "search",
+                "current_price": "130",
+                "x_sku_ids": "1133499534",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "186912764"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i186912764-s1133499534.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5d6d4179f9c42f91e6d5941b93c77b31.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "130",
+            "promotionId": "null",
+            "priceShow": "৳ 130",
+            "discount": "-35%",
+            "ratingScore": "4.59375",
+            "review": "32",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "186912764_BD-1133499534",
+            "sku": "186912764_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4690",
+            "mainSellerId": "",
+            "sellerName": "Aysha Enterprise",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5d6d4179f9c42f91e6d5941b93c77b31.jpg",
+                    "productUrl": "/products/-i186912764-s1133499534.html",
+                    "sku": "186912764_BD",
+                    "skuId": "1133499534"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001015
+            ],
+            "clickTrace": "query:;nid:186912764;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:186912764_BD;price:130;client:desktop;supplier_id:4690;asc_category_id:10001015;item_id:186912764;sku_id:1133499534;shop_id:4735",
+            "addToCartSkus": [
+                {
+                    "sku": "186912764_BD-1133499534",
+                    "skuId": "1133499534",
+                    "count": 0
+                }
+            ],
+            "itemId": "186912764",
+            "skuId": "1133499534",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "[New Arrivals]//Chaina Metal Bike Horns",
+            "nid": "192634461",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "192634461",
+                "scene_pre": "search",
+                "current_price": "90.00",
+                "x_sku_ids": "1139412207",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "192634461"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i192634461-s1139412207.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/32bba91b8c66e27b9e597a2ffd105f94.jpg",
+            "originalPrice": "155.00",
+            "originalPriceShow": "৳ 155",
+            "price": "90.00",
+            "promotionId": "null",
+            "priceShow": "৳ 90",
+            "discount": "-42%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "192634461_BD-1139412207",
+            "sku": "192634461_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508175073",
+            "mainSellerId": "",
+            "sellerName": "Auto Trading",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/32bba91b8c66e27b9e597a2ffd105f94.jpg",
+                    "productUrl": "/products/-i192634461-s1139412207.html",
+                    "sku": "192634461_BD",
+                    "skuId": "1139412207"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001024
+            ],
+            "clickTrace": "query:;nid:192634461;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:192634461_BD;price:90.00;client:desktop;supplier_id:700508175073;asc_category_id:10001024;item_id:192634461;sku_id:1139412207;shop_id:131556",
+            "addToCartSkus": [
+                {
+                    "sku": "192634461_BD-1139412207",
+                    "skuId": "1139412207",
+                    "count": 0
+                }
+            ],
+            "itemId": "192634461",
+            "skuId": "1139412207",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Car Body Cover for Toyota Probox/Succed Silver Color Waterproof",
+            "nid": "112386116",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "112386116",
+                "scene_pre": "search",
+                "current_price": "1299",
+                "x_sku_ids": "1029252120",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "112386116"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i112386116-s1029252120.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7a9afa24faa307f3f8830c4a7e09e1a7.jpg",
+            "originalPrice": "1600.00",
+            "originalPriceShow": "৳ 1,600",
+            "price": "1299",
+            "promotionId": "null",
+            "priceShow": "৳ 1,299",
+            "discount": "-19%",
+            "ratingScore": "4.5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "112386116_BD-1029252120",
+            "sku": "112386116_BD",
+            "skus": [],
+            "description": [
+                "ParachuteMaterial",
+                "Light Weight, Machine Washable",
+                "Solid Silver Color..",
+                "Double stitched seams with Customized Fitting and Perfection.",
+                "Features a built-in strap and buckle system to keep car cover secure in windy conditions.",
+                "Elastic is used for front and rear of the cover for custom fitment.",
+                "No Antenna Pocket.",
+                "Two Backet Lock System",
+                "Mirror Refecelted green extra mark",
+                "2XL Size",
+                "Light Weight Material",
+                "Superior Protection agianst sun and rain",
+                "100% Waterproof",
+                "Fit For Toyota Corolla Feilder (2005-11) Probox, Succed.(2005-2010)"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4690",
+            "mainSellerId": "",
+            "sellerName": "Aysha Enterprise",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7a9afa24faa307f3f8830c4a7e09e1a7.jpg",
+                    "productUrl": "/products/-i112386116-s1029252120.html",
+                    "sku": "112386116_BD",
+                    "skuId": "1029252120"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                3222
+            ],
+            "clickTrace": "query:;nid:112386116;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:112386116_BD;price:1299;client:desktop;supplier_id:4690;asc_category_id:3222;item_id:112386116;sku_id:1029252120;shop_id:4735",
+            "addToCartSkus": [
+                {
+                    "sku": "112386116_BD-1029252120",
+                    "skuId": "1029252120",
+                    "count": 0
+                }
+            ],
+            "itemId": "112386116",
+            "skuId": "1029252120",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mini Sticker",
+            "nid": "227178591",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227178591",
+                "scene_pre": "search",
+                "current_price": "28",
+                "x_sku_ids": "1171387897",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "227178591"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i227178591-s1171387897.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fc7af158a5e64c382961de9b195b5de5.jpg",
+            "originalPrice": "40.00",
+            "originalPriceShow": "৳ 40",
+            "price": "28",
+            "promotionId": "null",
+            "priceShow": "৳ 28",
+            "discount": "-30%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227178591_BD-1171387897",
+            "sku": "227178591_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508724078",
+            "mainSellerId": "",
+            "sellerName": "Bike  Sticker Gallery",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fc7af158a5e64c382961de9b195b5de5.jpg",
+                    "productUrl": "/products/-i227178591-s1171387897.html",
+                    "sku": "227178591_BD",
+                    "skuId": "1171387897"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001015
+            ],
+            "clickTrace": "query:;nid:227178591;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:227178591_BD;price:28;client:desktop;supplier_id:700508724078;asc_category_id:10001015;item_id:227178591;sku_id:1171387897;shop_id:177435",
+            "addToCartSkus": [
+                {
+                    "sku": "227178591_BD-1171387897",
+                    "skuId": "1171387897",
+                    "count": 0
+                }
+            ],
+            "itemId": "227178591",
+            "skuId": "1171387897",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Decorative Sticker | Modify Point",
+            "nid": "234090467",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "234090467",
+                "scene_pre": "search",
+                "current_price": "28",
+                "x_sku_ids": "1176910230",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "234090467"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i234090467-s1176910230.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/170b0d03843d7b84fd02472bfbb39b09.jpg",
+            "originalPrice": "45.00",
+            "originalPriceShow": "৳ 45",
+            "price": "28",
+            "promotionId": "null",
+            "priceShow": "৳ 28",
+            "discount": "-38%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "234090467_BD-1176910230",
+            "sku": "234090467_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508238100",
+            "mainSellerId": "",
+            "sellerName": "Modify Point Faridpur",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/170b0d03843d7b84fd02472bfbb39b09.jpg",
+                    "productUrl": "/products/-i234090467-s1176910230.html",
+                    "sku": "234090467_BD",
+                    "skuId": "1176910230"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001015
+            ],
+            "clickTrace": "query:;nid:234090467;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:234090467_BD;price:28;client:desktop;supplier_id:700508238100;asc_category_id:10001015;item_id:234090467;sku_id:1176910230;shop_id:137202",
+            "addToCartSkus": [
+                {
+                    "sku": "234090467_BD-1176910230",
+                    "skuId": "1176910230",
+                    "count": 0
+                }
+            ],
+            "itemId": "234090467",
+            "skuId": "1176910230",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Anti Fog Car Sticker motorcycle Mirror Window Clear Film Car Rearview Mirror Protective Film Waterproof 2 Pcs/Set",
+            "nid": "211840530",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "211840530",
+                "scene_pre": "search",
+                "current_price": "111",
+                "x_sku_ids": "1161596839",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "211840530"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-i211840530-s1161596839.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/eb40a47a7fbeab67c75dd2624de85cf8.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "111",
+            "promotionId": "null",
+            "priceShow": "৳ 111",
+            "discount": "-56%",
+            "ratingScore": "4.84615",
+            "review": "13",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "211840530_BD-1161596839",
+            "sku": "211840530_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508283091",
+            "mainSellerId": "",
+            "sellerName": "Vivid Gallery Bd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/eb40a47a7fbeab67c75dd2624de85cf8.jpg",
+                    "productUrl": "/products/2-i211840530-s1161596839.html",
+                    "sku": "211840530_BD",
+                    "skuId": "1161596839"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001026
+            ],
+            "clickTrace": "query:;nid:211840530;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:211840530_BD;price:111;client:desktop;supplier_id:700508283091;asc_category_id:10001026;item_id:211840530;sku_id:1161596839;shop_id:141115",
+            "addToCartSkus": [
+                {
+                    "sku": "211840530_BD-1161596839",
+                    "skuId": "1161596839",
+                    "count": 0
+                }
+            ],
+            "itemId": "211840530",
+            "skuId": "1161596839",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Gear Motor 3V ~ 6V DC for Robot Wheel - 4pcs",
+            "nid": "227567896",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227567896",
+                "scene_pre": "search",
+                "current_price": "184",
+                "x_sku_ids": "1171660637",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "227567896"
+            },
+            "productUrl": "//www.daraz.com.bd/products/3v-6v-dc-4-i227567896-s1171660637.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/db560b3b60459701f2ebc28be8c0f240.jpg",
+            "originalPrice": "255.00",
+            "originalPriceShow": "৳ 255",
+            "price": "184",
+            "promotionId": "null",
+            "priceShow": "৳ 184",
+            "discount": "-28%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227567896_BD-1171660637",
+            "sku": "227567896_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510101506",
+            "mainSellerId": "",
+            "sellerName": "Afia eshop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/db560b3b60459701f2ebc28be8c0f240.jpg",
+                    "productUrl": "/products/3v-6v-dc-4-i227567896-s1171660637.html",
+                    "sku": "227567896_BD",
+                    "skuId": "1171660637"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001028
+            ],
+            "clickTrace": "query:;nid:227567896;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:227567896_BD;price:184;client:desktop;supplier_id:700510101506;asc_category_id:10001028;item_id:227567896;sku_id:1171660637;shop_id:229607",
+            "addToCartSkus": [
+                {
+                    "sku": "227567896_BD-1171660637",
+                    "skuId": "1171660637",
+                    "count": 0
+                }
+            ],
+            "itemId": "227567896",
+            "skuId": "1171660637",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Motorcycle Rubber Shift Lever Gear Cover Protaper Shifter Shoe Protector Universal Motorbike Lever Protection for Dirt Pit Bike",
+            "nid": "171216591",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171216591",
+                "scene_pre": "search",
+                "current_price": "49.00",
+                "x_sku_ids": "1107130262",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "171216591"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i171216591-s1107130262.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7b8e9cd2579fc2c34e4fcaf680671d17.png",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "49.00",
+            "promotionId": "null",
+            "priceShow": "৳ 49",
+            "discount": "-76%",
+            "ratingScore": "4.94737",
+            "review": "19",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171216591_BD-1107130262",
+            "sku": "171216591_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1002985",
+            "mainSellerId": "",
+            "sellerName": "MotoAuto",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7b8e9cd2579fc2c34e4fcaf680671d17.png",
+                    "productUrl": "/products/-i171216591-s1107130262.html",
+                    "sku": "171216591_BD",
+                    "skuId": "1107130262"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                3222
+            ],
+            "clickTrace": "query:;nid:171216591;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:171216591_BD;price:49.00;client:desktop;supplier_id:1002985;asc_category_id:3222;item_id:171216591;sku_id:1107130262;shop_id:9203",
+            "addToCartSkus": [
+                {
+                    "sku": "171216591_BD-1107130262",
+                    "skuId": "1107130262",
+                    "count": 0
+                }
+            ],
+            "itemId": "171216591",
+            "skuId": "1107130262",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Car Body Cover for Noah 2008-2015 Silver Color Waterproof",
+            "nid": "182692387",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "182692387",
+                "scene_pre": "search",
+                "current_price": "1650.00",
+                "x_sku_ids": "1126634439",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "182692387"
+            },
+            "productUrl": "//www.daraz.com.bd/products/noah-2008-2015-i182692387-s1126634439.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f807b3db1423e9a319c38adf1ae9e0e8.jpg",
+            "price": "1650.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,650",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "182692387_BD-1126634439",
+            "sku": "182692387_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1016605",
+            "mainSellerId": "",
+            "sellerName": "All-in-One Trading Corporation",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f807b3db1423e9a319c38adf1ae9e0e8.jpg",
+                    "productUrl": "/products/noah-2008-2015-i182692387-s1126634439.html",
+                    "sku": "182692387_BD",
+                    "skuId": "1126634439"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                3222
+            ],
+            "clickTrace": "query:;nid:182692387;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:182692387_BD;price:1650.00;client:desktop;supplier_id:1016605;asc_category_id:3222;item_id:182692387;sku_id:1126634439;shop_id:22912",
+            "addToCartSkus": [
+                {
+                    "sku": "182692387_BD-1126634439",
+                    "skuId": "1126634439",
+                    "count": 0
+                }
+            ],
+            "itemId": "182692387",
+            "skuId": "1126634439",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Car Styling Sports Mind Sticker Emblem Badge Decal Auto Headlight Bonnet Sticker",
+            "nid": "197733009",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "197733009",
+                "scene_pre": "search",
+                "current_price": "126",
+                "x_sku_ids": "1144386994",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "197733009"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i197733009-s1144386994.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/aa3d4b61cef17f424609ef1da6fe7871.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "126",
+            "promotionId": "null",
+            "priceShow": "৳ 126",
+            "discount": "-75%",
+            "ratingScore": "4.6",
+            "review": "15",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "197733009_BD-1144386994",
+            "sku": "197733009_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506411168",
+            "mainSellerId": "",
+            "sellerName": "Arman Car Decoration",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/aa3d4b61cef17f424609ef1da6fe7871.jpg",
+                    "productUrl": "/products/-i197733009-s1144386994.html",
+                    "sku": "197733009_BD",
+                    "skuId": "1144386994"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9859d0e39ce90cdad1abc9b48add8140.jpg",
+                    "productUrl": "/products/-i197733009-s1161196291.html",
+                    "sku": "197733009_BD",
+                    "skuId": "1161196291"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001015
+            ],
+            "clickTrace": "query:;nid:197733009;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:197733009_BD;price:126;client:desktop;supplier_id:700506411168;asc_category_id:10001015;item_id:197733009;sku_id:1144386994;shop_id:76008",
+            "addToCartSkus": [
+                {
+                    "sku": "197733009_BD-1144386994",
+                    "skuId": "1144386994",
+                    "count": 0
+                }
+            ],
+            "itemId": "197733009",
+            "skuId": "1144386994",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Anti Fog Car/bike Sticker Rearview Mirror Protective Film Waterproof 2 Pcs/Set",
+            "nid": "211836181",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "211836181",
+                "scene_pre": "search",
+                "current_price": "114",
+                "x_sku_ids": "1161889176",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "211836181"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-i211836181-s1161889176.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e89ae58de60d2fb923e36c425445f633.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "114",
+            "promotionId": "null",
+            "priceShow": "৳ 114",
+            "discount": "-54%",
+            "ratingScore": "4.3",
+            "review": "20",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "211836181_BD-1161889176",
+            "sku": "211836181_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506138013",
+            "mainSellerId": "",
+            "sellerName": "One Ninety Nine",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e89ae58de60d2fb923e36c425445f633.jpg",
+                    "productUrl": "/products/2-i211836181-s1161889176.html",
+                    "sku": "211836181_BD",
+                    "skuId": "1161889176"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001024
+            ],
+            "clickTrace": "query:;nid:211836181;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:211836181_BD;price:114;client:desktop;supplier_id:700506138013;asc_category_id:10001024;item_id:211836181;sku_id:1161889176;shop_id:68788",
+            "addToCartSkus": [
+                {
+                    "sku": "211836181_BD-1161889176",
+                    "skuId": "1161889176",
+                    "count": 0
+                }
+            ],
+            "itemId": "211836181",
+            "skuId": "1161889176",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Universal Grey Car Anti Slip Silicone Parking Hand Brake Boot Cover Lever -Gray",
+            "nid": "101924148",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101924148",
+                "scene_pre": "search",
+                "current_price": "145",
+                "x_sku_ids": "1015982200",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "101924148"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i101924148-s1015982200.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/982d8956135dee4abb5f772772e5bd16.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "145",
+            "promotionId": "null",
+            "priceShow": "৳ 145",
+            "discount": "-3%",
+            "ratingScore": "4.63158",
+            "review": "19",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101924148_BD-1015982200",
+            "sku": "101924148_BD",
+            "skus": [],
+            "description": [
+                "Condition: 100% new",
+                "Color: Grey,",
+                "Material: high quality silicone",
+                "Length: 12cm",
+                "Item included: hand brake cover x 1",
+                "Compatible: for all cars with hand brake",
+                "Comfortable Soft Silicone inner, dustproof, nonslip and pullover design.",
+                "Protect and decorate greatly your car hand brake lever.",
+                "Cover existing scratches and prevents your car from future finger nails, keys scratches etc...",
+                "Decorate car appearances, make your car particular and unique",
+                "Easy to install and wash."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4690",
+            "mainSellerId": "",
+            "sellerName": "Aysha Enterprise",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/982d8956135dee4abb5f772772e5bd16.jpg",
+                    "productUrl": "/products/-i101924148-s1015982200.html",
+                    "sku": "101924148_BD",
+                    "skuId": "1015982200"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                3222
+            ],
+            "clickTrace": "query:;nid:101924148;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:101924148_BD;price:145;client:desktop;supplier_id:4690;asc_category_id:3222;item_id:101924148;sku_id:1015982200;shop_id:4735",
+            "addToCartSkus": [
+                {
+                    "sku": "101924148_BD-1015982200",
+                    "skuId": "1015982200",
+                    "count": 0
+                }
+            ],
+            "itemId": "101924148",
+            "skuId": "1015982200",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Universal Grey Car Anti Slip Silicone Parking Hand Brake Boot Cover Lever -Black",
+            "nid": "101914302",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101914302",
+                "scene_pre": "search",
+                "current_price": "175.00",
+                "x_sku_ids": "1015972807",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "101914302"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i101914302-s1015972807.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/b436e77c1ac63722ef925921459c4f09.jpg",
+            "price": "175.00",
+            "promotionId": "null",
+            "priceShow": "৳ 175",
+            "ratingScore": "4.70492",
+            "review": "61",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101914302_BD-1015972807",
+            "sku": "101914302_BD",
+            "skus": [],
+            "description": [
+                "Condition: 100% new",
+                "Color: Black,",
+                "Material: high quality silicone",
+                "Length: 12cm",
+                "Item included: hand brake cover x 1",
+                "Compatible: for all cars with hand brake",
+                "Comfortable Soft Silicone inner, dustproof, nonslip and pullover design.",
+                "Protect and decorate greatly your car hand brake lever.",
+                "Cover existing scratches and prevents your car from future finger nails, keys scratches etc...",
+                "Decorate car appearances, make your car particular and unique",
+                "Easy to install and wash."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4690",
+            "mainSellerId": "",
+            "sellerName": "Aysha Enterprise",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/b436e77c1ac63722ef925921459c4f09.jpg",
+                    "productUrl": "/products/-i101914302-s1015972807.html",
+                    "sku": "101914302_BD",
+                    "skuId": "1015972807"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                3222
+            ],
+            "clickTrace": "query:;nid:101914302;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:101914302_BD;price:175.00;client:desktop;supplier_id:4690;asc_category_id:3222;item_id:101914302;sku_id:1015972807;shop_id:4735",
+            "addToCartSkus": [
+                {
+                    "sku": "101914302_BD-1015972807",
+                    "skuId": "1015972807",
+                    "count": 0
+                }
+            ],
+            "itemId": "101914302",
+            "skuId": "1015972807",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bike Mini Sticker",
+            "nid": "227168538",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227168538",
+                "scene_pre": "search",
+                "current_price": "28",
+                "x_sku_ids": "1171380911",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "227168538"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i227168538-s1171380911.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/541cc5ed456bb4c380c2a7f6efb086c6.jpg",
+            "originalPrice": "40.00",
+            "originalPriceShow": "৳ 40",
+            "price": "28",
+            "promotionId": "null",
+            "priceShow": "৳ 28",
+            "discount": "-30%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227168538_BD-1171380911",
+            "sku": "227168538_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508724078",
+            "mainSellerId": "",
+            "sellerName": "Bike  Sticker Gallery",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/541cc5ed456bb4c380c2a7f6efb086c6.jpg",
+                    "productUrl": "/products/-i227168538-s1171380911.html",
+                    "sku": "227168538_BD",
+                    "skuId": "1171380911"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001015
+            ],
+            "clickTrace": "query:;nid:227168538;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:227168538_BD;price:28;client:desktop;supplier_id:700508724078;asc_category_id:10001015;item_id:227168538;sku_id:1171380911;shop_id:177435",
+            "addToCartSkus": [
+                {
+                    "sku": "227168538_BD-1171380911",
+                    "skuId": "1171380911",
+                    "count": 0
+                }
+            ],
+            "itemId": "227168538",
+            "skuId": "1171380911",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Oval Shape Car Rearview Mirror Rainproof Film Anti-fog Rearview Mirror",
+            "nid": "217076996",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "217076996",
+                "scene_pre": "search",
+                "current_price": "110.00",
+                "x_sku_ids": "1165196129",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "217076996"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i217076996-s1165196129.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6e6fcd00a947236103b781640acbcd01.jpg",
+            "price": "110.00",
+            "promotionId": "null",
+            "priceShow": "৳ 110",
+            "ratingScore": "3",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "217076996_BD-1165196129",
+            "sku": "217076996_BD",
+            "skus": [],
+            "description": [
+                "Nano-hydrophilic technology.",
+                "High strength and high transmittance.",
+                "Anti-fog film: To prevent the mirror produces fog, to prevent the formation of mist in the mirror above the fog.",
+                "Antifogging: Due to super hydrophilic hard coating,water droplets can spread over quickly and no decondensation.",
+                "Anti-Stain: Water goes into between super hydrophilic hard coat surface and dart can be remove easily.",
+                "Application: Apply to the car rearview mirror, bathroom mirror, vanity mirror and other glass mirrors.",
+                "Size: 100X150MM",
+                "Quantity: 2 Pcs Pack"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5537",
+            "mainSellerId": "",
+            "sellerName": "Malisha Super Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6e6fcd00a947236103b781640acbcd01.jpg",
+                    "productUrl": "/products/-i217076996-s1165196129.html",
+                    "sku": "217076996_BD",
+                    "skuId": "1165196129"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001026
+            ],
+            "clickTrace": "query:;nid:217076996;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:217076996_BD;price:110.00;client:desktop;supplier_id:5537;asc_category_id:10001026;item_id:217076996;sku_id:1165196129;shop_id:5541",
+            "addToCartSkus": [
+                {
+                    "sku": "217076996_BD-1165196129",
+                    "skuId": "1165196129",
+                    "count": 0
+                }
+            ],
+            "itemId": "217076996",
+            "skuId": "1165196129",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "UNO MINDA D82 High Quality Universal Motorcycle Horn",
+            "nid": "185671954",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "185671954",
+                "scene_pre": "search",
+                "current_price": "204",
+                "x_sku_ids": "1131471671",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "185671954"
+            },
+            "productUrl": "//www.daraz.com.bd/products/uno-minda-d82-i185671954-s1131471671.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b73e25166da66792af1df499399ed804.jpg",
+            "originalPrice": "280.00",
+            "originalPriceShow": "৳ 280",
+            "price": "204",
+            "promotionId": "null",
+            "priceShow": "৳ 204",
+            "discount": "-27%",
+            "ratingScore": "4.72727",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "185671954_BD-1131471671",
+            "sku": "185671954_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508295180",
+            "mainSellerId": "",
+            "sellerName": "Motor Parts Center",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b73e25166da66792af1df499399ed804.jpg",
+                    "productUrl": "/products/uno-minda-d82-i185671954-s1131471671.html",
+                    "sku": "185671954_BD",
+                    "skuId": "1131471671"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001024
+            ],
+            "clickTrace": "query:;nid:185671954;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:185671954_BD;price:204;client:desktop;supplier_id:700508295180;asc_category_id:10001024;item_id:185671954;sku_id:1131471671;shop_id:142312",
+            "addToCartSkus": [
+                {
+                    "sku": "185671954_BD-1131471671",
+                    "skuId": "1131471671",
+                    "count": 0
+                }
+            ],
+            "itemId": "185671954",
+            "skuId": "1131471671",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Outdoor Backpack Rain Cover For 30L-50L Bag Portable Waterproof Cover Pack",
+            "nid": "185428753",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "185428753",
+                "scene_pre": "search",
+                "current_price": "237",
+                "x_sku_ids": "1131035380",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "185428753"
+            },
+            "productUrl": "//www.daraz.com.bd/products/outdoor-backpack-rain-cover-for-30l-50l-bag-portable-waterproof-cover-pack-i185428753-s1131035380.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5cdab32d3f7cd2b89857f9104711a884.jpg",
+            "originalPrice": "380.00",
+            "originalPriceShow": "৳ 380",
+            "price": "237",
+            "promotionId": "null",
+            "priceShow": "৳ 237",
+            "discount": "-38%",
+            "ratingScore": "4.92857",
+            "review": "98",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "185428753_BD-1131035380",
+            "sku": "185428753_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507677043",
+            "mainSellerId": "",
+            "sellerName": "Gallerie Vespa",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5cdab32d3f7cd2b89857f9104711a884.jpg",
+                    "productUrl": "/products/outdoor-backpack-rain-cover-for-30l-50l-bag-portable-waterproof-cover-pack-i185428753-s1131035380.html",
+                    "sku": "185428753_BD",
+                    "skuId": "1131035380"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a7bd328a1cdd9df68ba836bb26c25645.jpg",
+                    "productUrl": "/products/outdoor-backpack-rain-cover-for-30l-50l-bag-portable-waterproof-cover-pack-i185428753-s1132379333.html",
+                    "sku": "185428753_BD",
+                    "skuId": "1132379333"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001031
+            ],
+            "clickTrace": "query:;nid:185428753;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:185428753_BD;price:237;client:desktop;supplier_id:700507677043;asc_category_id:10001031;item_id:185428753;sku_id:1131035380;shop_id:103381",
+            "addToCartSkus": [
+                {
+                    "sku": "185428753_BD-1131035380",
+                    "skuId": "1131035380",
+                    "count": 0
+                }
+            ],
+            "itemId": "185428753",
+            "skuId": "1131035380",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "High Quality Metal Car Decoration Emblem Badge Front Hood logo - Nissan",
+            "nid": "126311841",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "126311841",
+                "scene_pre": "search",
+                "current_price": "799.00",
+                "x_sku_ids": "1046413055",
+                "SN": "8c13b7005d75f83c48f6e1c522c06bad",
+                "x_ad": "1",
+                "x_object_id": "126311841"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i126311841-s1046413055.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6e568d1920362c8a4001101514b62d04.jpg",
+            "originalPrice": "850.00",
+            "originalPriceShow": "৳ 850",
+            "price": "799.00",
+            "promotionId": "null",
+            "priceShow": "৳ 799",
+            "discount": "-6%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "126311841_BD-1046413055",
+            "sku": "126311841_BD",
+            "skus": [],
+            "description": [
+                "High quality and 100% brand new",
+                "Fit for Nissan",
+                "Color: silver Material: zinc alloy, adhesive tape is on the bottom",
+                "Size: 7.5 × 8.5 cm",
+                "Durable, fade-resistant and fashion"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1043233",
+            "mainSellerId": "",
+            "sellerName": "Bumble Bee",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6e568d1920362c8a4001101514b62d04.jpg",
+                    "productUrl": "/products/-i126311841-s1046413055.html",
+                    "sku": "126311841_BD",
+                    "skuId": "1046413055"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3214,
+                3215,
+                3221,
+                10001023
+            ],
+            "clickTrace": "query:;nid:126311841;src:LazadaMainSrp;rn:8c13b7005d75f83c48f6e1c522c06bad;region:bd;sku:126311841_BD;price:799.00;client:desktop;supplier_id:1043233;asc_category_id:10001023;item_id:126311841;sku_id:1046413055;shop_id:48916",
+            "addToCartSkus": [
+                {
+                    "sku": "126311841_BD-1046413055",
+                    "skuId": "1046413055",
+                    "count": 0
+                }
+            ],
+            "itemId": "126311841",
+            "skuId": "1046413055",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/motors-vehicles/",
+            "title": "Motors"
+        },
+        {
+            "url": "/automotive/",
+            "title": "Automotive"
+        },
+        {
+            "url": "/exterior-accessories/",
+            "title": "Exterior Accessories"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/exterior-accessories/?referer_rn=8c13b7005d75f83c48f6e1c522c06bad&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {},
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/car-stickers/?item_id=226542043&from=onesearch_category_3221",
+                "name": "Bumper Stickers, Decals & Magnets",
+                "image": "//static-01.daraz.com.bd/p/9775d173aa3387b286e81be77111264f.jpg",
+                "id": "10001015"
+            },
+            {
+                "url": "/horns/?item_id=112176965&from=onesearch_category_3221",
+                "name": "Horns & Accessories",
+                "image": "//static-01.daraz.com.bd/p/b840ed6864c739a19fde36317670f7b8.jpg",
+                "id": "10001024"
+            },
+            {
+                "url": "/car-covers/?item_id=166986046&from=onesearch_category_3221",
+                "name": "Covers",
+                "image": "//static-01.daraz.com.bd/p/6806d52b51181da56d08038be9df15d9.jpg",
+                "id": "3222"
+            },
+            {
+                "url": "/automotive-roll-bars-roll-cages-covers/?item_id=148880286&from=onesearch_category_3221",
+                "name": "Roll Bars, Roll Cages & Covers",
+                "image": "//static-01.daraz.com.bd/p/mdc/f594118f48ad4f36a0bff047b0c30fad.jpg",
+                "id": "10001028"
+            },
+            {
+                "url": "/automotive-license-plate-covers-frames/?item_id=215257010&from=onesearch_category_3221",
+                "name": "License Plate Covers & Frames",
+                "image": "//static-01.daraz.com.bd/p/bc98323e2d936d810b38ed5f284b2e00.jpg",
+                "id": "10001025"
+            },
+            {
+                "url": "/modification/?item_id=189861527&from=onesearch_category_3221",
+                "name": "Bumpers & Bumper Accessories",
+                "image": "//static-01.daraz.com.bd/p/e3400bb84e8457640c168d450b918a30.png",
+                "id": "10001016"
+            },
+            {
+                "url": "/rear-mirrors/?item_id=203932001&from=onesearch_category_3221",
+                "name": "Mirrors",
+                "image": "//static-01.daraz.com.bd/p/bb62903bca69cd4669dee89fc9430ffa.jpg",
+                "id": "10001026"
+            },
+            {
+                "url": "/car-monos/?item_id=210923411&from=onesearch_category_3221",
+                "name": "Body Armor",
+                "image": "//static-01.daraz.com.bd/p/1e2096c4a696558023de5f75ba2ef4b0.jpg",
+                "id": "10001014"
+            },
+            {
+                "url": "/automotive-chrome-trim-accessories/?item_id=230673903&from=onesearch_category_3221",
+                "name": "Chrome Trim & Accessories",
+                "image": "//static-01.daraz.com.bd/p/bcffe5db8752ba5b9e155435b4636040.jpg",
+                "id": "10001018"
+            },
+            {
+                "url": "/body-kits/?item_id=173520911&from=onesearch_category_3221",
+                "name": "Spoilers, Wings & Styling Kits",
+                "image": "//static-01.daraz.com.bd/p/5eb9df71ec58daff80e5e5673c2b1e0c.jpg",
+                "id": "10001030"
+            },
+            {
+                "url": "/automotive-emblems/?item_id=200316166&from=onesearch_category_3221",
+                "name": "Emblems",
+                "image": "//static-01.daraz.com.bd/p/7147b040e0873464d49a68b14c14f8f0.png",
+                "id": "10001019"
+            },
+            {
+                "url": "/deflectors-shields-automotive/?item_id=188713877&from=onesearch_category_3221",
+                "name": "Deflectors & Shields",
+                "image": "//static-01.daraz.com.bd/p/c23842410a7d5a0447d5e93a581716d7.jpg",
+                "id": "3223"
+            },
+            {
+                "url": "/automotive-trailer-accessories/?item_id=185428753&from=onesearch_category_3221",
+                "name": "Trailer Accessories",
+                "image": "//static-01.daraz.com.bd/p/5cdab32d3f7cd2b89857f9104711a884.jpg",
+                "id": "10001031"
+            },
+            {
+                "url": "/automotive-other-parts/?item_id=121956190&from=onesearch_category_3221",
+                "name": "Hood Scoops & Vents",
+                "image": "//static-01.daraz.com.bd/p/1a82756258d310705967c616e4c4fd8a.png",
+                "id": "10001023"
+            },
+            {
+                "url": "/towing-products-winches-automotive/?item_id=212080252&from=onesearch_category_3221",
+                "name": "Towing Products & Winches",
+                "image": "//static-01.daraz.com.bd/p/9ff3fd4a807c0fc395eaca7b92c451c6.jpg",
+                "id": "3227"
+            },
+            {
+                "url": "/grilles-grille-guards-automotive/?item_id=227148754&from=onesearch_category_3221",
+                "name": "Grilles & Grille Guards",
+                "image": "//static-01.daraz.com.bd/p/c8d1489b67b8d63b4932596e16b4e5e7.jpg",
+                "id": "3224"
+            },
+            {
+                "url": "/automotive-antenna-toppers/?item_id=117622452&from=onesearch_category_3221",
+                "name": "Antenna Toppers",
+                "image": "//static-01.daraz.com.bd/p/bdc94334b3140138072c4cd7af877078.jpg",
+                "id": "10001013"
+            },
+            {
+                "url": "/automotive-mud-flaps-splash-guards/?item_id=192463822&from=onesearch_category_3221",
+                "name": "Mud Flaps & Splash Guards",
+                "image": "//static-01.daraz.com.bd/p/fa303e582277efb7589f314296ca0b60.jpg",
+                "id": "10001027"
+            },
+            {
+                "url": "/automotive-fender-flares-trim/?item_id=115142829&from=onesearch_category_3221",
+                "name": "Fender Flares & Trim",
+                "image": "//static-01.daraz.com.bd/p/mdc/9e0d044c992420bdf2c49032fea51b75.jpg",
+                "id": "10001020"
+            },
+            {
+                "url": "/automotive-cargo-management/?item_id=178047582&from=onesearch_category_3221",
+                "name": "Cargo Management",
+                "image": "//static-01.daraz.com.bd/p/fe23513406835523b3eb3daa31bdd0f8.jpg",
+                "id": "10001017"
+            },
+            {
+                "url": "/automotive-truck-bed-tailgate-accessories/?item_id=134588091&from=onesearch_category_3221",
+                "name": "Truck Bed & Tailgate Accessories",
+                "image": "//static-01.daraz.com.bd/p/f4aa1524ce5e2d27b74cbb70f4cfc48e.jpg",
+                "id": "10001032"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_3221"
+        },
+        "title": "",
+        "bizId": "onesearch_category_3221",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "169736 items found in {$0}",
+        "title": "Exterior Accessories",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Exterior Accessories"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Exterior Accessories",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "8c13b7005d75f83c48f6e1c522c06bad",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "3221",
+            "category": "3221"
+        },
+        "categoryRegionalKey": "120102000000",
+        "mainCategoryRegionalKey": "120000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "বাহ্যিক আনুষাঙ্গিক at Best Price | 20% Off on Daraz | Buy Online",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Motors,Automotive,Exterior Accessories",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "120102000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=3221&_p_asc_cateid=3221",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "exterior-accessories",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "8c13b7005d75f83c48f6e1c522c06bad",
+                "resultNr": 169736,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1171013738",
+                "1161598481",
+                "1165832131"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "3221",
+            "category": "3221"
+        }
+    }
+}

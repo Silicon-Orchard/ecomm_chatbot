@@ -1,0 +1,3312 @@
+{
+    "listItems": [
+        {
+            "name": "Dr.Biswas Good Health 1pcs",
+            "nid": "166106577",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "166106577",
+                "scene_pre": "search",
+                "current_price": "370",
+                "x_sku_ids": "1099646489",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "166106577"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dr-biswas-1-i166106577-s1099646489.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/a450321bcb1e27a1cc6b62c4942b7794.jpg",
+            "originalPrice": "1050.00",
+            "originalPriceShow": "৳ 1,050",
+            "price": "370",
+            "promotionId": "null",
+            "priceShow": "৳ 370",
+            "discount": "-65%",
+            "ratingScore": "4.68644",
+            "review": "236",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "166106577_BD-1099646489",
+            "sku": "166106577_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507479031",
+            "mainSellerId": "",
+            "sellerName": "Moriyam Enterprise",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/a450321bcb1e27a1cc6b62c4942b7794.jpg",
+                    "productUrl": "/products/dr-biswas-1-i166106577-s1099646489.html",
+                    "sku": "166106577_BD",
+                    "skuId": "1099646489"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002105
+            ],
+            "clickTrace": "query:;nid:166106577;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:166106577_BD;price:370;client:desktop;supplier_id:700507479031;asc_category_id:10002105;item_id:166106577;sku_id:1099646489;shop_id:91591",
+            "addToCartSkus": [
+                {
+                    "sku": "166106577_BD-1099646489",
+                    "skuId": "1099646489",
+                    "count": 0
+                }
+            ],
+            "itemId": "166106577",
+            "skuId": "1099646489",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dr Biswas Good Health  50 Capsules",
+            "nid": "218596262",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "218596262",
+                "scene_pre": "search",
+                "current_price": "203",
+                "x_sku_ids": "1166392039",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "218596262"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dr-50-i218596262-s1166392039.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a774ded27569d5e8628d7af94d089d32.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "203",
+            "promotionId": "null",
+            "priceShow": "৳ 203",
+            "discount": "-42%",
+            "ratingScore": "4.36735",
+            "review": "49",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "218596262_BD-1166392039",
+            "sku": "218596262_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509888060",
+            "mainSellerId": "",
+            "sellerName": "Vorosha Point",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a774ded27569d5e8628d7af94d089d32.jpg",
+                    "productUrl": "/products/dr-50-i218596262-s1166392039.html",
+                    "sku": "218596262_BD",
+                    "skuId": "1166392039"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002105
+            ],
+            "clickTrace": "query:;nid:218596262;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:218596262_BD;price:203;client:desktop;supplier_id:700509888060;asc_category_id:10002105;item_id:218596262;sku_id:1166392039;shop_id:219285",
+            "addToCartSkus": [
+                {
+                    "sku": "218596262_BD-1166392039",
+                    "skuId": "1166392039",
+                    "count": 0
+                }
+            ],
+            "itemId": "218596262",
+            "skuId": "1166392039",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dr.Biswas Good Health 1pcs",
+            "nid": "215571080",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "215571080",
+                "scene_pre": "search",
+                "current_price": "198",
+                "x_sku_ids": "1164060396",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "215571080"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dr-biswas-1-i215571080-s1164060396.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d44cdcb7fa61fdcc9ae19bb948af56a9.png",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "198",
+            "promotionId": "null",
+            "priceShow": "৳ 198",
+            "discount": "-70%",
+            "ratingScore": "4.31325",
+            "review": "83",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "215571080_BD-1164060396",
+            "sku": "215571080_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509396100",
+            "mainSellerId": "",
+            "sellerName": "Top Sale",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d44cdcb7fa61fdcc9ae19bb948af56a9.png",
+                    "productUrl": "/products/dr-biswas-1-i215571080-s1164060396.html",
+                    "sku": "215571080_BD",
+                    "skuId": "1164060396"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002105
+            ],
+            "clickTrace": "query:;nid:215571080;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:215571080_BD;price:198;client:desktop;supplier_id:700509396100;asc_category_id:10002105;item_id:215571080;sku_id:1164060396;shop_id:210525",
+            "addToCartSkus": [
+                {
+                    "sku": "215571080_BD-1164060396",
+                    "skuId": "1164060396",
+                    "count": 0
+                }
+            ],
+            "itemId": "215571080",
+            "skuId": "1164060396",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dr. Biswas Good Health Capsule 1 pack 50pcs",
+            "nid": "234487122",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "234487122",
+                "scene_pre": "search",
+                "current_price": "195.00",
+                "x_sku_ids": "1177318793",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "234487122"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dr-biswas-1-50-i234487122-s1177318793.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b55bf917a3b8fdd3823e095b98329d39.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "195.00",
+            "promotionId": "null",
+            "priceShow": "৳ 195",
+            "discount": "-57%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "234487122_BD-1177318793",
+            "sku": "234487122_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700512024381",
+            "mainSellerId": "",
+            "sellerName": "smart express 24",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b55bf917a3b8fdd3823e095b98329d39.jpg",
+                    "productUrl": "/products/dr-biswas-1-50-i234487122-s1177318793.html",
+                    "sku": "234487122_BD",
+                    "skuId": "1177318793"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002105
+            ],
+            "clickTrace": "query:;nid:234487122;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:234487122_BD;price:195.00;client:desktop;supplier_id:700512024381;asc_category_id:10002105;item_id:234487122;sku_id:1177318793;shop_id:239205",
+            "addToCartSkus": [
+                {
+                    "sku": "234487122_BD-1177318793",
+                    "skuId": "1177318793",
+                    "count": 0
+                }
+            ],
+            "itemId": "234487122",
+            "skuId": "1177318793",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Good Health capsule 1 Pack (50 pcs)",
+            "nid": "224913927",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "224913927",
+                "scene_pre": "search",
+                "current_price": "203",
+                "x_sku_ids": "1170402862",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "224913927"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dr-biswas-1-50-i224913927-s1170402862.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8ae4988eef14b2a2f9f9625aa1a3523b.jpg",
+            "originalPrice": "209.00",
+            "originalPriceShow": "৳ 209",
+            "price": "203",
+            "promotionId": "null",
+            "priceShow": "৳ 203",
+            "discount": "-3%",
+            "ratingScore": "4.63281",
+            "review": "128",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "224913927_BD-1170402862",
+            "sku": "224913927_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510083031",
+            "mainSellerId": "",
+            "sellerName": "Ayaat Corporation",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8ae4988eef14b2a2f9f9625aa1a3523b.jpg",
+                    "productUrl": "/products/dr-biswas-1-50-i224913927-s1170402862.html",
+                    "sku": "224913927_BD",
+                    "skuId": "1170402862"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002105
+            ],
+            "clickTrace": "query:;nid:224913927;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:224913927_BD;price:203;client:desktop;supplier_id:700510083031;asc_category_id:10002105;item_id:224913927;sku_id:1170402862;shop_id:227068",
+            "addToCartSkus": [
+                {
+                    "sku": "224913927_BD-1170402862",
+                    "skuId": "1170402862",
+                    "count": 0
+                }
+            ],
+            "itemId": "224913927",
+            "skuId": "1170402862",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dr.Biswas Good Health 1 Pack (50 pcs)",
+            "nid": "192979230",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "192979230",
+                "scene_pre": "search",
+                "current_price": "340",
+                "x_sku_ids": "1139743731",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "192979230"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dr-biswas-1-50-i192979230-s1139743731.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/23166aeaab9ad44bb46a9a61d3dae739.jpg",
+            "originalPrice": "1550.00",
+            "originalPriceShow": "৳ 1,550",
+            "price": "340",
+            "promotionId": "null",
+            "priceShow": "৳ 340",
+            "discount": "-78%",
+            "ratingScore": "4.74627",
+            "review": "67",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "192979230_BD-1139743731",
+            "sku": "192979230_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507968143",
+            "mainSellerId": "",
+            "sellerName": "SS Enterprise BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/23166aeaab9ad44bb46a9a61d3dae739.jpg",
+                    "productUrl": "/products/dr-biswas-1-50-i192979230-s1139743731.html",
+                    "sku": "192979230_BD",
+                    "skuId": "1139743731"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002105
+            ],
+            "clickTrace": "query:;nid:192979230;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:192979230_BD;price:340;client:desktop;supplier_id:700507968143;asc_category_id:10002105;item_id:192979230;sku_id:1139743731;shop_id:122833",
+            "addToCartSkus": [
+                {
+                    "sku": "192979230_BD-1139743731",
+                    "skuId": "1139743731",
+                    "count": 0
+                }
+            ],
+            "itemId": "192979230",
+            "skuId": "1139743731",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dr. Biswas Good Health Capsule 1 pack 50 Capsules",
+            "nid": "223007043",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223007043",
+                "scene_pre": "search",
+                "current_price": "339",
+                "x_sku_ids": "1169217407",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "223007043"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dr-biswas-1-50-i223007043-s1169217407.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7c7219bea7992dfe4c5f2234ccfb00a7.jpg",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "339",
+            "promotionId": "null",
+            "priceShow": "৳ 339",
+            "discount": "-55%",
+            "ratingScore": "5",
+            "review": "33",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223007043_BD-1169217407",
+            "sku": "223007043_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508889112",
+            "mainSellerId": "",
+            "sellerName": "Sara Shopping",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7c7219bea7992dfe4c5f2234ccfb00a7.jpg",
+                    "productUrl": "/products/dr-biswas-1-50-i223007043-s1169217407.html",
+                    "sku": "223007043_BD",
+                    "skuId": "1169217407"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002105
+            ],
+            "clickTrace": "query:;nid:223007043;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:223007043_BD;price:339;client:desktop;supplier_id:700508889112;asc_category_id:10002105;item_id:223007043;sku_id:1169217407;shop_id:200412",
+            "addToCartSkus": [
+                {
+                    "sku": "223007043_BD-1169217407",
+                    "skuId": "1169217407",
+                    "count": 0
+                }
+            ],
+            "itemId": "223007043",
+            "skuId": "1169217407",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SmartHeart Rabbit Food Apple Flavour 1kg",
+            "nid": "183792159",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183792159",
+                "scene_pre": "search",
+                "current_price": "287",
+                "x_sku_ids": "1128316774",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "183792159"
+            },
+            "productUrl": "//www.daraz.com.bd/products/smartheart-1kg-i183792159-s1128316774.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/36778d9508a29c860101c92304dde884.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "287",
+            "promotionId": "null",
+            "priceShow": "৳ 287",
+            "discount": "-43%",
+            "ratingScore": "4.2",
+            "review": "20",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183792159_BD-1128316774",
+            "sku": "183792159_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507620243",
+            "mainSellerId": "",
+            "sellerName": "AR FASHION WORLD BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/36778d9508a29c860101c92304dde884.jpg",
+                    "productUrl": "/products/smartheart-1kg-i183792159-s1128316774.html",
+                    "sku": "183792159_BD",
+                    "skuId": "1128316774"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:183792159;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:183792159_BD;price:287;client:desktop;supplier_id:700507620243;asc_category_id:10002103;item_id:183792159;sku_id:1128316774;shop_id:101531",
+            "addToCartSkus": [
+                {
+                    "sku": "183792159_BD-1128316774",
+                    "skuId": "1128316774",
+                    "count": 0
+                }
+            ],
+            "itemId": "183792159",
+            "skuId": "1128316774",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SmartHeart Rabbit Food Wildberry Flavour 1kg",
+            "nid": "183791199",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183791199",
+                "scene_pre": "search",
+                "current_price": "284",
+                "x_sku_ids": "1128330381",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "183791199"
+            },
+            "productUrl": "//www.daraz.com.bd/products/smartheart-1kg-i183791199-s1128330381.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/303bc8ee08de1299ad265c249b7052bf.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "284",
+            "promotionId": "null",
+            "priceShow": "৳ 284",
+            "discount": "-43%",
+            "ratingScore": "4.42857",
+            "review": "14",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183791199_BD-1128330381",
+            "sku": "183791199_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507620243",
+            "mainSellerId": "",
+            "sellerName": "AR FASHION WORLD BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/303bc8ee08de1299ad265c249b7052bf.jpg",
+                    "productUrl": "/products/smartheart-1kg-i183791199-s1128330381.html",
+                    "sku": "183791199_BD",
+                    "skuId": "1128330381"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:183791199;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:183791199_BD;price:284;client:desktop;supplier_id:700507620243;asc_category_id:10002103;item_id:183791199;sku_id:1128330381;shop_id:101531",
+            "addToCartSkus": [
+                {
+                    "sku": "183791199_BD-1128330381",
+                    "skuId": "1128330381",
+                    "count": 0
+                }
+            ],
+            "itemId": "183791199",
+            "skuId": "1128330381",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dr.Biswas Good Health capsule 1 Pack (50 pcs)",
+            "nid": "196538977",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "196538977",
+                "scene_pre": "search",
+                "current_price": "240",
+                "x_sku_ids": "1142965827",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "196538977"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dr-biswas-1-50-i196538977-s1142965827.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b7d013cc397237745cea958aa6253778.jpg",
+            "originalPrice": "876.00",
+            "originalPriceShow": "৳ 876",
+            "price": "240",
+            "promotionId": "null",
+            "priceShow": "৳ 240",
+            "discount": "-73%",
+            "ratingScore": "4.45098",
+            "review": "51",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "196538977_BD-1142965827",
+            "sku": "196538977_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508547160",
+            "mainSellerId": "",
+            "sellerName": "Tamanna Mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b7d013cc397237745cea958aa6253778.jpg",
+                    "productUrl": "/products/dr-biswas-1-50-i196538977-s1142965827.html",
+                    "sku": "196538977_BD",
+                    "skuId": "1142965827"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002105
+            ],
+            "clickTrace": "query:;nid:196538977;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:196538977_BD;price:240;client:desktop;supplier_id:700508547160;asc_category_id:10002105;item_id:196538977;sku_id:1142965827;shop_id:169000",
+            "addToCartSkus": [
+                {
+                    "sku": "196538977_BD-1142965827",
+                    "skuId": "1142965827",
+                    "count": 0
+                }
+            ],
+            "itemId": "196538977",
+            "skuId": "1142965827",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dr. Biswas Good Health",
+            "nid": "187999405",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "187999405",
+                "scene_pre": "search",
+                "current_price": "415",
+                "x_sku_ids": "1135145429",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "187999405"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dr-biswas-50-i187999405-s1135145429.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/52aa0ee11ba1493234c2ac775bd3bef5.jpg",
+            "originalPrice": "1050.00",
+            "originalPriceShow": "৳ 1,050",
+            "price": "415",
+            "promotionId": "null",
+            "priceShow": "৳ 415",
+            "discount": "-60%",
+            "ratingScore": "4.92857",
+            "review": "28",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "187999405_BD-1135145429",
+            "sku": "187999405_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "2474",
+            "mainSellerId": "",
+            "sellerName": "Uncommon Product",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/52aa0ee11ba1493234c2ac775bd3bef5.jpg",
+                    "productUrl": "/products/dr-biswas-50-i187999405-s1135145429.html",
+                    "sku": "187999405_BD",
+                    "skuId": "1135145429"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002105
+            ],
+            "clickTrace": "query:;nid:187999405;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:187999405_BD;price:415;client:desktop;supplier_id:2474;asc_category_id:10002105;item_id:187999405;sku_id:1135145429;shop_id:2950",
+            "addToCartSkus": [
+                {
+                    "sku": "187999405_BD-1135145429",
+                    "skuId": "1135145429",
+                    "count": 0
+                }
+            ],
+            "itemId": "187999405",
+            "skuId": "1135145429",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dr. Biswas Good Health",
+            "nid": "212253694",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "212253694",
+                "scene_pre": "search",
+                "current_price": "389",
+                "x_sku_ids": "1161918733",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "212253694"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i212253694-s1161918733.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e309f24c5dbfbecd12fd31cc2fdf10a9.jpg",
+            "originalPrice": "680.00",
+            "originalPriceShow": "৳ 680",
+            "price": "389",
+            "promotionId": "null",
+            "priceShow": "৳ 389",
+            "discount": "-43%",
+            "ratingScore": "4.8",
+            "review": "20",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "212253694_BD-1161918733",
+            "sku": "212253694_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "2473",
+            "mainSellerId": "",
+            "sellerName": "Colors Haven",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e309f24c5dbfbecd12fd31cc2fdf10a9.jpg",
+                    "productUrl": "/products/-i212253694-s1161918733.html",
+                    "sku": "212253694_BD",
+                    "skuId": "1161918733"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002105
+            ],
+            "clickTrace": "query:;nid:212253694;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:212253694_BD;price:389;client:desktop;supplier_id:2473;asc_category_id:10002105;item_id:212253694;sku_id:1161918733;shop_id:2949",
+            "addToCartSkus": [
+                {
+                    "sku": "212253694_BD-1161918733",
+                    "skuId": "1161918733",
+                    "count": 0
+                }
+            ],
+            "itemId": "212253694",
+            "skuId": "1161918733",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dr.Biswas Good Health capsule 1 Pack (50 pcs)",
+            "nid": "197744279",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "197744279",
+                "scene_pre": "search",
+                "current_price": "192.00",
+                "x_sku_ids": "1144418735",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "197744279"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dr-biswas-1-50-i197744279-s1144418735.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ff3268e61af2dcced10be4c96bad2dbb.jpg",
+            "price": "192.00",
+            "promotionId": "null",
+            "priceShow": "৳ 192",
+            "ratingScore": "4.52778",
+            "review": "36",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "197744279_BD-1144418735",
+            "sku": "197744279_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508730180",
+            "mainSellerId": "",
+            "sellerName": "perfect finish",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ff3268e61af2dcced10be4c96bad2dbb.jpg",
+                    "productUrl": "/products/dr-biswas-1-50-i197744279-s1144418735.html",
+                    "sku": "197744279_BD",
+                    "skuId": "1144418735"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002105
+            ],
+            "clickTrace": "query:;nid:197744279;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:197744279_BD;price:192.00;client:desktop;supplier_id:700508730180;asc_category_id:10002105;item_id:197744279;sku_id:1144418735;shop_id:178935",
+            "addToCartSkus": [
+                {
+                    "sku": "197744279_BD-1144418735",
+                    "skuId": "1144418735",
+                    "count": 0
+                }
+            ],
+            "itemId": "197744279",
+            "skuId": "1144418735",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dr. Biswas Ayurvedic Good Health - 50 Capsules",
+            "nid": "217946794",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "217946794",
+                "scene_pre": "search",
+                "current_price": "250",
+                "x_sku_ids": "1165844737",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "217946794"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dr-biswas-50-i217946794-s1165844737.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5baae968a1ae247943782c066711621e.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "250",
+            "promotionId": "null",
+            "priceShow": "৳ 250",
+            "discount": "-55%",
+            "ratingScore": "4",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "217946794_BD-1165844737",
+            "sku": "217946794_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508340299",
+            "mainSellerId": "",
+            "sellerName": "BD Beauty Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5baae968a1ae247943782c066711621e.jpg",
+                    "productUrl": "/products/dr-biswas-50-i217946794-s1165844737.html",
+                    "sku": "217946794_BD",
+                    "skuId": "1165844737"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002105
+            ],
+            "clickTrace": "query:;nid:217946794;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:217946794_BD;price:250;client:desktop;supplier_id:700508340299;asc_category_id:10002105;item_id:217946794;sku_id:1165844737;shop_id:148699",
+            "addToCartSkus": [
+                {
+                    "sku": "217946794_BD-1165844737",
+                    "skuId": "1165844737",
+                    "count": 0
+                }
+            ],
+            "itemId": "217946794",
+            "skuId": "1165844737",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dr. Biswas Good Health Capsule 1 pack 50 Capsules",
+            "nid": "188040374",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "188040374",
+                "scene_pre": "search",
+                "current_price": "239",
+                "x_sku_ids": "1135200778",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "188040374"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dr-biswas-1-50-i188040374-s1135200778.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1d430bc7533e01ab0d7e8d23021232ca.jpg",
+            "originalPrice": "1250.00",
+            "originalPriceShow": "৳ 1,250",
+            "price": "239",
+            "promotionId": "null",
+            "priceShow": "৳ 239",
+            "discount": "-81%",
+            "ratingScore": "4.5",
+            "review": "10",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "188040374_BD-1135200778",
+            "sku": "188040374_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508379401",
+            "mainSellerId": "",
+            "sellerName": "NRG Collection",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1d430bc7533e01ab0d7e8d23021232ca.jpg",
+                    "productUrl": "/products/dr-biswas-1-50-i188040374-s1135200778.html",
+                    "sku": "188040374_BD",
+                    "skuId": "1135200778"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002105
+            ],
+            "clickTrace": "query:;nid:188040374;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:188040374_BD;price:239;client:desktop;supplier_id:700508379401;asc_category_id:10002105;item_id:188040374;sku_id:1135200778;shop_id:153587",
+            "addToCartSkus": [
+                {
+                    "sku": "188040374_BD-1135200778",
+                    "skuId": "1135200778",
+                    "count": 0
+                }
+            ],
+            "itemId": "188040374",
+            "skuId": "1135200778",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Regular Budgerigar Bird Seed Mix Food - 2Kg (CLEAN & Washed)",
+            "nid": "229544496",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "229544496",
+                "scene_pre": "search",
+                "current_price": "199.00",
+                "x_sku_ids": "1173135130",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "229544496"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2kg-i229544496-s1173135130.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7f0a85164ff50125131eade737bfd9c0.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "199.00",
+            "promotionId": "null",
+            "priceShow": "৳ 199",
+            "discount": "-69%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "229544496_BD-1173135130",
+            "sku": "229544496_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123651841",
+            "brandName": "Shobuj Dhaka Garden Shop",
+            "sellerId": "1018250",
+            "mainSellerId": "",
+            "sellerName": "AR Traders",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7f0a85164ff50125131eade737bfd9c0.jpg",
+                    "productUrl": "/products/2kg-i229544496-s1173135130.html",
+                    "sku": "229544496_BD",
+                    "skuId": "1173135130"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:229544496;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:229544496_BD;price:199.00;client:desktop;supplier_id:1018250;asc_category_id:10002103;item_id:229544496;sku_id:1173135130;shop_id:24435",
+            "addToCartSkus": [
+                {
+                    "sku": "229544496_BD-1173135130",
+                    "skuId": "1173135130",
+                    "count": 0
+                }
+            ],
+            "itemId": "229544496",
+            "skuId": "1173135130",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SmartHeart Rabbit Food Raspberry Flavour 1kg",
+            "nid": "183779710",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183779710",
+                "scene_pre": "search",
+                "current_price": "290",
+                "x_sku_ids": "1128326401",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "183779710"
+            },
+            "productUrl": "//www.daraz.com.bd/products/smartheart-1kg-i183779710-s1128326401.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/00406128516f915a21d0a0b921d571bb.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "290",
+            "promotionId": "null",
+            "priceShow": "৳ 290",
+            "discount": "-42%",
+            "ratingScore": "4.11111",
+            "review": "9",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183779710_BD-1128326401",
+            "sku": "183779710_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507620243",
+            "mainSellerId": "",
+            "sellerName": "AR FASHION WORLD BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/00406128516f915a21d0a0b921d571bb.jpg",
+                    "productUrl": "/products/smartheart-1kg-i183779710-s1128326401.html",
+                    "sku": "183779710_BD",
+                    "skuId": "1128326401"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:183779710;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:183779710_BD;price:290;client:desktop;supplier_id:700507620243;asc_category_id:10002103;item_id:183779710;sku_id:1128326401;shop_id:101531",
+            "addToCartSkus": [
+                {
+                    "sku": "183779710_BD-1128326401",
+                    "skuId": "1128326401",
+                    "count": 0
+                }
+            ],
+            "itemId": "183779710",
+            "skuId": "1128326401",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bird ladder fun cage toy for bird training 1Pieces",
+            "nid": "228013984",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "228013984",
+                "scene_pre": "search",
+                "current_price": "35.00",
+                "x_sku_ids": "1172006877",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "228013984"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i228013984-s1172006877.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9f573bf43118604a732ad91ef86e2ebe.jpg",
+            "originalPrice": "95.00",
+            "originalPriceShow": "৳ 95",
+            "price": "35.00",
+            "promotionId": "null",
+            "priceShow": "৳ 35",
+            "discount": "-63%",
+            "ratingScore": "4.375",
+            "review": "8",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "228013984_BD-1172006877",
+            "sku": "228013984_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123651841",
+            "brandName": "Shobuj Dhaka Garden Shop",
+            "sellerId": "1018250",
+            "mainSellerId": "",
+            "sellerName": "AR Traders",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9f573bf43118604a732ad91ef86e2ebe.jpg",
+                    "productUrl": "/products/1-i228013984-s1172006877.html",
+                    "sku": "228013984_BD",
+                    "skuId": "1172006877"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:228013984;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:228013984_BD;price:35.00;client:desktop;supplier_id:1018250;asc_category_id:10002103;item_id:228013984;sku_id:1172006877;shop_id:24435",
+            "addToCartSkus": [
+                {
+                    "sku": "228013984_BD-1172006877",
+                    "skuId": "1172006877",
+                    "count": 0
+                }
+            ],
+            "itemId": "228013984",
+            "skuId": "1172006877",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dr. Biswas Good Health Capsule, 50 Capsules",
+            "nid": "227168626",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227168626",
+                "scene_pre": "search",
+                "current_price": "199",
+                "x_sku_ids": "1171393334",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "227168626"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dr-biswas-50-i227168626-s1171393334.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4dbc9b556f52d306a2a88d75e6c1d59f.jpg",
+            "originalPrice": "205.00",
+            "originalPriceShow": "৳ 205",
+            "price": "199",
+            "promotionId": "null",
+            "priceShow": "৳ 199",
+            "discount": "-3%",
+            "ratingScore": "4.77273",
+            "review": "22",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227168626_BD-1171393334",
+            "sku": "227168626_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510083031",
+            "mainSellerId": "",
+            "sellerName": "Ayaat Corporation",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4dbc9b556f52d306a2a88d75e6c1d59f.jpg",
+                    "productUrl": "/products/dr-biswas-50-i227168626-s1171393334.html",
+                    "sku": "227168626_BD",
+                    "skuId": "1171393334"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002105
+            ],
+            "clickTrace": "query:;nid:227168626;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:227168626_BD;price:199;client:desktop;supplier_id:700510083031;asc_category_id:10002105;item_id:227168626;sku_id:1171393334;shop_id:227068",
+            "addToCartSkus": [
+                {
+                    "sku": "227168626_BD-1171393334",
+                    "skuId": "1171393334",
+                    "count": 0
+                }
+            ],
+            "itemId": "227168626",
+            "skuId": "1171393334",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Turtle Stick Food 100g",
+            "nid": "229948636",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "229948636",
+                "scene_pre": "search",
+                "current_price": "125.00",
+                "x_sku_ids": "1173455091",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "229948636"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100g-i229948636-s1173455091.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/12ebbd1e8f480d5fa1631ed0c440274f.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "125.00",
+            "promotionId": "null",
+            "priceShow": "৳ 125",
+            "discount": "-17%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "229948636_BD-1173455091",
+            "sku": "229948636_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509903194",
+            "mainSellerId": "",
+            "sellerName": "Bioline Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/12ebbd1e8f480d5fa1631ed0c440274f.jpg",
+                    "productUrl": "/products/100g-i229948636-s1173455091.html",
+                    "sku": "229948636_BD",
+                    "skuId": "1173455091"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:229948636;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:229948636_BD;price:125.00;client:desktop;supplier_id:700509903194;asc_category_id:10002103;item_id:229948636;sku_id:1173455091;shop_id:220358",
+            "addToCartSkus": [
+                {
+                    "sku": "229948636_BD-1173455091",
+                    "skuId": "1173455091",
+                    "count": 0
+                }
+            ],
+            "itemId": "229948636",
+            "skuId": "1173455091",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Helminticide-L – Deworming Tablet for Pet (1 Tablet)",
+            "nid": "163740534",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "163740534",
+                "scene_pre": "search",
+                "current_price": "59",
+                "x_sku_ids": "1096350210",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "163740534"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i163740534-s1096350210.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fd310de4e199b5fbbcbf96177c7e710a.jpg",
+            "originalPrice": "130.00",
+            "originalPriceShow": "৳ 130",
+            "price": "59",
+            "promotionId": "null",
+            "priceShow": "৳ 59",
+            "discount": "-55%",
+            "ratingScore": "5",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "163740534_BD-1096350210",
+            "sku": "163740534_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123467094",
+            "brandName": "Helminticide",
+            "sellerId": "1026389",
+            "mainSellerId": "",
+            "sellerName": "E bazaar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fd310de4e199b5fbbcbf96177c7e710a.jpg",
+                    "productUrl": "/products/1-i163740534-s1096350210.html",
+                    "sku": "163740534_BD",
+                    "skuId": "1096350210"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002105
+            ],
+            "clickTrace": "query:;nid:163740534;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:163740534_BD;price:59;client:desktop;supplier_id:1026389;asc_category_id:10002105;item_id:163740534;sku_id:1096350210;shop_id:32536",
+            "addToCartSkus": [
+                {
+                    "sku": "163740534_BD-1096350210",
+                    "skuId": "1096350210",
+                    "count": 0
+                }
+            ],
+            "itemId": "163740534",
+            "skuId": "1096350210",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Turtle Food - 100gm",
+            "nid": "133070290",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "133070290",
+                "scene_pre": "search",
+                "current_price": "90.00",
+                "x_sku_ids": "1054518939",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "133070290"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100-i133070290-s1054518939.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3aae733418841043e7b9d24e6ac253aa.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "90.00",
+            "promotionId": "null",
+            "priceShow": "৳ 90",
+            "discount": "-55%",
+            "ratingScore": "3.54545",
+            "review": "22",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "133070290_BD-1054518939",
+            "sku": "133070290_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1015678",
+            "mainSellerId": "",
+            "sellerName": "Shokher Tula 180 Tk",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3aae733418841043e7b9d24e6ac253aa.jpg",
+                    "productUrl": "/products/100-i133070290-s1054518939.html",
+                    "sku": "133070290_BD",
+                    "skuId": "1054518939"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:133070290;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:133070290_BD;price:90.00;client:desktop;supplier_id:1015678;asc_category_id:10002103;item_id:133070290;sku_id:1054518939;shop_id:21606",
+            "addToCartSkus": [
+                {
+                    "sku": "133070290_BD-1054518939",
+                    "skuId": "1054518939",
+                    "count": 0
+                }
+            ],
+            "itemId": "133070290",
+            "skuId": "1054518939",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Premium Seed mix Food for Budgerigar - 1KG",
+            "nid": "219913471",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "219913471",
+                "scene_pre": "search",
+                "current_price": "115",
+                "x_sku_ids": "1167395276",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "219913471"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1kg-i219913471-s1167395276.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d3b96137c7372dee69be092c066a4e2c.jpg",
+            "originalPrice": "399.00",
+            "originalPriceShow": "৳ 399",
+            "price": "115",
+            "promotionId": "null",
+            "priceShow": "৳ 115",
+            "discount": "-71%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "219913471_BD-1167395276",
+            "sku": "219913471_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123651841",
+            "brandName": "Shobuj Dhaka Garden Shop",
+            "sellerId": "700505118058",
+            "mainSellerId": "",
+            "sellerName": "AR Agro",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d3b96137c7372dee69be092c066a4e2c.jpg",
+                    "productUrl": "/products/1kg-i219913471-s1167395276.html",
+                    "sku": "219913471_BD",
+                    "skuId": "1167395276"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:219913471;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:219913471_BD;price:115;client:desktop;supplier_id:700505118058;asc_category_id:10002103;item_id:219913471;sku_id:1167395276;shop_id:56994",
+            "addToCartSkus": [
+                {
+                    "sku": "219913471_BD-1167395276",
+                    "skuId": "1167395276",
+                    "count": 0
+                }
+            ],
+            "itemId": "219913471",
+            "skuId": "1167395276",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Calci Boost (Birds Calcium & Mineral block) 2pc",
+            "nid": "223416962",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223416962",
+                "scene_pre": "search",
+                "current_price": "45.00",
+                "x_sku_ids": "1169473892",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "223416962"
+            },
+            "productUrl": "//www.daraz.com.bd/products/calci-2-i223416962-s1169473892.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b2b7a55fdcc0e4b001010bf4b9bce003.jpg",
+            "originalPrice": "85.00",
+            "originalPriceShow": "৳ 85",
+            "price": "45.00",
+            "promotionId": "null",
+            "priceShow": "৳ 45",
+            "discount": "-47%",
+            "ratingScore": "4.75",
+            "review": "12",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223416962_BD-1169473892",
+            "sku": "223416962_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123651841",
+            "brandName": "Shobuj Dhaka Garden Shop",
+            "sellerId": "1018250",
+            "mainSellerId": "",
+            "sellerName": "AR Traders",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b2b7a55fdcc0e4b001010bf4b9bce003.jpg",
+                    "productUrl": "/products/calci-2-i223416962-s1169473892.html",
+                    "sku": "223416962_BD",
+                    "skuId": "1169473892"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:223416962;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:223416962_BD;price:45.00;client:desktop;supplier_id:1018250;asc_category_id:10002103;item_id:223416962;sku_id:1169473892;shop_id:24435",
+            "addToCartSkus": [
+                {
+                    "sku": "223416962_BD-1169473892",
+                    "skuId": "1169473892",
+                    "count": 0
+                }
+            ],
+            "itemId": "223416962",
+            "skuId": "1169473892",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SmartHeart Rabbit Food – Raspberry (1kg)",
+            "nid": "133494722",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "133494722",
+                "scene_pre": "search",
+                "current_price": "310.00",
+                "x_sku_ids": "1055208832",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "133494722"
+            },
+            "productUrl": "//www.daraz.com.bd/products/smartheart-rabbit-food-raspberry-1kg-i133494722-s1055208832.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/7c115a984eaf00e66c97d07aae512c7d.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "310.00",
+            "promotionId": "null",
+            "priceShow": "৳ 310",
+            "discount": "-44%",
+            "ratingScore": "4.63158",
+            "review": "19",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "133494722_BD-1055208832",
+            "sku": "133494722_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1015678",
+            "mainSellerId": "",
+            "sellerName": "Shokher Tula 180 Tk",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/7c115a984eaf00e66c97d07aae512c7d.jpg",
+                    "productUrl": "/products/smartheart-rabbit-food-raspberry-1kg-i133494722-s1055208832.html",
+                    "sku": "133494722_BD",
+                    "skuId": "1055208832"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:133494722;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:133494722_BD;price:310.00;client:desktop;supplier_id:1015678;asc_category_id:10002103;item_id:133494722;sku_id:1055208832;shop_id:21606",
+            "addToCartSkus": [
+                {
+                    "sku": "133494722_BD-1055208832",
+                    "skuId": "1055208832",
+                    "count": 0
+                }
+            ],
+            "itemId": "133494722",
+            "skuId": "1055208832",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SmartHeart Rabbit Food – Veggies & Cereals (1kg)",
+            "nid": "133500432",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "133500432",
+                "scene_pre": "search",
+                "current_price": "290",
+                "x_sku_ids": "1055206958",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "133500432"
+            },
+            "productUrl": "//www.daraz.com.bd/products/smartheart-rabbit-food-veggies-cereals-1kg-i133500432-s1055206958.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/985857f09930a9c3593deb561f6f6a70.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "290",
+            "promotionId": "null",
+            "priceShow": "৳ 290",
+            "discount": "-47%",
+            "ratingScore": "4.19565",
+            "review": "46",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "133500432_BD-1055206958",
+            "sku": "133500432_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1015678",
+            "mainSellerId": "",
+            "sellerName": "Shokher Tula 180 Tk",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/985857f09930a9c3593deb561f6f6a70.jpg",
+                    "productUrl": "/products/smartheart-rabbit-food-veggies-cereals-1kg-i133500432-s1055206958.html",
+                    "sku": "133500432_BD",
+                    "skuId": "1055206958"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:133500432;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:133500432_BD;price:290;client:desktop;supplier_id:1015678;asc_category_id:10002103;item_id:133500432;sku_id:1055206958;shop_id:21606",
+            "addToCartSkus": [
+                {
+                    "sku": "133500432_BD-1055206958",
+                    "skuId": "1055206958",
+                    "count": 0
+                }
+            ],
+            "itemId": "133500432",
+            "skuId": "1055206958",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "M. K Rabbit Food",
+            "nid": "139930969",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "139930969",
+                "scene_pre": "search",
+                "current_price": "40.00",
+                "x_sku_ids": "1063248487",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "139930969"
+            },
+            "productUrl": "//www.daraz.com.bd/products/m-k-i139930969-s1063248487.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0755d6ddaae1561ff917938ca4d9da9c.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "40.00",
+            "promotionId": "null",
+            "priceShow": "৳ 40",
+            "discount": "-67%",
+            "ratingScore": "3.85714",
+            "review": "14",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "139930969_BD-1063248487",
+            "sku": "139930969_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1015678",
+            "mainSellerId": "",
+            "sellerName": "Shokher Tula 180 Tk",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0755d6ddaae1561ff917938ca4d9da9c.jpg",
+                    "productUrl": "/products/m-k-i139930969-s1063248487.html",
+                    "sku": "139930969_BD",
+                    "skuId": "1063248487"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:139930969;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:139930969_BD;price:40.00;client:desktop;supplier_id:1015678;asc_category_id:10002103;item_id:139930969;sku_id:1063248487;shop_id:21606",
+            "addToCartSkus": [
+                {
+                    "sku": "139930969_BD-1063248487",
+                    "skuId": "1063248487",
+                    "count": 0
+                }
+            ],
+            "itemId": "139930969",
+            "skuId": "1063248487",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Calci Boost (Birds Calcium & Mineral block) 2pcs",
+            "nid": "230063739",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230063739",
+                "scene_pre": "search",
+                "current_price": "32",
+                "x_sku_ids": "1173389731",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "230063739"
+            },
+            "productUrl": "//www.daraz.com.bd/products/calci-2-i230063739-s1173389731.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/177c986327d927ba950b2314efcc2ec8.png",
+            "originalPrice": "75.00",
+            "originalPriceShow": "৳ 75",
+            "price": "32",
+            "promotionId": "null",
+            "priceShow": "৳ 32",
+            "discount": "-57%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230063739_BD-1173389731",
+            "sku": "230063739_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123651841",
+            "brandName": "Shobuj Dhaka Garden Shop",
+            "sellerId": "700505118058",
+            "mainSellerId": "",
+            "sellerName": "AR Agro",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/177c986327d927ba950b2314efcc2ec8.png",
+                    "productUrl": "/products/calci-2-i230063739-s1173389731.html",
+                    "sku": "230063739_BD",
+                    "skuId": "1173389731"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:230063739;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:230063739_BD;price:32;client:desktop;supplier_id:700505118058;asc_category_id:10002103;item_id:230063739;sku_id:1173389731;shop_id:56994",
+            "addToCartSkus": [
+                {
+                    "sku": "230063739_BD-1173389731",
+                    "skuId": "1173389731",
+                    "count": 0
+                }
+            ],
+            "itemId": "230063739",
+            "skuId": "1173389731",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Green Mung bean/Green Mung Dal (For Spout) 200gm Jar",
+            "nid": "236034835",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "236034835",
+                "scene_pre": "search",
+                "current_price": "65.00",
+                "x_sku_ids": "1179355761",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "236034835"
+            },
+            "productUrl": "//www.daraz.com.bd/products/200-i236034835-s1179355761.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ce4a70bcf72b86b2d835c3d4e789bb63.jpg",
+            "price": "65.00",
+            "promotionId": "null",
+            "priceShow": "৳ 65",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "236034835_BD-1179355761",
+            "sku": "236034835_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123651841",
+            "brandName": "Shobuj Dhaka Garden Shop",
+            "sellerId": "700505118058",
+            "mainSellerId": "",
+            "sellerName": "AR Agro",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ce4a70bcf72b86b2d835c3d4e789bb63.jpg",
+                    "productUrl": "/products/200-i236034835-s1179355761.html",
+                    "sku": "236034835_BD",
+                    "skuId": "1179355761"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:236034835;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:236034835_BD;price:65.00;client:desktop;supplier_id:700505118058;asc_category_id:10002103;item_id:236034835;sku_id:1179355761;shop_id:56994",
+            "addToCartSkus": [
+                {
+                    "sku": "236034835_BD-1179355761",
+                    "skuId": "1179355761",
+                    "count": 0
+                }
+            ],
+            "itemId": "236034835",
+            "skuId": "1179355761",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Smart Heart Rabbit Food Veggies & Cereals Flavour 1kg",
+            "nid": "231230987",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "231230987",
+                "scene_pre": "search",
+                "current_price": "320.00",
+                "x_sku_ids": "1174436535",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "231230987"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1kg-i231230987-s1174436535.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d6523de0da588966d726f188a8eaf9d6.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "320.00",
+            "promotionId": "null",
+            "priceShow": "৳ 320",
+            "discount": "-20%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "231230987_BD-1174436535",
+            "sku": "231230987_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510938874",
+            "mainSellerId": "",
+            "sellerName": "SmartHeart Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d6523de0da588966d726f188a8eaf9d6.jpg",
+                    "productUrl": "/products/1kg-i231230987-s1174436535.html",
+                    "sku": "231230987_BD",
+                    "skuId": "1174436535"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:231230987;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:231230987_BD;price:320.00;client:desktop;supplier_id:700510938874;asc_category_id:10002103;item_id:231230987;sku_id:1174436535;shop_id:234826",
+            "addToCartSkus": [
+                {
+                    "sku": "231230987_BD-1174436535",
+                    "skuId": "1174436535",
+                    "count": 0
+                }
+            ],
+            "itemId": "231230987",
+            "skuId": "1174436535",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "BEAVIS EYE CARE for CAT 50ml",
+            "nid": "233469938",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233469938",
+                "scene_pre": "search",
+                "current_price": "699.00",
+                "x_sku_ids": "1176174176",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "233469938"
+            },
+            "productUrl": "//www.daraz.com.bd/products/beavis-eye-care-for-cat-50ml-i233469938-s1176174176.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e388825c0ece7e039ec12502cc33dd5d.png",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "699.00",
+            "promotionId": "null",
+            "priceShow": "৳ 699",
+            "discount": "-7%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233469938_BD-1176174176",
+            "sku": "233469938_BD",
+            "skus": [],
+            "description": [
+                "Perfect eye structure of the cats plays a major role in their ability to survive in the nature as a perfect predator. While we have a 180-degree of vision, the cats have a FOV of 200 degrees. Contrary to popular belief, the cats do not see in black and white. Although the colors are a little more pastel and pale in their eyes, this predator family having the night vision capability can see 6 times better in the dark, than we do. Having such a special talent throughout their natural life has been one of the most basic elements that facilitate their survival. It is recommended by the experts to remove the gums and stains formed due to dirt, dust and secretion piled up over time around the eyes of our lovely friends with whom we share the same universe. The eye area of our friends, who cannot call their needs and discomforts as we do, should be checked and cleaned regularly and this procedure should be repeated depending on the density and severity of the dirt. We recommend that you do this by wrapping your cat in a towel, as it may show some reaction during the procedure. During the cleaning, we recommend that you do it towards the opposite direction of the eye, by using a piece of cotton. You can use Beavis® Eye Care eye cleaning and care solution regularly, for the motivation and health of our cute friend."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510065055",
+            "mainSellerId": "",
+            "sellerName": "CTG PET CARE",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e388825c0ece7e039ec12502cc33dd5d.png",
+                    "productUrl": "/products/beavis-eye-care-for-cat-50ml-i233469938-s1176174176.html",
+                    "sku": "233469938_BD",
+                    "skuId": "1176174176"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002105
+            ],
+            "clickTrace": "query:;nid:233469938;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:233469938_BD;price:699.00;client:desktop;supplier_id:700510065055;asc_category_id:10002105;item_id:233469938;sku_id:1176174176;shop_id:225392",
+            "addToCartSkus": [
+                {
+                    "sku": "233469938_BD-1176174176",
+                    "skuId": "1176174176",
+                    "count": 0
+                }
+            ],
+            "itemId": "233469938",
+            "skuId": "1176174176",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Natural Sunflower Seeds(Bird Food) 1kg",
+            "nid": "199908487",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "199908487",
+                "scene_pre": "search",
+                "current_price": "120.00",
+                "x_sku_ids": "1147067714",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "199908487"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1kg-i199908487-s1147067714.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c78487ab53c3958e0f01f89f6efd0728.png",
+            "price": "120.00",
+            "promotionId": "null",
+            "priceShow": "৳ 120",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "199908487_BD-1147067714",
+            "sku": "199908487_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506414166",
+            "mainSellerId": "",
+            "sellerName": "KHAN AGRO MARCHANT",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c78487ab53c3958e0f01f89f6efd0728.png",
+                    "productUrl": "/products/1kg-i199908487-s1147067714.html",
+                    "sku": "199908487_BD",
+                    "skuId": "1147067714"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:199908487;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:199908487_BD;price:120.00;client:desktop;supplier_id:700506414166;asc_category_id:10002103;item_id:199908487;sku_id:1147067714;shop_id:75622",
+            "addToCartSkus": [
+                {
+                    "sku": "199908487_BD-1147067714",
+                    "skuId": "1147067714",
+                    "count": 0
+                }
+            ],
+            "itemId": "199908487",
+            "skuId": "1147067714",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dr.Biswas Good Health 1 Pack (50 pcs)",
+            "nid": "190088944",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "190088944",
+                "scene_pre": "search",
+                "current_price": "204.00",
+                "x_sku_ids": "1137545767",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "190088944"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dr-biswas-1-50-i190088944-s1137545767.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0f3d368d3e1d423efa76389937c9bfad.jpg",
+            "originalPrice": "999.00",
+            "originalPriceShow": "৳ 999",
+            "price": "204.00",
+            "promotionId": "null",
+            "priceShow": "৳ 204",
+            "discount": "-80%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "190088944_BD-1137545767",
+            "sku": "190088944_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508727239",
+            "mainSellerId": "",
+            "sellerName": "Fashion Touch BD.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0f3d368d3e1d423efa76389937c9bfad.jpg",
+                    "productUrl": "/products/dr-biswas-1-50-i190088944-s1137545767.html",
+                    "sku": "190088944_BD",
+                    "skuId": "1137545767"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002105
+            ],
+            "clickTrace": "query:;nid:190088944;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:190088944_BD;price:204.00;client:desktop;supplier_id:700508727239;asc_category_id:10002105;item_id:190088944;sku_id:1137545767;shop_id:179157",
+            "addToCartSkus": [
+                {
+                    "sku": "190088944_BD-1137545767",
+                    "skuId": "1137545767",
+                    "count": 0
+                }
+            ],
+            "itemId": "190088944",
+            "skuId": "1137545767",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Seed mix for Budgerigar - 2KG Pack (Washed & Clean)",
+            "nid": "231356738",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "231356738",
+                "scene_pre": "search",
+                "current_price": "189",
+                "x_sku_ids": "1174512644",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "231356738"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2kg-i231356738-s1174512644.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7f0a85164ff50125131eade737bfd9c0.jpg",
+            "originalPrice": "399.00",
+            "originalPriceShow": "৳ 399",
+            "price": "189",
+            "promotionId": "null",
+            "priceShow": "৳ 189",
+            "discount": "-53%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "231356738_BD-1174512644",
+            "sku": "231356738_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123651841",
+            "brandName": "Shobuj Dhaka Garden Shop",
+            "sellerId": "700505118058",
+            "mainSellerId": "",
+            "sellerName": "AR Agro",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7f0a85164ff50125131eade737bfd9c0.jpg",
+                    "productUrl": "/products/2kg-i231356738-s1174512644.html",
+                    "sku": "231356738_BD",
+                    "skuId": "1174512644"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:231356738;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:231356738_BD;price:189;client:desktop;supplier_id:700505118058;asc_category_id:10002103;item_id:231356738;sku_id:1174512644;shop_id:56994",
+            "addToCartSkus": [
+                {
+                    "sku": "231356738_BD-1174512644",
+                    "skuId": "1174512644",
+                    "count": 0
+                }
+            ],
+            "itemId": "231356738",
+            "skuId": "1174512644",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Smart Heart Rabbit Food Raspberry Flavor 1Kg",
+            "nid": "230866421",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230866421",
+                "scene_pre": "search",
+                "current_price": "320.00",
+                "x_sku_ids": "1174173267",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "230866421"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1kg-i230866421-s1174173267.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2450aacce6f40d08925ae6ab92c4a403.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "320.00",
+            "promotionId": "null",
+            "priceShow": "৳ 320",
+            "discount": "-20%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230866421_BD-1174173267",
+            "sku": "230866421_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510938874",
+            "mainSellerId": "",
+            "sellerName": "SmartHeart Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2450aacce6f40d08925ae6ab92c4a403.jpg",
+                    "productUrl": "/products/1kg-i230866421-s1174173267.html",
+                    "sku": "230866421_BD",
+                    "skuId": "1174173267"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:230866421;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:230866421_BD;price:320.00;client:desktop;supplier_id:700510938874;asc_category_id:10002103;item_id:230866421;sku_id:1174173267;shop_id:234826",
+            "addToCartSkus": [
+                {
+                    "sku": "230866421_BD-1174173267",
+                    "skuId": "1174173267",
+                    "count": 0
+                }
+            ],
+            "itemId": "230866421",
+            "skuId": "1174173267",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "quail eggs trays কোয়েল পাখির ডিম রাখার পাত্র (5 pcs)",
+            "nid": "135132400",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "135132400",
+                "scene_pre": "search",
+                "current_price": "77",
+                "x_sku_ids": "1057040742",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "135132400"
+            },
+            "productUrl": "//www.daraz.com.bd/products/quail-eggs-trays-5-pcs-i135132400-s1057040742.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/77b5eeadf85499193eb9a9a389318f97.jpg",
+            "originalPrice": "110.00",
+            "originalPriceShow": "৳ 110",
+            "price": "77",
+            "promotionId": "null",
+            "priceShow": "৳ 77",
+            "discount": "-30%",
+            "ratingScore": "4.28571",
+            "review": "28",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "135132400_BD-1057040742",
+            "sku": "135132400_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506408004",
+            "mainSellerId": "",
+            "sellerName": "Meer Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/77b5eeadf85499193eb9a9a389318f97.jpg",
+                    "productUrl": "/products/quail-eggs-trays-5-pcs-i135132400-s1057040742.html",
+                    "sku": "135132400_BD",
+                    "skuId": "1057040742"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002104
+            ],
+            "clickTrace": "query:;nid:135132400;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:135132400_BD;price:77;client:desktop;supplier_id:700506408004;asc_category_id:10002104;item_id:135132400;sku_id:1057040742;shop_id:73167",
+            "addToCartSkus": [
+                {
+                    "sku": "135132400_BD-1057040742",
+                    "skuId": "1057040742",
+                    "count": 0
+                }
+            ],
+            "itemId": "135132400",
+            "skuId": "1057040742",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Premium China Seeds 1kg (For Any Bird) Washed & Clean",
+            "nid": "230037142",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230037142",
+                "scene_pre": "search",
+                "current_price": "71",
+                "x_sku_ids": "1173408515",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "230037142"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1kg-i230037142-s1173408515.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0276dea2571ab527a0be710598a49dd8.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "71",
+            "promotionId": "null",
+            "priceShow": "৳ 71",
+            "discount": "-72%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230037142_BD-1173408515",
+            "sku": "230037142_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123651841",
+            "brandName": "Shobuj Dhaka Garden Shop",
+            "sellerId": "700505118058",
+            "mainSellerId": "",
+            "sellerName": "AR Agro",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0276dea2571ab527a0be710598a49dd8.jpg",
+                    "productUrl": "/products/1kg-i230037142-s1173408515.html",
+                    "sku": "230037142_BD",
+                    "skuId": "1173408515"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:230037142;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:230037142_BD;price:71;client:desktop;supplier_id:700505118058;asc_category_id:10002103;item_id:230037142;sku_id:1173408515;shop_id:56994",
+            "addToCartSkus": [
+                {
+                    "sku": "230037142_BD-1173408515",
+                    "skuId": "1173408515",
+                    "count": 0
+                }
+            ],
+            "itemId": "230037142",
+            "skuId": "1173408515",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SmartHeart Rabbit Food Apple Flavour - 1kg",
+            "nid": "132176756",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132176756",
+                "scene_pre": "search",
+                "current_price": "310.00",
+                "x_sku_ids": "1052976814",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "132176756"
+            },
+            "productUrl": "//www.daraz.com.bd/products/smartheart-rabbit-food-apple-flavour-1kg-i132176756-s1052976814.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/b0630c01f513c21a17e76e197146bdc7.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "310.00",
+            "promotionId": "null",
+            "priceShow": "৳ 310",
+            "discount": "-44%",
+            "ratingScore": "4.21739",
+            "review": "46",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132176756_BD-1052976814",
+            "sku": "132176756_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1015678",
+            "mainSellerId": "",
+            "sellerName": "Shokher Tula 180 Tk",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/b0630c01f513c21a17e76e197146bdc7.jpg",
+                    "productUrl": "/products/smartheart-rabbit-food-apple-flavour-1kg-i132176756-s1052976814.html",
+                    "sku": "132176756_BD",
+                    "skuId": "1052976814"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:132176756;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:132176756_BD;price:310.00;client:desktop;supplier_id:1015678;asc_category_id:10002103;item_id:132176756;sku_id:1052976814;shop_id:21606",
+            "addToCartSkus": [
+                {
+                    "sku": "132176756_BD-1052976814",
+                    "skuId": "1052976814",
+                    "count": 0
+                }
+            ],
+            "itemId": "132176756",
+            "skuId": "1052976814",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SmartHeart Rabbit Food 4kg",
+            "nid": "183785405",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183785405",
+                "scene_pre": "search",
+                "current_price": "1190.00",
+                "x_sku_ids": "1128326445",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "183785405"
+            },
+            "productUrl": "//www.daraz.com.bd/products/smartheart-4kg-i183785405-s1128326445.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/41f20d30bff73f4ceb597c248fdaa7a1.jpg",
+            "originalPrice": "2000.00",
+            "originalPriceShow": "৳ 2,000",
+            "price": "1190.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,190",
+            "discount": "-41%",
+            "ratingScore": "4.2",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183785405_BD-1128326445",
+            "sku": "183785405_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507620243",
+            "mainSellerId": "",
+            "sellerName": "AR FASHION WORLD BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/41f20d30bff73f4ceb597c248fdaa7a1.jpg",
+                    "productUrl": "/products/smartheart-4kg-i183785405-s1128326445.html",
+                    "sku": "183785405_BD",
+                    "skuId": "1128326445"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:183785405;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:183785405_BD;price:1190.00;client:desktop;supplier_id:700507620243;asc_category_id:10002103;item_id:183785405;sku_id:1128326445;shop_id:101531",
+            "addToCartSkus": [
+                {
+                    "sku": "183785405_BD-1128326445",
+                    "skuId": "1128326445",
+                    "count": 0
+                }
+            ],
+            "itemId": "183785405",
+            "skuId": "1128326445",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Regular Budgerigar Bird Seed Mix Food - 1Kg (CLEAN)",
+            "nid": "227383396",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227383396",
+                "scene_pre": "search",
+                "current_price": "120.00",
+                "x_sku_ids": "1171510899",
+                "SN": "f6ce42fd626e21c105bb3e5d509f044a",
+                "x_ad": "1",
+                "x_object_id": "227383396"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1kg-i227383396-s1171510899.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d3b96137c7372dee69be092c066a4e2c.jpg",
+            "originalPrice": "380.00",
+            "originalPriceShow": "৳ 380",
+            "price": "120.00",
+            "promotionId": "null",
+            "priceShow": "৳ 120",
+            "discount": "-68%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227383396_BD-1171510899",
+            "sku": "227383396_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123651841",
+            "brandName": "Shobuj Dhaka Garden Shop",
+            "sellerId": "1018250",
+            "mainSellerId": "",
+            "sellerName": "AR Traders",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d3b96137c7372dee69be092c066a4e2c.jpg",
+                    "productUrl": "/products/1kg-i227383396-s1171510899.html",
+                    "sku": "227383396_BD",
+                    "skuId": "1171510899"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10002048,
+                10002103
+            ],
+            "clickTrace": "query:;nid:227383396;src:LazadaMainSrp;rn:f6ce42fd626e21c105bb3e5d509f044a;region:bd;sku:227383396_BD;price:120.00;client:desktop;supplier_id:1018250;asc_category_id:10002103;item_id:227383396;sku_id:1171510899;shop_id:24435",
+            "addToCartSkus": [
+                {
+                    "sku": "227383396_BD-1171510899",
+                    "skuId": "1171510899",
+                    "count": 0
+                }
+            ],
+            "itemId": "227383396",
+            "skuId": "1171510899",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/pet-supplies-shop/",
+            "title": "Pet Supplies"
+        },
+        {
+            "url": "/small-pet/",
+            "title": "Small Pet"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/small-pet/?referer_rn=f6ce42fd626e21c105bb3e5d509f044a&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {},
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "10123 items found in {$0}",
+        "title": "Small Pet",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Small Pet"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Small Pet",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "f6ce42fd626e21c105bb3e5d509f044a",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "10002048",
+            "category": "10002048"
+        },
+        "categoryRegionalKey": "200400000000",
+        "mainCategoryRegionalKey": "200000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "ক্ষুদ্র পোষা at Best Price | 20% Off on Daraz | Buy Online",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Pet Supplies,Small Pet",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "200400000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=10002048&_p_asc_cateid=10002048",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "small-pet",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "f6ce42fd626e21c105bb3e5d509f044a",
+                "resultNr": 10123,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1099646489",
+                "1166392039",
+                "1164060396"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "10002048",
+            "category": "10002048"
+        }
+    }
+}

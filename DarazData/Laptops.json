@@ -1,0 +1,3363 @@
+{
+    "listItems": [
+        {
+            "name": "Lenovo ThinkPad X250 Core i3 pack of 3 pcs",
+            "nid": "237609052",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237609052",
+                "scene_pre": "search",
+                "current_price": "40000.00",
+                "x_sku_ids": "1180933937",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "237609052"
+            },
+            "productUrl": "//www.daraz.com.bd/products/lenovo-thinkpad-x250-i3-10-i237609052-s1180933937.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/945b7ae96b80041c6415edd40d39e9e1.jpg",
+            "price": "40000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 40,000",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237609052_BD-1180933937",
+            "sku": "237609052_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509300146",
+            "mainSellerId": "",
+            "sellerName": "New Edition",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/945b7ae96b80041c6415edd40d39e9e1.jpg",
+                    "productUrl": "/products/lenovo-thinkpad-x250-i3-10-i237609052-s1180933937.html",
+                    "sku": "237609052_BD",
+                    "skuId": "1180933937"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:237609052;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:237609052_BD;price:40000.00;client:desktop;supplier_id:700509300146;asc_category_id:58;item_id:237609052;sku_id:1180933937;shop_id:207786",
+            "addToCartSkus": [
+                {
+                    "sku": "237609052_BD-1180933937",
+                    "skuId": "1180933937",
+                    "count": 0
+                }
+            ],
+            "itemId": "237609052",
+            "skuId": "1180933937",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Asus VivoBook X515EA Intel Core i3 1115G4 4GB DDR4 Ram 512GB SSD 15.6 Inch FHD Display",
+            "nid": "189824159",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "189824159",
+                "scene_pre": "search",
+                "current_price": "50507",
+                "x_sku_ids": "1137447569",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "189824159"
+            },
+            "productUrl": "//www.daraz.com.bd/products/asus-vivobook-15-x515ea-intel-core-i3-1115g4-4gb-ddr4-ram-512gb-nvme-ssd-156-inch-fhd-display-windows-10-laptop-i189824159-s1137447569.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/61005a4973405da4edebe2ac5342a792.jpg",
+            "price": "50507",
+            "promotionId": "null",
+            "priceShow": "৳ 50,507",
+            "ratingScore": "5",
+            "review": "10",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "189824159_BD-1137447569",
+            "sku": "189824159_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "4170",
+            "brandName": "ASUS",
+            "sellerId": "1005849",
+            "mainSellerId": "",
+            "sellerName": "COMPUTER ARCHIVES",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/61005a4973405da4edebe2ac5342a792.jpg",
+                    "productUrl": "/products/asus-vivobook-15-x515ea-intel-core-i3-1115g4-4gb-ddr4-ram-512gb-nvme-ssd-156-inch-fhd-display-windows-10-laptop-i189824159-s1137447569.html",
+                    "sku": "189824159_BD",
+                    "skuId": "1137447569"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:189824159;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:189824159_BD;price:50507;client:desktop;supplier_id:1005849;asc_category_id:58;item_id:189824159;sku_id:1137447569;shop_id:12047",
+            "addToCartSkus": [
+                {
+                    "sku": "189824159_BD-1137447569",
+                    "skuId": "1137447569",
+                    "count": 0
+                }
+            ],
+            "itemId": "189824159",
+            "skuId": "1137447569",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "HP 15s-du1114TU Intel CDC N4020 15.6 Inch HD Display Black Laptop 340N4PA-2Y",
+            "nid": "211360204",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "211360204",
+                "scene_pre": "search",
+                "current_price": "33150",
+                "x_sku_ids": "1161139647",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "211360204"
+            },
+            "productUrl": "//www.daraz.com.bd/products/hp-15s-du1114tu-intel-cdc-n4020-156-inch-hd-display-black-laptop-340n4pa-2y-i211360204-s1161139647.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/65595098d16a83d78789d7ccf59c71f9.jpg",
+            "price": "33150",
+            "promotionId": "null",
+            "priceShow": "৳ 33,150",
+            "ratingScore": "4.5",
+            "review": "4",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "211360204_BD-1161139647",
+            "sku": "211360204_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "12932",
+            "brandName": "HP",
+            "sellerId": "700507764076",
+            "mainSellerId": "",
+            "sellerName": "RyansGo",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/65595098d16a83d78789d7ccf59c71f9.jpg",
+                    "productUrl": "/products/hp-15s-du1114tu-intel-cdc-n4020-156-inch-hd-display-black-laptop-340n4pa-2y-i211360204-s1161139647.html",
+                    "sku": "211360204_BD",
+                    "skuId": "1161139647"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                57
+            ],
+            "clickTrace": "query:;nid:211360204;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:211360204_BD;price:33150;client:desktop;supplier_id:700507764076;asc_category_id:57;item_id:211360204;sku_id:1161139647;shop_id:109810",
+            "addToCartSkus": [
+                {
+                    "sku": "211360204_BD-1161139647",
+                    "skuId": "1161139647",
+                    "count": 0
+                }
+            ],
+            "itemId": "211360204",
+            "skuId": "1161139647",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Chuwi HeroBook Pro+ Intel J3455 13.3 Inch 3K QHD IPS Display Win 10 Space Grey Laptop",
+            "nid": "210370836",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "210370836",
+                "scene_pre": "search",
+                "current_price": "26697",
+                "x_sku_ids": "1160442621",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "210370836"
+            },
+            "productUrl": "//www.daraz.com.bd/products/chuwi-j3455-133-3k-qhd-ips-win-10-i210370836-s1160442621.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/b1a32ea51ba242947689b11097698c66.jpg",
+            "price": "26697",
+            "promotionId": "null",
+            "priceShow": "৳ 26,697",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "210370836_BD-1160442621",
+            "sku": "210370836_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509306151",
+            "mainSellerId": "",
+            "sellerName": "ElectronicBazar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/b1a32ea51ba242947689b11097698c66.jpg",
+                    "productUrl": "/products/chuwi-j3455-133-3k-qhd-ips-win-10-i210370836-s1160442621.html",
+                    "sku": "210370836_BD",
+                    "skuId": "1160442621"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:210370836;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:210370836_BD;price:26697;client:desktop;supplier_id:700509306151;asc_category_id:58;item_id:210370836;sku_id:1160442621;shop_id:207796",
+            "addToCartSkus": [
+                {
+                    "sku": "210370836_BD-1160442621",
+                    "skuId": "1160442621",
+                    "count": 0
+                }
+            ],
+            "itemId": "210370836",
+            "skuId": "1160442621",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Chuwi HeroBook Pro Intel Celeron, 8GB RAM, 256GB SSD, 14 inch Laptop-Grey",
+            "nid": "129890799",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "129890799",
+                "scene_pre": "search",
+                "current_price": "28950",
+                "x_sku_ids": "1049690195",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "129890799"
+            },
+            "productUrl": "//www.daraz.com.bd/products/chuwi-herobook-pro-intel-celeron-8gb-ram-256gb-ssd-14-inch-laptop-grey-i129890799-s1049690195.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7e89decafa388a5f31cb548396cd2b26.jpg",
+            "price": "28950",
+            "promotionId": "null",
+            "priceShow": "৳ 28,950",
+            "ratingScore": "4.30159",
+            "review": "63",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "129890799_BD-1049690195",
+            "sku": "129890799_BD",
+            "skus": [],
+            "description": [
+                "Unsealed products are not returnable",
+                "Processor: Intel N4000 Duel Core Processor",
+                "RAM: 8GB DDR4",
+                "ROM: 256GB SSD",
+                "Graphics: UHD Graphics 600",
+                "Front Camera for Photos and Face-to-face Chat",
+                "HDMI Output Expands Your Viewing Options",
+                "WiFi2.4GHz",
+                "Operating System: Windows 10",
+                "Color: Grey"
+            ],
+            "brandId": "37021",
+            "brandName": "CHUWI",
+            "sellerId": "1008008",
+            "mainSellerId": "",
+            "sellerName": "Prudent Technologies",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7e89decafa388a5f31cb548396cd2b26.jpg",
+                    "productUrl": "/products/chuwi-herobook-pro-intel-celeron-8gb-ram-256gb-ssd-14-inch-laptop-grey-i129890799-s1049690195.html",
+                    "sku": "129890799_BD",
+                    "skuId": "1049690195"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                57
+            ],
+            "clickTrace": "query:;nid:129890799;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:129890799_BD;price:28950;client:desktop;supplier_id:1008008;asc_category_id:57;item_id:129890799;sku_id:1049690195;shop_id:14249",
+            "addToCartSkus": [
+                {
+                    "sku": "129890799_BD-1049690195",
+                    "skuId": "1049690195",
+                    "count": 0
+                }
+            ],
+            "itemId": "129890799",
+            "skuId": "1049690195",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Asus VivoBook 15 K513EA Intel Core i5 1135G7, 8GB DDR4 Ram, 512GB NVMe SSD, 15.6 Inch FHD Display Windows 10 Laptop",
+            "nid": "189654341",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "189654341",
+                "scene_pre": "search",
+                "current_price": "70874",
+                "x_sku_ids": "1137333551",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "189654341"
+            },
+            "productUrl": "//www.daraz.com.bd/products/asus-vivobook-15-k513ea-intel-core-i5-1135g7-8gb-ddr4-ram-512gb-nvme-ssd-156-inch-fhd-display-windows-10-laptop-i189654341-s1137333551.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/174ecbfa115c1a8963ff223bb076a438.jpg",
+            "price": "70874",
+            "promotionId": "null",
+            "priceShow": "৳ 70,874",
+            "ratingScore": "4.5",
+            "review": "8",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "189654341_BD-1137333551",
+            "sku": "189654341_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "4170",
+            "brandName": "ASUS",
+            "sellerId": "1005849",
+            "mainSellerId": "",
+            "sellerName": "COMPUTER ARCHIVES",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/174ecbfa115c1a8963ff223bb076a438.jpg",
+                    "productUrl": "/products/asus-vivobook-15-k513ea-intel-core-i5-1135g7-8gb-ddr4-ram-512gb-nvme-ssd-156-inch-fhd-display-windows-10-laptop-i189654341-s1137333551.html",
+                    "sku": "189654341_BD",
+                    "skuId": "1137333551"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:189654341;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:189654341_BD;price:70874;client:desktop;supplier_id:1005849;asc_category_id:58;item_id:189654341;sku_id:1137333551;shop_id:12047",
+            "addToCartSkus": [
+                {
+                    "sku": "189654341_BD-1137333551",
+                    "skuId": "1137333551",
+                    "count": 0
+                }
+            ],
+            "itemId": "189654341",
+            "skuId": "1137333551",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Walton Prelude N5000 Laptop - Quad Core 1.10GHz Processor - 4GB DDR4 RAM - 1 TB HDD - 14.0 High Definition (HD) LED Panel - Black",
+            "nid": "207184533",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "207184533",
+                "scene_pre": "search",
+                "current_price": "25873",
+                "x_sku_ids": "1156808769",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "207184533"
+            },
+            "productUrl": "//www.daraz.com.bd/products/walton-prelude-n5000-laptop-quad-core-110ghz-processor-4gb-ddr4-ram-1-tb-hdd-140-high-definition-hd-led-panel-black-i207184533-s1156808769.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/008b0cdb32d6eba73f2576ee49416b7e.jpg",
+            "price": "25873",
+            "promotionId": "null",
+            "priceShow": "৳ 25,873",
+            "ratingScore": "4.60714",
+            "review": "56",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "207184533_BD-1156808769",
+            "sku": "207184533_BD",
+            "skus": [],
+            "description": [
+                "35.56cm (14.0\") High Definition (HD) LED Panel",
+                "Intel N5000 1.10GHz Processor Quad Core, Burst Frequency 2.70GHz, 4MB Cache",
+                "1TB Hard Disk Drive (HDD), 5400 rpm, 7mm",
+                "4GB DDR4 RAM",
+                "802.11ac WLAN + BT 5.1",
+                "Color: Black"
+            ],
+            "brandId": "121088282",
+            "brandName": "Walton Computers",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/008b0cdb32d6eba73f2576ee49416b7e.jpg",
+                    "productUrl": "/products/walton-prelude-n5000-laptop-quad-core-110ghz-processor-4gb-ddr4-ram-1-tb-hdd-140-high-definition-hd-led-panel-black-i207184533-s1156808769.html",
+                    "sku": "207184533_BD",
+                    "skuId": "1156808769"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                57
+            ],
+            "clickTrace": "query:;nid:207184533;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:207184533_BD;price:25873;client:desktop;supplier_id:1000000;asc_category_id:57;item_id:207184533;sku_id:1156808769;shop_id:205785",
+            "addToCartSkus": [
+                {
+                    "sku": "207184533_BD-1156808769",
+                    "skuId": "1156808769",
+                    "count": 0
+                }
+            ],
+            "itemId": "207184533",
+            "skuId": "1156808769",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Chuwi HeroBook Pro + Intel Quad Core 8GB RAM 128GB Storage 13.3 inch Laptop-Grey",
+            "nid": "171624995",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171624995",
+                "scene_pre": "search",
+                "current_price": "26000",
+                "x_sku_ids": "1107654168",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "171624995"
+            },
+            "productUrl": "//www.daraz.com.bd/products/chuwi-herobook-pro-intel-quad-core-8gb-ram-128gb-storage-133-inch-laptop-grey-i171624995-s1107654168.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/18ac75b4a6301dad0898f21e13825c80.jpg",
+            "price": "26000",
+            "promotionId": "null",
+            "priceShow": "৳ 26,000",
+            "ratingScore": "4.41176",
+            "review": "34",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171624995_BD-1107654168",
+            "sku": "171624995_BD",
+            "skus": [],
+            "description": [
+                "Brand : Chuwi",
+                "Model : HeroBook Pro+",
+                "Country of Origin : China",
+                "Color : Space gray",
+                "Display : Chipset/",
+                "Motherboard : SOC /Integrated with Processor",
+                "Processor : Intel Celeron Quad-Core (CQC), 4-cores 4-threads, 1.5 GHz Up to 2.3GHz Turbo)",
+                "Graphics : IntelÂ® HD Graphics 500 , 250-750MHz",
+                "Memory/RAM : 8GBDDR4",
+                "Storage : 128 GB EMMC SSD",
+                "M.2 SSD : Supported(expansion up to 1TB)",
+                "External memory : 128 GB SD card expandability",
+                "Audio : Yes with Built-in Four speakers Speaker,Dual microphone",
+                "USB 3.0 x 2,1 Mini HDMI, 3.5mm Audio Jack, Micro SD",
+                "WiFi : Dual-frequency wireless internet, stable fast connection, 2.4G/5G Dual-frequency",
+                "Bluetooth : Yes, 5.0",
+                "Additional Features : HD 500 Hard Decoding 4K",
+                "Camera : 0.3MP",
+                "keyboard : Chiclet Keyboard",
+                "Pointing Device Type : Touchpad",
+                "Battery Capacity : 38Wh , 8 hours ( * Battery life varies significantly with settings, usage, & other factors)",
+                "Body Material : Polycarbonate Light And Durable",
+                "Dimension : 330 x 220.8 x 18.5mm",
+                "Product Weight : 1.16Kg ,Polycarbonate Light And Durable",
+                "OS : Pre-loaded Win 10 Home Genuine",
+                "Warranty : 1 year( Battery and adapter 6 months)."
+            ],
+            "brandId": "37021",
+            "brandName": "CHUWI",
+            "sellerId": "1008008",
+            "mainSellerId": "",
+            "sellerName": "Prudent Technologies",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/18ac75b4a6301dad0898f21e13825c80.jpg",
+                    "productUrl": "/products/chuwi-herobook-pro-intel-quad-core-8gb-ram-128gb-storage-133-inch-laptop-grey-i171624995-s1107654168.html",
+                    "sku": "171624995_BD",
+                    "skuId": "1107654168"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                57
+            ],
+            "clickTrace": "query:;nid:171624995;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:171624995_BD;price:26000;client:desktop;supplier_id:1008008;asc_category_id:57;item_id:171624995;sku_id:1107654168;shop_id:14249",
+            "addToCartSkus": [
+                {
+                    "sku": "171624995_BD-1107654168",
+                    "skuId": "1107654168",
+                    "count": 0
+                }
+            ],
+            "itemId": "171624995",
+            "skuId": "1107654168",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "HP 15s-du3786TU Intel Core i3 1115G4 15.6 Inch Silver Laptop",
+            "nid": "204525914",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "204525914",
+                "scene_pre": "search",
+                "current_price": "49800.00",
+                "x_sku_ids": "1152572736",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "204525914"
+            },
+            "productUrl": "//www.daraz.com.bd/products/hp-15s-du3786tu-11th-gen-intel-core-i3-1115g4-156-inch-silver-laptop-4d4u3pa-2y-i204525914-s1152572736.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/11dd080dde45ccab7b6c139e0a5050b5.jpg",
+            "price": "49800.00",
+            "promotionId": "null",
+            "priceShow": "৳ 49,800",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "204525914_BD-1152572736",
+            "sku": "204525914_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "12932",
+            "brandName": "HP",
+            "sellerId": "700507764076",
+            "mainSellerId": "",
+            "sellerName": "RyansGo",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/11dd080dde45ccab7b6c139e0a5050b5.jpg",
+                    "productUrl": "/products/hp-15s-du3786tu-11th-gen-intel-core-i3-1115g4-156-inch-silver-laptop-4d4u3pa-2y-i204525914-s1152572736.html",
+                    "sku": "204525914_BD",
+                    "skuId": "1152572736"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:204525914;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:204525914_BD;price:49800.00;client:desktop;supplier_id:700507764076;asc_category_id:58;item_id:204525914;sku_id:1152572736;shop_id:109810",
+            "addToCartSkus": [
+                {
+                    "sku": "204525914_BD-1152572736",
+                    "skuId": "1152572736",
+                    "count": 0
+                }
+            ],
+            "itemId": "204525914",
+            "skuId": "1152572736",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Acer Aspire 3 A315-58 Core i5 11th Gen 15.6\" FHD Laptop",
+            "nid": "226064048",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226064048",
+                "scene_pre": "search",
+                "current_price": "55090",
+                "x_sku_ids": "1170815439",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "226064048"
+            },
+            "productUrl": "//www.daraz.com.bd/products/acer-3-a315-58-i5-11th-gen-156-fhd-i226064048-s1170815439.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/974b888d271637e2adde05b7812f3bb3.jpg",
+            "originalPrice": "57800.00",
+            "originalPriceShow": "৳ 57,800",
+            "price": "55090",
+            "promotionId": "null",
+            "priceShow": "৳ 55,090",
+            "discount": "-5%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226064048_BD-1170815439",
+            "sku": "226064048_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "4173",
+            "brandName": "Acer",
+            "sellerId": "3",
+            "mainSellerId": "",
+            "sellerName": "Star Tech & Engineering Ltd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/974b888d271637e2adde05b7812f3bb3.jpg",
+                    "productUrl": "/products/acer-3-a315-58-i5-11th-gen-156-fhd-i226064048-s1170815439.html",
+                    "sku": "226064048_BD",
+                    "skuId": "1170815439"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                60
+            ],
+            "clickTrace": "query:;nid:226064048;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:226064048_BD;price:55090;client:desktop;supplier_id:3;asc_category_id:60;item_id:226064048;sku_id:1170815439;shop_id:156",
+            "addToCartSkus": [
+                {
+                    "sku": "226064048_BD-1170815439",
+                    "skuId": "1170815439",
+                    "count": 0
+                }
+            ],
+            "itemId": "226064048",
+            "skuId": "1170815439",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "MSI GF65 Thin 10UE Intel Core I5 10500H 16GB Ram 512GB NVMe PCIe Gen3x4 SSD RTX3060 15.6 Inch FHD 144Hz Laptop",
+            "nid": "226241288",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226241288",
+                "scene_pre": "search",
+                "current_price": "65300.00",
+                "x_sku_ids": "1170882991",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "226241288"
+            },
+            "productUrl": "//www.daraz.com.bd/products/msi-gf65-10ue-i5-10500h-16gb-ram-512gb-nvme-pcie-gen3x4-ssd-rtx3060-156-fhd-144hz-i226241288-s1170882991.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2fc40b12ca822d270f996e351a0989cc.jpg",
+            "price": "65300.00",
+            "promotionId": "null",
+            "priceShow": "৳ 65,300",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226241288_BD-1170882991",
+            "sku": "226241288_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1005155",
+            "mainSellerId": "",
+            "sellerName": "Smart Importer BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2fc40b12ca822d270f996e351a0989cc.jpg",
+                    "productUrl": "/products/msi-gf65-10ue-i5-10500h-16gb-ram-512gb-nvme-pcie-gen3x4-ssd-rtx3060-156-fhd-144hz-i226241288-s1170882991.html",
+                    "sku": "226241288_BD",
+                    "skuId": "1170882991"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:226241288;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:226241288_BD;price:65300.00;client:desktop;supplier_id:1005155;asc_category_id:58;item_id:226241288;sku_id:1170882991;shop_id:11344",
+            "addToCartSkus": [
+                {
+                    "sku": "226241288_BD-1170882991",
+                    "skuId": "1170882991",
+                    "count": 0
+                }
+            ],
+            "itemId": "226241288",
+            "skuId": "1170882991",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Huawei Matebook D15 15.6 Inch 11th Gen Intel Core i5-1135G7 8 GB LPDDR4 512 GB NVMe PCle SSD Intel Iris Xe Graphics.",
+            "nid": "231788147",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "231788147",
+                "scene_pre": "search",
+                "current_price": "71585",
+                "x_sku_ids": "1174894381",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "231788147"
+            },
+            "productUrl": "//www.daraz.com.bd/products/huawei-matebook-d15-156-inch-11th-gen-intel-core-i5-1135g7-8-gb-lpddr4-512-gb-nvme-pcle-ssd-intel-iris-xe-graphics-i231788147-s1174894381.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ab3e1988001d1c1f4fa7a415560b93e6.jpg",
+            "price": "71585",
+            "promotionId": "null",
+            "priceShow": "৳ 71,585",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "231788147_BD-1174894381",
+            "sku": "231788147_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "12947",
+            "brandName": "Huawei",
+            "sellerId": "700509306053",
+            "mainSellerId": "",
+            "sellerName": "Huawei_Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ab3e1988001d1c1f4fa7a415560b93e6.jpg",
+                    "productUrl": "/products/huawei-matebook-d15-156-inch-11th-gen-intel-core-i5-1135g7-8-gb-lpddr4-512-gb-nvme-pcle-ssd-intel-iris-xe-graphics-i231788147-s1174894381.html",
+                    "sku": "231788147_BD",
+                    "skuId": "1174894381"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                57
+            ],
+            "clickTrace": "query:;nid:231788147;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:231788147_BD;price:71585;client:desktop;supplier_id:700509306053;asc_category_id:57;item_id:231788147;sku_id:1174894381;shop_id:205932",
+            "addToCartSkus": [
+                {
+                    "sku": "231788147_BD-1174894381",
+                    "skuId": "1174894381",
+                    "count": 0
+                }
+            ],
+            "itemId": "231788147",
+            "skuId": "1174894381",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "DGEL NoteBook Intel Quad Core, 8GB RAM, 256GB SSD, 14 inch Laptop - Silver",
+            "nid": "222433776",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "222433776",
+                "scene_pre": "search",
+                "current_price": "50050.00",
+                "x_sku_ids": "1168817725",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "222433776"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dgel-intel-quad-core-8gb-ram-256gb-ssd-14-i222433776-s1168817725.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d5c5a2bc8bd833751d48699bcc14662c.jpg",
+            "price": "50050.00",
+            "promotionId": "null",
+            "priceShow": "৳ 50,050",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "222433776_BD-1168817725",
+            "sku": "222433776_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508388476",
+            "mainSellerId": "",
+            "sellerName": "RADA LIBRARY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d5c5a2bc8bd833751d48699bcc14662c.jpg",
+                    "productUrl": "/products/dgel-intel-quad-core-8gb-ram-256gb-ssd-14-i222433776-s1168817725.html",
+                    "sku": "222433776_BD",
+                    "skuId": "1168817725"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:222433776;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:222433776_BD;price:50050.00;client:desktop;supplier_id:700508388476;asc_category_id:58;item_id:222433776;sku_id:1168817725;shop_id:157630",
+            "addToCartSkus": [
+                {
+                    "sku": "222433776_BD-1168817725",
+                    "skuId": "1168817725",
+                    "count": 0
+                }
+            ],
+            "itemId": "222433776",
+            "skuId": "1168817725",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Acer Extension 15 ex215",
+            "nid": "209748458",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209748458",
+                "scene_pre": "search",
+                "current_price": "84800.00",
+                "x_sku_ids": "1160044344",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "209748458"
+            },
+            "productUrl": "//www.daraz.com.bd/products/acer-15-ex215-i209748458-s1160044344.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/fac0f646cb3f1c8df57413e4570cf062.jpg",
+            "price": "84800.00",
+            "promotionId": "null",
+            "priceShow": "৳ 84,800",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209748458_BD-1160044344",
+            "sku": "209748458_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "4173",
+            "brandName": "Acer",
+            "sellerId": "700509315042",
+            "mainSellerId": "",
+            "sellerName": "Edaza Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/fac0f646cb3f1c8df57413e4570cf062.jpg",
+                    "productUrl": "/products/acer-15-ex215-i209748458-s1160044344.html",
+                    "sku": "209748458_BD",
+                    "skuId": "1160044344"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:209748458;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:209748458_BD;price:84800.00;client:desktop;supplier_id:700509315042;asc_category_id:58;item_id:209748458;sku_id:1160044344;shop_id:205900",
+            "addToCartSkus": [
+                {
+                    "sku": "209748458_BD-1160044344",
+                    "skuId": "1160044344",
+                    "count": 0
+                }
+            ],
+            "itemId": "209748458",
+            "skuId": "1160044344",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Gamming laptop special parts by Khaleda IT",
+            "nid": "238020525",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "238020525",
+                "scene_pre": "search",
+                "current_price": "500.00",
+                "x_sku_ids": "1181550346",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "238020525"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i238020525-s1181550346.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/44b9834ab1b30b3075359c94474e7002.jpg",
+            "price": "500.00",
+            "promotionId": "null",
+            "priceShow": "৳ 500",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "238020525_BD-1181550346",
+            "sku": "238020525_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509456095",
+            "mainSellerId": "",
+            "sellerName": "Khaleda IT",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/44b9834ab1b30b3075359c94474e7002.jpg",
+                    "productUrl": "/products/-i238020525-s1181550346.html",
+                    "sku": "238020525_BD",
+                    "skuId": "1181550346"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:238020525;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:238020525_BD;price:500.00;client:desktop;supplier_id:700509456095;asc_category_id:58;item_id:238020525;sku_id:1181550346;shop_id:213311",
+            "addToCartSkus": [
+                {
+                    "sku": "238020525_BD-1181550346",
+                    "skuId": "1181550346",
+                    "count": 0
+                }
+            ],
+            "itemId": "238020525",
+            "skuId": "1181550346",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "DGEL NoteBook Intel Quad Core, 8GB RAM, 256GB SSD, 14 inch Laptop - Silver",
+            "nid": "222445237",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "222445237",
+                "scene_pre": "search",
+                "current_price": "40034.00",
+                "x_sku_ids": "1168818516",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "222445237"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dgel-intel-quad-core-8gb-ram-256gb-ssd-14-i222445237-s1168818516.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d5c5a2bc8bd833751d48699bcc14662c.jpg",
+            "price": "40034.00",
+            "promotionId": "null",
+            "priceShow": "৳ 40,034",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "222445237_BD-1168818516",
+            "sku": "222445237_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "6185",
+            "mainSellerId": "",
+            "sellerName": "Ideal Product",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d5c5a2bc8bd833751d48699bcc14662c.jpg",
+                    "productUrl": "/products/dgel-intel-quad-core-8gb-ram-256gb-ssd-14-i222445237-s1168818516.html",
+                    "sku": "222445237_BD",
+                    "skuId": "1168818516"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:222445237;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:222445237_BD;price:40034.00;client:desktop;supplier_id:6185;asc_category_id:58;item_id:222445237;sku_id:1168818516;shop_id:6308",
+            "addToCartSkus": [
+                {
+                    "sku": "222445237_BD-1168818516",
+                    "skuId": "1168818516",
+                    "count": 0
+                }
+            ],
+            "itemId": "222445237",
+            "skuId": "1168818516",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Gaming Mouse TJ-9",
+            "nid": "233873044",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233873044",
+                "scene_pre": "search",
+                "current_price": "720.00",
+                "x_sku_ids": "1176660245",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "233873044"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tj-9-i233873044-s1176660245.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/90d3f5d0484443799d9eb3868f60f97b.jpg",
+            "price": "720.00",
+            "promotionId": "null",
+            "priceShow": "৳ 720",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233873044_BD-1176660245",
+            "sku": "233873044_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508826595",
+            "mainSellerId": "",
+            "sellerName": "AK-Collection",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/90d3f5d0484443799d9eb3868f60f97b.jpg",
+                    "productUrl": "/products/tj-9-i233873044-s1176660245.html",
+                    "sku": "233873044_BD",
+                    "skuId": "1176660245"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:233873044;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:233873044_BD;price:720.00;client:desktop;supplier_id:700508826595;asc_category_id:58;item_id:233873044;sku_id:1176660245;shop_id:192671",
+            "addToCartSkus": [
+                {
+                    "sku": "233873044_BD-1176660245",
+                    "skuId": "1176660245",
+                    "count": 0
+                }
+            ],
+            "itemId": "233873044",
+            "skuId": "1176660245",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Redmi Book Pro 14\" R5 5500U 16GB DDR4 512GB FHD + 2560 x 1600 Wi-Fi 6 - Grey",
+            "nid": "235511299",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "235511299",
+                "scene_pre": "search",
+                "current_price": "69990.00",
+                "x_sku_ids": "1178773653",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "235511299"
+            },
+            "productUrl": "//www.daraz.com.bd/products/redmi-book-pro-1redmi-book-pro-14-r5-5500u-16gb-ddr4-512gb-fhd-2560-x-1600-wi-fi-6-grey4-r5-5500u-16gb-ddr4-512gb-fhd-2560-x-1600-wifi-6-grey-i235511299-s1178773653.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/63b6e5a593c0403eb5d7daf9ea3821f4.png",
+            "price": "69990.00",
+            "promotionId": "null",
+            "priceShow": "৳ 69,990",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "235511299_BD-1178773653",
+            "sku": "235511299_BD",
+            "skus": [],
+            "description": [
+                "Screen Size:14 Inch (16 : 10)",
+                "Screen Resolution:2560 &times; 1600",
+                "Operating System: Windows 10 Home (Chinese Language)",
+                "CPU: AMD Ryzen&trade; 5 5500U Hexa-Core, 2.1GHz~4.0GHz",
+                "Three-level cache:8MB",
+                "GPU: MD Radeon&trade; Graphics",
+                "RAM:16GB DDR4, 3200MHz",
+                "SSD:512GB PCIe SSD"
+            ],
+            "brandId": "12960",
+            "brandName": "Xiaomi",
+            "sellerId": "5406",
+            "mainSellerId": "",
+            "sellerName": "Smart Gadget Home",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/63b6e5a593c0403eb5d7daf9ea3821f4.png",
+                    "productUrl": "/products/redmi-book-pro-1redmi-book-pro-14-r5-5500u-16gb-ddr4-512gb-fhd-2560-x-1600-wi-fi-6-grey4-r5-5500u-16gb-ddr4-512gb-fhd-2560-x-1600-wifi-6-grey-i235511299-s1178773653.html",
+                    "sku": "235511299_BD",
+                    "skuId": "1178773653"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                57
+            ],
+            "clickTrace": "query:;nid:235511299;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:235511299_BD;price:69990.00;client:desktop;supplier_id:5406;asc_category_id:57;item_id:235511299;sku_id:1178773653;shop_id:5411",
+            "addToCartSkus": [
+                {
+                    "sku": "235511299_BD-1178773653",
+                    "skuId": "1178773653",
+                    "count": 0
+                }
+            ],
+            "itemId": "235511299",
+            "skuId": "1178773653",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Laptop TAMARIND ZX3701 pcs",
+            "nid": "211693397",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "211693397",
+                "scene_pre": "search",
+                "current_price": "25000.00",
+                "x_sku_ids": "1161480906",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "211693397"
+            },
+            "productUrl": "//www.daraz.com.bd/products/zx3701-3-i211693397-s1161480906.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c82fde635bfc31306b9b71a5331a8413.jpg",
+            "price": "25000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 25,000",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "211693397_BD-1161480906",
+            "sku": "211693397_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1029290",
+            "mainSellerId": "",
+            "sellerName": "S.S Electronics (MYM)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c82fde635bfc31306b9b71a5331a8413.jpg",
+                    "productUrl": "/products/zx3701-3-i211693397-s1161480906.html",
+                    "sku": "211693397_BD",
+                    "skuId": "1161480906"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                57
+            ],
+            "clickTrace": "query:;nid:211693397;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:211693397_BD;price:25000.00;client:desktop;supplier_id:1029290;asc_category_id:57;item_id:211693397;sku_id:1161480906;shop_id:35371",
+            "addToCartSkus": [
+                {
+                    "sku": "211693397_BD-1161480906",
+                    "skuId": "1161480906",
+                    "count": 0
+                }
+            ],
+            "itemId": "211693397",
+            "skuId": "1161480906",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "AVITA Essential NE14A2MYC431-MW 14-inch Laptop (Celeron N4000/4GB/128GB SSD/Window 10 Home in S Mode/Integrated Graphics), Matt White",
+            "nid": "209153695",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209153695",
+                "scene_pre": "search",
+                "current_price": "23768",
+                "x_sku_ids": "1159370550",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "209153695"
+            },
+            "productUrl": "//www.daraz.com.bd/products/avita-ne14a2myc431-mw-14-n40004gb128gb-ssd-10-i209153695-s1159370550.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/33df08178931998574852e0bcd0a2d0e.jpg",
+            "price": "23768",
+            "promotionId": "null",
+            "priceShow": "৳ 23,768",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209153695_BD-1159370550",
+            "sku": "209153695_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508790908",
+            "mainSellerId": "",
+            "sellerName": "AS Enterprise (RAJ)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/33df08178931998574852e0bcd0a2d0e.jpg",
+                    "productUrl": "/products/avita-ne14a2myc431-mw-14-n40004gb128gb-ssd-10-i209153695-s1159370550.html",
+                    "sku": "209153695_BD",
+                    "skuId": "1159370550"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:209153695;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:209153695_BD;price:23768;client:desktop;supplier_id:700508790908;asc_category_id:58;item_id:209153695;sku_id:1159370550;shop_id:187564",
+            "addToCartSkus": [
+                {
+                    "sku": "209153695_BD-1159370550",
+                    "skuId": "1159370550",
+                    "count": 0
+                }
+            ],
+            "itemId": "209153695",
+            "skuId": "1159370550",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Lenovo IdeaPad Slim 3i 15ITL Intel Core i3 1005G1 15.6 Inch FHD Display Platinum Grey Laptop 81WE01P2IN-2Y",
+            "nid": "237875362",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237875362",
+                "scene_pre": "search",
+                "current_price": "44000.00",
+                "x_sku_ids": "1181268715",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "237875362"
+            },
+            "productUrl": "//www.daraz.com.bd/products/lenovo-ideapad-slim-3i-15itl-intel-core-i3-1005g1-156-inch-fhd-display-platinum-grey-laptop-81we01p2in-2y-i237875362-s1181268715.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/dbb0d85f2415f8f5f9403431a64939d4.png",
+            "originalPrice": "47200.00",
+            "originalPriceShow": "৳ 47,200",
+            "price": "44000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 44,000",
+            "discount": "-7%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237875362_BD-1181268715",
+            "sku": "237875362_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "12949",
+            "brandName": "Lenovo",
+            "sellerId": "700507764076",
+            "mainSellerId": "",
+            "sellerName": "RyansGo",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/dbb0d85f2415f8f5f9403431a64939d4.png",
+                    "productUrl": "/products/lenovo-ideapad-slim-3i-15itl-intel-core-i3-1005g1-156-inch-fhd-display-platinum-grey-laptop-81we01p2in-2y-i237875362-s1181268715.html",
+                    "sku": "237875362_BD",
+                    "skuId": "1181268715"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                57
+            ],
+            "clickTrace": "query:;nid:237875362;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:237875362_BD;price:44000.00;client:desktop;supplier_id:700507764076;asc_category_id:57;item_id:237875362;sku_id:1181268715;shop_id:109810",
+            "addToCartSkus": [
+                {
+                    "sku": "237875362_BD-1181268715",
+                    "skuId": "1181268715",
+                    "count": 0
+                }
+            ],
+            "itemId": "237875362",
+            "skuId": "1181268715",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Acer Gaming Aspire 7 A715-42G-R0DS Ryzen 5 5500U GTX1650 4GB Graphics 15.6\" FHD Laptop",
+            "nid": "195483897",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "195483897",
+                "scene_pre": "search",
+                "current_price": "80000.00",
+                "x_sku_ids": "1141777426",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "195483897"
+            },
+            "productUrl": "//www.daraz.com.bd/products/acer-7-a715-42g-r0ds-5-5500u-gtx1650-4gb-156-fhd-i195483897-s1141777426.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e5aa464b82b6fdda8aa1a6b8de60e5d6.jpg",
+            "originalPrice": "82000.00",
+            "originalPriceShow": "৳ 82,000",
+            "price": "80000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 80,000",
+            "discount": "-2%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "195483897_BD-1141777426",
+            "sku": "195483897_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "4173",
+            "brandName": "Acer",
+            "sellerId": "3",
+            "mainSellerId": "",
+            "sellerName": "Star Tech & Engineering Ltd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e5aa464b82b6fdda8aa1a6b8de60e5d6.jpg",
+                    "productUrl": "/products/acer-7-a715-42g-r0ds-5-5500u-gtx1650-4gb-156-fhd-i195483897-s1141777426.html",
+                    "sku": "195483897_BD",
+                    "skuId": "1141777426"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:195483897;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:195483897_BD;price:80000.00;client:desktop;supplier_id:3;asc_category_id:58;item_id:195483897;sku_id:1141777426;shop_id:156",
+            "addToCartSkus": [
+                {
+                    "sku": "195483897_BD-1141777426",
+                    "skuId": "1141777426",
+                    "count": 0
+                }
+            ],
+            "itemId": "195483897",
+            "skuId": "1141777426",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Chuwi Hi10 Air Atom X5 10.1'' WUXGA Laptop with Windows 10",
+            "nid": "172062549",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "172062549",
+                "scene_pre": "search",
+                "current_price": "50050.00",
+                "x_sku_ids": "1108256388",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "172062549"
+            },
+            "productUrl": "//www.daraz.com.bd/products/10-chuwi-hi10-x5-101-wuxga-i172062549-s1108256388.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/465ffe0e976232d1c194eb950cef5ffd.jpg",
+            "price": "50050.00",
+            "promotionId": "null",
+            "priceShow": "৳ 50,050",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "172062549_BD-1108256388",
+            "sku": "172062549_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507779285",
+            "mainSellerId": "",
+            "sellerName": "IDEAL CORPORATION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/465ffe0e976232d1c194eb950cef5ffd.jpg",
+                    "productUrl": "/products/10-chuwi-hi10-x5-101-wuxga-i172062549-s1108256388.html",
+                    "sku": "172062549_BD",
+                    "skuId": "1108256388"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:172062549;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:172062549_BD;price:50050.00;client:desktop;supplier_id:700507779285;asc_category_id:58;item_id:172062549;sku_id:1108256388;shop_id:112427",
+            "addToCartSkus": [
+                {
+                    "sku": "172062549_BD-1108256388",
+                    "skuId": "1108256388",
+                    "count": 0
+                }
+            ],
+            "itemId": "172062549",
+            "skuId": "1108256388",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Gigabyte Aorus 5MB i5-10200H 2.4 to 4.1GHz (4C, 8T) 10th Gen, 8GB RAM, 512GB PCIe, 4GB GDDR6 1650Ti Graphics, 15.6 Inch 144Hz FHD LED Display Gaming Laptop",
+            "nid": "156368922",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "156368922",
+                "scene_pre": "search",
+                "current_price": "88000.00",
+                "x_sku_ids": "1085904662",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "156368922"
+            },
+            "productUrl": "//www.daraz.com.bd/products/gigabyte-aorus-5mb-i5-10200h-24-to-41ghz-4c-8t-10th-gen-8gb-ram-512gb-pcie-4gb-gddr6-1650ti-graphics-156-inch-144hz-fhd-led-display-gaming-laptop-i156368922-s1085904662.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/4de3df1076749c30b9ea0ad3decb2233.jpg",
+            "price": "88000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 88,000",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "156368922_BD-1085904662",
+            "sku": "156368922_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "24738",
+            "brandName": "Gigabyte",
+            "sellerId": "1043982",
+            "mainSellerId": "",
+            "sellerName": "JANANI COMPUTERS (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/4de3df1076749c30b9ea0ad3decb2233.jpg",
+                    "productUrl": "/products/gigabyte-aorus-5mb-i5-10200h-24-to-41ghz-4c-8t-10th-gen-8gb-ram-512gb-pcie-4gb-gddr6-1650ti-graphics-156-inch-144hz-fhd-led-display-gaming-laptop-i156368922-s1085904662.html",
+                    "sku": "156368922_BD",
+                    "skuId": "1085904662"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:156368922;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:156368922_BD;price:88000.00;client:desktop;supplier_id:1043982;asc_category_id:58;item_id:156368922;sku_id:1085904662;shop_id:49625",
+            "addToCartSkus": [
+                {
+                    "sku": "156368922_BD-1085904662",
+                    "skuId": "1085904662",
+                    "count": 0
+                }
+            ],
+            "itemId": "156368922",
+            "skuId": "1085904662",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Asus TUF A15 FA506I-15.6” FHD 144Hz Gaming Laptop Ryzen 7-4800H 8GB,512GB SSD GTX1660Ti 6GB W10- Asus Tuf Gaming Bag Free",
+            "nid": "163528447",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "163528447",
+                "scene_pre": "search",
+                "current_price": "140000.00",
+                "x_sku_ids": "1096102765",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "163528447"
+            },
+            "productUrl": "//www.daraz.com.bd/products/asus-tuf-a15-fa506i-156-fhd-144hz-gaming-laptop-ryzen-7-4800h-8gb512gb-ssd-gtx1660ti-6gb-w10-asus-tuf-gaming-bag-free-i163528447-s1096102765.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/193f1676f687f49b4b40e28f2caf8953.jpg",
+            "price": "140000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 140,000",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "163528447_BD-1096102765",
+            "sku": "163528447_BD",
+            "skus": [],
+            "description": [
+                "AMD Ryzen&trade; 7 4800H Processor",
+                "8GB DDR4 3200Mhz Ram",
+                "512GB PCIE NVME SSD",
+                "15.6&Prime; (16:9) LED-backlit FHD (1920&times;1080) 144Hz Anti-Glare IPS-level Panel with 45% NTSC",
+                "NVIDIA&reg; GeForce&reg; GTX 1660Ti GDDR6 6GB",
+                "Windows 10 Home",
+                "2 Years Asus Global Warranty"
+            ],
+            "brandId": "4170",
+            "brandName": "ASUS",
+            "sellerId": "1031041",
+            "mainSellerId": "",
+            "sellerName": "Best Buy Gift Card",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/193f1676f687f49b4b40e28f2caf8953.jpg",
+                    "productUrl": "/products/asus-tuf-a15-fa506i-156-fhd-144hz-gaming-laptop-ryzen-7-4800h-8gb512gb-ssd-gtx1660ti-6gb-w10-asus-tuf-gaming-bag-free-i163528447-s1096102765.html",
+                    "sku": "163528447_BD",
+                    "skuId": "1096102765"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:163528447;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:163528447_BD;price:140000.00;client:desktop;supplier_id:1031041;asc_category_id:58;item_id:163528447;sku_id:1096102765;shop_id:37064",
+            "addToCartSkus": [
+                {
+                    "sku": "163528447_BD-1096102765",
+                    "skuId": "1096102765",
+                    "count": 0
+                }
+            ],
+            "itemId": "163528447",
+            "skuId": "1096102765",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "HP Pavilion 14-ec0234AU Ryzen 5 5500U 8GB Ram 512GB SSD Backlit Finger Print 14\" FHD display 03 Year Warranty win 11 Home Laptop",
+            "nid": "230818593",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230818593",
+                "scene_pre": "search",
+                "current_price": "65000.00",
+                "x_sku_ids": "1174154240",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "230818593"
+            },
+            "productUrl": "//www.daraz.com.bd/products/hp-pavilion-14-ec0234au-5-5500u-8gb-ram-512gb-ssd-14-fhd-03-win-11-i230818593-s1174154240.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5be9e078d7d8abe9d1511af6f407b4bb.jpg",
+            "price": "65000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 65,000",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230818593_BD-1174154240",
+            "sku": "230818593_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "12932",
+            "brandName": "HP",
+            "sellerId": "1005849",
+            "mainSellerId": "",
+            "sellerName": "COMPUTER ARCHIVES",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5be9e078d7d8abe9d1511af6f407b4bb.jpg",
+                    "productUrl": "/products/hp-pavilion-14-ec0234au-5-5500u-8gb-ram-512gb-ssd-14-fhd-03-win-11-i230818593-s1174154240.html",
+                    "sku": "230818593_BD",
+                    "skuId": "1174154240"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:230818593;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:230818593_BD;price:65000.00;client:desktop;supplier_id:1005849;asc_category_id:58;item_id:230818593;sku_id:1174154240;shop_id:12047",
+            "addToCartSkus": [
+                {
+                    "sku": "230818593_BD-1174154240",
+                    "skuId": "1174154240",
+                    "count": 0
+                }
+            ],
+            "itemId": "230818593",
+            "skuId": "1174154240",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "15 3511 Core i5 11th Gen 512GB SSD MX350 2GB Graphics 15.6\" FHD Gaming Laptop",
+            "nid": "237903135",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237903135",
+                "scene_pre": "search",
+                "current_price": "66500.00",
+                "x_sku_ids": "1181308796",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "237903135"
+            },
+            "productUrl": "//www.daraz.com.bd/products/15-3511-i5-11th-gen-512gb-ssd-mx350-2gb-156-fhd-i237903135-s1181308796.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3072d1d1e3da8a882cc00fced65de5eb.jpg",
+            "originalPrice": "83000.00",
+            "originalPriceShow": "৳ 83,000",
+            "price": "66500.00",
+            "promotionId": "null",
+            "priceShow": "৳ 66,500",
+            "discount": "-20%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237903135_BD-1181308796",
+            "sku": "237903135_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508202165",
+            "mainSellerId": "",
+            "sellerName": "Trend Gadget BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3072d1d1e3da8a882cc00fced65de5eb.jpg",
+                    "productUrl": "/products/15-3511-i5-11th-gen-512gb-ssd-mx350-2gb-156-fhd-i237903135-s1181308796.html",
+                    "sku": "237903135_BD",
+                    "skuId": "1181308796"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:237903135;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:237903135_BD;price:66500.00;client:desktop;supplier_id:700508202165;asc_category_id:58;item_id:237903135;sku_id:1181308796;shop_id:134919",
+            "addToCartSkus": [
+                {
+                    "sku": "237903135_BD-1181308796",
+                    "skuId": "1181308796",
+                    "count": 0
+                }
+            ],
+            "itemId": "237903135",
+            "skuId": "1181308796",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "PASSION gaming laptop BP5800 Intel Core  i5 8250U 1.60GHz up to 3.40GHz",
+            "nid": "210166881",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "210166881",
+                "scene_pre": "search",
+                "current_price": "100100.00",
+                "x_sku_ids": "1160290289",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "210166881"
+            },
+            "productUrl": "//www.daraz.com.bd/products/chuwi-hero-book-14-laptop-with-4gb-ram-128gb-ssd-64gb-emmc-storage-with-win-10-grey-i210166881-s1160290289.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/42e5b27e367a4ec544cac727ad530d69.jpg",
+            "price": "100100.00",
+            "promotionId": "null",
+            "priceShow": "৳ 100,100",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "210166881_BD-1160290289",
+            "sku": "210166881_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5283",
+            "mainSellerId": "",
+            "sellerName": "BOOK-BAZAR",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/42e5b27e367a4ec544cac727ad530d69.jpg",
+                    "productUrl": "/products/chuwi-hero-book-14-laptop-with-4gb-ram-128gb-ssd-64gb-emmc-storage-with-win-10-grey-i210166881-s1160290289.html",
+                    "sku": "210166881_BD",
+                    "skuId": "1160290289"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:210166881;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:210166881_BD;price:100100.00;client:desktop;supplier_id:5283;asc_category_id:58;item_id:210166881;sku_id:1160290289;shop_id:5291",
+            "addToCartSkus": [
+                {
+                    "sku": "210166881_BD-1160290289",
+                    "skuId": "1160290289",
+                    "count": 0
+                }
+            ],
+            "itemId": "210166881",
+            "skuId": "1160290289",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Asus VivoBook 15 OLED K513EA Intel Core i5 1135G7, 8GB DDR4 Ram, 512GB NVMe SSD, 15.6 Inch FHD Display Windows 10 Laptop",
+            "nid": "238035813",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "238035813",
+                "scene_pre": "search",
+                "current_price": "76530.00",
+                "x_sku_ids": "1182561677",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "238035813"
+            },
+            "productUrl": "//www.daraz.com.bd/products/asus-vivobook-15-oled-k513ea-intel-core-i5-1135g7-8gb-ddr4-ram-512gb-nvme-ssd-156-fhd-10-i238035813-s1182561677.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/632d52ff89cf0cf75595a8c9364160ec.jpg",
+            "originalPrice": "83000.00",
+            "originalPriceShow": "৳ 83,000",
+            "price": "76530.00",
+            "promotionId": "null",
+            "priceShow": "৳ 76,530",
+            "discount": "-8%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "238035813_BD-1182561677",
+            "sku": "238035813_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "4170",
+            "brandName": "ASUS",
+            "sellerId": "1005849",
+            "mainSellerId": "",
+            "sellerName": "COMPUTER ARCHIVES",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/632d52ff89cf0cf75595a8c9364160ec.jpg",
+                    "productUrl": "/products/asus-vivobook-15-oled-k513ea-intel-core-i5-1135g7-8gb-ddr4-ram-512gb-nvme-ssd-156-fhd-10-i238035813-s1182561677.html",
+                    "sku": "238035813_BD",
+                    "skuId": "1182561677"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:238035813;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:238035813_BD;price:76530.00;client:desktop;supplier_id:1005849;asc_category_id:58;item_id:238035813;sku_id:1182561677;shop_id:12047",
+            "addToCartSkus": [
+                {
+                    "sku": "238035813_BD-1182561677",
+                    "skuId": "1182561677",
+                    "count": 0
+                }
+            ],
+            "itemId": "238035813",
+            "skuId": "1182561677",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Asus TUF Gaming A15 FA506IC Ryzen 5 4600H RTX 3050 4GB Graphics 15.6\" FHD Gaming Laptop",
+            "nid": "236289583",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "236289583",
+                "scene_pre": "search",
+                "current_price": "91000.00",
+                "x_sku_ids": "1179587745",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "236289583"
+            },
+            "productUrl": "//www.daraz.com.bd/products/asus-tuf-a15-fa506ic-5-4600h-rtx-3050-4gb-156-fhd-i236289583-s1179587745.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/781a7bc22fb465b7597b7406ebe98461.jpg",
+            "originalPrice": "93000.00",
+            "originalPriceShow": "৳ 93,000",
+            "price": "91000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 91,000",
+            "discount": "-2%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "236289583_BD-1179587745",
+            "sku": "236289583_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "4170",
+            "brandName": "ASUS",
+            "sellerId": "3",
+            "mainSellerId": "",
+            "sellerName": "Star Tech & Engineering Ltd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/781a7bc22fb465b7597b7406ebe98461.jpg",
+                    "productUrl": "/products/asus-tuf-a15-fa506ic-5-4600h-rtx-3050-4gb-156-fhd-i236289583-s1179587745.html",
+                    "sku": "236289583_BD",
+                    "skuId": "1179587745"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:236289583;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:236289583_BD;price:91000.00;client:desktop;supplier_id:3;asc_category_id:58;item_id:236289583;sku_id:1179587745;shop_id:156",
+            "addToCartSkus": [
+                {
+                    "sku": "236289583_BD-1179587745",
+                    "skuId": "1179587745",
+                    "count": 0
+                }
+            ],
+            "itemId": "236289583",
+            "skuId": "1179587745",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Asus VivoBook 15 X515FA Core i3 10th Gen 15.6\" FHD Laptop",
+            "nid": "236249791",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "236249791",
+                "scene_pre": "search",
+                "current_price": "43000.00",
+                "x_sku_ids": "1179563517",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "236249791"
+            },
+            "productUrl": "//www.daraz.com.bd/products/asus-15-x515fa-i3-10th-gen-156-fhd-i236249791-s1179563517.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1b5c245473308065c751e9e68edfa5d8.jpg",
+            "originalPrice": "45000.00",
+            "originalPriceShow": "৳ 45,000",
+            "price": "43000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 43,000",
+            "discount": "-4%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "236249791_BD-1179563517",
+            "sku": "236249791_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "4170",
+            "brandName": "ASUS",
+            "sellerId": "3",
+            "mainSellerId": "",
+            "sellerName": "Star Tech & Engineering Ltd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1b5c245473308065c751e9e68edfa5d8.jpg",
+                    "productUrl": "/products/asus-15-x515fa-i3-10th-gen-156-fhd-i236249791-s1179563517.html",
+                    "sku": "236249791_BD",
+                    "skuId": "1179563517"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                57
+            ],
+            "clickTrace": "query:;nid:236249791;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:236249791_BD;price:43000.00;client:desktop;supplier_id:3;asc_category_id:57;item_id:236249791;sku_id:1179563517;shop_id:156",
+            "addToCartSkus": [
+                {
+                    "sku": "236249791_BD-1179563517",
+                    "skuId": "1179563517",
+                    "count": 0
+                }
+            ],
+            "itemId": "236249791",
+            "skuId": "1179563517",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Karonda- Intel core i7-6700HQ 2.6 GHz (6MB Smart Cache) - 8 GB DDR4 RAM - 2 GB DDR 5 NVIDIA® GeForce GTX 960M (N16E-GR) - (15.6 ) FHD matte IPS LED backlit display",
+            "nid": "172062558",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "172062558",
+                "scene_pre": "search",
+                "current_price": "69349",
+                "x_sku_ids": "1108260279",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "172062558"
+            },
+            "productUrl": "//www.daraz.com.bd/products/karonda-intel-core-i7-6700hq-26-ghz-6mb-smart-cache-8-gb-ddr4-ram-2-gb-ddr-5-nvidia-geforce-gtx-960m-n16e-gr-156-fhd-matte-ips-led-backlit-display-i172062558-s1108260279.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5082ee494675023eb6a68b64843749ad.png",
+            "originalPrice": "100000.00",
+            "originalPriceShow": "৳ 100,000",
+            "price": "69349",
+            "promotionId": "null",
+            "priceShow": "৳ 69,349",
+            "discount": "-31%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "172062558_BD-1108260279",
+            "sku": "172062558_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507779285",
+            "mainSellerId": "",
+            "sellerName": "IDEAL CORPORATION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5082ee494675023eb6a68b64843749ad.png",
+                    "productUrl": "/products/karonda-intel-core-i7-6700hq-26-ghz-6mb-smart-cache-8-gb-ddr4-ram-2-gb-ddr-5-nvidia-geforce-gtx-960m-n16e-gr-156-fhd-matte-ips-led-backlit-display-i172062558-s1108260279.html",
+                    "sku": "172062558_BD",
+                    "skuId": "1108260279"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:172062558;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:172062558_BD;price:69349;client:desktop;supplier_id:700507779285;asc_category_id:58;item_id:172062558;sku_id:1108260279;shop_id:112427",
+            "addToCartSkus": [
+                {
+                    "sku": "172062558_BD-1108260279",
+                    "skuId": "1108260279",
+                    "count": 0
+                }
+            ],
+            "itemId": "172062558",
+            "skuId": "1108260279",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Asus ROG Strix G15 G513IE Ryzen 7 4800H RTX 3050Ti 4GB Graphics 15.6\" FHD Gaming Laptop",
+            "nid": "236287511",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "236287511",
+                "scene_pre": "search",
+                "current_price": "112000.00",
+                "x_sku_ids": "1179595206",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "236287511"
+            },
+            "productUrl": "//www.daraz.com.bd/products/asus-rog-g15-g513ie-7-4800h-rtx-3050ti-4gb-156-fhd-i236287511-s1179595206.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/03dcbafe2b905e9808c87716c2e9d498.jpg",
+            "originalPrice": "115000.00",
+            "originalPriceShow": "৳ 115,000",
+            "price": "112000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 112,000",
+            "discount": "-3%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "236287511_BD-1179595206",
+            "sku": "236287511_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "4170",
+            "brandName": "ASUS",
+            "sellerId": "3",
+            "mainSellerId": "",
+            "sellerName": "Star Tech & Engineering Ltd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/03dcbafe2b905e9808c87716c2e9d498.jpg",
+                    "productUrl": "/products/asus-rog-g15-g513ie-7-4800h-rtx-3050ti-4gb-156-fhd-i236287511-s1179595206.html",
+                    "sku": "236287511_BD",
+                    "skuId": "1179595206"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                57
+            ],
+            "clickTrace": "query:;nid:236287511;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:236287511_BD;price:112000.00;client:desktop;supplier_id:3;asc_category_id:57;item_id:236287511;sku_id:1179595206;shop_id:156",
+            "addToCartSkus": [
+                {
+                    "sku": "236287511_BD-1179595206",
+                    "skuId": "1179595206",
+                    "count": 0
+                }
+            ],
+            "itemId": "236287511",
+            "skuId": "1179595206",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "LENOVO IdeaPad D330 Intel Celeron N4020 Detachable 2 in 1 Laptop",
+            "nid": "229538902",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "229538902",
+                "scene_pre": "search",
+                "current_price": "37500.00",
+                "x_sku_ids": "1173120238",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "229538902"
+            },
+            "productUrl": "//www.daraz.com.bd/products/lenovo-ideapad-d330-n4020-2-1-i229538902-s1173120238.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ae276c984e8fe1ac44b26ad43f532fc7.jpg",
+            "originalPrice": "42000.00",
+            "originalPriceShow": "৳ 42,000",
+            "price": "37500.00",
+            "promotionId": "null",
+            "priceShow": "৳ 37,500",
+            "discount": "-11%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "229538902_BD-1173120238",
+            "sku": "229538902_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "12949",
+            "brandName": "Lenovo",
+            "sellerId": "5918",
+            "mainSellerId": "",
+            "sellerName": "System Zone (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ae276c984e8fe1ac44b26ad43f532fc7.jpg",
+                    "productUrl": "/products/lenovo-ideapad-d330-n4020-2-1-i229538902-s1173120238.html",
+                    "sku": "229538902_BD",
+                    "skuId": "1173120238"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                57
+            ],
+            "clickTrace": "query:;nid:229538902;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:229538902_BD;price:37500.00;client:desktop;supplier_id:5918;asc_category_id:57;item_id:229538902;sku_id:1173120238;shop_id:6539",
+            "addToCartSkus": [
+                {
+                    "sku": "229538902_BD-1173120238",
+                    "skuId": "1173120238",
+                    "count": 0
+                }
+            ],
+            "itemId": "229538902",
+            "skuId": "1173120238",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "I Life Zed Air X Intel Celeron Processor, 4GB RAM, 120GB SSD, 13.3 inch Laptop",
+            "nid": "126732913",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "126732913",
+                "scene_pre": "search",
+                "current_price": "25025.00",
+                "x_sku_ids": "1046792463",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "126732913"
+            },
+            "productUrl": "//www.daraz.com.bd/products/i-life-zed-air-x-intel-celeron-processor-4gb-ram-120gb-ssd-133-inch-laptop-i126732913-s1046792463.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8f397e07953ee4b00e4c825ca62beab1.png",
+            "originalPrice": "27000.00",
+            "originalPriceShow": "৳ 27,000",
+            "price": "25025.00",
+            "promotionId": "null",
+            "priceShow": "৳ 25,025",
+            "discount": "-7%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "126732913_BD-1046792463",
+            "sku": "126732913_BD",
+            "skus": [],
+            "description": [
+                "Processor: Intel Celeron up to 2.4GHz",
+                "RAM: 4GB LPDDR3",
+                "Hard Disk: 120GB SSD",
+                "Weight: 1.35Kg",
+                "Operating System: Genuine Windows 10 Home",
+                "Color: Black",
+                "Ports: Mini HDMI, USB, Audio,Micro SD etc."
+            ],
+            "brandId": "154011",
+            "brandName": "I-Life",
+            "sellerId": "1021459",
+            "mainSellerId": "",
+            "sellerName": "Black Moon (MYM)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8f397e07953ee4b00e4c825ca62beab1.png",
+                    "productUrl": "/products/i-life-zed-air-x-intel-celeron-processor-4gb-ram-120gb-ssd-133-inch-laptop-i126732913-s1046792463.html",
+                    "sku": "126732913_BD",
+                    "skuId": "1046792463"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                57
+            ],
+            "clickTrace": "query:;nid:126732913;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:126732913_BD;price:25025.00;client:desktop;supplier_id:1021459;asc_category_id:57;item_id:126732913;sku_id:1046792463;shop_id:27685",
+            "addToCartSkus": [
+                {
+                    "sku": "126732913_BD-1046792463",
+                    "skuId": "1046792463",
+                    "count": 0
+                }
+            ],
+            "itemId": "126732913",
+            "skuId": "1046792463",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dell Inspiron 15 3505, AMD Ryzen7 3700U 8GB Ram 512 SSD 15.6\" FHD Display Win 10",
+            "nid": "235495109",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "235495109",
+                "scene_pre": "search",
+                "current_price": "63900.00",
+                "x_sku_ids": "1178732667",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "235495109"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dell-inspiron-15-3505-amd-ryzen7-3700u-8gb-ram-512-ssd-156-fhd-display-win-10-i235495109-s1178732667.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/dd16b0b5682ddd01d31cf39eb2d7ede4.jpg",
+            "originalPrice": "69500.00",
+            "originalPriceShow": "৳ 69,500",
+            "price": "63900.00",
+            "promotionId": "null",
+            "priceShow": "৳ 63,900",
+            "discount": "-8%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "235495109_BD-1178732667",
+            "sku": "235495109_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "24597",
+            "brandName": "Dell",
+            "sellerId": "700509204025",
+            "mainSellerId": "",
+            "sellerName": "DELL Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/dd16b0b5682ddd01d31cf39eb2d7ede4.jpg",
+                    "productUrl": "/products/dell-inspiron-15-3505-amd-ryzen7-3700u-8gb-ram-512-ssd-156-fhd-display-win-10-i235495109-s1178732667.html",
+                    "sku": "235495109_BD",
+                    "skuId": "1178732667"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ca03c607bb696e1b613ba127d451d8e4.jpg",
+                    "productUrl": "/products/dell-inspiron-15-3505-amd-ryzen7-3700u-8gb-ram-512-ssd-156-fhd-display-win-10-i235495109-s1178732668.html",
+                    "sku": "235495109_BD",
+                    "skuId": "1178732668"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2a7f51125a316c4eaea08833d4ac2c77.jpg",
+                    "productUrl": "/products/dell-inspiron-15-3505-amd-ryzen7-3700u-8gb-ram-512-ssd-156-fhd-display-win-10-i235495109-s1178732669.html",
+                    "sku": "235495109_BD",
+                    "skuId": "1178732669"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                57
+            ],
+            "clickTrace": "query:;nid:235495109;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:235495109_BD;price:63900.00;client:desktop;supplier_id:700509204025;asc_category_id:57;item_id:235495109;sku_id:1178732667;shop_id:204726",
+            "addToCartSkus": [
+                {
+                    "sku": "235495109_BD-1178732667",
+                    "skuId": "1178732667",
+                    "count": 0
+                }
+            ],
+            "itemId": "235495109",
+            "skuId": "1178732667",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "ASUS TUF Gaming A15 FA506Q-Gaming Laptop Ryzen 7-5800H 16GB 512GB SSD RTX3060 FHD 15.6” 144Hz",
+            "nid": "183414558",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183414558",
+                "scene_pre": "search",
+                "current_price": "145900.00",
+                "x_sku_ids": "1127744180",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "183414558"
+            },
+            "productUrl": "//www.daraz.com.bd/products/asus-tuf-a15-fa506q-gaming-7-5800h-16gb-512gb-ssd-rtx3060-fhd-156-144hz-i183414558-s1127744180.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/72b588bd015c84dfbf4ddec71c46c519.jpg",
+            "price": "145900.00",
+            "promotionId": "null",
+            "priceShow": "৳ 145,900",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183414558_BD-1127744180",
+            "sku": "183414558_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "4170",
+            "brandName": "ASUS",
+            "sellerId": "1023171",
+            "mainSellerId": "",
+            "sellerName": "MC Solution BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/72b588bd015c84dfbf4ddec71c46c519.jpg",
+                    "productUrl": "/products/asus-tuf-a15-fa506q-gaming-7-5800h-16gb-512gb-ssd-rtx3060-fhd-156-144hz-i183414558-s1127744180.html",
+                    "sku": "183414558_BD",
+                    "skuId": "1127744180"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:183414558;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:183414558_BD;price:145900.00;client:desktop;supplier_id:1023171;asc_category_id:58;item_id:183414558;sku_id:1127744180;shop_id:29371",
+            "addToCartSkus": [
+                {
+                    "sku": "183414558_BD-1127744180",
+                    "skuId": "1127744180",
+                    "count": 0
+                }
+            ],
+            "itemId": "183414558",
+            "skuId": "1127744180",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "HP Pavilion 15-eh1890AU AMD Ryzen 5 5500U 8GB Ram 512GB SSD 15.6 Inch FHD Display Silver Laptop #552K6PA-3Year Warranty",
+            "nid": "222739415",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "222739415",
+                "scene_pre": "search",
+                "current_price": "65500.00",
+                "x_sku_ids": "1169046527",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "222739415"
+            },
+            "productUrl": "//www.daraz.com.bd/products/hp-pavilion-15-eh1890au-amd-ryzen-5-5500u-8gb-ram-512gb-ssd-156-fhd-552k6pa-3-i222739415-s1169046527.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3621049d92e12b27375add26dc76df92.jpg",
+            "price": "65500.00",
+            "promotionId": "null",
+            "priceShow": "৳ 65,500",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "222739415_BD-1169046527",
+            "sku": "222739415_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "12932",
+            "brandName": "HP",
+            "sellerId": "1005849",
+            "mainSellerId": "",
+            "sellerName": "COMPUTER ARCHIVES",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3621049d92e12b27375add26dc76df92.jpg",
+                    "productUrl": "/products/hp-pavilion-15-eh1890au-amd-ryzen-5-5500u-8gb-ram-512gb-ssd-156-fhd-552k6pa-3-i222739415-s1169046527.html",
+                    "sku": "222739415_BD",
+                    "skuId": "1169046527"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:222739415;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:222739415_BD;price:65500.00;client:desktop;supplier_id:1005849;asc_category_id:58;item_id:222739415;sku_id:1169046527;shop_id:12047",
+            "addToCartSkus": [
+                {
+                    "sku": "222739415_BD-1169046527",
+                    "skuId": "1169046527",
+                    "count": 0
+                }
+            ],
+            "itemId": "222739415",
+            "skuId": "1169046527",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Asus VivoBook 15 X515FA Core i3 10th Gen 4GB Ram 1TB HDD 15.6\" FHD Display Win 11 Laptop",
+            "nid": "232020200",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "232020200",
+                "scene_pre": "search",
+                "current_price": "43500.00",
+                "x_sku_ids": "1175021936",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "232020200"
+            },
+            "productUrl": "//www.daraz.com.bd/products/asus-15-x515fa-i3-10th-gen-4gb-ram-1tb-hdd-156-fhd-win-11-i232020200-s1175021936.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a992d76183d725a588baad9112b22a71.jpg",
+            "price": "43500.00",
+            "promotionId": "null",
+            "priceShow": "৳ 43,500",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "232020200_BD-1175021936",
+            "sku": "232020200_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "4170",
+            "brandName": "ASUS",
+            "sellerId": "1005849",
+            "mainSellerId": "",
+            "sellerName": "COMPUTER ARCHIVES",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a992d76183d725a588baad9112b22a71.jpg",
+                    "productUrl": "/products/asus-15-x515fa-i3-10th-gen-4gb-ram-1tb-hdd-156-fhd-win-11-i232020200-s1175021936.html",
+                    "sku": "232020200_BD",
+                    "skuId": "1175021936"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                57
+            ],
+            "clickTrace": "query:;nid:232020200;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:232020200_BD;price:43500.00;client:desktop;supplier_id:1005849;asc_category_id:57;item_id:232020200;sku_id:1175021936;shop_id:12047",
+            "addToCartSkus": [
+                {
+                    "sku": "232020200_BD-1175021936",
+                    "skuId": "1175021936",
+                    "count": 0
+                }
+            ],
+            "itemId": "232020200",
+            "skuId": "1175021936",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Asus Vivobook X515JA Core i5 10Th gen 8GB Ram 512GB SSD 15.6inch FHD Display win 11 Laptop",
+            "nid": "232009629",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "232009629",
+                "scene_pre": "search",
+                "current_price": "60000.00",
+                "x_sku_ids": "1175051005",
+                "SN": "86b05056245845637ffc35039dcd7a16",
+                "x_ad": "1",
+                "x_object_id": "232009629"
+            },
+            "productUrl": "//www.daraz.com.bd/products/asus-vivobook-x515ja-core-i5-10th-gen-8gb-ram-512gb-ssd-156-fhd-win-11-i232009629-s1175051005.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/43c805ef6edb1970beca6633d29c7e7c.jpg",
+            "price": "60000.00",
+            "promotionId": "null",
+            "priceShow": "৳ 60,000",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "232009629_BD-1175051005",
+            "sku": "232009629_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "4170",
+            "brandName": "ASUS",
+            "sellerId": "1005849",
+            "mainSellerId": "",
+            "sellerName": "COMPUTER ARCHIVES",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/43c805ef6edb1970beca6633d29c7e7c.jpg",
+                    "productUrl": "/products/asus-vivobook-x515ja-core-i5-10th-gen-8gb-ram-512gb-ssd-156-fhd-win-11-i232009629-s1175051005.html",
+                    "sku": "232009629_BD",
+                    "skuId": "1175051005"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                54,
+                55,
+                58
+            ],
+            "clickTrace": "query:;nid:232009629;src:LazadaMainSrp;rn:86b05056245845637ffc35039dcd7a16;region:bd;sku:232009629_BD;price:60000.00;client:desktop;supplier_id:1005849;asc_category_id:58;item_id:232009629;sku_id:1175051005;shop_id:12047",
+            "addToCartSkus": [
+                {
+                    "sku": "232009629_BD-1175051005",
+                    "skuId": "1175051005",
+                    "count": 0
+                }
+            ],
+            "itemId": "232009629",
+            "skuId": "1175051005",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/computing/",
+            "title": "Computers & Laptops"
+        },
+        {
+            "url": "/laptops/",
+            "title": "Laptops"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/laptops/?referer_rn=86b05056245845637ffc35039dcd7a16&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Ch2%3EGet%20the%20Latest%20Laptops%20at%20Best%20Price%20(Updated%20Latest%20Price%20List%20January%202022)%3C%2Fh2%3E%0A%0A%3Cp%3EThe%20base%20price%20for%20a%20latest%20laptop%20at%20Daraz%20Bangladesh%20is%20Tk.%2016%2C500%20and%20the%20highest%20price%20is%20Tk.%20331%2C250.%3C%2Fp%3E%0A%0A%3Ch3%3EAvail%20Best%20Laptop%20Price%20in%20BD%20at%20Daraz%20Bangladesh%20(With%20Brand%20Warranty)%3C%2Fh3%3E%0A%0A%3Cp%3EOnline%20Laptop%20Shopping%20in%20Bangladesh%20has%20never%20been%20easier%20before%20Daraz.com.bd.%20Shoppers%20can%20now%20Buy%20Low%20Price%20Laptop%20in%20Bangladesh%20based%20on%20their%20budget%20needs.%20Not%20only%20that%2C%20we%20are%20offering%20market%20competitive%20discounts%20on%20Core%20i3%20Laptop%2C%20Core%20i5%20Laptop%20and%20Core%20i7%20Laptop%20price%20in%20bangladesh%202022.%20So%20why%20visit%20a%20local%20store%20when%20you%20can%20Buy%20Best%20Laptop%20in%20Bangladesh%20with%20home%20delivery%2C%20brand%20warranty%20and%20No%20cost%20EMI%20Installment%20for%20Laptop%20in%20Bangladesh%20from%20top%20brands.%20Daraz%20offers%20its%20customers%20with%20best%20price%20of%20Mini%20Laptop%20and%20All%20new%20Laptop%20at%20Low%20Price%20in%20Bangladesh%20from%20verified%20sellers%20across%20country.%20Order%20Online%20and%20get%20home-delivery%20of%20New%20Laptops%20in%20Bangladesh%20across%20country.%26nbsp%3BFor%20best%20discounts%2C%20visit%20daraz%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Fmobile-week%2F%22%3Emobile%20week%20sale%202022%3C%2Fa%3E%20now.%3Cbr%20%2F%3E%0A%3Cstrong%3ELaptops%20by%20Utility%3A%3C%2Fstrong%3E%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Fmacbooks%2F%22%3EMacbook%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Fultrabooks%2F%22%3EUltrabook%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Fgaming-laptops%2F%22%3EGaming%20laptop%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2F2in1-laptops%2F%22%3E2-in-1%20Laptop%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ftraditional-laptops%2F%22%3ETraditional%20Laptop%3C%2Fa%3E%3C%2Fp%3E%0A%0A%3Cstyle%3E%0A%09%2F*%20info%20(hed%2C%20dek%2C%20source%2C%20credit)%20*%2F%0A.rg-container%20%7B%0A%20%20font-family%3A%20%27Lato%27%2C%20Helvetica%2C%20Arial%2C%20sans-serif%3B%0A%20%20font-size%3A%2016px%3B%0A%20%20line-height%3A%201.4%3B%0A%20%20margin%3A%200%3B%0A%20%20padding%3A%201em%200.5em%3B%0A%20%20color%3A%20%23222%3B%0A%7D%0A.rg-header%20%7B%0A%20%20margin-bottom%3A%201em%3B%0A%20%20text-align%3A%20left%3B%0A%7D%0A%0A.rg-header%20%3E%20*%20%7B%0A%20%20display%3A%20block%3B%0A%7D%0A.rg-hed%20%7B%0A%20%20font-weight%3A%20bold%3B%0A%20%20font-size%3A%201.4em%3B%0A%7D%0A.rg-dek%20%7B%0A%20%20font-size%3A%201em%3B%0A%7D%0A%0A.rg-source%20%7B%0A%20%20margin%3A%200%3B%0A%20%20font-size%3A%200.75em%3B%0A%20%20text-align%3A%20right%3B%0A%7D%0A.rg-source%20.pre-colon%20%7B%0A%20%20text-transform%3A%20uppercase%3B%0A%7D%0A%0A.rg-source%20.post-colon%20%7B%0A%20%20font-weight%3A%20bold%3B%0A%7D%0A%0A%2F*%20table%20*%2F%0Atable.rg-table%20%7B%0A%20%20width%3A%20100%25%3B%0A%20%20margin-bottom%3A%200.5em%3B%0A%20%20font-size%3A%201em%3B%0A%20%20border-collapse%3A%20collapse%3B%0A%20%20border-spacing%3A%200%3B%0A%7D%0Atable.rg-table%20tr%20%7B%0A%20%20-moz-box-sizing%3A%20border-box%3B%0A%20%20box-sizing%3A%20border-box%3B%0A%20%20margin%3A%200%3B%0A%20%20padding%3A%200%3B%0A%20%20border%3A%200%3B%0A%20%20font-size%3A%20100%25%3B%0A%20%20font%3A%20inherit%3B%0A%20%20vertical-align%3A%20baseline%3B%0A%20%20text-align%3A%20left%3B%0A%20%20color%3A%20%23333%3B%0A%7D%0Atable.rg-table%20thead%20%7B%0A%20%20border-bottom%3A%203px%20solid%20%23ddd%3B%0A%7D%0Atable.rg-table%20tr%20%7B%0A%20%20border-bottom%3A%201px%20solid%20%23ddd%3B%0A%20%20color%3A%20%23222%3B%0A%7D%0Atable.rg-table%20tr.highlight%20%7B%0A%20%20background-color%3A%20%23dcf1f0%20!important%3B%0A%7D%0Atable.rg-table.zebra%20tr%3Anth-child(even)%20%7B%0A%20%20background-color%3A%20%23f6f6f6%3B%0A%7D%0Atable.rg-table%20th%20%7B%0A%20%20font-weight%3A%20bold%3B%0A%20%20padding%3A%200.35em%3B%0A%20%20font-size%3A%200.9em%3B%0A%7D%0Atable.rg-table%20td%20%7B%0A%20%20padding%3A%200.35em%3B%0A%20%20font-size%3A%200.9em%3B%0A%7D%0Atable.rg-table%20.highlight%20td%20%7B%0A%20%20font-weight%3A%20bold%3B%0A%7D%0Atable.rg-table%20th.number%2C%0Atd.number%20%7B%0A%20%20text-align%3A%20right%3B%0A%7D%0A%0A%2F*%20media%20queries%20*%2F%0A%40media%20screen%20and%20(max-width%3A%20600px)%20%7B%0A%20%20.rg-container%20%7B%0A%20%20%20%20max-width%3A%20600px%3B%0A%20%20%20%20margin%3A%200%20auto%3B%0A%20%20%7D%0A%20%20table.rg-table%20%7B%0A%20%20%20%20width%3A%20100%25%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr.hide-mobile%2C%0A%20%20table.rg-table%20th.hide-mobile%2C%0A%20%20table.rg-table%20td.hide-mobile%20%7B%0A%20%20%20%20display%3A%20none%3B%0A%20%20%7D%0A%20%20table.rg-table%20thead%20%7B%0A%20%20%20%20display%3A%20none%3B%0A%20%20%7D%0A%20%20table.rg-table%20tbody%20%7B%0A%20%20%20%20width%3A%20100%25%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr%2C%0A%20%20table.rg-table%20th%2C%0A%20%20table.rg-table%20td%20%7B%0A%20%20%20%20display%3A%20block%3B%0A%20%20%20%20padding%3A%200%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr%20%7B%0A%20%20%20%20border-bottom%3A%20none%3B%0A%20%20%20%20margin%3A%200%200%201em%200%3B%0A%20%20%20%20padding%3A%200.5em%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr.highlight%20%7B%0A%20%20%20%20background-color%3A%20inherit%20!important%3B%0A%20%20%7D%0A%20%20table.rg-table.zebra%20tr%3Anth-child(even)%20%7B%0A%20%20%20%20background-color%3A%20transparent%3B%0A%20%20%7D%0A%20%20table.rg-table.zebra%20td%3Anth-child(even)%20%7B%0A%20%20%20%20background-color%3A%20%23f6f6f6%3B%0A%20%20%7D%0A%20%20table.rg-table%20tr%3Anth-child(even)%20%7B%0A%20%20%20%20background-color%3A%20transparent%3B%0A%20%20%7D%0A%20%20table.rg-table%20td%20%7B%0A%20%20%20%20padding%3A%200.5em%200%200.25em%200%3B%0A%20%20%20%20border-bottom%3A%201px%20dotted%20%23ccc%3B%0A%20%20%20%20text-align%3A%20right%3B%0A%20%20%7D%0A%20%20table.rg-table%20td%5Bdata-title%5D%3Abefore%20%7B%0A%20%20%20%20content%3A%20attr(data-title)%3B%0A%20%20%20%20font-weight%3A%20bold%3B%0A%20%20%20%20display%3A%20inline-block%3B%0A%20%20%20%20content%3A%20attr(data-title)%3B%0A%20%20%20%20float%3A%20left%3B%0A%20%20%20%20margin-right%3A%200.5em%3B%0A%20%20%20%20font-size%3A%200.95em%3B%0A%20%20%7D%0A%20%20table.rg-table%20td%3Alast-child%20%7B%0A%20%20%20%20padding-right%3A%200%3B%0A%20%20%20%20border-bottom%3A%202px%20solid%20%23ccc%3B%0A%20%20%7D%0A%20%20table.rg-table%20td%3Aempty%20%7B%0A%20%20%20%20display%3A%20none%3B%0A%20%20%7D%0A%20%20table.rg-table%20.highlight%20td%20%7B%0A%20%20%20%20background-color%3A%20inherit%3B%0A%20%20%20%20font-weight%3A%20normal%3B%0A%20%20%7D%0A%7D%0A%0A%3C%2Fstyle%3E%0A%3Cdiv%20class%3D%27rg-container%27%3E%0A%09%3Ctable%20class%3D%27rg-table%27%20summary%3D%27Latest%20Laptops%20at%20Best%20Price%20in%20Bangladesh%20(Updated%20January%202022)%27%3E%0A%09%09%3Ccaption%20class%3D%27rg-header%27%3E%0A%09%09%09%3Cspan%20class%3D%27rg-hed%27%3ELatest%20Laptops%20at%20Best%20Price%20in%20Bangladesh%20(Updated%20January%202022)%3C%2Fspan%3E%0A%09%09%09%3Cspan%20class%3D%27rg-dek%27%3EThe%20lowest%20price%20for%20a%20latest%20laptop%20at%20Daraz%20Bangladesh%20is%20Tk.%2016%2C500%20and%20the%20highest%20price%20is%20Tk.%20331%2C250.%3C%2Fspan%3E%0A%09%09%3C%2Fcaption%3E%0A%09%09%3Cthead%3E%0A%09%09%09%3Ctr%3E%0A%09%09%09%09%3Cth%20class%3D%27text%20%27%3ELaptops%20Price%20List%20(2022)%3C%2Fth%3E%0A%09%09%09%09%3Cth%20class%3D%27text%20%27%3EPrice%20in%20Bangladesh%3C%2Fth%3E%0A%09%09%09%09%3Cth%20class%3D%27text%20%27%3EAvailability%3C%2Fth%3E%0A%09%09%09%3C%2Ftr%3E%0A%09%09%3C%2Fthead%3E%0A%09%09%3Ctbody%3E%0A%09%09%09%0A%09%09%09%09%3Ctr%20class%3D%27%20highlight%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Laptops%20Price%20List%20(2022)%27%3EAsus%20Rog%20Zephyrus%20Gx501%20Core%20i7%207th%20Gen%2015.6%27%27%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3E%E0%A7%B3%20331%2C250%20BDT%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Availability%27%3EIn%20Stock%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%0A%09%09%09%09%3Ctr%20class%3D%27%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Laptops%20Price%20List%20(2022)%27%3ELenovo%20Legion%20Y740%20Core%20i7%208th%20Gen%2015.6%27%27%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3E%E0%A7%B3%20260%2C960%20BDT%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Availability%27%3EIn%20Stock%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%0A%09%09%09%09%3Ctr%20class%3D%27%20highlight%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Laptops%20Price%20List%20(2022)%27%3EMSI%20GS65%20Stealth%20Thin%208SF%20Core%20i7%208th%20Gen%2015.6%27%27%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3E%E0%A7%B3%20250%2C260%20BDT%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Availability%27%3EIn%20Stock%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%0A%09%09%09%09%3Ctr%20class%3D%27%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Laptops%20Price%20List%20(2022)%27%3ELenovo%20Yoga%20C930%20Core%20i7%208th%20Gen%2013.9%27%27%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3E%E0%A7%B3%20213%2C900%20BDT%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Availability%27%3EIn%20Stock%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%0A%09%09%09%09%3Ctr%20class%3D%27%20highlight%27%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Laptops%20Price%20List%20(2022)%27%3EDell%20Latitude%207390%20Core%20i7%208th%20Gen%2013.3%27%27%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Price%20in%20Bangladesh%27%3E%E0%A7%B3%20182%2C780%20BDT%3C%2Ftd%3E%0A%09%09%09%09%09%3Ctd%20class%3D%27text%20%27%20data-title%3D%27Availability%27%3EIn%20Stock%3C%2Ftd%3E%0A%09%09%09%09%3C%2Ftr%3E%0A%09%09%09%0A%09%09%3C%2Ftbody%3E%0A%09%3C%2Ftable%3E%0A%3C%2Fdiv%3E%0A%0A%3Cp%3E%3Cstrong%3ESome%20best%20laptop%20brands%20available%20in%20Daraz%20Bangladesh%3C%2Fstrong%3E%3C%2Fp%3E%0A%0A%3Cp%3E%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Flaptops%2Fhp%2F%22%3Ehp%20laptops%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Flaptops%2Fasus%2F%22%3Easus%20laptops%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Flaptops%2Flenovo%2F%22%3Elenovo%20laptops%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Flaptops%2Fdell%2F%22%3Edell%20laptops%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Flaptops%2FWalton-Computers-121088282%2F%22%3Ewalton%20laptops%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Flaptops%2Ffujitsu%2F%22%3Efujitsu%20laptops%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Flaptops%2Fsony%2F%22%3Esony%20laptops%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Flaptops%2Fmsi%2F%22%3Emsi%20laptops%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Flaptops%2Fhuawei%2F%22%3Ehuawei%20laptops%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Flaptops%2Favita%2F%22%3Eavita%20laptops%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Flaptops%2Fmicrosoft%2F%22%3Emicrosoft%20laptops%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Flaptops%2Fchuwi%2F%22%3Echuwi%20laptops%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Flaptops%2Fxiaomi%2F%22%3Exiaomi%20laptops%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Flaptops%2Fi-life%2F%22%3Ei-life%20laptops%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Flaptops%2Fapple%2F%22%3Eapple%20laptops%3C%2Fa%3E%3C%2Fp%3E%0A%0A%3Cp%3EYou%20can%20check%20our%20exclusive%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Fdaraz-exclusive-products%2F%22%3Eproducts%3C%2Fa%3E%20also.%3C%2Fp%3E"
+    },
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/traditional-laptops/?item_id=231788147&from=onesearch_category_55",
+                "name": "Traditional Laptops",
+                "image": "//static-01.daraz.com.bd/p/ab3e1988001d1c1f4fa7a415560b93e6.jpg",
+                "id": "57"
+            },
+            {
+                "url": "/gaming-laptops/?item_id=189824159&from=onesearch_category_55",
+                "name": "Gaming",
+                "image": "//static-01.daraz.com.bd/p/61005a4973405da4edebe2ac5342a792.jpg",
+                "id": "58"
+            },
+            {
+                "url": "/basic-laptops/?item_id=226064048&from=onesearch_category_55",
+                "name": "Basic",
+                "image": "//static-01.daraz.com.bd/p/974b888d271637e2adde05b7812f3bb3.jpg",
+                "id": "60"
+            },
+            {
+                "url": "/unuse-category-url-key-72/?item_id=214114610&from=onesearch_category_55",
+                "name": "Touchscreen",
+                "image": "//static-01.daraz.com.bd/p/372bfe53a165dc2a3494c2117e205185.jpg",
+                "id": "7831"
+            },
+            {
+                "url": "/unuse-category-url-key-73/?item_id=213702234&from=onesearch_category_55",
+                "name": "Non-touchscreen",
+                "image": "//static-01.daraz.com.bd/p/8e2d6ce98e2c6c7224d5ff9dca4134ed.jpg",
+                "id": "7832"
+            },
+            {
+                "url": "/unuse-category-url-key-75/?item_id=222405063&from=onesearch_category_55",
+                "name": "Touchscreen",
+                "image": "//static-01.daraz.com.bd/p/d1aebdcbaa85ff8182f986d505b6bf2a.jpg",
+                "id": "7834"
+            },
+            {
+                "url": "/macbooks/?item_id=179599524&from=onesearch_category_55",
+                "name": "Macbooks",
+                "image": "//static-01.daraz.com.bd/p/c9b67d2233293221c3b0f5e61d0dda06.png",
+                "id": "7902"
+            },
+            {
+                "url": "/unuse-category-url-key-76/?item_id=225790063&from=onesearch_category_55",
+                "name": "Non-touchscreen",
+                "image": "//static-01.daraz.com.bd/p/91bb70585b76ed26335feafed25e8a53.jpg",
+                "id": "7835"
+            },
+            {
+                "url": "/2in1-laptops/?item_id=164718494&from=onesearch_category_55",
+                "name": "2-in-1s",
+                "image": "//static-01.daraz.com.bd/p/98ec43b480287827e19d9212110407cd.jpg",
+                "id": "7836"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_55"
+        },
+        "title": "",
+        "bizId": "onesearch_category_55",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "1309 items found in {$0}",
+        "title": "Latest Laptops 2022 in Bangladesh",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Laptops"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Latest Laptops 2022 in Bangladesh",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "1309",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "86b05056245845637ffc35039dcd7a16",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "55",
+            "category": "55"
+        },
+        "categoryRegionalKey": "020100000000",
+        "mainCategoryRegionalKey": "020000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Laptop Price in Bangladesh 2022 - Lowest EMI Price in BD",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Computers & Laptops,Laptops",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "020100000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=55&_p_asc_cateid=55",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "laptops",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "86b05056245845637ffc35039dcd7a16",
+                "resultNr": 1309,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1180933937",
+                "1145255014",
+                "1161139647"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "55",
+            "category": "55"
+        }
+    }
+}

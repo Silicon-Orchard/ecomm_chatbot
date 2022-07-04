@@ -1,0 +1,3712 @@
+{
+    "listItems": [
+        {
+            "name": "Frontline Spray Flea & Tick for Cats & Dogs 100ml",
+            "nid": "187418104",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "187418104",
+                "scene_pre": "search",
+                "current_price": "620",
+                "x_sku_ids": "1134282720",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "187418104"
+            },
+            "productUrl": "//www.daraz.com.bd/products/frontline-spray-flea-tick-for-cats-dogs-100ml-i187418104-s1134282720.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1df639210684465f3c3be29d4025d653.jpg",
+            "originalPrice": "950.00",
+            "originalPriceShow": "৳ 950",
+            "price": "620",
+            "promotionId": "null",
+            "priceShow": "৳ 620",
+            "discount": "-35%",
+            "ratingScore": "4.82353",
+            "review": "17",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "187418104_BD-1134282720",
+            "sku": "187418104_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507620243",
+            "mainSellerId": "",
+            "sellerName": "AR FASHION WORLD BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1df639210684465f3c3be29d4025d653.jpg",
+                    "productUrl": "/products/frontline-spray-flea-tick-for-cats-dogs-100ml-i187418104-s1134282720.html",
+                    "sku": "187418104_BD",
+                    "skuId": "1134282720"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002089,
+                10002275
+            ],
+            "clickTrace": "query:;nid:187418104;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:187418104_BD;price:620;client:desktop;supplier_id:700507620243;asc_category_id:10002275;item_id:187418104;sku_id:1134282720;shop_id:101531",
+            "addToCartSkus": [
+                {
+                    "sku": "187418104_BD-1134282720",
+                    "skuId": "1134282720",
+                    "count": 0
+                }
+            ],
+            "itemId": "187418104",
+            "skuId": "1134282720",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Frontline Spray 100Ml Flea & Tick Treatment for Cats & Dogs - 100Ml",
+            "nid": "157964353",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "157964353",
+                "scene_pre": "search",
+                "current_price": "650",
+                "x_sku_ids": "1089110165",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "157964353"
+            },
+            "productUrl": "//www.daraz.com.bd/products/frontline-100ml-i157964353-s1089110165.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/f0f7c835fad447288740e94e33943101.jpg",
+            "originalPrice": "950.00",
+            "originalPriceShow": "৳ 950",
+            "price": "650",
+            "promotionId": "null",
+            "priceShow": "৳ 650",
+            "discount": "-32%",
+            "ratingScore": "4.70667",
+            "review": "75",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "157964353_BD-1089110165",
+            "sku": "157964353_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1031676",
+            "mainSellerId": "",
+            "sellerName": "Mokka Store BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/f0f7c835fad447288740e94e33943101.jpg",
+                    "productUrl": "/products/frontline-100ml-i157964353-s1089110165.html",
+                    "sku": "157964353_BD",
+                    "skuId": "1089110165"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002089,
+                10002275
+            ],
+            "clickTrace": "query:;nid:157964353;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:157964353_BD;price:650;client:desktop;supplier_id:1031676;asc_category_id:10002275;item_id:157964353;sku_id:1089110165;shop_id:37692",
+            "addToCartSkus": [
+                {
+                    "sku": "157964353_BD-1089110165",
+                    "skuId": "1089110165",
+                    "count": 0
+                }
+            ],
+            "itemId": "157964353",
+            "skuId": "1089110165",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Erina-EP Dog & Cat Shampoo 200ml",
+            "nid": "187410458",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "187410458",
+                "scene_pre": "search",
+                "current_price": "520",
+                "x_sku_ids": "1134280788",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "187410458"
+            },
+            "productUrl": "//www.daraz.com.bd/products/erina-ep-dog-cat-shampoo-200ml-i187410458-s1134280788.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a3a6594b2bdba79596726083fc579969.jpg",
+            "originalPrice": "700.00",
+            "originalPriceShow": "৳ 700",
+            "price": "520",
+            "promotionId": "null",
+            "priceShow": "৳ 520",
+            "discount": "-26%",
+            "ratingScore": "4.58333",
+            "review": "12",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "187410458_BD-1134280788",
+            "sku": "187410458_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507620243",
+            "mainSellerId": "",
+            "sellerName": "AR FASHION WORLD BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a3a6594b2bdba79596726083fc579969.jpg",
+                    "productUrl": "/products/erina-ep-dog-cat-shampoo-200ml-i187410458-s1134280788.html",
+                    "sku": "187410458_BD",
+                    "skuId": "1134280788"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002089,
+                10002276
+            ],
+            "clickTrace": "query:;nid:187410458;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:187410458_BD;price:520;client:desktop;supplier_id:700507620243;asc_category_id:10002276;item_id:187410458;sku_id:1134280788;shop_id:101531",
+            "addToCartSkus": [
+                {
+                    "sku": "187410458_BD-1134280788",
+                    "skuId": "1134280788",
+                    "count": 0
+                }
+            ],
+            "itemId": "187410458",
+            "skuId": "1134280788",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cat Hearnel 5 Meter Length Black & Pink",
+            "nid": "124600248",
+            "icons": [
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "124600248",
+                "scene_pre": "search",
+                "current_price": "150",
+                "x_sku_ids": "1044844423",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "124600248"
+            },
+            "productUrl": "//www.daraz.com.bd/products/5-i124600248-s1044844423.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/d6e513eec341bcd358d189c55c0b3023.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "150",
+            "promotionId": "null",
+            "priceShow": "৳ 150",
+            "discount": "-57%",
+            "ratingScore": "4.65",
+            "review": "20",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "124600248_BD-1044844423",
+            "sku": "124600248_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1020293",
+            "mainSellerId": "",
+            "sellerName": "Birds Help Care",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/d6e513eec341bcd358d189c55c0b3023.jpg",
+                    "productUrl": "/products/5-i124600248-s1044844423.html",
+                    "sku": "124600248_BD",
+                    "skuId": "1044844423"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002091,
+                10002283
+            ],
+            "clickTrace": "query:;nid:124600248;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:124600248_BD;price:150;client:desktop;supplier_id:1020293;asc_category_id:10002283;item_id:124600248;sku_id:1044844423;shop_id:26529",
+            "addToCartSkus": [
+                {
+                    "sku": "124600248_BD-1044844423",
+                    "skuId": "1044844423",
+                    "count": 0
+                }
+            ],
+            "itemId": "124600248",
+            "skuId": "1044844423",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Reflective Cat Harness And Leash Set Nylon Mesh Kitten Puppy Dogs Vest Harness Leads Pet Clothes",
+            "nid": "184364849",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184364849",
+                "scene_pre": "search",
+                "current_price": "191",
+                "x_sku_ids": "1129241771",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "184364849"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i184364849-s1129241771.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f2a1a67bcd853dca48183c7d6363da34.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "191",
+            "promotionId": "null",
+            "priceShow": "৳ 191",
+            "discount": "-58%",
+            "ratingScore": "4.42222",
+            "review": "45",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184364849_BD-1129241771",
+            "sku": "184364849_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1026389",
+            "mainSellerId": "",
+            "sellerName": "E bazaar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f2a1a67bcd853dca48183c7d6363da34.jpg",
+                    "productUrl": "/products/-i184364849-s1129241771.html",
+                    "sku": "184364849_BD",
+                    "skuId": "1129241771"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002087,
+                10002265
+            ],
+            "clickTrace": "query:;nid:184364849;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:184364849_BD;price:191;client:desktop;supplier_id:1026389;asc_category_id:10002265;item_id:184364849;sku_id:1129241771;shop_id:32536",
+            "addToCartSkus": [
+                {
+                    "sku": "184364849_BD-1129241771",
+                    "skuId": "1129241771",
+                    "count": 0
+                }
+            ],
+            "itemId": "184364849",
+            "skuId": "1129241771",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Adjustable Pet Cat Collar With Bell Puppy Neck Strap Soft For Small Dog Collars Cat Belt",
+            "nid": "214817689",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "214817689",
+                "scene_pre": "search",
+                "current_price": "41",
+                "x_sku_ids": "1169412806",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "214817689"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i214817689-s1169412806.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b4148a06cb8b109d63dbd169fefbb915.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "41",
+            "promotionId": "null",
+            "priceShow": "৳ 41",
+            "discount": "-66%",
+            "ratingScore": "4.47619",
+            "review": "42",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "214817689_BD-1169412806",
+            "sku": "214817689_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508259116",
+            "mainSellerId": "",
+            "sellerName": "webbuy",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b4148a06cb8b109d63dbd169fefbb915.jpg",
+                    "productUrl": "/products/-i214817689-s1169412806.html",
+                    "sku": "214817689_BD",
+                    "skuId": "1169412806"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9fc8b6d8bea2bced92f90033bc734107.png",
+                    "productUrl": "/products/-i214817689-s1169212866.html",
+                    "sku": "214817689_BD",
+                    "skuId": "1169212866"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/29cd753f0a3f00cf50519500140464c5.jpg",
+                    "productUrl": "/products/-i214817689-s1169212865.html",
+                    "sku": "214817689_BD",
+                    "skuId": "1169212865"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ff30bf8ed6267a259f28938222188469.png",
+                    "productUrl": "/products/-i214817689-s1163539384.html",
+                    "sku": "214817689_BD",
+                    "skuId": "1163539384"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a6e3f160b6d7f04a0e3fdb30046880b8.png",
+                    "productUrl": "/products/-i214817689-s1169212867.html",
+                    "sku": "214817689_BD",
+                    "skuId": "1169212867"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/98a59e67c298122d07c46950177459bf.jpg",
+                    "productUrl": "/products/-i214817689-s1169212864.html",
+                    "sku": "214817689_BD",
+                    "skuId": "1169212864"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b6b43f1da3148a443df01e7bf1eba882.jpg",
+                    "productUrl": "/products/-i214817689-s1181683503.html",
+                    "sku": "214817689_BD",
+                    "skuId": "1181683503"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c5a83a761643be76c3e9657f4563dc9a.png",
+                    "productUrl": "/products/-i214817689-s1181683502.html",
+                    "sku": "214817689_BD",
+                    "skuId": "1181683502"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/98a877068c1c53b9fe1a7c4bf0a276fc.jpg",
+                    "productUrl": "/products/-i214817689-s1169212863.html",
+                    "sku": "214817689_BD",
+                    "skuId": "1169212863"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002087,
+                10002262
+            ],
+            "clickTrace": "query:;nid:214817689;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:214817689_BD;price:41;client:desktop;supplier_id:700508259116;asc_category_id:10002262;item_id:214817689;sku_id:1169412806;shop_id:138080",
+            "addToCartSkus": [
+                {
+                    "sku": "214817689_BD-1169412806",
+                    "skuId": "1169412806",
+                    "count": 0
+                }
+            ],
+            "itemId": "214817689",
+            "skuId": "1169412806",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cat Elizabethan Collar / E-Collar 6 Number",
+            "nid": "225059040",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225059040",
+                "scene_pre": "search",
+                "current_price": "167",
+                "x_sku_ids": "1170463981",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "225059040"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cat-6-i225059040-s1170463981.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b1a19274d0d823b9df45d1c44f8f3a4c.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "167",
+            "promotionId": "null",
+            "priceShow": "৳ 167",
+            "discount": "-44%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225059040_BD-1170463981",
+            "sku": "225059040_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509903194",
+            "mainSellerId": "",
+            "sellerName": "Bioline Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b1a19274d0d823b9df45d1c44f8f3a4c.jpg",
+                    "productUrl": "/products/cat-6-i225059040-s1170463981.html",
+                    "sku": "225059040_BD",
+                    "skuId": "1170463981"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002087,
+                10002262
+            ],
+            "clickTrace": "query:;nid:225059040;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:225059040_BD;price:167;client:desktop;supplier_id:700509903194;asc_category_id:10002262;item_id:225059040;sku_id:1170463981;shop_id:220358",
+            "addToCartSkus": [
+                {
+                    "sku": "225059040_BD-1170463981",
+                    "skuId": "1170463981",
+                    "count": 0
+                }
+            ],
+            "itemId": "225059040",
+            "skuId": "1170463981",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pet Hair Removal Comb Pet Hair Flea Comb Trimmer Plastic Handle Stainless Steel Needle Comb",
+            "nid": "210183060",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "210183060",
+                "scene_pre": "search",
+                "current_price": "160",
+                "x_sku_ids": "1160294178",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "210183060"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i210183060-s1160294178.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/983a3ceffdcaeb44b26fbfe51ac531ac.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "160",
+            "promotionId": "null",
+            "priceShow": "৳ 160",
+            "discount": "-54%",
+            "ratingScore": "4.42857",
+            "review": "14",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "210183060_BD-1160294178",
+            "sku": "210183060_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1031676",
+            "mainSellerId": "",
+            "sellerName": "Mokka Store BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/983a3ceffdcaeb44b26fbfe51ac531ac.jpg",
+                    "productUrl": "/products/-i210183060-s1160294178.html",
+                    "sku": "210183060_BD",
+                    "skuId": "1160294178"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10337,
+                10338
+            ],
+            "clickTrace": "query:;nid:210183060;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:210183060_BD;price:160;client:desktop;supplier_id:1031676;asc_category_id:10338;item_id:210183060;sku_id:1160294178;shop_id:37692",
+            "addToCartSkus": [
+                {
+                    "sku": "210183060_BD-1160294178",
+                    "skuId": "1160294178",
+                    "count": 0
+                }
+            ],
+            "itemId": "210183060",
+            "skuId": "1160294178",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cat Harness And Leash Set Nylon Mesh Kitten Puppy Dogs Vest Harness Leads Pet Clothes For Small",
+            "nid": "184365831",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184365831",
+                "scene_pre": "search",
+                "current_price": "191",
+                "x_sku_ids": "1129238806",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "184365831"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i184365831-s1129238806.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2c20b0901cc19dc24446acdbec529f4d.jpg",
+            "originalPrice": "490.00",
+            "originalPriceShow": "৳ 490",
+            "price": "191",
+            "promotionId": "null",
+            "priceShow": "৳ 191",
+            "discount": "-61%",
+            "ratingScore": "4.66667",
+            "review": "18",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184365831_BD-1129238806",
+            "sku": "184365831_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1026389",
+            "mainSellerId": "",
+            "sellerName": "E bazaar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2c20b0901cc19dc24446acdbec529f4d.jpg",
+                    "productUrl": "/products/-i184365831-s1129238806.html",
+                    "sku": "184365831_BD",
+                    "skuId": "1129238806"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002087,
+                10002265
+            ],
+            "clickTrace": "query:;nid:184365831;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:184365831_BD;price:191;client:desktop;supplier_id:1026389;asc_category_id:10002265;item_id:184365831;sku_id:1129238806;shop_id:32536",
+            "addToCartSkus": [
+                {
+                    "sku": "184365831_BD-1129238806",
+                    "skuId": "1129238806",
+                    "count": 0
+                }
+            ],
+            "itemId": "184365831",
+            "skuId": "1129238806",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Professional Pet Cat Dog Nail Clipper Cutter",
+            "nid": "214957231",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "214957231",
+                "scene_pre": "search",
+                "current_price": "185",
+                "x_sku_ids": "1163626594",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "214957231"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i214957231-s1163626594.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a9e91773ce872c9e207cf44f7190abe7.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "185",
+            "promotionId": "null",
+            "priceShow": "৳ 185",
+            "discount": "-66%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "214957231_BD-1163626594",
+            "sku": "214957231_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507488111",
+            "mainSellerId": "",
+            "sellerName": "Nondini Haat",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a9e91773ce872c9e207cf44f7190abe7.jpg",
+                    "productUrl": "/products/-i214957231-s1163626594.html",
+                    "sku": "214957231_BD",
+                    "skuId": "1163626594"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10337,
+                10339
+            ],
+            "clickTrace": "query:;nid:214957231;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:214957231_BD;price:185;client:desktop;supplier_id:700507488111;asc_category_id:10339;item_id:214957231;sku_id:1163626594;shop_id:95680",
+            "addToCartSkus": [
+                {
+                    "sku": "214957231_BD-1163626594",
+                    "skuId": "1163626594",
+                    "count": 0
+                }
+            ],
+            "itemId": "214957231",
+            "skuId": "1163626594",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dog or Cat Grooming Or Bathing Gloves Pet Hair Remove Gloves Clean Deshedding Effective Massage",
+            "nid": "168886069",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168886069",
+                "scene_pre": "search",
+                "current_price": "150",
+                "x_sku_ids": "1103120282",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "168886069"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i168886069-s1103120282.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c75bd75d6e2c800b080d6408bdbed577.png",
+            "originalPrice": "190.00",
+            "originalPriceShow": "৳ 190",
+            "price": "150",
+            "promotionId": "null",
+            "priceShow": "৳ 150",
+            "discount": "-21%",
+            "ratingScore": "4.58333",
+            "review": "12",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168886069_BD-1103120282",
+            "sku": "168886069_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1012789",
+            "mainSellerId": "",
+            "sellerName": "Dream's Fashion BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c75bd75d6e2c800b080d6408bdbed577.png",
+                    "productUrl": "/products/-i168886069-s1103120282.html",
+                    "sku": "168886069_BD",
+                    "skuId": "1103120282"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10337,
+                10338
+            ],
+            "clickTrace": "query:;nid:168886069;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:168886069_BD;price:150;client:desktop;supplier_id:1012789;asc_category_id:10338;item_id:168886069;sku_id:1103120282;shop_id:18886",
+            "addToCartSkus": [
+                {
+                    "sku": "168886069_BD-1103120282",
+                    "skuId": "1103120282",
+                    "count": 0
+                }
+            ],
+            "itemId": "168886069",
+            "skuId": "1103120282",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SmartHeart Dog Can Beef & Liver 400g",
+            "nid": "177420208",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "177420208",
+                "scene_pre": "search",
+                "current_price": "150.00",
+                "x_sku_ids": "1117380126",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "177420208"
+            },
+            "productUrl": "//www.daraz.com.bd/products/smartheart-400g-i177420208-s1117380126.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f9d944cbbdbbbf26f426e4725b15569f.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "150.00",
+            "promotionId": "null",
+            "priceShow": "৳ 150",
+            "discount": "-40%",
+            "ratingScore": "4",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "177420208_BD-1117380126",
+            "sku": "177420208_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1015678",
+            "mainSellerId": "",
+            "sellerName": "Shokher Tula 180 Tk",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f9d944cbbdbbbf26f426e4725b15569f.jpg",
+                    "productUrl": "/products/smartheart-400g-i177420208-s1117380126.html",
+                    "sku": "177420208_BD",
+                    "skuId": "1117380126"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10298,
+                10311,
+                10313
+            ],
+            "clickTrace": "query:;nid:177420208;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:177420208_BD;price:150.00;client:desktop;supplier_id:1015678;asc_category_id:10313;item_id:177420208;sku_id:1117380126;shop_id:21606",
+            "addToCartSkus": [
+                {
+                    "sku": "177420208_BD-1117380126",
+                    "skuId": "1117380126",
+                    "count": 0
+                }
+            ],
+            "itemId": "177420208",
+            "skuId": "1117380126",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bioline Pet Ear Care 50ml",
+            "nid": "186827457",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "186827457",
+                "scene_pre": "search",
+                "current_price": "375",
+                "x_sku_ids": "1133384097",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "186827457"
+            },
+            "productUrl": "//www.daraz.com.bd/products/50ml-i186827457-s1133384097.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2c60316c542e8a98e048bb01505c3c5c.jpg",
+            "originalPrice": "700.00",
+            "originalPriceShow": "৳ 700",
+            "price": "375",
+            "promotionId": "null",
+            "priceShow": "৳ 375",
+            "discount": "-46%",
+            "ratingScore": "4",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "186827457_BD-1133384097",
+            "sku": "186827457_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507620243",
+            "mainSellerId": "",
+            "sellerName": "AR FASHION WORLD BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2c60316c542e8a98e048bb01505c3c5c.jpg",
+                    "productUrl": "/products/50ml-i186827457-s1133384097.html",
+                    "sku": "186827457_BD",
+                    "skuId": "1133384097"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10337,
+                10338
+            ],
+            "clickTrace": "query:;nid:186827457;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:186827457_BD;price:375;client:desktop;supplier_id:700507620243;asc_category_id:10338;item_id:186827457;sku_id:1133384097;shop_id:101531",
+            "addToCartSkus": [
+                {
+                    "sku": "186827457_BD-1133384097",
+                    "skuId": "1133384097",
+                    "count": 0
+                }
+            ],
+            "itemId": "186827457",
+            "skuId": "1133384097",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "cat food WHISKAS  pouch ADULT 1+ grilled saba 85g",
+            "nid": "165042923",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "165042923",
+                "scene_pre": "search",
+                "current_price": "69.00",
+                "x_sku_ids": "1098122868",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "165042923"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-85g-i165042923-s1098122868.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/16b58991de686feb9c9065556e9af3fe.jpg",
+            "originalPrice": "130.00",
+            "originalPriceShow": "৳ 130",
+            "price": "69.00",
+            "promotionId": "null",
+            "priceShow": "৳ 69",
+            "discount": "-47%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "165042923_BD-1098122868",
+            "sku": "165042923_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1023089",
+            "mainSellerId": "",
+            "sellerName": "The Brands",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/16b58991de686feb9c9065556e9af3fe.jpg",
+                    "productUrl": "/products/1-85g-i165042923-s1098122868.html",
+                    "sku": "165042923_BD",
+                    "skuId": "1098122868"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10298,
+                10311,
+                10314
+            ],
+            "clickTrace": "query:;nid:165042923;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:165042923_BD;price:69.00;client:desktop;supplier_id:1023089;asc_category_id:10314;item_id:165042923;sku_id:1098122868;shop_id:29289",
+            "addToCartSkus": [
+                {
+                    "sku": "165042923_BD-1098122868",
+                    "skuId": "1098122868",
+                    "count": 0
+                }
+            ],
+            "itemId": "165042923",
+            "skuId": "1098122868",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Double Bowl of Water Food pink for Dog Cat Pet Jora Vati for Cat and Dog.",
+            "nid": "229700390",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "229700390",
+                "scene_pre": "search",
+                "current_price": "128",
+                "x_sku_ids": "1173235197",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "229700390"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i229700390-s1173235197.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0a7861f6029cab23df3b239757275275.jpg",
+            "originalPrice": "449.00",
+            "originalPriceShow": "৳ 449",
+            "price": "128",
+            "promotionId": "null",
+            "priceShow": "৳ 128",
+            "discount": "-71%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "229700390_BD-1173235197",
+            "sku": "229700390_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509867142",
+            "mainSellerId": "",
+            "sellerName": "Pet Care Station",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0a7861f6029cab23df3b239757275275.jpg",
+                    "productUrl": "/products/-i229700390-s1173235197.html",
+                    "sku": "229700390_BD",
+                    "skuId": "1173235197"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002086,
+                10002255
+            ],
+            "clickTrace": "query:;nid:229700390;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:229700390_BD;price:128;client:desktop;supplier_id:700509867142;asc_category_id:10002255;item_id:229700390;sku_id:1173235197;shop_id:218799",
+            "addToCartSkus": [
+                {
+                    "sku": "229700390_BD-1173235197",
+                    "skuId": "1173235197",
+                    "count": 0
+                }
+            ],
+            "itemId": "229700390",
+            "skuId": "1173235197",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dog Cat Mouth Cover Muzzle Size-4",
+            "nid": "197281915",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "197281915",
+                "scene_pre": "search",
+                "current_price": "270.00",
+                "x_sku_ids": "1143890160",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "197281915"
+            },
+            "productUrl": "//www.daraz.com.bd/products/4-i197281915-s1143890160.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9e279e8dc51b58a886028ac5b086147d.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "270.00",
+            "promotionId": "null",
+            "priceShow": "৳ 270",
+            "discount": "-33%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "197281915_BD-1143890160",
+            "sku": "197281915_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1031676",
+            "mainSellerId": "",
+            "sellerName": "Mokka Store BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9e279e8dc51b58a886028ac5b086147d.jpg",
+                    "productUrl": "/products/4-i197281915-s1143890160.html",
+                    "sku": "197281915_BD",
+                    "skuId": "1143890160"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002087,
+                10002267
+            ],
+            "clickTrace": "query:;nid:197281915;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:197281915_BD;price:270.00;client:desktop;supplier_id:1031676;asc_category_id:10002267;item_id:197281915;sku_id:1143890160;shop_id:37692",
+            "addToCartSkus": [
+                {
+                    "sku": "197281915_BD-1143890160",
+                    "skuId": "1143890160",
+                    "count": 0
+                }
+            ],
+            "itemId": "197281915",
+            "skuId": "1143890160",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Adjustable cat and dog rainbow harness ",
+            "nid": "170382475",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "170382475",
+                "scene_pre": "search",
+                "current_price": "158",
+                "x_sku_ids": "1105410495",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "170382475"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i170382475-s1105410495.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8c38c625a6533bc4203c69fbf11477d1.jpg",
+            "originalPrice": "220.00",
+            "originalPriceShow": "৳ 220",
+            "price": "158",
+            "promotionId": "null",
+            "priceShow": "৳ 158",
+            "discount": "-28%",
+            "ratingScore": "4.13333",
+            "review": "15",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "170382475_BD-1105410495",
+            "sku": "170382475_BD",
+            "skus": [],
+            "description": [
+                "Adjustable cat and dog rainbow harness"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1026389",
+            "mainSellerId": "",
+            "sellerName": "E bazaar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8c38c625a6533bc4203c69fbf11477d1.jpg",
+                    "productUrl": "/products/-i170382475-s1105410495.html",
+                    "sku": "170382475_BD",
+                    "skuId": "1105410495"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002087,
+                10002265
+            ],
+            "clickTrace": "query:;nid:170382475;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:170382475_BD;price:158;client:desktop;supplier_id:1026389;asc_category_id:10002265;item_id:170382475;sku_id:1105410495;shop_id:32536",
+            "addToCartSkus": [
+                {
+                    "sku": "170382475_BD-1105410495",
+                    "skuId": "1105410495",
+                    "count": 0
+                }
+            ],
+            "itemId": "170382475",
+            "skuId": "1105410495",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "4pin Male Connector for RGB 5050 3528 LED Strip Light Connect Gold Plated",
+            "nid": "114744308",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "114744308",
+                "scene_pre": "search",
+                "current_price": "22",
+                "x_sku_ids": "1032508877",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "114744308"
+            },
+            "productUrl": "//www.daraz.com.bd/products/rgb-5050-3528-led-4pin-i114744308-s1032508877.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/050e6d3ac1dcaa442021a68130912527.jpg",
+            "originalPrice": "80.00",
+            "originalPriceShow": "৳ 80",
+            "price": "22",
+            "promotionId": "null",
+            "priceShow": "৳ 22",
+            "discount": "-73%",
+            "ratingScore": "4.5",
+            "review": "14",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "114744308_BD-1032508877",
+            "sku": "114744308_BD",
+            "skus": [],
+            "description": [
+                "Suitable for RGB 5050 LED Strip!",
+                "With this item you don′t need to solder! Easy cheap and fine!",
+                "Perfect for connecting the LED power supply with Strips!"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1016183",
+            "mainSellerId": "",
+            "sellerName": "TRA TRADING",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/050e6d3ac1dcaa442021a68130912527.jpg",
+                    "productUrl": "/products/rgb-5050-3528-led-4pin-i114744308-s1032508877.html",
+                    "sku": "114744308_BD",
+                    "skuId": "1032508877"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10321,
+                10328
+            ],
+            "clickTrace": "query:;nid:114744308;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:114744308_BD;price:22;client:desktop;supplier_id:1016183;asc_category_id:10328;item_id:114744308;sku_id:1032508877;shop_id:22292",
+            "addToCartSkus": [
+                {
+                    "sku": "114744308_BD-1032508877",
+                    "skuId": "1032508877",
+                    "count": 0
+                }
+            ],
+            "itemId": "114744308",
+            "skuId": "1032508877",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Adjustable Pet Cat Collar With Bell Puppy Neck Strap Soft For Small Dog Collars Cat Belt",
+            "nid": "231699906",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "231699906",
+                "scene_pre": "search",
+                "current_price": "47",
+                "x_sku_ids": "1174833331",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "231699906"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i231699906-s1174833331.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/98a877068c1c53b9fe1a7c4bf0a276fc.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "47",
+            "promotionId": "null",
+            "priceShow": "৳ 47",
+            "discount": "-61%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "231699906_BD-1174833331",
+            "sku": "231699906_BD",
+            "skus": [],
+            "description": [
+                "Material:Polyester",
+                "Color:pink,yellow,red,blue,green,purple",
+                "Size:Adjustable 19-30cm"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510104094",
+            "mainSellerId": "",
+            "sellerName": "Beauty Phoria",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/98a877068c1c53b9fe1a7c4bf0a276fc.jpg",
+                    "productUrl": "/products/-i231699906-s1174833331.html",
+                    "sku": "231699906_BD",
+                    "skuId": "1174833331"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/37ca90c90b999d3eae145e96aebba169.jpg",
+                    "productUrl": "/products/-i231699906-s1174833333.html",
+                    "sku": "231699906_BD",
+                    "skuId": "1174833333"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/22473ba3a2a9ae19362a8895a4b5a511.jpg",
+                    "productUrl": "/products/-i231699906-s1174833335.html",
+                    "sku": "231699906_BD",
+                    "skuId": "1174833335"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3645893a1b2ec2a7d9b2af6bc7c71487.jpg",
+                    "productUrl": "/products/-i231699906-s1174833334.html",
+                    "sku": "231699906_BD",
+                    "skuId": "1174833334"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f6a7aac2fc5b3939253a9519c1dcd995.jpg",
+                    "productUrl": "/products/-i231699906-s1174833332.html",
+                    "sku": "231699906_BD",
+                    "skuId": "1174833332"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c8d35452a721105ea59694978e37ba3c.jpg",
+                    "productUrl": "/products/-i231699906-s1174833336.html",
+                    "sku": "231699906_BD",
+                    "skuId": "1174833336"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3c58ce05b69385026a78b0e09a2685ae.jpg",
+                    "productUrl": "/products/-i231699906-s1174833337.html",
+                    "sku": "231699906_BD",
+                    "skuId": "1174833337"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002087,
+                10002262
+            ],
+            "clickTrace": "query:;nid:231699906;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:231699906_BD;price:47;client:desktop;supplier_id:700510104094;asc_category_id:10002262;item_id:231699906;sku_id:1174833331;shop_id:228011",
+            "addToCartSkus": [
+                {
+                    "sku": "231699906_BD-1174833331",
+                    "skuId": "1174833331",
+                    "count": 0
+                }
+            ],
+            "itemId": "231699906",
+            "skuId": "1174833331",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pet Grooming Gloves Dog Bathing Shampoo Brush, Heat Resistant Eco-Friendly Silicone Hair Removal Gloves with High Density Teeth for Cats, Dogs",
+            "nid": "163250348",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "163250348",
+                "scene_pre": "search",
+                "current_price": "230",
+                "x_sku_ids": "1095664485",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "163250348"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i163250348-s1095664485.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d0f2fc19c3adde00dd626c3d85495239.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "230",
+            "promotionId": "null",
+            "priceShow": "৳ 230",
+            "discount": "-54%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "163250348_BD-1095664485",
+            "sku": "163250348_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1015678",
+            "mainSellerId": "",
+            "sellerName": "Shokher Tula 180 Tk",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d0f2fc19c3adde00dd626c3d85495239.jpg",
+                    "productUrl": "/products/-i163250348-s1095664485.html",
+                    "sku": "163250348_BD",
+                    "skuId": "1095664485"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10337,
+                10002238
+            ],
+            "clickTrace": "query:;nid:163250348;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:163250348_BD;price:230;client:desktop;supplier_id:1015678;asc_category_id:10002238;item_id:163250348;sku_id:1095664485;shop_id:21606",
+            "addToCartSkus": [
+                {
+                    "sku": "163250348_BD-1095664485",
+                    "skuId": "1095664485",
+                    "count": 0
+                }
+            ],
+            "itemId": "163250348",
+            "skuId": "1095664485",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SmartHeart Adult Dog Dry Food Roast Beef Flavour 500gm",
+            "nid": "180841534",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "180841534",
+                "scene_pre": "search",
+                "current_price": "250.00",
+                "x_sku_ids": "1122129760",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "180841534"
+            },
+            "productUrl": "//www.daraz.com.bd/products/smartheart-500-i180841534-s1122129760.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a45f9c9566c25adfa8079a2ece6dde80.jpg",
+            "originalPrice": "320.00",
+            "originalPriceShow": "৳ 320",
+            "price": "250.00",
+            "promotionId": "null",
+            "priceShow": "৳ 250",
+            "discount": "-22%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "180841534_BD-1122129760",
+            "sku": "180841534_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507620243",
+            "mainSellerId": "",
+            "sellerName": "AR FASHION WORLD BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a45f9c9566c25adfa8079a2ece6dde80.jpg",
+                    "productUrl": "/products/smartheart-500-i180841534-s1122129760.html",
+                    "sku": "180841534_BD",
+                    "skuId": "1122129760"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10298,
+                10301
+            ],
+            "clickTrace": "query:;nid:180841534;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:180841534_BD;price:250.00;client:desktop;supplier_id:700507620243;asc_category_id:10301;item_id:180841534;sku_id:1122129760;shop_id:101531",
+            "addToCartSkus": [
+                {
+                    "sku": "180841534_BD-1122129760",
+                    "skuId": "1122129760",
+                    "count": 0
+                }
+            ],
+            "itemId": "180841534",
+            "skuId": "1122129760",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Helminticide-L – Deworming Tablet for Pet (2 Tablet)",
+            "nid": "138256441",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "138256441",
+                "scene_pre": "search",
+                "current_price": "99",
+                "x_sku_ids": "1061058042",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "138256441"
+            },
+            "productUrl": "//www.daraz.com.bd/products/helminticide-l-deworming-tablet-for-pet-2-tablet-i138256441-s1061058042.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/dea12a54faefc8b263350c250ea1ff5d.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "99",
+            "promotionId": "null",
+            "priceShow": "৳ 99",
+            "discount": "-72%",
+            "ratingScore": "4.66667",
+            "review": "18",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "138256441_BD-1061058042",
+            "sku": "138256441_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1015678",
+            "mainSellerId": "",
+            "sellerName": "Shokher Tula 180 Tk",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/dea12a54faefc8b263350c250ea1ff5d.jpg",
+                    "productUrl": "/products/helminticide-l-deworming-tablet-for-pet-2-tablet-i138256441-s1061058042.html",
+                    "sku": "138256441_BD",
+                    "skuId": "1061058042"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002088,
+                10002271
+            ],
+            "clickTrace": "query:;nid:138256441;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:138256441_BD;price:99;client:desktop;supplier_id:1015678;asc_category_id:10002271;item_id:138256441;sku_id:1061058042;shop_id:21606",
+            "addToCartSkus": [
+                {
+                    "sku": "138256441_BD-1061058042",
+                    "skuId": "1061058042",
+                    "count": 0
+                }
+            ],
+            "itemId": "138256441",
+            "skuId": "1061058042",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Puppy Dog Food Beef & Milk Flavor Smart Heart -500gm",
+            "nid": "170226803",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "170226803",
+                "scene_pre": "search",
+                "current_price": "250.00",
+                "x_sku_ids": "1105136066",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "170226803"
+            },
+            "productUrl": "//www.daraz.com.bd/products/500-i170226803-s1105136066.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/78ac5f412bd5cdd4c3d8b7d661a0b6fe.jpg",
+            "originalPrice": "320.00",
+            "originalPriceShow": "৳ 320",
+            "price": "250.00",
+            "promotionId": "null",
+            "priceShow": "৳ 250",
+            "discount": "-22%",
+            "ratingScore": "4.63158",
+            "review": "19",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "170226803_BD-1105136066",
+            "sku": "170226803_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1015678",
+            "mainSellerId": "",
+            "sellerName": "Shokher Tula 180 Tk",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/78ac5f412bd5cdd4c3d8b7d661a0b6fe.jpg",
+                    "productUrl": "/products/500-i170226803-s1105136066.html",
+                    "sku": "170226803_BD",
+                    "skuId": "1105136066"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10298,
+                10301
+            ],
+            "clickTrace": "query:;nid:170226803;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:170226803_BD;price:250.00;client:desktop;supplier_id:1015678;asc_category_id:10301;item_id:170226803;sku_id:1105136066;shop_id:21606",
+            "addToCartSkus": [
+                {
+                    "sku": "170226803_BD-1105136066",
+                    "skuId": "1105136066",
+                    "count": 0
+                }
+            ],
+            "itemId": "170226803",
+            "skuId": "1105136066",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pet Hair Removal Comb Pet Hair Comb Trimmer Plastic Handle Stainless Steel Needle Comb",
+            "nid": "228245173",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "228245173",
+                "scene_pre": "search",
+                "current_price": "170.00",
+                "x_sku_ids": "1172117947",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "228245173"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i228245173-s1172117947.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/554a3607d97b459e32ac4b5b41cea671.jpg",
+            "originalPrice": "220.00",
+            "originalPriceShow": "৳ 220",
+            "price": "170.00",
+            "promotionId": "null",
+            "priceShow": "৳ 170",
+            "discount": "-23%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "228245173_BD-1172117947",
+            "sku": "228245173_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504959163",
+            "mainSellerId": "",
+            "sellerName": "Twin",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/554a3607d97b459e32ac4b5b41cea671.jpg",
+                    "productUrl": "/products/-i228245173-s1172117947.html",
+                    "sku": "228245173_BD",
+                    "skuId": "1172117947"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10337,
+                10338
+            ],
+            "clickTrace": "query:;nid:228245173;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:228245173_BD;price:170.00;client:desktop;supplier_id:700504959163;asc_category_id:10338;item_id:228245173;sku_id:1172117947;shop_id:53090",
+            "addToCartSkus": [
+                {
+                    "sku": "228245173_BD-1172117947",
+                    "skuId": "1172117947",
+                    "count": 0
+                }
+            ],
+            "itemId": "228245173",
+            "skuId": "1172117947",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cat Harness and Leash Set Reflective Kitten Puppy Dogs Jacket Mesh Pet Clothes",
+            "nid": "184193058",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184193058",
+                "scene_pre": "search",
+                "current_price": "215.00",
+                "x_sku_ids": "1128955050",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "184193058"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i184193058-s1128955050.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2c20b0901cc19dc24446acdbec529f4d.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "215.00",
+            "promotionId": "null",
+            "priceShow": "৳ 215",
+            "discount": "-52%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184193058_BD-1128955050",
+            "sku": "184193058_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1019867",
+            "mainSellerId": "",
+            "sellerName": "BazarSquare",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2c20b0901cc19dc24446acdbec529f4d.jpg",
+                    "productUrl": "/products/-i184193058-s1128955050.html",
+                    "sku": "184193058_BD",
+                    "skuId": "1128955050"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002087,
+                10002265
+            ],
+            "clickTrace": "query:;nid:184193058;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:184193058_BD;price:215.00;client:desktop;supplier_id:1019867;asc_category_id:10002265;item_id:184193058;sku_id:1128955050;shop_id:26102",
+            "addToCartSkus": [
+                {
+                    "sku": "184193058_BD-1128955050",
+                    "skuId": "1128955050",
+                    "count": 0
+                }
+            ],
+            "itemId": "184193058",
+            "skuId": "1128955050",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cat Walking Jacket Puppy Small Dog Harness and Leash Pets Puppy Kitten Clothes Adjustable Vest",
+            "nid": "225849638",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225849638",
+                "scene_pre": "search",
+                "current_price": "280.00",
+                "x_sku_ids": "1170751479",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "225849638"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i225849638-s1170751479.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5aab04d0626062a4e3b3088c4eb38375.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "280.00",
+            "promotionId": "null",
+            "priceShow": "৳ 280",
+            "discount": "-30%",
+            "ratingScore": "4.5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225849638_BD-1170751479",
+            "sku": "225849638_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504959163",
+            "mainSellerId": "",
+            "sellerName": "Twin",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5aab04d0626062a4e3b3088c4eb38375.jpg",
+                    "productUrl": "/products/-i225849638-s1170751479.html",
+                    "sku": "225849638_BD",
+                    "skuId": "1170751479"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002087,
+                10002262
+            ],
+            "clickTrace": "query:;nid:225849638;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:225849638_BD;price:280.00;client:desktop;supplier_id:700504959163;asc_category_id:10002262;item_id:225849638;sku_id:1170751479;shop_id:53090",
+            "addToCartSkus": [
+                {
+                    "sku": "225849638_BD-1170751479",
+                    "skuId": "1170751479",
+                    "count": 0
+                }
+            ],
+            "itemId": "225849638",
+            "skuId": "1170751479",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dog Cat Mouth Cover Muzzle Size-5",
+            "nid": "197303163",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "197303163",
+                "scene_pre": "search",
+                "current_price": "290.00",
+                "x_sku_ids": "1143886445",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "197303163"
+            },
+            "productUrl": "//www.daraz.com.bd/products/5-i197303163-s1143886445.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c8c4e4c068d6e78240e64b3d15ca80f7.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "290.00",
+            "promotionId": "null",
+            "priceShow": "৳ 290",
+            "discount": "-36%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "197303163_BD-1143886445",
+            "sku": "197303163_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1031676",
+            "mainSellerId": "",
+            "sellerName": "Mokka Store BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c8c4e4c068d6e78240e64b3d15ca80f7.jpg",
+                    "productUrl": "/products/5-i197303163-s1143886445.html",
+                    "sku": "197303163_BD",
+                    "skuId": "1143886445"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002087,
+                10002267
+            ],
+            "clickTrace": "query:;nid:197303163;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:197303163_BD;price:290.00;client:desktop;supplier_id:1031676;asc_category_id:10002267;item_id:197303163;sku_id:1143886445;shop_id:37692",
+            "addToCartSkus": [
+                {
+                    "sku": "197303163_BD-1143886445",
+                    "skuId": "1143886445",
+                    "count": 0
+                }
+            ],
+            "itemId": "197303163",
+            "skuId": "1143886445",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dog Mouth Cover Muzzle Size-3",
+            "nid": "197279881",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "197279881",
+                "scene_pre": "search",
+                "current_price": "250.00",
+                "x_sku_ids": "1143878643",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "197279881"
+            },
+            "productUrl": "//www.daraz.com.bd/products/3-i197279881-s1143878643.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c8c4e4c068d6e78240e64b3d15ca80f7.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "250.00",
+            "promotionId": "null",
+            "priceShow": "৳ 250",
+            "discount": "-38%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "197279881_BD-1143878643",
+            "sku": "197279881_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1031676",
+            "mainSellerId": "",
+            "sellerName": "Mokka Store BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c8c4e4c068d6e78240e64b3d15ca80f7.jpg",
+                    "productUrl": "/products/3-i197279881-s1143878643.html",
+                    "sku": "197279881_BD",
+                    "skuId": "1143878643"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002087,
+                10002267
+            ],
+            "clickTrace": "query:;nid:197279881;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:197279881_BD;price:250.00;client:desktop;supplier_id:1031676;asc_category_id:10002267;item_id:197279881;sku_id:1143878643;shop_id:37692",
+            "addToCartSkus": [
+                {
+                    "sku": "197279881_BD-1143878643",
+                    "skuId": "1143878643",
+                    "count": 0
+                }
+            ],
+            "itemId": "197279881",
+            "skuId": "1143878643",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SmartHeart Dog Food Beef & Milk Flavor 3kg",
+            "nid": "200089150",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "200089150",
+                "scene_pre": "search",
+                "current_price": "820.00",
+                "x_sku_ids": "1147317964",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "200089150"
+            },
+            "productUrl": "//www.daraz.com.bd/products/smartheart-3kg-i200089150-s1147317964.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d8a4752f6759bea78f5366c893b82f28.jpg",
+            "originalPrice": "1250.00",
+            "originalPriceShow": "৳ 1,250",
+            "price": "820.00",
+            "promotionId": "null",
+            "priceShow": "৳ 820",
+            "discount": "-34%",
+            "ratingScore": "4.5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "200089150_BD-1147317964",
+            "sku": "200089150_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1031676",
+            "mainSellerId": "",
+            "sellerName": "Mokka Store BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d8a4752f6759bea78f5366c893b82f28.jpg",
+                    "productUrl": "/products/smartheart-3kg-i200089150-s1147317964.html",
+                    "sku": "200089150_BD",
+                    "skuId": "1147317964"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10298,
+                10301
+            ],
+            "clickTrace": "query:;nid:200089150;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:200089150_BD;price:820.00;client:desktop;supplier_id:1031676;asc_category_id:10301;item_id:200089150;sku_id:1147317964;shop_id:37692",
+            "addToCartSkus": [
+                {
+                    "sku": "200089150_BD-1147317964",
+                    "skuId": "1147317964",
+                    "count": 0
+                }
+            ],
+            "itemId": "200089150",
+            "skuId": "1147317964",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pet Grooming Gloves Dog Bathing Scrubber Gloves, Heat Resistant Eco-Friendly Silicone Hair Removal Gloves with High Density Teeth for Cats, Dogs",
+            "nid": "173780598",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "173780598",
+                "scene_pre": "search",
+                "current_price": "250.00",
+                "x_sku_ids": "1110434604",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "173780598"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i173780598-s1110434604.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/27d721b7377ecafea00e364235450528.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "250.00",
+            "promotionId": "null",
+            "priceShow": "৳ 250",
+            "discount": "-38%",
+            "ratingScore": "5",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "173780598_BD-1110434604",
+            "sku": "173780598_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1015678",
+            "mainSellerId": "",
+            "sellerName": "Shokher Tula 180 Tk",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/27d721b7377ecafea00e364235450528.jpg",
+                    "productUrl": "/products/-i173780598-s1110434604.html",
+                    "sku": "173780598_BD",
+                    "skuId": "1110434604"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10337,
+                10002238
+            ],
+            "clickTrace": "query:;nid:173780598;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:173780598_BD;price:250.00;client:desktop;supplier_id:1015678;asc_category_id:10002238;item_id:173780598;sku_id:1110434604;shop_id:21606",
+            "addToCartSkus": [
+                {
+                    "sku": "173780598_BD-1110434604",
+                    "skuId": "1110434604",
+                    "count": 0
+                }
+            ],
+            "itemId": "173780598",
+            "skuId": "1110434604",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "PEDIGREE Adult Dog Pouch Roasted Beef Chunks in Gravy with Vegetables 80gm",
+            "nid": "184854827",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184854827",
+                "scene_pre": "search",
+                "current_price": "85.00",
+                "x_sku_ids": "1130111846",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "184854827"
+            },
+            "productUrl": "//www.daraz.com.bd/products/80-i184854827-s1130111846.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/96bd7481949b009f8f8ae69c262dac0f.png",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "85.00",
+            "promotionId": "null",
+            "priceShow": "৳ 85",
+            "discount": "-43%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184854827_BD-1130111846",
+            "sku": "184854827_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1015678",
+            "mainSellerId": "",
+            "sellerName": "Shokher Tula 180 Tk",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/96bd7481949b009f8f8ae69c262dac0f.png",
+                    "productUrl": "/products/80-i184854827-s1130111846.html",
+                    "sku": "184854827_BD",
+                    "skuId": "1130111846"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10298,
+                10311,
+                10314
+            ],
+            "clickTrace": "query:;nid:184854827;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:184854827_BD;price:85.00;client:desktop;supplier_id:1015678;asc_category_id:10314;item_id:184854827;sku_id:1130111846;shop_id:21606",
+            "addToCartSkus": [
+                {
+                    "sku": "184854827_BD-1130111846",
+                    "skuId": "1130111846",
+                    "count": 0
+                }
+            ],
+            "itemId": "184854827",
+            "skuId": "1130111846",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Adjustable Pet Cat Collar With Bell Puppy Neck Strap Soft For Small Dog Collars Cat Belt",
+            "nid": "231787707",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "231787707",
+                "scene_pre": "search",
+                "current_price": "55",
+                "x_sku_ids": "1174889598",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "231787707"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i231787707-s1174889598.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/98a877068c1c53b9fe1a7c4bf0a276fc.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "55",
+            "promotionId": "null",
+            "priceShow": "৳ 55",
+            "discount": "-54%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "231787707_BD-1174889598",
+            "sku": "231787707_BD",
+            "skus": [],
+            "description": [
+                "Material:Polyester",
+                "Color:pink,yellow,red,blue,green,purple",
+                "Size:Adjustable 19-30cm"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507353094",
+            "mainSellerId": "",
+            "sellerName": "Rj Fashions",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/98a877068c1c53b9fe1a7c4bf0a276fc.jpg",
+                    "productUrl": "/products/-i231787707-s1174889598.html",
+                    "sku": "231787707_BD",
+                    "skuId": "1174889598"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/37ca90c90b999d3eae145e96aebba169.jpg",
+                    "productUrl": "/products/-i231787707-s1174889601.html",
+                    "sku": "231787707_BD",
+                    "skuId": "1174889601"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/22473ba3a2a9ae19362a8895a4b5a511.jpg",
+                    "productUrl": "/products/-i231787707-s1174889599.html",
+                    "sku": "231787707_BD",
+                    "skuId": "1174889599"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/aea14f2ba971831cee0be58cf0973e0a.jpg",
+                    "productUrl": "/products/-i231787707-s1174889603.html",
+                    "sku": "231787707_BD",
+                    "skuId": "1174889603"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f6a7aac2fc5b3939253a9519c1dcd995.jpg",
+                    "productUrl": "/products/-i231787707-s1174889602.html",
+                    "sku": "231787707_BD",
+                    "skuId": "1174889602"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3c58ce05b69385026a78b0e09a2685ae.jpg",
+                    "productUrl": "/products/-i231787707-s1174889600.html",
+                    "sku": "231787707_BD",
+                    "skuId": "1174889600"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c8d35452a721105ea59694978e37ba3c.jpg",
+                    "productUrl": "/products/-i231787707-s1174889604.html",
+                    "sku": "231787707_BD",
+                    "skuId": "1174889604"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002087,
+                10002262
+            ],
+            "clickTrace": "query:;nid:231787707;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:231787707_BD;price:55;client:desktop;supplier_id:700507353094;asc_category_id:10002262;item_id:231787707;sku_id:1174889598;shop_id:90407",
+            "addToCartSkus": [
+                {
+                    "sku": "231787707_BD-1174889598",
+                    "skuId": "1174889598",
+                    "count": 0
+                }
+            ],
+            "itemId": "231787707",
+            "skuId": "1174889598",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Himlaya Erina-EP Dog & Cat Shampoo 200ml",
+            "nid": "209860022",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209860022",
+                "scene_pre": "search",
+                "current_price": "514",
+                "x_sku_ids": "1160099705",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "209860022"
+            },
+            "productUrl": "//www.daraz.com.bd/products/himlaya-erina-ep-200ml-i209860022-s1160099705.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/81d81d20c9fea58248836bc910ea6905.jpg",
+            "originalPrice": "535.00",
+            "originalPriceShow": "৳ 535",
+            "price": "514",
+            "promotionId": "null",
+            "priceShow": "৳ 514",
+            "discount": "-4%",
+            "ratingScore": "3.5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209860022_BD-1160099705",
+            "sku": "209860022_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4053",
+            "mainSellerId": "",
+            "sellerName": "COMFY BAZAR",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/81d81d20c9fea58248836bc910ea6905.jpg",
+                    "productUrl": "/products/himlaya-erina-ep-200ml-i209860022-s1160099705.html",
+                    "sku": "209860022_BD",
+                    "skuId": "1160099705"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10337,
+                10002238
+            ],
+            "clickTrace": "query:;nid:209860022;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:209860022_BD;price:514;client:desktop;supplier_id:4053;asc_category_id:10002238;item_id:209860022;sku_id:1160099705;shop_id:4177",
+            "addToCartSkus": [
+                {
+                    "sku": "209860022_BD-1160099705",
+                    "skuId": "1160099705",
+                    "count": 0
+                }
+            ],
+            "itemId": "209860022",
+            "skuId": "1160099705",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pet Puppy Dogs Adjustable Collar with Bells Paw Printed Design Nylon Cat Kitten Collars Neck Strap",
+            "nid": "180342988",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "180342988",
+                "scene_pre": "search",
+                "current_price": "45",
+                "x_sku_ids": "1121587253",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "180342988"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i180342988-s1121587253.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/83d0f6eae4b6c11199d85ee0c6b060ea.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "45",
+            "promotionId": "null",
+            "priceShow": "৳ 45",
+            "discount": "-82%",
+            "ratingScore": "4.08",
+            "review": "225",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "180342988_BD-1121587253",
+            "sku": "180342988_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507620243",
+            "mainSellerId": "",
+            "sellerName": "AR FASHION WORLD BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/83d0f6eae4b6c11199d85ee0c6b060ea.jpg",
+                    "productUrl": "/products/-i180342988-s1121587253.html",
+                    "sku": "180342988_BD",
+                    "skuId": "1121587253"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/83d0f6eae4b6c11199d85ee0c6b060ea.jpg",
+                    "productUrl": "/products/-i180342988-s1121587257.html",
+                    "sku": "180342988_BD",
+                    "skuId": "1121587257"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/83d0f6eae4b6c11199d85ee0c6b060ea.jpg",
+                    "productUrl": "/products/-i180342988-s1121587256.html",
+                    "sku": "180342988_BD",
+                    "skuId": "1121587256"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/83d0f6eae4b6c11199d85ee0c6b060ea.jpg",
+                    "productUrl": "/products/-i180342988-s1121587254.html",
+                    "sku": "180342988_BD",
+                    "skuId": "1121587254"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/83d0f6eae4b6c11199d85ee0c6b060ea.jpg",
+                    "productUrl": "/products/-i180342988-s1121587255.html",
+                    "sku": "180342988_BD",
+                    "skuId": "1121587255"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/4493aacf237be959918d8204d374a781.jpg",
+                    "productUrl": "/products/-i180342988-s1134681191.html",
+                    "sku": "180342988_BD",
+                    "skuId": "1134681191"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002087,
+                10002262
+            ],
+            "clickTrace": "query:;nid:180342988;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:180342988_BD;price:45;client:desktop;supplier_id:700507620243;asc_category_id:10002262;item_id:180342988;sku_id:1121587253;shop_id:101531",
+            "addToCartSkus": [
+                {
+                    "sku": "180342988_BD-1121587253",
+                    "skuId": "1121587253",
+                    "count": 0
+                }
+            ],
+            "itemId": "180342988",
+            "skuId": "1121587253",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nunbell Antibacterial Dog Shampoo 350ml",
+            "nid": "195213573",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "195213573",
+                "scene_pre": "search",
+                "current_price": "520.00",
+                "x_sku_ids": "1141519924",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "195213573"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nunbell-350ml-i195213573-s1141519924.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/575cac772e6b15a65ea7ef8542146713.jpg",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "520.00",
+            "promotionId": "null",
+            "priceShow": "৳ 520",
+            "discount": "-31%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "195213573_BD-1141519924",
+            "sku": "195213573_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1015678",
+            "mainSellerId": "",
+            "sellerName": "Shokher Tula 180 Tk",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/575cac772e6b15a65ea7ef8542146713.jpg",
+                    "productUrl": "/products/nunbell-350ml-i195213573-s1141519924.html",
+                    "sku": "195213573_BD",
+                    "skuId": "1141519924"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10337,
+                10002238
+            ],
+            "clickTrace": "query:;nid:195213573;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:195213573_BD;price:520.00;client:desktop;supplier_id:1015678;asc_category_id:10002238;item_id:195213573;sku_id:1141519924;shop_id:21606",
+            "addToCartSkus": [
+                {
+                    "sku": "195213573_BD-1141519924",
+                    "skuId": "1141519924",
+                    "count": 0
+                }
+            ],
+            "itemId": "195213573",
+            "skuId": "1141519924",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Purepet Adult Dog Biscuits Real Chicken -905gm",
+            "nid": "188466380",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "188466380",
+                "scene_pre": "search",
+                "current_price": "588.00",
+                "x_sku_ids": "1135859882",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "188466380"
+            },
+            "productUrl": "//www.daraz.com.bd/products/purepet-adult-dog-biscuits-real-chicken-905gm-i188466380-s1135859882.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b834d72684729f1a41b1606925c2c8c2.png",
+            "originalPrice": "999.00",
+            "originalPriceShow": "৳ 999",
+            "price": "588.00",
+            "promotionId": "null",
+            "priceShow": "৳ 588",
+            "discount": "-41%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "188466380_BD-1135859882",
+            "sku": "188466380_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508541540",
+            "mainSellerId": "",
+            "sellerName": "Aspire BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b834d72684729f1a41b1606925c2c8c2.png",
+                    "productUrl": "/products/purepet-adult-dog-biscuits-real-chicken-905gm-i188466380-s1135859882.html",
+                    "sku": "188466380_BD",
+                    "skuId": "1135859882"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10321,
+                10323
+            ],
+            "clickTrace": "query:;nid:188466380;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:188466380_BD;price:588.00;client:desktop;supplier_id:700508541540;asc_category_id:10323;item_id:188466380;sku_id:1135859882;shop_id:167198",
+            "addToCartSkus": [
+                {
+                    "sku": "188466380_BD-1135859882",
+                    "skuId": "1135859882",
+                    "count": 0
+                }
+            ],
+            "itemId": "188466380",
+            "skuId": "1135859882",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Smart Heart Adult Chicken and Liver 500gm.",
+            "nid": "166022169",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "166022169",
+                "scene_pre": "search",
+                "current_price": "250.00",
+                "x_sku_ids": "1099554004",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "166022169"
+            },
+            "productUrl": "//www.daraz.com.bd/products/500-i166022169-s1099554004.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d66e78c3a0f62e557a87cae287be8115.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "250.00",
+            "promotionId": "null",
+            "priceShow": "৳ 250",
+            "discount": "-29%",
+            "ratingScore": "4.46875",
+            "review": "32",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "166022169_BD-1099554004",
+            "sku": "166022169_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1015678",
+            "mainSellerId": "",
+            "sellerName": "Shokher Tula 180 Tk",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d66e78c3a0f62e557a87cae287be8115.jpg",
+                    "productUrl": "/products/500-i166022169-s1099554004.html",
+                    "sku": "166022169_BD",
+                    "skuId": "1099554004"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10298,
+                10301
+            ],
+            "clickTrace": "query:;nid:166022169;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:166022169_BD;price:250.00;client:desktop;supplier_id:1015678;asc_category_id:10301;item_id:166022169;sku_id:1099554004;shop_id:21606",
+            "addToCartSkus": [
+                {
+                    "sku": "166022169_BD-1099554004",
+                    "skuId": "1099554004",
+                    "count": 0
+                }
+            ],
+            "itemId": "166022169",
+            "skuId": "1099554004",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dog Cat Mouth Cover Muzzle Size-7",
+            "nid": "197294600",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "197294600",
+                "scene_pre": "search",
+                "current_price": "350.00",
+                "x_sku_ids": "1143891242",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "197294600"
+            },
+            "productUrl": "//www.daraz.com.bd/products/7-i197294600-s1143891242.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d12b0802891b33bae99009bb8f644b98.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "350.00",
+            "promotionId": "null",
+            "priceShow": "৳ 350",
+            "discount": "-36%",
+            "ratingScore": "4.33333",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "197294600_BD-1143891242",
+            "sku": "197294600_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1031676",
+            "mainSellerId": "",
+            "sellerName": "Mokka Store BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d12b0802891b33bae99009bb8f644b98.jpg",
+                    "productUrl": "/products/7-i197294600-s1143891242.html",
+                    "sku": "197294600_BD",
+                    "skuId": "1143891242"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10002087,
+                10002267
+            ],
+            "clickTrace": "query:;nid:197294600;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:197294600_BD;price:350.00;client:desktop;supplier_id:1031676;asc_category_id:10002267;item_id:197294600;sku_id:1143891242;shop_id:37692",
+            "addToCartSkus": [
+                {
+                    "sku": "197294600_BD-1143891242",
+                    "skuId": "1143891242",
+                    "count": 0
+                }
+            ],
+            "itemId": "197294600",
+            "skuId": "1143891242",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SmarthHeart Puppy Dog Dry Food Beef and Milk Flavor 3kg",
+            "nid": "180845071",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "180845071",
+                "scene_pre": "search",
+                "current_price": "950.00",
+                "x_sku_ids": "1122119761",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "180845071"
+            },
+            "productUrl": "//www.daraz.com.bd/products/smarthheart-3kg-i180845071-s1122119761.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a605d7b16c3d84728574a2a8ee7562bd.jpg",
+            "originalPrice": "1250.00",
+            "originalPriceShow": "৳ 1,250",
+            "price": "950.00",
+            "promotionId": "null",
+            "priceShow": "৳ 950",
+            "discount": "-24%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "180845071_BD-1122119761",
+            "sku": "180845071_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507620243",
+            "mainSellerId": "",
+            "sellerName": "AR FASHION WORLD BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a605d7b16c3d84728574a2a8ee7562bd.jpg",
+                    "productUrl": "/products/smarthheart-3kg-i180845071-s1122119761.html",
+                    "sku": "180845071_BD",
+                    "skuId": "1122119761"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10298,
+                10301
+            ],
+            "clickTrace": "query:;nid:180845071;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:180845071_BD;price:950.00;client:desktop;supplier_id:700507620243;asc_category_id:10301;item_id:180845071;sku_id:1122119761;shop_id:101531",
+            "addToCartSkus": [
+                {
+                    "sku": "180845071_BD-1122119761",
+                    "skuId": "1122119761",
+                    "count": 0
+                }
+            ],
+            "itemId": "180845071",
+            "skuId": "1122119761",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SmartHeart 1year+Dog Dry Food Chicken and Liver 3kg",
+            "nid": "133794116",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "133794116",
+                "scene_pre": "search",
+                "current_price": "950.00",
+                "x_sku_ids": "1055564080",
+                "SN": "964de53d5ffed4328706d8a65b4b8d3c",
+                "x_ad": "1",
+                "x_object_id": "133794116"
+            },
+            "productUrl": "//www.daraz.com.bd/products/smartheart-1yeardog-dry-food-chicken-and-liver-3kg-i133794116-s1055564080.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a6867f19ab564704b1db9cc2afecd05e.jpg",
+            "originalPrice": "1500.00",
+            "originalPriceShow": "৳ 1,500",
+            "price": "950.00",
+            "promotionId": "null",
+            "priceShow": "৳ 950",
+            "discount": "-37%",
+            "ratingScore": "4.64706",
+            "review": "17",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "133794116_BD-1055564080",
+            "sku": "133794116_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1015678",
+            "mainSellerId": "",
+            "sellerName": "Shokher Tula 180 Tk",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a6867f19ab564704b1db9cc2afecd05e.jpg",
+                    "productUrl": "/products/smartheart-1yeardog-dry-food-chicken-and-liver-3kg-i133794116-s1055564080.html",
+                    "sku": "133794116_BD",
+                    "skuId": "1055564080"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                10282,
+                10286,
+                10298,
+                10301
+            ],
+            "clickTrace": "query:;nid:133794116;src:LazadaMainSrp;rn:964de53d5ffed4328706d8a65b4b8d3c;region:bd;sku:133794116_BD;price:950.00;client:desktop;supplier_id:1015678;asc_category_id:10301;item_id:133794116;sku_id:1055564080;shop_id:21606",
+            "addToCartSkus": [
+                {
+                    "sku": "133794116_BD-1055564080",
+                    "skuId": "1055564080",
+                    "count": 0
+                }
+            ],
+            "itemId": "133794116",
+            "skuId": "1055564080",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/pet-supplies-shop/",
+            "title": "Pet Supplies"
+        },
+        {
+            "url": "/dogs-supplies/",
+            "title": "Dog"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/dogs-supplies/?referer_rn=964de53d5ffed4328706d8a65b4b8d3c&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {},
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/collars-harnesses/?item_id=214817689&from=onesearch_category_10286",
+                "name": "Collars",
+                "image": "//static-01.daraz.com.bd/p/b4148a06cb8b109d63dbd169fefbb915.jpg",
+                "id": "10002262"
+            },
+            {
+                "url": "/shop-dry-dog-food/?item_id=122702165&from=onesearch_category_10286",
+                "name": "Dog Dry Food",
+                "image": "//static-01.daraz.com.bd/p/d1b89e18451ae533fe9bb40028c407fc.jpg",
+                "id": "10301"
+            },
+            {
+                "url": "/grooming-supplies/?item_id=168886069&from=onesearch_category_10286",
+                "name": "Brushes & Combs",
+                "image": "//static-01.daraz.com.bd/p/c75bd75d6e2c800b080d6408bdbed577.png",
+                "id": "10338"
+            },
+            {
+                "url": "/dog-harnesses/?item_id=184364849&from=onesearch_category_10286",
+                "name": "Harnesses",
+                "image": "//static-01.daraz.com.bd/p/f2a1a67bcd853dca48183c7d6363da34.jpg",
+                "id": "10002265"
+            },
+            {
+                "url": "/toys/?item_id=122712323&from=onesearch_category_10286",
+                "name": "Dog Toys",
+                "image": "//static-01.daraz.com.bd/p/329cf6e5a3861986d71182474be5c853.jpg",
+                "id": "10336"
+            },
+            {
+                "url": "/dog-bowls/?item_id=132792205&from=onesearch_category_10286",
+                "name": "Bowls & Diners",
+                "image": "//static-01.daraz.com.bd/p/mdc/465929fc74e5160b3691e6ce8d59b62e.jpg",
+                "id": "10002255"
+            },
+            {
+                "url": "/dog-costumes/?item_id=175602187&from=onesearch_category_10286",
+                "name": "Costumes",
+                "image": "//static-01.daraz.com.bd/p/3545019526792e34dd07a464a137f1e8.jpg",
+                "id": "10002248"
+            },
+            {
+                "url": "/dog-gps-tracker/?item_id=225698566&from=onesearch_category_10286",
+                "name": "GPS tracker",
+                "image": "//static-01.daraz.com.bd/p/83ba324a3f8e2d59c5ad7a3dc4c043ed.jpg",
+                "id": "10002269"
+            },
+            {
+                "url": "/dog-flea-tick-sprays/?item_id=157964353&from=onesearch_category_10286",
+                "name": "Sprays",
+                "image": "//static-01.daraz.com.bd/p/mdc/f0f7c835fad447288740e94e33943101.jpg",
+                "id": "10002275"
+            },
+            {
+                "url": "/dog-bicycle-accessories/?item_id=143016664&from=onesearch_category_10286",
+                "name": "Bicycle Accessories",
+                "image": "//static-01.daraz.com.bd/p/43cd064e71a863a488cb1b39540cd057.jpg",
+                "id": "10002280"
+            },
+            {
+                "url": "/beds-feeding-accessories/?item_id=134074942&from=onesearch_category_10286",
+                "name": "Beds",
+                "image": "//static-01.daraz.com.bd/p/82060f7f6335d2d08004d680c66a5c4a.jpg",
+                "id": "10002239"
+            },
+            {
+                "url": "/dog-feeders-waterners/?item_id=107616085&from=onesearch_category_10286",
+                "name": "Feeders & Wateners",
+                "image": "//static-01.daraz.com.bd/p/1ce122cf4d0c10513f9c8fb47976eb83.jpg",
+                "id": "10002258"
+            },
+            {
+                "url": "/dog-shampoos/?item_id=209860022&from=onesearch_category_10286",
+                "name": "Shampoos & Bath Accessories",
+                "image": "//static-01.daraz.com.bd/p/81d81d20c9fea58248836bc910ea6905.jpg",
+                "id": "10002238"
+            },
+            {
+                "url": "/dog-leashes/?item_id=169098768&from=onesearch_category_10286",
+                "name": "Leashes",
+                "image": "//static-01.daraz.com.bd/p/mdc/1ecfd1083c09b289198368f29e733ba4.jpg",
+                "id": "10002264"
+            },
+            {
+                "url": "//?item_id=210174258&from=onesearch_category_10286",
+                "name": "Collars & Harnesses",
+                "image": "//static-01.daraz.com.bd/p/4ce117e0ccdd1e89ba2c631839a9b58b.jpg",
+                "id": "10294"
+            },
+            {
+                "url": "//?item_id=226271948&from=onesearch_category_10286",
+                "name": "Dog Carriers",
+                "image": "//static-01.daraz.com.bd/p/f2a1a67bcd853dca48183c7d6363da34.jpg",
+                "id": "10360"
+            },
+            {
+                "url": "/dogs-claw-care/?item_id=214957231&from=onesearch_category_10286",
+                "name": "Claw Care",
+                "image": "//static-01.daraz.com.bd/p/a9e91773ce872c9e207cf44f7190abe7.jpg",
+                "id": "10339"
+            },
+            {
+                "url": "/dog-shampoos-flea-tick/?item_id=187410458&from=onesearch_category_10286",
+                "name": "Shampoos",
+                "image": "//static-01.daraz.com.bd/p/a3a6594b2bdba79596726083fc579969.jpg",
+                "id": "10002276"
+            },
+            {
+                "url": "/dog-fences/?item_id=145280235&from=onesearch_category_10286",
+                "name": "Fence Systems",
+                "image": "//static-01.daraz.com.bd/p/c8dabf69cc9b3ba8325bf1c5d29c1f85.jpg",
+                "id": "10002285"
+            },
+            {
+                "url": "/dog-dresses/?item_id=213543998&from=onesearch_category_10286",
+                "name": "Dresses",
+                "image": "//static-01.daraz.com.bd/p/e82d7b3833f6b7275cf25490923bd4aa.jpg",
+                "id": "10002249"
+            },
+            {
+                "url": "/dogcarriers/?item_id=186227944&from=onesearch_category_10286",
+                "name": "Carriers Purses",
+                "image": "//static-01.daraz.com.bd/p/d182d25620d636dca327cdb6686d3216.jpg",
+                "id": "10002277"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_10286"
+        },
+        "title": "",
+        "bizId": "onesearch_category_10286",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "44169 items found in {$0}",
+        "title": "Dog",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Dog"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Dog",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "964de53d5ffed4328706d8a65b4b8d3c",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "10286",
+            "category": "10286"
+        },
+        "categoryRegionalKey": "200100000000",
+        "mainCategoryRegionalKey": "200000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "কুকুর at Best Price | 20% Off on Daraz | Buy Online",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Pet Supplies,Dog",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "200100000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=10286&_p_asc_cateid=10286",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "dogs-supplies",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "964de53d5ffed4328706d8a65b4b8d3c",
+                "resultNr": 44169,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1134282720",
+                "1089110165",
+                "1134280788"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "10286",
+            "category": "10286"
+        }
+    }
+}

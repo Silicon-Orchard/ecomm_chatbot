@@ -1,0 +1,4087 @@
+{
+    "listItems": [
+        {
+            "name": "Black colour long sleeve sweet shirt",
+            "nid": "209813086",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209813086",
+                "scene_pre": "search",
+                "current_price": "244",
+                "x_sku_ids": "1160076843",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "209813086"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i209813086-s1160076843.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3e167bac195385f8c85a694da9b489a7.jpg",
+            "originalPrice": "695.00",
+            "originalPriceShow": "৳ 695",
+            "price": "244",
+            "promotionId": "null",
+            "priceShow": "৳ 244",
+            "discount": "-65%",
+            "ratingScore": "4.45342",
+            "review": "161",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209813086_BD-1160076843",
+            "sku": "209813086_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507293054",
+            "mainSellerId": "",
+            "sellerName": "F H Trading",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3e167bac195385f8c85a694da9b489a7.jpg",
+                    "productUrl": "/products/-i209813086-s1160076843.html",
+                    "sku": "209813086_BD",
+                    "skuId": "1160076843"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:209813086;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:209813086_BD;price:244;client:desktop;supplier_id:700507293054;asc_category_id:1785;item_id:209813086;sku_id:1160076843;shop_id:89991",
+            "addToCartSkus": [
+                {
+                    "sku": "209813086_BD-1160076843",
+                    "title": "Int L",
+                    "skuId": "1160076843",
+                    "count": 0
+                },
+                {
+                    "sku": "209813086_BD-1160076844",
+                    "title": "Int XL",
+                    "skuId": "1160076844",
+                    "count": 0
+                }
+            ],
+            "itemId": "209813086",
+            "skuId": "1160076843",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Maroon color Long Sleeve Sweet-shirt",
+            "nid": "209848999",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209848999",
+                "scene_pre": "search",
+                "current_price": "227",
+                "x_sku_ids": "1160095910",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "209848999"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i209848999-s1160095910.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/690353493fa1db37c5628ee9c1ad8945.jpg",
+            "originalPrice": "699.00",
+            "originalPriceShow": "৳ 699",
+            "price": "227",
+            "promotionId": "null",
+            "priceShow": "৳ 227",
+            "discount": "-68%",
+            "ratingScore": "4.625",
+            "review": "88",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209848999_BD-1160095910",
+            "sku": "209848999_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507530227",
+            "mainSellerId": "",
+            "sellerName": "FH Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/690353493fa1db37c5628ee9c1ad8945.jpg",
+                    "productUrl": "/products/-i209848999-s1160095910.html",
+                    "sku": "209848999_BD",
+                    "skuId": "1160095910"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:209848999;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:209848999_BD;price:227;client:desktop;supplier_id:700507530227;asc_category_id:1785;item_id:209848999;sku_id:1160095910;shop_id:97174",
+            "addToCartSkus": [
+                {
+                    "sku": "209848999_BD-1160095910",
+                    "title": "Int M",
+                    "skuId": "1160095910",
+                    "count": 0
+                }
+            ],
+            "itemId": "209848999",
+            "skuId": "1160095910",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Gray colour long sleeve sweet shirt",
+            "nid": "209856106",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209856106",
+                "scene_pre": "search",
+                "current_price": "244",
+                "x_sku_ids": "1160094888",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "209856106"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i209856106-s1160094888.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/68101a9c35d80141ca95757ed2032af1.jpg",
+            "originalPrice": "695.00",
+            "originalPriceShow": "৳ 695",
+            "price": "244",
+            "promotionId": "null",
+            "priceShow": "৳ 244",
+            "discount": "-65%",
+            "ratingScore": "4.40471",
+            "review": "467",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209856106_BD-1160094888",
+            "sku": "209856106_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507293054",
+            "mainSellerId": "",
+            "sellerName": "F H Trading",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/68101a9c35d80141ca95757ed2032af1.jpg",
+                    "productUrl": "/products/-i209856106-s1160094888.html",
+                    "sku": "209856106_BD",
+                    "skuId": "1160094888"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:209856106;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:209856106_BD;price:244;client:desktop;supplier_id:700507293054;asc_category_id:1785;item_id:209856106;sku_id:1160094888;shop_id:89991",
+            "addToCartSkus": [
+                {
+                    "sku": "209856106_BD-1160094888",
+                    "title": "Int M",
+                    "skuId": "1160094888",
+                    "count": 0
+                },
+                {
+                    "sku": "209856106_BD-1160094889",
+                    "title": "Int L",
+                    "skuId": "1160094889",
+                    "count": 0
+                },
+                {
+                    "sku": "209856106_BD-1160094890",
+                    "title": "Int XL",
+                    "skuId": "1160094890",
+                    "count": 0
+                }
+            ],
+            "itemId": "209856106",
+            "skuId": "1160094888",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Street chic Long Sleeve Slim Sweatshirt",
+            "nid": "159640008",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "159640008",
+                "scene_pre": "search",
+                "current_price": "144",
+                "x_sku_ids": "1091290254",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "159640008"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i159640008-s1091290254.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5261bdfbf7bbd1e846707c3ee8effaf7.jpg",
+            "originalPrice": "599.00",
+            "originalPriceShow": "৳ 599",
+            "price": "144",
+            "promotionId": "null",
+            "priceShow": "৳ 144",
+            "discount": "-76%",
+            "ratingScore": "4.76136",
+            "review": "88",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "159640008_BD-1091290254",
+            "sku": "159640008_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "3868",
+            "mainSellerId": "",
+            "sellerName": "Dhaka Fashion Wear",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5261bdfbf7bbd1e846707c3ee8effaf7.jpg",
+                    "productUrl": "/products/-i159640008-s1091290254.html",
+                    "sku": "159640008_BD",
+                    "skuId": "1091290254"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:159640008;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:159640008_BD;price:144;client:desktop;supplier_id:3868;asc_category_id:1785;item_id:159640008;sku_id:1091290254;shop_id:4023",
+            "addToCartSkus": [
+                {
+                    "sku": "159640008_BD-1091290252",
+                    "title": "Int M",
+                    "skuId": "1091290252",
+                    "count": 0
+                },
+                {
+                    "sku": "159640008_BD-1091290253",
+                    "title": "Int L",
+                    "skuId": "1091290253",
+                    "count": 0
+                },
+                {
+                    "sku": "159640008_BD-1091290254",
+                    "title": "Int XL",
+                    "skuId": "1091290254",
+                    "count": 0
+                }
+            ],
+            "itemId": "159640008",
+            "skuId": "1091290254",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Gray colour long sleeve sweet shirt",
+            "nid": "209857120",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209857120",
+                "scene_pre": "search",
+                "current_price": "227",
+                "x_sku_ids": "1160099720",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "209857120"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i209857120-s1160099720.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/68101a9c35d80141ca95757ed2032af1.jpg",
+            "originalPrice": "695.00",
+            "originalPriceShow": "৳ 695",
+            "price": "227",
+            "promotionId": "null",
+            "priceShow": "৳ 227",
+            "discount": "-67%",
+            "ratingScore": "4.88235",
+            "review": "34",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209857120_BD-1160099720",
+            "sku": "209857120_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507530227",
+            "mainSellerId": "",
+            "sellerName": "FH Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/68101a9c35d80141ca95757ed2032af1.jpg",
+                    "productUrl": "/products/-i209857120-s1160099720.html",
+                    "sku": "209857120_BD",
+                    "skuId": "1160099720"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:209857120;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:209857120_BD;price:227;client:desktop;supplier_id:700507530227;asc_category_id:1785;item_id:209857120;sku_id:1160099720;shop_id:97174",
+            "addToCartSkus": [
+                {
+                    "sku": "209857120_BD-1160099720",
+                    "title": "Int M",
+                    "skuId": "1160099720",
+                    "count": 0
+                },
+                {
+                    "sku": "209857120_BD-1160099721",
+                    "title": "Int L",
+                    "skuId": "1160099721",
+                    "count": 0
+                },
+                {
+                    "sku": "209857120_BD-1160099722",
+                    "title": "Int XL",
+                    "skuId": "1160099722",
+                    "count": 0
+                }
+            ],
+            "itemId": "209857120",
+            "skuId": "1160099720",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Red colour long sleeve sweet shirt",
+            "nid": "209808155",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209808155",
+                "scene_pre": "search",
+                "current_price": "349.00",
+                "x_sku_ids": "1160078612",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "209808155"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i209808155-s1160078612.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9e69da65d058fa3988abe895cac6da00.jpg",
+            "originalPrice": "679.00",
+            "originalPriceShow": "৳ 679",
+            "price": "349.00",
+            "promotionId": "null",
+            "priceShow": "৳ 349",
+            "discount": "-49%",
+            "ratingScore": "4.47826",
+            "review": "69",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209808155_BD-1160078612",
+            "sku": "209808155_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507293054",
+            "mainSellerId": "",
+            "sellerName": "F H Trading",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9e69da65d058fa3988abe895cac6da00.jpg",
+                    "productUrl": "/products/-i209808155-s1160078612.html",
+                    "sku": "209808155_BD",
+                    "skuId": "1160078612"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:209808155;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:209808155_BD;price:349.00;client:desktop;supplier_id:700507293054;asc_category_id:1785;item_id:209808155;sku_id:1160078612;shop_id:89991",
+            "addToCartSkus": [
+                {
+                    "sku": "209808155_BD-1160078610",
+                    "title": "Int M",
+                    "skuId": "1160078610",
+                    "count": 0
+                },
+                {
+                    "sku": "209808155_BD-1160078611",
+                    "title": "Int L",
+                    "skuId": "1160078611",
+                    "count": 0
+                },
+                {
+                    "sku": "209808155_BD-1160078612",
+                    "title": "Int XL",
+                    "skuId": "1160078612",
+                    "count": 0
+                }
+            ],
+            "itemId": "209808155",
+            "skuId": "1160078612",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "পুরুষদের জন্য সাদা রঙের সোয়েট শার্ট",
+            "nid": "209863414",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209863414",
+                "scene_pre": "search",
+                "current_price": "206",
+                "x_sku_ids": "1160109180",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "209863414"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i209863414-s1160109180.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5a896dcf822c47a34828aa126dc2f3b4.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "206",
+            "promotionId": "null",
+            "priceShow": "৳ 206",
+            "discount": "-63%",
+            "ratingScore": "4.82143",
+            "review": "28",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209863414_BD-1160109180",
+            "sku": "209863414_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508766317",
+            "mainSellerId": "",
+            "sellerName": "Fashion Valley BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5a896dcf822c47a34828aa126dc2f3b4.jpg",
+                    "productUrl": "/products/-i209863414-s1160109180.html",
+                    "sku": "209863414_BD",
+                    "skuId": "1160109180"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:209863414;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:209863414_BD;price:206;client:desktop;supplier_id:700508766317;asc_category_id:1785;item_id:209863414;sku_id:1160109180;shop_id:181700",
+            "addToCartSkus": [
+                {
+                    "sku": "209863414_BD-1160109180",
+                    "title": "Int M",
+                    "skuId": "1160109180",
+                    "count": 0
+                },
+                {
+                    "sku": "209863414_BD-1160109181",
+                    "title": "Int L",
+                    "skuId": "1160109181",
+                    "count": 0
+                },
+                {
+                    "sku": "209863414_BD-1160109182",
+                    "title": "Int XL",
+                    "skuId": "1160109182",
+                    "count": 0
+                }
+            ],
+            "itemId": "209863414",
+            "skuId": "1160109180",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pure cotton comfortable full sleeve( full haata) dark ash/ gray color t shirt for all.",
+            "nid": "190069647",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "190069647",
+                "scene_pre": "search",
+                "current_price": "220",
+                "x_sku_ids": "1137547178",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "190069647"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i190069647-s1137547178.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c2f4ee50f59b74f9c6aeb11094911706.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "220",
+            "promotionId": "null",
+            "priceShow": "৳ 220",
+            "discount": "-51%",
+            "ratingScore": "5",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "190069647_BD-1137547178",
+            "sku": "190069647_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508712083",
+            "mainSellerId": "",
+            "sellerName": "Well Mart BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c2f4ee50f59b74f9c6aeb11094911706.jpg",
+                    "productUrl": "/products/-i190069647-s1137547178.html",
+                    "sku": "190069647_BD",
+                    "skuId": "1137547178"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c2f4ee50f59b74f9c6aeb11094911706.jpg",
+                    "productUrl": "/products/-i190069647-s1137547179.html",
+                    "sku": "190069647_BD",
+                    "skuId": "1137547179"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                4251
+            ],
+            "clickTrace": "query:;nid:190069647;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:190069647_BD;price:220;client:desktop;supplier_id:700508712083;asc_category_id:4251;item_id:190069647;sku_id:1137547178;shop_id:176904",
+            "addToCartSkus": [
+                {
+                    "sku": "190069647_BD-1137547178",
+                    "title": "M",
+                    "skuId": "1137547178",
+                    "count": 0
+                },
+                {
+                    "sku": "190069647_BD-1137547180",
+                    "title": "XL",
+                    "skuId": "1137547180",
+                    "count": 0
+                }
+            ],
+            "itemId": "190069647",
+            "skuId": "1137547178",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Street chic Long Sleeve Slim Sweatshirt",
+            "nid": "159638031",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "159638031",
+                "scene_pre": "search",
+                "current_price": "212",
+                "x_sku_ids": "1091278845",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "159638031"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i159638031-s1091278845.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e2b689553359e56cadee162ed5f3891c.jpg",
+            "originalPrice": "599.00",
+            "originalPriceShow": "৳ 599",
+            "price": "212",
+            "promotionId": "null",
+            "priceShow": "৳ 212",
+            "discount": "-65%",
+            "ratingScore": "4.75168",
+            "review": "149",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "159638031_BD-1091278845",
+            "sku": "159638031_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "3868",
+            "mainSellerId": "",
+            "sellerName": "Dhaka Fashion Wear",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e2b689553359e56cadee162ed5f3891c.jpg",
+                    "productUrl": "/products/-i159638031-s1091278845.html",
+                    "sku": "159638031_BD",
+                    "skuId": "1091278845"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:159638031;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:159638031_BD;price:212;client:desktop;supplier_id:3868;asc_category_id:1785;item_id:159638031;sku_id:1091278845;shop_id:4023",
+            "addToCartSkus": [
+                {
+                    "sku": "159638031_BD-1091278845",
+                    "title": "Int M",
+                    "skuId": "1091278845",
+                    "count": 0
+                },
+                {
+                    "sku": "159638031_BD-1091278846",
+                    "title": "Int L",
+                    "skuId": "1091278846",
+                    "count": 0
+                },
+                {
+                    "sku": "159638031_BD-1091278847",
+                    "title": "Int XL",
+                    "skuId": "1091278847",
+                    "count": 0
+                }
+            ],
+            "itemId": "159638031",
+            "skuId": "1091278845",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Maroon Long Sleeve Sweat Shirt for Men",
+            "nid": "209790816",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209790816",
+                "scene_pre": "search",
+                "current_price": "249.00",
+                "x_sku_ids": "1160078541",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "209790816"
+            },
+            "productUrl": "//www.daraz.com.bd/products/aaaaaaaa-aaaa-aaaaa-aaaa-aaaaaaaa-aaaaaaaaa-aaaaa-aaaaa-aaaaaaaaaa-i209790816-s1160078541.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d489e61afe971c96b59d25ff9b453ad0.jpg",
+            "originalPrice": "679.00",
+            "originalPriceShow": "৳ 679",
+            "price": "249.00",
+            "promotionId": "null",
+            "priceShow": "৳ 249",
+            "discount": "-63%",
+            "ratingScore": "4.32099",
+            "review": "81",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209790816_BD-1160078541",
+            "sku": "209790816_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507293054",
+            "mainSellerId": "",
+            "sellerName": "F H Trading",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d489e61afe971c96b59d25ff9b453ad0.jpg",
+                    "productUrl": "/products/aaaaaaaa-aaaa-aaaaa-aaaa-aaaaaaaa-aaaaaaaaa-aaaaa-aaaaa-aaaaaaaaaa-i209790816-s1160078541.html",
+                    "sku": "209790816_BD",
+                    "skuId": "1160078541"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:209790816;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:209790816_BD;price:249.00;client:desktop;supplier_id:700507293054;asc_category_id:1785;item_id:209790816;sku_id:1160078541;shop_id:89991",
+            "addToCartSkus": [
+                {
+                    "sku": "209790816_BD-1160078541",
+                    "title": "Int M",
+                    "skuId": "1160078541",
+                    "count": 0
+                }
+            ],
+            "itemId": "209790816",
+            "skuId": "1160078541",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Premium Quality  Maroon Color Cotton Full Sleeve Sweater for Men",
+            "nid": "157448920",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "157448920",
+                "scene_pre": "search",
+                "current_price": "380",
+                "x_sku_ids": "1088236310",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "157448920"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i157448920-s1088236310.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b14c3236d5d050544698c22b7d8d1a7d.jpg",
+            "originalPrice": "1240.00",
+            "originalPriceShow": "৳ 1,240",
+            "price": "380",
+            "promotionId": "null",
+            "priceShow": "৳ 380",
+            "discount": "-69%",
+            "ratingScore": "4.76087",
+            "review": "46",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "157448920_BD-1088236310",
+            "sku": "157448920_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "63576",
+            "brandName": "Goodman",
+            "sellerId": "4630",
+            "mainSellerId": "",
+            "sellerName": "GoodMan",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b14c3236d5d050544698c22b7d8d1a7d.jpg",
+                    "productUrl": "/products/-i157448920-s1088236310.html",
+                    "sku": "157448920_BD",
+                    "skuId": "1088236310"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:157448920;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:157448920_BD;price:380;client:desktop;supplier_id:4630;asc_category_id:1785;item_id:157448920;sku_id:1088236310;shop_id:4682",
+            "addToCartSkus": [
+                {
+                    "sku": "157448920_BD-1088236310",
+                    "title": "Int M",
+                    "skuId": "1088236310",
+                    "count": 0
+                },
+                {
+                    "sku": "157448920_BD-1088236311",
+                    "title": "Int L",
+                    "skuId": "1088236311",
+                    "count": 0
+                },
+                {
+                    "sku": "157448920_BD-1088236312",
+                    "title": "Int XL",
+                    "skuId": "1088236312",
+                    "count": 0
+                }
+            ],
+            "itemId": "157448920",
+            "skuId": "1088236310",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Manfare's Typographic Designed Sweatshirt For Men",
+            "nid": "203354321",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "203354321",
+                "scene_pre": "search",
+                "current_price": "350",
+                "x_sku_ids": "1151395200",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "203354321"
+            },
+            "productUrl": "//www.daraz.com.bd/products/manfare-i203354321-s1151395200.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/12e6b326dc99cb9003dcf9a31c0a208a.jpg",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "350",
+            "promotionId": "null",
+            "priceShow": "৳ 350",
+            "discount": "-53%",
+            "ratingScore": "4.5",
+            "review": "12",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "203354321_BD-1151395200",
+            "sku": "203354321_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "198387",
+            "brandName": "Manfare",
+            "sellerId": "1016696",
+            "mainSellerId": "",
+            "sellerName": "Manfare",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/12e6b326dc99cb9003dcf9a31c0a208a.jpg",
+                    "productUrl": "/products/manfare-i203354321-s1151395200.html",
+                    "sku": "203354321_BD",
+                    "skuId": "1151395200"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0b52e4eeb51f3743b01761f88518f72a.jpg",
+                    "productUrl": "/products/manfare-i203354321-s1151395210.html",
+                    "sku": "203354321_BD",
+                    "skuId": "1151395210"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/540455be802348a41a70602f352e2101.jpg",
+                    "productUrl": "/products/manfare-i203354321-s1151395206.html",
+                    "sku": "203354321_BD",
+                    "skuId": "1151395206"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:203354321;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:203354321_BD;price:350;client:desktop;supplier_id:1016696;asc_category_id:1785;item_id:203354321;sku_id:1151395200;shop_id:22821",
+            "addToCartSkus": [
+                {
+                    "sku": "203354321_BD-1151395200",
+                    "title": "Int M",
+                    "skuId": "1151395200",
+                    "count": 0
+                },
+                {
+                    "sku": "203354321_BD-1151395201",
+                    "title": "Int L",
+                    "skuId": "1151395201",
+                    "count": 0
+                },
+                {
+                    "sku": "203354321_BD-1151395202",
+                    "title": "Int XL",
+                    "skuId": "1151395202",
+                    "count": 0
+                },
+                {
+                    "sku": "203354321_BD-1151395203",
+                    "title": "Int XXL",
+                    "skuId": "1151395203",
+                    "count": 0
+                }
+            ],
+            "itemId": "203354321",
+            "skuId": "1151395200",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "পুরুষদের জন্য স্টাইলিশ শীতের সোয়েটশার্ট",
+            "nid": "208538962",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "208538962",
+                "scene_pre": "search",
+                "current_price": "158",
+                "x_sku_ids": "1158803248",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "208538962"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i208538962-s1158803248.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/38f96ac2d2b65c96fa720606de562384.jpg",
+            "originalPrice": "699.00",
+            "originalPriceShow": "৳ 699",
+            "price": "158",
+            "promotionId": "null",
+            "priceShow": "৳ 158",
+            "discount": "-77%",
+            "ratingScore": "4.2",
+            "review": "15",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "208538962_BD-1158803248",
+            "sku": "208538962_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508763382",
+            "mainSellerId": "",
+            "sellerName": "Four Brother Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/38f96ac2d2b65c96fa720606de562384.jpg",
+                    "productUrl": "/products/-i208538962-s1158803248.html",
+                    "sku": "208538962_BD",
+                    "skuId": "1158803248"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:208538962;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:208538962_BD;price:158;client:desktop;supplier_id:700508763382;asc_category_id:1785;item_id:208538962;sku_id:1158803248;shop_id:181785",
+            "addToCartSkus": [
+                {
+                    "sku": "208538962_BD-1158803248",
+                    "title": "Int M",
+                    "skuId": "1158803248",
+                    "count": 0
+                },
+                {
+                    "sku": "208538962_BD-1158803249",
+                    "title": "Int L",
+                    "skuId": "1158803249",
+                    "count": 0
+                },
+                {
+                    "sku": "208538962_BD-1158803250",
+                    "title": "Int XL",
+                    "skuId": "1158803250",
+                    "count": 0
+                }
+            ],
+            "itemId": "208538962",
+            "skuId": "1158803248",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Gray Color Cotton Full Sleeve Sweater for Men",
+            "nid": "121027605",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "121027605",
+                "scene_pre": "search",
+                "current_price": "369",
+                "x_sku_ids": "1040586791",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "121027605"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i121027605-s1040586791.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/aa9a4edaba619cf84b0a38f623d4d901.jpg",
+            "originalPrice": "1090.00",
+            "originalPriceShow": "৳ 1,090",
+            "price": "369",
+            "promotionId": "null",
+            "priceShow": "৳ 369",
+            "discount": "-66%",
+            "ratingScore": "4.62791",
+            "review": "172",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "121027605_BD-1040586791",
+            "sku": "121027605_BD",
+            "skus": [],
+            "description": [
+                "Brand : GoodMan",
+                "Product Type:Men's Sweater.",
+                "Winter Collection",
+                "Fabric: 100% Cotton,12 Guege.",
+                "Style: Slim Fit Sweater.",
+                "Type: Casual",
+                "Gender: Men",
+                "Production Country: Bangladesh",
+                "100% Export Quality.",
+                "Color: Mixed(As Given Picture)",
+                "Size: M,L,XL",
+                "M :Chest =37\", Length=27.5\"",
+                "L :Chest =40\",Length=28.5\"",
+                "XL:Chest =43\", Length=30\""
+            ],
+            "brandId": "63576",
+            "brandName": "Goodman",
+            "sellerId": "4630",
+            "mainSellerId": "",
+            "sellerName": "GoodMan",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/aa9a4edaba619cf84b0a38f623d4d901.jpg",
+                    "productUrl": "/products/-i121027605-s1040586791.html",
+                    "sku": "121027605_BD",
+                    "skuId": "1040586791"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:121027605;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:121027605_BD;price:369;client:desktop;supplier_id:4630;asc_category_id:1785;item_id:121027605;sku_id:1040586791;shop_id:4682",
+            "addToCartSkus": [
+                {
+                    "sku": "121027605_BD-1040586791",
+                    "title": "Int M",
+                    "skuId": "1040586791",
+                    "count": 0
+                },
+                {
+                    "sku": "121027605_BD-1040586792",
+                    "title": "Int L",
+                    "skuId": "1040586792",
+                    "count": 0
+                },
+                {
+                    "sku": "121027605_BD-1040586793",
+                    "title": "Int XL",
+                    "skuId": "1040586793",
+                    "count": 0
+                }
+            ],
+            "itemId": "121027605",
+            "skuId": "1040586791",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fashionable sleeveless sweater For Man`s",
+            "nid": "158164823",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "158164823",
+                "scene_pre": "search",
+                "current_price": "499.00",
+                "x_sku_ids": "1089558083",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "158164823"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fashionable-sleeveless-sweater-for-mans-i158164823-s1089558083.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3ea92613a397038033b3d92da320bce3.jpg",
+            "originalPrice": "1200.00",
+            "originalPriceShow": "৳ 1,200",
+            "price": "499.00",
+            "promotionId": "null",
+            "priceShow": "৳ 499",
+            "discount": "-58%",
+            "ratingScore": "3",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "158164823_BD-1089558083",
+            "sku": "158164823_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123256284",
+            "brandName": "Dhaka Valy",
+            "sellerId": "700505556003",
+            "mainSellerId": "",
+            "sellerName": "Dhaka Valy",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3ea92613a397038033b3d92da320bce3.jpg",
+                    "productUrl": "/products/fashionable-sleeveless-sweater-for-mans-i158164823-s1089558083.html",
+                    "sku": "158164823_BD",
+                    "skuId": "1089558083"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:158164823;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:158164823_BD;price:499.00;client:desktop;supplier_id:700505556003;asc_category_id:1785;item_id:158164823;sku_id:1089558083;shop_id:60586",
+            "addToCartSkus": [
+                {
+                    "sku": "158164823_BD-1089558083",
+                    "title": "Int M",
+                    "skuId": "1089558083",
+                    "count": 0
+                },
+                {
+                    "sku": "158164823_BD-1089558084",
+                    "title": "Int L",
+                    "skuId": "1089558084",
+                    "count": 0
+                }
+            ],
+            "itemId": "158164823",
+            "skuId": "1089558083",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "পুরুষদের জন্য স্টাইলিশ শীতের সোয়েটশার্ট",
+            "nid": "208555158",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "208555158",
+                "scene_pre": "search",
+                "current_price": "265.00",
+                "x_sku_ids": "1158794795",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "208555158"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i208555158-s1158794795.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3ee29da3edd79ec8f41694abb589efde.jpg",
+            "originalPrice": "599.00",
+            "originalPriceShow": "৳ 599",
+            "price": "265.00",
+            "promotionId": "null",
+            "priceShow": "৳ 265",
+            "discount": "-56%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "208555158_BD-1158794795",
+            "sku": "208555158_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508460064",
+            "mainSellerId": "",
+            "sellerName": "Glory Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3ee29da3edd79ec8f41694abb589efde.jpg",
+                    "productUrl": "/products/-i208555158-s1158794795.html",
+                    "sku": "208555158_BD",
+                    "skuId": "1158794795"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:208555158;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:208555158_BD;price:265.00;client:desktop;supplier_id:700508460064;asc_category_id:1785;item_id:208555158;sku_id:1158794795;shop_id:161270",
+            "addToCartSkus": [
+                {
+                    "sku": "208555158_BD-1158794795",
+                    "title": "Int M",
+                    "skuId": "1158794795",
+                    "count": 0
+                },
+                {
+                    "sku": "208555158_BD-1158794796",
+                    "title": "Int L",
+                    "skuId": "1158794796",
+                    "count": 0
+                },
+                {
+                    "sku": "208555158_BD-1158794797",
+                    "title": "Int XL",
+                    "skuId": "1158794797",
+                    "count": 0
+                }
+            ],
+            "itemId": "208555158",
+            "skuId": "1158794795",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "পুরুষদের জন্য manfare এর ক্যাজুয়াল শীতের সোয়েটশার্ট",
+            "nid": "208541883",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "208541883",
+                "scene_pre": "search",
+                "current_price": "160",
+                "x_sku_ids": "1158802267",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "208541883"
+            },
+            "productUrl": "//www.daraz.com.bd/products/manfare-i208541883-s1158802267.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/38f96ac2d2b65c96fa720606de562384.jpg",
+            "originalPrice": "699.00",
+            "originalPriceShow": "৳ 699",
+            "price": "160",
+            "promotionId": "null",
+            "priceShow": "৳ 160",
+            "discount": "-77%",
+            "ratingScore": "4.55556",
+            "review": "9",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "208541883_BD-1158802267",
+            "sku": "208541883_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508268213",
+            "mainSellerId": "",
+            "sellerName": "Cotton Candy Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/38f96ac2d2b65c96fa720606de562384.jpg",
+                    "productUrl": "/products/manfare-i208541883-s1158802267.html",
+                    "sku": "208541883_BD",
+                    "skuId": "1158802267"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:208541883;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:208541883_BD;price:160;client:desktop;supplier_id:700508268213;asc_category_id:1785;item_id:208541883;sku_id:1158802267;shop_id:138434",
+            "addToCartSkus": [
+                {
+                    "sku": "208541883_BD-1158802265",
+                    "title": "Int M",
+                    "skuId": "1158802265",
+                    "count": 0
+                },
+                {
+                    "sku": "208541883_BD-1158802266",
+                    "title": "Int L",
+                    "skuId": "1158802266",
+                    "count": 0
+                },
+                {
+                    "sku": "208541883_BD-1158802267",
+                    "title": "Int XL",
+                    "skuId": "1158802267",
+                    "count": 0
+                }
+            ],
+            "itemId": "208541883",
+            "skuId": "1158802267",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Denim Long sleeve Casual for men",
+            "nid": "157908499",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "157908499",
+                "scene_pre": "search",
+                "current_price": "539.00",
+                "x_sku_ids": "1089014315",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "157908499"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i157908499-s1089014315.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2c75ccebeccf278e1034d1bf19f38878.jpg",
+            "originalPrice": "999.00",
+            "originalPriceShow": "৳ 999",
+            "price": "539.00",
+            "promotionId": "null",
+            "priceShow": "৳ 539",
+            "discount": "-46%",
+            "ratingScore": "4.66667",
+            "review": "6",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "157908499_BD-1089014315",
+            "sku": "157908499_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507854230",
+            "mainSellerId": "",
+            "sellerName": "Best Shopping Mall",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2c75ccebeccf278e1034d1bf19f38878.jpg",
+                    "productUrl": "/products/-i157908499-s1089014315.html",
+                    "sku": "157908499_BD",
+                    "skuId": "1089014315"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                4249
+            ],
+            "clickTrace": "query:;nid:157908499;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:157908499_BD;price:539.00;client:desktop;supplier_id:700507854230;asc_category_id:4249;item_id:157908499;sku_id:1089014315;shop_id:116741",
+            "addToCartSkus": [
+                {
+                    "sku": "157908499_BD-1089014315",
+                    "title": "Int M",
+                    "skuId": "1089014315",
+                    "count": 0
+                },
+                {
+                    "sku": "157908499_BD-1089014316",
+                    "title": "Int L",
+                    "skuId": "1089014316",
+                    "count": 0
+                },
+                {
+                    "sku": "157908499_BD-1089014317",
+                    "title": "Int XL",
+                    "skuId": "1089014317",
+                    "count": 0
+                }
+            ],
+            "itemId": "157908499",
+            "skuId": "1089014315",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fashionable sleeveless sweater For Man`s",
+            "nid": "158172194",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "158172194",
+                "scene_pre": "search",
+                "current_price": "499.00",
+                "x_sku_ids": "1089552334",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "158172194"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fashionable-sleeveless-sweater-for-mans-i158172194-s1089552334.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bbd27a77e334c661c9c3349977412796.jpg",
+            "originalPrice": "1200.00",
+            "originalPriceShow": "৳ 1,200",
+            "price": "499.00",
+            "promotionId": "null",
+            "priceShow": "৳ 499",
+            "discount": "-58%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "158172194_BD-1089552334",
+            "sku": "158172194_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123256284",
+            "brandName": "Dhaka Valy",
+            "sellerId": "700505556003",
+            "mainSellerId": "",
+            "sellerName": "Dhaka Valy",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bbd27a77e334c661c9c3349977412796.jpg",
+                    "productUrl": "/products/fashionable-sleeveless-sweater-for-mans-i158172194-s1089552334.html",
+                    "sku": "158172194_BD",
+                    "skuId": "1089552334"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:158172194;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:158172194_BD;price:499.00;client:desktop;supplier_id:700505556003;asc_category_id:1785;item_id:158172194;sku_id:1089552334;shop_id:60586",
+            "addToCartSkus": [
+                {
+                    "sku": "158172194_BD-1089552334",
+                    "title": "Int M",
+                    "skuId": "1089552334",
+                    "count": 0
+                },
+                {
+                    "sku": "158172194_BD-1089552335",
+                    "title": "Int L",
+                    "skuId": "1089552335",
+                    "count": 0
+                },
+                {
+                    "sku": "158172194_BD-1089552336",
+                    "title": "Int XL",
+                    "skuId": "1089552336",
+                    "count": 0
+                }
+            ],
+            "itemId": "158172194",
+            "skuId": "1089552334",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Red colour long sleeve sweet shirt",
+            "nid": "209855313",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209855313",
+                "scene_pre": "search",
+                "current_price": "249.00",
+                "x_sku_ids": "1160109052",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "209855313"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i209855313-s1160109052.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6fe888ed66b5c14b7e60a117f33d1fbd.jpg",
+            "originalPrice": "698.00",
+            "originalPriceShow": "৳ 698",
+            "price": "249.00",
+            "promotionId": "null",
+            "priceShow": "৳ 249",
+            "discount": "-64%",
+            "ratingScore": "4.76471",
+            "review": "17",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209855313_BD-1160109052",
+            "sku": "209855313_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507530227",
+            "mainSellerId": "",
+            "sellerName": "FH Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6fe888ed66b5c14b7e60a117f33d1fbd.jpg",
+                    "productUrl": "/products/-i209855313-s1160109052.html",
+                    "sku": "209855313_BD",
+                    "skuId": "1160109052"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:209855313;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:209855313_BD;price:249.00;client:desktop;supplier_id:700507530227;asc_category_id:1785;item_id:209855313;sku_id:1160109052;shop_id:97174",
+            "addToCartSkus": [
+                {
+                    "sku": "209855313_BD-1160109052",
+                    "title": "Int XL",
+                    "skuId": "1160109052",
+                    "count": 0
+                }
+            ],
+            "itemId": "209855313",
+            "skuId": "1160109052",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Street chic Long Sleeve Slim Sweatshirt",
+            "nid": "162954315",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "162954315",
+                "scene_pre": "search",
+                "current_price": "199",
+                "x_sku_ids": "1095244969",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "162954315"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i162954315-s1095244969.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f85e70f6f9f88bf66039b8d144a05c1f.png",
+            "originalPrice": "599.00",
+            "originalPriceShow": "৳ 599",
+            "price": "199",
+            "promotionId": "null",
+            "priceShow": "৳ 199",
+            "discount": "-67%",
+            "ratingScore": "5",
+            "review": "10",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "162954315_BD-1095244969",
+            "sku": "162954315_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507314090",
+            "mainSellerId": "",
+            "sellerName": "Brother Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f85e70f6f9f88bf66039b8d144a05c1f.png",
+                    "productUrl": "/products/-i162954315-s1095244969.html",
+                    "sku": "162954315_BD",
+                    "skuId": "1095244969"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:162954315;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:162954315_BD;price:199;client:desktop;supplier_id:700507314090;asc_category_id:1785;item_id:162954315;sku_id:1095244969;shop_id:90975",
+            "addToCartSkus": [
+                {
+                    "sku": "162954315_BD-1095244969",
+                    "title": "Int M",
+                    "skuId": "1095244969",
+                    "count": 0
+                },
+                {
+                    "sku": "162954315_BD-1095244970",
+                    "title": "Int L",
+                    "skuId": "1095244970",
+                    "count": 0
+                },
+                {
+                    "sku": "162954315_BD-1095244971",
+                    "title": "Int XL",
+                    "skuId": "1095244971",
+                    "count": 0
+                }
+            ],
+            "itemId": "162954315",
+            "skuId": "1095244969",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Black colour long sleeve sweet shirt",
+            "nid": "209852827",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209852827",
+                "scene_pre": "search",
+                "current_price": "244",
+                "x_sku_ids": "1160095904",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "209852827"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i209852827-s1160095904.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/cc0fd5a65b40063f79d925f32391856e.jpg",
+            "originalPrice": "697.00",
+            "originalPriceShow": "৳ 697",
+            "price": "244",
+            "promotionId": "null",
+            "priceShow": "৳ 244",
+            "discount": "-65%",
+            "ratingScore": "4.36",
+            "review": "25",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209852827_BD-1160095904",
+            "sku": "209852827_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507530227",
+            "mainSellerId": "",
+            "sellerName": "FH Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cc0fd5a65b40063f79d925f32391856e.jpg",
+                    "productUrl": "/products/-i209852827-s1160095904.html",
+                    "sku": "209852827_BD",
+                    "skuId": "1160095904"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:209852827;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:209852827_BD;price:244;client:desktop;supplier_id:700507530227;asc_category_id:1785;item_id:209852827;sku_id:1160095904;shop_id:97174",
+            "addToCartSkus": [
+                {
+                    "sku": "209852827_BD-1160095904",
+                    "title": "Int L",
+                    "skuId": "1160095904",
+                    "count": 0
+                },
+                {
+                    "sku": "209852827_BD-1160095905",
+                    "title": "Int XL",
+                    "skuId": "1160095905",
+                    "count": 0
+                }
+            ],
+            "itemId": "209852827",
+            "skuId": "1160095904",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Turtle Neck Sweater For Men",
+            "nid": "223060477",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223060477",
+                "scene_pre": "search",
+                "current_price": "500.00",
+                "x_sku_ids": "1169263367",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "223060477"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i223060477-s1169263367.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fbcedad46332a136c299c405e18795ac.jpg",
+            "originalPrice": "999.00",
+            "originalPriceShow": "৳ 999",
+            "price": "500.00",
+            "promotionId": "null",
+            "priceShow": "৳ 500",
+            "discount": "-50%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223060477_BD-1169263367",
+            "sku": "223060477_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509945160",
+            "mainSellerId": "",
+            "sellerName": "Creative Nations",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fbcedad46332a136c299c405e18795ac.jpg",
+                    "productUrl": "/products/-i223060477-s1169263367.html",
+                    "sku": "223060477_BD",
+                    "skuId": "1169263367"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/840940f3e083853a280f7c3d55bea12b.png",
+                    "productUrl": "/products/-i223060477-s1169263372.html",
+                    "sku": "223060477_BD",
+                    "skuId": "1169263372"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cb166da2ae10008e4480d6abf1bacb95.png",
+                    "productUrl": "/products/-i223060477-s1169263375.html",
+                    "sku": "223060477_BD",
+                    "skuId": "1169263375"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:223060477;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:223060477_BD;price:500.00;client:desktop;supplier_id:700509945160;asc_category_id:1785;item_id:223060477;sku_id:1169263367;shop_id:221650",
+            "addToCartSkus": [
+                {
+                    "sku": "223060477_BD-1169263367",
+                    "title": "Int M",
+                    "skuId": "1169263367",
+                    "count": 0
+                },
+                {
+                    "sku": "223060477_BD-1169263368",
+                    "title": "Int L",
+                    "skuId": "1169263368",
+                    "count": 0
+                },
+                {
+                    "sku": "223060477_BD-1169263369",
+                    "title": "Int XL",
+                    "skuId": "1169263369",
+                    "count": 0
+                }
+            ],
+            "itemId": "223060477",
+            "skuId": "1169263367",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "পুরুষদের জন্য স্টাইলিশ শীতের সোয়েটশার্ট",
+            "nid": "208548753",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "208548753",
+                "scene_pre": "search",
+                "current_price": "265.00",
+                "x_sku_ids": "1158796460",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "208548753"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i208548753-s1158796460.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/38f96ac2d2b65c96fa720606de562384.jpg",
+            "originalPrice": "699.00",
+            "originalPriceShow": "৳ 699",
+            "price": "265.00",
+            "promotionId": "null",
+            "priceShow": "৳ 265",
+            "discount": "-62%",
+            "ratingScore": "4",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "208548753_BD-1158796460",
+            "sku": "208548753_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1025705",
+            "mainSellerId": "",
+            "sellerName": "AR Online Shop BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/38f96ac2d2b65c96fa720606de562384.jpg",
+                    "productUrl": "/products/-i208548753-s1158796460.html",
+                    "sku": "208548753_BD",
+                    "skuId": "1158796460"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:208548753;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:208548753_BD;price:265.00;client:desktop;supplier_id:1025705;asc_category_id:1785;item_id:208548753;sku_id:1158796460;shop_id:31862",
+            "addToCartSkus": [
+                {
+                    "sku": "208548753_BD-1158796460",
+                    "title": "Int M",
+                    "skuId": "1158796460",
+                    "count": 0
+                },
+                {
+                    "sku": "208548753_BD-1158796461",
+                    "title": "Int L",
+                    "skuId": "1158796461",
+                    "count": 0
+                },
+                {
+                    "sku": "208548753_BD-1158796462",
+                    "title": "Int XL",
+                    "skuId": "1158796462",
+                    "count": 0
+                }
+            ],
+            "itemId": "208548753",
+            "skuId": "1158796460",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Stylish premium quality reasonable & comfortable red color pure cotton full sleeve t shirt.",
+            "nid": "190067202",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "190067202",
+                "scene_pre": "search",
+                "current_price": "289.00",
+                "x_sku_ids": "1137539791",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "190067202"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i190067202-s1137539791.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4358a15cdb1b4cd492175cc6d9e901bd.jpg",
+            "originalPrice": "590.00",
+            "originalPriceShow": "৳ 590",
+            "price": "289.00",
+            "promotionId": "null",
+            "priceShow": "৳ 289",
+            "discount": "-51%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "190067202_BD-1137539791",
+            "sku": "190067202_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508712083",
+            "mainSellerId": "",
+            "sellerName": "Well Mart BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4358a15cdb1b4cd492175cc6d9e901bd.jpg",
+                    "productUrl": "/products/-i190067202-s1137539791.html",
+                    "sku": "190067202_BD",
+                    "skuId": "1137539791"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4358a15cdb1b4cd492175cc6d9e901bd.jpg",
+                    "productUrl": "/products/-i190067202-s1137539793.html",
+                    "sku": "190067202_BD",
+                    "skuId": "1137539793"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                4251
+            ],
+            "clickTrace": "query:;nid:190067202;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:190067202_BD;price:289.00;client:desktop;supplier_id:700508712083;asc_category_id:4251;item_id:190067202;sku_id:1137539791;shop_id:176904",
+            "addToCartSkus": [
+                {
+                    "sku": "190067202_BD-1137539791",
+                    "title": "M",
+                    "skuId": "1137539791",
+                    "count": 0
+                }
+            ],
+            "itemId": "190067202",
+            "skuId": "1137539791",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "পুরুষদের জন্য স্টাইলিশ শীতের সোয়েটশার্ট",
+            "nid": "208556023",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "208556023",
+                "scene_pre": "search",
+                "current_price": "265.00",
+                "x_sku_ids": "1158800493",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "208556023"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i208556023-s1158800493.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3ee29da3edd79ec8f41694abb589efde.jpg",
+            "originalPrice": "699.00",
+            "originalPriceShow": "৳ 699",
+            "price": "265.00",
+            "promotionId": "null",
+            "priceShow": "৳ 265",
+            "discount": "-62%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "208556023_BD-1158800493",
+            "sku": "208556023_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1025705",
+            "mainSellerId": "",
+            "sellerName": "AR Online Shop BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3ee29da3edd79ec8f41694abb589efde.jpg",
+                    "productUrl": "/products/-i208556023-s1158800493.html",
+                    "sku": "208556023_BD",
+                    "skuId": "1158800493"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:208556023;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:208556023_BD;price:265.00;client:desktop;supplier_id:1025705;asc_category_id:1785;item_id:208556023;sku_id:1158800493;shop_id:31862",
+            "addToCartSkus": [
+                {
+                    "sku": "208556023_BD-1158800493",
+                    "title": "Int M",
+                    "skuId": "1158800493",
+                    "count": 0
+                },
+                {
+                    "sku": "208556023_BD-1158800494",
+                    "title": "Int L",
+                    "skuId": "1158800494",
+                    "count": 0
+                },
+                {
+                    "sku": "208556023_BD-1158800495",
+                    "title": "Int XL",
+                    "skuId": "1158800495",
+                    "count": 0
+                }
+            ],
+            "itemId": "208556023",
+            "skuId": "1158800493",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Premium Quality Green Color Cotton Full Sleeve Sweater for Men",
+            "nid": "201930742",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "201930742",
+                "scene_pre": "search",
+                "current_price": "369",
+                "x_sku_ids": "1149473913",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "201930742"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i201930742-s1149473913.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/e1e8b4f02d53c8014eba08dff810c198.jpg",
+            "originalPrice": "1290.00",
+            "originalPriceShow": "৳ 1,290",
+            "price": "369",
+            "promotionId": "null",
+            "priceShow": "৳ 369",
+            "discount": "-71%",
+            "ratingScore": "4.42857",
+            "review": "28",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "201930742_BD-1149473913",
+            "sku": "201930742_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "63576",
+            "brandName": "Goodman",
+            "sellerId": "4630",
+            "mainSellerId": "",
+            "sellerName": "GoodMan",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/e1e8b4f02d53c8014eba08dff810c198.jpg",
+                    "productUrl": "/products/-i201930742-s1149473913.html",
+                    "sku": "201930742_BD",
+                    "skuId": "1149473913"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:201930742;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:201930742_BD;price:369;client:desktop;supplier_id:4630;asc_category_id:1785;item_id:201930742;sku_id:1149473913;shop_id:4682",
+            "addToCartSkus": [
+                {
+                    "sku": "201930742_BD-1149473913",
+                    "title": "Int M",
+                    "skuId": "1149473913",
+                    "count": 0
+                },
+                {
+                    "sku": "201930742_BD-1149473914",
+                    "title": "Int L",
+                    "skuId": "1149473914",
+                    "count": 0
+                }
+            ],
+            "itemId": "201930742",
+            "skuId": "1149473913",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Quality Blue Color Cotton Full Sleeve Sweater  for Men",
+            "nid": "201932540",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "201932540",
+                "scene_pre": "search",
+                "current_price": "368",
+                "x_sku_ids": "1149484015",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "201932540"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i201932540-s1149484015.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/78ecf6885964449991a86a196d88bbf9.jpg",
+            "originalPrice": "1290.00",
+            "originalPriceShow": "৳ 1,290",
+            "price": "368",
+            "promotionId": "null",
+            "priceShow": "৳ 368",
+            "discount": "-71%",
+            "ratingScore": "4.77778",
+            "review": "18",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "201932540_BD-1149484015",
+            "sku": "201932540_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "63576",
+            "brandName": "Goodman",
+            "sellerId": "4630",
+            "mainSellerId": "",
+            "sellerName": "GoodMan",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/78ecf6885964449991a86a196d88bbf9.jpg",
+                    "productUrl": "/products/-i201932540-s1149484015.html",
+                    "sku": "201932540_BD",
+                    "skuId": "1149484015"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:201932540;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:201932540_BD;price:368;client:desktop;supplier_id:4630;asc_category_id:1785;item_id:201932540;sku_id:1149484015;shop_id:4682",
+            "addToCartSkus": [
+                {
+                    "sku": "201932540_BD-1149484013",
+                    "title": "Int M",
+                    "skuId": "1149484013",
+                    "count": 0
+                },
+                {
+                    "sku": "201932540_BD-1149484014",
+                    "title": "Int L",
+                    "skuId": "1149484014",
+                    "count": 0
+                },
+                {
+                    "sku": "201932540_BD-1149484015",
+                    "title": "Int XL",
+                    "skuId": "1149484015",
+                    "count": 0
+                }
+            ],
+            "itemId": "201932540",
+            "skuId": "1149484015",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Navy Color Cotton Full Sleeve Sweater for Men",
+            "nid": "157448614",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "157448614",
+                "scene_pre": "search",
+                "current_price": "366",
+                "x_sku_ids": "1088232162",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "157448614"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i157448614-s1088232162.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/cb394917404e0c4f5ff414fa0b3741ff.jpg",
+            "originalPrice": "1240.00",
+            "originalPriceShow": "৳ 1,240",
+            "price": "366",
+            "promotionId": "null",
+            "priceShow": "৳ 366",
+            "discount": "-70%",
+            "ratingScore": "4.68182",
+            "review": "66",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "157448614_BD-1088232162",
+            "sku": "157448614_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "63576",
+            "brandName": "Goodman",
+            "sellerId": "4630",
+            "mainSellerId": "",
+            "sellerName": "GoodMan",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/cb394917404e0c4f5ff414fa0b3741ff.jpg",
+                    "productUrl": "/products/-i157448614-s1088232162.html",
+                    "sku": "157448614_BD",
+                    "skuId": "1088232162"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:157448614;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:157448614_BD;price:366;client:desktop;supplier_id:4630;asc_category_id:1785;item_id:157448614;sku_id:1088232162;shop_id:4682",
+            "addToCartSkus": [
+                {
+                    "sku": "157448614_BD-1088232162",
+                    "title": "Int XL",
+                    "skuId": "1088232162",
+                    "count": 0
+                }
+            ],
+            "itemId": "157448614",
+            "skuId": "1088232162",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "মেরুন রঙের স্ট্রাইপ লম্বা হাতার সোয়েট শার্ট",
+            "nid": "156380423",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "156380423",
+                "scene_pre": "search",
+                "current_price": "300",
+                "x_sku_ids": "1085910818",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "156380423"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i156380423-s1085910818.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d228f8ac55416a7e8c725a29e1b9a1e6.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "300",
+            "promotionId": "null",
+            "priceShow": "৳ 300",
+            "discount": "-40%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "156380423_BD-1085910818",
+            "sku": "156380423_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505097125",
+            "mainSellerId": "",
+            "sellerName": "OutFit",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d228f8ac55416a7e8c725a29e1b9a1e6.jpg",
+                    "productUrl": "/products/-i156380423-s1085910818.html",
+                    "sku": "156380423_BD",
+                    "skuId": "1085910818"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:156380423;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:156380423_BD;price:300;client:desktop;supplier_id:700505097125;asc_category_id:1785;item_id:156380423;sku_id:1085910818;shop_id:57691",
+            "addToCartSkus": [
+                {
+                    "sku": "156380423_BD-1085910818",
+                    "title": "Int M",
+                    "skuId": "1085910818",
+                    "count": 0
+                },
+                {
+                    "sku": "156380423_BD-1085910819",
+                    "title": "Int L",
+                    "skuId": "1085910819",
+                    "count": 0
+                }
+            ],
+            "itemId": "156380423",
+            "skuId": "1085910818",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "পুরুষদের জন্য manfare এর স্টাইলিশ শীতের সোয়েটশার্ট",
+            "nid": "203355451",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "203355451",
+                "scene_pre": "search",
+                "current_price": "350",
+                "x_sku_ids": "1151387942",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "203355451"
+            },
+            "productUrl": "//www.daraz.com.bd/products/manfare-i203355451-s1151387942.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/17f0a58d73d401d2e230f5b26a004e88.jpg",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "350",
+            "promotionId": "null",
+            "priceShow": "৳ 350",
+            "discount": "-53%",
+            "ratingScore": "4.3",
+            "review": "10",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "203355451_BD-1151387942",
+            "sku": "203355451_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "198387",
+            "brandName": "Manfare",
+            "sellerId": "1016696",
+            "mainSellerId": "",
+            "sellerName": "Manfare",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/17f0a58d73d401d2e230f5b26a004e88.jpg",
+                    "productUrl": "/products/manfare-i203355451-s1151387942.html",
+                    "sku": "203355451_BD",
+                    "skuId": "1151387942"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9dee26375be3af1a4e9936cfd6f1ccfb.jpg",
+                    "productUrl": "/products/manfare-i203355451-s1151387948.html",
+                    "sku": "203355451_BD",
+                    "skuId": "1151387948"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7f10e081c04a99d2748a9c92e25259d2.jpg",
+                    "productUrl": "/products/manfare-i203355451-s1151387952.html",
+                    "sku": "203355451_BD",
+                    "skuId": "1151387952"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:203355451;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:203355451_BD;price:350;client:desktop;supplier_id:1016696;asc_category_id:1785;item_id:203355451;sku_id:1151387942;shop_id:22821",
+            "addToCartSkus": [
+                {
+                    "sku": "203355451_BD-1151387942",
+                    "title": "Int M",
+                    "skuId": "1151387942",
+                    "count": 0
+                },
+                {
+                    "sku": "203355451_BD-1151387943",
+                    "title": "Int L",
+                    "skuId": "1151387943",
+                    "count": 0
+                },
+                {
+                    "sku": "203355451_BD-1151387944",
+                    "title": "Int XL",
+                    "skuId": "1151387944",
+                    "count": 0
+                },
+                {
+                    "sku": "203355451_BD-1151387945",
+                    "title": "Int XXL",
+                    "skuId": "1151387945",
+                    "count": 0
+                }
+            ],
+            "itemId": "203355451",
+            "skuId": "1151387942",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Men's Full Sleeve Sweatshirt",
+            "nid": "161118687",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "161118687",
+                "scene_pre": "search",
+                "current_price": "187",
+                "x_sku_ids": "1093012779",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "161118687"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i161118687-s1093012779.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a4f34597c0b5f5b60509b51dbe316786.jpg",
+            "originalPrice": "420.00",
+            "originalPriceShow": "৳ 420",
+            "price": "187",
+            "promotionId": "null",
+            "priceShow": "৳ 187",
+            "discount": "-55%",
+            "ratingScore": "4.96",
+            "review": "25",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "161118687_BD-1093012779",
+            "sku": "161118687_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1033527",
+            "mainSellerId": "",
+            "sellerName": "Cotton Hill",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a4f34597c0b5f5b60509b51dbe316786.jpg",
+                    "productUrl": "/products/-i161118687-s1093012779.html",
+                    "sku": "161118687_BD",
+                    "skuId": "1093012779"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:161118687;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:161118687_BD;price:187;client:desktop;supplier_id:1033527;asc_category_id:1785;item_id:161118687;sku_id:1093012779;shop_id:39494",
+            "addToCartSkus": [
+                {
+                    "sku": "161118687_BD-1093012779",
+                    "title": "Int M",
+                    "skuId": "1093012779",
+                    "count": 0
+                },
+                {
+                    "sku": "161118687_BD-1093012780",
+                    "title": "Int L",
+                    "skuId": "1093012780",
+                    "count": 0
+                }
+            ],
+            "itemId": "161118687",
+            "skuId": "1093012779",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fashionable sleeveless sweater For Man`s",
+            "nid": "158170191",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "158170191",
+                "scene_pre": "search",
+                "current_price": "430.00",
+                "x_sku_ids": "1089546462",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "158170191"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fashionable-sleeveless-sweater-for-mans-i158170191-s1089546462.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2d6582359b00fcb8e867d6f0a9fe012e.jpg",
+            "originalPrice": "1200.00",
+            "originalPriceShow": "৳ 1,200",
+            "price": "430.00",
+            "promotionId": "null",
+            "priceShow": "৳ 430",
+            "discount": "-64%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "158170191_BD-1089546462",
+            "sku": "158170191_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123256284",
+            "brandName": "Dhaka Valy",
+            "sellerId": "700505556003",
+            "mainSellerId": "",
+            "sellerName": "Dhaka Valy",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2d6582359b00fcb8e867d6f0a9fe012e.jpg",
+                    "productUrl": "/products/fashionable-sleeveless-sweater-for-mans-i158170191-s1089546462.html",
+                    "sku": "158170191_BD",
+                    "skuId": "1089546462"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:158170191;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:158170191_BD;price:430.00;client:desktop;supplier_id:700505556003;asc_category_id:1785;item_id:158170191;sku_id:1089546462;shop_id:60586",
+            "addToCartSkus": [
+                {
+                    "sku": "158170191_BD-1089546462",
+                    "title": "Int M",
+                    "skuId": "1089546462",
+                    "count": 0
+                },
+                {
+                    "sku": "158170191_BD-1089546463",
+                    "title": "Int L",
+                    "skuId": "1089546463",
+                    "count": 0
+                },
+                {
+                    "sku": "158170191_BD-1089546464",
+                    "title": "Int XL",
+                    "skuId": "1089546464",
+                    "count": 0
+                }
+            ],
+            "itemId": "158170191",
+            "skuId": "1089546462",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "White Men’s High Neck sweater",
+            "nid": "180967080",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "180967080",
+                "scene_pre": "search",
+                "current_price": "184",
+                "x_sku_ids": "1126354791",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "180967080"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i180967080-s1126354791.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5d51171553f9f88d5816df74d1b2b353.jpg",
+            "originalPrice": "444.00",
+            "originalPriceShow": "৳ 444",
+            "price": "184",
+            "promotionId": "null",
+            "priceShow": "৳ 184",
+            "discount": "-59%",
+            "ratingScore": "4.42857",
+            "review": "28",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "180967080_BD-1126354791",
+            "sku": "180967080_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508328396",
+            "mainSellerId": "",
+            "sellerName": "AWAY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5d51171553f9f88d5816df74d1b2b353.jpg",
+                    "productUrl": "/products/-i180967080-s1126354791.html",
+                    "sku": "180967080_BD",
+                    "skuId": "1126354791"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:180967080;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:180967080_BD;price:184;client:desktop;supplier_id:700508328396;asc_category_id:1785;item_id:180967080;sku_id:1126354791;shop_id:145053",
+            "addToCartSkus": [
+                {
+                    "sku": "180967080_BD-1126354793",
+                    "title": "Int:36",
+                    "skuId": "1126354793",
+                    "count": 0
+                },
+                {
+                    "sku": "180967080_BD-1126354794",
+                    "title": "Int:38",
+                    "skuId": "1126354794",
+                    "count": 0
+                },
+                {
+                    "sku": "180967080_BD-1126354795",
+                    "title": "Int:40",
+                    "skuId": "1126354795",
+                    "count": 0
+                },
+                {
+                    "sku": "180967080_BD-1126354792",
+                    "title": "Int:L",
+                    "skuId": "1126354792",
+                    "count": 0
+                },
+                {
+                    "sku": "180967080_BD-1126354791",
+                    "title": "Int:M",
+                    "skuId": "1126354791",
+                    "count": 0
+                },
+                {
+                    "sku": "180967080_BD-1126354790",
+                    "title": "Int:S",
+                    "skuId": "1126354790",
+                    "count": 0
+                }
+            ],
+            "itemId": "180967080",
+            "skuId": "1126354791",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sweaters for man`s. Collection By Fine Tex",
+            "nid": "167614150",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "167614150",
+                "scene_pre": "search",
+                "current_price": "570",
+                "x_sku_ids": "1101392191",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "167614150"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i167614150-s1101392191.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/85cb1ae1b3c9dc95ccb1b4395e27f680.jpg",
+            "originalPrice": "2100.00",
+            "originalPriceShow": "৳ 2,100",
+            "price": "570",
+            "promotionId": "null",
+            "priceShow": "৳ 570",
+            "discount": "-73%",
+            "ratingScore": "5",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "167614150_BD-1101392191",
+            "sku": "167614150_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "121103220",
+            "brandName": "Fine Tex BD",
+            "sellerId": "1032901",
+            "mainSellerId": "",
+            "sellerName": "Fine Tex bd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/85cb1ae1b3c9dc95ccb1b4395e27f680.jpg",
+                    "productUrl": "/products/-i167614150-s1101392191.html",
+                    "sku": "167614150_BD",
+                    "skuId": "1101392191"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:167614150;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:167614150_BD;price:570;client:desktop;supplier_id:1032901;asc_category_id:1785;item_id:167614150;sku_id:1101392191;shop_id:38886",
+            "addToCartSkus": [
+                {
+                    "sku": "167614150_BD-1101392189",
+                    "title": "Int S",
+                    "skuId": "1101392189",
+                    "count": 0
+                },
+                {
+                    "sku": "167614150_BD-1101392190",
+                    "title": "Int M",
+                    "skuId": "1101392190",
+                    "count": 0
+                },
+                {
+                    "sku": "167614150_BD-1101392191",
+                    "title": "Int L",
+                    "skuId": "1101392191",
+                    "count": 0
+                }
+            ],
+            "itemId": "167614150",
+            "skuId": "1101392191",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Full sleeve blue stylish & fashionable new design cotton t shirt .",
+            "nid": "190080027",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "190080027",
+                "scene_pre": "search",
+                "current_price": "289.00",
+                "x_sku_ids": "1137548137",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "190080027"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i190080027-s1137548137.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/570858faf17b28c201cdd6f1a75f513e.jpg",
+            "originalPrice": "590.00",
+            "originalPriceShow": "৳ 590",
+            "price": "289.00",
+            "promotionId": "null",
+            "priceShow": "৳ 289",
+            "discount": "-51%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "190080027_BD-1137548137",
+            "sku": "190080027_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508712083",
+            "mainSellerId": "",
+            "sellerName": "Well Mart BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/570858faf17b28c201cdd6f1a75f513e.jpg",
+                    "productUrl": "/products/-i190080027-s1137548137.html",
+                    "sku": "190080027_BD",
+                    "skuId": "1137548137"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                4251
+            ],
+            "clickTrace": "query:;nid:190080027;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:190080027_BD;price:289.00;client:desktop;supplier_id:700508712083;asc_category_id:4251;item_id:190080027;sku_id:1137548137;shop_id:176904",
+            "addToCartSkus": [
+                {
+                    "sku": "190080027_BD-1137548138",
+                    "title": "L",
+                    "skuId": "1137548138",
+                    "count": 0
+                },
+                {
+                    "sku": "190080027_BD-1137548137",
+                    "title": "M",
+                    "skuId": "1137548137",
+                    "count": 0
+                },
+                {
+                    "sku": "190080027_BD-1137548139",
+                    "title": "XL",
+                    "skuId": "1137548139",
+                    "count": 0
+                }
+            ],
+            "itemId": "190080027",
+            "skuId": "1137548137",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Deep Maroon Color Full Sleeve Sweater For Men Collection By Fine Tex Bd",
+            "nid": "221729636",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "221729636",
+                "scene_pre": "search",
+                "current_price": "570",
+                "x_sku_ids": "1168372712",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "221729636"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i221729636-s1168372712.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/db94910988b8cb93fc4f6dd4ec5d90c8.jpg",
+            "originalPrice": "2599.00",
+            "originalPriceShow": "৳ 2,599",
+            "price": "570",
+            "promotionId": "null",
+            "priceShow": "৳ 570",
+            "discount": "-78%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "221729636_BD-1168372712",
+            "sku": "221729636_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "121103220",
+            "brandName": "Fine Tex BD",
+            "sellerId": "1032901",
+            "mainSellerId": "",
+            "sellerName": "Fine Tex bd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/db94910988b8cb93fc4f6dd4ec5d90c8.jpg",
+                    "productUrl": "/products/-i221729636-s1168372712.html",
+                    "sku": "221729636_BD",
+                    "skuId": "1168372712"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:221729636;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:221729636_BD;price:570;client:desktop;supplier_id:1032901;asc_category_id:1785;item_id:221729636;sku_id:1168372712;shop_id:38886",
+            "addToCartSkus": [
+                {
+                    "sku": "221729636_BD-1168372712",
+                    "title": "Int S",
+                    "skuId": "1168372712",
+                    "count": 0
+                },
+                {
+                    "sku": "221729636_BD-1168372713",
+                    "title": "Int M",
+                    "skuId": "1168372713",
+                    "count": 0
+                },
+                {
+                    "sku": "221729636_BD-1168372714",
+                    "title": "Int L",
+                    "skuId": "1168372714",
+                    "count": 0
+                },
+                {
+                    "sku": "221729636_BD-1168372715",
+                    "title": "Int XL",
+                    "skuId": "1168372715",
+                    "count": 0
+                }
+            ],
+            "itemId": "221729636",
+            "skuId": "1168372712",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Premium Quality Black Color Cotton Full Sleeve Sweater for Men",
+            "nid": "201927762",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "201927762",
+                "scene_pre": "search",
+                "current_price": "368",
+                "x_sku_ids": "1149471744",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "201927762"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i201927762-s1149471744.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/acaee6bad3fb469162672ba4923cf2f3.jpg",
+            "originalPrice": "1290.00",
+            "originalPriceShow": "৳ 1,290",
+            "price": "368",
+            "promotionId": "null",
+            "priceShow": "৳ 368",
+            "discount": "-71%",
+            "ratingScore": "4.75",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "201927762_BD-1149471744",
+            "sku": "201927762_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "63576",
+            "brandName": "Goodman",
+            "sellerId": "4630",
+            "mainSellerId": "",
+            "sellerName": "GoodMan",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/acaee6bad3fb469162672ba4923cf2f3.jpg",
+                    "productUrl": "/products/-i201927762-s1149471744.html",
+                    "sku": "201927762_BD",
+                    "skuId": "1149471744"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:201927762;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:201927762_BD;price:368;client:desktop;supplier_id:4630;asc_category_id:1785;item_id:201927762;sku_id:1149471744;shop_id:4682",
+            "addToCartSkus": [
+                {
+                    "sku": "201927762_BD-1149471744",
+                    "title": "Int M",
+                    "skuId": "1149471744",
+                    "count": 0
+                },
+                {
+                    "sku": "201927762_BD-1149471745",
+                    "title": "Int L",
+                    "skuId": "1149471745",
+                    "count": 0
+                },
+                {
+                    "sku": "201927762_BD-1149471746",
+                    "title": "Int XL",
+                    "skuId": "1149471746",
+                    "count": 0
+                }
+            ],
+            "itemId": "201927762",
+            "skuId": "1149471744",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Maroon Cotton Full Sleeve Sweater for Men",
+            "nid": "154102395",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "154102395",
+                "scene_pre": "search",
+                "current_price": "850.00",
+                "x_sku_ids": "1083064813",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "154102395"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i154102395-s1083064813.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9ee0fe682249b89f6a5e1f34a36e7900.jpg",
+            "price": "850.00",
+            "promotionId": "null",
+            "priceShow": "৳ 850",
+            "ratingScore": "4.38889",
+            "review": "36",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "154102395_BD-1083064813",
+            "sku": "154102395_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "151",
+            "mainSellerId": "",
+            "sellerName": "Noble Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9ee0fe682249b89f6a5e1f34a36e7900.jpg",
+                    "productUrl": "/products/-i154102395-s1083064813.html",
+                    "sku": "154102395_BD",
+                    "skuId": "1083064813"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:154102395;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:154102395_BD;price:850.00;client:desktop;supplier_id:151;asc_category_id:1785;item_id:154102395;sku_id:1083064813;shop_id:1425",
+            "addToCartSkus": [
+                {
+                    "sku": "154102395_BD-1083064813",
+                    "title": "Int M",
+                    "skuId": "1083064813",
+                    "count": 0
+                },
+                {
+                    "sku": "154102395_BD-1083064814",
+                    "title": "Int L",
+                    "skuId": "1083064814",
+                    "count": 0
+                },
+                {
+                    "sku": "154102395_BD-1083064815",
+                    "title": "Int XL",
+                    "skuId": "1083064815",
+                    "count": 0
+                }
+            ],
+            "itemId": "154102395",
+            "skuId": "1083064813",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Splash Tops Sweaters Brown",
+            "nid": "220904274",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "220904274",
+                "scene_pre": "search",
+                "current_price": "3490.00",
+                "x_sku_ids": "1167972264",
+                "SN": "66d2482d420605968019232977407c88",
+                "x_ad": "1",
+                "x_object_id": "220904274"
+            },
+            "productUrl": "//www.daraz.com.bd/products/splash-tops-sweaters-brown-i220904274-s1167972264.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/75eefd76f97e37cf807660c8cced5e9f.jpg",
+            "price": "3490.00",
+            "promotionId": "null",
+            "priceShow": "৳ 3,490",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "220904274_BD-1167972264",
+            "sku": "220904274_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Tops",
+                "Brand: Splash",
+                "Color: Brown",
+                "Material: Cotton, Nylon",
+                "Gender: Men"
+            ],
+            "brandId": "36623",
+            "brandName": "Splash",
+            "sellerId": "700505247035",
+            "mainSellerId": "",
+            "sellerName": "SPLASH BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/75eefd76f97e37cf807660c8cced5e9f.jpg",
+                    "productUrl": "/products/splash-tops-sweaters-brown-i220904274-s1167972264.html",
+                    "sku": "220904274_BD",
+                    "skuId": "1167972264"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1783,
+                1785
+            ],
+            "clickTrace": "query:;nid:220904274;src:LazadaMainSrp;rn:66d2482d420605968019232977407c88;region:bd;sku:220904274_BD;price:3490.00;client:desktop;supplier_id:700505247035;asc_category_id:1785;item_id:220904274;sku_id:1167972264;shop_id:59245",
+            "addToCartSkus": [
+                {
+                    "sku": "220904274_BD-1167972264",
+                    "title": "Int S",
+                    "skuId": "1167972264",
+                    "count": 0
+                },
+                {
+                    "sku": "220904274_BD-1167972265",
+                    "title": "Int M",
+                    "skuId": "1167972265",
+                    "count": 0
+                },
+                {
+                    "sku": "220904274_BD-1167972266",
+                    "title": "Int L",
+                    "skuId": "1167972266",
+                    "count": 0
+                },
+                {
+                    "sku": "220904274_BD-1167972267",
+                    "title": "Int XL",
+                    "skuId": "1167972267",
+                    "count": 0
+                }
+            ],
+            "itemId": "220904274",
+            "skuId": "1167972264",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/fashion/",
+            "title": "Fashion"
+        },
+        {
+            "url": "/mens-fashion/",
+            "title": "Men"
+        },
+        {
+            "url": "/mens-clothing/",
+            "title": "Clothing"
+        },
+        {
+            "url": "/men-sweaters-cardigans/",
+            "title": "Sweaters & Cardigans"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/men-sweaters-cardigans/?referer_rn=66d2482d420605968019232977407c88&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {},
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "2038 items found in {$0}",
+        "title": "Sweaters & Cardigans",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Sweaters & Cardigans"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Sweaters & Cardigans",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "2038",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "66d2482d420605968019232977407c88",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "1783",
+            "category": "1783"
+        },
+        "categoryRegionalKey": "090205040000",
+        "mainCategoryRegionalKey": "090000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Sweaters & Cardigans at Best Price | 20% Off on Daraz | Buy Online",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Fashion,Men,Clothing,Sweaters & Cardigans",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "090205040000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=1783&_p_asc_cateid=1783",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "men-sweaters-cardigans",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "66d2482d420605968019232977407c88",
+                "resultNr": 2038,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1160076844",
+                "1160095910",
+                "1160094888"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "1783",
+            "category": "1783"
+        }
+    }
+}

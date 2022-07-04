@@ -1,0 +1,4024 @@
+{
+    "listItems": [
+        {
+            "name": "XTEND BCAA 30 SERVING",
+            "nid": "181079017",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "181079017",
+                "scene_pre": "search",
+                "current_price": "2679",
+                "x_sku_ids": "1122571032",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "181079017"
+            },
+            "productUrl": "//www.daraz.com.bd/products/xtend-bcaa-30-serving-i181079017-s1122571032.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/72697d20a1cc89d89a76f835f9c718a1.jpg",
+            "originalPrice": "3000.00",
+            "originalPriceShow": "৳ 3,000",
+            "price": "2679",
+            "promotionId": "null",
+            "priceShow": "৳ 2,679",
+            "discount": "-11%",
+            "ratingScore": "5",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "181079017_BD-1122571032",
+            "sku": "181079017_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508268235",
+            "mainSellerId": "",
+            "sellerName": "Health Revolution Club",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/72697d20a1cc89d89a76f835f9c718a1.jpg",
+                    "productUrl": "/products/xtend-bcaa-30-serving-i181079017-s1122571032.html",
+                    "sku": "181079017_BD",
+                    "skuId": "1122571032"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4795,
+                10002207
+            ],
+            "clickTrace": "query:;nid:181079017;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:181079017_BD;price:2679;client:desktop;supplier_id:700508268235;asc_category_id:10002207;item_id:181079017;sku_id:1122571032;shop_id:138516",
+            "addToCartSkus": [
+                {
+                    "sku": "181079017_BD-1122571032",
+                    "skuId": "1122571032",
+                    "count": 0
+                }
+            ],
+            "itemId": "181079017",
+            "skuId": "1122571032",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nitro-Tech Whey Protein Isolate & Peptides",
+            "nid": "183940514",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183940514",
+                "scene_pre": "search",
+                "current_price": "3800",
+                "x_sku_ids": "1128579358",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "183940514"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nitro-tech-whey-protein-isolate-peptides-i183940514-s1128579358.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/70d249a9b661ed216b91324b032c1373.jpg",
+            "originalPrice": "4500.00",
+            "originalPriceShow": "৳ 4,500",
+            "price": "3800",
+            "promotionId": "null",
+            "priceShow": "৳ 3,800",
+            "discount": "-16%",
+            "ratingScore": "4.55556",
+            "review": "9",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183940514_BD-1128579358",
+            "sku": "183940514_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508268235",
+            "mainSellerId": "",
+            "sellerName": "Health Revolution Club",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/70d249a9b661ed216b91324b032c1373.jpg",
+                    "productUrl": "/products/nitro-tech-whey-protein-isolate-peptides-i183940514-s1128579358.html",
+                    "sku": "183940514_BD",
+                    "skuId": "1128579358"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4795,
+                10002207
+            ],
+            "clickTrace": "query:;nid:183940514;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:183940514_BD;price:3800;client:desktop;supplier_id:700508268235;asc_category_id:10002207;item_id:183940514;sku_id:1128579358;shop_id:138516",
+            "addToCartSkus": [
+                {
+                    "sku": "183940514_BD-1128579358",
+                    "skuId": "1128579358",
+                    "count": 0
+                }
+            ],
+            "itemId": "183940514",
+            "skuId": "1128579358",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Lipo-6 Black Ultra Concentrate",
+            "nid": "183948066",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183948066",
+                "scene_pre": "search",
+                "current_price": "2500",
+                "x_sku_ids": "1128569587",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "183948066"
+            },
+            "productUrl": "//www.daraz.com.bd/products/lipo-6-black-ultra-concentrate-i183948066-s1128569587.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a91bc5bf7cfd33c9237e826ba9333060.jpg",
+            "originalPrice": "3000.00",
+            "originalPriceShow": "৳ 3,000",
+            "price": "2500",
+            "promotionId": "null",
+            "priceShow": "৳ 2,500",
+            "discount": "-17%",
+            "ratingScore": "5",
+            "review": "6",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183948066_BD-1128569587",
+            "sku": "183948066_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508268235",
+            "mainSellerId": "",
+            "sellerName": "Health Revolution Club",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a91bc5bf7cfd33c9237e826ba9333060.jpg",
+                    "productUrl": "/products/lipo-6-black-ultra-concentrate-i183948066-s1128569587.html",
+                    "sku": "183948066_BD",
+                    "skuId": "1128569587"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4795,
+                10002207
+            ],
+            "clickTrace": "query:;nid:183948066;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:183948066_BD;price:2500;client:desktop;supplier_id:700508268235;asc_category_id:10002207;item_id:183948066;sku_id:1128569587;shop_id:138516",
+            "addToCartSkus": [
+                {
+                    "sku": "183948066_BD-1128569587",
+                    "skuId": "1128569587",
+                    "count": 0
+                }
+            ],
+            "itemId": "183948066",
+            "skuId": "1128569587",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nature's Bounty biotin 10000 mcg-120 counts",
+            "nid": "188476127",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "188476127",
+                "scene_pre": "search",
+                "current_price": "1350",
+                "x_sku_ids": "1135882033",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "188476127"
+            },
+            "productUrl": "//www.daraz.com.bd/products/10000-i188476127-s1135882033.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/acc183c4fcf6620975e9a1fa382b068e.jpg",
+            "originalPrice": "2990.00",
+            "originalPriceShow": "৳ 2,990",
+            "price": "1350",
+            "promotionId": "null",
+            "priceShow": "৳ 1,350",
+            "discount": "-55%",
+            "ratingScore": "4.84615",
+            "review": "13",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "188476127_BD-1135882033",
+            "sku": "188476127_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5250",
+            "mainSellerId": "",
+            "sellerName": "Beard Goal",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/acc183c4fcf6620975e9a1fa382b068e.jpg",
+                    "productUrl": "/products/10000-i188476127-s1135882033.html",
+                    "sku": "188476127_BD",
+                    "skuId": "1135882033"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4771,
+                4773
+            ],
+            "clickTrace": "query:;nid:188476127;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:188476127_BD;price:1350;client:desktop;supplier_id:5250;asc_category_id:4773;item_id:188476127;sku_id:1135882033;shop_id:5258",
+            "addToCartSkus": [
+                {
+                    "sku": "188476127_BD-1135882033",
+                    "skuId": "1135882033",
+                    "count": 0
+                }
+            ],
+            "itemId": "188476127",
+            "skuId": "1135882033",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Natrol Biotin 10000 mcg - 100 Counts",
+            "nid": "162484303",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "162484303",
+                "scene_pre": "search",
+                "current_price": "1350",
+                "x_sku_ids": "1094596205",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "162484303"
+            },
+            "productUrl": "//www.daraz.com.bd/products/natroll-10000-mcg-100-i162484303-s1094596205.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0e15d3cab55a8df317c65a3d7bcd6dfe.jpg",
+            "originalPrice": "2550.00",
+            "originalPriceShow": "৳ 2,550",
+            "price": "1350",
+            "promotionId": "null",
+            "priceShow": "৳ 1,350",
+            "discount": "-47%",
+            "ratingScore": "4.93333",
+            "review": "30",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "162484303_BD-1094596205",
+            "sku": "162484303_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5250",
+            "mainSellerId": "",
+            "sellerName": "Beard Goal",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0e15d3cab55a8df317c65a3d7bcd6dfe.jpg",
+                    "productUrl": "/products/natroll-10000-mcg-100-i162484303-s1094596205.html",
+                    "sku": "162484303_BD",
+                    "skuId": "1094596205"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4771,
+                4773
+            ],
+            "clickTrace": "query:;nid:162484303;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:162484303_BD;price:1350;client:desktop;supplier_id:5250;asc_category_id:4773;item_id:162484303;sku_id:1094596205;shop_id:5258",
+            "addToCartSkus": [
+                {
+                    "sku": "162484303_BD-1094596205",
+                    "skuId": "1094596205",
+                    "count": 0
+                }
+            ],
+            "itemId": "162484303",
+            "skuId": "1094596205",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Goli Ashwagandha Gummies-60 count",
+            "nid": "185449353",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "185449353",
+                "scene_pre": "search",
+                "current_price": "2050",
+                "x_sku_ids": "1131066012",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "185449353"
+            },
+            "productUrl": "//www.daraz.com.bd/products/goli-ashwagandha-gummies-60-count-i185449353-s1131066012.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/cd22272f4d181e9de47c2673a9a9e6fb.jpg",
+            "originalPrice": "3500.00",
+            "originalPriceShow": "৳ 3,500",
+            "price": "2050",
+            "promotionId": "null",
+            "priceShow": "৳ 2,050",
+            "discount": "-41%",
+            "ratingScore": "4.8",
+            "review": "25",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "185449353_BD-1131066012",
+            "sku": "185449353_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5250",
+            "mainSellerId": "",
+            "sellerName": "Beard Goal",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cd22272f4d181e9de47c2673a9a9e6fb.jpg",
+                    "productUrl": "/products/goli-ashwagandha-gummies-60-count-i185449353-s1131066012.html",
+                    "sku": "185449353_BD",
+                    "skuId": "1131066012"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4785
+            ],
+            "clickTrace": "query:;nid:185449353;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:185449353_BD;price:2050;client:desktop;supplier_id:5250;asc_category_id:4785;item_id:185449353;sku_id:1131066012;shop_id:5258",
+            "addToCartSkus": [
+                {
+                    "sku": "185449353_BD-1131066012",
+                    "skuId": "1131066012",
+                    "count": 0
+                }
+            ],
+            "itemId": "185449353",
+            "skuId": "1131066012",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dabur Chyawanprash Awaleha 500 gm",
+            "nid": "104600406",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "104600406",
+                "scene_pre": "search",
+                "current_price": "278",
+                "x_sku_ids": "1019368693",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "104600406"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dabur-chyawanprash-awaleha-500-gm-i104600406-s1019368693.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/eafe86a5e2475c4c3a3cd43c1aa8f945.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "278",
+            "promotionId": "null",
+            "priceShow": "৳ 278",
+            "discount": "-7%",
+            "ratingScore": "4.83535",
+            "review": "413",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "104600406_BD-1019368693",
+            "sku": "104600406_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Chyawanprash",
+                "Brand: Dabur",
+                "Capacity: 500gm",
+                "Doubles immunity, clinically tested, suitable for all age groups in all seasons",
+                "Improves stress tolerance and increases energy",
+                "Has strong antioxidant properties",
+                "Natural and safe",
+                "Synergestic combination of herbs and plant extracts in a base of amla fruit pulp",
+                "Derived from a 2,500-year-old Ayurvedic formula",
+                "Imported from India"
+            ],
+            "brandId": "123953691",
+            "brandName": "Dabur Chyawanprash",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/eafe86a5e2475c4c3a3cd43c1aa8f945.jpg",
+                    "productUrl": "/products/dabur-chyawanprash-awaleha-500-gm-i104600406-s1019368693.html",
+                    "sku": "104600406_BD",
+                    "skuId": "1019368693"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4781
+            ],
+            "clickTrace": "query:;nid:104600406;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:104600406_BD;price:278;client:desktop;supplier_id:1000000;asc_category_id:4781;item_id:104600406;sku_id:1019368693;shop_id:28799",
+            "addToCartSkus": [
+                {
+                    "sku": "104600406_BD-1019368693",
+                    "skuId": "1019368693",
+                    "count": 0
+                }
+            ],
+            "itemId": "104600406",
+            "skuId": "1019368693",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "ফ্রোজেন গ্লুটা কোলাজেন 2 ইন 1 হোয়াইটেনিং x10 ক্যাপসুল (60 ক্যাপসুল) (100g)",
+            "nid": "185628061",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "185628061",
+                "scene_pre": "search",
+                "current_price": "445",
+                "x_sku_ids": "1131354918",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "185628061"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-1-x10-60-100-i185628061-s1131354918.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e207df73bce9d557f8a327edcf197943.jpg",
+            "originalPrice": "900.00",
+            "originalPriceShow": "৳ 900",
+            "price": "445",
+            "promotionId": "null",
+            "priceShow": "৳ 445",
+            "discount": "-51%",
+            "ratingScore": "4.6",
+            "review": "25",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "185628061_BD-1131354918",
+            "sku": "185628061_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508535728",
+            "mainSellerId": "",
+            "sellerName": "LaZa Beauty",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e207df73bce9d557f8a327edcf197943.jpg",
+                    "productUrl": "/products/2-1-x10-60-100-i185628061-s1131354918.html",
+                    "sku": "185628061_BD",
+                    "skuId": "1131354918"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4771,
+                4775
+            ],
+            "clickTrace": "query:;nid:185628061;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:185628061_BD;price:445;client:desktop;supplier_id:700508535728;asc_category_id:4775;item_id:185628061;sku_id:1131354918;shop_id:167779",
+            "addToCartSkus": [
+                {
+                    "sku": "185628061_BD-1131354918",
+                    "skuId": "1131354918",
+                    "count": 0
+                }
+            ],
+            "itemId": "185628061",
+            "skuId": "1131354918",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "norix 1 for women 2 pack",
+            "nid": "132558107",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132558107",
+                "scene_pre": "search",
+                "current_price": "110",
+                "x_sku_ids": "1053638815",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "132558107"
+            },
+            "productUrl": "//www.daraz.com.bd/products/norix-1-for-women-2-pack-i132558107-s1053638815.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1168ce7583d4e6cb06fef722d9a3306a.png",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "110",
+            "promotionId": "null",
+            "priceShow": "৳ 110",
+            "discount": "-8%",
+            "ratingScore": "4.97059",
+            "review": "68",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132558107_BD-1053638815",
+            "sku": "132558107_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1036797",
+            "mainSellerId": "",
+            "sellerName": "Moriyam Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1168ce7583d4e6cb06fef722d9a3306a.png",
+                    "productUrl": "/products/norix-1-for-women-2-pack-i132558107-s1053638815.html",
+                    "sku": "132558107_BD",
+                    "skuId": "1053638815"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                7303
+            ],
+            "clickTrace": "query:;nid:132558107;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:132558107_BD;price:110;client:desktop;supplier_id:1036797;asc_category_id:7303;item_id:132558107;sku_id:1053638815;shop_id:42662",
+            "addToCartSkus": [
+                {
+                    "sku": "132558107_BD-1053638815",
+                    "skuId": "1053638815",
+                    "count": 0
+                }
+            ],
+            "itemId": "132558107",
+            "skuId": "1053638815",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Doctor's Best Fully Active B12 1500mcg, Non-GMO, Vegan, Gluten Free, Supports Healthy Memory, Mood and Circulation, 60 Veggie Caps, USA",
+            "nid": "164224758",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "164224758",
+                "scene_pre": "search",
+                "current_price": "1540",
+                "x_sku_ids": "1096906453",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "164224758"
+            },
+            "productUrl": "//www.daraz.com.bd/products/doctors-best-fully-active-b12-1500mcg-non-gmo-vegan-gluten-free-supports-healthy-memory-mood-and-circulation-60-veggie-caps-usa-i164224758-s1096906453.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ba7558b45a822a95a22d1f9f995803a9.jpg",
+            "originalPrice": "1799.00",
+            "originalPriceShow": "৳ 1,799",
+            "price": "1540",
+            "promotionId": "null",
+            "priceShow": "৳ 1,540",
+            "discount": "-14%",
+            "ratingScore": "4.66667",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "164224758_BD-1096906453",
+            "sku": "164224758_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "197973",
+            "brandName": "ePharma",
+            "sellerId": "1015133",
+            "mainSellerId": "",
+            "sellerName": "ePharma",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ba7558b45a822a95a22d1f9f995803a9.jpg",
+                    "productUrl": "/products/doctors-best-fully-active-b12-1500mcg-non-gmo-vegan-gluten-free-supports-healthy-memory-mood-and-circulation-60-veggie-caps-usa-i164224758-s1096906453.html",
+                    "sku": "164224758_BD",
+                    "skuId": "1096906453"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4780
+            ],
+            "clickTrace": "query:;nid:164224758;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:164224758_BD;price:1540;client:desktop;supplier_id:1015133;asc_category_id:4780;item_id:164224758;sku_id:1096906453;shop_id:21130",
+            "addToCartSkus": [
+                {
+                    "sku": "164224758_BD-1096906453",
+                    "skuId": "1096906453",
+                    "count": 0
+                }
+            ],
+            "itemId": "164224758",
+            "skuId": "1096906453",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Spring Valley Biotin 1000 Mcg 150 Softgels for Healthy Skin Hair and Nails",
+            "nid": "213727906",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "213727906",
+                "scene_pre": "search",
+                "current_price": "969",
+                "x_sku_ids": "1162926530",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "213727906"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1000-mcg-150-i213727906-s1162926530.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/662ec605e4acf4e2981e294c5c96ce2a.jpg",
+            "originalPrice": "1290.00",
+            "originalPriceShow": "৳ 1,290",
+            "price": "969",
+            "promotionId": "null",
+            "priceShow": "৳ 969",
+            "discount": "-25%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "213727906_BD-1162926530",
+            "sku": "213727906_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5250",
+            "mainSellerId": "",
+            "sellerName": "Beard Goal",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/662ec605e4acf4e2981e294c5c96ce2a.jpg",
+                    "productUrl": "/products/1000-mcg-150-i213727906-s1162926530.html",
+                    "sku": "213727906_BD",
+                    "skuId": "1162926530"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4771,
+                4773
+            ],
+            "clickTrace": "query:;nid:213727906;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:213727906_BD;price:969;client:desktop;supplier_id:5250;asc_category_id:4773;item_id:213727906;sku_id:1162926530;shop_id:5258",
+            "addToCartSkus": [
+                {
+                    "sku": "213727906_BD-1162926530",
+                    "skuId": "1162926530",
+                    "count": 0
+                }
+            ],
+            "itemId": "213727906",
+            "skuId": "1162926530",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Spring Valley Biotin 10000 Mcg 120 Softgels for Healthy Skin Hair and Nails",
+            "nid": "213734959",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "213734959",
+                "scene_pre": "search",
+                "current_price": "1300",
+                "x_sku_ids": "1162944236",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "213734959"
+            },
+            "productUrl": "//www.daraz.com.bd/products/10000-mcg-120-i213734959-s1162944236.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e80c27a8a1a40bd99786f2ece18627d5.jpg",
+            "originalPrice": "1700.00",
+            "originalPriceShow": "৳ 1,700",
+            "price": "1300",
+            "promotionId": "null",
+            "priceShow": "৳ 1,300",
+            "discount": "-24%",
+            "ratingScore": "5",
+            "review": "9",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "213734959_BD-1162944236",
+            "sku": "213734959_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5250",
+            "mainSellerId": "",
+            "sellerName": "Beard Goal",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e80c27a8a1a40bd99786f2ece18627d5.jpg",
+                    "productUrl": "/products/10000-mcg-120-i213734959-s1162944236.html",
+                    "sku": "213734959_BD",
+                    "skuId": "1162944236"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4771,
+                4773
+            ],
+            "clickTrace": "query:;nid:213734959;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:213734959_BD;price:1300;client:desktop;supplier_id:5250;asc_category_id:4773;item_id:213734959;sku_id:1162944236;shop_id:5258",
+            "addToCartSkus": [
+                {
+                    "sku": "213734959_BD-1162944236",
+                    "skuId": "1162944236",
+                    "count": 0
+                }
+            ],
+            "itemId": "213734959",
+            "skuId": "1162944236",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Puritans Pride Vitamin D3 10,000 IU, 100 Count, for healthy Bones and Teeth, supports Immune, Brain, & Nervous system, USA. Exp Date:- 9-2023",
+            "nid": "126914659",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "126914659",
+                "scene_pre": "search",
+                "current_price": "2199",
+                "x_sku_ids": "1046962275",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "126914659"
+            },
+            "productUrl": "//www.daraz.com.bd/products/puritans-pride-vitamin-d3-10000-iu-100-count-d3-10000-iu-100-i126914659-s1046962275.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8d1f05fe98399151369c59a0fd4de0b8.jpg",
+            "originalPrice": "2599.00",
+            "originalPriceShow": "৳ 2,599",
+            "price": "2199",
+            "promotionId": "null",
+            "priceShow": "৳ 2,199",
+            "discount": "-15%",
+            "ratingScore": "4.66667",
+            "review": "9",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "126914659_BD-1046962275",
+            "sku": "126914659_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "197973",
+            "brandName": "ePharma",
+            "sellerId": "1015133",
+            "mainSellerId": "",
+            "sellerName": "ePharma",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8d1f05fe98399151369c59a0fd4de0b8.jpg",
+                    "productUrl": "/products/puritans-pride-vitamin-d3-10000-iu-100-count-d3-10000-iu-100-i126914659-s1046962275.html",
+                    "sku": "126914659_BD",
+                    "skuId": "1046962275"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4779
+            ],
+            "clickTrace": "query:;nid:126914659;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:126914659_BD;price:2199;client:desktop;supplier_id:1015133;asc_category_id:4779;item_id:126914659;sku_id:1046962275;shop_id:21130",
+            "addToCartSkus": [
+                {
+                    "sku": "126914659_BD-1046962275",
+                    "skuId": "1046962275",
+                    "count": 0
+                }
+            ],
+            "itemId": "126914659",
+            "skuId": "1046962275",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "neo cell Super Collagen  with Vitamin C, 120 counts",
+            "nid": "162546077",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "162546077",
+                "scene_pre": "search",
+                "current_price": "2350",
+                "x_sku_ids": "1094678498",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "162546077"
+            },
+            "productUrl": "//www.daraz.com.bd/products/120-i162546077-s1094678498.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d3f07428e8e979d69d6333b5ea853bb0.jpg",
+            "originalPrice": "2990.00",
+            "originalPriceShow": "৳ 2,990",
+            "price": "2350",
+            "promotionId": "null",
+            "priceShow": "৳ 2,350",
+            "discount": "-21%",
+            "ratingScore": "5",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "162546077_BD-1094678498",
+            "sku": "162546077_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5250",
+            "mainSellerId": "",
+            "sellerName": "Beard Goal",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d3f07428e8e979d69d6333b5ea853bb0.jpg",
+                    "productUrl": "/products/120-i162546077-s1094678498.html",
+                    "sku": "162546077_BD",
+                    "skuId": "1094678498"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4771,
+                4774
+            ],
+            "clickTrace": "query:;nid:162546077;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:162546077_BD;price:2350;client:desktop;supplier_id:5250;asc_category_id:4774;item_id:162546077;sku_id:1094678498;shop_id:5258",
+            "addToCartSkus": [
+                {
+                    "sku": "162546077_BD-1094678498",
+                    "skuId": "1094678498",
+                    "count": 0
+                }
+            ],
+            "itemId": "162546077",
+            "skuId": "1094678498",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Turmeric Curcumin With Bioperin, Relieve Joint & Back Pain, Reduce Inflammation and Skin Dryness, Boost Brain function & Memory, 60 Capsules, Made in USA",
+            "nid": "106354934",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "106354934",
+                "scene_pre": "search",
+                "current_price": "1247",
+                "x_sku_ids": "1021356150",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "106354934"
+            },
+            "productUrl": "//www.daraz.com.bd/products/turmeric-curcumin-with-bioperin-relieve-joint-back-pain-reduce-inflammation-and-skin-dryness-boost-brain-function-memory-60-capsules-made-in-usa-i106354934-s1021356150.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e4e5166d346da7243fe20f0968f02ff8.jpg",
+            "originalPrice": "1799.00",
+            "originalPriceShow": "৳ 1,799",
+            "price": "1247",
+            "promotionId": "null",
+            "priceShow": "৳ 1,247",
+            "discount": "-31%",
+            "ratingScore": "4.84211",
+            "review": "19",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "106354934_BD-1021356150",
+            "sku": "106354934_BD",
+            "skus": [],
+            "description": [
+                "Helps to relieve joint & back pain, reduce inflammation and skin dryness, boost brain function & memory.",
+                "Improve digestion and blood circulation, and enhance immune and nervous system.",
+                "Dramatically Increases the Antioxidant Capacity of the Body.",
+                "Should Lower Your Risk of Heart Disease.",
+                "Can Help Prevent (And Perhaps Even Treat) Cancer."
+            ],
+            "brandId": "197972",
+            "brandName": "Truemed",
+            "sellerId": "1015133",
+            "mainSellerId": "",
+            "sellerName": "ePharma",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e4e5166d346da7243fe20f0968f02ff8.jpg",
+                    "productUrl": "/products/turmeric-curcumin-with-bioperin-relieve-joint-back-pain-reduce-inflammation-and-skin-dryness-boost-brain-function-memory-60-capsules-made-in-usa-i106354934-s1021356150.html",
+                    "sku": "106354934_BD",
+                    "skuId": "1021356150"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4779
+            ],
+            "clickTrace": "query:;nid:106354934;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:106354934_BD;price:1247;client:desktop;supplier_id:1015133;asc_category_id:4779;item_id:106354934;sku_id:1021356150;shop_id:21130",
+            "addToCartSkus": [
+                {
+                    "sku": "106354934_BD-1021356150",
+                    "skuId": "1021356150",
+                    "count": 0
+                }
+            ],
+            "itemId": "106354934",
+            "skuId": "1021356150",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Good Gummiez Multivitamin",
+            "nid": "201252758",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "201252758",
+                "scene_pre": "search",
+                "current_price": "628",
+                "x_sku_ids": "1148527884",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "201252758"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i201252758-s1148527884.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/a15ae0cdce6c676f0b4655fd86ec8e95.jpg",
+            "originalPrice": "699.00",
+            "originalPriceShow": "৳ 699",
+            "price": "628",
+            "promotionId": "null",
+            "priceShow": "৳ 628",
+            "discount": "-10%",
+            "ratingScore": "4.90909",
+            "review": "22",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "201252758_BD-1148527884",
+            "sku": "201252758_BD",
+            "skus": [],
+            "description": [
+                "Good Gummiez help to fill nutritional gaps, promote daily energy and support immunity."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508823598",
+            "mainSellerId": "",
+            "sellerName": "Good Gummiez",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/a15ae0cdce6c676f0b4655fd86ec8e95.jpg",
+                    "productUrl": "/products/-i201252758-s1148527884.html",
+                    "sku": "201252758_BD",
+                    "skuId": "1148527884"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                7302
+            ],
+            "clickTrace": "query:;nid:201252758;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:201252758_BD;price:628;client:desktop;supplier_id:700508823598;asc_category_id:7302;item_id:201252758;sku_id:1148527884;shop_id:192668",
+            "addToCartSkus": [
+                {
+                    "sku": "201252758_BD-1148527884",
+                    "skuId": "1148527884",
+                    "count": 0
+                }
+            ],
+            "itemId": "201252758",
+            "skuId": "1148527884",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Spring Valley  Biotin 5000 mcg-120  counts",
+            "nid": "211630836",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "211630836",
+                "scene_pre": "search",
+                "current_price": "1157",
+                "x_sku_ids": "1161436501",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "211630836"
+            },
+            "productUrl": "//www.daraz.com.bd/products/5000-i211630836-s1161436501.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/edefbdd02c50df59a333716592425d1b.jpg",
+            "originalPrice": "1950.00",
+            "originalPriceShow": "৳ 1,950",
+            "price": "1157",
+            "promotionId": "null",
+            "priceShow": "৳ 1,157",
+            "discount": "-41%",
+            "ratingScore": "4.83333",
+            "review": "12",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "211630836_BD-1161436501",
+            "sku": "211630836_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5250",
+            "mainSellerId": "",
+            "sellerName": "Beard Goal",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/edefbdd02c50df59a333716592425d1b.jpg",
+                    "productUrl": "/products/5000-i211630836-s1161436501.html",
+                    "sku": "211630836_BD",
+                    "skuId": "1161436501"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4771,
+                4773
+            ],
+            "clickTrace": "query:;nid:211630836;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:211630836_BD;price:1157;client:desktop;supplier_id:5250;asc_category_id:4773;item_id:211630836;sku_id:1161436501;shop_id:5258",
+            "addToCartSkus": [
+                {
+                    "sku": "211630836_BD-1161436501",
+                    "skuId": "1161436501",
+                    "count": 0
+                }
+            ],
+            "itemId": "211630836",
+            "skuId": "1161436501",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Frozen Detox Capsule for Slimming and Reducing Weight Quickly",
+            "nid": "184948482",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184948482",
+                "scene_pre": "search",
+                "current_price": "529",
+                "x_sku_ids": "1130344362",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "184948482"
+            },
+            "productUrl": "//www.daraz.com.bd/products/frozen-detox-capsule-for-slimming-and-reducing-weight-quickly-i184948482-s1130344362.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5423412933ac078dba99c21cb7cce8dd.jpg",
+            "originalPrice": "1200.00",
+            "originalPriceShow": "৳ 1,200",
+            "price": "529",
+            "promotionId": "null",
+            "priceShow": "৳ 529",
+            "discount": "-56%",
+            "ratingScore": "4.5",
+            "review": "16",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184948482_BD-1130344362",
+            "sku": "184948482_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508535728",
+            "mainSellerId": "",
+            "sellerName": "LaZa Beauty",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5423412933ac078dba99c21cb7cce8dd.jpg",
+                    "productUrl": "/products/frozen-detox-capsule-for-slimming-and-reducing-weight-quickly-i184948482-s1130344362.html",
+                    "sku": "184948482_BD",
+                    "skuId": "1130344362"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                1575,
+                10002203
+            ],
+            "clickTrace": "query:;nid:184948482;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:184948482_BD;price:529;client:desktop;supplier_id:700508535728;asc_category_id:10002203;item_id:184948482;sku_id:1130344362;shop_id:167779",
+            "addToCartSkus": [
+                {
+                    "sku": "184948482_BD-1130344362",
+                    "skuId": "1130344362",
+                    "count": 0
+                }
+            ],
+            "itemId": "184948482",
+            "skuId": "1130344362",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bio green Asia Spirulina Tablet-90 pcs",
+            "nid": "164536400",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "164536400",
+                "scene_pre": "search",
+                "current_price": "695",
+                "x_sku_ids": "1097334015",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "164536400"
+            },
+            "productUrl": "//www.daraz.com.bd/products/bio-green-asia-90-i164536400-s1097334015.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d6410a1120dce624acd654a58c7909a3.jpg",
+            "originalPrice": "872.00",
+            "originalPriceShow": "৳ 872",
+            "price": "695",
+            "promotionId": "null",
+            "priceShow": "৳ 695",
+            "discount": "-20%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "164536400_BD-1097334015",
+            "sku": "164536400_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505166002",
+            "mainSellerId": "",
+            "sellerName": "BIOGREEN ASIA",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d6410a1120dce624acd654a58c7909a3.jpg",
+                    "productUrl": "/products/bio-green-asia-90-i164536400-s1097334015.html",
+                    "sku": "164536400_BD",
+                    "skuId": "1097334015"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                7302
+            ],
+            "clickTrace": "query:;nid:164536400;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:164536400_BD;price:695;client:desktop;supplier_id:700505166002;asc_category_id:7302;item_id:164536400;sku_id:1097334015;shop_id:57754",
+            "addToCartSkus": [
+                {
+                    "sku": "164536400_BD-1097334015",
+                    "skuId": "1097334015",
+                    "count": 0
+                }
+            ],
+            "itemId": "164536400",
+            "skuId": "1097334015",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Vitabiotics Pregnacare Be fore Conception Tablets 30s UK",
+            "nid": "164244727",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "164244727",
+                "scene_pre": "search",
+                "current_price": "1361",
+                "x_sku_ids": "1096926721",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "164244727"
+            },
+            "productUrl": "//www.daraz.com.bd/products/30s-uk-i164244727-s1096926721.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/885ee7db901ef504ed866e0ce32e9f08.jpg",
+            "originalPrice": "1999.00",
+            "originalPriceShow": "৳ 1,999",
+            "price": "1361",
+            "promotionId": "null",
+            "priceShow": "৳ 1,361",
+            "discount": "-32%",
+            "ratingScore": "4.66667",
+            "review": "9",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "164244727_BD-1096926721",
+            "sku": "164244727_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1016266",
+            "mainSellerId": "",
+            "sellerName": "London Shopping Zone",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/885ee7db901ef504ed866e0ce32e9f08.jpg",
+                    "productUrl": "/products/30s-uk-i164244727-s1096926721.html",
+                    "sku": "164244727_BD",
+                    "skuId": "1096926721"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                7303
+            ],
+            "clickTrace": "query:;nid:164244727;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:164244727_BD;price:1361;client:desktop;supplier_id:1016266;asc_category_id:7303;item_id:164244727;sku_id:1096926721;shop_id:22520",
+            "addToCartSkus": [
+                {
+                    "sku": "164244727_BD-1096926721",
+                    "skuId": "1096926721",
+                    "count": 0
+                }
+            ],
+            "itemId": "164244727",
+            "skuId": "1096926721",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Natrol Melatonin Time Release 3mg-90 Counts",
+            "nid": "226002174",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226002174",
+                "scene_pre": "search",
+                "current_price": "1522",
+                "x_sku_ids": "1170790729",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "226002174"
+            },
+            "productUrl": "//www.daraz.com.bd/products/natroll-3mg-100-i226002174-s1170790729.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f82038d45e59728f59f906a5bd77ee67.jpg",
+            "originalPrice": "1900.00",
+            "originalPriceShow": "৳ 1,900",
+            "price": "1522",
+            "promotionId": "null",
+            "priceShow": "৳ 1,522",
+            "discount": "-20%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226002174_BD-1170790729",
+            "sku": "226002174_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5250",
+            "mainSellerId": "",
+            "sellerName": "Beard Goal",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f82038d45e59728f59f906a5bd77ee67.jpg",
+                    "productUrl": "/products/natroll-3mg-100-i226002174-s1170790729.html",
+                    "sku": "226002174_BD",
+                    "skuId": "1170790729"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4791
+            ],
+            "clickTrace": "query:;nid:226002174;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:226002174_BD;price:1522;client:desktop;supplier_id:5250;asc_category_id:4791;item_id:226002174;sku_id:1170790729;shop_id:5258",
+            "addToCartSkus": [
+                {
+                    "sku": "226002174_BD-1170790729",
+                    "skuId": "1170790729",
+                    "count": 0
+                }
+            ],
+            "itemId": "226002174",
+            "skuId": "1170790729",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Neo Cell Super Collagen + Vitamin C & Biotin, Dietary Supplement, For Healthy Hair, Beautiful Skin, and Nail Support, Internally Supports Collagen Formation, and Supports Healthy Joints, 180 Tablets, USA, Expiry: 09/2023",
+            "nid": "223803011",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223803011",
+                "scene_pre": "search",
+                "current_price": "3135",
+                "x_sku_ids": "1169688678",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "223803011"
+            },
+            "productUrl": "//www.daraz.com.bd/products/neo-cell-super-collagen-vitamin-c-biotin-dietary-supplement-i223803011-s1169688678.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/45bf6926bc168a19287d80d2b5f3d49b.jpg",
+            "originalPrice": "3499.00",
+            "originalPriceShow": "৳ 3,499",
+            "price": "3135",
+            "promotionId": "null",
+            "priceShow": "৳ 3,135",
+            "discount": "-10%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223803011_BD-1169688678",
+            "sku": "223803011_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "197973",
+            "brandName": "ePharma",
+            "sellerId": "1015133",
+            "mainSellerId": "",
+            "sellerName": "ePharma",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/45bf6926bc168a19287d80d2b5f3d49b.jpg",
+                    "productUrl": "/products/neo-cell-super-collagen-vitamin-c-biotin-dietary-supplement-i223803011-s1169688678.html",
+                    "sku": "223803011_BD",
+                    "skuId": "1169688678"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4771,
+                4774
+            ],
+            "clickTrace": "query:;nid:223803011;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:223803011_BD;price:3135;client:desktop;supplier_id:1015133;asc_category_id:4774;item_id:223803011;sku_id:1169688678;shop_id:21130",
+            "addToCartSkus": [
+                {
+                    "sku": "223803011_BD-1169688678",
+                    "skuId": "1169688678",
+                    "count": 0
+                }
+            ],
+            "itemId": "223803011",
+            "skuId": "1169688678",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Doctor's Best Betaine HCI Pepsin & Gentian Bitters, Digestive Enzymes for Protein Breakdown & Absorption, Non-GMO, Gluten Free, 120 Caps, USA",
+            "nid": "156964186",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "156964186",
+                "scene_pre": "search",
+                "current_price": "2797",
+                "x_sku_ids": "1087050897",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "156964186"
+            },
+            "productUrl": "//www.daraz.com.bd/products/doctors-best-betaine-hci-pepsin-gentian-bitters-digestive-enzymes-for-protein-breakdown-absorption-non-gmo-gluten-free-120-caps-usa-i156964186-s1087050897.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8b817570ed3eaffb65e4e86db2e4dc00.jpg",
+            "originalPrice": "3199.00",
+            "originalPriceShow": "৳ 3,199",
+            "price": "2797",
+            "promotionId": "null",
+            "priceShow": "৳ 2,797",
+            "discount": "-13%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "156964186_BD-1087050897",
+            "sku": "156964186_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "197973",
+            "brandName": "ePharma",
+            "sellerId": "1015133",
+            "mainSellerId": "",
+            "sellerName": "ePharma",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8b817570ed3eaffb65e4e86db2e4dc00.jpg",
+                    "productUrl": "/products/doctors-best-betaine-hci-pepsin-gentian-bitters-digestive-enzymes-for-protein-breakdown-absorption-non-gmo-gluten-free-120-caps-usa-i156964186-s1087050897.html",
+                    "sku": "156964186_BD",
+                    "skuId": "1087050897"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4781
+            ],
+            "clickTrace": "query:;nid:156964186;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:156964186_BD;price:2797;client:desktop;supplier_id:1015133;asc_category_id:4781;item_id:156964186;sku_id:1087050897;shop_id:21130",
+            "addToCartSkus": [
+                {
+                    "sku": "156964186_BD-1087050897",
+                    "skuId": "1087050897",
+                    "count": 0
+                }
+            ],
+            "itemId": "156964186",
+            "skuId": "1087050897",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Natrol Melatonin Fast Dissolve Tablets 10 mg-60 counts",
+            "nid": "222537619",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "222537619",
+                "scene_pre": "search",
+                "current_price": "1362",
+                "x_sku_ids": "1168890106",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "222537619"
+            },
+            "productUrl": "//www.daraz.com.bd/products/natroll-10-mg-60-i222537619-s1168890106.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2b91db38cd2691d1b675c67142f769e4.jpg",
+            "originalPrice": "1900.00",
+            "originalPriceShow": "৳ 1,900",
+            "price": "1362",
+            "promotionId": "null",
+            "priceShow": "৳ 1,362",
+            "discount": "-28%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "222537619_BD-1168890106",
+            "sku": "222537619_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "197973",
+            "brandName": "ePharma",
+            "sellerId": "5250",
+            "mainSellerId": "",
+            "sellerName": "Beard Goal",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2b91db38cd2691d1b675c67142f769e4.jpg",
+                    "productUrl": "/products/natroll-10-mg-60-i222537619-s1168890106.html",
+                    "sku": "222537619_BD",
+                    "skuId": "1168890106"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4791
+            ],
+            "clickTrace": "query:;nid:222537619;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:222537619_BD;price:1362;client:desktop;supplier_id:5250;asc_category_id:4791;item_id:222537619;sku_id:1168890106;shop_id:5258",
+            "addToCartSkus": [
+                {
+                    "sku": "222537619_BD-1168890106",
+                    "skuId": "1168890106",
+                    "count": 0
+                }
+            ],
+            "itemId": "222537619",
+            "skuId": "1168890106",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Natrol Melatonin Time Release Tablets 5mg-100 counts",
+            "nid": "222548050",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "222548050",
+                "scene_pre": "search",
+                "current_price": "1571",
+                "x_sku_ids": "1168888259",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "222548050"
+            },
+            "productUrl": "//www.daraz.com.bd/products/natroll-5mg-100-i222548050-s1168888259.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7ee5dacb283ddf6a40575ab438e408d8.jpg",
+            "originalPrice": "1990.00",
+            "originalPriceShow": "৳ 1,990",
+            "price": "1571",
+            "promotionId": "null",
+            "priceShow": "৳ 1,571",
+            "discount": "-21%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "222548050_BD-1168888259",
+            "sku": "222548050_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "197973",
+            "brandName": "ePharma",
+            "sellerId": "5250",
+            "mainSellerId": "",
+            "sellerName": "Beard Goal",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7ee5dacb283ddf6a40575ab438e408d8.jpg",
+                    "productUrl": "/products/natroll-5mg-100-i222548050-s1168888259.html",
+                    "sku": "222548050_BD",
+                    "skuId": "1168888259"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4791
+            ],
+            "clickTrace": "query:;nid:222548050;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:222548050_BD;price:1571;client:desktop;supplier_id:5250;asc_category_id:4791;item_id:222548050;sku_id:1168888259;shop_id:5258",
+            "addToCartSkus": [
+                {
+                    "sku": "222548050_BD-1168888259",
+                    "skuId": "1168888259",
+                    "count": 0
+                }
+            ],
+            "itemId": "222548050",
+            "skuId": "1168888259",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Maca for Mens, Improves Male Fertility, Improves Health, Controls Weight and Diabetes, Cures Anemia, 60 Capsules, Made in America",
+            "nid": "106382206",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "106382206",
+                "scene_pre": "search",
+                "current_price": "1297",
+                "x_sku_ids": "1021360339",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "106382206"
+            },
+            "productUrl": "//www.daraz.com.bd/products/maca-for-mens-i106382206-s1021360339.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6265bd29426b3ef9510975f273b39371.jpg",
+            "originalPrice": "1699.00",
+            "originalPriceShow": "৳ 1,699",
+            "price": "1297",
+            "promotionId": "null",
+            "priceShow": "৳ 1,297",
+            "discount": "-24%",
+            "ratingScore": "4.43307",
+            "review": "127",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "106382206_BD-1021360339",
+            "sku": "106382206_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "197972",
+            "brandName": "Truemed",
+            "sellerId": "1015133",
+            "mainSellerId": "",
+            "sellerName": "ePharma",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6265bd29426b3ef9510975f273b39371.jpg",
+                    "productUrl": "/products/maca-for-mens-i106382206-s1021360339.html",
+                    "sku": "106382206_BD",
+                    "skuId": "1021360339"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                7306
+            ],
+            "clickTrace": "query:;nid:106382206;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:106382206_BD;price:1297;client:desktop;supplier_id:1015133;asc_category_id:7306;item_id:106382206;sku_id:1021360339;shop_id:21130",
+            "addToCartSkus": [
+                {
+                    "sku": "106382206_BD-1021360339",
+                    "skuId": "1021360339",
+                    "count": 0
+                }
+            ],
+            "itemId": "106382206",
+            "skuId": "1021360339",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nature's Bounty  biotin 5000 mcg-72 softgels",
+            "nid": "222106127",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "222106127",
+                "scene_pre": "search",
+                "current_price": "1399",
+                "x_sku_ids": "1168635929",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "222106127"
+            },
+            "productUrl": "//www.daraz.com.bd/products/5000-i222106127-s1168635929.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/78b6f31171ae82e95c5793f29b81f649.jpg",
+            "originalPrice": "1750.00",
+            "originalPriceShow": "৳ 1,750",
+            "price": "1399",
+            "promotionId": "null",
+            "priceShow": "৳ 1,399",
+            "discount": "-20%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "222106127_BD-1168635929",
+            "sku": "222106127_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5250",
+            "mainSellerId": "",
+            "sellerName": "Beard Goal",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/78b6f31171ae82e95c5793f29b81f649.jpg",
+                    "productUrl": "/products/5000-i222106127-s1168635929.html",
+                    "sku": "222106127_BD",
+                    "skuId": "1168635929"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4771,
+                4773
+            ],
+            "clickTrace": "query:;nid:222106127;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:222106127_BD;price:1399;client:desktop;supplier_id:5250;asc_category_id:4773;item_id:222106127;sku_id:1168635929;shop_id:5258",
+            "addToCartSkus": [
+                {
+                    "sku": "222106127_BD-1168635929",
+                    "skuId": "1168635929",
+                    "count": 0
+                }
+            ],
+            "itemId": "222106127",
+            "skuId": "1168635929",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "WOW Probiotics 20 Billion CFU (14 Probiotic Strains) 500mg, For Immune System Health, 60 Vegetarian Capsules",
+            "nid": "129696786",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "129696786",
+                "scene_pre": "search",
+                "current_price": "1499",
+                "x_sku_ids": "1049474814",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "129696786"
+            },
+            "productUrl": "//www.daraz.com.bd/products/wow-probiotics-20-billion-cfu-14-probiotic-strains-500mg-wow-20-14-500mg-60-i129696786-s1049474814.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/89f63f6d8257ae7deb54e07932903271.jpg",
+            "originalPrice": "2199.00",
+            "originalPriceShow": "৳ 2,199",
+            "price": "1499",
+            "promotionId": "null",
+            "priceShow": "৳ 1,499",
+            "discount": "-32%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "129696786_BD-1049474814",
+            "sku": "129696786_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "197973",
+            "brandName": "ePharma",
+            "sellerId": "1015133",
+            "mainSellerId": "",
+            "sellerName": "ePharma",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/89f63f6d8257ae7deb54e07932903271.jpg",
+                    "productUrl": "/products/wow-probiotics-20-billion-cfu-14-probiotic-strains-500mg-wow-20-14-500mg-60-i129696786-s1049474814.html",
+                    "sku": "129696786_BD",
+                    "skuId": "1049474814"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4781
+            ],
+            "clickTrace": "query:;nid:129696786;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:129696786_BD;price:1499;client:desktop;supplier_id:1015133;asc_category_id:4781;item_id:129696786;sku_id:1049474814;shop_id:21130",
+            "addToCartSkus": [
+                {
+                    "sku": "129696786_BD-1049474814",
+                    "skuId": "1049474814",
+                    "count": 0
+                }
+            ],
+            "itemId": "129696786",
+            "skuId": "1049474814",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "21st Century, Digestive Enzymes, Enzymes, 60 Capsule, Made in USA",
+            "nid": "191803028",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "191803028",
+                "scene_pre": "search",
+                "current_price": "1749",
+                "x_sku_ids": "1138712392",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "191803028"
+            },
+            "productUrl": "//www.daraz.com.bd/products/21st-century-digestive-enzymes-enzymes-60-capsule-made-in-usa-i191803028-s1138712392.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8956f84468da30bdae5da160f0ab2f2a.jpg",
+            "originalPrice": "1999.00",
+            "originalPriceShow": "৳ 1,999",
+            "price": "1749",
+            "promotionId": "null",
+            "priceShow": "৳ 1,749",
+            "discount": "-13%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "191803028_BD-1138712392",
+            "sku": "191803028_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "197973",
+            "brandName": "ePharma",
+            "sellerId": "1015133",
+            "mainSellerId": "",
+            "sellerName": "ePharma",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8956f84468da30bdae5da160f0ab2f2a.jpg",
+                    "productUrl": "/products/21st-century-digestive-enzymes-enzymes-60-capsule-made-in-usa-i191803028-s1138712392.html",
+                    "sku": "191803028_BD",
+                    "skuId": "1138712392"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4781
+            ],
+            "clickTrace": "query:;nid:191803028;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:191803028_BD;price:1749;client:desktop;supplier_id:1015133;asc_category_id:4781;item_id:191803028;sku_id:1138712392;shop_id:21130",
+            "addToCartSkus": [
+                {
+                    "sku": "191803028_BD-1138712392",
+                    "skuId": "1138712392",
+                    "count": 0
+                }
+            ],
+            "itemId": "191803028",
+            "skuId": "1138712392",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dabur Chyawanprash Awaleha 500 gm",
+            "nid": "128432300",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "128432300",
+                "scene_pre": "search",
+                "current_price": "325.00",
+                "x_sku_ids": "1048312007",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "128432300"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dabur-chyawanprash-awaleha-500-gm-i128432300-s1048312007.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c4fc500f7a66e6cb03275f4ce63438ff.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "325.00",
+            "promotionId": "null",
+            "priceShow": "৳ 325",
+            "discount": "-7%",
+            "ratingScore": "4.33333",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "128432300_BD-1048312007",
+            "sku": "128432300_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Chyawanprash",
+                "Brand: Dabur",
+                "Capacity: 500gm",
+                "Doubles immunity, clinically tested, suitable for all age groups in all seasons",
+                "Improves stress tolerance and increases energy",
+                "Has strong antioxidant properties",
+                "Natural and safe",
+                "Synergestic combination of herbs and plant extracts in a base of amla fruit pulp",
+                "Derived from a 2,500-year-old Ayurvedic formula",
+                "Imported from India"
+            ],
+            "brandId": "123953691",
+            "brandName": "Dabur Chyawanprash",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c4fc500f7a66e6cb03275f4ce63438ff.jpg",
+                    "productUrl": "/products/dabur-chyawanprash-awaleha-500-gm-i128432300-s1048312007.html",
+                    "sku": "128432300_BD",
+                    "skuId": "1048312007"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4781
+            ],
+            "clickTrace": "query:;nid:128432300;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:128432300_BD;price:325.00;client:desktop;supplier_id:1000000;asc_category_id:4781;item_id:128432300;sku_id:1048312007;shop_id:28799",
+            "addToCartSkus": [
+                {
+                    "sku": "128432300_BD-1048312007",
+                    "skuId": "1048312007",
+                    "count": 0
+                }
+            ],
+            "itemId": "128432300",
+            "skuId": "1048312007",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Papaya Leaf Extract 500mg, Immune system, Digestion, Skin, Platelet support, 60 Caps, USA",
+            "nid": "184310557",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184310557",
+                "scene_pre": "search",
+                "current_price": "1199",
+                "x_sku_ids": "1129138574",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "184310557"
+            },
+            "productUrl": "//www.daraz.com.bd/products/papaya-leaf-extract-500mg-immune-system-digestion-skin-platelet-support-60-caps-usa-i184310557-s1129138574.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0ef89425d77b6bb98fdaa126c59ec7e3.jpg",
+            "originalPrice": "1799.00",
+            "originalPriceShow": "৳ 1,799",
+            "price": "1199",
+            "promotionId": "null",
+            "priceShow": "৳ 1,199",
+            "discount": "-33%",
+            "ratingScore": "3",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184310557_BD-1129138574",
+            "sku": "184310557_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "197972",
+            "brandName": "Truemed",
+            "sellerId": "1015133",
+            "mainSellerId": "",
+            "sellerName": "ePharma",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0ef89425d77b6bb98fdaa126c59ec7e3.jpg",
+                    "productUrl": "/products/papaya-leaf-extract-500mg-immune-system-digestion-skin-platelet-support-60-caps-usa-i184310557-s1129138574.html",
+                    "sku": "184310557_BD",
+                    "skuId": "1129138574"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4781
+            ],
+            "clickTrace": "query:;nid:184310557;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:184310557_BD;price:1199;client:desktop;supplier_id:1015133;asc_category_id:4781;item_id:184310557;sku_id:1129138574;shop_id:21130",
+            "addToCartSkus": [
+                {
+                    "sku": "184310557_BD-1129138574",
+                    "skuId": "1129138574",
+                    "count": 0
+                }
+            ],
+            "itemId": "184310557",
+            "skuId": "1129138574",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Amazing Formulas 5 HTP Hydroxytryptophan 100mg - Help reduce Anxiety & Stress, Promotes positive modes & restful sleep, Made from Griffonia Simplicifolia Seed Extract - Natural Sleep Support, Non-GMO, Gluten Free, 120 Capsules, USA",
+            "nid": "154192555",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "154192555",
+                "scene_pre": "search",
+                "current_price": "1699",
+                "x_sku_ids": "1083224029",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "154192555"
+            },
+            "productUrl": "//www.daraz.com.bd/products/amazing-formulas-5-htp-120-i154192555-s1083224029.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0e7d3b1c6f73f6d4bea21523dffdd2ef.jpg",
+            "originalPrice": "2499.00",
+            "originalPriceShow": "৳ 2,499",
+            "price": "1699",
+            "promotionId": "null",
+            "priceShow": "৳ 1,699",
+            "discount": "-32%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "154192555_BD-1083224029",
+            "sku": "154192555_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "197973",
+            "brandName": "ePharma",
+            "sellerId": "1015133",
+            "mainSellerId": "",
+            "sellerName": "ePharma",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0e7d3b1c6f73f6d4bea21523dffdd2ef.jpg",
+                    "productUrl": "/products/amazing-formulas-5-htp-120-i154192555-s1083224029.html",
+                    "sku": "154192555_BD",
+                    "skuId": "1083224029"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4791
+            ],
+            "clickTrace": "query:;nid:154192555;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:154192555_BD;price:1699;client:desktop;supplier_id:1015133;asc_category_id:4791;item_id:154192555;sku_id:1083224029;shop_id:21130",
+            "addToCartSkus": [
+                {
+                    "sku": "154192555_BD-1083224029",
+                    "skuId": "1083224029",
+                    "count": 0
+                }
+            ],
+            "itemId": "154192555",
+            "skuId": "1083224029",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bio green Asia Spirulina- Tablets-30 Pcs",
+            "nid": "165224983",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "165224983",
+                "scene_pre": "search",
+                "current_price": "309",
+                "x_sku_ids": "1098488522",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "165224983"
+            },
+            "productUrl": "//www.daraz.com.bd/products/bio-green-asia-30-i165224983-s1098488522.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/37e7b91be4d730a5888ffc3eae28024f.jpg",
+            "originalPrice": "325.00",
+            "originalPriceShow": "৳ 325",
+            "price": "309",
+            "promotionId": "null",
+            "priceShow": "৳ 309",
+            "discount": "-5%",
+            "ratingScore": "3.94118",
+            "review": "17",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "165224983_BD-1098488522",
+            "sku": "165224983_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505166002",
+            "mainSellerId": "",
+            "sellerName": "BIOGREEN ASIA",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/37e7b91be4d730a5888ffc3eae28024f.jpg",
+                    "productUrl": "/products/bio-green-asia-30-i165224983-s1098488522.html",
+                    "sku": "165224983_BD",
+                    "skuId": "1098488522"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                7302
+            ],
+            "clickTrace": "query:;nid:165224983;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:165224983_BD;price:309;client:desktop;supplier_id:700505166002;asc_category_id:7302;item_id:165224983;sku_id:1098488522;shop_id:57754",
+            "addToCartSkus": [
+                {
+                    "sku": "165224983_BD-1098488522",
+                    "skuId": "1098488522",
+                    "count": 0
+                }
+            ],
+            "itemId": "165224983",
+            "skuId": "1098488522",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Natrol Melatonin Fast Dissolve Maximum Strength Strawberry Flavor 1mg-90 Count",
+            "nid": "237385616",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237385616",
+                "scene_pre": "search",
+                "current_price": "1290.00",
+                "x_sku_ids": "1180794622",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "237385616"
+            },
+            "productUrl": "//www.daraz.com.bd/products/natroll-1mg-90-i237385616-s1180794622.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ddf1b8fa0e306cc42595cf89c98c9e54.jpg",
+            "originalPrice": "1500.00",
+            "originalPriceShow": "৳ 1,500",
+            "price": "1290.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,290",
+            "discount": "-14%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237385616_BD-1180794622",
+            "sku": "237385616_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5250",
+            "mainSellerId": "",
+            "sellerName": "Beard Goal",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ddf1b8fa0e306cc42595cf89c98c9e54.jpg",
+                    "productUrl": "/products/natroll-1mg-90-i237385616-s1180794622.html",
+                    "sku": "237385616_BD",
+                    "skuId": "1180794622"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4791
+            ],
+            "clickTrace": "query:;nid:237385616;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:237385616_BD;price:1290.00;client:desktop;supplier_id:5250;asc_category_id:4791;item_id:237385616;sku_id:1180794622;shop_id:5258",
+            "addToCartSkus": [
+                {
+                    "sku": "237385616_BD-1180794622",
+                    "skuId": "1180794622",
+                    "count": 0
+                }
+            ],
+            "itemId": "237385616",
+            "skuId": "1180794622",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "DHEA 25mg, Balance Hormone Levels, Improve Fertility, Anti aging, Sugar Metabolism, 90 capsules, Made in USA",
+            "nid": "123871587",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "123871587",
+                "scene_pre": "search",
+                "current_price": "1298",
+                "x_sku_ids": "1044130589",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "123871587"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dhea-25mg-balance-hormone-levels-improve-fertility-anti-aging-sugar-metabolism-90-capsules-made-in-usa-i123871587-s1044130589.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e011ece431bd62c6973884e146af4573.jpg",
+            "originalPrice": "1799.00",
+            "originalPriceShow": "৳ 1,799",
+            "price": "1298",
+            "promotionId": "null",
+            "priceShow": "৳ 1,298",
+            "discount": "-28%",
+            "ratingScore": "5",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "123871587_BD-1044130589",
+            "sku": "123871587_BD",
+            "skus": [],
+            "description": [
+                "Helps to support healthy immune system",
+                "Helps to support balanced hormone levels",
+                "Anti Oxidant Health",
+                "Support Sugar Metabolism",
+                "May support anti-aging process",
+                "25mg and Made in USA"
+            ],
+            "brandId": "197972",
+            "brandName": "Truemed",
+            "sellerId": "1015133",
+            "mainSellerId": "",
+            "sellerName": "ePharma",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e011ece431bd62c6973884e146af4573.jpg",
+                    "productUrl": "/products/dhea-25mg-balance-hormone-levels-improve-fertility-anti-aging-sugar-metabolism-90-capsules-made-in-usa-i123871587-s1044130589.html",
+                    "sku": "123871587_BD",
+                    "skuId": "1044130589"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4793
+            ],
+            "clickTrace": "query:;nid:123871587;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:123871587_BD;price:1298;client:desktop;supplier_id:1015133;asc_category_id:4793;item_id:123871587;sku_id:1044130589;shop_id:21130",
+            "addToCartSkus": [
+                {
+                    "sku": "123871587_BD-1044130589",
+                    "skuId": "1044130589",
+                    "count": 0
+                }
+            ],
+            "itemId": "123871587",
+            "skuId": "1044130589",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sundown Magnesium, 500 mg (180 Coated Caplets) Mineral Supplement, Support Bone & Muscle Health, Free of Gluten, Dairy. USA",
+            "nid": "132152823",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132152823",
+                "scene_pre": "search",
+                "current_price": "1899",
+                "x_sku_ids": "1052934115",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "132152823"
+            },
+            "productUrl": "//www.daraz.com.bd/products/sundown-magnesium-500-mg-180-coated-caplets-mineral-supplement-support-bone-muscle-health-free-of-gluten-dairy-usa-i132152823-s1052934115.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/720d8589a15dabb01f9907d2359d2e8a.jpg",
+            "originalPrice": "2499.00",
+            "originalPriceShow": "৳ 2,499",
+            "price": "1899",
+            "promotionId": "null",
+            "priceShow": "৳ 1,899",
+            "discount": "-24%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132152823_BD-1052934115",
+            "sku": "132152823_BD",
+            "skus": [],
+            "description": [
+                "MAGNESIUM 500MG CAPSULES: Magnesium is an essential mineral, and a single capsule of Sundown Natural&#39;s Magnesium supplement provides the recommended daily intake of this bone healthy mineral* Getting enough magnesium is particularly important as you age*",
+                "MAGNESIUM SUPPLEMENT: Magnesium plays an important role in bone mineralization, which is essential for bone hardness &amp; strength. This essential mineral also helps support healthy muscle &amp; nerve health, &amp; Sundown Naturals magnesium is vegetarian friendly*",
+                "BONE HEALTH SUPPLEMENTS: Healthy, strong feeling bones and muscles start with overall wellness. Support healthy bones and muscles with supplements from Sundown Natural&#39;s like calcium plus vitamin D3, calcium magnesium and zinc, or a daily multivitamins*",
+                "SUNDOWN NATURALS SUPPORTS WELLNESS: At Sundown Naturals, we are 100 percent committed to your health, with supplements, chew able and gummy vitamins for adults and kids, pro biotics and oils. Our nutritional vitamins and supplements are non GMO and gluten free*",
+                "GUARANTEED QUALITY: Sundown Natural&#39;s products are non GMO",
+                "and gluten free&loz;. Try them if you&#39;ve enjoyed supplements from Garden of Life, Vitafusion, Rainbow Light, Centrum, Alive, Solgar, Nordic Naturals, or Nature Made"
+            ],
+            "brandId": "197973",
+            "brandName": "ePharma",
+            "sellerId": "1015133",
+            "mainSellerId": "",
+            "sellerName": "ePharma",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/720d8589a15dabb01f9907d2359d2e8a.jpg",
+                    "productUrl": "/products/sundown-magnesium-500-mg-180-coated-caplets-mineral-supplement-support-bone-muscle-health-free-of-gluten-dairy-usa-i132152823-s1052934115.html",
+                    "sku": "132152823_BD",
+                    "skuId": "1052934115"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4779
+            ],
+            "clickTrace": "query:;nid:132152823;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:132152823_BD;price:1899;client:desktop;supplier_id:1015133;asc_category_id:4779;item_id:132152823;sku_id:1052934115;shop_id:21130",
+            "addToCartSkus": [
+                {
+                    "sku": "132152823_BD-1052934115",
+                    "skuId": "1052934115",
+                    "count": 0
+                }
+            ],
+            "itemId": "132152823",
+            "skuId": "1052934115",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "natrol biotin 5000 mcg 90 counts",
+            "nid": "162480612",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "162480612",
+                "scene_pre": "search",
+                "current_price": "1250",
+                "x_sku_ids": "1094598109",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "162480612"
+            },
+            "productUrl": "//www.daraz.com.bd/products/natroll-5000-mcg-90-i162480612-s1094598109.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fad63c28823d9c80e9ce2ec2d56690d3.jpg",
+            "originalPrice": "2450.00",
+            "originalPriceShow": "৳ 2,450",
+            "price": "1250",
+            "promotionId": "null",
+            "priceShow": "৳ 1,250",
+            "discount": "-49%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "162480612_BD-1094598109",
+            "sku": "162480612_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5250",
+            "mainSellerId": "",
+            "sellerName": "Beard Goal",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fad63c28823d9c80e9ce2ec2d56690d3.jpg",
+                    "productUrl": "/products/natroll-5000-mcg-90-i162480612-s1094598109.html",
+                    "sku": "162480612_BD",
+                    "skuId": "1094598109"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4771,
+                4773
+            ],
+            "clickTrace": "query:;nid:162480612;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:162480612_BD;price:1250;client:desktop;supplier_id:5250;asc_category_id:4773;item_id:162480612;sku_id:1094598109;shop_id:5258",
+            "addToCartSkus": [
+                {
+                    "sku": "162480612_BD-1094598109",
+                    "skuId": "1094598109",
+                    "count": 0
+                }
+            ],
+            "itemId": "162480612",
+            "skuId": "1094598109",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Doctor's Best High Absorption Magnesium, 100% Chelated, TRACCS, Not Buffered, Support Bone, Heart, Relax Nerves and Tension and Muscle Health, 100 mg, 120 Tablets, USA",
+            "nid": "154184811",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "154184811",
+                "scene_pre": "search",
+                "current_price": "2999",
+                "x_sku_ids": "1083222178",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "154184811"
+            },
+            "productUrl": "//www.daraz.com.bd/products/doctors-best-high-absorption-magnesium-100-100-mg-120-i154184811-s1083222178.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/aaa8db2b8605618073fa908f5e4bb21b.jpg",
+            "originalPrice": "3199.00",
+            "originalPriceShow": "৳ 3,199",
+            "price": "2999",
+            "promotionId": "null",
+            "priceShow": "৳ 2,999",
+            "discount": "-6%",
+            "ratingScore": "4.85714",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "154184811_BD-1083222178",
+            "sku": "154184811_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "197973",
+            "brandName": "ePharma",
+            "sellerId": "1015133",
+            "mainSellerId": "",
+            "sellerName": "ePharma",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/aaa8db2b8605618073fa908f5e4bb21b.jpg",
+                    "productUrl": "/products/doctors-best-high-absorption-magnesium-100-100-mg-120-i154184811-s1083222178.html",
+                    "sku": "154184811_BD",
+                    "skuId": "1083222178"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4779
+            ],
+            "clickTrace": "query:;nid:154184811;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:154184811_BD;price:2999;client:desktop;supplier_id:1015133;asc_category_id:4779;item_id:154184811;sku_id:1083222178;shop_id:21130",
+            "addToCartSkus": [
+                {
+                    "sku": "154184811_BD-1083222178",
+                    "skuId": "1083222178",
+                    "count": 0
+                }
+            ],
+            "itemId": "154184811",
+            "skuId": "1083222178",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Spring Valley Women’s Health Evening Primrose Oil 1000mg 75 Softgels USA",
+            "nid": "185784259",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "185784259",
+                "scene_pre": "search",
+                "current_price": "1666.00",
+                "x_sku_ids": "1131629189",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "185784259"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1000mg-75-usa-i185784259-s1131629189.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9666bca334474159275ed1460a60b6fe.png",
+            "originalPrice": "1999.00",
+            "originalPriceShow": "৳ 1,999",
+            "price": "1666.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,666",
+            "discount": "-17%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "185784259_BD-1131629189",
+            "sku": "185784259_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "194630",
+            "brandName": "Spring Valley",
+            "sellerId": "1016266",
+            "mainSellerId": "",
+            "sellerName": "London Shopping Zone",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9666bca334474159275ed1460a60b6fe.png",
+                    "productUrl": "/products/1000mg-75-usa-i185784259-s1131629189.html",
+                    "sku": "185784259_BD",
+                    "skuId": "1131629189"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4793
+            ],
+            "clickTrace": "query:;nid:185784259;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:185784259_BD;price:1666.00;client:desktop;supplier_id:1016266;asc_category_id:4793;item_id:185784259;sku_id:1131629189;shop_id:22520",
+            "addToCartSkus": [
+                {
+                    "sku": "185784259_BD-1131629189",
+                    "skuId": "1131629189",
+                    "count": 0
+                }
+            ],
+            "itemId": "185784259",
+            "skuId": "1131629189",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Puritans Pride Chelated Calcium Magnesium Zinc Caplets, supports Immune function, Bone health, Bone density supplement, 250 Count, Expiry:09/2023, USA",
+            "nid": "202252058",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "202252058",
+                "scene_pre": "search",
+                "current_price": "1999",
+                "x_sku_ids": "1149852037",
+                "SN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "x_ad": "1",
+                "x_object_id": "202252058"
+            },
+            "productUrl": "//www.daraz.com.bd/products/puritans-pride-chelated-calcium-magnesium-zinc-caplets-250-092023-i202252058-s1149852037.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/56b26ccd47c1c86bf67c58a0c8f76ce4.jpg",
+            "originalPrice": "3199.00",
+            "originalPriceShow": "৳ 3,199",
+            "price": "1999",
+            "promotionId": "null",
+            "priceShow": "৳ 1,999",
+            "discount": "-38%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "202252058_BD-1149852037",
+            "sku": "202252058_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "197973",
+            "brandName": "ePharma",
+            "sellerId": "1015133",
+            "mainSellerId": "",
+            "sellerName": "ePharma",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/56b26ccd47c1c86bf67c58a0c8f76ce4.jpg",
+                    "productUrl": "/products/puritans-pride-chelated-calcium-magnesium-zinc-caplets-250-092023-i202252058-s1149852037.html",
+                    "sku": "202252058_BD",
+                    "skuId": "1149852037"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1438,
+                1565,
+                4776,
+                4779
+            ],
+            "clickTrace": "query:;nid:202252058;src:LazadaMainSrp;rn:c0144f34c9bfa66e28ccdc3a6d82e78a;region:bd;sku:202252058_BD;price:1999;client:desktop;supplier_id:1015133;asc_category_id:4779;item_id:202252058;sku_id:1149852037;shop_id:21130",
+            "addToCartSkus": [
+                {
+                    "sku": "202252058_BD-1149852037",
+                    "skuId": "1149852037",
+                    "count": 0
+                }
+            ],
+            "itemId": "202252058",
+            "skuId": "1149852037",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/beauty-health/",
+            "title": "Health & Beauty"
+        },
+        {
+            "url": "/health-supplements/",
+            "title": "Food Supplements"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/health-supplements/?referer_rn=c0144f34c9bfa66e28ccdc3a6d82e78a&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {},
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/protein-supplements/?item_id=204346901&from=onesearch_category_1565",
+                "name": "Protein",
+                "image": "//static-01.daraz.com.bd/p/8da34d08ba2e06e6d927dd3230c2fbe9.jpg",
+                "id": "10002207"
+            },
+            {
+                "url": "/multivitamin-supplements/?item_id=201252758&from=onesearch_category_1565",
+                "name": "Multivitamins",
+                "image": "//static-01.daraz.com.bd/p/mdc/a15ae0cdce6c676f0b4655fd86ec8e95.jpg",
+                "id": "7302"
+            },
+            {
+                "url": "/well-being-men-s-health/?item_id=106382206&from=onesearch_category_1565",
+                "name": "Men's Health",
+                "image": "//static-01.daraz.com.bd/p/6265bd29426b3ef9510975f273b39371.jpg",
+                "id": "7306"
+            },
+            {
+                "url": "/hair-nail/?item_id=188476127&from=onesearch_category_1565",
+                "name": "Hair & Nail",
+                "image": "//static-01.daraz.com.bd/p/acc183c4fcf6620975e9a1fa382b068e.jpg",
+                "id": "4773"
+            },
+            {
+                "url": "/bone-joint-support/?item_id=164202768&from=onesearch_category_1565",
+                "name": "Bone & Joint Support",
+                "image": "//static-01.daraz.com.bd/p/0387689523d4202a999a3e93f5228584.jpg",
+                "id": "4779"
+            },
+            {
+                "url": "/fat-burner/?item_id=184948482&from=onesearch_category_1565",
+                "name": "Fat Blockers & Burners",
+                "image": "//static-01.daraz.com.bd/p/5423412933ac078dba99c21cb7cce8dd.jpg",
+                "id": "10002203"
+            },
+            {
+                "url": "/immunity/?item_id=185449353&from=onesearch_category_1565",
+                "name": "Immunity",
+                "image": "//static-01.daraz.com.bd/p/cd22272f4d181e9de47c2673a9a9e6fb.jpg",
+                "id": "4785"
+            },
+            {
+                "url": "/appetite-suppressants/?item_id=153480039&from=onesearch_category_1565",
+                "name": "Appetite Suppressant",
+                "image": "//static-01.daraz.com.bd/p/1324b00eb456d4d41173b3e0e4fdb800.jpg",
+                "id": "1576"
+            },
+            {
+                "url": "/whitening-supplements/?item_id=185628061&from=onesearch_category_1565",
+                "name": "Whitening",
+                "image": "//static-01.daraz.com.bd/p/e207df73bce9d557f8a327edcf197943.jpg",
+                "id": "4775"
+            },
+            {
+                "url": "/digestive-care/?item_id=104600406&from=onesearch_category_1565",
+                "name": "Digestive Care",
+                "image": "//static-01.daraz.com.bd/p/eafe86a5e2475c4c3a3cd43c1aa8f945.jpg",
+                "id": "4781"
+            },
+            {
+                "url": "/skin-nourishment/?item_id=162546077&from=onesearch_category_1565",
+                "name": "Skin Nourishment",
+                "image": "//static-01.daraz.com.bd/p/d3f07428e8e979d69d6333b5ea853bb0.jpg",
+                "id": "4774"
+            },
+            {
+                "url": "/pregnancy-care/?item_id=132558107&from=onesearch_category_1565",
+                "name": "Pregnancy Care",
+                "image": "//static-01.daraz.com.bd/p/1168ce7583d4e6cb06fef722d9a3306a.png",
+                "id": "7303"
+            },
+            {
+                "url": "/heart-blood-pressure/?item_id=114294847&from=onesearch_category_1565",
+                "name": "Heart & Blood Pressure",
+                "image": "//static-01.daraz.com.bd/p/8bf961c13c3000a9272959850aec0c2b.png",
+                "id": "4784"
+            },
+            {
+                "url": "/stress-sleep-and-anxiety/?item_id=222548050&from=onesearch_category_1565",
+                "name": "Stress, Sleep, and Anxiety",
+                "image": "//static-01.daraz.com.bd/p/7ee5dacb283ddf6a40575ab438e408d8.jpg",
+                "id": "4791"
+            },
+            {
+                "url": "/herbal-supplements/?item_id=171042124&from=onesearch_category_1565",
+                "name": "Herbal Supplements",
+                "image": "//static-01.daraz.com.bd/p/f43c3b78b375757c53c7f0649ecdd9f1.jpg",
+                "id": "1574"
+            },
+            {
+                "url": "/detoxification/?item_id=170900051&from=onesearch_category_1565",
+                "name": "Detoxification",
+                "image": "//static-01.daraz.com.bd/p/ac20d8f24e9edd976c23f0548cdc8329.jpg",
+                "id": "4787"
+            },
+            {
+                "url": "/brain-memory/?item_id=124396083&from=onesearch_category_1565",
+                "name": "Brain & Memory",
+                "image": "//static-01.daraz.com.bd/p/903392fd667d2b160a55f836690568fa.jpg",
+                "id": "4780"
+            },
+            {
+                "url": "/herbs-traditional-medicine/?item_id=132956862&from=onesearch_category_1565",
+                "name": "Herbs & Traditional Medicine",
+                "image": "//static-01.daraz.com.bd/p/65d793cf6f538ee2797973df044d11c3.png",
+                "id": "10002205"
+            },
+            {
+                "url": "/acne-care/?item_id=210488222&from=onesearch_category_1565",
+                "name": "Acne Care",
+                "image": "//static-01.daraz.com.bd/p/4bd2dcefa3da923d130c3351b23d0173.jpg",
+                "id": "7298"
+            },
+            {
+                "url": "/supplements-sports-nutrition/?item_id=181076815&from=onesearch_category_1565",
+                "name": "Post-Workout and Recovery",
+                "image": "//static-01.daraz.com.bd/p/37387ad56c7ad27a7cc15515af8d1b6b.jpg",
+                "id": "4802"
+            },
+            {
+                "url": "/slimming-beverages/?item_id=118276902&from=onesearch_category_1565",
+                "name": "Slimming Beverages",
+                "image": "//static-01.daraz.com.bd/p/c342c5cf5b9855f73f54082975a74732.jpg",
+                "id": "10002204"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_1565"
+        },
+        "title": "",
+        "bizId": "onesearch_category_1565",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "1098 items found in {$0}",
+        "title": "Food Supplements",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Food Supplements"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Food Supplements",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "1098",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "1565",
+            "category": "1565"
+        },
+        "categoryRegionalKey": "080300000000",
+        "mainCategoryRegionalKey": "080000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Health Supplements In Bangladesh At Best Price - Daraz.com.bd",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Health & Beauty,Food Supplements",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "080300000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=1565&_p_asc_cateid=1565",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "health-supplements",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "c0144f34c9bfa66e28ccdc3a6d82e78a",
+                "resultNr": 1098,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1122571032",
+                "1128579358",
+                "1128569587"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "1565",
+            "category": "1565"
+        }
+    }
+}
