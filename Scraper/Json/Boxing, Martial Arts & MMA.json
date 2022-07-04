@@ -1,0 +1,3185 @@
+{
+    "listItems": [
+        {
+            "name": "premium examination gloves 100 pcs",
+            "nid": "144446096",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "144446096",
+                "scene_pre": "search",
+                "current_price": "416",
+                "x_sku_ids": "1069114764",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "144446096"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100-i144446096-s1069114764.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/f4c342d5356e7913a8c2e33851b0433b.jpg",
+            "originalPrice": "800.00",
+            "originalPriceShow": "৳ 800",
+            "price": "416",
+            "promotionId": "null",
+            "priceShow": "৳ 416",
+            "discount": "-48%",
+            "ratingScore": "4.38636",
+            "review": "44",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "144446096_BD-1069114764",
+            "sku": "144446096_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1021944",
+            "mainSellerId": "",
+            "sellerName": "Maira Surgical",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/f4c342d5356e7913a8c2e33851b0433b.jpg",
+                    "productUrl": "/products/100-i144446096-s1069114764.html",
+                    "sku": "144446096_BD",
+                    "skuId": "1069114764"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/f4c342d5356e7913a8c2e33851b0433b.jpg",
+                    "productUrl": "/products/100-i144446096-s1069114765.html",
+                    "sku": "144446096_BD",
+                    "skuId": "1069114765"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10187,
+                10188
+            ],
+            "clickTrace": "query:;nid:144446096;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:144446096_BD;price:416;client:desktop;supplier_id:1021944;asc_category_id:10188;item_id:144446096;sku_id:1069114764;shop_id:28165",
+            "addToCartSkus": [
+                {
+                    "sku": "144446096_BD-1069114764",
+                    "skuId": "1069114764",
+                    "count": 0
+                }
+            ],
+            "itemId": "144446096",
+            "skuId": "1069114764",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Full Hand Kitchen Gloves",
+            "nid": "132334192",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132334192",
+                "scene_pre": "search",
+                "current_price": "120.00",
+                "x_sku_ids": "1053278267",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "132334192"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i132334192-s1053278267.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b406b5e7bb9521d89a9c9aedc6bed983.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "120.00",
+            "promotionId": "null",
+            "priceShow": "৳ 120",
+            "discount": "-52%",
+            "ratingScore": "4.4",
+            "review": "65",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132334192_BD-1053278267",
+            "sku": "132334192_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1027780",
+            "mainSellerId": "",
+            "sellerName": "Express Seller ShopBD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b406b5e7bb9521d89a9c9aedc6bed983.jpg",
+                    "productUrl": "/products/-i132334192-s1053278267.html",
+                    "sku": "132334192_BD",
+                    "skuId": "1053278267"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10187,
+                10188
+            ],
+            "clickTrace": "query:;nid:132334192;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:132334192_BD;price:120.00;client:desktop;supplier_id:1027780;asc_category_id:10188;item_id:132334192;sku_id:1053278267;shop_id:33883",
+            "addToCartSkus": [
+                {
+                    "sku": "132334192_BD-1053278267",
+                    "skuId": "1053278267",
+                    "count": 0
+                }
+            ],
+            "itemId": "132334192",
+            "skuId": "1053278267",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Portable Defense Safety Expandable Stick",
+            "nid": "227760493",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227760493",
+                "scene_pre": "search",
+                "current_price": "548",
+                "x_sku_ids": "1171826169",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "227760493"
+            },
+            "productUrl": "//www.daraz.com.bd/products/portable-defense-safety-expandable-stick-i227760493-s1171826169.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c3e8032c09716cdc80708622114309a0.jpg",
+            "originalPrice": "999.00",
+            "originalPriceShow": "৳ 999",
+            "price": "548",
+            "promotionId": "null",
+            "priceShow": "৳ 548",
+            "discount": "-45%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227760493_BD-1171826169",
+            "sku": "227760493_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508106159",
+            "mainSellerId": "",
+            "sellerName": "Tahmina fashion Gallery",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c3e8032c09716cdc80708622114309a0.jpg",
+                    "productUrl": "/products/portable-defense-safety-expandable-stick-i227760493-s1171826169.html",
+                    "sku": "227760493_BD",
+                    "skuId": "1171826169"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10196
+            ],
+            "clickTrace": "query:;nid:227760493;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:227760493_BD;price:548;client:desktop;supplier_id:700508106159;asc_category_id:10196;item_id:227760493;sku_id:1171826169;shop_id:126592",
+            "addToCartSkus": [
+                {
+                    "sku": "227760493_BD-1171826169",
+                    "skuId": "1171826169",
+                    "count": 0
+                }
+            ],
+            "itemId": "227760493",
+            "skuId": "1171826169",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cotton Boxing Sport Strap Kick Bandage Sanda Karate aekwondo Hand Gloves Wraps",
+            "nid": "142118848",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "142118848",
+                "scene_pre": "search",
+                "current_price": "296",
+                "x_sku_ids": "1150025356",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "142118848"
+            },
+            "productUrl": "//www.daraz.com.bd/products/aekhondo-i142118848-s1150025356.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/97c7e81b59a583031d26cda807434d32.jpg",
+            "originalPrice": "560.00",
+            "originalPriceShow": "৳ 560",
+            "price": "296",
+            "promotionId": "null",
+            "priceShow": "৳ 296",
+            "discount": "-47%",
+            "ratingScore": "4.5",
+            "review": "20",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "142118848_BD-1150025356",
+            "sku": "142118848_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507335101",
+            "mainSellerId": "",
+            "sellerName": "Fantacy Kalaghor",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/97c7e81b59a583031d26cda807434d32.jpg",
+                    "productUrl": "/products/aekhondo-i142118848-s1150025356.html",
+                    "sku": "142118848_BD",
+                    "skuId": "1150025356"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10196
+            ],
+            "clickTrace": "query:;nid:142118848;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:142118848_BD;price:296;client:desktop;supplier_id:700507335101;asc_category_id:10196;item_id:142118848;sku_id:1150025356;shop_id:91157",
+            "addToCartSkus": [
+                {
+                    "sku": "142118848_BD-1150025356",
+                    "skuId": "1150025356",
+                    "count": 0
+                }
+            ],
+            "itemId": "142118848",
+            "skuId": "1150025356",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Industrial Rubber Hand Gloves",
+            "nid": "168974175",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168974175",
+                "scene_pre": "search",
+                "current_price": "130.00",
+                "x_sku_ids": "1103280282",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "168974175"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i168974175-s1103280282.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/117122b23142609f897448bd63c226d3.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "130.00",
+            "promotionId": "null",
+            "priceShow": "৳ 130",
+            "discount": "-68%",
+            "ratingScore": "4.69231",
+            "review": "13",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168974175_BD-1103280282",
+            "sku": "168974175_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1002276",
+            "mainSellerId": "",
+            "sellerName": "KHAN ELECTRIC",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/117122b23142609f897448bd63c226d3.jpg",
+                    "productUrl": "/products/-i168974175-s1103280282.html",
+                    "sku": "168974175_BD",
+                    "skuId": "1103280282"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10187,
+                10188
+            ],
+            "clickTrace": "query:;nid:168974175;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:168974175_BD;price:130.00;client:desktop;supplier_id:1002276;asc_category_id:10188;item_id:168974175;sku_id:1103280282;shop_id:8479",
+            "addToCartSkus": [
+                {
+                    "sku": "168974175_BD-1103280282",
+                    "skuId": "1103280282",
+                    "count": 0
+                }
+            ],
+            "itemId": "168974175",
+            "skuId": "1103280282",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Metal Knuckles Ring Hand Four Finger Alloy Portable Metal Knuckles Ring Hand Four Finger Alloy Portable Dusters",
+            "nid": "237224452",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237224452",
+                "scene_pre": "search",
+                "current_price": "220.00",
+                "x_sku_ids": "1180587116",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "237224452"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i237224452-s1180587116.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bae76414adda0a99b7255afc0d80dc71.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "220.00",
+            "promotionId": "null",
+            "priceShow": "৳ 220",
+            "discount": "-56%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237224452_BD-1180587116",
+            "sku": "237224452_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511943959",
+            "mainSellerId": "",
+            "sellerName": "Shuly Fashion House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bae76414adda0a99b7255afc0d80dc71.jpg",
+                    "productUrl": "/products/-i237224452-s1180587116.html",
+                    "sku": "237224452_BD",
+                    "skuId": "1180587116"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10196
+            ],
+            "clickTrace": "query:;nid:237224452;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:237224452_BD;price:220.00;client:desktop;supplier_id:700511943959;asc_category_id:10196;item_id:237224452;sku_id:1180587116;shop_id:238859",
+            "addToCartSkus": [
+                {
+                    "sku": "237224452_BD-1180587116",
+                    "skuId": "1180587116",
+                    "count": 0
+                }
+            ],
+            "itemId": "237224452",
+            "skuId": "1180587116",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Embossed Polyethylene Gloves - 100 Pcs",
+            "nid": "130352748",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "130352748",
+                "scene_pre": "search",
+                "current_price": "75.00",
+                "x_sku_ids": "1050230301",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "130352748"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100-i130352748-s1050230301.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b303661b18e2e1e2d68feb95de7285e2.jpg",
+            "price": "75.00",
+            "promotionId": "null",
+            "priceShow": "৳ 75",
+            "ratingScore": "4.16667",
+            "review": "6",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "130352748_BD-1050230301",
+            "sku": "130352748_BD",
+            "skus": [],
+            "description": [
+                "Polyethylene gloves are our most economical glove. PE gloves are most often used for light duty tasks that require frequent glove changes. This glove has a loose fit design for easy on and off applications, and is especially useful in food service lines, deli counters, and other high volume applications. Our Clear PE gloves are available in high density, low density, cast poly, and a new stretch Hybrid version that is also available in Blue. All PE gloves sold by The Safety Zone are powder free and non-medical as well."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "3525",
+            "mainSellerId": "",
+            "sellerName": "Chittagong Sell Bazar(CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b303661b18e2e1e2d68feb95de7285e2.jpg",
+                    "productUrl": "/products/100-i130352748-s1050230301.html",
+                    "sku": "130352748_BD",
+                    "skuId": "1050230301"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10187,
+                10188
+            ],
+            "clickTrace": "query:;nid:130352748;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:130352748_BD;price:75.00;client:desktop;supplier_id:3525;asc_category_id:10188;item_id:130352748;sku_id:1050230301;shop_id:1171",
+            "addToCartSkus": [
+                {
+                    "sku": "130352748_BD-1050230301",
+                    "skuId": "1050230301",
+                    "count": 0
+                }
+            ],
+            "itemId": "130352748",
+            "skuId": "1050230301",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "HELL DETECTIVE CONSTANTINE KNUCKLE DUSTERS BRONZE",
+            "nid": "129750639",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "129750639",
+                "scene_pre": "search",
+                "current_price": "353",
+                "x_sku_ids": "1049542312",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "129750639"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i129750639-s1049542312.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/565907030125ff00433e13ae3f8c5f5a.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "353",
+            "promotionId": "null",
+            "priceShow": "৳ 353",
+            "discount": "-46%",
+            "ratingScore": "4.41026",
+            "review": "39",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "129750639_BD-1049542312",
+            "sku": "129750639_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "197258",
+            "brandName": "GIFT BAZAAR BD",
+            "sellerId": "1012350",
+            "mainSellerId": "",
+            "sellerName": "GIFT BAZAAR BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/565907030125ff00433e13ae3f8c5f5a.jpg",
+                    "productUrl": "/products/-i129750639-s1049542312.html",
+                    "sku": "129750639_BD",
+                    "skuId": "1049542312"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10194
+            ],
+            "clickTrace": "query:;nid:129750639;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:129750639_BD;price:353;client:desktop;supplier_id:1012350;asc_category_id:10194;item_id:129750639;sku_id:1049542312;shop_id:18570",
+            "addToCartSkus": [
+                {
+                    "sku": "129750639_BD-1049542312",
+                    "skuId": "1049542312",
+                    "count": 0
+                }
+            ],
+            "itemId": "129750639",
+            "skuId": "1049542312",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nylon Hand Gloves For Industrial Work",
+            "nid": "137012145",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "137012145",
+                "scene_pre": "search",
+                "current_price": "75.00",
+                "x_sku_ids": "1059314569",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "137012145"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i137012145-s1059314569.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/b6c834e07918089d8b6e1465a8e5968d.jpg",
+            "price": "75.00",
+            "promotionId": "null",
+            "priceShow": "৳ 75",
+            "ratingScore": "4.92857",
+            "review": "28",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "137012145_BD-1059314569",
+            "sku": "137012145_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507233007",
+            "mainSellerId": "",
+            "sellerName": "Quality Circle(CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/b6c834e07918089d8b6e1465a8e5968d.jpg",
+                    "productUrl": "/products/-i137012145-s1059314569.html",
+                    "sku": "137012145_BD",
+                    "skuId": "1059314569"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10187,
+                10188
+            ],
+            "clickTrace": "query:;nid:137012145;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:137012145_BD;price:75.00;client:desktop;supplier_id:700507233007;asc_category_id:10188;item_id:137012145;sku_id:1059314569;shop_id:90699",
+            "addToCartSkus": [
+                {
+                    "sku": "137012145_BD-1059314569",
+                    "skuId": "1059314569",
+                    "count": 0
+                }
+            ],
+            "itemId": "137012145",
+            "skuId": "1059314569",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Disposable Powder Free Polyethylene Gloves 100pcs",
+            "nid": "132356128",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132356128",
+                "scene_pre": "search",
+                "current_price": "55.00",
+                "x_sku_ids": "1053298425",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "132356128"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100-i132356128-s1053298425.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/86fc33a063fc660fe0da47c5473d47e5.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "55.00",
+            "promotionId": "null",
+            "priceShow": "৳ 55",
+            "discount": "-73%",
+            "ratingScore": "4.34211",
+            "review": "38",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132356128_BD-1053298425",
+            "sku": "132356128_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "3203",
+            "mainSellerId": "",
+            "sellerName": "XIROS Collection",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/86fc33a063fc660fe0da47c5473d47e5.jpg",
+                    "productUrl": "/products/100-i132356128-s1053298425.html",
+                    "sku": "132356128_BD",
+                    "skuId": "1053298425"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10187,
+                10188
+            ],
+            "clickTrace": "query:;nid:132356128;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:132356128_BD;price:55.00;client:desktop;supplier_id:3203;asc_category_id:10188;item_id:132356128;sku_id:1053298425;shop_id:3493",
+            "addToCartSkus": [
+                {
+                    "sku": "132356128_BD-1053298425",
+                    "skuId": "1053298425",
+                    "count": 0
+                }
+            ],
+            "itemId": "132356128",
+            "skuId": "1053298425",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Multipurpose Magic Silicone Hand Gloves With Box",
+            "nid": "115242888",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "115242888",
+                "scene_pre": "search",
+                "current_price": "210.00",
+                "x_sku_ids": "1033518016",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "115242888"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i115242888-s1033518016.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a6d4cd4788db479a2816bdc3e0ae1fd4.jpg",
+            "originalPrice": "290.00",
+            "originalPriceShow": "৳ 290",
+            "price": "210.00",
+            "promotionId": "null",
+            "priceShow": "৳ 210",
+            "discount": "-28%",
+            "ratingScore": "4.58333",
+            "review": "24",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "115242888_BD-1033518016",
+            "sku": "115242888_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1023046",
+            "mainSellerId": "",
+            "sellerName": "Ahmed Gadget",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a6d4cd4788db479a2816bdc3e0ae1fd4.jpg",
+                    "productUrl": "/products/-i115242888-s1033518016.html",
+                    "sku": "115242888_BD",
+                    "skuId": "1033518016"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10187,
+                10188
+            ],
+            "clickTrace": "query:;nid:115242888;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:115242888_BD;price:210.00;client:desktop;supplier_id:1023046;asc_category_id:10188;item_id:115242888;sku_id:1033518016;shop_id:29246",
+            "addToCartSkus": [
+                {
+                    "sku": "115242888_BD-1033518016",
+                    "skuId": "1033518016",
+                    "count": 0
+                }
+            ],
+            "itemId": "115242888",
+            "skuId": "1033518016",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Metal Knuckles Ring Hand Four Finger Alloy Portable Self",
+            "nid": "237665954",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237665954",
+                "scene_pre": "search",
+                "current_price": "210.00",
+                "x_sku_ids": "1181021065",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "237665954"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i237665954-s1181021065.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ef25d814130ea218eb188a56f74b2b62.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "210.00",
+            "promotionId": "null",
+            "priceShow": "৳ 210",
+            "discount": "-62%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237665954_BD-1181021065",
+            "sku": "237665954_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509894075",
+            "mainSellerId": "",
+            "sellerName": "Trustful Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ef25d814130ea218eb188a56f74b2b62.jpg",
+                    "productUrl": "/products/-i237665954-s1181021065.html",
+                    "sku": "237665954_BD",
+                    "skuId": "1181021065"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10196
+            ],
+            "clickTrace": "query:;nid:237665954;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:237665954_BD;price:210.00;client:desktop;supplier_id:700509894075;asc_category_id:10196;item_id:237665954;sku_id:1181021065;shop_id:219446",
+            "addToCartSkus": [
+                {
+                    "sku": "237665954_BD-1181021065",
+                    "skuId": "1181021065",
+                    "count": 0
+                }
+            ],
+            "itemId": "237665954",
+            "skuId": "1181021065",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cotton Boxing Sport Strap Kick Bandage Sanda Karate aekwondo Hand Gloves Wraps",
+            "nid": "184883984",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184883984",
+                "scene_pre": "search",
+                "current_price": "300",
+                "x_sku_ids": "1130150887",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "184883984"
+            },
+            "productUrl": "//www.daraz.com.bd/products/aekhondo-i184883984-s1130150887.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5950e15178a6f1a4d0d1fa286d18774c.jpg",
+            "originalPrice": "560.00",
+            "originalPriceShow": "৳ 560",
+            "price": "300",
+            "promotionId": "null",
+            "priceShow": "৳ 300",
+            "discount": "-46%",
+            "ratingScore": "4.66667",
+            "review": "6",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184883984_BD-1130150887",
+            "sku": "184883984_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508373954",
+            "mainSellerId": "",
+            "sellerName": "Fantacy Bazar Sodai",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5950e15178a6f1a4d0d1fa286d18774c.jpg",
+                    "productUrl": "/products/aekhondo-i184883984-s1130150887.html",
+                    "sku": "184883984_BD",
+                    "skuId": "1130150887"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5213341ba5c11f0ed5a5edfb4f523282.jpg",
+                    "productUrl": "/products/aekhondo-i184883984-s1130150886.html",
+                    "sku": "184883984_BD",
+                    "skuId": "1130150886"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5132b783adaa0ba02434389523596970.jpg",
+                    "productUrl": "/products/aekhondo-i184883984-s1130150888.html",
+                    "sku": "184883984_BD",
+                    "skuId": "1130150888"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10196
+            ],
+            "clickTrace": "query:;nid:184883984;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:184883984_BD;price:300;client:desktop;supplier_id:700508373954;asc_category_id:10196;item_id:184883984;sku_id:1130150887;shop_id:155907",
+            "addToCartSkus": [
+                {
+                    "sku": "184883984_BD-1130150887",
+                    "skuId": "1130150887",
+                    "count": 0
+                }
+            ],
+            "itemId": "184883984",
+            "skuId": "1130150887",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Metal Knuckles Ring Hand Four Finger Alloy Portable Self",
+            "nid": "237674307",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237674307",
+                "scene_pre": "search",
+                "current_price": "220.00",
+                "x_sku_ids": "1181002983",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "237674307"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i237674307-s1181002983.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/faffba6a14284c7433c067b9fedcc6c6.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "220.00",
+            "promotionId": "null",
+            "priceShow": "৳ 220",
+            "discount": "-60%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237674307_BD-1181002983",
+            "sku": "237674307_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510815856",
+            "mainSellerId": "",
+            "sellerName": "Relax Mood",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/faffba6a14284c7433c067b9fedcc6c6.jpg",
+                    "productUrl": "/products/-i237674307-s1181002983.html",
+                    "sku": "237674307_BD",
+                    "skuId": "1181002983"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10196
+            ],
+            "clickTrace": "query:;nid:237674307;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:237674307_BD;price:220.00;client:desktop;supplier_id:700510815856;asc_category_id:10196;item_id:237674307;sku_id:1181002983;shop_id:234356",
+            "addToCartSkus": [
+                {
+                    "sku": "237674307_BD-1181002983",
+                    "skuId": "1181002983",
+                    "count": 0
+                }
+            ],
+            "itemId": "237674307",
+            "skuId": "1181002983",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "TS Nunchaku Stainless Steel",
+            "nid": "228620893",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "228620893",
+                "scene_pre": "search",
+                "current_price": "450.00",
+                "x_sku_ids": "1172429683",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "228620893"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ts-nunchaku-i228620893-s1172429683.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/231dd8bcebd23c411a6ed87098e1115e.png",
+            "originalPrice": "1299.00",
+            "originalPriceShow": "৳ 1,299",
+            "price": "450.00",
+            "promotionId": "null",
+            "priceShow": "৳ 450",
+            "discount": "-65%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "228620893_BD-1172429683",
+            "sku": "228620893_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506393409",
+            "mainSellerId": "",
+            "sellerName": "TS Sports & Music",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/231dd8bcebd23c411a6ed87098e1115e.png",
+                    "productUrl": "/products/ts-nunchaku-i228620893-s1172429683.html",
+                    "sku": "228620893_BD",
+                    "skuId": "1172429683"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10196
+            ],
+            "clickTrace": "query:;nid:228620893;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:228620893_BD;price:450.00;client:desktop;supplier_id:700506393409;asc_category_id:10196;item_id:228620893;sku_id:1172429683;shop_id:78870",
+            "addToCartSkus": [
+                {
+                    "sku": "228620893_BD-1172429683",
+                    "skuId": "1172429683",
+                    "count": 0
+                }
+            ],
+            "itemId": "228620893",
+            "skuId": "1172429683",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "NEW Hand Gloves For Industrial Work (One Pair)",
+            "nid": "168842999",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168842999",
+                "scene_pre": "search",
+                "current_price": "51.00",
+                "x_sku_ids": "1103070697",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "168842999"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i168842999-s1103070697.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/aa7d5e528f54b9c04840f806d86526db.jpg",
+            "originalPrice": "122.00",
+            "originalPriceShow": "৳ 122",
+            "price": "51.00",
+            "promotionId": "null",
+            "priceShow": "৳ 51",
+            "discount": "-58%",
+            "ratingScore": "3.71429",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168842999_BD-1103070697",
+            "sku": "168842999_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507680137",
+            "mainSellerId": "",
+            "sellerName": "Green Button",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/aa7d5e528f54b9c04840f806d86526db.jpg",
+                    "productUrl": "/products/-i168842999-s1103070697.html",
+                    "sku": "168842999_BD",
+                    "skuId": "1103070697"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10187,
+                10188
+            ],
+            "clickTrace": "query:;nid:168842999;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:168842999_BD;price:51.00;client:desktop;supplier_id:700507680137;asc_category_id:10188;item_id:168842999;sku_id:1103070697;shop_id:103948",
+            "addToCartSkus": [
+                {
+                    "sku": "168842999_BD-1103070697",
+                    "skuId": "1103070697",
+                    "count": 0
+                }
+            ],
+            "itemId": "168842999",
+            "skuId": "1103070697",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Safety Foam Nunchaku,Sponge Double Truncheon with Stainless Steel Chain for Training",
+            "nid": "145244430",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "145244430",
+                "scene_pre": "search",
+                "current_price": "284",
+                "x_sku_ids": "1070458533",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "145244430"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i145244430-s1070458533.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/57a3c05c958ca5ebc9c9d95c9180b9ba.jpg",
+            "originalPrice": "450.00",
+            "originalPriceShow": "৳ 450",
+            "price": "284",
+            "promotionId": "null",
+            "priceShow": "৳ 284",
+            "discount": "-37%",
+            "ratingScore": "3.8",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "145244430_BD-1070458533",
+            "sku": "145244430_BD",
+            "skus": [],
+            "description": [
+                "Item type: Nunchakus",
+                "Applicable: Fitness body, exercise",
+                "For people: Adult, children",
+                "Length: 28CM or 25CM",
+                "Color: Red",
+                "Material: Sponge \\ stainless steel",
+                "Weight: 90 grams",
+                "Diameter: 22MM",
+                "Made from high quality durable stainless-steel and foam, strong toughness and durable.",
+                "The outer foam is elastic to provides great safety than wood or metal materials.",
+                "Great training equipment. It can improve the body's flexibility, coordination and agility.",
+                "With flexible rotation shaft, makes the chain very easy to swing and maneuver.",
+                "Lightweight and portable, this body building foam nunchaku is good for travel or home using."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507503237",
+            "mainSellerId": "",
+            "sellerName": "John Music",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/57a3c05c958ca5ebc9c9d95c9180b9ba.jpg",
+                    "productUrl": "/products/-i145244430-s1070458533.html",
+                    "sku": "145244430_BD",
+                    "skuId": "1070458533"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10196
+            ],
+            "clickTrace": "query:;nid:145244430;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:145244430_BD;price:284;client:desktop;supplier_id:700507503237;asc_category_id:10196;item_id:145244430;sku_id:1070458533;shop_id:97339",
+            "addToCartSkus": [
+                {
+                    "sku": "145244430_BD-1070458533",
+                    "skuId": "1070458533",
+                    "count": 0
+                }
+            ],
+            "itemId": "145244430",
+            "skuId": "1070458533",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Metal Knuckles Ring Hand Four Finger Alloy Portable Self",
+            "nid": "237671631",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237671631",
+                "scene_pre": "search",
+                "current_price": "210.00",
+                "x_sku_ids": "1181006791",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "237671631"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i237671631-s1181006791.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a16380562ca1ca45f8755d722dd853ff.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "210.00",
+            "promotionId": "null",
+            "priceShow": "৳ 210",
+            "discount": "-62%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237671631_BD-1181006791",
+            "sku": "237671631_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509894075",
+            "mainSellerId": "",
+            "sellerName": "Trustful Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a16380562ca1ca45f8755d722dd853ff.jpg",
+                    "productUrl": "/products/-i237671631-s1181006791.html",
+                    "sku": "237671631_BD",
+                    "skuId": "1181006791"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10196
+            ],
+            "clickTrace": "query:;nid:237671631;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:237671631_BD;price:210.00;client:desktop;supplier_id:700509894075;asc_category_id:10196;item_id:237671631;sku_id:1181006791;shop_id:219446",
+            "addToCartSkus": [
+                {
+                    "sku": "237671631_BD-1181006791",
+                    "skuId": "1181006791",
+                    "count": 0
+                }
+            ],
+            "itemId": "237671631",
+            "skuId": "1181006791",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Metal Knuckles Ring Hand Four Finger Alloy Portable Self",
+            "nid": "237669522",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237669522",
+                "scene_pre": "search",
+                "current_price": "220.00",
+                "x_sku_ids": "1181004877",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "237669522"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i237669522-s1181004877.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ef25d814130ea218eb188a56f74b2b62.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "220.00",
+            "promotionId": "null",
+            "priceShow": "৳ 220",
+            "discount": "-60%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237669522_BD-1181004877",
+            "sku": "237669522_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700512234885",
+            "mainSellerId": "",
+            "sellerName": "Sikder Store BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ef25d814130ea218eb188a56f74b2b62.jpg",
+                    "productUrl": "/products/-i237669522-s1181004877.html",
+                    "sku": "237669522_BD",
+                    "skuId": "1181004877"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10196
+            ],
+            "clickTrace": "query:;nid:237669522;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:237669522_BD;price:220.00;client:desktop;supplier_id:700512234885;asc_category_id:10196;item_id:237669522;sku_id:1181004877;shop_id:240010",
+            "addToCartSkus": [
+                {
+                    "sku": "237669522_BD-1181004877",
+                    "skuId": "1181004877",
+                    "count": 0
+                }
+            ],
+            "itemId": "237669522",
+            "skuId": "1181004877",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "NEW Hand Gloves For Industrial Work (One Pair)",
+            "nid": "135212373",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "135212373",
+                "scene_pre": "search",
+                "current_price": "88.00",
+                "x_sku_ids": "1057170942",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "135212373"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i135212373-s1057170942.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/62babf0898d33c202ea5da4c0fe05e01.jpg",
+            "originalPrice": "299.00",
+            "originalPriceShow": "৳ 299",
+            "price": "88.00",
+            "promotionId": "null",
+            "priceShow": "৳ 88",
+            "discount": "-71%",
+            "ratingScore": "4.48544",
+            "review": "103",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "135212373_BD-1057170942",
+            "sku": "135212373_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505061048",
+            "mainSellerId": "",
+            "sellerName": "Sopner Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/62babf0898d33c202ea5da4c0fe05e01.jpg",
+                    "productUrl": "/products/-i135212373-s1057170942.html",
+                    "sku": "135212373_BD",
+                    "skuId": "1057170942"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10187,
+                10188
+            ],
+            "clickTrace": "query:;nid:135212373;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:135212373_BD;price:88.00;client:desktop;supplier_id:700505061048;asc_category_id:10188;item_id:135212373;sku_id:1057170942;shop_id:54113",
+            "addToCartSkus": [
+                {
+                    "sku": "135212373_BD-1057170942",
+                    "skuId": "1057170942",
+                    "count": 0
+                }
+            ],
+            "itemId": "135212373",
+            "skuId": "1057170942",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nunchaku Steeliness Steel",
+            "nid": "222993909",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "222993909",
+                "scene_pre": "search",
+                "current_price": "418",
+                "x_sku_ids": "1169213949",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "222993909"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nunchaku-i222993909-s1169213949.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e16e9690401582b7c20a10d8dbc7ba04.jpg",
+            "originalPrice": "599.00",
+            "originalPriceShow": "৳ 599",
+            "price": "418",
+            "promotionId": "null",
+            "priceShow": "৳ 418",
+            "discount": "-30%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "222993909_BD-1169213949",
+            "sku": "222993909_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508475222",
+            "mainSellerId": "",
+            "sellerName": "All Rounder",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e16e9690401582b7c20a10d8dbc7ba04.jpg",
+                    "productUrl": "/products/nunchaku-i222993909-s1169213949.html",
+                    "sku": "222993909_BD",
+                    "skuId": "1169213949"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10196
+            ],
+            "clickTrace": "query:;nid:222993909;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:222993909_BD;price:418;client:desktop;supplier_id:700508475222;asc_category_id:10196;item_id:222993909;sku_id:1169213949;shop_id:162433",
+            "addToCartSkus": [
+                {
+                    "sku": "222993909_BD-1169213949",
+                    "skuId": "1169213949",
+                    "count": 0
+                }
+            ],
+            "itemId": "222993909",
+            "skuId": "1169213949",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Metal Knuckles Ring Hand Four Finger Alloy Portable Self",
+            "nid": "237681027",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237681027",
+                "scene_pre": "search",
+                "current_price": "210.00",
+                "x_sku_ids": "1181017252",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "237681027"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i237681027-s1181017252.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1a3d4d668c12c8d35c1248bd3442528e.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "210.00",
+            "promotionId": "null",
+            "priceShow": "৳ 210",
+            "discount": "-62%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237681027_BD-1181017252",
+            "sku": "237681027_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509894075",
+            "mainSellerId": "",
+            "sellerName": "Trustful Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1a3d4d668c12c8d35c1248bd3442528e.jpg",
+                    "productUrl": "/products/-i237681027-s1181017252.html",
+                    "sku": "237681027_BD",
+                    "skuId": "1181017252"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10196
+            ],
+            "clickTrace": "query:;nid:237681027;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:237681027_BD;price:210.00;client:desktop;supplier_id:700509894075;asc_category_id:10196;item_id:237681027;sku_id:1181017252;shop_id:219446",
+            "addToCartSkus": [
+                {
+                    "sku": "237681027_BD-1181017252",
+                    "skuId": "1181017252",
+                    "count": 0
+                }
+            ],
+            "itemId": "237681027",
+            "skuId": "1181017252",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Metal Knuckles Ring Hand Four Finger Alloy Portable Self",
+            "nid": "237671692",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237671692",
+                "scene_pre": "search",
+                "current_price": "210.00",
+                "x_sku_ids": "1181015422",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "237671692"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i237671692-s1181015422.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/faffba6a14284c7433c067b9fedcc6c6.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "210.00",
+            "promotionId": "null",
+            "priceShow": "৳ 210",
+            "discount": "-62%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237671692_BD-1181015422",
+            "sku": "237671692_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509894075",
+            "mainSellerId": "",
+            "sellerName": "Trustful Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/faffba6a14284c7433c067b9fedcc6c6.jpg",
+                    "productUrl": "/products/-i237671692-s1181015422.html",
+                    "sku": "237671692_BD",
+                    "skuId": "1181015422"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10196
+            ],
+            "clickTrace": "query:;nid:237671692;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:237671692_BD;price:210.00;client:desktop;supplier_id:700509894075;asc_category_id:10196;item_id:237671692;sku_id:1181015422;shop_id:219446",
+            "addToCartSkus": [
+                {
+                    "sku": "237671692_BD-1181015422",
+                    "skuId": "1181015422",
+                    "count": 0
+                }
+            ],
+            "itemId": "237671692",
+            "skuId": "1181015422",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Teeth Guard - Single - White",
+            "nid": "209266461",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209266461",
+                "scene_pre": "search",
+                "current_price": "210.00",
+                "x_sku_ids": "1159518251",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "209266461"
+            },
+            "productUrl": "//www.daraz.com.bd/products/teeth-guard-single-white-i209266461-s1159518251.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/308054aa39c2e160fef109dc32d7b94c.jpg",
+            "originalPrice": "273.00",
+            "originalPriceShow": "৳ 273",
+            "price": "210.00",
+            "promotionId": "null",
+            "priceShow": "৳ 210",
+            "discount": "-23%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209266461_BD-1159518251",
+            "sku": "209266461_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505787048",
+            "mainSellerId": "",
+            "sellerName": "Regal Sports",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/308054aa39c2e160fef109dc32d7b94c.jpg",
+                    "productUrl": "/products/teeth-guard-single-white-i209266461-s1159518251.html",
+                    "sku": "209266461_BD",
+                    "skuId": "1159518251"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10194
+            ],
+            "clickTrace": "query:;nid:209266461;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:209266461_BD;price:210.00;client:desktop;supplier_id:700505787048;asc_category_id:10194;item_id:209266461;sku_id:1159518251;shop_id:62903",
+            "addToCartSkus": [
+                {
+                    "sku": "209266461_BD-1159518251",
+                    "skuId": "1159518251",
+                    "count": 0
+                }
+            ],
+            "itemId": "209266461",
+            "skuId": "1159518251",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "TAEKWONDO KICK PAD",
+            "nid": "125698643",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "125698643",
+                "scene_pre": "search",
+                "current_price": "800.00",
+                "x_sku_ids": "1045838405",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "125698643"
+            },
+            "productUrl": "//www.daraz.com.bd/products/taekwondo-kick-pad-i125698643-s1045838405.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d475a30b7d71b7b977e9e41bd0fde8e0.png",
+            "price": "800.00",
+            "promotionId": "null",
+            "priceShow": "৳ 800",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "125698643_BD-1045838405",
+            "sku": "125698643_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1043955",
+            "mainSellerId": "",
+            "sellerName": "LILY SPORTS",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d475a30b7d71b7b977e9e41bd0fde8e0.png",
+                    "productUrl": "/products/taekwondo-kick-pad-i125698643-s1045838405.html",
+                    "sku": "125698643_BD",
+                    "skuId": "1045838405"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fcf24a945861a273054c0e0bf90152c0.png",
+                    "productUrl": "/products/taekwondo-kick-pad-i125698643-s1045838406.html",
+                    "sku": "125698643_BD",
+                    "skuId": "1045838406"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9bbe3d84276553352dcfd81b14eae019.png",
+                    "productUrl": "/products/taekwondo-kick-pad-i125698643-s1045838407.html",
+                    "sku": "125698643_BD",
+                    "skuId": "1045838407"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10187,
+                10188
+            ],
+            "clickTrace": "query:;nid:125698643;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:125698643_BD;price:800.00;client:desktop;supplier_id:1043955;asc_category_id:10188;item_id:125698643;sku_id:1045838405;shop_id:49598",
+            "addToCartSkus": [
+                {
+                    "sku": "125698643_BD-1045838405",
+                    "skuId": "1045838405",
+                    "count": 0
+                }
+            ],
+            "itemId": "125698643",
+            "skuId": "1045838405",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Metal Knuckles Ring Hand Four Finger Alloy Portable Self",
+            "nid": "237665936",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237665936",
+                "scene_pre": "search",
+                "current_price": "210.00",
+                "x_sku_ids": "1181006793",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "237665936"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i237665936-s1181006793.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b8ee9d72fe24bf07dbac148fe508ef3b.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "210.00",
+            "promotionId": "null",
+            "priceShow": "৳ 210",
+            "discount": "-62%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237665936_BD-1181006793",
+            "sku": "237665936_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509894075",
+            "mainSellerId": "",
+            "sellerName": "Trustful Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b8ee9d72fe24bf07dbac148fe508ef3b.jpg",
+                    "productUrl": "/products/-i237665936-s1181006793.html",
+                    "sku": "237665936_BD",
+                    "skuId": "1181006793"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10196
+            ],
+            "clickTrace": "query:;nid:237665936;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:237665936_BD;price:210.00;client:desktop;supplier_id:700509894075;asc_category_id:10196;item_id:237665936;sku_id:1181006793;shop_id:219446",
+            "addToCartSkus": [
+                {
+                    "sku": "237665936_BD-1181006793",
+                    "skuId": "1181006793",
+                    "count": 0
+                }
+            ],
+            "itemId": "237665936",
+            "skuId": "1181006793",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Hand kitchen gloves",
+            "nid": "153188345",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "153188345",
+                "scene_pre": "search",
+                "current_price": "127",
+                "x_sku_ids": "1081548031",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "153188345"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i153188345-s1081548031.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/97fec32f960aea13c56b3148fe01b0ed.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "127",
+            "promotionId": "null",
+            "priceShow": "৳ 127",
+            "discount": "-49%",
+            "ratingScore": "4.45455",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "153188345_BD-1081548031",
+            "sku": "153188345_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505034181",
+            "mainSellerId": "",
+            "sellerName": "hoichoi",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/97fec32f960aea13c56b3148fe01b0ed.jpg",
+                    "productUrl": "/products/-i153188345-s1081548031.html",
+                    "sku": "153188345_BD",
+                    "skuId": "1081548031"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10187,
+                10188
+            ],
+            "clickTrace": "query:;nid:153188345;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:153188345_BD;price:127;client:desktop;supplier_id:700505034181;asc_category_id:10188;item_id:153188345;sku_id:1081548031;shop_id:56114",
+            "addToCartSkus": [
+                {
+                    "sku": "153188345_BD-1081548031",
+                    "skuId": "1081548031",
+                    "count": 0
+                }
+            ],
+            "itemId": "153188345",
+            "skuId": "1081548031",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Hand Grip (2 PCS) Home or Gym Exerciser/Massager/Gripper Sports Fitness Equipment Arm Wrist Muscle Developer for men & Women",
+            "nid": "185376128",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "185376128",
+                "scene_pre": "search",
+                "current_price": "170.00",
+                "x_sku_ids": "1130929956",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "185376128"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-i185376128-s1130929956.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3acc0caa44b89c02533880a14460f495.jpg",
+            "originalPrice": "290.00",
+            "originalPriceShow": "৳ 290",
+            "price": "170.00",
+            "promotionId": "null",
+            "priceShow": "৳ 170",
+            "discount": "-41%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "185376128_BD-1130929956",
+            "sku": "185376128_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508331136",
+            "mainSellerId": "",
+            "sellerName": "Total Virtual",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3acc0caa44b89c02533880a14460f495.jpg",
+                    "productUrl": "/products/2-i185376128-s1130929956.html",
+                    "sku": "185376128_BD",
+                    "skuId": "1130929956"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10196
+            ],
+            "clickTrace": "query:;nid:185376128;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:185376128_BD;price:170.00;client:desktop;supplier_id:700508331136;asc_category_id:10196;item_id:185376128;sku_id:1130929956;shop_id:147754",
+            "addToCartSkus": [
+                {
+                    "sku": "185376128_BD-1130929956",
+                    "skuId": "1130929956",
+                    "count": 0
+                }
+            ],
+            "itemId": "185376128",
+            "skuId": "1130929956",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Embossed Polyethylene Gloves - 100 Pcs",
+            "nid": "173710821",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "173710821",
+                "scene_pre": "search",
+                "current_price": "70.00",
+                "x_sku_ids": "1110358147",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "173710821"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100-i173710821-s1110358147.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b303661b18e2e1e2d68feb95de7285e2.jpg",
+            "price": "70.00",
+            "promotionId": "null",
+            "priceShow": "৳ 70",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "173710821_BD-1110358147",
+            "sku": "173710821_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1015608",
+            "mainSellerId": "",
+            "sellerName": "FoortiShop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b303661b18e2e1e2d68feb95de7285e2.jpg",
+                    "productUrl": "/products/100-i173710821-s1110358147.html",
+                    "sku": "173710821_BD",
+                    "skuId": "1110358147"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10187,
+                10188
+            ],
+            "clickTrace": "query:;nid:173710821;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:173710821_BD;price:70.00;client:desktop;supplier_id:1015608;asc_category_id:10188;item_id:173710821;sku_id:1110358147;shop_id:21676",
+            "addToCartSkus": [
+                {
+                    "sku": "173710821_BD-1110358147",
+                    "skuId": "1110358147",
+                    "count": 0
+                }
+            ],
+            "itemId": "173710821",
+            "skuId": "1110358147",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Martial Arts Training Steel Karate Nunchaku Steel Gymnastic Stick",
+            "nid": "236237443",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "236237443",
+                "scene_pre": "search",
+                "current_price": "440.00",
+                "x_sku_ids": "1179550254",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "236237443"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i236237443-s1179550254.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d52063e2f49ebec1835cf625f9336531.jpg",
+            "originalPrice": "800.00",
+            "originalPriceShow": "৳ 800",
+            "price": "440.00",
+            "promotionId": "null",
+            "priceShow": "৳ 440",
+            "discount": "-45%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "236237443_BD-1179550254",
+            "sku": "236237443_BD",
+            "skus": [],
+            "description": [
+                "Made in a strong",
+                "Very durable quality",
+                "Can be used as a Stick, It is foldable",
+                "Material: Steel",
+                "Ideal for professional sports man"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511910986",
+            "mainSellerId": "",
+            "sellerName": "Sports & Fitness Showroom (MYM)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d52063e2f49ebec1835cf625f9336531.jpg",
+                    "productUrl": "/products/-i236237443-s1179550254.html",
+                    "sku": "236237443_BD",
+                    "skuId": "1179550254"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10196
+            ],
+            "clickTrace": "query:;nid:236237443;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:236237443_BD;price:440.00;client:desktop;supplier_id:700511910986;asc_category_id:10196;item_id:236237443;sku_id:1179550254;shop_id:238757",
+            "addToCartSkus": [
+                {
+                    "sku": "236237443_BD-1179550254",
+                    "skuId": "1179550254",
+                    "count": 0
+                }
+            ],
+            "itemId": "236237443",
+            "skuId": "1179550254",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Probiker Full Finger Gloves for Bikers",
+            "nid": "124807248",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "124807248",
+                "scene_pre": "search",
+                "current_price": "378.00",
+                "x_sku_ids": "1045024864",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "124807248"
+            },
+            "productUrl": "//www.daraz.com.bd/products/probiker-i124807248-s1045024864.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a154403c4a4341615c773012c87acaf3.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "378.00",
+            "promotionId": "null",
+            "priceShow": "৳ 378",
+            "discount": "-42%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "124807248_BD-1045024864",
+            "sku": "124807248_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1019240",
+            "mainSellerId": "",
+            "sellerName": "Al Madina Enterprise",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a154403c4a4341615c773012c87acaf3.jpg",
+                    "productUrl": "/products/probiker-i124807248-s1045024864.html",
+                    "sku": "124807248_BD",
+                    "skuId": "1045024864"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a154403c4a4341615c773012c87acaf3.jpg",
+                    "productUrl": "/products/probiker-i124807248-s1045024863.html",
+                    "sku": "124807248_BD",
+                    "skuId": "1045024863"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a154403c4a4341615c773012c87acaf3.jpg",
+                    "productUrl": "/products/probiker-i124807248-s1045024865.html",
+                    "sku": "124807248_BD",
+                    "skuId": "1045024865"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10187,
+                10188
+            ],
+            "clickTrace": "query:;nid:124807248;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:124807248_BD;price:378.00;client:desktop;supplier_id:1019240;asc_category_id:10188;item_id:124807248;sku_id:1045024864;shop_id:25371",
+            "addToCartSkus": [
+                {
+                    "sku": "124807248_BD-1045024864",
+                    "skuId": "1045024864",
+                    "count": 0
+                }
+            ],
+            "itemId": "124807248",
+            "skuId": "1045024864",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "High Quality Silicone Dish Washing Kitchen Hand Gloves",
+            "nid": "184394931",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184394931",
+                "scene_pre": "search",
+                "current_price": "399.00",
+                "x_sku_ids": "1129303902",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "184394931"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i184394931-s1129303902.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c4a4501f3c91ea30970c89e3819b1d33.jpg",
+            "originalPrice": "1000.00",
+            "originalPriceShow": "৳ 1,000",
+            "price": "399.00",
+            "promotionId": "null",
+            "priceShow": "৳ 399",
+            "discount": "-60%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184394931_BD-1129303902",
+            "sku": "184394931_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508220245",
+            "mainSellerId": "",
+            "sellerName": "Habib Super Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c4a4501f3c91ea30970c89e3819b1d33.jpg",
+                    "productUrl": "/products/-i184394931-s1129303902.html",
+                    "sku": "184394931_BD",
+                    "skuId": "1129303902"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10187,
+                10188
+            ],
+            "clickTrace": "query:;nid:184394931;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:184394931_BD;price:399.00;client:desktop;supplier_id:700508220245;asc_category_id:10188;item_id:184394931;sku_id:1129303902;shop_id:135842",
+            "addToCartSkus": [
+                {
+                    "sku": "184394931_BD-1129303902",
+                    "skuId": "1129303902",
+                    "count": 0
+                }
+            ],
+            "itemId": "184394931",
+            "skuId": "1129303902",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Nunchaku Steeliness Steel On Khala Ghore",
+            "nid": "228852517",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "228852517",
+                "scene_pre": "search",
+                "current_price": "440.00",
+                "x_sku_ids": "1172609299",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "228852517"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i228852517-s1172609299.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e16e9690401582b7c20a10d8dbc7ba04.jpg",
+            "originalPrice": "799.00",
+            "originalPriceShow": "৳ 799",
+            "price": "440.00",
+            "promotionId": "null",
+            "priceShow": "৳ 440",
+            "discount": "-45%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "228852517_BD-1172609299",
+            "sku": "228852517_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508898017",
+            "mainSellerId": "",
+            "sellerName": "Khala Ghore",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e16e9690401582b7c20a10d8dbc7ba04.jpg",
+                    "productUrl": "/products/-i228852517-s1172609299.html",
+                    "sku": "228852517_BD",
+                    "skuId": "1172609299"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10196
+            ],
+            "clickTrace": "query:;nid:228852517;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:228852517_BD;price:440.00;client:desktop;supplier_id:700508898017;asc_category_id:10196;item_id:228852517;sku_id:1172609299;shop_id:200693",
+            "addToCartSkus": [
+                {
+                    "sku": "228852517_BD-1172609299",
+                    "skuId": "1172609299",
+                    "count": 0
+                }
+            ],
+            "itemId": "228852517",
+            "skuId": "1172609299",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Multi-Purpose Karate Boxing Mitt Training Focus Punch Pads Gloves Pop - Leather",
+            "nid": "211347592",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "211347592",
+                "scene_pre": "search",
+                "current_price": "3500.00",
+                "x_sku_ids": "1161124837",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "211347592"
+            },
+            "productUrl": "//www.daraz.com.bd/products/multi-purpose-karate-boxing-mitt-training-focus-punch-pads-gloves-pop-leather-i211347592-s1161124837.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5358c20331ba9b9f326cd0548e5d77f4.jpg",
+            "originalPrice": "5000.00",
+            "originalPriceShow": "৳ 5,000",
+            "price": "3500.00",
+            "promotionId": "null",
+            "priceShow": "৳ 3,500",
+            "discount": "-30%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "211347592_BD-1161124837",
+            "sku": "211347592_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507734065",
+            "mainSellerId": "",
+            "sellerName": "Tahsin Trading",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5358c20331ba9b9f326cd0548e5d77f4.jpg",
+                    "productUrl": "/products/multi-purpose-karate-boxing-mitt-training-focus-punch-pads-gloves-pop-leather-i211347592-s1161124837.html",
+                    "sku": "211347592_BD",
+                    "skuId": "1161124837"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10192
+            ],
+            "clickTrace": "query:;nid:211347592;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:211347592_BD;price:3500.00;client:desktop;supplier_id:700507734065;asc_category_id:10192;item_id:211347592;sku_id:1161124837;shop_id:107786",
+            "addToCartSkus": [
+                {
+                    "sku": "211347592_BD-1161124837",
+                    "skuId": "1161124837",
+                    "count": 0
+                }
+            ],
+            "itemId": "211347592",
+            "skuId": "1161124837",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "GREEN MULTIPURPOSE GLOVES 1PAIR MALAYSIA",
+            "nid": "131586160",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "131586160",
+                "scene_pre": "search",
+                "current_price": "71",
+                "x_sku_ids": "1051896018",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "131586160"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i131586160-s1051896018.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/76eb590d80511e59ade3cf0b64ec696c.jpg",
+            "originalPrice": "390.00",
+            "originalPriceShow": "৳ 390",
+            "price": "71",
+            "promotionId": "null",
+            "priceShow": "৳ 71",
+            "discount": "-82%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "131586160_BD-1051896018",
+            "sku": "131586160_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4702",
+            "mainSellerId": "",
+            "sellerName": "My Choice Watch",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/76eb590d80511e59ade3cf0b64ec696c.jpg",
+                    "productUrl": "/products/1-i131586160-s1051896018.html",
+                    "sku": "131586160_BD",
+                    "skuId": "1051896018"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10187,
+                10188
+            ],
+            "clickTrace": "query:;nid:131586160;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:131586160_BD;price:71;client:desktop;supplier_id:4702;asc_category_id:10188;item_id:131586160;sku_id:1051896018;shop_id:4744",
+            "addToCartSkus": [
+                {
+                    "sku": "131586160_BD-1051896018",
+                    "skuId": "1051896018",
+                    "count": 0
+                }
+            ],
+            "itemId": "131586160",
+            "skuId": "1051896018",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Hand kitchen gloves",
+            "nid": "153190864",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "153190864",
+                "scene_pre": "search",
+                "current_price": "130.00",
+                "x_sku_ids": "1081546817",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "153190864"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i153190864-s1081546817.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/97fec32f960aea13c56b3148fe01b0ed.jpg",
+            "originalPrice": "260.00",
+            "originalPriceShow": "৳ 260",
+            "price": "130.00",
+            "promotionId": "null",
+            "priceShow": "৳ 130",
+            "discount": "-50%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "153190864_BD-1081546817",
+            "sku": "153190864_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507710017",
+            "mainSellerId": "",
+            "sellerName": "Priyo Bangla Computer",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/97fec32f960aea13c56b3148fe01b0ed.jpg",
+                    "productUrl": "/products/-i153190864-s1081546817.html",
+                    "sku": "153190864_BD",
+                    "skuId": "1081546817"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10187,
+                10188
+            ],
+            "clickTrace": "query:;nid:153190864;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:153190864_BD;price:130.00;client:desktop;supplier_id:700507710017;asc_category_id:10188;item_id:153190864;sku_id:1081546817;shop_id:107030",
+            "addToCartSkus": [
+                {
+                    "sku": "153190864_BD-1081546817",
+                    "skuId": "1081546817",
+                    "count": 0
+                }
+            ],
+            "itemId": "153190864",
+            "skuId": "1081546817",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Martial Arts Training Steel Karate Nunchaku Steel Gymnastic Stick",
+            "nid": "237386639",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237386639",
+                "scene_pre": "search",
+                "current_price": "440.00",
+                "x_sku_ids": "1180740461",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "237386639"
+            },
+            "productUrl": "//www.daraz.com.bd/products/martial-arts-training-steel-karate-nunchaku-steel-gymnastic-stick-i237386639-s1180740461.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d52063e2f49ebec1835cf625f9336531.jpg",
+            "originalPrice": "800.00",
+            "originalPriceShow": "৳ 800",
+            "price": "440.00",
+            "promotionId": "null",
+            "priceShow": "৳ 440",
+            "discount": "-45%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237386639_BD-1180740461",
+            "sku": "237386639_BD",
+            "skus": [],
+            "description": [
+                "Made in a strong",
+                "Very durable quality",
+                "Can be used as a Stick, It is foldable",
+                "Material: Steel",
+                "Ideal for professional sports man"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511916664",
+            "mainSellerId": "",
+            "sellerName": "Sports & Style (MYM)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d52063e2f49ebec1835cf625f9336531.jpg",
+                    "productUrl": "/products/martial-arts-training-steel-karate-nunchaku-steel-gymnastic-stick-i237386639-s1180740461.html",
+                    "sku": "237386639_BD",
+                    "skuId": "1180740461"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10196
+            ],
+            "clickTrace": "query:;nid:237386639;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:237386639_BD;price:440.00;client:desktop;supplier_id:700511916664;asc_category_id:10196;item_id:237386639;sku_id:1180740461;shop_id:238736",
+            "addToCartSkus": [
+                {
+                    "sku": "237386639_BD-1180740461",
+                    "skuId": "1180740461",
+                    "count": 0
+                }
+            ],
+            "itemId": "237386639",
+            "skuId": "1180740461",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Safety Foam Nunchaku,Sponge Double Truncheon with Stainless Steel Chain for Training",
+            "nid": "233225975",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233225975",
+                "scene_pre": "search",
+                "current_price": "295.00",
+                "x_sku_ids": "1175925877",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "233225975"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233225975-s1175925877.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ea12bd1de32c32c0572f10925d326461.jpg",
+            "originalPrice": "850.00",
+            "originalPriceShow": "৳ 850",
+            "price": "295.00",
+            "promotionId": "null",
+            "priceShow": "৳ 295",
+            "discount": "-65%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233225975_BD-1175925877",
+            "sku": "233225975_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508556160",
+            "mainSellerId": "",
+            "sellerName": "Jersey House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ea12bd1de32c32c0572f10925d326461.jpg",
+                    "productUrl": "/products/-i233225975-s1175925877.html",
+                    "sku": "233225975_BD",
+                    "skuId": "1175925877"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10196
+            ],
+            "clickTrace": "query:;nid:233225975;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:233225975_BD;price:295.00;client:desktop;supplier_id:700508556160;asc_category_id:10196;item_id:233225975;sku_id:1175925877;shop_id:169185",
+            "addToCartSkus": [
+                {
+                    "sku": "233225975_BD-1175925877",
+                    "skuId": "1175925877",
+                    "count": 0
+                }
+            ],
+            "itemId": "233225975",
+            "skuId": "1175925877",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "premium examination gloves 100 pcs",
+            "nid": "133326087",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "133326087",
+                "scene_pre": "search",
+                "current_price": "510.00",
+                "x_sku_ids": "1054986653",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "133326087"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100-i133326087-s1054986653.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/03d9f831136ef2e167f99d9ca7593793.jpg",
+            "originalPrice": "1500.00",
+            "originalPriceShow": "৳ 1,500",
+            "price": "510.00",
+            "promotionId": "null",
+            "priceShow": "৳ 510",
+            "discount": "-66%",
+            "ratingScore": "3.36364",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "133326087_BD-1054986653",
+            "sku": "133326087_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1038464",
+            "mainSellerId": "",
+            "sellerName": "Nur Online Surgical",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/03d9f831136ef2e167f99d9ca7593793.jpg",
+                    "productUrl": "/products/100-i133326087-s1054986653.html",
+                    "sku": "133326087_BD",
+                    "skuId": "1054986653"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/03d9f831136ef2e167f99d9ca7593793.jpg",
+                    "productUrl": "/products/100-i133326087-s1054986654.html",
+                    "sku": "133326087_BD",
+                    "skuId": "1054986654"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10187,
+                10188
+            ],
+            "clickTrace": "query:;nid:133326087;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:133326087_BD;price:510.00;client:desktop;supplier_id:1038464;asc_category_id:10188;item_id:133326087;sku_id:1054986653;shop_id:44283",
+            "addToCartSkus": [
+                {
+                    "sku": "133326087_BD-1054986653",
+                    "skuId": "1054986653",
+                    "count": 0
+                }
+            ],
+            "itemId": "133326087",
+            "skuId": "1054986653",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cutting Hand Gloves For Industrial Work",
+            "nid": "132620047",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132620047",
+                "scene_pre": "search",
+                "current_price": "58",
+                "x_sku_ids": "1053754101",
+                "SN": "2e0e1facca570fe50e9eafd33497712c",
+                "x_ad": "1",
+                "x_object_id": "132620047"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i132620047-s1053754101.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/228de5c068fdebbb0b8b35eadf505d0b.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "58",
+            "promotionId": "null",
+            "priceShow": "৳ 58",
+            "discount": "-86%",
+            "ratingScore": "4.46154",
+            "review": "13",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132620047_BD-1053754101",
+            "sku": "132620047_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5895",
+            "mainSellerId": "",
+            "sellerName": "Seven Heaven",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/228de5c068fdebbb0b8b35eadf505d0b.jpg",
+                    "productUrl": "/products/-i132620047-s1053754101.html",
+                    "sku": "132620047_BD",
+                    "skuId": "1053754101"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                10186,
+                10187,
+                10188
+            ],
+            "clickTrace": "query:;nid:132620047;src:LazadaMainSrp;rn:2e0e1facca570fe50e9eafd33497712c;region:bd;sku:132620047_BD;price:58;client:desktop;supplier_id:5895;asc_category_id:10188;item_id:132620047;sku_id:1053754101;shop_id:5664",
+            "addToCartSkus": [
+                {
+                    "sku": "132620047_BD-1053754101",
+                    "skuId": "1053754101",
+                    "count": 0
+                }
+            ],
+            "itemId": "132620047",
+            "skuId": "1053754101",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/sports-travel/",
+            "title": "Sports & Outdoors"
+        },
+        {
+            "url": "/boxing-martial-arts-mma/",
+            "title": "Boxing, Martial Arts & MMA"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/boxing-martial-arts-mma/?referer_rn=2e0e1facca570fe50e9eafd33497712c&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Cbr%2F%3E%3Ca%20href%3D%22%2Fboxing-martial-arts-mma%2Fjoerex%2F%22%20%3EJoerex%20Boxing%20Martial%20Arts%20Mma%3C%2Fa%3E"
+    },
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/martial-arts-equipment/?item_id=227760493&from=onesearch_category_10186",
+                "name": "Martial Art Equipment",
+                "image": "//static-01.daraz.com.bd/p/c3e8032c09716cdc80708622114309a0.jpg",
+                "id": "10196"
+            },
+            {
+                "url": "/boxing-gloves/?item_id=168974175&from=onesearch_category_10186",
+                "name": "Boxing Gloves",
+                "image": "//static-01.daraz.com.bd/p/117122b23142609f897448bd63c226d3.jpg",
+                "id": "10188"
+            },
+            {
+                "url": "/punching-bags-accessories/?item_id=200437814&from=onesearch_category_10186",
+                "name": "Punching Bags & Accessories",
+                "image": "//static-01.daraz.com.bd/p/25c8ffd2ba43e9bc8d282a1879570654.jpg",
+                "id": "10195"
+            },
+            {
+                "url": "/boxing-martial-arts-mma-protective-gear/?item_id=129750639&from=onesearch_category_10186",
+                "name": "Protective Gear",
+                "image": "//static-01.daraz.com.bd/p/565907030125ff00433e13ae3f8c5f5a.jpg",
+                "id": "10194"
+            },
+            {
+                "url": "/boxing-gym-equipment/?item_id=222644132&from=onesearch_category_10186",
+                "name": "Boxing Gym Equipment",
+                "image": "//static-01.daraz.com.bd/p/cce89441d0b3d0ad1cce30b9862137a3.jpg",
+                "id": "10191"
+            },
+            {
+                "url": "/boxing-martial-arts-mma-kicking-targets/?item_id=209033344&from=onesearch_category_10186",
+                "name": "Kicking Targets",
+                "image": "//static-01.daraz.com.bd/p/b01afc21c6ec2ab68fed8d3ccbd305e3.jpg",
+                "id": "10193"
+            },
+            {
+                "url": "/hand-wraps/?item_id=183779811&from=onesearch_category_10186",
+                "name": "Hand Wraps",
+                "image": "//static-01.daraz.com.bd/p/083624d1259160736c35e92cf8d56c95.png",
+                "id": "10190"
+            },
+            {
+                "url": "/martial-arts-gloves/?item_id=188574138&from=onesearch_category_10186",
+                "name": "MMA Gloves",
+                "image": "//static-01.daraz.com.bd/p/9d9830d9a6ed6bcf9bebeae53c55d96e.jpg",
+                "id": "10189"
+            },
+            {
+                "url": "/boxing-pads/?item_id=209259886&from=onesearch_category_10186",
+                "name": "Boxing Pads",
+                "image": "//static-01.daraz.com.bd/p/958fa5c778de4df3dda3aa197c550ed6.jpg",
+                "id": "10192"
+            },
+            {
+                "url": "/martial-arts-uniforms/?item_id=234153752&from=onesearch_category_10186",
+                "name": "Martial Art Uniform",
+                "image": "//static-01.daraz.com.bd/p/3655cd88d1a00bdbf01b1f75ece47ff6.jpg",
+                "id": "10197"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_10186"
+        },
+        "title": "",
+        "bizId": "onesearch_category_10186",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "7122 items found in {$0}",
+        "title": "Boxing, Martial Arts & MMA",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Boxing, Martial Arts & MMA"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Boxing, Martial Arts & MMA",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "2e0e1facca570fe50e9eafd33497712c",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "10186",
+            "category": "10186"
+        },
+        "categoryRegionalKey": "111500000000",
+        "mainCategoryRegionalKey": "110000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Boxing Equipment In Bangladesh At Best Price Online - Daraz.com.bd",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Sports & Outdoors,Boxing, Martial Arts & MMA",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "111500000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=10186&_p_asc_cateid=10186",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "boxing-martial-arts-mma",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "2e0e1facca570fe50e9eafd33497712c",
+                "resultNr": 7122,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1069114765",
+                "1053278267",
+                "1171826169"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "10186",
+            "category": "10186"
+        }
+    }
+}

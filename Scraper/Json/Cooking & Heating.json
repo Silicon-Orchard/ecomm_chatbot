@@ -1,0 +1,3545 @@
+{
+    "listItems": [
+        {
+            "name": "Water Heater Mini Heavy Quality",
+            "nid": "202230025",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "202230025",
+                "scene_pre": "search",
+                "current_price": "82",
+                "x_sku_ids": "1149835060",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "202230025"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i202230025-s1149835060.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/95b43dfbd10ae50c9099bcee46f76856.jpg",
+            "originalPrice": "160.00",
+            "originalPriceShow": "৳ 160",
+            "price": "82",
+            "promotionId": "null",
+            "priceShow": "৳ 82",
+            "discount": "-49%",
+            "ratingScore": "4.69565",
+            "review": "92",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "202230025_BD-1149835060",
+            "sku": "202230025_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508313266",
+            "mainSellerId": "",
+            "sellerName": "ABD Enterprise",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/95b43dfbd10ae50c9099bcee46f76856.jpg",
+                    "productUrl": "/products/-i202230025-s1149835060.html",
+                    "sku": "202230025_BD",
+                    "skuId": "1149835060"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                371
+            ],
+            "clickTrace": "query:;nid:202230025;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:202230025_BD;price:82;client:desktop;supplier_id:700508313266;asc_category_id:371;item_id:202230025;sku_id:1149835060;shop_id:143512",
+            "addToCartSkus": [
+                {
+                    "sku": "202230025_BD-1149835060",
+                    "skuId": "1149835060",
+                    "count": 0
+                }
+            ],
+            "itemId": "202230025",
+            "skuId": "1149835060",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Innoel Energy Saving BLDC BUET Tested Ceiling Fan",
+            "nid": "131532848",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "131532848",
+                "scene_pre": "search",
+                "current_price": "4899",
+                "x_sku_ids": "1051784010",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "131532848"
+            },
+            "productUrl": "//www.daraz.com.bd/products/innoel-energy-saving-bldc-buet-tested-ceiling-fan-i131532848-s1051784010.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9b06e7617f0a51967184de10fd14b941.jpg",
+            "originalPrice": "4950.00",
+            "originalPriceShow": "৳ 4,950",
+            "price": "4899",
+            "promotionId": "null",
+            "priceShow": "৳ 4,899",
+            "discount": "-1%",
+            "ratingScore": "4.75635",
+            "review": "394",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "131532848_BD-1051784010",
+            "sku": "131532848_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123289646",
+            "brandName": "Innoel Technology Ltd",
+            "sellerId": "700505775009",
+            "mainSellerId": "",
+            "sellerName": "Innoel Technology Ltd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9b06e7617f0a51967184de10fd14b941.jpg",
+                    "productUrl": "/products/innoel-energy-saving-bldc-buet-tested-ceiling-fan-i131532848-s1051784010.html",
+                    "sku": "131532848_BD",
+                    "skuId": "1051784010"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000403
+            ],
+            "clickTrace": "query:;nid:131532848;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:131532848_BD;price:4899;client:desktop;supplier_id:700505775009;asc_category_id:20000403;item_id:131532848;sku_id:1051784010;shop_id:62019",
+            "addToCartSkus": [
+                {
+                    "sku": "131532848_BD-1051784010",
+                    "skuId": "1051784010",
+                    "count": 0
+                }
+            ],
+            "itemId": "131532848",
+            "skuId": "1051784010",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Portable Travel Mni Water Heater 500W",
+            "nid": "201287407",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "201287407",
+                "scene_pre": "search",
+                "current_price": "88",
+                "x_sku_ids": "1148476183",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "201287407"
+            },
+            "productUrl": "//www.daraz.com.bd/products/mni-500w-i201287407-s1148476183.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/8dad00d9c27d48d2dd49ba0967e323d1.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "88",
+            "promotionId": "null",
+            "priceShow": "৳ 88",
+            "discount": "-41%",
+            "ratingScore": "4.7033",
+            "review": "91",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "201287407_BD-1148476183",
+            "sku": "201287407_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508265127",
+            "mainSellerId": "",
+            "sellerName": "Z H Trade Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/8dad00d9c27d48d2dd49ba0967e323d1.jpg",
+                    "productUrl": "/products/mni-500w-i201287407-s1148476183.html",
+                    "sku": "201287407_BD",
+                    "skuId": "1148476183"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                371
+            ],
+            "clickTrace": "query:;nid:201287407;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:201287407_BD;price:88;client:desktop;supplier_id:700508265127;asc_category_id:371;item_id:201287407;sku_id:1148476183;shop_id:138075",
+            "addToCartSkus": [
+                {
+                    "sku": "201287407_BD-1148476183",
+                    "skuId": "1148476183",
+                    "count": 0
+                }
+            ],
+            "itemId": "201287407",
+            "skuId": "1148476183",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Super Star  Exhaust Fan 10 inch",
+            "nid": "129770104",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "129770104",
+                "scene_pre": "search",
+                "current_price": "900",
+                "x_sku_ids": "1049554459",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "129770104"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i129770104-s1049554459.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/95c47ba863e4a6c582256dc01ffc80d1.png",
+            "originalPrice": "1200.00",
+            "originalPriceShow": "৳ 1,200",
+            "price": "900",
+            "promotionId": "null",
+            "priceShow": "৳ 900",
+            "discount": "-25%",
+            "ratingScore": "4.63333",
+            "review": "30",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "129770104_BD-1049554459",
+            "sku": "129770104_BD",
+            "skus": [],
+            "description": [
+                "Power Consumption= 32 watt.Speed= 1350 RPM"
+            ],
+            "brandId": "127109",
+            "brandName": "Super Star",
+            "sellerId": "1973",
+            "mainSellerId": "",
+            "sellerName": "Super Star Group Limited (SSG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/95c47ba863e4a6c582256dc01ffc80d1.png",
+                    "productUrl": "/products/-i129770104-s1049554459.html",
+                    "sku": "129770104_BD",
+                    "skuId": "1049554459"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                5684
+            ],
+            "clickTrace": "query:;nid:129770104;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:129770104_BD;price:900;client:desktop;supplier_id:1973;asc_category_id:5684;item_id:129770104;sku_id:1049554459;shop_id:2582",
+            "addToCartSkus": [
+                {
+                    "sku": "129770104_BD-1049554459",
+                    "skuId": "1049554459",
+                    "count": 0
+                }
+            ],
+            "itemId": "129770104",
+            "skuId": "1049554459",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Energypac 56 Ceiling Fan - White",
+            "nid": "114366616",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "114366616",
+                "scene_pre": "search",
+                "current_price": "2900",
+                "x_sku_ids": "1031946208",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "114366616"
+            },
+            "productUrl": "//www.daraz.com.bd/products/56-i114366616-s1031946208.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4fa125b552e71a9a86065ffbeb70cd0a.jpg",
+            "originalPrice": "3150.00",
+            "originalPriceShow": "৳ 3,150",
+            "price": "2900",
+            "promotionId": "null",
+            "priceShow": "৳ 2,900",
+            "discount": "-8%",
+            "ratingScore": "4.57377",
+            "review": "244",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "114366616_BD-1031946208",
+            "sku": "114366616_BD",
+            "skus": [],
+            "description": [
+                "Excellent energy consumption rate (65W only) and is 35% more efficient than ordinary fans.",
+                "Payback period of 2.5 years (Within 2.5 years, the savings from using your fan will allow you to get back the investment you made for acquiring your Fan)",
+                "5 Star rating for its remarkable energy efficiency from BSTI (Best QUALITY assurance).",
+                "Sleek design and aerodynamic wide blades allow high velocity and maximum air delivery throughout the room.",
+                "Rust free Aluminum sheet made",
+                "Safety wire (Prevents unwanted accidents)",
+                "Annual saving of 50 megawatts of electricity (Equivalent to planting 1 Million Trees)",
+                "Energypac Ceiling Fan delivers 250 m3/min of air, which surpasses most fan’s air delivery, whichareavailable in the market."
+            ],
+            "brandId": "154993",
+            "brandName": "Energypac",
+            "sellerId": "1023400",
+            "mainSellerId": "",
+            "sellerName": "ASHIK ELECTRONIC ( RAJ)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4fa125b552e71a9a86065ffbeb70cd0a.jpg",
+                    "productUrl": "/products/56-i114366616-s1031946208.html",
+                    "sku": "114366616_BD",
+                    "skuId": "1031946208"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000403
+            ],
+            "clickTrace": "query:;nid:114366616;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:114366616_BD;price:2900;client:desktop;supplier_id:1023400;asc_category_id:20000403;item_id:114366616;sku_id:1031946208;shop_id:29599",
+            "addToCartSkus": [
+                {
+                    "sku": "114366616_BD-1031946208",
+                    "skuId": "1031946208",
+                    "count": 0
+                }
+            ],
+            "itemId": "114366616",
+            "skuId": "1031946208",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Midea 1.5 Ton Ac Non Inverter",
+            "nid": "128814006",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "128814006",
+                "scene_pre": "search",
+                "current_price": "37590",
+                "x_sku_ids": "1048634610",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "128814006"
+            },
+            "productUrl": "//www.daraz.com.bd/products/midea-15-ton-ac-non-inverter-6-year-only-compressor-guarryntee-i128814006-s1048634610.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a5f6104a3130f73cd6b3ebe710544506.jpg",
+            "price": "37590",
+            "promotionId": "null",
+            "priceShow": "৳ 37,590",
+            "ratingScore": "4.66176",
+            "review": "68",
+            "installment": "Installment available",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "128814006_BD-1048634610",
+            "sku": "128814006_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "25001",
+            "brandName": "Midea",
+            "sellerId": "1000981",
+            "mainSellerId": "",
+            "sellerName": "TOP TEN BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a5f6104a3130f73cd6b3ebe710544506.jpg",
+                    "productUrl": "/products/midea-15-ton-ac-non-inverter-6-year-only-compressor-guarryntee-i128814006-s1048634610.html",
+                    "sku": "128814006_BD",
+                    "skuId": "1048634610"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                358,
+                10000301
+            ],
+            "clickTrace": "query:;nid:128814006;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:128814006_BD;price:37590;client:desktop;supplier_id:1000981;asc_category_id:10000301;item_id:128814006;sku_id:1048634610;shop_id:7153",
+            "addToCartSkus": [
+                {
+                    "sku": "128814006_BD-1048634610",
+                    "skuId": "1048634610",
+                    "count": 0
+                }
+            ],
+            "itemId": "128814006",
+            "skuId": "1048634610",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Portable Mini USB Rechargeable Fan",
+            "nid": "152648750",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "152648750",
+                "scene_pre": "search",
+                "current_price": "399.00",
+                "x_sku_ids": "1080608935",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "152648750"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-i152648750-s1080608935.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/9ece2ab436d50d3dddfd234e10efbd95.jpg",
+            "originalPrice": "499.00",
+            "originalPriceShow": "৳ 499",
+            "price": "399.00",
+            "promotionId": "null",
+            "priceShow": "৳ 399",
+            "discount": "-20%",
+            "ratingScore": "4.30233",
+            "review": "86",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "152648750_BD-1080608935",
+            "sku": "152648750_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507668237",
+            "mainSellerId": "",
+            "sellerName": "N TABASSUM'S",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/9ece2ab436d50d3dddfd234e10efbd95.jpg",
+                    "productUrl": "/products/usb-i152648750-s1080608935.html",
+                    "sku": "152648750_BD",
+                    "skuId": "1080608935"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000406
+            ],
+            "clickTrace": "query:;nid:152648750;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:152648750_BD;price:399.00;client:desktop;supplier_id:700507668237;asc_category_id:20000406;item_id:152648750;sku_id:1080608935;shop_id:104713",
+            "addToCartSkus": [
+                {
+                    "sku": "152648750_BD-1080608935",
+                    "skuId": "1080608935",
+                    "count": 0
+                }
+            ],
+            "itemId": "152648750",
+            "skuId": "1080608935",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mini Fan USB Rechargable Desk and Portable FAN",
+            "nid": "150660084",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "150660084",
+                "scene_pre": "search",
+                "current_price": "198",
+                "x_sku_ids": "1077312244",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "150660084"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-i150660084-s1077312244.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/7bbb5657f04a7d13b76ee6b7e3680c0a.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "198",
+            "promotionId": "null",
+            "priceShow": "৳ 198",
+            "discount": "-70%",
+            "ratingScore": "4.10435",
+            "review": "115",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "150660084_BD-1077312244",
+            "sku": "150660084_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506417133",
+            "mainSellerId": "",
+            "sellerName": "Angel fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/7bbb5657f04a7d13b76ee6b7e3680c0a.jpg",
+                    "productUrl": "/products/usb-i150660084-s1077312244.html",
+                    "sku": "150660084_BD",
+                    "skuId": "1077312244"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/07b2a7981665aa7cadded7961ce15676.jpg",
+                    "productUrl": "/products/usb-i150660084-s1077312245.html",
+                    "sku": "150660084_BD",
+                    "skuId": "1077312245"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/2874567d55e31b9cd787e1293b8ebde0.jpg",
+                    "productUrl": "/products/usb-i150660084-s1077312243.html",
+                    "sku": "150660084_BD",
+                    "skuId": "1077312243"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/7334f8043e272071163cb0ece14ba2a6.jpg",
+                    "productUrl": "/products/usb-i150660084-s1077312242.html",
+                    "sku": "150660084_BD",
+                    "skuId": "1077312242"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000406
+            ],
+            "clickTrace": "query:;nid:150660084;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:150660084_BD;price:198;client:desktop;supplier_id:700506417133;asc_category_id:20000406;item_id:150660084;sku_id:1077312244;shop_id:75081",
+            "addToCartSkus": [
+                {
+                    "sku": "150660084_BD-1077312244",
+                    "skuId": "1077312244",
+                    "count": 0
+                }
+            ],
+            "itemId": "150660084",
+            "skuId": "1077312244",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "NEW Portable Mini USB Air Cooler with 7 Colors LED lights Personal AC Fan Desktop Air Conditioner for Office/Home",
+            "nid": "158994132",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "158994132",
+                "scene_pre": "search",
+                "current_price": "1081",
+                "x_sku_ids": "1090484909",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "158994132"
+            },
+            "productUrl": "//www.daraz.com.bd/products/7-led-usb-i158994132-s1090484909.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/577a0bc8224853366b8f3f26af324443.jpg",
+            "originalPrice": "2500.00",
+            "originalPriceShow": "৳ 2,500",
+            "price": "1081",
+            "promotionId": "null",
+            "priceShow": "৳ 1,081",
+            "discount": "-57%",
+            "ratingScore": "3.8",
+            "review": "85",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "158994132_BD-1090484909",
+            "sku": "158994132_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507620244",
+            "mainSellerId": "",
+            "sellerName": "Kroymeela",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/577a0bc8224853366b8f3f26af324443.jpg",
+                    "productUrl": "/products/7-led-usb-i158994132-s1090484909.html",
+                    "sku": "158994132_BD",
+                    "skuId": "1090484909"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                358,
+                10000303
+            ],
+            "clickTrace": "query:;nid:158994132;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:158994132_BD;price:1081;client:desktop;supplier_id:700507620244;asc_category_id:10000303;item_id:158994132;sku_id:1090484909;shop_id:101536",
+            "addToCartSkus": [
+                {
+                    "sku": "158994132_BD-1090484909",
+                    "skuId": "1090484909",
+                    "count": 0
+                }
+            ],
+            "itemId": "158994132",
+            "skuId": "1090484909",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Lithium rechargeable mini table fan with LED light -1880",
+            "nid": "133014150",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "133014150",
+                "scene_pre": "search",
+                "current_price": "949.00",
+                "x_sku_ids": "1054394468",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "133014150"
+            },
+            "productUrl": "//www.daraz.com.bd/products/led-1880-i133014150-s1054394468.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/7d5124c5c29d401e37c1a0a988842256.jpg",
+            "originalPrice": "1950.00",
+            "originalPriceShow": "৳ 1,950",
+            "price": "949.00",
+            "promotionId": "null",
+            "priceShow": "৳ 949",
+            "discount": "-51%",
+            "ratingScore": "4.55233",
+            "review": "172",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "133014150_BD-1054394468",
+            "sku": "133014150_BD",
+            "skus": [],
+            "description": [
+                "JY SUPER lithium rechargeable mini table fan with LED light JY-1880",
+                "Quick DetailsPower Source:lithium batteryType:air cooling fanInstallation:tableMaterial:ABS plasticCertification:ceBrand Name:JY SUPERModel Number:JY-1880Place of Origin:CHINABattery:18650 lithium batteryBattery Power:2400 mAhFan Size:6 inchFan Speed:low/middle/highLight Step:dim/strongLED Power:5 pcs*0.5WPacking:color boxCharger:USB"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506423379",
+            "mainSellerId": "",
+            "sellerName": "Rayeef (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/7d5124c5c29d401e37c1a0a988842256.jpg",
+                    "productUrl": "/products/led-1880-i133014150-s1054394468.html",
+                    "sku": "133014150_BD",
+                    "skuId": "1054394468"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/73bba3171c2b93f544a9c746c33a7d75.jpg",
+                    "productUrl": "/products/led-1880-i133014150-s1054394465.html",
+                    "sku": "133014150_BD",
+                    "skuId": "1054394465"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/9ea22445f9286e38dc5ce7e6c1d013c2.jpg",
+                    "productUrl": "/products/led-1880-i133014150-s1054394467.html",
+                    "sku": "133014150_BD",
+                    "skuId": "1054394467"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000405
+            ],
+            "clickTrace": "query:;nid:133014150;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:133014150_BD;price:949.00;client:desktop;supplier_id:700506423379;asc_category_id:20000405;item_id:133014150;sku_id:1054394468;shop_id:78330",
+            "addToCartSkus": [
+                {
+                    "sku": "133014150_BD-1054394468",
+                    "skuId": "1054394468",
+                    "count": 0
+                }
+            ],
+            "itemId": "133014150",
+            "skuId": "1054394468",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Portable mini rechargeable travel fan Eternal classics SS-2 fan for indoor and outdoor use",
+            "nid": "199346612",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "199346612",
+                "scene_pre": "search",
+                "current_price": "180.00",
+                "x_sku_ids": "1146665585",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "199346612"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ss-2-i199346612-s1146665585.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ac9ad451068307b757779d7be249e7db.jpg",
+            "originalPrice": "600.00",
+            "originalPriceShow": "৳ 600",
+            "price": "180.00",
+            "promotionId": "null",
+            "priceShow": "৳ 180",
+            "discount": "-70%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "199346612_BD-1146665585",
+            "sku": "199346612_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1016339",
+            "mainSellerId": "",
+            "sellerName": "Pinbell(CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ac9ad451068307b757779d7be249e7db.jpg",
+                    "productUrl": "/products/ss-2-i199346612-s1146665585.html",
+                    "sku": "199346612_BD",
+                    "skuId": "1146665585"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000406
+            ],
+            "clickTrace": "query:;nid:199346612;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:199346612_BD;price:180.00;client:desktop;supplier_id:1016339;asc_category_id:20000406;item_id:199346612;sku_id:1146665585;shop_id:22718",
+            "addToCartSkus": [
+                {
+                    "sku": "199346612_BD-1146665585",
+                    "skuId": "1146665585",
+                    "count": 0
+                }
+            ],
+            "itemId": "199346612",
+            "skuId": "1146665585",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "JY SUPER mini pocket fan lithium rechargeable portable fan JY-1970",
+            "nid": "131136532",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "131136532",
+                "scene_pre": "search",
+                "current_price": "249.00",
+                "x_sku_ids": "1051206151",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "131136532"
+            },
+            "productUrl": "//www.daraz.com.bd/products/jy-jy-1970-i131136532-s1051206151.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c7e3a6556923a104c76c7fa67bc42b7b.jpg",
+            "originalPrice": "480.00",
+            "originalPriceShow": "৳ 480",
+            "price": "249.00",
+            "promotionId": "null",
+            "priceShow": "৳ 249",
+            "discount": "-48%",
+            "ratingScore": "4.7",
+            "review": "50",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "131136532_BD-1051206151",
+            "sku": "131136532_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1021801",
+            "mainSellerId": "",
+            "sellerName": "Best Bazer",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c7e3a6556923a104c76c7fa67bc42b7b.jpg",
+                    "productUrl": "/products/jy-jy-1970-i131136532-s1051206151.html",
+                    "sku": "131136532_BD",
+                    "skuId": "1051206151"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000406
+            ],
+            "clickTrace": "query:;nid:131136532;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:131136532_BD;price:249.00;client:desktop;supplier_id:1021801;asc_category_id:20000406;item_id:131136532;sku_id:1051206151;shop_id:28022",
+            "addToCartSkus": [
+                {
+                    "sku": "131136532_BD-1051206151",
+                    "skuId": "1051206151",
+                    "count": 0
+                }
+            ],
+            "itemId": "131136532",
+            "skuId": "1051206151",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Portable mini rechargeable travel fan Eternal classics SS-2 fan for indoor and outdoor use",
+            "nid": "175166876",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "175166876",
+                "scene_pre": "search",
+                "current_price": "230.00",
+                "x_sku_ids": "1112564339",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "175166876"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ss-2-i175166876-s1112564339.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/725805ac2c59f868237250148c2ed117.jpg",
+            "originalPrice": "399.00",
+            "originalPriceShow": "৳ 399",
+            "price": "230.00",
+            "promotionId": "null",
+            "priceShow": "৳ 230",
+            "discount": "-42%",
+            "ratingScore": "4.46914",
+            "review": "162",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "175166876_BD-1112564339",
+            "sku": "175166876_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507290001",
+            "mainSellerId": "",
+            "sellerName": "Faruk's (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/725805ac2c59f868237250148c2ed117.jpg",
+                    "productUrl": "/products/ss-2-i175166876-s1112564339.html",
+                    "sku": "175166876_BD",
+                    "skuId": "1112564339"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000406
+            ],
+            "clickTrace": "query:;nid:175166876;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:175166876_BD;price:230.00;client:desktop;supplier_id:700507290001;asc_category_id:20000406;item_id:175166876;sku_id:1112564339;shop_id:94760",
+            "addToCartSkus": [
+                {
+                    "sku": "175166876_BD-1112564339",
+                    "skuId": "1112564339",
+                    "count": 0
+                }
+            ],
+            "itemId": "175166876",
+            "skuId": "1112564339",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Portable Mini USB Rechargeable Fan",
+            "nid": "176318466",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "176318466",
+                "scene_pre": "search",
+                "current_price": "395.00",
+                "x_sku_ids": "1116088721",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "176318466"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-i176318466-s1116088721.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/1b0706ebb67d07f6cbc3fe6da96bace4.jpg",
+            "originalPrice": "599.00",
+            "originalPriceShow": "৳ 599",
+            "price": "395.00",
+            "promotionId": "null",
+            "priceShow": "৳ 395",
+            "discount": "-34%",
+            "ratingScore": "4.45833",
+            "review": "96",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "176318466_BD-1116088721",
+            "sku": "176318466_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507668237",
+            "mainSellerId": "",
+            "sellerName": "N TABASSUM'S",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/1b0706ebb67d07f6cbc3fe6da96bace4.jpg",
+                    "productUrl": "/products/usb-i176318466-s1116088721.html",
+                    "sku": "176318466_BD",
+                    "skuId": "1116088721"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000407
+            ],
+            "clickTrace": "query:;nid:176318466;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:176318466_BD;price:395.00;client:desktop;supplier_id:700507668237;asc_category_id:20000407;item_id:176318466;sku_id:1116088721;shop_id:104713",
+            "addToCartSkus": [
+                {
+                    "sku": "176318466_BD-1116088721",
+                    "skuId": "1116088721",
+                    "count": 0
+                }
+            ],
+            "itemId": "176318466",
+            "skuId": "1116088721",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "USB Rechargeable Wearable Portable Hand Free Neckband Fan",
+            "nid": "135162806",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "135162806",
+                "scene_pre": "search",
+                "current_price": "288",
+                "x_sku_ids": "1057102649",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "135162806"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-rechargeable-wearable-portable-hand-free-neckband-fan-i135162806-s1057102649.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/646e24dcaadf8028b0fc528b756e398e.jpg",
+            "originalPrice": "1200.00",
+            "originalPriceShow": "৳ 1,200",
+            "price": "288",
+            "promotionId": "null",
+            "priceShow": "৳ 288",
+            "discount": "-76%",
+            "ratingScore": "4.34717",
+            "review": "265",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "135162806_BD-1057102649",
+            "sku": "135162806_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1012483",
+            "mainSellerId": "",
+            "sellerName": "GADGET corner",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/646e24dcaadf8028b0fc528b756e398e.jpg",
+                    "productUrl": "/products/usb-rechargeable-wearable-portable-hand-free-neckband-fan-i135162806-s1057102649.html",
+                    "sku": "135162806_BD",
+                    "skuId": "1057102649"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000406
+            ],
+            "clickTrace": "query:;nid:135162806;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:135162806_BD;price:288;client:desktop;supplier_id:1012483;asc_category_id:20000406;item_id:135162806;sku_id:1057102649;shop_id:18879",
+            "addToCartSkus": [
+                {
+                    "sku": "135162806_BD-1057102649",
+                    "skuId": "1057102649",
+                    "count": 0
+                }
+            ],
+            "itemId": "135162806",
+            "skuId": "1057102649",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Portable Neck Fan Rechargeable Neck Fan / Kitchen Fan / Sports Fan",
+            "nid": "189302849",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "189302849",
+                "scene_pre": "search",
+                "current_price": "299.00",
+                "x_sku_ids": "1181784474",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "189302849"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i189302849-s1181784474.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e072441a10d690521aa62c599190c9ed.jpg",
+            "originalPrice": "699.00",
+            "originalPriceShow": "৳ 699",
+            "price": "299.00",
+            "promotionId": "null",
+            "priceShow": "৳ 299",
+            "discount": "-57%",
+            "ratingScore": "4.65385",
+            "review": "52",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "189302849_BD-1181784474",
+            "sku": "189302849_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508328806",
+            "mainSellerId": "",
+            "sellerName": "Kilobyte Gadgets",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e072441a10d690521aa62c599190c9ed.jpg",
+                    "productUrl": "/products/-i189302849-s1181784474.html",
+                    "sku": "189302849_BD",
+                    "skuId": "1181784474"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1b34497fbe3970d1469eb3a60a2e9bdf.jpg",
+                    "productUrl": "/products/-i189302849-s1143540644.html",
+                    "sku": "189302849_BD",
+                    "skuId": "1143540644"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/53cede6e5d13de648e2d76c1906c6e8d.jpg",
+                    "productUrl": "/products/-i189302849-s1169670689.html",
+                    "sku": "189302849_BD",
+                    "skuId": "1169670689"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/766d14fb45c2475279c755ba99fe6ec6.jpg",
+                    "productUrl": "/products/-i189302849-s1137162462.html",
+                    "sku": "189302849_BD",
+                    "skuId": "1137162462"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000407
+            ],
+            "clickTrace": "query:;nid:189302849;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:189302849_BD;price:299.00;client:desktop;supplier_id:700508328806;asc_category_id:20000407;item_id:189302849;sku_id:1181784474;shop_id:146617",
+            "addToCartSkus": [
+                {
+                    "sku": "189302849_BD-1181784474",
+                    "skuId": "1181784474",
+                    "count": 0
+                }
+            ],
+            "itemId": "189302849",
+            "skuId": "1181784474",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Large Air Diffuser USB Capacity Small Portable Egg Humidifier For Home Bedroom.",
+            "nid": "185819677",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "185819677",
+                "scene_pre": "search",
+                "current_price": "365.00",
+                "x_sku_ids": "1131709077",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "185819677"
+            },
+            "productUrl": "//www.daraz.com.bd/products/large-air-diffuser-usb-capacity-small-portable-egg-humidifier-for-home-bedroom-i185819677-s1131709077.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/388ebd0f5a3c27242aa31e99e2ff46ab.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "365.00",
+            "promotionId": "null",
+            "priceShow": "৳ 365",
+            "discount": "-34%",
+            "ratingScore": "4.82812",
+            "review": "64",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "185819677_BD-1131709077",
+            "sku": "185819677_BD",
+            "skus": [],
+            "description": [
+                "Color: white",
+                "Name: humidifier",
+                "Working voltage: DC 5V",
+                "Material: silicone/PP/ABS/Electronic component",
+                "Amount of spray: 40ml/h",
+                "Working current: 400mA",
+                "Water tank capacity: 220ml",
+                "Using time: 5-10h",
+                "Power supply: USB",
+                "Applicable area: 10-20 square meters",
+                "Noise level: less than 36dB"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508604035",
+            "mainSellerId": "",
+            "sellerName": "Inter Active",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/388ebd0f5a3c27242aa31e99e2ff46ab.jpg",
+                    "productUrl": "/products/large-air-diffuser-usb-capacity-small-portable-egg-humidifier-for-home-bedroom-i185819677-s1131709077.html",
+                    "sku": "185819677_BD",
+                    "skuId": "1131709077"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                359,
+                362
+            ],
+            "clickTrace": "query:;nid:185819677;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:185819677_BD;price:365.00;client:desktop;supplier_id:700508604035;asc_category_id:362;item_id:185819677;sku_id:1131709077;shop_id:171189",
+            "addToCartSkus": [
+                {
+                    "sku": "185819677_BD-1131709077",
+                    "skuId": "1131709077",
+                    "count": 0
+                }
+            ],
+            "itemId": "185819677",
+            "skuId": "1131709077",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Portable mini rechargeable travel fan Eternal classics SS-2 cooling fan for indoor and outdoor use",
+            "nid": "235043255",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "235043255",
+                "scene_pre": "search",
+                "current_price": "265.00",
+                "x_sku_ids": "1178074834",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "235043255"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ss-2-i235043255-s1178074834.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7b6204d3358d267fb97135d367d3825d.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "265.00",
+            "promotionId": "null",
+            "priceShow": "৳ 265",
+            "discount": "-12%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "235043255_BD-1178074834",
+            "sku": "235043255_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508793212",
+            "mainSellerId": "",
+            "sellerName": "Blues Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7b6204d3358d267fb97135d367d3825d.jpg",
+                    "productUrl": "/products/ss-2-i235043255-s1178074834.html",
+                    "sku": "235043255_BD",
+                    "skuId": "1178074834"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000406
+            ],
+            "clickTrace": "query:;nid:235043255;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:235043255_BD;price:265.00;client:desktop;supplier_id:700508793212;asc_category_id:20000406;item_id:235043255;sku_id:1178074834;shop_id:185384",
+            "addToCartSkus": [
+                {
+                    "sku": "235043255_BD-1178074834",
+                    "skuId": "1178074834",
+                    "count": 0
+                }
+            ],
+            "itemId": "235043255",
+            "skuId": "1178074834",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mini Fan USB Rechargable Desk and Portable FAN",
+            "nid": "230766383",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230766383",
+                "scene_pre": "search",
+                "current_price": "190",
+                "x_sku_ids": "1174126091",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "230766383"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-i230766383-s1174126091.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/80392884db1fea35c10107b77f1c8cd9.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "190",
+            "promotionId": "null",
+            "priceShow": "৳ 190",
+            "discount": "-53%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230766383_BD-1174126091",
+            "sku": "230766383_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509741091",
+            "mainSellerId": "",
+            "sellerName": "NAHIDA ENTERPRISE",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/80392884db1fea35c10107b77f1c8cd9.jpg",
+                    "productUrl": "/products/usb-i230766383-s1174126091.html",
+                    "sku": "230766383_BD",
+                    "skuId": "1174126091"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/783f0b9f6bac89202f86c5ee7355e635.jpg",
+                    "productUrl": "/products/usb-i230766383-s1174126092.html",
+                    "sku": "230766383_BD",
+                    "skuId": "1174126092"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4877c89514265d4e5b8448d1196e0e17.jpg",
+                    "productUrl": "/products/usb-i230766383-s1174126094.html",
+                    "sku": "230766383_BD",
+                    "skuId": "1174126094"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/73b14e75b6ebd3a1f96be1077c8b6c44.jpg",
+                    "productUrl": "/products/usb-i230766383-s1174126096.html",
+                    "sku": "230766383_BD",
+                    "skuId": "1174126096"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/786351ae97a8e09453ebcd4362810c9f.jpg",
+                    "productUrl": "/products/usb-i230766383-s1174126095.html",
+                    "sku": "230766383_BD",
+                    "skuId": "1174126095"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a04f1f3917c8c6e242c9c92f56e35f0f.jpg",
+                    "productUrl": "/products/usb-i230766383-s1174126093.html",
+                    "sku": "230766383_BD",
+                    "skuId": "1174126093"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000406
+            ],
+            "clickTrace": "query:;nid:230766383;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:230766383_BD;price:190;client:desktop;supplier_id:700509741091;asc_category_id:20000406;item_id:230766383;sku_id:1174126091;shop_id:217509",
+            "addToCartSkus": [
+                {
+                    "sku": "230766383_BD-1174126091",
+                    "skuId": "1174126091",
+                    "count": 0
+                }
+            ],
+            "itemId": "230766383",
+            "skuId": "1174126091",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Rechargeable Li-ion Battery Mini USB Fan - Black",
+            "nid": "607793",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "868238",
+                "scene_pre": "search",
+                "current_price": "249.00",
+                "x_sku_ids": "3565305",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "868238"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-i868238-s3565305.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/49cb2c516332e8add3e2fc4e4f5e24c3.jpg",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "249.00",
+            "promotionId": "null",
+            "priceShow": "৳ 249",
+            "discount": "-67%",
+            "ratingScore": "4.15789",
+            "review": "19",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "GA274HL0NOF6WNAFAMZ-884131",
+            "sku": "GA274HL0NOF6WNAFAMZ",
+            "skus": [],
+            "description": [
+                "Mini portable style and USB charging",
+                "Convenient to carry",
+                "high-capacity lithium battery",
+                "Low power consumption",
+                "Energy saving"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4026",
+            "mainSellerId": "",
+            "sellerName": "Gadget Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/49cb2c516332e8add3e2fc4e4f5e24c3.jpg",
+                    "productUrl": "/products/usb-i868238-s3565305.html",
+                    "sku": "GA274HL0NOF6WNAFAMZ",
+                    "skuId": "3565305"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                363
+            ],
+            "clickTrace": "query:;nid:607793;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:GA274HL0NOF6WNAFAMZ;price:249.00;client:desktop;supplier_id:4026;asc_category_id:363;item_id:868238;sku_id:3565305;shop_id:4156",
+            "addToCartSkus": [
+                {
+                    "sku": "GA274HL0NOF6WNAFAMZ-884131",
+                    "skuId": "3565305",
+                    "count": 0
+                }
+            ],
+            "itemId": "868238",
+            "skuId": "3565305",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cute Micro USB Rechargeable Mini Pocket Fan",
+            "nid": "235893263",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "235893263",
+                "scene_pre": "search",
+                "current_price": "320.00",
+                "x_sku_ids": "1179223164",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "235893263"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-i235893263-s1179223164.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a354cc29a71c070112f10fdde5321f43.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "320.00",
+            "promotionId": "null",
+            "priceShow": "৳ 320",
+            "discount": "-36%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "235893263_BD-1179223164",
+            "sku": "235893263_BD",
+            "skus": [],
+            "description": [
+                "Cute Design",
+                "Lite weight",
+                "Micro USB charging s",
+                "3 level speed control",
+                "Cool wind",
+                "External stand"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700512048250",
+            "mainSellerId": "",
+            "sellerName": "Moho",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a354cc29a71c070112f10fdde5321f43.jpg",
+                    "productUrl": "/products/usb-i235893263-s1179223164.html",
+                    "sku": "235893263_BD",
+                    "skuId": "1179223164"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ca2ca39efd6e6e759df1a62174e8eb6e.jpg",
+                    "productUrl": "/products/usb-i235893263-s1179223165.html",
+                    "sku": "235893263_BD",
+                    "skuId": "1179223165"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000406
+            ],
+            "clickTrace": "query:;nid:235893263;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:235893263_BD;price:320.00;client:desktop;supplier_id:700512048250;asc_category_id:20000406;item_id:235893263;sku_id:1179223164;shop_id:239324",
+            "addToCartSkus": [
+                {
+                    "sku": "235893263_BD-1179223164",
+                    "skuId": "1179223164",
+                    "count": 0
+                }
+            ],
+            "itemId": "235893263",
+            "skuId": "1179223164",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "water purifier tap ,,,,,update",
+            "nid": "182455063",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "182455063",
+                "scene_pre": "search",
+                "current_price": "140.00",
+                "x_sku_ids": "1126258718",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "182455063"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i182455063-s1126258718.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e36fea3bd4333faac62cbc7680e4cbce.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "140.00",
+            "promotionId": "null",
+            "priceShow": "৳ 140",
+            "discount": "-7%",
+            "ratingScore": "4.54545",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "182455063_BD-1126258718",
+            "sku": "182455063_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504941160",
+            "mainSellerId": "",
+            "sellerName": "New Offer",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e36fea3bd4333faac62cbc7680e4cbce.jpg",
+                    "productUrl": "/products/-i182455063-s1126258718.html",
+                    "sku": "182455063_BD",
+                    "skuId": "1126258718"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                359,
+                360
+            ],
+            "clickTrace": "query:;nid:182455063;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:182455063_BD;price:140.00;client:desktop;supplier_id:700504941160;asc_category_id:360;item_id:182455063;sku_id:1126258718;shop_id:52868",
+            "addToCartSkus": [
+                {
+                    "sku": "182455063_BD-1126258718",
+                    "skuId": "1126258718",
+                    "count": 0
+                }
+            ],
+            "itemId": "182455063",
+            "skuId": "1126258718",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "USB Hand Free Personal Neck Band Portable Fan - Black",
+            "nid": "132102342",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132102342",
+                "scene_pre": "search",
+                "current_price": "299.00",
+                "x_sku_ids": "1052824717",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "132102342"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-i132102342-s1052824717.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/29ef6c5d8ff8c1b0a99eadca76965d57.jpg",
+            "originalPrice": "999.00",
+            "originalPriceShow": "৳ 999",
+            "price": "299.00",
+            "promotionId": "null",
+            "priceShow": "৳ 299",
+            "discount": "-70%",
+            "ratingScore": "4.28571",
+            "review": "84",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132102342_BD-1052824717",
+            "sku": "132102342_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505061048",
+            "mainSellerId": "",
+            "sellerName": "Sopner Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/29ef6c5d8ff8c1b0a99eadca76965d57.jpg",
+                    "productUrl": "/products/usb-i132102342-s1052824717.html",
+                    "sku": "132102342_BD",
+                    "skuId": "1052824717"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000407
+            ],
+            "clickTrace": "query:;nid:132102342;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:132102342_BD;price:299.00;client:desktop;supplier_id:700505061048;asc_category_id:20000407;item_id:132102342;sku_id:1052824717;shop_id:54113",
+            "addToCartSkus": [
+                {
+                    "sku": "132102342_BD-1052824717",
+                    "skuId": "1052824717",
+                    "count": 0
+                }
+            ],
+            "itemId": "132102342",
+            "skuId": "1052824717",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mini portable nick USB rechargeable Fan",
+            "nid": "180590022",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "180590022",
+                "scene_pre": "search",
+                "current_price": "314",
+                "x_sku_ids": "1121848419",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "180590022"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-i180590022-s1121848419.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/78cefe0d431dce7a05eccaa04cc34317.jpg",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "314",
+            "promotionId": "null",
+            "priceShow": "৳ 314",
+            "discount": "-58%",
+            "ratingScore": "5",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "180590022_BD-1121848419",
+            "sku": "180590022_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508313285",
+            "mainSellerId": "",
+            "sellerName": "SHOPNO PURON EXPRESS",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/78cefe0d431dce7a05eccaa04cc34317.jpg",
+                    "productUrl": "/products/usb-i180590022-s1121848419.html",
+                    "sku": "180590022_BD",
+                    "skuId": "1121848419"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000406
+            ],
+            "clickTrace": "query:;nid:180590022;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:180590022_BD;price:314;client:desktop;supplier_id:700508313285;asc_category_id:20000406;item_id:180590022;sku_id:1121848419;shop_id:143594",
+            "addToCartSkus": [
+                {
+                    "sku": "180590022_BD-1121848419",
+                    "skuId": "1121848419",
+                    "count": 0
+                }
+            ],
+            "itemId": "180590022",
+            "skuId": "1121848419",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Weja Nano Facial Steamer 30ml- Portable Cold Mist Sprayer Humidifier for Home Sauna SPA System-USB Rechargeable MR408",
+            "nid": "182606991",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "182606991",
+                "scene_pre": "search",
+                "current_price": "249",
+                "x_sku_ids": "1126530364",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "182606991"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-i182606991-s1126530364.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/786658f4c176f3ae10e885598bedade2.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "249",
+            "promotionId": "null",
+            "priceShow": "৳ 249",
+            "discount": "-55%",
+            "ratingScore": "4.2",
+            "review": "10",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "182606991_BD-1126530364",
+            "sku": "182606991_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508094062",
+            "mainSellerId": "",
+            "sellerName": "RK SHOP BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/786658f4c176f3ae10e885598bedade2.jpg",
+                    "productUrl": "/products/usb-i182606991-s1126530364.html",
+                    "sku": "182606991_BD",
+                    "skuId": "1126530364"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                359,
+                362
+            ],
+            "clickTrace": "query:;nid:182606991;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:182606991_BD;price:249;client:desktop;supplier_id:700508094062;asc_category_id:362;item_id:182606991;sku_id:1126530364;shop_id:125621",
+            "addToCartSkus": [
+                {
+                    "sku": "182606991_BD-1126530364",
+                    "skuId": "1126530364",
+                    "count": 0
+                }
+            ],
+            "itemId": "182606991",
+            "skuId": "1126530364",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Car Humidifier Creative Gift Moisturizer Mini Aroma Diffuser Humidifier Desktop Office Home Spray - 260ml",
+            "nid": "221449225",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "221449225",
+                "scene_pre": "search",
+                "current_price": "349.00",
+                "x_sku_ids": "1168243445",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "221449225"
+            },
+            "productUrl": "//www.daraz.com.bd/products/car-humidifier-creative-gift-moisturizer-mini-aroma-diffuser-humidifier-desktop-office-home-spray-260ml-i221449225-s1168243445.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/cc8472baf48d06b1a811291785e3de60.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "349.00",
+            "promotionId": "null",
+            "priceShow": "৳ 349",
+            "discount": "-37%",
+            "ratingScore": "5",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "221449225_BD-1168243445",
+            "sku": "221449225_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508604035",
+            "mainSellerId": "",
+            "sellerName": "Inter Active",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cc8472baf48d06b1a811291785e3de60.jpg",
+                    "productUrl": "/products/car-humidifier-creative-gift-moisturizer-mini-aroma-diffuser-humidifier-desktop-office-home-spray-260ml-i221449225-s1168243445.html",
+                    "sku": "221449225_BD",
+                    "skuId": "1168243445"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                359,
+                362
+            ],
+            "clickTrace": "query:;nid:221449225;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:221449225_BD;price:349.00;client:desktop;supplier_id:700508604035;asc_category_id:362;item_id:221449225;sku_id:1168243445;shop_id:171189",
+            "addToCartSkus": [
+                {
+                    "sku": "221449225_BD-1168243445",
+                    "skuId": "1168243445",
+                    "count": 0
+                }
+            ],
+            "itemId": "221449225",
+            "skuId": "1168243445",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "5G Electric Water Heater 1000watt",
+            "nid": "210312046",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "210312046",
+                "scene_pre": "search",
+                "current_price": "233",
+                "x_sku_ids": "1160390440",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "210312046"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1000-i210312046-s1160390440.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c6b13f1f9c5a4c51bbaf1ac31acbf11f.png",
+            "originalPrice": "320.00",
+            "originalPriceShow": "৳ 320",
+            "price": "233",
+            "promotionId": "null",
+            "priceShow": "৳ 233",
+            "discount": "-27%",
+            "ratingScore": "4.85294",
+            "review": "34",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "210312046_BD-1160390440",
+            "sku": "210312046_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507491233",
+            "mainSellerId": "",
+            "sellerName": "Malek Tradings",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c6b13f1f9c5a4c51bbaf1ac31acbf11f.png",
+                    "productUrl": "/products/1000-i210312046-s1160390440.html",
+                    "sku": "210312046_BD",
+                    "skuId": "1160390440"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                371
+            ],
+            "clickTrace": "query:;nid:210312046;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:210312046_BD;price:233;client:desktop;supplier_id:700507491233;asc_category_id:371;item_id:210312046;sku_id:1160390440;shop_id:97353",
+            "addToCartSkus": [
+                {
+                    "sku": "210312046_BD-1160390440",
+                    "skuId": "1160390440",
+                    "count": 0
+                }
+            ],
+            "itemId": "210312046",
+            "skuId": "1160390440",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "High Speed Table Fan-SONY/JONY",
+            "nid": "102566686",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "102566686",
+                "scene_pre": "search",
+                "current_price": "630.00",
+                "x_sku_ids": "1016814367",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "102566686"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i102566686-s1016814367.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/649de000a4582a376277410c9f0996f1.jpg",
+            "originalPrice": "900.00",
+            "originalPriceShow": "৳ 900",
+            "price": "630.00",
+            "promotionId": "null",
+            "priceShow": "৳ 630",
+            "discount": "-30%",
+            "ratingScore": "4.17797",
+            "review": "118",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "102566686_BD-1016814367",
+            "sku": "102566686_BD",
+            "skus": [],
+            "description": [
+                "Hi-speed mini fan",
+                "Flexible in any position",
+                "Hanging possible",
+                "Wall fitting possible",
+                "High low options"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1009717",
+            "mainSellerId": "",
+            "sellerName": "IT INTERNATIONAL",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/649de000a4582a376277410c9f0996f1.jpg",
+                    "productUrl": "/products/-i102566686-s1016814367.html",
+                    "sku": "102566686_BD",
+                    "skuId": "1016814367"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000405
+            ],
+            "clickTrace": "query:;nid:102566686;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:102566686_BD;price:630.00;client:desktop;supplier_id:1009717;asc_category_id:20000405;item_id:102566686;sku_id:1016814367;shop_id:15972",
+            "addToCartSkus": [
+                {
+                    "sku": "102566686_BD-1016814367",
+                    "skuId": "1016814367",
+                    "count": 0
+                }
+            ],
+            "itemId": "102566686",
+            "skuId": "1016814367",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Instant Thankless Digital Electric Hot Water Tap for any wall Mount with led Display",
+            "nid": "156112893",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "156112893",
+                "scene_pre": "search",
+                "current_price": "1470",
+                "x_sku_ids": "1085550641",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "156112893"
+            },
+            "productUrl": "//www.daraz.com.bd/products/led-i156112893-s1085550641.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/37a200e1521a9c2c3bf140216d062ea4.jpg",
+            "originalPrice": "2500.00",
+            "originalPriceShow": "৳ 2,500",
+            "price": "1470",
+            "promotionId": "null",
+            "priceShow": "৳ 1,470",
+            "discount": "-41%",
+            "ratingScore": "4.60656",
+            "review": "61",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "156112893_BD-1085550641",
+            "sku": "156112893_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1011088",
+            "mainSellerId": "",
+            "sellerName": "Bag House BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/37a200e1521a9c2c3bf140216d062ea4.jpg",
+                    "productUrl": "/products/led-i156112893-s1085550641.html",
+                    "sku": "156112893_BD",
+                    "skuId": "1085550641"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                371
+            ],
+            "clickTrace": "query:;nid:156112893;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:156112893_BD;price:1470;client:desktop;supplier_id:1011088;asc_category_id:371;item_id:156112893;sku_id:1085550641;shop_id:17290",
+            "addToCartSkus": [
+                {
+                    "sku": "156112893_BD-1085550641",
+                    "skuId": "1085550641",
+                    "count": 0
+                }
+            ],
+            "itemId": "156112893",
+            "skuId": "1085550641",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Electric Hot Hand Warmer Water Bag",
+            "nid": "125239143",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "125239143",
+                "scene_pre": "search",
+                "current_price": "249.00",
+                "x_sku_ids": "1045411101",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "125239143"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i125239143-s1045411101.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9d9f9fd28d2e7738c150d8ac14a13705.jpg",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "249.00",
+            "promotionId": "null",
+            "priceShow": "৳ 249",
+            "discount": "-67%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "125239143_BD-1045411101",
+            "sku": "125239143_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1011425",
+            "mainSellerId": "",
+            "sellerName": "Glory Tech",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9d9f9fd28d2e7738c150d8ac14a13705.jpg",
+                    "productUrl": "/products/-i125239143-s1045411101.html",
+                    "sku": "125239143_BD",
+                    "skuId": "1045411101"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                371
+            ],
+            "clickTrace": "query:;nid:125239143;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:125239143_BD;price:249.00;client:desktop;supplier_id:1011425;asc_category_id:371;item_id:125239143;sku_id:1045411101;shop_id:17635",
+            "addToCartSkus": [
+                {
+                    "sku": "125239143_BD-1045411101",
+                    "skuId": "1045411101",
+                    "count": 0
+                }
+            ],
+            "itemId": "125239143",
+            "skuId": "1045411101",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Royal Gold Water Heater 1000W",
+            "nid": "162418559",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "162418559",
+                "scene_pre": "search",
+                "current_price": "137.00",
+                "x_sku_ids": "1094510118",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "162418559"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1000w-i162418559-s1094510118.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8de75915632694a0588fc3cce37cdf6f.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "137.00",
+            "promotionId": "null",
+            "priceShow": "৳ 137",
+            "discount": "-54%",
+            "ratingScore": "4.56667",
+            "review": "30",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "162418559_BD-1094510118",
+            "sku": "162418559_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507803121",
+            "mainSellerId": "",
+            "sellerName": "Boier Duniya",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8de75915632694a0588fc3cce37cdf6f.jpg",
+                    "productUrl": "/products/1000w-i162418559-s1094510118.html",
+                    "sku": "162418559_BD",
+                    "skuId": "1094510118"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                371
+            ],
+            "clickTrace": "query:;nid:162418559;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:162418559_BD;price:137.00;client:desktop;supplier_id:700507803121;asc_category_id:371;item_id:162418559;sku_id:1094510118;shop_id:113891",
+            "addToCartSkus": [
+                {
+                    "sku": "162418559_BD-1094510118",
+                    "skuId": "1094510118",
+                    "count": 0
+                }
+            ],
+            "itemId": "162418559",
+            "skuId": "1094510118",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mini Handheld Fan Personal Portable Cooling Fan Battery Operated Fan Sponge Blade Electric Fan for Home Outdoor and Travel",
+            "nid": "236279719",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "236279719",
+                "scene_pre": "search",
+                "current_price": "120.00",
+                "x_sku_ids": "1179596062",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "236279719"
+            },
+            "productUrl": "//www.daraz.com.bd/products/mini-handheld-fan-personal-portable-cooling-fan-battery-operated-fan-sponge-blade-electric-fan-for-home-outdoor-and-travel-i236279719-s1179596062.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d4e170c5639a3a545d902cf3aa7f8c17.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "120.00",
+            "promotionId": "null",
+            "priceShow": "৳ 120",
+            "discount": "-40%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "236279719_BD-1179596062",
+            "sku": "236279719_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506423273",
+            "mainSellerId": "",
+            "sellerName": "New_Style",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d4e170c5639a3a545d902cf3aa7f8c17.jpg",
+                    "productUrl": "/products/mini-handheld-fan-personal-portable-cooling-fan-battery-operated-fan-sponge-blade-electric-fan-for-home-outdoor-and-travel-i236279719-s1179596062.html",
+                    "sku": "236279719_BD",
+                    "skuId": "1179596062"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000406
+            ],
+            "clickTrace": "query:;nid:236279719;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:236279719_BD;price:120.00;client:desktop;supplier_id:700506423273;asc_category_id:20000406;item_id:236279719;sku_id:1179596062;shop_id:77008",
+            "addToCartSkus": [
+                {
+                    "sku": "236279719_BD-1179596062",
+                    "skuId": "1179596062",
+                    "count": 0
+                }
+            ],
+            "itemId": "236279719",
+            "skuId": "1179596062",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "USB Colorful Humidifier Mini Portable Usable In Car Home Cup Humidifier",
+            "nid": "231664151",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "231664151",
+                "scene_pre": "search",
+                "current_price": "550.00",
+                "x_sku_ids": "1174786599",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "231664151"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-i231664151-s1174786599.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/cb017534291e591c2c62beee484dd269.jpg",
+            "originalPrice": "999.00",
+            "originalPriceShow": "৳ 999",
+            "price": "550.00",
+            "promotionId": "null",
+            "priceShow": "৳ 550",
+            "discount": "-45%",
+            "ratingScore": "4.85714",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "231664151_BD-1174786599",
+            "sku": "231664151_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1009443",
+            "mainSellerId": "",
+            "sellerName": "AmazedON",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cb017534291e591c2c62beee484dd269.jpg",
+                    "productUrl": "/products/usb-i231664151-s1174786599.html",
+                    "sku": "231664151_BD",
+                    "skuId": "1174786599"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3c18b3b65a45413df5741d3f80830f37.jpg",
+                    "productUrl": "/products/usb-i231664151-s1174972772.html",
+                    "sku": "231664151_BD",
+                    "skuId": "1174972772"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                359,
+                362
+            ],
+            "clickTrace": "query:;nid:231664151;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:231664151_BD;price:550.00;client:desktop;supplier_id:1009443;asc_category_id:362;item_id:231664151;sku_id:1174786599;shop_id:15787",
+            "addToCartSkus": [
+                {
+                    "sku": "231664151_BD-1174786599",
+                    "skuId": "1174786599",
+                    "count": 0
+                }
+            ],
+            "itemId": "231664151",
+            "skuId": "1174786599",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Lithium battery cooling USB Charging portable handheld electric hand rechargeable mini fans",
+            "nid": "140700631",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "140700631",
+                "scene_pre": "search",
+                "current_price": "233.00",
+                "x_sku_ids": "1064234639",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "140700631"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-i140700631-s1064234639.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/0dc056b60f84204e0d9e99fcc8713825.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "233.00",
+            "promotionId": "null",
+            "priceShow": "৳ 233",
+            "discount": "-53%",
+            "ratingScore": "4.40708",
+            "review": "113",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "140700631_BD-1064234639",
+            "sku": "140700631_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506423379",
+            "mainSellerId": "",
+            "sellerName": "Rayeef (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/0dc056b60f84204e0d9e99fcc8713825.jpg",
+                    "productUrl": "/products/usb-i140700631-s1064234639.html",
+                    "sku": "140700631_BD",
+                    "skuId": "1064234639"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000406
+            ],
+            "clickTrace": "query:;nid:140700631;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:140700631_BD;price:233.00;client:desktop;supplier_id:700506423379;asc_category_id:20000406;item_id:140700631;sku_id:1064234639;shop_id:78330",
+            "addToCartSkus": [
+                {
+                    "sku": "140700631_BD-1064234639",
+                    "skuId": "1064234639",
+                    "count": 0
+                }
+            ],
+            "itemId": "140700631",
+            "skuId": "1064234639",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "USB Portable Rechargeable neck Fan with 7 colour LED light",
+            "nid": "179494098",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "179494098",
+                "scene_pre": "search",
+                "current_price": "441",
+                "x_sku_ids": "1120599166",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "179494098"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-portable-rechargeable-neck-fan-with-7-colour-led-light-i179494098-s1120599166.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/6559fb77dece2b29e4153e5f5e68ccb4.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "441",
+            "promotionId": "null",
+            "priceShow": "৳ 441",
+            "discount": "-32%",
+            "ratingScore": "4.74194",
+            "review": "93",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "179494098_BD-1120599166",
+            "sku": "179494098_BD",
+            "skus": [],
+            "description": [
+                "Quick Details",
+                "Place of Origin: Guangdong, China",
+                "Brand Name: OEM",
+                "Model Number: NF-01",
+                "Voltage (V): 5.0",
+                "After-sales Service Provided: Return and Replacement",
+                "Type:  Air Cooling Fan",
+                "Material: plastic",
+                "Installation: Table",
+                "Certification: ce, EMC, RoHS, UL",
+                "Application: Car, Hotel, Household",
+                "Power Source: usb, Battery, Battery",
+                "Product name: hand free neck hanging mini usb fan",
+                "Feature: Neck fan, hand free, portable, foldable",
+                "Function: Heating, Vibrating, visible",
+                "Power: 5W",
+                "Battery: 2000mAh",
+                "Charging time: About 4.5hrs",
+                "working time: 2.5-4.5hrs",
+                "weight: 155g",
+                "Size: 250*190*33mm"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508268799",
+            "mainSellerId": "",
+            "sellerName": "Avelias Life Style",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/6559fb77dece2b29e4153e5f5e68ccb4.jpg",
+                    "productUrl": "/products/usb-portable-rechargeable-neck-fan-with-7-colour-led-light-i179494098-s1120599166.html",
+                    "sku": "179494098_BD",
+                    "skuId": "1120599166"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/f5133a42d6addaa78404d875497667ed.jpg",
+                    "productUrl": "/products/usb-portable-rechargeable-neck-fan-with-7-colour-led-light-i179494098-s1120599167.html",
+                    "sku": "179494098_BD",
+                    "skuId": "1120599167"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/169d577aaaaf8a1f4ebe3c29d9ccc3e3.jpg",
+                    "productUrl": "/products/usb-portable-rechargeable-neck-fan-with-7-colour-led-light-i179494098-s1120599169.html",
+                    "sku": "179494098_BD",
+                    "skuId": "1120599169"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/0d53373e34a3fe533f3a253114a2c3b0.jpg",
+                    "productUrl": "/products/usb-portable-rechargeable-neck-fan-with-7-colour-led-light-i179494098-s1120599170.html",
+                    "sku": "179494098_BD",
+                    "skuId": "1120599170"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000407
+            ],
+            "clickTrace": "query:;nid:179494098;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:179494098_BD;price:441;client:desktop;supplier_id:700508268799;asc_category_id:20000407;item_id:179494098;sku_id:1120599166;shop_id:140629",
+            "addToCartSkus": [
+                {
+                    "sku": "179494098_BD-1120599166",
+                    "skuId": "1120599166",
+                    "count": 0
+                }
+            ],
+            "itemId": "179494098",
+            "skuId": "1120599166",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "USB Fan Flexible Portable Mini Fan And USB LED Light Lamp For Power Bank & Notebook&Computer Summer Gadget",
+            "nid": "202917243",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "202917243",
+                "scene_pre": "search",
+                "current_price": "79.00",
+                "x_sku_ids": "1150735849",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "202917243"
+            },
+            "productUrl": "//www.daraz.com.bd/products/usb-usb-led-i202917243-s1150735849.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/10b79d4d301d5331e77ff282fb8d6d18.jpg",
+            "originalPrice": "80.00",
+            "originalPriceShow": "৳ 80",
+            "price": "79.00",
+            "promotionId": "null",
+            "priceShow": "৳ 79",
+            "discount": "-1%",
+            "ratingScore": "4.85714",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "202917243_BD-1150735849",
+            "sku": "202917243_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508379449",
+            "mainSellerId": "",
+            "sellerName": "SAO DOT",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/10b79d4d301d5331e77ff282fb8d6d18.jpg",
+                    "productUrl": "/products/usb-usb-led-i202917243-s1150735849.html",
+                    "sku": "202917243_BD",
+                    "skuId": "1150735849"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000407
+            ],
+            "clickTrace": "query:;nid:202917243;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:202917243_BD;price:79.00;client:desktop;supplier_id:700508379449;asc_category_id:20000407;item_id:202917243;sku_id:1150735849;shop_id:153747",
+            "addToCartSkus": [
+                {
+                    "sku": "202917243_BD-1150735849",
+                    "skuId": "1150735849",
+                    "count": 0
+                }
+            ],
+            "itemId": "202917243",
+            "skuId": "1150735849",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Super Star Exhaust Fan- 8″",
+            "nid": "184584536",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184584536",
+                "scene_pre": "search",
+                "current_price": "900",
+                "x_sku_ids": "1129691706",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "184584536"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i184584536-s1129691706.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/0566a714ffa55fda5fa9b386b0151099.jpg",
+            "originalPrice": "1050.00",
+            "originalPriceShow": "৳ 1,050",
+            "price": "900",
+            "promotionId": "null",
+            "priceShow": "৳ 900",
+            "discount": "-14%",
+            "ratingScore": "4.8",
+            "review": "10",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184584536_BD-1129691706",
+            "sku": "184584536_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "127109",
+            "brandName": "Super Star",
+            "sellerId": "1973",
+            "mainSellerId": "",
+            "sellerName": "Super Star Group Limited (SSG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/0566a714ffa55fda5fa9b386b0151099.jpg",
+                    "productUrl": "/products/-i184584536-s1129691706.html",
+                    "sku": "184584536_BD",
+                    "skuId": "1129691706"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                5684
+            ],
+            "clickTrace": "query:;nid:184584536;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:184584536_BD;price:900;client:desktop;supplier_id:1973;asc_category_id:5684;item_id:184584536;sku_id:1129691706;shop_id:2582",
+            "addToCartSkus": [
+                {
+                    "sku": "184584536_BD-1129691706",
+                    "skuId": "1129691706",
+                    "count": 0
+                }
+            ],
+            "itemId": "184584536",
+            "skuId": "1129691706",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Humidifier ultrasonic Mist Maker Plastic Body 12 LED lamp",
+            "nid": "229097184",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "229097184",
+                "scene_pre": "search",
+                "current_price": "620.00",
+                "x_sku_ids": "1172799373",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "229097184"
+            },
+            "productUrl": "//www.daraz.com.bd/products/12-i229097184-s1172799373.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/93b752f0bea5e3cfe264899d52804d6f.jpg",
+            "originalPrice": "880.00",
+            "originalPriceShow": "৳ 880",
+            "price": "620.00",
+            "promotionId": "null",
+            "priceShow": "৳ 620",
+            "discount": "-30%",
+            "ratingScore": "4.875",
+            "review": "8",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "229097184_BD-1172799373",
+            "sku": "229097184_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510092514",
+            "mainSellerId": "",
+            "sellerName": "chinabd",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/93b752f0bea5e3cfe264899d52804d6f.jpg",
+                    "productUrl": "/products/12-i229097184-s1172799373.html",
+                    "sku": "229097184_BD",
+                    "skuId": "1172799373"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                359,
+                362
+            ],
+            "clickTrace": "query:;nid:229097184;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:229097184_BD;price:620.00;client:desktop;supplier_id:700510092514;asc_category_id:362;item_id:229097184;sku_id:1172799373;shop_id:229695",
+            "addToCartSkus": [
+                {
+                    "sku": "229097184_BD-1172799373",
+                    "skuId": "1172799373",
+                    "count": 0
+                }
+            ],
+            "itemId": "229097184",
+            "skuId": "1172799373",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Rechargeable Mini Portable Stylish Fan For Man",
+            "nid": "116094569",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "116094569",
+                "scene_pre": "search",
+                "current_price": "195",
+                "x_sku_ids": "1034950065",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "116094569"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i116094569-s1034950065.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7397a2e4c4210d132a0fd62b7759eb9d.jpg",
+            "originalPrice": "299.00",
+            "originalPriceShow": "৳ 299",
+            "price": "195",
+            "promotionId": "null",
+            "priceShow": "৳ 195",
+            "discount": "-35%",
+            "ratingScore": "4.4",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "116094569_BD-1034950065",
+            "sku": "116094569_BD",
+            "skus": [],
+            "description": [
+                "Mini portable",
+                "Convenient to carry",
+                "1200mAh high-capacity lithium battery",
+                "Low power consumption",
+                "Energy saving",
+                "Output Power MAX: 4W",
+                "Input Voltage: DC 5V",
+                "Output Voltage: DC 5V-9V",
+                "Input Current: 0.5A-1A",
+                "Working Time: Long Time",
+                "Battery Specification: 18650 Li-ion",
+                "Battery Installation: Removable",
+                "Material: ABS",
+                "Dimension: 140 x 105 x 42mm"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1002080",
+            "mainSellerId": "",
+            "sellerName": "24 Gadget",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7397a2e4c4210d132a0fd62b7759eb9d.jpg",
+                    "productUrl": "/products/-i116094569-s1034950065.html",
+                    "sku": "116094569_BD",
+                    "skuId": "1034950065"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                20000402,
+                20000406
+            ],
+            "clickTrace": "query:;nid:116094569;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:116094569_BD;price:195;client:desktop;supplier_id:1002080;asc_category_id:20000406;item_id:116094569;sku_id:1034950065;shop_id:8362",
+            "addToCartSkus": [
+                {
+                    "sku": "116094569_BD-1034950065",
+                    "skuId": "1034950065",
+                    "count": 0
+                }
+            ],
+            "itemId": "116094569",
+            "skuId": "1034950065",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Water Heater China",
+            "nid": "204437897",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "204437897",
+                "scene_pre": "search",
+                "current_price": "103",
+                "x_sku_ids": "1152487563",
+                "SN": "0fb440ecc94f37b3724bd6370a917fec",
+                "x_ad": "1",
+                "x_object_id": "204437897"
+            },
+            "productUrl": "//www.daraz.com.bd/products/water-heater-china-i204437897-s1152487563.html?search=1",
+            "image": "https://bd-live-21.slatic.net/kf/Sb059afef3d644a47ada33e9c91870cd6S.jpg",
+            "originalPrice": "260.00",
+            "originalPriceShow": "৳ 260",
+            "price": "103",
+            "promotionId": "null",
+            "priceShow": "৳ 103",
+            "discount": "-60%",
+            "ratingScore": "4.72",
+            "review": "25",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "204437897_BD-1152487563",
+            "sku": "204437897_BD",
+            "skus": [],
+            "description": [
+                "Water Heater China"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508313266",
+            "mainSellerId": "",
+            "sellerName": "ABD Enterprise",
+            "thumbs": [
+                {
+                    "image": "https://bd-live-21.slatic.net/kf/Sb059afef3d644a47ada33e9c91870cd6S.jpg",
+                    "productUrl": "/products/water-heater-china-i204437897-s1152487563.html",
+                    "sku": "204437897_BD",
+                    "skuId": "1152487563"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                357,
+                371
+            ],
+            "clickTrace": "query:;nid:204437897;src:LazadaMainSrp;rn:0fb440ecc94f37b3724bd6370a917fec;region:bd;sku:204437897_BD;price:103;client:desktop;supplier_id:700508313266;asc_category_id:371;item_id:204437897;sku_id:1152487563;shop_id:143512",
+            "addToCartSkus": [
+                {
+                    "sku": "204437897_BD-1152487563",
+                    "skuId": "1152487563",
+                    "count": 0
+                }
+            ],
+            "itemId": "204437897",
+            "skuId": "1152487563",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/home-appliances/",
+            "title": "Home Appliances"
+        },
+        {
+            "url": "/cooling-heating/",
+            "title": "Cooling & Heating"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/cooling-heating/?referer_rn=0fb440ecc94f37b3724bd6370a917fec&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Cbr%2F%3E%3Ca%20href%3D%22%2Fcooling-heating%2Fsanji%2F%22%20%3ESanji%20Cooling%20Heating%3C%2Fa%3E"
+    },
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/mini-fans/?item_id=151014162&from=onesearch_category_357",
+                "name": "Mini Fans",
+                "image": "//static-01.daraz.com.bd/p/6d6ddab04fd3c64010109c0c62f002c6.jpg",
+                "id": "20000406"
+            },
+            {
+                "url": "/ceiling-fan/?item_id=214797721&from=onesearch_category_357",
+                "name": "Ceiling Fans",
+                "image": "//static-01.daraz.com.bd/p/c76fa0828c60c8892368562b87ea7c4e.jpg",
+                "id": "20000403"
+            },
+            {
+                "url": "/table-fan/?item_id=140204138&from=onesearch_category_357",
+                "name": "Table Fans",
+                "image": "//static-01.daraz.com.bd/p/mdc/0b8f4686d1f9ae91ba87d6da1962bca7.jpg",
+                "id": "20000405"
+            },
+            {
+                "url": "/air-conditioners/?item_id=214668487&from=onesearch_category_357",
+                "name": "Air Conditioners",
+                "image": "//static-01.daraz.com.bd/p/0cd9395af1f67444d5d71b93f585dc3a.jpg",
+                "id": "10000301"
+            },
+            {
+                "url": "/other-fan/?item_id=176318466&from=onesearch_category_357",
+                "name": "Other Fans",
+                "image": "//static-01.daraz.com.bd/p/mdc/1b0706ebb67d07f6cbc3fe6da96bace4.jpg",
+                "id": "20000407"
+            },
+            {
+                "url": "/portable-ac/?item_id=158994132&from=onesearch_category_357",
+                "name": "Air Coolers",
+                "image": "//static-01.daraz.com.bd/p/577a0bc8224853366b8f3f26af324443.jpg",
+                "id": "10000303"
+            },
+            {
+                "url": "/air-purifiers-humidifiers/?item_id=100704208&from=onesearch_category_357",
+                "name": "Humidifiers",
+                "image": "//static-01.daraz.com.bd/p/mdc/17d0c9bf074cf94459ef9f640fdcec9e.jpg",
+                "id": "362"
+            },
+            {
+                "url": "/hot-water-systems/?item_id=160038779&from=onesearch_category_357",
+                "name": "Water Heaters",
+                "image": "//static-01.daraz.com.bd/p/4baa7e082e8d526f18d94aba8b3fd75b.jpg",
+                "id": "371"
+            },
+            {
+                "url": "/shop-exhaust-fans/?item_id=223995511&from=onesearch_category_357",
+                "name": "Exhaust Fans",
+                "image": "//static-01.daraz.com.bd/p/387b41e7d25b599e7659c4cff86870c8.jpg",
+                "id": "5684"
+            },
+            {
+                "url": "/stand-fan/?item_id=183023983&from=onesearch_category_357",
+                "name": "Stand Fans",
+                "image": "//static-01.daraz.com.bd/p/mdc/a985fa657d554a58c9925386ad96bf35.jpg",
+                "id": "20000404"
+            },
+            {
+                "url": "/heaters/?item_id=167926612&from=onesearch_category_357",
+                "name": "Heaters",
+                "image": "//static-01.daraz.com.bd/p/ad9719f28cedfc691b1bf4aac2f086d9.png",
+                "id": "370"
+            },
+            {
+                "url": "/air-purifiers/?item_id=182455063&from=onesearch_category_357",
+                "name": "Air Purifiers",
+                "image": "//static-01.daraz.com.bd/p/e36fea3bd4333faac62cbc7680e4cbce.jpg",
+                "id": "360"
+            },
+            {
+                "url": "/dehumidifiers/?item_id=202503557&from=onesearch_category_357",
+                "name": "Dehumidifiers",
+                "image": "//static-01.daraz.com.bd/p/b679f11d188d097a9eda6f00a4be234d.jpg",
+                "id": "361"
+            },
+            {
+                "url": "/temporary-air-curtain/?item_id=858128&from=onesearch_category_357",
+                "name": "Air Curtain",
+                "image": "//static-01.daraz.com.bd/p/8369b25f9bef14e8a28f4010882f1099.jpg",
+                "id": "10000304"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_357"
+        },
+        "title": "",
+        "bizId": "onesearch_category_357",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "57029 items found in {$0}",
+        "title": "Cooling & Heating",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Cooling & Heating"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Cooling & Heating",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "0fb440ecc94f37b3724bd6370a917fec",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "357",
+            "category": "357"
+        },
+        "categoryRegionalKey": "050100000000",
+        "mainCategoryRegionalKey": "050000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "কুলিং এবং হিটিং at Best Price | 20% Off on Daraz | Buy Online",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Home Appliances,Cooling & Heating",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "050100000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=357&_p_asc_cateid=357",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "cooling-heating",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "0fb440ecc94f37b3724bd6370a917fec",
+                "resultNr": 57029,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1149835060",
+                "1051784010",
+                "1148476183"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "357",
+            "category": "357"
+        }
+    }
+}

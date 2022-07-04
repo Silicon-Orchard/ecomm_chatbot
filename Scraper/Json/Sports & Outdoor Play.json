@@ -1,0 +1,3566 @@
+{
+    "listItems": [
+        {
+            "name": "Intex Bath Tub Pumper_ SCBD",
+            "nid": "168956074",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168956074",
+                "scene_pre": "search",
+                "current_price": "150.00",
+                "x_sku_ids": "1103242629",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "168956074"
+            },
+            "productUrl": "//www.daraz.com.bd/products/intex-_-scbd-i168956074-s1103242629.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/99fbaa1da6cd80231b1686817885bccf.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "150.00",
+            "promotionId": "null",
+            "priceShow": "৳ 150",
+            "discount": "-50%",
+            "ratingScore": "4.48571",
+            "review": "35",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168956074_BD-1103242629",
+            "sku": "168956074_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507683347",
+            "mainSellerId": "",
+            "sellerName": "Sports City BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/99fbaa1da6cd80231b1686817885bccf.jpg",
+                    "productUrl": "/products/intex-_-scbd-i168956074-s1103242629.html",
+                    "sku": "168956074_BD",
+                    "skuId": "1103242629"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                10002726,
+                10002781
+            ],
+            "clickTrace": "query:;nid:168956074;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:168956074_BD;price:150.00;client:desktop;supplier_id:700507683347;asc_category_id:10002781;item_id:168956074;sku_id:1103242629;shop_id:105825",
+            "addToCartSkus": [
+                {
+                    "sku": "168956074_BD-1103242629",
+                    "skuId": "1103242629",
+                    "count": 0
+                }
+            ],
+            "itemId": "168956074",
+            "skuId": "1103242629",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Water Spray Toy for Kids-Pool Play Toy",
+            "nid": "151648963",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "151648963",
+                "scene_pre": "search",
+                "current_price": "75",
+                "x_sku_ids": "1078898458",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "151648963"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i151648963-s1078898458.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/05e2f277fa64721e68c54643da9d13cb.jpg",
+            "originalPrice": "189.00",
+            "originalPriceShow": "৳ 189",
+            "price": "75",
+            "promotionId": "null",
+            "priceShow": "৳ 75",
+            "discount": "-60%",
+            "ratingScore": "4.5",
+            "review": "6",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "151648963_BD-1078898458",
+            "sku": "151648963_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506837102",
+            "mainSellerId": "",
+            "sellerName": "Jadu's Collection",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/05e2f277fa64721e68c54643da9d13cb.jpg",
+                    "productUrl": "/products/-i151648963-s1078898458.html",
+                    "sku": "151648963_BD",
+                    "skuId": "1078898458"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                10002726,
+                10002785
+            ],
+            "clickTrace": "query:;nid:151648963;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:151648963_BD;price:75;client:desktop;supplier_id:700506837102;asc_category_id:10002785;item_id:151648963;sku_id:1078898458;shop_id:85829",
+            "addToCartSkus": [
+                {
+                    "sku": "151648963_BD-1078898458",
+                    "skuId": "1078898458",
+                    "count": 0
+                }
+            ],
+            "itemId": "151648963",
+            "skuId": "1078898458",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Plastic Water Pool Balls - 50pcs - Multi-color",
+            "nid": "125058492",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "125058492",
+                "scene_pre": "search",
+                "current_price": "195",
+                "x_sku_ids": "1045244795",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "125058492"
+            },
+            "productUrl": "//www.daraz.com.bd/products/50-i125058492-s1045244795.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/2f6cc40f80c8260f565a030409297de7.jpg",
+            "originalPrice": "351.00",
+            "originalPriceShow": "৳ 351",
+            "price": "195",
+            "promotionId": "null",
+            "priceShow": "৳ 195",
+            "discount": "-44%",
+            "ratingScore": "4.71739",
+            "review": "46",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "125058492_BD-1045244795",
+            "sku": "125058492_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Ball",
+                "Color: Multi-color",
+                "Material: Plastic",
+                "Play with balls in tent and Pool",
+                "It will not hurt your kids"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1001831",
+            "mainSellerId": "",
+            "sellerName": "Rokomari Fashion House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/2f6cc40f80c8260f565a030409297de7.jpg",
+                    "productUrl": "/products/50-i125058492-s1045244795.html",
+                    "sku": "125058492_BD",
+                    "skuId": "1045244795"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                10002726,
+                10002781
+            ],
+            "clickTrace": "query:;nid:125058492;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:125058492_BD;price:195;client:desktop;supplier_id:1001831;asc_category_id:10002781;item_id:125058492;sku_id:1045244795;shop_id:8107",
+            "addToCartSkus": [
+                {
+                    "sku": "125058492_BD-1045244795",
+                    "skuId": "1045244795",
+                    "count": 0
+                }
+            ],
+            "itemId": "125058492",
+            "skuId": "1045244795",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "BUBBLE MACHINE ELECTRIC TOY SERIES",
+            "nid": "212415594",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "212415594",
+                "scene_pre": "search",
+                "current_price": "282",
+                "x_sku_ids": "1162017484",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "212415594"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i212415594-s1162017484.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e8eead1cc0301048f90aac86a11fe7e0.jpg",
+            "originalPrice": "550.00",
+            "originalPriceShow": "৳ 550",
+            "price": "282",
+            "promotionId": "null",
+            "priceShow": "৳ 282",
+            "discount": "-49%",
+            "ratingScore": "4.47619",
+            "review": "21",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "212415594_BD-1162017484",
+            "sku": "212415594_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1874",
+            "mainSellerId": "",
+            "sellerName": "Super star gift corner",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e8eead1cc0301048f90aac86a11fe7e0.jpg",
+                    "productUrl": "/products/-i212415594-s1162017484.html",
+                    "sku": "212415594_BD",
+                    "skuId": "1162017484"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9245,
+                9264
+            ],
+            "clickTrace": "query:;nid:212415594;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:212415594_BD;price:282;client:desktop;supplier_id:1874;asc_category_id:9264;item_id:212415594;sku_id:1162017484;shop_id:2522",
+            "addToCartSkus": [
+                {
+                    "sku": "212415594_BD-1162017484",
+                    "skuId": "1162017484",
+                    "count": 0
+                }
+            ],
+            "itemId": "212415594",
+            "skuId": "1162017484",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Deformed Fidget Spinner Chain Toys For Children Antistress Hand Spinner Vent Toys Adult Stress Relief Sensory Gyro Gift",
+            "nid": "225490491",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225490491",
+                "scene_pre": "search",
+                "current_price": "135",
+                "x_sku_ids": "1170623460",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "225490491"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i225490491-s1170623460.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/443eb29f087f50551412e3982a644611.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "135",
+            "promotionId": "null",
+            "priceShow": "৳ 135",
+            "discount": "-61%",
+            "ratingScore": "3.91667",
+            "review": "12",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225490491_BD-1170623460",
+            "sku": "225490491_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507488111",
+            "mainSellerId": "",
+            "sellerName": "Nondini Haat",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/443eb29f087f50551412e3982a644611.jpg",
+                    "productUrl": "/products/-i225490491-s1170623460.html",
+                    "sku": "225490491_BD",
+                    "skuId": "1170623460"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                10002728
+            ],
+            "clickTrace": "query:;nid:225490491;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:225490491_BD;price:135;client:desktop;supplier_id:700507488111;asc_category_id:10002728;item_id:225490491;sku_id:1170623460;shop_id:95680",
+            "addToCartSkus": [
+                {
+                    "sku": "225490491_BD-1170623460",
+                    "skuId": "1170623460",
+                    "count": 0
+                }
+            ],
+            "itemId": "225490491",
+            "skuId": "1170623460",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bubble machine, Gatling Bubble Machine 2022 Bubble machine 8-Hole Bubble  Blower Automatic Bubble Maker Electric Bubble machine Bubble Machine Toy for Girls Boys Kids (Black)",
+            "nid": "226813780",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226813780",
+                "scene_pre": "search",
+                "current_price": "256",
+                "x_sku_ids": "1171193198",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "226813780"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2021-8-i226813780-s1171193198.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/cd55880d80a1a35412cade81a3c6a785.png",
+            "originalPrice": "689.00",
+            "originalPriceShow": "৳ 689",
+            "price": "256",
+            "promotionId": "null",
+            "priceShow": "৳ 256",
+            "discount": "-63%",
+            "ratingScore": "3.57143",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226813780_BD-1171193198",
+            "sku": "226813780_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508268460",
+            "mainSellerId": "",
+            "sellerName": "ISFA COLLECTION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cd55880d80a1a35412cade81a3c6a785.png",
+                    "productUrl": "/products/2021-8-i226813780-s1171193198.html",
+                    "sku": "226813780_BD",
+                    "skuId": "1171193198"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9245,
+                9264
+            ],
+            "clickTrace": "query:;nid:226813780;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:226813780_BD;price:256;client:desktop;supplier_id:700508268460;asc_category_id:9264;item_id:226813780;sku_id:1171193198;shop_id:139428",
+            "addToCartSkus": [
+                {
+                    "sku": "226813780_BD-1171193198",
+                    "skuId": "1171193198",
+                    "count": 0
+                }
+            ],
+            "itemId": "226813780",
+            "skuId": "1171193198",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Toy Bullet For Kids - 500 pcs",
+            "nid": "156662901",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "156662901",
+                "scene_pre": "search",
+                "current_price": "95",
+                "x_sku_ids": "1086376539",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "156662901"
+            },
+            "productUrl": "//www.daraz.com.bd/products/500-i156662901-s1086376539.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/856c5058756acd022f097a2f64e0a80d.jpg",
+            "originalPrice": "250.00",
+            "originalPriceShow": "৳ 250",
+            "price": "95",
+            "promotionId": "null",
+            "priceShow": "৳ 95",
+            "discount": "-62%",
+            "ratingScore": "4.60638",
+            "review": "94",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "156662901_BD-1086376539",
+            "sku": "156662901_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "67072",
+            "brandName": "COS",
+            "sellerId": "700506843060",
+            "mainSellerId": "",
+            "sellerName": "COS",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/856c5058756acd022f097a2f64e0a80d.jpg",
+                    "productUrl": "/products/500-i156662901-s1086376539.html",
+                    "sku": "156662901_BD",
+                    "skuId": "1086376539"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9245,
+                9265,
+                9266
+            ],
+            "clickTrace": "query:;nid:156662901;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:156662901_BD;price:95;client:desktop;supplier_id:700506843060;asc_category_id:9266;item_id:156662901;sku_id:1086376539;shop_id:85248",
+            "addToCartSkus": [
+                {
+                    "sku": "156662901_BD-1086376539",
+                    "skuId": "1086376539",
+                    "count": 0
+                }
+            ],
+            "itemId": "156662901",
+            "skuId": "1086376539",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "TENT PLAY HOUSE-Big Size",
+            "nid": "132230471",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132230471",
+                "scene_pre": "search",
+                "current_price": "1133",
+                "x_sku_ids": "1053070710",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "132230471"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tent-play-house-big-size-i132230471-s1053070710.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/283014391afb729799fc9c3eab7ce66d.jpg",
+            "originalPrice": "2990.00",
+            "originalPriceShow": "৳ 2,990",
+            "price": "1133",
+            "promotionId": "null",
+            "priceShow": "৳ 1,133",
+            "discount": "-62%",
+            "ratingScore": "4.90244",
+            "review": "41",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132230471_BD-1053070710",
+            "sku": "132230471_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5029",
+            "mainSellerId": "",
+            "sellerName": "The Rainy",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/283014391afb729799fc9c3eab7ce66d.jpg",
+                    "productUrl": "/products/tent-play-house-big-size-i132230471-s1053070710.html",
+                    "sku": "132230471_BD",
+                    "skuId": "1053070710"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9276
+            ],
+            "clickTrace": "query:;nid:132230471;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:132230471_BD;price:1133;client:desktop;supplier_id:5029;asc_category_id:9276;item_id:132230471;sku_id:1053070710;shop_id:5047",
+            "addToCartSkus": [
+                {
+                    "sku": "132230471_BD-1053070710",
+                    "skuId": "1053070710",
+                    "count": 0
+                }
+            ],
+            "itemId": "132230471",
+            "skuId": "1053070710",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Baby Beautiful Tent Play House With 50 pcs plastic balls- Multi Color",
+            "nid": "171998760",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171998760",
+                "scene_pre": "search",
+                "current_price": "682",
+                "x_sku_ids": "1108120483",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "171998760"
+            },
+            "productUrl": "//www.daraz.com.bd/products/50-i171998760-s1108120483.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a131eed5ea3053f7895fb2b86288c97d.jpg",
+            "originalPrice": "1500.00",
+            "originalPriceShow": "৳ 1,500",
+            "price": "682",
+            "promotionId": "null",
+            "priceShow": "৳ 682",
+            "discount": "-55%",
+            "ratingScore": "4.92308",
+            "review": "13",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171998760_BD-1108120483",
+            "sku": "171998760_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "5158",
+            "mainSellerId": "",
+            "sellerName": "Beautiful Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a131eed5ea3053f7895fb2b86288c97d.jpg",
+                    "productUrl": "/products/50-i171998760-s1108120483.html",
+                    "sku": "171998760_BD",
+                    "skuId": "1108120483"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9276
+            ],
+            "clickTrace": "query:;nid:171998760;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:171998760_BD;price:682;client:desktop;supplier_id:5158;asc_category_id:9276;item_id:171998760;sku_id:1108120483;shop_id:5173",
+            "addToCartSkus": [
+                {
+                    "sku": "171998760_BD-1108120483",
+                    "skuId": "1108120483",
+                    "count": 0
+                }
+            ],
+            "itemId": "171998760",
+            "skuId": "1108120483",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Deformed Fidget Spinner Chain Toys For Children Antistress Hand Spinner Vent Toys Adult Stress Relief Sensory Gyro Gift-1 Pcs",
+            "nid": "225470768",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225470768",
+                "scene_pre": "search",
+                "current_price": "133",
+                "x_sku_ids": "1170617678",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "225470768"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i225470768-s1170617678.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/443eb29f087f50551412e3982a644611.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "133",
+            "promotionId": "null",
+            "priceShow": "৳ 133",
+            "discount": "-56%",
+            "ratingScore": "3.30769",
+            "review": "13",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225470768_BD-1170617678",
+            "sku": "225470768_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508289076",
+            "mainSellerId": "",
+            "sellerName": "Aviva Deal International",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/443eb29f087f50551412e3982a644611.jpg",
+                    "productUrl": "/products/1-i225470768-s1170617678.html",
+                    "sku": "225470768_BD",
+                    "skuId": "1170617678"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                10002728
+            ],
+            "clickTrace": "query:;nid:225470768;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:225470768_BD;price:133;client:desktop;supplier_id:700508289076;asc_category_id:10002728;item_id:225470768;sku_id:1170617678;shop_id:141798",
+            "addToCartSkus": [
+                {
+                    "sku": "225470768_BD-1170617678",
+                    "skuId": "1170617678",
+                    "count": 0
+                }
+            ],
+            "itemId": "225470768",
+            "skuId": "1170617678",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "TENT PLAY HOUSE Big Size",
+            "nid": "132226506",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132226506",
+                "scene_pre": "search",
+                "current_price": "1130",
+                "x_sku_ids": "1053078068",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "132226506"
+            },
+            "productUrl": "//www.daraz.com.bd/products/tent-play-house-big-size-i132226506-s1053078068.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7004f02b7cf198726d08a8e526ac604b.jpg",
+            "originalPrice": "3090.00",
+            "originalPriceShow": "৳ 3,090",
+            "price": "1130",
+            "promotionId": "null",
+            "priceShow": "৳ 1,130",
+            "discount": "-63%",
+            "ratingScore": "4.6875",
+            "review": "32",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132226506_BD-1053078068",
+            "sku": "132226506_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "4739",
+            "mainSellerId": "",
+            "sellerName": "THE GENTEEL",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7004f02b7cf198726d08a8e526ac604b.jpg",
+                    "productUrl": "/products/tent-play-house-big-size-i132226506-s1053078068.html",
+                    "sku": "132226506_BD",
+                    "skuId": "1053078068"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/abe62b12eff1ee12e8a025f00f503dd4.jpg",
+                    "productUrl": "/products/tent-play-house-big-size-i132226506-s1070542447.html",
+                    "sku": "132226506_BD",
+                    "skuId": "1070542447"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9276
+            ],
+            "clickTrace": "query:;nid:132226506;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:132226506_BD;price:1130;client:desktop;supplier_id:4739;asc_category_id:9276;item_id:132226506;sku_id:1053078068;shop_id:4778",
+            "addToCartSkus": [
+                {
+                    "sku": "132226506_BD-1053078068",
+                    "skuId": "1053078068",
+                    "count": 0
+                }
+            ],
+            "itemId": "132226506",
+            "skuId": "1053078068",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Hello Kitty Tent House with 50 Ball - Pink.",
+            "nid": "132162945",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132162945",
+                "scene_pre": "search",
+                "current_price": "728",
+                "x_sku_ids": "1052956503",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "132162945"
+            },
+            "productUrl": "//www.daraz.com.bd/products/50-i132162945-s1052956503.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/491cf99f51ad9992a555d1f934673e55.jpg",
+            "originalPrice": "2000.00",
+            "originalPriceShow": "৳ 2,000",
+            "price": "728",
+            "promotionId": "null",
+            "priceShow": "৳ 728",
+            "discount": "-64%",
+            "ratingScore": "4.64615",
+            "review": "65",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132162945_BD-1052956503",
+            "sku": "132162945_BD",
+            "skus": [],
+            "description": [
+                "Growing up kids",
+                "Folds compactly for easy storage",
+                "It is quick and easy to assemble",
+                "Pop up and insert rod, and boom go",
+                "It promotes physical activity and encourages role-play",
+                "Which helps develop imaginative play",
+                "Camping and tent houses are exciting"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1041861",
+            "mainSellerId": "",
+            "sellerName": "Ayna Supar Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/491cf99f51ad9992a555d1f934673e55.jpg",
+                    "productUrl": "/products/50-i132162945-s1052956503.html",
+                    "sku": "132162945_BD",
+                    "skuId": "1052956503"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9276
+            ],
+            "clickTrace": "query:;nid:132162945;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:132162945_BD;price:728;client:desktop;supplier_id:1041861;asc_category_id:9276;item_id:132162945;sku_id:1052956503;shop_id:47592",
+            "addToCartSkus": [
+                {
+                    "sku": "132162945_BD-1052956503",
+                    "skuId": "1052956503",
+                    "count": 0
+                }
+            ],
+            "itemId": "132162945",
+            "skuId": "1052956503",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Metal Fidget Spinner Stress Reducer Toy",
+            "nid": "200551303",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "200551303",
+                "scene_pre": "search",
+                "current_price": "182",
+                "x_sku_ids": "1147712381",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "200551303"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i200551303-s1147712381.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d2141cf783df5d8a7d0e0a6d292a6b65.jpg",
+            "originalPrice": "199.00",
+            "originalPriceShow": "৳ 199",
+            "price": "182",
+            "promotionId": "null",
+            "priceShow": "৳ 182",
+            "discount": "-9%",
+            "ratingScore": "4.41667",
+            "review": "12",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "200551303_BD-1147712381",
+            "sku": "200551303_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1039272",
+            "mainSellerId": "",
+            "sellerName": "Zero Power",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d2141cf783df5d8a7d0e0a6d292a6b65.jpg",
+                    "productUrl": "/products/-i200551303-s1147712381.html",
+                    "sku": "200551303_BD",
+                    "skuId": "1147712381"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                10002728
+            ],
+            "clickTrace": "query:;nid:200551303;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:200551303_BD;price:182;client:desktop;supplier_id:1039272;asc_category_id:10002728;item_id:200551303;sku_id:1147712381;shop_id:45073",
+            "addToCartSkus": [
+                {
+                    "sku": "200551303_BD-1147712381",
+                    "skuId": "1147712381",
+                    "count": 0
+                }
+            ],
+            "itemId": "200551303",
+            "skuId": "1147712381",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Infinity Cube Fidget Sensory Game Toy",
+            "nid": "198908298",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "198908298",
+                "scene_pre": "search",
+                "current_price": "94",
+                "x_sku_ids": "1146345571",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "198908298"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i198908298-s1146345571.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/617f1978ef8a5648373430ff04163ec5.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "94",
+            "promotionId": "null",
+            "priceShow": "৳ 94",
+            "discount": "-73%",
+            "ratingScore": "4.22917",
+            "review": "48",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "198908298_BD-1146345571",
+            "sku": "198908298_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507581007",
+            "mainSellerId": "",
+            "sellerName": "Qamar Closet",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/617f1978ef8a5648373430ff04163ec5.jpg",
+                    "productUrl": "/products/-i198908298-s1146345571.html",
+                    "sku": "198908298_BD",
+                    "skuId": "1146345571"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                10002728
+            ],
+            "clickTrace": "query:;nid:198908298;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:198908298_BD;price:94;client:desktop;supplier_id:700507581007;asc_category_id:10002728;item_id:198908298;sku_id:1146345571;shop_id:99470",
+            "addToCartSkus": [
+                {
+                    "sku": "198908298_BD-1146345571",
+                    "skuId": "1146345571",
+                    "count": 0
+                }
+            ],
+            "itemId": "198908298",
+            "skuId": "1146345571",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Spider Man Tent House With 50 Ball - Red",
+            "nid": "132094043",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132094043",
+                "scene_pre": "search",
+                "current_price": "733",
+                "x_sku_ids": "1052806939",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "132094043"
+            },
+            "productUrl": "//www.daraz.com.bd/products/50-i132094043-s1052806939.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/7c2f04d3afad589bb281bdcbf78d1e3c.png",
+            "originalPrice": "2000.00",
+            "originalPriceShow": "৳ 2,000",
+            "price": "733",
+            "promotionId": "null",
+            "priceShow": "৳ 733",
+            "discount": "-63%",
+            "ratingScore": "4.77778",
+            "review": "45",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132094043_BD-1052806939",
+            "sku": "132094043_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1013953",
+            "mainSellerId": "",
+            "sellerName": "Annu Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/7c2f04d3afad589bb281bdcbf78d1e3c.png",
+                    "productUrl": "/products/50-i132094043-s1052806939.html",
+                    "sku": "132094043_BD",
+                    "skuId": "1052806939"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9276
+            ],
+            "clickTrace": "query:;nid:132094043;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:132094043_BD;price:733;client:desktop;supplier_id:1013953;asc_category_id:9276;item_id:132094043;sku_id:1052806939;shop_id:20182",
+            "addToCartSkus": [
+                {
+                    "sku": "132094043_BD-1052806939",
+                    "skuId": "1052806939",
+                    "count": 0
+                }
+            ],
+            "itemId": "132094043",
+            "skuId": "1052806939",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Decathlon DPLASTIC 90G Plastic Frisbee - Yellow",
+            "nid": "225503520",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225503520",
+                "scene_pre": "search",
+                "current_price": "199.00",
+                "x_sku_ids": "1170630557",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "225503520"
+            },
+            "productUrl": "//www.daraz.com.bd/products/90g-i225503520-s1170630557.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c24517eb8c89100c73b2f30ca04387e2.jpg",
+            "price": "199.00",
+            "promotionId": "null",
+            "priceShow": "৳ 199",
+            "ratingScore": "4.8",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225503520_BD-1170630557",
+            "sku": "225503520_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123479887",
+            "brandName": "OLAIAN by Decathlon",
+            "sellerId": "700506756026",
+            "mainSellerId": "",
+            "sellerName": "DECATHLON SPORTS BANGLADESH",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c24517eb8c89100c73b2f30ca04387e2.jpg",
+                    "productUrl": "/products/90g-i225503520-s1170630557.html",
+                    "sku": "225503520_BD",
+                    "skuId": "1170630557"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9238,
+                9242
+            ],
+            "clickTrace": "query:;nid:225503520;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:225503520_BD;price:199.00;client:desktop;supplier_id:700506756026;asc_category_id:9242;item_id:225503520;sku_id:1170630557;shop_id:83066",
+            "addToCartSkus": [
+                {
+                    "sku": "225503520_BD-1170630557",
+                    "skuId": "1170630557",
+                    "count": 0
+                }
+            ],
+            "itemId": "225503520",
+            "skuId": "1170630557",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Captain America Shield Metal Tri-Spinner Fidget Hand Finger Spinner Stress Reducer Toy",
+            "nid": "212577252",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "212577252",
+                "scene_pre": "search",
+                "current_price": "223",
+                "x_sku_ids": "1162108774",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "212577252"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i212577252-s1162108774.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2300396da9e4d636cbe466b3af6eaccc.jpg",
+            "originalPrice": "389.00",
+            "originalPriceShow": "৳ 389",
+            "price": "223",
+            "promotionId": "null",
+            "priceShow": "৳ 223",
+            "discount": "-43%",
+            "ratingScore": "5",
+            "review": "22",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "212577252_BD-1162108774",
+            "sku": "212577252_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508790550",
+            "mainSellerId": "",
+            "sellerName": "A - Z Gallery",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2300396da9e4d636cbe466b3af6eaccc.jpg",
+                    "productUrl": "/products/-i212577252-s1162108774.html",
+                    "sku": "212577252_BD",
+                    "skuId": "1162108774"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                10002728
+            ],
+            "clickTrace": "query:;nid:212577252;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:212577252_BD;price:223;client:desktop;supplier_id:700508790550;asc_category_id:10002728;item_id:212577252;sku_id:1162108774;shop_id:186380",
+            "addToCartSkus": [
+                {
+                    "sku": "212577252_BD-1162108774",
+                    "skuId": "1162108774",
+                    "count": 0
+                }
+            ],
+            "itemId": "212577252",
+            "skuId": "1162108774",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "BUBBLE spray MACHINE ELECTRIC TOY for kids",
+            "nid": "235205516",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "235205516",
+                "scene_pre": "search",
+                "current_price": "245.00",
+                "x_sku_ids": "1178338231",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "235205516"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i235205516-s1178338231.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4f7efa6cf3c708d8331e213b941f86df.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "245.00",
+            "promotionId": "null",
+            "priceShow": "৳ 245",
+            "discount": "-30%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "235205516_BD-1178338231",
+            "sku": "235205516_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507302061",
+            "mainSellerId": "",
+            "sellerName": "Mama Store",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4f7efa6cf3c708d8331e213b941f86df.jpg",
+                    "productUrl": "/products/-i235205516-s1178338231.html",
+                    "sku": "235205516_BD",
+                    "skuId": "1178338231"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9245,
+                9264
+            ],
+            "clickTrace": "query:;nid:235205516;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:235205516_BD;price:245.00;client:desktop;supplier_id:700507302061;asc_category_id:9264;item_id:235205516;sku_id:1178338231;shop_id:94124",
+            "addToCartSkus": [
+                {
+                    "sku": "235205516_BD-1178338231",
+                    "skuId": "1178338231",
+                    "count": 0
+                }
+            ],
+            "itemId": "235205516",
+            "skuId": "1178338231",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Easy to Fly and Portable Eagle Kite (Medium size)- 1 Piece Multi color",
+            "nid": "183606979",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183606979",
+                "scene_pre": "search",
+                "current_price": "158",
+                "x_sku_ids": "1128042913",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "183606979"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i183606979-s1128042913.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/1ae00d007d6ac416d9feebddf1b27e5f.jpg",
+            "originalPrice": "420.00",
+            "originalPriceShow": "৳ 420",
+            "price": "158",
+            "promotionId": "null",
+            "priceShow": "৳ 158",
+            "discount": "-62%",
+            "ratingScore": "4.53846",
+            "review": "13",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183606979_BD-1128042913",
+            "sku": "183606979_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507773217",
+            "mainSellerId": "",
+            "sellerName": "Rahat Fashion & Clothing",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/1ae00d007d6ac416d9feebddf1b27e5f.jpg",
+                    "productUrl": "/products/1-i183606979-s1128042913.html",
+                    "sku": "183606979_BD",
+                    "skuId": "1128042913"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9230,
+                9232
+            ],
+            "clickTrace": "query:;nid:183606979;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:183606979_BD;price:158;client:desktop;supplier_id:700507773217;asc_category_id:9232;item_id:183606979;sku_id:1128042913;shop_id:111472",
+            "addToCartSkus": [
+                {
+                    "sku": "183606979_BD-1128042913",
+                    "skuId": "1128042913",
+                    "count": 0
+                }
+            ],
+            "itemId": "183606979",
+            "skuId": "1128042913",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "KLS Flynova Pro Flying Boomerang Spiner And Throwing Ball",
+            "nid": "230154934",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230154934",
+                "scene_pre": "search",
+                "current_price": "599.00",
+                "x_sku_ids": "1173571911",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "230154934"
+            },
+            "productUrl": "//www.daraz.com.bd/products/kls-flynova-pro-flying-boomerang-spiner-and-throwing-ball-i230154934-s1173571911.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/459c4e83859925db4e0284b2f82d00eb.jpg",
+            "originalPrice": "1000.00",
+            "originalPriceShow": "৳ 1,000",
+            "price": "599.00",
+            "promotionId": "null",
+            "priceShow": "৳ 599",
+            "discount": "-40%",
+            "ratingScore": "4",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230154934_BD-1173571911",
+            "sku": "230154934_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1044611",
+            "mainSellerId": "",
+            "sellerName": "MJ Brothers",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/459c4e83859925db4e0284b2f82d00eb.jpg",
+                    "productUrl": "/products/kls-flynova-pro-flying-boomerang-spiner-and-throwing-ball-i230154934-s1173571911.html",
+                    "sku": "230154934_BD",
+                    "skuId": "1173571911"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9238,
+                9242
+            ],
+            "clickTrace": "query:;nid:230154934;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:230154934_BD;price:599.00;client:desktop;supplier_id:1044611;asc_category_id:9242;item_id:230154934;sku_id:1173571911;shop_id:50240",
+            "addToCartSkus": [
+                {
+                    "sku": "230154934_BD-1173571911",
+                    "skuId": "1173571911",
+                    "count": 0
+                }
+            ],
+            "itemId": "230154934",
+            "skuId": "1173571911",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "1Pcs Magic Spinner Toy Adult Kids Antistress Spinning Pen Plastic Spiner Pen Stress Reliever Anti-slip Hand Spinner Stress Toy",
+            "nid": "224955864",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "224955864",
+                "scene_pre": "search",
+                "current_price": "99.00",
+                "x_sku_ids": "1170428145",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "224955864"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i224955864-s1170428145.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/63f6ac4c23993ef6e00a3c59f0dbaa1b.jpg",
+            "originalPrice": "175.00",
+            "originalPriceShow": "৳ 175",
+            "price": "99.00",
+            "promotionId": "null",
+            "priceShow": "৳ 99",
+            "discount": "-43%",
+            "ratingScore": "5",
+            "review": "9",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "224955864_BD-1170428145",
+            "sku": "224955864_BD",
+            "skus": [],
+            "description": [
+                "100% new brand and high quality",
+                "More balance, good spinning, cool design, good choice for entertainment",
+                "This pen is perfect for office staff and students and good for thinking,learning,anxiety and can be used as a pen for writing",
+                "Smart design and good for holding.shorten it when you play and extend it while writing",
+                "Its a fantastic gift for office guys and students",
+                "Material:Plastic",
+                "Color:As picture shown(at random)",
+                "Size:As picture shown",
+                "Package Included:1 X Spinning Pen"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505259028",
+            "mainSellerId": "",
+            "sellerName": "XPRESS",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/63f6ac4c23993ef6e00a3c59f0dbaa1b.jpg",
+                    "productUrl": "/products/1-i224955864-s1170428145.html",
+                    "sku": "224955864_BD",
+                    "skuId": "1170428145"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                10002728
+            ],
+            "clickTrace": "query:;nid:224955864;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:224955864_BD;price:99.00;client:desktop;supplier_id:700505259028;asc_category_id:10002728;item_id:224955864;sku_id:1170428145;shop_id:59006",
+            "addToCartSkus": [
+                {
+                    "sku": "224955864_BD-1170428145",
+                    "skuId": "1170428145",
+                    "count": 0
+                }
+            ],
+            "itemId": "224955864",
+            "skuId": "1170428145",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Frisbee games 1 Pcs - Red, Yellow",
+            "nid": "178894942",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "178894942",
+                "scene_pre": "search",
+                "current_price": "75.00",
+                "x_sku_ids": "1119932835",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "178894942"
+            },
+            "productUrl": "//www.daraz.com.bd/products/frisbee-games-1-pcs-red-yellow-i178894942-s1119932835.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5d86338ce4b872f8bdb3518f050e3003.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "75.00",
+            "promotionId": "null",
+            "priceShow": "৳ 75",
+            "discount": "-79%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "178894942_BD-1119932835",
+            "sku": "178894942_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504950052",
+            "mainSellerId": "",
+            "sellerName": "Rangdhanu Sports",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5d86338ce4b872f8bdb3518f050e3003.jpg",
+                    "productUrl": "/products/frisbee-games-1-pcs-red-yellow-i178894942-s1119932835.html",
+                    "sku": "178894942_BD",
+                    "skuId": "1119932835"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9238,
+                9242
+            ],
+            "clickTrace": "query:;nid:178894942;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:178894942_BD;price:75.00;client:desktop;supplier_id:700504950052;asc_category_id:9242;item_id:178894942;sku_id:1119932835;shop_id:51295",
+            "addToCartSkus": [
+                {
+                    "sku": "178894942_BD-1119932835",
+                    "skuId": "1119932835",
+                    "count": 0
+                }
+            ],
+            "itemId": "178894942",
+            "skuId": "1119932835",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Children's Safe Non-Toxic Bubble Water Bottle",
+            "nid": "226955129",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226955129",
+                "scene_pre": "search",
+                "current_price": "200.00",
+                "x_sku_ids": "1171262723",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "226955129"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i226955129-s1171262723.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e060df8e75cb75732d0187f1c56cefc2.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "200.00",
+            "promotionId": "null",
+            "priceShow": "৳ 200",
+            "discount": "-43%",
+            "ratingScore": "5",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226955129_BD-1171262723",
+            "sku": "226955129_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507971108",
+            "mainSellerId": "",
+            "sellerName": "Al Adib Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e060df8e75cb75732d0187f1c56cefc2.jpg",
+                    "productUrl": "/products/-i226955129-s1171262723.html",
+                    "sku": "226955129_BD",
+                    "skuId": "1171262723"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9245,
+                9264
+            ],
+            "clickTrace": "query:;nid:226955129;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:226955129_BD;price:200.00;client:desktop;supplier_id:700507971108;asc_category_id:9264;item_id:226955129;sku_id:1171262723;shop_id:122058",
+            "addToCartSkus": [
+                {
+                    "sku": "226955129_BD-1171262723",
+                    "skuId": "1171262723",
+                    "count": 0
+                }
+            ],
+            "itemId": "226955129",
+            "skuId": "1171262723",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fidget Spinner Stress Reducer Toy - Black",
+            "nid": "227034957",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227034957",
+                "scene_pre": "search",
+                "current_price": "53",
+                "x_sku_ids": "1171310453",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "227034957"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i227034957-s1171310453.html?search=1",
+            "image": "https://static-01.daraz.com.bd/original/0b80b3cf16fc64f8b5b52a4eb05eea42.jpg",
+            "originalPrice": "160.00",
+            "originalPriceShow": "৳ 160",
+            "price": "53",
+            "promotionId": "null",
+            "priceShow": "৳ 53",
+            "discount": "-67%",
+            "ratingScore": "4.26667",
+            "review": "15",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227034957_BD-1171310453",
+            "sku": "227034957_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Spinner",
+                "Relieve your Stress, Anxiety, ADHD, ADD and Boredom",
+                "It\\'s fun and interesting, also effective for focus and deep thought.",
+                "Especially helpful to relax effectively when you are all nerves",
+                "It feels nice in the hands and it is almost silent so you won\\'t be bothering anybo",
+                "Easy To Carry,Small,Simple,Discrete and Fun,also effective for Focus and Deep"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510125093",
+            "mainSellerId": "",
+            "sellerName": "NS TRADING",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/original/0b80b3cf16fc64f8b5b52a4eb05eea42.jpg",
+                    "productUrl": "/products/-i227034957-s1171310453.html",
+                    "sku": "227034957_BD",
+                    "skuId": "1171310453"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                10002728
+            ],
+            "clickTrace": "query:;nid:227034957;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:227034957_BD;price:53;client:desktop;supplier_id:700510125093;asc_category_id:10002728;item_id:227034957;sku_id:1171310453;shop_id:230517",
+            "addToCartSkus": [
+                {
+                    "sku": "227034957_BD-1171310453",
+                    "skuId": "1171310453",
+                    "count": 0
+                }
+            ],
+            "itemId": "227034957",
+            "skuId": "1171310453",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "HUGE 54\" EAGLE KITE WITH STRING AND HANDLE",
+            "nid": "183989656",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183989656",
+                "scene_pre": "search",
+                "current_price": "177.00",
+                "x_sku_ids": "1128656662",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "183989656"
+            },
+            "productUrl": "//www.daraz.com.bd/products/54-i183989656-s1128656662.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/209f13c303b01de0b4deb3cce2238b51.jpg",
+            "originalPrice": "444.00",
+            "originalPriceShow": "৳ 444",
+            "price": "177.00",
+            "promotionId": "null",
+            "priceShow": "৳ 177",
+            "discount": "-60%",
+            "ratingScore": "4",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183989656_BD-1128656662",
+            "sku": "183989656_BD",
+            "skus": [],
+            "description": [
+                "Material: Polyester",
+                "Size: 5 feet*2.5 feet",
+                "Package includes: 1 x Kite",
+                "Lifelike, continuous flies on Breeze.",
+                "Easy TO Fly and portable, easy to use.",
+                "Fashion design, styles, beautiful and classic",
+                "Suitable for flying in open areas such as seas, meadows and other places.",
+                "Folding Kite is good to carry. Long Packaging Bags Strip Style.",
+                "Waterproof"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508172136",
+            "mainSellerId": "",
+            "sellerName": "The ARK",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/209f13c303b01de0b4deb3cce2238b51.jpg",
+                    "productUrl": "/products/54-i183989656-s1128656662.html",
+                    "sku": "183989656_BD",
+                    "skuId": "1128656662"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9230,
+                9232
+            ],
+            "clickTrace": "query:;nid:183989656;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:183989656_BD;price:177.00;client:desktop;supplier_id:700508172136;asc_category_id:9232;item_id:183989656;sku_id:1128656662;shop_id:131812",
+            "addToCartSkus": [
+                {
+                    "sku": "183989656_BD-1128656662",
+                    "skuId": "1128656662",
+                    "count": 0
+                }
+            ],
+            "itemId": "183989656",
+            "skuId": "1128656662",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Funny Trick Joke Toys 4*1.8cm Model Simulation Fake Rubber Cockroach Cock Roach Bug Roaches Toy Prank",
+            "nid": "114918576",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "114918576",
+                "scene_pre": "search",
+                "current_price": "29.00",
+                "x_sku_ids": "1134948050",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "114918576"
+            },
+            "productUrl": "//www.daraz.com.bd/products/418cm-i114918576-s1134948050.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/19c7620c706f0f9fe27f5aa5db5e3d18.jpg",
+            "originalPrice": "80.00",
+            "originalPriceShow": "৳ 80",
+            "price": "29.00",
+            "promotionId": "null",
+            "priceShow": "৳ 29",
+            "discount": "-64%",
+            "ratingScore": "4.59574",
+            "review": "141",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "114918576_BD-1134948050",
+            "sku": "114918576_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1018398",
+            "mainSellerId": "",
+            "sellerName": "Bp Bazar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/19c7620c706f0f9fe27f5aa5db5e3d18.jpg",
+                    "productUrl": "/products/418cm-i114918576-s1134948050.html",
+                    "sku": "114918576_BD",
+                    "skuId": "1134948050"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/4f031517b0d6903c5398214ac8a0ce35.jpg",
+                    "productUrl": "/products/418cm-i114918576-s1032806264.html",
+                    "sku": "114918576_BD",
+                    "skuId": "1032806264"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/b1ab5e6043b5f6916ab23d895ddc388a.jpg",
+                    "productUrl": "/products/418cm-i114918576-s1124618489.html",
+                    "sku": "114918576_BD",
+                    "skuId": "1124618489"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9332
+            ],
+            "clickTrace": "query:;nid:114918576;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:114918576_BD;price:29.00;client:desktop;supplier_id:1018398;asc_category_id:9332;item_id:114918576;sku_id:1134948050;shop_id:24666",
+            "addToCartSkus": [
+                {
+                    "sku": "114918576_BD-1134948050",
+                    "skuId": "1134948050",
+                    "count": 0
+                }
+            ],
+            "itemId": "114918576",
+            "skuId": "1134948050",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Easy to Fly and Portable Eagle Kite (Medium size)- 1 Piece Multi color",
+            "nid": "183624311",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183624311",
+                "scene_pre": "search",
+                "current_price": "140.00",
+                "x_sku_ids": "1128042824",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "183624311"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i183624311-s1128042824.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/972922ba145d96ecd90130686e6047ad.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "140.00",
+            "promotionId": "null",
+            "priceShow": "৳ 140",
+            "discount": "-60%",
+            "ratingScore": "1",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183624311_BD-1128042824",
+            "sku": "183624311_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700504926073",
+            "mainSellerId": "",
+            "sellerName": "Zihad Belt Corner",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/972922ba145d96ecd90130686e6047ad.jpg",
+                    "productUrl": "/products/1-i183624311-s1128042824.html",
+                    "sku": "183624311_BD",
+                    "skuId": "1128042824"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9230,
+                9232
+            ],
+            "clickTrace": "query:;nid:183624311;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:183624311_BD;price:140.00;client:desktop;supplier_id:700504926073;asc_category_id:9232;item_id:183624311;sku_id:1128042824;shop_id:51360",
+            "addToCartSkus": [
+                {
+                    "sku": "183624311_BD-1128042824",
+                    "skuId": "1128042824",
+                    "count": 0
+                }
+            ],
+            "itemId": "183624311",
+            "skuId": "1128042824",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Beautiful Big size kite - Multicolor",
+            "nid": "168360132",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168360132",
+                "scene_pre": "search",
+                "current_price": "220",
+                "x_sku_ids": "1102440255",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "168360132"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i168360132-s1102440255.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/fe28e17f86baa4866d0bc8cbf89f6cd9.jpg",
+            "originalPrice": "235.00",
+            "originalPriceShow": "৳ 235",
+            "price": "220",
+            "promotionId": "null",
+            "priceShow": "৳ 220",
+            "discount": "-6%",
+            "ratingScore": "4.55856",
+            "review": "111",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168360132_BD-1102440255",
+            "sku": "168360132_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507521296",
+            "mainSellerId": "",
+            "sellerName": "Hamid Online Bikroy",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/fe28e17f86baa4866d0bc8cbf89f6cd9.jpg",
+                    "productUrl": "/products/-i168360132-s1102440255.html",
+                    "sku": "168360132_BD",
+                    "skuId": "1102440255"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9230,
+                9232
+            ],
+            "clickTrace": "query:;nid:168360132;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:168360132_BD;price:220;client:desktop;supplier_id:700507521296;asc_category_id:9232;item_id:168360132;sku_id:1102440255;shop_id:98331",
+            "addToCartSkus": [
+                {
+                    "sku": "168360132_BD-1102440255",
+                    "skuId": "1102440255",
+                    "count": 0
+                }
+            ],
+            "itemId": "168360132",
+            "skuId": "1102440255",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Deformed Fidget Spinner Chain Toys For Children Antistress Hand Spinner Vent Toys Adult Stress Relief Sensory Gyro Gift",
+            "nid": "225487196",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225487196",
+                "scene_pre": "search",
+                "current_price": "133",
+                "x_sku_ids": "1170617818",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "225487196"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i225487196-s1170617818.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/443eb29f087f50551412e3982a644611.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "133",
+            "promotionId": "null",
+            "priceShow": "৳ 133",
+            "discount": "-62%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225487196_BD-1170617818",
+            "sku": "225487196_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507722102",
+            "mainSellerId": "",
+            "sellerName": "Hydra BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/443eb29f087f50551412e3982a644611.jpg",
+                    "productUrl": "/products/-i225487196-s1170617818.html",
+                    "sku": "225487196_BD",
+                    "skuId": "1170617818"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                10002728
+            ],
+            "clickTrace": "query:;nid:225487196;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:225487196_BD;price:133;client:desktop;supplier_id:700507722102;asc_category_id:10002728;item_id:225487196;sku_id:1170617818;shop_id:108261",
+            "addToCartSkus": [
+                {
+                    "sku": "225487196_BD-1170617818",
+                    "skuId": "1170617818",
+                    "count": 0
+                }
+            ],
+            "itemId": "225487196",
+            "skuId": "1170617818",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fidget Spinner Fidget Hand Toys , Spinning Cube Toy,3D Fingertip Toy Stress Relief Toy , Educational Unzip The Toys Suitable for Gifts for Adults and Children",
+            "nid": "212828905",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "212828905",
+                "scene_pre": "search",
+                "current_price": "98",
+                "x_sku_ids": "1162313775",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "212828905"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-3-i212828905-s1162313775.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e2085b352eb01a27bff255326639c699.jpg",
+            "originalPrice": "299.00",
+            "originalPriceShow": "৳ 299",
+            "price": "98",
+            "promotionId": "null",
+            "priceShow": "৳ 98",
+            "discount": "-67%",
+            "ratingScore": "4.88235",
+            "review": "17",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "212828905_BD-1162313775",
+            "sku": "212828905_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1874",
+            "mainSellerId": "",
+            "sellerName": "Super star gift corner",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e2085b352eb01a27bff255326639c699.jpg",
+                    "productUrl": "/products/2-3-i212828905-s1162313775.html",
+                    "sku": "212828905_BD",
+                    "skuId": "1162313775"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                10002728
+            ],
+            "clickTrace": "query:;nid:212828905;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:212828905_BD;price:98;client:desktop;supplier_id:1874;asc_category_id:10002728;item_id:212828905;sku_id:1162313775;shop_id:2522",
+            "addToCartSkus": [
+                {
+                    "sku": "212828905_BD-1162313775",
+                    "skuId": "1162313775",
+                    "count": 0
+                }
+            ],
+            "itemId": "212828905",
+            "skuId": "1162313775",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Playtime Soft Toys For Baby - Multicolor",
+            "nid": "167468445",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "167468445",
+                "scene_pre": "search",
+                "current_price": "238.00",
+                "x_sku_ids": "1101224214",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "167468445"
+            },
+            "productUrl": "//www.daraz.com.bd/products/playtime-soft-toys-for-baby-multicolor-i167468445-s1101224214.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1455fa2f9970d5e4ac85862d1af937c6.jpg",
+            "originalPrice": "280.00",
+            "originalPriceShow": "৳ 280",
+            "price": "238.00",
+            "promotionId": "null",
+            "priceShow": "৳ 238",
+            "discount": "-15%",
+            "ratingScore": "4.64286",
+            "review": "14",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "167468445_BD-1101224214",
+            "sku": "167468445_BD",
+            "skus": [],
+            "description": [
+                "Soft",
+                "Sound creating path",
+                "Food grade materials used",
+                "Beautiful looking."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1029613",
+            "mainSellerId": "",
+            "sellerName": "Playtime Toy",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1455fa2f9970d5e4ac85862d1af937c6.jpg",
+                    "productUrl": "/products/playtime-soft-toys-for-baby-multicolor-i167468445-s1101224214.html",
+                    "sku": "167468445_BD",
+                    "skuId": "1101224214"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9332
+            ],
+            "clickTrace": "query:;nid:167468445;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:167468445_BD;price:238.00;client:desktop;supplier_id:1029613;asc_category_id:9332;item_id:167468445;sku_id:1101224214;shop_id:35686",
+            "addToCartSkus": [
+                {
+                    "sku": "167468445_BD-1101224214",
+                    "skuId": "1101224214",
+                    "count": 0
+                }
+            ],
+            "itemId": "167468445",
+            "skuId": "1101224214",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Multicolor Tent House with 50 Ball",
+            "nid": "226822089",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226822089",
+                "scene_pre": "search",
+                "current_price": "643",
+                "x_sku_ids": "1171193204",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "226822089"
+            },
+            "productUrl": "//www.daraz.com.bd/products/50-i226822089-s1171193204.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fe3cc9533a1cfa902cbd6d3701dd574f.jpg",
+            "originalPrice": "1300.00",
+            "originalPriceShow": "৳ 1,300",
+            "price": "643",
+            "promotionId": "null",
+            "priceShow": "৳ 643",
+            "discount": "-51%",
+            "ratingScore": "4.66667",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226822089_BD-1171193204",
+            "sku": "226822089_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507926001",
+            "mainSellerId": "",
+            "sellerName": "BYiTT",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fe3cc9533a1cfa902cbd6d3701dd574f.jpg",
+                    "productUrl": "/products/50-i226822089-s1171193204.html",
+                    "sku": "226822089_BD",
+                    "skuId": "1171193204"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2228dbb8bdaf17c306f24b632f074b4b.jpg",
+                    "productUrl": "/products/50-i226822089-s1173136682.html",
+                    "sku": "226822089_BD",
+                    "skuId": "1173136682"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9276
+            ],
+            "clickTrace": "query:;nid:226822089;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:226822089_BD;price:643;client:desktop;supplier_id:700507926001;asc_category_id:9276;item_id:226822089;sku_id:1171193204;shop_id:118348",
+            "addToCartSkus": [
+                {
+                    "sku": "226822089_BD-1171193204",
+                    "skuId": "1171193204",
+                    "count": 0
+                }
+            ],
+            "itemId": "226822089",
+            "skuId": "1171193204",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Easy to Fly and Portable Eagle Kite (Medium size)- 1 Piece Multi color",
+            "nid": "170568857",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "170568857",
+                "scene_pre": "search",
+                "current_price": "160.00",
+                "x_sku_ids": "1105742094",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "170568857"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1-i170568857-s1105742094.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/972922ba145d96ecd90130686e6047ad.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "160.00",
+            "promotionId": "null",
+            "priceShow": "৳ 160",
+            "discount": "-54%",
+            "ratingScore": "4.47619",
+            "review": "21",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "170568857_BD-1105742094",
+            "sku": "170568857_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1032009",
+            "mainSellerId": "",
+            "sellerName": "Rose Fashion Hut",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/972922ba145d96ecd90130686e6047ad.jpg",
+                    "productUrl": "/products/1-i170568857-s1105742094.html",
+                    "sku": "170568857_BD",
+                    "skuId": "1105742094"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9230,
+                9232
+            ],
+            "clickTrace": "query:;nid:170568857;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:170568857_BD;price:160.00;client:desktop;supplier_id:1032009;asc_category_id:9232;item_id:170568857;sku_id:1105742094;shop_id:38015",
+            "addToCartSkus": [
+                {
+                    "sku": "170568857_BD-1105742094",
+                    "skuId": "1105742094",
+                    "count": 0
+                }
+            ],
+            "itemId": "170568857",
+            "skuId": "1105742094",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Flying Bird Eagle Kite Waterproof Polyester Funny Kids Toy Gift Outdoor Playing Ghuri - Small size",
+            "nid": "171772046",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171772046",
+                "scene_pre": "search",
+                "current_price": "182",
+                "x_sku_ids": "1107826768",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "171772046"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i171772046-s1107826768.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/7e264d913a677c9e42322b525245a9b0.png",
+            "originalPrice": "390.00",
+            "originalPriceShow": "৳ 390",
+            "price": "182",
+            "promotionId": "null",
+            "priceShow": "৳ 182",
+            "discount": "-53%",
+            "ratingScore": "4.36842",
+            "review": "38",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171772046_BD-1107826768",
+            "sku": "171772046_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507872037",
+            "mainSellerId": "",
+            "sellerName": "Emilatik Gallery",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/7e264d913a677c9e42322b525245a9b0.png",
+                    "productUrl": "/products/-i171772046-s1107826768.html",
+                    "sku": "171772046_BD",
+                    "skuId": "1107826768"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9230,
+                9232
+            ],
+            "clickTrace": "query:;nid:171772046;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:171772046_BD;price:182;client:desktop;supplier_id:700507872037;asc_category_id:9232;item_id:171772046;sku_id:1107826768;shop_id:117336",
+            "addToCartSkus": [
+                {
+                    "sku": "171772046_BD-1107826768",
+                    "skuId": "1107826768",
+                    "count": 0
+                }
+            ],
+            "itemId": "171772046",
+            "skuId": "1107826768",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "HUGE 54\" EAGLE KITE WITH STRING AND HANDLE",
+            "nid": "202555554",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "202555554",
+                "scene_pre": "search",
+                "current_price": "172.00",
+                "x_sku_ids": "1150118552",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "202555554"
+            },
+            "productUrl": "//www.daraz.com.bd/products/54-i202555554-s1150118552.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/209f13c303b01de0b4deb3cce2238b51.jpg",
+            "originalPrice": "459.00",
+            "originalPriceShow": "৳ 459",
+            "price": "172.00",
+            "promotionId": "null",
+            "priceShow": "৳ 172",
+            "discount": "-63%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "202555554_BD-1150118552",
+            "sku": "202555554_BD",
+            "skus": [],
+            "description": [
+                "Material: Polyester",
+                "Size: 5 feet*2.5 feet",
+                "Package includes: 1 x Kite",
+                "Lifelike, continuous flies on Breeze.",
+                "Easy TO Fly and portable, easy to use.",
+                "Fashion design, styles, beautiful and classic",
+                "Suitable for flying in open areas such as seas, meadows and other places.",
+                "Folding Kite is good to carry. Long Packaging Bags Strip Style.",
+                "Waterproof"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508883700",
+            "mainSellerId": "",
+            "sellerName": "SQR Fashion House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/209f13c303b01de0b4deb3cce2238b51.jpg",
+                    "productUrl": "/products/54-i202555554-s1150118552.html",
+                    "sku": "202555554_BD",
+                    "skuId": "1150118552"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9230,
+                9232
+            ],
+            "clickTrace": "query:;nid:202555554;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:202555554_BD;price:172.00;client:desktop;supplier_id:700508883700;asc_category_id:9232;item_id:202555554;sku_id:1150118552;shop_id:199209",
+            "addToCartSkus": [
+                {
+                    "sku": "202555554_BD-1150118552",
+                    "skuId": "1150118552",
+                    "count": 0
+                }
+            ],
+            "itemId": "202555554",
+            "skuId": "1150118552",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Baby Tent House with 100 balls free for children",
+            "nid": "226814922",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226814922",
+                "scene_pre": "search",
+                "current_price": "1011",
+                "x_sku_ids": "1173173522",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "226814922"
+            },
+            "productUrl": "//www.daraz.com.bd/products/100-i226814922-s1173173522.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2228dbb8bdaf17c306f24b632f074b4b.jpg",
+            "originalPrice": "1700.00",
+            "originalPriceShow": "৳ 1,700",
+            "price": "1011",
+            "promotionId": "null",
+            "priceShow": "৳ 1,011",
+            "discount": "-41%",
+            "ratingScore": "3.66667",
+            "review": "6",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226814922_BD-1173173522",
+            "sku": "226814922_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507926001",
+            "mainSellerId": "",
+            "sellerName": "BYiTT",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2228dbb8bdaf17c306f24b632f074b4b.jpg",
+                    "productUrl": "/products/100-i226814922-s1173173522.html",
+                    "sku": "226814922_BD",
+                    "skuId": "1173173522"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9276
+            ],
+            "clickTrace": "query:;nid:226814922;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:226814922_BD;price:1011;client:desktop;supplier_id:700507926001;asc_category_id:9276;item_id:226814922;sku_id:1173173522;shop_id:118348",
+            "addToCartSkus": [
+                {
+                    "sku": "226814922_BD-1173173522",
+                    "skuId": "1173173522",
+                    "count": 0
+                }
+            ],
+            "itemId": "226814922",
+            "skuId": "1173173522",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "YO YO METAL tricky",
+            "nid": "215328285",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "215328285",
+                "scene_pre": "search",
+                "current_price": "155",
+                "x_sku_ids": "1163895513",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "215328285"
+            },
+            "productUrl": "//www.daraz.com.bd/products/yo-yo-i215328285-s1163895513.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/76c9c2bc459de6f2fff0610fe847ad4d.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "155",
+            "promotionId": "null",
+            "priceShow": "৳ 155",
+            "discount": "-48%",
+            "ratingScore": "4.4",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "215328285_BD-1163895513",
+            "sku": "215328285_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506414119",
+            "mainSellerId": "",
+            "sellerName": "Seven days",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/76c9c2bc459de6f2fff0610fe847ad4d.jpg",
+                    "productUrl": "/products/yo-yo-i215328285-s1163895513.html",
+                    "sku": "215328285_BD",
+                    "skuId": "1163895513"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9340
+            ],
+            "clickTrace": "query:;nid:215328285;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:215328285_BD;price:155;client:desktop;supplier_id:700506414119;asc_category_id:9340;item_id:215328285;sku_id:1163895513;shop_id:74881",
+            "addToCartSkus": [
+                {
+                    "sku": "215328285_BD-1163895513",
+                    "skuId": "1163895513",
+                    "count": 0
+                }
+            ],
+            "itemId": "215328285",
+            "skuId": "1163895513",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fidget Spinner Stress Reducer Toy - Black",
+            "nid": "227449996",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227449996",
+                "scene_pre": "search",
+                "current_price": "69.00",
+                "x_sku_ids": "1171574120",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "227449996"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i227449996-s1171574120.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9b779304e2d22e7a18423b1f63173e9e.jpg",
+            "originalPrice": "189.00",
+            "originalPriceShow": "৳ 189",
+            "price": "69.00",
+            "promotionId": "null",
+            "priceShow": "৳ 69",
+            "discount": "-63%",
+            "ratingScore": "4.66667",
+            "review": "6",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227449996_BD-1171574120",
+            "sku": "227449996_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510137060",
+            "mainSellerId": "",
+            "sellerName": "Dcoom BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9b779304e2d22e7a18423b1f63173e9e.jpg",
+                    "productUrl": "/products/-i227449996-s1171574120.html",
+                    "sku": "227449996_BD",
+                    "skuId": "1171574120"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                10002728
+            ],
+            "clickTrace": "query:;nid:227449996;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:227449996_BD;price:69.00;client:desktop;supplier_id:700510137060;asc_category_id:10002728;item_id:227449996;sku_id:1171574120;shop_id:230934",
+            "addToCartSkus": [
+                {
+                    "sku": "227449996_BD-1171574120",
+                    "skuId": "1171574120",
+                    "count": 0
+                }
+            ],
+            "itemId": "227449996",
+            "skuId": "1171574120",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Gatling Bubble Machine Bubble T-oy Electric Porous Bubble Machine",
+            "nid": "201704774",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "201704774",
+                "scene_pre": "search",
+                "current_price": "298.00",
+                "x_sku_ids": "1148861828",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "201704774"
+            },
+            "productUrl": "//www.daraz.com.bd/products/gatling-oy-i201704774-s1148861828.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4ce698678f178dd8affb6422f64f525e.jpg",
+            "originalPrice": "1150.00",
+            "originalPriceShow": "৳ 1,150",
+            "price": "298.00",
+            "promotionId": "null",
+            "priceShow": "৳ 298",
+            "discount": "-74%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "201704774_BD-1148861828",
+            "sku": "201704774_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508763443",
+            "mainSellerId": "",
+            "sellerName": "Q Shop BD 24",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4ce698678f178dd8affb6422f64f525e.jpg",
+                    "productUrl": "/products/gatling-oy-i201704774-s1148861828.html",
+                    "sku": "201704774_BD",
+                    "skuId": "1148861828"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9245,
+                9264
+            ],
+            "clickTrace": "query:;nid:201704774;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:201704774_BD;price:298.00;client:desktop;supplier_id:700508763443;asc_category_id:9264;item_id:201704774;sku_id:1148861828;shop_id:181961",
+            "addToCartSkus": [
+                {
+                    "sku": "201704774_BD-1148861828",
+                    "skuId": "1148861828",
+                    "count": 0
+                }
+            ],
+            "itemId": "201704774",
+            "skuId": "1148861828",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Captain Bike KD Trolley - White & Blue",
+            "nid": "131588272",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "131588272",
+                "scene_pre": "search",
+                "current_price": "3010",
+                "x_sku_ids": "1051892884",
+                "SN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "x_ad": "1",
+                "x_object_id": "131588272"
+            },
+            "productUrl": "//www.daraz.com.bd/products/captain-bike-kd-trolley-white-blue-i131588272-s1051892884.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/e9d0b61f9a46a76e5e46636972d5f1b1.jpg",
+            "originalPrice": "3500.00",
+            "originalPriceShow": "৳ 3,500",
+            "price": "3010",
+            "promotionId": "null",
+            "priceShow": "৳ 3,010",
+            "discount": "-14%",
+            "ratingScore": "4.56627",
+            "review": "83",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "131588272_BD-1051892884",
+            "sku": "131588272_BD",
+            "skus": [],
+            "description": [
+                "New Attractive Shape with smart outlook",
+                "Auto Music System for babys fun moment",
+                "All smooth shape for baby skin protection",
+                "Seat back top for perfect balance for the body",
+                "Maximum of 30 KG weight capacity",
+                "Metal Stand behind the seat for using as trolley",
+                "Suitable age group: 3-8 years",
+                "Measurement:L-66cm, W-42cm, H-85cm"
+            ],
+            "brandId": "189812",
+            "brandName": "ACI Premio Plastics",
+            "sellerId": "5628",
+            "mainSellerId": "",
+            "sellerName": "ACI Premio Plastics",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/e9d0b61f9a46a76e5e46636972d5f1b1.jpg",
+                    "productUrl": "/products/captain-bike-kd-trolley-white-blue-i131588272-s1051892884.html",
+                    "sku": "131588272_BD",
+                    "skuId": "1051892884"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                9067,
+                9229,
+                9245,
+                9246
+            ],
+            "clickTrace": "query:;nid:131588272;src:LazadaMainSrp;rn:4d11a81643f91c6d3e0a37c9f76fb8d5;region:bd;sku:131588272_BD;price:3010;client:desktop;supplier_id:5628;asc_category_id:9246;item_id:131588272;sku_id:1051892884;shop_id:5633",
+            "addToCartSkus": [
+                {
+                    "sku": "131588272_BD-1051892884",
+                    "skuId": "1051892884",
+                    "count": 0
+                }
+            ],
+            "itemId": "131588272",
+            "skuId": "1051892884",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/toys-games/",
+            "title": "Toys & Games"
+        },
+        {
+            "url": "/sports-and-outdoor-play/",
+            "title": "Sports & Outdoor Play"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/sports-and-outdoor-play/?referer_rn=4d11a81643f91c6d3e0a37c9f76fb8d5&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {},
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/fidget-spinners/?item_id=227034957&from=onesearch_category_9229",
+                "name": "Fidget Spinners & Cubes",
+                "image": "//static-01.daraz.com.bd/original/0b80b3cf16fc64f8b5b52a4eb05eea42.jpg",
+                "id": "10002728"
+            },
+            {
+                "url": "/blaster-guns-slingshots/?item_id=183622814&from=onesearch_category_9229",
+                "name": "Blaster Guns",
+                "image": "//static-01.daraz.com.bd/p/31e3ba592f78782216960e1d97e56c6d.jpg",
+                "id": "9266"
+            },
+            {
+                "url": "/outdoor-toys/?item_id=170762361&from=onesearch_category_9229",
+                "name": "Kids Bikes & Accessories",
+                "image": "//static-01.daraz.com.bd/p/mdc/6e9f591d628ab1eb972ed121332b6fb8.jpg",
+                "id": "9248"
+            },
+            {
+                "url": "/sports-toys/?item_id=114918576&from=onesearch_category_9229",
+                "name": "Toys Sports",
+                "image": "//static-01.daraz.com.bd/p/mdc/19c7620c706f0f9fe27f5aa5db5e3d18.jpg",
+                "id": "9332"
+            },
+            {
+                "url": "/tricycles-bicycles/?item_id=164330745&from=onesearch_category_9229",
+                "name": "Kids Tricycles",
+                "image": "//static-01.daraz.com.bd/p/695fa8125151fb1a8f1f613c9d91d779.jpg",
+                "id": "9246"
+            },
+            {
+                "url": "/play-tents-tunnels/?item_id=132396748&from=onesearch_category_9229",
+                "name": "Play Tents & Tunnels",
+                "image": "//static-01.daraz.com.bd/p/mdc/212920175e055bc6227e77dcb32ba69f.jpg",
+                "id": "9276"
+            },
+            {
+                "url": "/toy-parachute-figures/?item_id=183463396&from=onesearch_category_9229",
+                "name": "Toy Parachute Figures",
+                "image": "//static-01.daraz.com.bd/p/5e99c4567e71d4a7240c5cab38bc95d6.jpg",
+                "id": "9232"
+            },
+            {
+                "url": "/airplane-construction-kits/?item_id=232556356&from=onesearch_category_9229",
+                "name": "Airplane Construction Kits",
+                "image": "//static-01.daraz.com.bd/p/91fa9660adc86c75496ae651b4145331.jpg",
+                "id": "9231"
+            },
+            {
+                "url": "/pools/?item_id=132034944&from=onesearch_category_9229",
+                "name": "Swimming Pools",
+                "image": "//static-01.daraz.com.bd/p/11d844d9e981a55e9d01e9afe24bc434.jpg",
+                "id": "10002781"
+            },
+            {
+                "url": "/kids-scooters/?item_id=163076030&from=onesearch_category_9229",
+                "name": "Kids Scooters",
+                "image": "//static-01.daraz.com.bd/p/d7c47a5e986f17c93b3b8ee1bbf02a91.jpg",
+                "id": "9247"
+            },
+            {
+                "url": "/foam-play-toys/?item_id=223996668&from=onesearch_category_9229",
+                "name": "Foam Play",
+                "image": "//static-01.daraz.com.bd/p/cf9256423d7b53091a3161428d1313e2.jpg",
+                "id": "9264"
+            },
+            {
+                "url": "/water-toys-and-pool-games/?item_id=222149541&from=onesearch_category_9229",
+                "name": "Water Toys & Pool Games",
+                "image": "//static-01.daraz.com.bd/p/8f54172ac136353fae1d4c3f36e4b78e.jpg",
+                "id": "10002785"
+            },
+            {
+                "url": "/ride-ons/?item_id=126409323&from=onesearch_category_9229",
+                "name": "Ride-on",
+                "image": "//static-01.daraz.com.bd/p/b536543b6e879f2ad0658488ab832eb1.jpg",
+                "id": "9251"
+            },
+            {
+                "url": "/flying-discs/?item_id=225841125&from=onesearch_category_9229",
+                "name": "Flying Discs",
+                "image": "//static-01.daraz.com.bd/p/a6367e08abbeaa0e3d93ba8df75e3847.jpg",
+                "id": "9242"
+            },
+            {
+                "url": "/kids-tennis-balls/?item_id=198225599&from=onesearch_category_9229",
+                "name": "Tennis Balls",
+                "image": "//static-01.daraz.com.bd/p/dc19b6ec069ff851b0c4b2eada92abfd.jpg",
+                "id": "9327"
+            },
+            {
+                "url": "/swing-sets/?item_id=110264826&from=onesearch_category_9229",
+                "name": "Play & Swing Sets",
+                "image": "//static-01.daraz.com.bd/p/7309fdf7cbf62812c88480b1b25e061e.jpg",
+                "id": "9272"
+            },
+            {
+                "url": "/kids-hockey-sticks/?item_id=184169373&from=onesearch_category_9229",
+                "name": "Hockey Sticks",
+                "image": "//static-01.daraz.com.bd/p/dcc65a8ae1b48eec25de4969be301217.jpg",
+                "id": "9314"
+            },
+            {
+                "url": "/yo-yos-kendamas/?item_id=184326357&from=onesearch_category_9229",
+                "name": "Yo-yos & Kendamas",
+                "image": "//static-01.daraz.com.bd/p/bd8eae5875d94fd286c8f64270f847cd.jpg",
+                "id": "9340"
+            },
+            {
+                "url": "/cars-wagons/?item_id=173796363&from=onesearch_category_9229",
+                "name": "Wagons",
+                "image": "//static-01.daraz.com.bd/p/mdc/ba6985d760ca9f1535f48795ad6fe5ac.jpg",
+                "id": "9253"
+            },
+            {
+                "url": "/blaster-toy-refills-parts/?item_id=133272644&from=onesearch_category_9229",
+                "name": "Parts and Refills",
+                "image": "//static-01.daraz.com.bd/p/294efe798eb74eeb2b5f9165d803d42d.jpg",
+                "id": "9267"
+            },
+            {
+                "url": "/wind-spinners/?item_id=212897010&from=onesearch_category_9229",
+                "name": "Wind Spinners",
+                "image": "//static-01.daraz.com.bd/p/97bb00dad9edd22dd3f0cdc61832a6e5.jpg",
+                "id": "9237"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_9229"
+        },
+        "title": "",
+        "bizId": "onesearch_category_9229",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "101943 items found in {$0}",
+        "title": "Sports & Outdoor Play",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Sports & Outdoor Play"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Sports & Outdoor Play",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "9229",
+            "category": "9229"
+        },
+        "categoryRegionalKey": "191400000000",
+        "mainCategoryRegionalKey": "190000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "খেলাধুলা ও আউটডোর খেলার at Best Price | 20% Off on Daraz | Buy Online",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Toys & Games,Sports & Outdoor Play",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "191400000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=9229&_p_asc_cateid=9229",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "sports-and-outdoor-play",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "4d11a81643f91c6d3e0a37c9f76fb8d5",
+                "resultNr": 101943,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1103242629",
+                "1078898458",
+                "1045244795"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "9229",
+            "category": "9229"
+        }
+    }
+}

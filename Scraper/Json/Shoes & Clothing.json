@@ -1,0 +1,4497 @@
+{
+    "listItems": [
+        {
+            "name": "Wander & Capture Half Hata tshirt",
+            "nid": "218522306",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "218522306",
+                "scene_pre": "search",
+                "current_price": "76",
+                "x_sku_ids": "1166336173",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "218522306"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i218522306-s1166336173.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/af5737c6cf4e5749dd728354410966b9.jpg",
+            "originalPrice": "199.00",
+            "originalPriceShow": "৳ 199",
+            "price": "76",
+            "promotionId": "null",
+            "priceShow": "৳ 76",
+            "discount": "-62%",
+            "ratingScore": "4.6383",
+            "review": "47",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "218522306_BD-1166336173",
+            "sku": "218522306_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509861037",
+            "mainSellerId": "",
+            "sellerName": "Waafee Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/af5737c6cf4e5749dd728354410966b9.jpg",
+                    "productUrl": "/products/-i218522306-s1166336173.html",
+                    "sku": "218522306_BD",
+                    "skuId": "1166336173"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/87f1fe738a62d0dde46530b9d7039c2c.jpg",
+                    "productUrl": "/products/-i218522306-s1166336164.html",
+                    "sku": "218522306_BD",
+                    "skuId": "1166336164"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f92534eb90720f381deb59fabe61e0fb.jpg",
+                    "productUrl": "/products/-i218522306-s1166336159.html",
+                    "sku": "218522306_BD",
+                    "skuId": "1166336159"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:218522306;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:218522306_BD;price:76;client:desktop;supplier_id:700509861037;asc_category_id:4861;item_id:218522306;sku_id:1166336173;shop_id:218067",
+            "addToCartSkus": [
+                {
+                    "sku": "218522306_BD-1166336169",
+                    "title": "Int S",
+                    "skuId": "1166336169",
+                    "count": 0
+                },
+                {
+                    "sku": "218522306_BD-1166336170",
+                    "title": "Int M",
+                    "skuId": "1166336170",
+                    "count": 0
+                },
+                {
+                    "sku": "218522306_BD-1166336171",
+                    "title": "Int L",
+                    "skuId": "1166336171",
+                    "count": 0
+                },
+                {
+                    "sku": "218522306_BD-1166336172",
+                    "title": "Int XL",
+                    "skuId": "1166336172",
+                    "count": 0
+                },
+                {
+                    "sku": "218522306_BD-1166336173",
+                    "title": "Int XXL",
+                    "skuId": "1166336173",
+                    "count": 0
+                }
+            ],
+            "itemId": "218522306",
+            "skuId": "1166336173",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Hand Fingerless  for Slim Hand Gloves 2 Pieces",
+            "nid": "203508232",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "203508232",
+                "scene_pre": "search",
+                "current_price": "44",
+                "x_sku_ids": "1166473347",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "203508232"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-i203508232-s1166473347.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3cceb8ba005e5b29545ba113b48acf9d.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "44",
+            "promotionId": "null",
+            "priceShow": "৳ 44",
+            "discount": "-63%",
+            "ratingScore": "4.5",
+            "review": "62",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "203508232_BD-1166473347",
+            "sku": "203508232_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1033059",
+            "mainSellerId": "",
+            "sellerName": "Dream Tech",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3cceb8ba005e5b29545ba113b48acf9d.jpg",
+                    "productUrl": "/products/2-i203508232-s1166473347.html",
+                    "sku": "203508232_BD",
+                    "skuId": "1166473347"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/248bc73769ba4f171ff4ef8d7de19781.jpg",
+                    "productUrl": "/products/2-i203508232-s1151549810.html",
+                    "sku": "203508232_BD",
+                    "skuId": "1151549810"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                10000844,
+                10000919
+            ],
+            "clickTrace": "query:;nid:203508232;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:203508232_BD;price:44;client:desktop;supplier_id:1033059;asc_category_id:10000919;item_id:203508232;sku_id:1166473347;shop_id:39036",
+            "addToCartSkus": [
+                {
+                    "sku": "203508232_BD-1166473347",
+                    "title": "Int: One size",
+                    "skuId": "1166473347",
+                    "count": 0
+                }
+            ],
+            "itemId": "203508232",
+            "skuId": "1166473347",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "funny men Poly cotton t shirt Classic Trees T Shirt Good Quality T-shirt Top Tees New Summer NextGen Mart",
+            "nid": "207399036",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "207399036",
+                "scene_pre": "search",
+                "current_price": "85",
+                "x_sku_ids": "1156990240",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "207399036"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i207399036-s1156990240.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/cb0b32869ffb393630b71bebcf13757a.png",
+            "originalPrice": "199.00",
+            "originalPriceShow": "৳ 199",
+            "price": "85",
+            "promotionId": "null",
+            "priceShow": "৳ 85",
+            "discount": "-57%",
+            "ratingScore": "4.5",
+            "review": "24",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "207399036_BD-1156990240",
+            "sku": "207399036_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508517086",
+            "mainSellerId": "",
+            "sellerName": "NextGen MART",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cb0b32869ffb393630b71bebcf13757a.png",
+                    "productUrl": "/products/-i207399036-s1156990240.html",
+                    "sku": "207399036_BD",
+                    "skuId": "1156990240"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:207399036;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:207399036_BD;price:85;client:desktop;supplier_id:700508517086;asc_category_id:4861;item_id:207399036;sku_id:1156990240;shop_id:164895",
+            "addToCartSkus": [
+                {
+                    "sku": "207399036_BD-1156990240",
+                    "title": "Int S",
+                    "skuId": "1156990240",
+                    "count": 0
+                },
+                {
+                    "sku": "207399036_BD-1156990241",
+                    "title": "Int M",
+                    "skuId": "1156990241",
+                    "count": 0
+                },
+                {
+                    "sku": "207399036_BD-1156990242",
+                    "title": "Int L",
+                    "skuId": "1156990242",
+                    "count": 0
+                },
+                {
+                    "sku": "207399036_BD-1156990243",
+                    "title": "Int XL",
+                    "skuId": "1156990243",
+                    "count": 0
+                },
+                {
+                    "sku": "207399036_BD-1156990244",
+                    "title": "Int XXL",
+                    "skuId": "1156990244",
+                    "count": 0
+                }
+            ],
+            "itemId": "207399036",
+            "skuId": "1156990240",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sports trousers  for men - Black",
+            "nid": "128776743",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "128776743",
+                "scene_pre": "search",
+                "current_price": "216",
+                "x_sku_ids": "1048606577",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "128776743"
+            },
+            "productUrl": "//www.daraz.com.bd/products/blue-sports-trouser-sk-collection-i128776743-s1048606577.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/f2e349a35118cadcda3e087cc131af8f.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "216",
+            "promotionId": "null",
+            "priceShow": "৳ 216",
+            "discount": "-38%",
+            "ratingScore": "4.26",
+            "review": "350",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "128776743_BD-1048606577",
+            "sku": "128776743_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Trouser",
+                "Color: Blue",
+                "Main Material: Cotton & Polyester",
+                "Gender: Men",
+                "Made in Bangladesh",
+                "For any sports",
+                "Comfortable, and Flexible",
+                "Trendy",
+                "Soft, lightweight fabric"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505064137",
+            "mainSellerId": "",
+            "sellerName": "SK Collection",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/f2e349a35118cadcda3e087cc131af8f.jpg",
+                    "productUrl": "/products/blue-sports-trouser-sk-collection-i128776743-s1048606577.html",
+                    "sku": "128776743_BD",
+                    "skuId": "1048606577"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4859
+            ],
+            "clickTrace": "query:;nid:128776743;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:128776743_BD;price:216;client:desktop;supplier_id:700505064137;asc_category_id:4859;item_id:128776743;sku_id:1048606577;shop_id:55444",
+            "addToCartSkus": [
+                {
+                    "sku": "128776743_BD-1054836913",
+                    "title": "Int M",
+                    "skuId": "1054836913",
+                    "count": 0
+                },
+                {
+                    "sku": "128776743_BD-1048606577",
+                    "title": "Int L",
+                    "skuId": "1048606577",
+                    "count": 0
+                },
+                {
+                    "sku": "128776743_BD-1048606578",
+                    "title": "Int XL",
+                    "skuId": "1048606578",
+                    "count": 0
+                },
+                {
+                    "sku": "128776743_BD-1048606579",
+                    "title": "Int XXL",
+                    "skuId": "1048606579",
+                    "count": 0
+                },
+                {
+                    "sku": "128776743_BD-1077504439",
+                    "title": "Int 3XL",
+                    "skuId": "1077504439",
+                    "count": 0
+                },
+                {
+                    "sku": "128776743_BD-1078700756",
+                    "title": "Int 4XL",
+                    "skuId": "1078700756",
+                    "count": 0
+                }
+            ],
+            "itemId": "128776743",
+            "skuId": "1048606577",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Lotto Black Cotton T-Shirt for Men",
+            "nid": "208461066",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "208461066",
+                "scene_pre": "search",
+                "current_price": "390.00",
+                "x_sku_ids": "1158690845",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "208461066"
+            },
+            "productUrl": "//www.daraz.com.bd/products/t-shirt-i208461066-s1158690845.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d8e7abe033088f99928524684d4e33eb.jpg",
+            "originalPrice": "590.00",
+            "originalPriceShow": "৳ 590",
+            "price": "390.00",
+            "promotionId": "null",
+            "priceShow": "৳ 390",
+            "discount": "-34%",
+            "ratingScore": "4.6506",
+            "review": "83",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "208461066_BD-1158690845",
+            "sku": "208461066_BD",
+            "skus": [],
+            "description": [
+                "Product type: T-Shirt ",
+                "Color: Blue ",
+                "Material: 100% Cotton",
+                "Soft comfortable cotton",
+                "High-Quality Chest Print with original Lotto Logo."
+            ],
+            "brandId": "45363",
+            "brandName": "Lotto",
+            "sellerId": "1034176",
+            "mainSellerId": "",
+            "sellerName": "Lotto-Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d8e7abe033088f99928524684d4e33eb.jpg",
+                    "productUrl": "/products/t-shirt-i208461066-s1158690845.html",
+                    "sku": "208461066_BD",
+                    "skuId": "1158690845"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:208461066;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:208461066_BD;price:390.00;client:desktop;supplier_id:1034176;asc_category_id:4861;item_id:208461066;sku_id:1158690845;shop_id:40125",
+            "addToCartSkus": [
+                {
+                    "sku": "208461066_BD-1158690845",
+                    "title": "Int S",
+                    "skuId": "1158690845",
+                    "count": 0
+                },
+                {
+                    "sku": "208461066_BD-1158690846",
+                    "title": "Int M",
+                    "skuId": "1158690846",
+                    "count": 0
+                },
+                {
+                    "sku": "208461066_BD-1158690847",
+                    "title": "Int L",
+                    "skuId": "1158690847",
+                    "count": 0
+                },
+                {
+                    "sku": "208461066_BD-1158690848",
+                    "title": "Int XL",
+                    "skuId": "1158690848",
+                    "count": 0
+                },
+                {
+                    "sku": "208461066_BD-1158690849",
+                    "title": "Int XXL",
+                    "skuId": "1158690849",
+                    "count": 0
+                }
+            ],
+            "itemId": "208461066",
+            "skuId": "1158690845",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Gym-Tank-Top  Sleeve-less Workout Hoodie For Men",
+            "nid": "207473568",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "207473568",
+                "scene_pre": "search",
+                "current_price": "220",
+                "x_sku_ids": "1157120636",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "207473568"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i207473568-s1157120636.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ea4952f07135dc2c9eebc313eb77015c.jpg",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "220",
+            "promotionId": "null",
+            "priceShow": "৳ 220",
+            "discount": "-71%",
+            "ratingScore": "4.34146",
+            "review": "41",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "207473568_BD-1157120636",
+            "sku": "207473568_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507668376",
+            "mainSellerId": "",
+            "sellerName": "Sukariya Paridhan",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ea4952f07135dc2c9eebc313eb77015c.jpg",
+                    "productUrl": "/products/-i207473568-s1157120636.html",
+                    "sku": "207473568_BD",
+                    "skuId": "1157120636"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                10000915
+            ],
+            "clickTrace": "query:;nid:207473568;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:207473568_BD;price:220;client:desktop;supplier_id:700507668376;asc_category_id:10000915;item_id:207473568;sku_id:1157120636;shop_id:105797",
+            "addToCartSkus": [
+                {
+                    "sku": "207473568_BD-1157120636",
+                    "title": "Int M",
+                    "skuId": "1157120636",
+                    "count": 0
+                },
+                {
+                    "sku": "207473568_BD-1157120637",
+                    "title": "Int L",
+                    "skuId": "1157120637",
+                    "count": 0
+                },
+                {
+                    "sku": "207473568_BD-1157120638",
+                    "title": "Int XL",
+                    "skuId": "1157120638",
+                    "count": 0
+                },
+                {
+                    "sku": "207473568_BD-1157120639",
+                    "title": "Int XXL",
+                    "skuId": "1157120639",
+                    "count": 0
+                }
+            ],
+            "itemId": "207473568",
+            "skuId": "1157120636",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sports Jersey  - Football Jersey For Men (Premium Quality)",
+            "nid": "183789305",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183789305",
+                "scene_pre": "search",
+                "current_price": "190",
+                "x_sku_ids": "1128317854",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "183789305"
+            },
+            "productUrl": "//www.daraz.com.bd/products/sports-jersey-football-jersey-for-men-premium-quality-i183789305-s1128317854.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/17c44f2e96955be7c947c976e09ade1e.jpg",
+            "originalPrice": "790.00",
+            "originalPriceShow": "৳ 790",
+            "price": "190",
+            "promotionId": "null",
+            "priceShow": "৳ 190",
+            "discount": "-76%",
+            "ratingScore": "4.55556",
+            "review": "27",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183789305_BD-1128317854",
+            "sku": "183789305_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508139117",
+            "mainSellerId": "",
+            "sellerName": "Arnob Fashion House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/17c44f2e96955be7c947c976e09ade1e.jpg",
+                    "productUrl": "/products/sports-jersey-football-jersey-for-men-premium-quality-i183789305-s1128317854.html",
+                    "sku": "183789305_BD",
+                    "skuId": "1128317854"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:183789305;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:183789305_BD;price:190;client:desktop;supplier_id:700508139117;asc_category_id:4861;item_id:183789305;sku_id:1128317854;shop_id:128814",
+            "addToCartSkus": [
+                {
+                    "sku": "183789305_BD-1128317853",
+                    "title": "Int L",
+                    "skuId": "1128317853",
+                    "count": 0
+                },
+                {
+                    "sku": "183789305_BD-1128317854",
+                    "title": "Int XL",
+                    "skuId": "1128317854",
+                    "count": 0
+                },
+                {
+                    "sku": "183789305_BD-1128317855",
+                    "title": "Int XXL",
+                    "skuId": "1128317855",
+                    "count": 0
+                }
+            ],
+            "itemId": "183789305",
+            "skuId": "1128317854",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bangladesh Cricket Team Practice Jersey - Half Sleeve ( Premium",
+            "nid": "171702285",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171702285",
+                "scene_pre": "search",
+                "current_price": "209.00",
+                "x_sku_ids": "1107736306",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "171702285"
+            },
+            "productUrl": "//www.daraz.com.bd/products/bangladesh-cricket-team-practice-jersey-half-sleeve-premium-quality-i171702285-s1107736306.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/276a792942e69eb3176bce613081c572.jpg",
+            "originalPrice": "490.00",
+            "originalPriceShow": "৳ 490",
+            "price": "209.00",
+            "promotionId": "null",
+            "priceShow": "৳ 209",
+            "discount": "-57%",
+            "ratingScore": "5",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171702285_BD-1107736306",
+            "sku": "171702285_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507680198",
+            "mainSellerId": "",
+            "sellerName": "Quality Online Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/276a792942e69eb3176bce613081c572.jpg",
+                    "productUrl": "/products/bangladesh-cricket-team-practice-jersey-half-sleeve-premium-quality-i171702285-s1107736306.html",
+                    "sku": "171702285_BD",
+                    "skuId": "1107736306"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:171702285;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:171702285_BD;price:209.00;client:desktop;supplier_id:700507680198;asc_category_id:4861;item_id:171702285;sku_id:1107736306;shop_id:104460",
+            "addToCartSkus": [
+                {
+                    "sku": "171702285_BD-1107736306",
+                    "title": "Int L",
+                    "skuId": "1107736306",
+                    "count": 0
+                },
+                {
+                    "sku": "171702285_BD-1107736307",
+                    "title": "Int XL",
+                    "skuId": "1107736307",
+                    "count": 0
+                },
+                {
+                    "sku": "171702285_BD-1107736308",
+                    "title": "Int XXL",
+                    "skuId": "1107736308",
+                    "count": 0
+                }
+            ],
+            "itemId": "171702285",
+            "skuId": "1107736306",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "2022 Men Short Sleeve T-Shirt Street Smart Fitness Quick Dry TShirt Digital Printing Season",
+            "nid": "209506566",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209506566",
+                "scene_pre": "search",
+                "current_price": "79",
+                "x_sku_ids": "1159747461",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "209506566"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2022-i209506566-s1159747461.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e44f573ebcdf06b4ed14f73958ccc1e6.jpg",
+            "originalPrice": "199.00",
+            "originalPriceShow": "৳ 199",
+            "price": "79",
+            "promotionId": "null",
+            "priceShow": "৳ 79",
+            "discount": "-60%",
+            "ratingScore": "4.33333",
+            "review": "27",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209506566_BD-1159747461",
+            "sku": "209506566_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509297101",
+            "mainSellerId": "",
+            "sellerName": "SADiA GARMENTs",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e44f573ebcdf06b4ed14f73958ccc1e6.jpg",
+                    "productUrl": "/products/2022-i209506566-s1159747461.html",
+                    "sku": "209506566_BD",
+                    "skuId": "1159747461"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/eef1df8fe64186e7863eb7239432a9cd.jpg",
+                    "productUrl": "/products/2022-i209506566-s1159747462.html",
+                    "sku": "209506566_BD",
+                    "skuId": "1159747462"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/05bbc169542b7020d914fd262b87d567.jpg",
+                    "productUrl": "/products/2022-i209506566-s1159747467.html",
+                    "sku": "209506566_BD",
+                    "skuId": "1159747467"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7b3bccc22d4e5566a87358e48bf972ab.jpg",
+                    "productUrl": "/products/2022-i209506566-s1159747447.html",
+                    "sku": "209506566_BD",
+                    "skuId": "1159747447"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:209506566;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:209506566_BD;price:79;client:desktop;supplier_id:700509297101;asc_category_id:4861;item_id:209506566;sku_id:1159747461;shop_id:206889",
+            "addToCartSkus": [
+                {
+                    "sku": "209506566_BD-1159747452",
+                    "title": "Int S",
+                    "skuId": "1159747452",
+                    "count": 0
+                },
+                {
+                    "sku": "209506566_BD-1159747453",
+                    "title": "Int M",
+                    "skuId": "1159747453",
+                    "count": 0
+                },
+                {
+                    "sku": "209506566_BD-1159747454",
+                    "title": "Int L",
+                    "skuId": "1159747454",
+                    "count": 0
+                },
+                {
+                    "sku": "209506566_BD-1159747455",
+                    "title": "Int XL",
+                    "skuId": "1159747455",
+                    "count": 0
+                },
+                {
+                    "sku": "209506566_BD-1159747456",
+                    "title": "Int XXL",
+                    "skuId": "1159747456",
+                    "count": 0
+                }
+            ],
+            "itemId": "209506566",
+            "skuId": "1159747461",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Three Sided Menz Fashionable Short Sleeve Tshirt",
+            "nid": "226487123",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "226487123",
+                "scene_pre": "search",
+                "current_price": "76",
+                "x_sku_ids": "1171002128",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "226487123"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i226487123-s1171002128.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/326fad3660a6107e7df0778d4ecc62bf.jpg",
+            "originalPrice": "199.00",
+            "originalPriceShow": "৳ 199",
+            "price": "76",
+            "promotionId": "null",
+            "priceShow": "৳ 76",
+            "discount": "-62%",
+            "ratingScore": "5",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "226487123_BD-1171002128",
+            "sku": "226487123_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510092150",
+            "mainSellerId": "",
+            "sellerName": "Waafee Mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/326fad3660a6107e7df0778d4ecc62bf.jpg",
+                    "productUrl": "/products/-i226487123-s1171002128.html",
+                    "sku": "226487123_BD",
+                    "skuId": "1171002128"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4686d03444439c388896440b04ec1b00.jpg",
+                    "productUrl": "/products/-i226487123-s1171002120.html",
+                    "sku": "226487123_BD",
+                    "skuId": "1171002120"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a6a3313dd933ce1392baab9db5839f19.jpg",
+                    "productUrl": "/products/-i226487123-s1171002140.html",
+                    "sku": "226487123_BD",
+                    "skuId": "1171002140"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:226487123;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:226487123_BD;price:76;client:desktop;supplier_id:700510092150;asc_category_id:4861;item_id:226487123;sku_id:1171002128;shop_id:228054",
+            "addToCartSkus": [
+                {
+                    "sku": "226487123_BD-1171002125",
+                    "title": "Int S",
+                    "skuId": "1171002125",
+                    "count": 0
+                },
+                {
+                    "sku": "226487123_BD-1171002126",
+                    "title": "Int M",
+                    "skuId": "1171002126",
+                    "count": 0
+                },
+                {
+                    "sku": "226487123_BD-1171002127",
+                    "title": "Int L",
+                    "skuId": "1171002127",
+                    "count": 0
+                },
+                {
+                    "sku": "226487123_BD-1171002128",
+                    "title": "Int XL",
+                    "skuId": "1171002128",
+                    "count": 0
+                },
+                {
+                    "sku": "226487123_BD-1171002139",
+                    "title": "Int XXL",
+                    "skuId": "1171002139",
+                    "count": 0
+                }
+            ],
+            "itemId": "226487123",
+            "skuId": "1171002128",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "New BCB jersey t-shirt",
+            "nid": "230503922",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230503922",
+                "scene_pre": "search",
+                "current_price": "99.00",
+                "x_sku_ids": "1173936599",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "230503922"
+            },
+            "productUrl": "//www.daraz.com.bd/products/bcb-i230503922-s1173936599.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4d2adc945ea0eb9e71f928f40008ab1f.jpg",
+            "originalPrice": "360.00",
+            "originalPriceShow": "৳ 360",
+            "price": "99.00",
+            "promotionId": "null",
+            "priceShow": "৳ 99",
+            "discount": "-73%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230503922_BD-1173936599",
+            "sku": "230503922_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1015018",
+            "mainSellerId": "",
+            "sellerName": "Fashion Booth",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4d2adc945ea0eb9e71f928f40008ab1f.jpg",
+                    "productUrl": "/products/bcb-i230503922-s1173936599.html",
+                    "sku": "230503922_BD",
+                    "skuId": "1173936599"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ded5218a8115b354eeb459fbdf40b04e.jpg",
+                    "productUrl": "/products/bcb-i230503922-s1173936585.html",
+                    "sku": "230503922_BD",
+                    "skuId": "1173936585"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9fda189bbc864c0d02ae7b4680ad1b83.jpg",
+                    "productUrl": "/products/bcb-i230503922-s1173936597.html",
+                    "sku": "230503922_BD",
+                    "skuId": "1173936597"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c097bd2929a60f7c190985c3734c60b8.jpg",
+                    "productUrl": "/products/bcb-i230503922-s1173936589.html",
+                    "sku": "230503922_BD",
+                    "skuId": "1173936589"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e9de6f6927c5986e5f951aa17e4aee2a.jpg",
+                    "productUrl": "/products/bcb-i230503922-s1173936593.html",
+                    "sku": "230503922_BD",
+                    "skuId": "1173936593"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ef8d807b2d3bfce2ac5f1f1c9c814bb4.jpg",
+                    "productUrl": "/products/bcb-i230503922-s1173936581.html",
+                    "sku": "230503922_BD",
+                    "skuId": "1173936581"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:230503922;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:230503922_BD;price:99.00;client:desktop;supplier_id:1015018;asc_category_id:4861;item_id:230503922;sku_id:1173936599;shop_id:21245",
+            "addToCartSkus": [
+                {
+                    "sku": "230503922_BD-1173936599",
+                    "title": "Int M",
+                    "skuId": "1173936599",
+                    "count": 0
+                },
+                {
+                    "sku": "230503922_BD-1173936600",
+                    "title": "Int L",
+                    "skuId": "1173936600",
+                    "count": 0
+                },
+                {
+                    "sku": "230503922_BD-1173936601",
+                    "title": "Int XL",
+                    "skuId": "1173936601",
+                    "count": 0
+                },
+                {
+                    "sku": "230503922_BD-1173936602",
+                    "title": "Int XXL",
+                    "skuId": "1173936602",
+                    "count": 0
+                }
+            ],
+            "itemId": "230503922",
+            "skuId": "1173936599",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Badminton Sports Jersey Short Sleeve ( Premium Quality)",
+            "nid": "157668984",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "157668984",
+                "scene_pre": "search",
+                "current_price": "269.00",
+                "x_sku_ids": "1088640740",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "157668984"
+            },
+            "productUrl": "//www.daraz.com.bd/products/badminton-sports-jersey-short-sleeve-premium-quality-i157668984-s1088640740.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/345a3c51f95f59da39300ecb1287325c.jpg",
+            "originalPrice": "690.00",
+            "originalPriceShow": "৳ 690",
+            "price": "269.00",
+            "promotionId": "null",
+            "priceShow": "৳ 269",
+            "discount": "-61%",
+            "ratingScore": "4.5",
+            "review": "32",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "157668984_BD-1088640740",
+            "sku": "157668984_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507680198",
+            "mainSellerId": "",
+            "sellerName": "Quality Online Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/345a3c51f95f59da39300ecb1287325c.jpg",
+                    "productUrl": "/products/badminton-sports-jersey-short-sleeve-premium-quality-i157668984-s1088640740.html",
+                    "sku": "157668984_BD",
+                    "skuId": "1088640740"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:157668984;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:157668984_BD;price:269.00;client:desktop;supplier_id:700507680198;asc_category_id:4861;item_id:157668984;sku_id:1088640740;shop_id:104460",
+            "addToCartSkus": [
+                {
+                    "sku": "157668984_BD-1088640740",
+                    "title": "Int L",
+                    "skuId": "1088640740",
+                    "count": 0
+                },
+                {
+                    "sku": "157668984_BD-1088640741",
+                    "title": "Int XL",
+                    "skuId": "1088640741",
+                    "count": 0
+                },
+                {
+                    "sku": "157668984_BD-1088640742",
+                    "title": "Int XXL",
+                    "skuId": "1088640742",
+                    "count": 0
+                }
+            ],
+            "itemId": "157668984",
+            "skuId": "1088640740",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sports Jersey -Football Jersey (Premium Quality)",
+            "nid": "169334070",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "169334070",
+                "scene_pre": "search",
+                "current_price": "209.00",
+                "x_sku_ids": "1103994295",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "169334070"
+            },
+            "productUrl": "//www.daraz.com.bd/products/sports-jersey-football-jersey-premium-quality-i169334070-s1103994295.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5caeafb4c093b5999dc7bb32823efcd6.jpg",
+            "originalPrice": "790.00",
+            "originalPriceShow": "৳ 790",
+            "price": "209.00",
+            "promotionId": "null",
+            "priceShow": "৳ 209",
+            "discount": "-74%",
+            "ratingScore": "4.64762",
+            "review": "105",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "169334070_BD-1103994295",
+            "sku": "169334070_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507680198",
+            "mainSellerId": "",
+            "sellerName": "Quality Online Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5caeafb4c093b5999dc7bb32823efcd6.jpg",
+                    "productUrl": "/products/sports-jersey-football-jersey-premium-quality-i169334070-s1103994295.html",
+                    "sku": "169334070_BD",
+                    "skuId": "1103994295"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:169334070;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:169334070_BD;price:209.00;client:desktop;supplier_id:700507680198;asc_category_id:4861;item_id:169334070;sku_id:1103994295;shop_id:104460",
+            "addToCartSkus": [
+                {
+                    "sku": "169334070_BD-1103994295",
+                    "title": "Int L",
+                    "skuId": "1103994295",
+                    "count": 0
+                },
+                {
+                    "sku": "169334070_BD-1103994296",
+                    "title": "Int XL",
+                    "skuId": "1103994296",
+                    "count": 0
+                },
+                {
+                    "sku": "169334070_BD-1103994297",
+                    "title": "Int XXL",
+                    "skuId": "1103994297",
+                    "count": 0
+                }
+            ],
+            "itemId": "169334070",
+            "skuId": "1103994295",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Badminton Full Sleeve Tshirt",
+            "nid": "208966033",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "208966033",
+                "scene_pre": "search",
+                "current_price": "94",
+                "x_sku_ids": "1159144691",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "208966033"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i208966033-s1159144691.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3cb6fd78dbc9ac87ac782e19ca609754.jpg",
+            "originalPrice": "225.00",
+            "originalPriceShow": "৳ 225",
+            "price": "94",
+            "promotionId": "null",
+            "priceShow": "৳ 94",
+            "discount": "-58%",
+            "ratingScore": "4.58182",
+            "review": "55",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "208966033_BD-1159144691",
+            "sku": "208966033_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509312004",
+            "mainSellerId": "",
+            "sellerName": "Waafee",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3cb6fd78dbc9ac87ac782e19ca609754.jpg",
+                    "productUrl": "/products/-i208966033-s1159144691.html",
+                    "sku": "208966033_BD",
+                    "skuId": "1159144691"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1c12c18643e55f64c58f2a108859a7aa.jpg",
+                    "productUrl": "/products/-i208966033-s1159144699.html",
+                    "sku": "208966033_BD",
+                    "skuId": "1159144699"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b24247d18c15f48b89936bc98fbaadef.jpg",
+                    "productUrl": "/products/-i208966033-s1159144694.html",
+                    "sku": "208966033_BD",
+                    "skuId": "1159144694"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:208966033;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:208966033_BD;price:94;client:desktop;supplier_id:700509312004;asc_category_id:4861;item_id:208966033;sku_id:1159144691;shop_id:205063",
+            "addToCartSkus": [
+                {
+                    "sku": "208966033_BD-1159144689",
+                    "title": "Int S",
+                    "skuId": "1159144689",
+                    "count": 0
+                },
+                {
+                    "sku": "208966033_BD-1159144690",
+                    "title": "Int M",
+                    "skuId": "1159144690",
+                    "count": 0
+                },
+                {
+                    "sku": "208966033_BD-1159144691",
+                    "title": "Int L",
+                    "skuId": "1159144691",
+                    "count": 0
+                },
+                {
+                    "sku": "208966033_BD-1159144692",
+                    "title": "Int XL",
+                    "skuId": "1159144692",
+                    "count": 0
+                },
+                {
+                    "sku": "208966033_BD-1159144693",
+                    "title": "Int XXL",
+                    "skuId": "1159144693",
+                    "count": 0
+                }
+            ],
+            "itemId": "208966033",
+            "skuId": "1159144691",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Hand Fingerless for Slim Hand Gloves 2 Pieces",
+            "nid": "218967788",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "218967788",
+                "scene_pre": "search",
+                "current_price": "44",
+                "x_sku_ids": "1166614785",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "218967788"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-i218967788-s1166614785.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ffe4382fa2bc21f30ca5dd1cb0fe435a.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "44",
+            "promotionId": "null",
+            "priceShow": "৳ 44",
+            "discount": "-71%",
+            "ratingScore": "3.66667",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "218967788_BD-1166614785",
+            "sku": "218967788_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509888077",
+            "mainSellerId": "",
+            "sellerName": "Muskan Fashion House",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ffe4382fa2bc21f30ca5dd1cb0fe435a.jpg",
+                    "productUrl": "/products/2-i218967788-s1166614785.html",
+                    "sku": "218967788_BD",
+                    "skuId": "1166614785"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                10000844,
+                10000919
+            ],
+            "clickTrace": "query:;nid:218967788;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:218967788_BD;price:44;client:desktop;supplier_id:700509888077;asc_category_id:10000919;item_id:218967788;sku_id:1166614785;shop_id:219361",
+            "addToCartSkus": [
+                {
+                    "sku": "218967788_BD-1166614785",
+                    "title": "Int: One size",
+                    "skuId": "1166614785",
+                    "count": 0
+                }
+            ],
+            "itemId": "218967788",
+            "skuId": "1166614785",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sports Jersey - Football Jersey",
+            "nid": "171412348",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171412348",
+                "scene_pre": "search",
+                "current_price": "209.00",
+                "x_sku_ids": "1107370632",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "171412348"
+            },
+            "productUrl": "//www.daraz.com.bd/products/sports-jersey-football-jersey-i171412348-s1107370632.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ec0d0457eeb73ee7f4adc29b3724ef88.jpg",
+            "originalPrice": "790.00",
+            "originalPriceShow": "৳ 790",
+            "price": "209.00",
+            "promotionId": "null",
+            "priceShow": "৳ 209",
+            "discount": "-74%",
+            "ratingScore": "4.66667",
+            "review": "24",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171412348_BD-1107370632",
+            "sku": "171412348_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507749058",
+            "mainSellerId": "",
+            "sellerName": "Quality Fashion Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ec0d0457eeb73ee7f4adc29b3724ef88.jpg",
+                    "productUrl": "/products/sports-jersey-football-jersey-i171412348-s1107370632.html",
+                    "sku": "171412348_BD",
+                    "skuId": "1107370632"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:171412348;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:171412348_BD;price:209.00;client:desktop;supplier_id:700507749058;asc_category_id:4861;item_id:171412348;sku_id:1107370632;shop_id:107736",
+            "addToCartSkus": [
+                {
+                    "sku": "171412348_BD-1107370632",
+                    "title": "Int L",
+                    "skuId": "1107370632",
+                    "count": 0
+                },
+                {
+                    "sku": "171412348_BD-1107370633",
+                    "title": "Int XL",
+                    "skuId": "1107370633",
+                    "count": 0
+                },
+                {
+                    "sku": "171412348_BD-1107370634",
+                    "title": "Int XXL",
+                    "skuId": "1107370634",
+                    "count": 0
+                }
+            ],
+            "itemId": "171412348",
+            "skuId": "1107370632",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Comfortable Jersey Fabrics Short Sleeve Menz Tshirt",
+            "nid": "224688025",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "224688025",
+                "scene_pre": "search",
+                "current_price": "95.00",
+                "x_sku_ids": "1170283882",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "224688025"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i224688025-s1170283882.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/cf8e82b870904104712e4a30e9dd7ba7.jpg",
+            "originalPrice": "175.00",
+            "originalPriceShow": "৳ 175",
+            "price": "95.00",
+            "promotionId": "null",
+            "priceShow": "৳ 95",
+            "discount": "-46%",
+            "ratingScore": "4.90909",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "224688025_BD-1170283882",
+            "sku": "224688025_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507680446",
+            "mainSellerId": "",
+            "sellerName": "NextGen Mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cf8e82b870904104712e4a30e9dd7ba7.jpg",
+                    "productUrl": "/products/-i224688025-s1170283882.html",
+                    "sku": "224688025_BD",
+                    "skuId": "1170283882"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3c697b26b3e2209de76edcd9cacbb2e4.jpg",
+                    "productUrl": "/products/-i224688025-s1170283887.html",
+                    "sku": "224688025_BD",
+                    "skuId": "1170283887"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bdc4389a749a569865a02af0fd587685.jpg",
+                    "productUrl": "/products/-i224688025-s1170283892.html",
+                    "sku": "224688025_BD",
+                    "skuId": "1170283892"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fd2fa4518c5c70e04713189830746460.jpg",
+                    "productUrl": "/products/-i224688025-s1170283902.html",
+                    "sku": "224688025_BD",
+                    "skuId": "1170283902"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:224688025;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:224688025_BD;price:95.00;client:desktop;supplier_id:700507680446;asc_category_id:4861;item_id:224688025;sku_id:1170283882;shop_id:106266",
+            "addToCartSkus": [
+                {
+                    "sku": "224688025_BD-1170283882",
+                    "title": "Int S",
+                    "skuId": "1170283882",
+                    "count": 0
+                },
+                {
+                    "sku": "224688025_BD-1170283883",
+                    "title": "Int M",
+                    "skuId": "1170283883",
+                    "count": 0
+                },
+                {
+                    "sku": "224688025_BD-1170283884",
+                    "title": "Int L",
+                    "skuId": "1170283884",
+                    "count": 0
+                },
+                {
+                    "sku": "224688025_BD-1170283885",
+                    "title": "Int XL",
+                    "skuId": "1170283885",
+                    "count": 0
+                },
+                {
+                    "sku": "224688025_BD-1170283886",
+                    "title": "Int XXL",
+                    "skuId": "1170283886",
+                    "count": 0
+                }
+            ],
+            "itemId": "224688025",
+            "skuId": "1170283882",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "New Adi_das Half Sleeve Round Neck Dashing Tshirt By NextGenMart",
+            "nid": "229740073",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "229740073",
+                "scene_pre": "search",
+                "current_price": "86",
+                "x_sku_ids": "1173291349",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "229740073"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nextgenmart-adi_das-i229740073-s1173291349.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/11e66804962721a40c2e49b18e1d1ffe.jpg",
+            "originalPrice": "199.00",
+            "originalPriceShow": "৳ 199",
+            "price": "86",
+            "promotionId": "null",
+            "priceShow": "৳ 86",
+            "discount": "-57%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "229740073_BD-1173291349",
+            "sku": "229740073_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507680446",
+            "mainSellerId": "",
+            "sellerName": "NextGen Mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/11e66804962721a40c2e49b18e1d1ffe.jpg",
+                    "productUrl": "/products/nextgenmart-adi_das-i229740073-s1173291349.html",
+                    "sku": "229740073_BD",
+                    "skuId": "1173291349"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1a22a05494e44cbbc96ee8ca3c8e46a3.jpg",
+                    "productUrl": "/products/nextgenmart-adi_das-i229740073-s1173291364.html",
+                    "sku": "229740073_BD",
+                    "skuId": "1173291364"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:229740073;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:229740073_BD;price:86;client:desktop;supplier_id:700507680446;asc_category_id:4861;item_id:229740073;sku_id:1173291349;shop_id:106266",
+            "addToCartSkus": [
+                {
+                    "sku": "229740073_BD-1173291349",
+                    "title": "Int S",
+                    "skuId": "1173291349",
+                    "count": 0
+                },
+                {
+                    "sku": "229740073_BD-1173291350",
+                    "title": "Int M",
+                    "skuId": "1173291350",
+                    "count": 0
+                },
+                {
+                    "sku": "229740073_BD-1173291351",
+                    "title": "Int L",
+                    "skuId": "1173291351",
+                    "count": 0
+                },
+                {
+                    "sku": "229740073_BD-1173291352",
+                    "title": "Int XL",
+                    "skuId": "1173291352",
+                    "count": 0
+                },
+                {
+                    "sku": "229740073_BD-1173291353",
+                    "title": "Int XXL",
+                    "skuId": "1173291353",
+                    "count": 0
+                }
+            ],
+            "itemId": "229740073",
+            "skuId": "1173291349",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Football Sports half pant for Men by SK Collection",
+            "nid": "128790353",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "128790353",
+                "scene_pre": "search",
+                "current_price": "91",
+                "x_sku_ids": "1102390321",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "128790353"
+            },
+            "productUrl": "//www.daraz.com.bd/products/football-half-pant-for-man-from-sk-collection-i128790353-s1102390321.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9b3da8782a23153d1c19b773729cca29.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "91",
+            "promotionId": "null",
+            "priceShow": "৳ 91",
+            "discount": "-55%",
+            "ratingScore": "4.30937",
+            "review": "918",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "128790353_BD-1102390321",
+            "sku": "128790353_BD",
+            "skus": [],
+            "description": [
+                "Main Material:Polyester",
+                "Color: Black",
+                "Product Type: Pant",
+                "Shorts Knee Length Half Pant",
+                "Perfect Blending of Fashion and Comfort"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505064137",
+            "mainSellerId": "",
+            "sellerName": "SK Collection",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9b3da8782a23153d1c19b773729cca29.jpg",
+                    "productUrl": "/products/football-half-pant-for-man-from-sk-collection-i128790353-s1102390321.html",
+                    "sku": "128790353_BD",
+                    "skuId": "1102390321"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1e50370a4905f44c672c03c46db044ad.jpg",
+                    "productUrl": "/products/football-half-pant-for-man-from-sk-collection-i128790353-s1135053205.html",
+                    "sku": "128790353_BD",
+                    "skuId": "1135053205"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/ac32fe8ca51a5518242d215cb1b28d05.jpg",
+                    "productUrl": "/products/football-half-pant-for-man-from-sk-collection-i128790353-s1102236468.html",
+                    "sku": "128790353_BD",
+                    "skuId": "1102236468"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/f3b60626bf3800225a74db4972b017d9.jpg",
+                    "productUrl": "/products/football-half-pant-for-man-from-sk-collection-i128790353-s1102238755.html",
+                    "sku": "128790353_BD",
+                    "skuId": "1102238755"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/334710ee6d403856af76ff767172fa02.jpg",
+                    "productUrl": "/products/football-half-pant-for-man-from-sk-collection-i128790353-s1102236467.html",
+                    "sku": "128790353_BD",
+                    "skuId": "1102236467"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/8b971aa1b44f05c5844d2919fec14bed.jpg",
+                    "productUrl": "/products/football-half-pant-for-man-from-sk-collection-i128790353-s1102376973.html",
+                    "sku": "128790353_BD",
+                    "skuId": "1102376973"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/c1d0c68538faad412700ffd287efbc55.jpg",
+                    "productUrl": "/products/football-half-pant-for-man-from-sk-collection-i128790353-s1048608054.html",
+                    "sku": "128790353_BD",
+                    "skuId": "1048608054"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/022c1151597521e629fde1e14fc29fc5.jpg",
+                    "productUrl": "/products/football-half-pant-for-man-from-sk-collection-i128790353-s1102236469.html",
+                    "sku": "128790353_BD",
+                    "skuId": "1102236469"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c68197a0f1b6d993034770eb08487011.jpg",
+                    "productUrl": "/products/football-half-pant-for-man-from-sk-collection-i128790353-s1126693165.html",
+                    "sku": "128790353_BD",
+                    "skuId": "1126693165"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                10096
+            ],
+            "clickTrace": "query:;nid:128790353;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:128790353_BD;price:91;client:desktop;supplier_id:700505064137;asc_category_id:10096;item_id:128790353;sku_id:1102390321;shop_id:55444",
+            "addToCartSkus": [
+                {
+                    "sku": "128790353_BD-1102390321",
+                    "title": "Int: One size",
+                    "skuId": "1102390321",
+                    "count": 0
+                }
+            ],
+            "itemId": "128790353",
+            "skuId": "1102390321",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Black Fully Stretched Skinny Fit Arm Sleeves  for Hand Cover Arm to Sunscreen",
+            "nid": "192655660",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "192655660",
+                "scene_pre": "search",
+                "current_price": "55.00",
+                "x_sku_ids": "1139433081",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "192655660"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i192655660-s1139433081.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/33edc9f0d2eeeff175a6e846f88d9140.jpg",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "55.00",
+            "promotionId": "null",
+            "priceShow": "৳ 55",
+            "discount": "-69%",
+            "ratingScore": "4.52174",
+            "review": "23",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "192655660_BD-1139433081",
+            "sku": "192655660_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1011088",
+            "mainSellerId": "",
+            "sellerName": "Bag House BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/33edc9f0d2eeeff175a6e846f88d9140.jpg",
+                    "productUrl": "/products/-i192655660-s1139433081.html",
+                    "sku": "192655660_BD",
+                    "skuId": "1139433081"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                10000844,
+                10000919
+            ],
+            "clickTrace": "query:;nid:192655660;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:192655660_BD;price:55.00;client:desktop;supplier_id:1011088;asc_category_id:10000919;item_id:192655660;sku_id:1139433081;shop_id:17290",
+            "addToCartSkus": [
+                {
+                    "sku": "192655660_BD-1139433081",
+                    "title": "Int M",
+                    "skuId": "1139433081",
+                    "count": 0
+                },
+                {
+                    "sku": "192655660_BD-1139433082",
+                    "title": "Int L",
+                    "skuId": "1139433082",
+                    "count": 0
+                },
+                {
+                    "sku": "192655660_BD-1139433083",
+                    "title": "Int XL",
+                    "skuId": "1139433083",
+                    "count": 0
+                }
+            ],
+            "itemId": "192655660",
+            "skuId": "1139433081",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "GREY  Sports  Trouser  for  men  and  Women by SK Collection",
+            "nid": "132570948",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "132570948",
+                "scene_pre": "search",
+                "current_price": "196",
+                "x_sku_ids": "1053682130",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "132570948"
+            },
+            "productUrl": "//www.daraz.com.bd/products/grey-sports-trouser-for-man-and-women-from-i132570948-s1053682130.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/fd02942d7f5a36abc47fa378fc6bc6cd.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "196",
+            "promotionId": "null",
+            "priceShow": "৳ 196",
+            "discount": "-51%",
+            "ratingScore": "4.12292",
+            "review": "602",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "132570948_BD-1053682130",
+            "sku": "132570948_BD",
+            "skus": [],
+            "description": [
+                "FEATURED WITH ELASTIC AND CORD ON WAIST",
+                "SIZE DESCRIPTION :",
+                "SIZE: M",
+                "{weist :21&quot;(normal),34&quot;(maximum), Suitable for (25&quot;-31&quot;)}",
+                "{height : 37&quot;}",
+                "{thai : 22&quot; &lt; 25&quot; }",
+                "{jhul : 11.5&quot;x2 }",
+                "SIZE: L",
+                "{weist : 22&quot;(normal),36&quot;(maximum), Suitable for (26&quot;-34&quot;)}",
+                "{height : 40&quot;}",
+                "{thai : 23&quot; }",
+                "{jhul : 12.5&quot;x2 }",
+                "SIZE: XL",
+                "{weist :26&quot;(normal), 40&quot;(maximum), Suitable for (31&quot;-37&quot;)}",
+                "{height : 41&quot;}",
+                "{thai :25&quot;  }",
+                "{jhul : 13&quot;x2 }",
+                "SIZE: XXL",
+                "{weist :27&quot;(normal), 42&quot;(maximum), Suitable for (35&quot;-40&quot;)}",
+                "{height : 43&quot;}",
+                "{thai : 26&quot; }",
+                "{jhul : 13.5&quot;x2 }"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505064137",
+            "mainSellerId": "",
+            "sellerName": "SK Collection",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/fd02942d7f5a36abc47fa378fc6bc6cd.jpg",
+                    "productUrl": "/products/grey-sports-trouser-for-man-and-women-from-i132570948-s1053682130.html",
+                    "sku": "132570948_BD",
+                    "skuId": "1053682130"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4859
+            ],
+            "clickTrace": "query:;nid:132570948;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:132570948_BD;price:196;client:desktop;supplier_id:700505064137;asc_category_id:4859;item_id:132570948;sku_id:1053682130;shop_id:55444",
+            "addToCartSkus": [
+                {
+                    "sku": "132570948_BD-1053682130",
+                    "title": "Int M",
+                    "skuId": "1053682130",
+                    "count": 0
+                },
+                {
+                    "sku": "132570948_BD-1053682131",
+                    "title": "Int L",
+                    "skuId": "1053682131",
+                    "count": 0
+                },
+                {
+                    "sku": "132570948_BD-1053682132",
+                    "title": "Int XL",
+                    "skuId": "1053682132",
+                    "count": 0
+                },
+                {
+                    "sku": "132570948_BD-1053682133",
+                    "title": "Int XXL",
+                    "skuId": "1053682133",
+                    "count": 0
+                },
+                {
+                    "sku": "132570948_BD-1075516385",
+                    "title": "Int 3XL",
+                    "skuId": "1075516385",
+                    "count": 0
+                },
+                {
+                    "sku": "132570948_BD-1075516386",
+                    "title": "Int 4XL",
+                    "skuId": "1075516386",
+                    "count": 0
+                }
+            ],
+            "itemId": "132570948",
+            "skuId": "1053682130",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Badminton Half Hata Tshirt",
+            "nid": "218523305",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "218523305",
+                "scene_pre": "search",
+                "current_price": "80",
+                "x_sku_ids": "1166330448",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "218523305"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i218523305-s1166330448.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9986438ad7ebd5c45b5a4af167c2ba18.jpg",
+            "originalPrice": "199.00",
+            "originalPriceShow": "৳ 199",
+            "price": "80",
+            "promotionId": "null",
+            "priceShow": "৳ 80",
+            "discount": "-60%",
+            "ratingScore": "4.85",
+            "review": "20",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "218523305_BD-1166330448",
+            "sku": "218523305_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509861037",
+            "mainSellerId": "",
+            "sellerName": "Waafee Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9986438ad7ebd5c45b5a4af167c2ba18.jpg",
+                    "productUrl": "/products/-i218523305-s1166330448.html",
+                    "sku": "218523305_BD",
+                    "skuId": "1166330448"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b8e043a10e5a85b2cf3fc88bf9ff8c24.jpg",
+                    "productUrl": "/products/-i218523305-s1166330434.html",
+                    "sku": "218523305_BD",
+                    "skuId": "1166330434"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7ea7d414aa8f20cc40c96d7e78ec1780.jpg",
+                    "productUrl": "/products/-i218523305-s1166330439.html",
+                    "sku": "218523305_BD",
+                    "skuId": "1166330439"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/21abbbb76c1277db65dc187bd7059010.jpg",
+                    "productUrl": "/products/-i218523305-s1166330449.html",
+                    "sku": "218523305_BD",
+                    "skuId": "1166330449"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:218523305;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:218523305_BD;price:80;client:desktop;supplier_id:700509861037;asc_category_id:4861;item_id:218523305;sku_id:1166330448;shop_id:218067",
+            "addToCartSkus": [
+                {
+                    "sku": "218523305_BD-1166330444",
+                    "title": "Int S",
+                    "skuId": "1166330444",
+                    "count": 0
+                },
+                {
+                    "sku": "218523305_BD-1166330445",
+                    "title": "Int M",
+                    "skuId": "1166330445",
+                    "count": 0
+                },
+                {
+                    "sku": "218523305_BD-1166330446",
+                    "title": "Int L",
+                    "skuId": "1166330446",
+                    "count": 0
+                },
+                {
+                    "sku": "218523305_BD-1166330447",
+                    "title": "Int XL",
+                    "skuId": "1166330447",
+                    "count": 0
+                },
+                {
+                    "sku": "218523305_BD-1166330448",
+                    "title": "Int XXL",
+                    "skuId": "1166330448",
+                    "count": 0
+                }
+            ],
+            "itemId": "218523305",
+            "skuId": "1166330448",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "2022 New Autumn T-shirt Casual T shirt Men Women Long sleeve Tshirt Funny T shirts Digital Printed Tshirt",
+            "nid": "209354654",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209354654",
+                "scene_pre": "search",
+                "current_price": "93",
+                "x_sku_ids": "1159586668",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "209354654"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2022-i209354654-s1159586668.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b52cb21344ede85a459a77fddde31d7c.jpg",
+            "originalPrice": "225.00",
+            "originalPriceShow": "৳ 225",
+            "price": "93",
+            "promotionId": "null",
+            "priceShow": "৳ 93",
+            "discount": "-59%",
+            "ratingScore": "4.42424",
+            "review": "33",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209354654_BD-1159586668",
+            "sku": "209354654_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509312004",
+            "mainSellerId": "",
+            "sellerName": "Waafee",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b52cb21344ede85a459a77fddde31d7c.jpg",
+                    "productUrl": "/products/2022-i209354654-s1159586668.html",
+                    "sku": "209354654_BD",
+                    "skuId": "1159586668"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/866c0517957813a72190f7f8229cc003.jpg",
+                    "productUrl": "/products/2022-i209354654-s1159586670.html",
+                    "sku": "209354654_BD",
+                    "skuId": "1159586670"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:209354654;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:209354654_BD;price:93;client:desktop;supplier_id:700509312004;asc_category_id:4861;item_id:209354654;sku_id:1159586668;shop_id:205063",
+            "addToCartSkus": [
+                {
+                    "sku": "209354654_BD-1159586665",
+                    "title": "Int S",
+                    "skuId": "1159586665",
+                    "count": 0
+                },
+                {
+                    "sku": "209354654_BD-1159586666",
+                    "title": "Int M",
+                    "skuId": "1159586666",
+                    "count": 0
+                },
+                {
+                    "sku": "209354654_BD-1159586667",
+                    "title": "Int L",
+                    "skuId": "1159586667",
+                    "count": 0
+                },
+                {
+                    "sku": "209354654_BD-1159586668",
+                    "title": "Int XL",
+                    "skuId": "1159586668",
+                    "count": 0
+                },
+                {
+                    "sku": "209354654_BD-1159586669",
+                    "title": "Int XXL",
+                    "skuId": "1159586669",
+                    "count": 0
+                }
+            ],
+            "itemId": "209354654",
+            "skuId": "1159586668",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Linking Park Comfortable half sleeve jersey fabrics tshirt for men & women",
+            "nid": "225619770",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225619770",
+                "scene_pre": "search",
+                "current_price": "77",
+                "x_sku_ids": "1170670909",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "225619770"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i225619770-s1170670909.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5043b562ff485d0aff7c26d940acb8f9.jpg",
+            "originalPrice": "199.00",
+            "originalPriceShow": "৳ 199",
+            "price": "77",
+            "promotionId": "null",
+            "priceShow": "৳ 77",
+            "discount": "-61%",
+            "ratingScore": "4.63636",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225619770_BD-1170670909",
+            "sku": "225619770_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510092150",
+            "mainSellerId": "",
+            "sellerName": "Waafee Mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5043b562ff485d0aff7c26d940acb8f9.jpg",
+                    "productUrl": "/products/-i225619770-s1170670909.html",
+                    "sku": "225619770_BD",
+                    "skuId": "1170670909"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7df0afd1f9f76d58ed8af321061e401b.jpg",
+                    "productUrl": "/products/-i225619770-s1170670918.html",
+                    "sku": "225619770_BD",
+                    "skuId": "1170670918"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9a0c83d545767396c699183a678725ce.jpg",
+                    "productUrl": "/products/-i225619770-s1170670913.html",
+                    "sku": "225619770_BD",
+                    "skuId": "1170670913"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0ae83c5c208a021332868b99a1c38ac2.jpg",
+                    "productUrl": "/products/-i225619770-s1170670923.html",
+                    "sku": "225619770_BD",
+                    "skuId": "1170670923"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:225619770;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:225619770_BD;price:77;client:desktop;supplier_id:700510092150;asc_category_id:4861;item_id:225619770;sku_id:1170670909;shop_id:228054",
+            "addToCartSkus": [
+                {
+                    "sku": "225619770_BD-1170670908",
+                    "title": "Int S",
+                    "skuId": "1170670908",
+                    "count": 0
+                },
+                {
+                    "sku": "225619770_BD-1170670909",
+                    "title": "Int M",
+                    "skuId": "1170670909",
+                    "count": 0
+                },
+                {
+                    "sku": "225619770_BD-1170670910",
+                    "title": "Int L",
+                    "skuId": "1170670910",
+                    "count": 0
+                },
+                {
+                    "sku": "225619770_BD-1170670911",
+                    "title": "Int XL",
+                    "skuId": "1170670911",
+                    "count": 0
+                },
+                {
+                    "sku": "225619770_BD-1170670912",
+                    "title": "Int XXL",
+                    "skuId": "1170670912",
+                    "count": 0
+                }
+            ],
+            "itemId": "225619770",
+            "skuId": "1170670909",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Star wars new fashionable menz half slevee tashirt",
+            "nid": "225734388",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225734388",
+                "scene_pre": "search",
+                "current_price": "77",
+                "x_sku_ids": "1170724094",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "225734388"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i225734388-s1170724094.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/16dd5af2c398a38c31fec1131fe70e82.jpg",
+            "originalPrice": "199.00",
+            "originalPriceShow": "৳ 199",
+            "price": "77",
+            "promotionId": "null",
+            "priceShow": "৳ 77",
+            "discount": "-61%",
+            "ratingScore": "5",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225734388_BD-1170724094",
+            "sku": "225734388_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510092150",
+            "mainSellerId": "",
+            "sellerName": "Waafee Mart",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/16dd5af2c398a38c31fec1131fe70e82.jpg",
+                    "productUrl": "/products/-i225734388-s1170724094.html",
+                    "sku": "225734388_BD",
+                    "skuId": "1170724094"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f2981972c84c41c8c179e29cf7c80efd.jpg",
+                    "productUrl": "/products/-i225734388-s1170724087.html",
+                    "sku": "225734388_BD",
+                    "skuId": "1170724087"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2ba77883ccefe2d328fd6589590bf16e.jpg",
+                    "productUrl": "/products/-i225734388-s1170724102.html",
+                    "sku": "225734388_BD",
+                    "skuId": "1170724102"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:225734388;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:225734388_BD;price:77;client:desktop;supplier_id:700510092150;asc_category_id:4861;item_id:225734388;sku_id:1170724094;shop_id:228054",
+            "addToCartSkus": [
+                {
+                    "sku": "225734388_BD-1170724097",
+                    "title": "Int S",
+                    "skuId": "1170724097",
+                    "count": 0
+                },
+                {
+                    "sku": "225734388_BD-1170724098",
+                    "title": "Int M",
+                    "skuId": "1170724098",
+                    "count": 0
+                },
+                {
+                    "sku": "225734388_BD-1170724094",
+                    "title": "Int L",
+                    "skuId": "1170724094",
+                    "count": 0
+                },
+                {
+                    "sku": "225734388_BD-1170724095",
+                    "title": "Int XL",
+                    "skuId": "1170724095",
+                    "count": 0
+                },
+                {
+                    "sku": "225734388_BD-1170724096",
+                    "title": "Int XXL",
+                    "skuId": "1170724096",
+                    "count": 0
+                }
+            ],
+            "itemId": "225734388",
+            "skuId": "1170724094",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fashionable broken adidaas Design half sleeve menz tshirt",
+            "nid": "227499292",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227499292",
+                "scene_pre": "search",
+                "current_price": "92",
+                "x_sku_ids": "1171613007",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "227499292"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i227499292-s1171613007.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fe05d0e3ec202fe750774a531336d760.jpg",
+            "originalPrice": "198.00",
+            "originalPriceShow": "৳ 198",
+            "price": "92",
+            "promotionId": "null",
+            "priceShow": "৳ 92",
+            "discount": "-54%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227499292_BD-1171613007",
+            "sku": "227499292_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507530380",
+            "mainSellerId": "",
+            "sellerName": "BANGLA MART",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fe05d0e3ec202fe750774a531336d760.jpg",
+                    "productUrl": "/products/-i227499292-s1171613007.html",
+                    "sku": "227499292_BD",
+                    "skuId": "1171613007"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/32b6ac598a68fd670a866465efca227a.jpg",
+                    "productUrl": "/products/-i227499292-s1171613022.html",
+                    "sku": "227499292_BD",
+                    "skuId": "1171613022"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:227499292;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:227499292_BD;price:92;client:desktop;supplier_id:700507530380;asc_category_id:4861;item_id:227499292;sku_id:1171613007;shop_id:99305",
+            "addToCartSkus": [
+                {
+                    "sku": "227499292_BD-1171613007",
+                    "title": "Int S",
+                    "skuId": "1171613007",
+                    "count": 0
+                },
+                {
+                    "sku": "227499292_BD-1171613008",
+                    "title": "Int M",
+                    "skuId": "1171613008",
+                    "count": 0
+                },
+                {
+                    "sku": "227499292_BD-1171613009",
+                    "title": "Int L",
+                    "skuId": "1171613009",
+                    "count": 0
+                },
+                {
+                    "sku": "227499292_BD-1171613010",
+                    "title": "Int XL",
+                    "skuId": "1171613010",
+                    "count": 0
+                },
+                {
+                    "sku": "227499292_BD-1171613011",
+                    "title": "Int XXL",
+                    "skuId": "1171613011",
+                    "count": 0
+                }
+            ],
+            "itemId": "227499292",
+            "skuId": "1171613007",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jersey Half Hata Comfortable Tshirt",
+            "nid": "220240915",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "220240915",
+                "scene_pre": "search",
+                "current_price": "70",
+                "x_sku_ids": "1167629893",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "220240915"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i220240915-s1167629893.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b5b0feb6471a736e56c897666103ff6d.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "70",
+            "promotionId": "null",
+            "priceShow": "৳ 70",
+            "discount": "-53%",
+            "ratingScore": "4.75",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "220240915_BD-1167629893",
+            "sku": "220240915_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508517086",
+            "mainSellerId": "",
+            "sellerName": "NextGen MART",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b5b0feb6471a736e56c897666103ff6d.jpg",
+                    "productUrl": "/products/-i220240915-s1167629893.html",
+                    "sku": "220240915_BD",
+                    "skuId": "1167629893"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b46b3df67988b4ee21befd767fb193f5.jpg",
+                    "productUrl": "/products/-i220240915-s1167629902.html",
+                    "sku": "220240915_BD",
+                    "skuId": "1167629902"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0f6e676cf17757dd0d30f2877d926b0f.jpg",
+                    "productUrl": "/products/-i220240915-s1167629887.html",
+                    "sku": "220240915_BD",
+                    "skuId": "1167629887"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/427f6ce838bf3c6b62058a1ba9957ecc.jpg",
+                    "productUrl": "/products/-i220240915-s1167629897.html",
+                    "sku": "220240915_BD",
+                    "skuId": "1167629897"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:220240915;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:220240915_BD;price:70;client:desktop;supplier_id:700508517086;asc_category_id:4861;item_id:220240915;sku_id:1167629893;shop_id:164895",
+            "addToCartSkus": [
+                {
+                    "sku": "220240915_BD-1167629892",
+                    "title": "Int S",
+                    "skuId": "1167629892",
+                    "count": 0
+                },
+                {
+                    "sku": "220240915_BD-1167629893",
+                    "title": "Int M",
+                    "skuId": "1167629893",
+                    "count": 0
+                },
+                {
+                    "sku": "220240915_BD-1167629894",
+                    "title": "Int L",
+                    "skuId": "1167629894",
+                    "count": 0
+                },
+                {
+                    "sku": "220240915_BD-1167629895",
+                    "title": "Int XL",
+                    "skuId": "1167629895",
+                    "count": 0
+                },
+                {
+                    "sku": "220240915_BD-1167629896",
+                    "title": "Int XXL",
+                    "skuId": "1167629896",
+                    "count": 0
+                }
+            ],
+            "itemId": "220240915",
+            "skuId": "1167629893",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Trendy Leather Sandal For Men-Black",
+            "nid": "230831396",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230831396",
+                "scene_pre": "search",
+                "current_price": "290",
+                "x_sku_ids": "1174161026",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "230831396"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i230831396-s1174161026.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/cc7e6f88b9680b451d64ec8d50689f44.jpg",
+            "originalPrice": "1350.00",
+            "originalPriceShow": "৳ 1,350",
+            "price": "290",
+            "promotionId": "null",
+            "priceShow": "৳ 290",
+            "discount": "-79%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230831396_BD-1174161026",
+            "sku": "230831396_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510344490",
+            "mainSellerId": "",
+            "sellerName": "House style",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cc7e6f88b9680b451d64ec8d50689f44.jpg",
+                    "productUrl": "/products/-i230831396-s1174161026.html",
+                    "sku": "230831396_BD",
+                    "skuId": "1174161026"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4845,
+                10078
+            ],
+            "clickTrace": "query:;nid:230831396;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:230831396_BD;price:290;client:desktop;supplier_id:700510344490;asc_category_id:10078;item_id:230831396;sku_id:1174161026;shop_id:232165",
+            "addToCartSkus": [
+                {
+                    "sku": "230831396_BD-1174161026",
+                    "skuId": "1174161026",
+                    "count": 0
+                }
+            ],
+            "itemId": "230831396",
+            "skuId": "1174161026",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "New ODI Cricket Kit PP Fabric Jersey 2022",
+            "nid": "229080030",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "229080030",
+                "scene_pre": "search",
+                "current_price": "499",
+                "x_sku_ids": "1172777427",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "229080030"
+            },
+            "productUrl": "//www.daraz.com.bd/products/odi-pp-2022-i229080030-s1172777427.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/beef0d6717b105ae35faa5781d8736ef.jpg",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "499",
+            "promotionId": "null",
+            "priceShow": "৳ 499",
+            "discount": "-33%",
+            "ratingScore": "4.88889",
+            "review": "18",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "229080030_BD-1172777427",
+            "sku": "229080030_BD",
+            "skus": [],
+            "description": [
+                "Color: Green and Red",
+                "Cut/Fit: Regular Fit",
+                "Dispatch Time: 3-4 Days",
+                "Event: Casual Fit",
+                "Fabric: Premium Soft Polyester Fabric",
+                "Neck/Collar: Collar Neck",
+                "Occasion: ODI Home",
+                "2022 New ODI Kit.",
+                "Sleeve Type: Half Sleeve",
+                "Size Chart:",
+                "M=Length : 27 Inch ,Width : 38  Inch",
+                "L=Length : 28 Inch ,Width : 40 Inch",
+                "XL=Length : 29 Inch ,Width : 42  Inch",
+                "XXL=Length : 30 Inch ,Width : 44  Inch"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1033835",
+            "mainSellerId": "",
+            "sellerName": "GangSter007 (GS7)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/beef0d6717b105ae35faa5781d8736ef.jpg",
+                    "productUrl": "/products/odi-pp-2022-i229080030-s1172777427.html",
+                    "sku": "229080030_BD",
+                    "skuId": "1172777427"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                4861
+            ],
+            "clickTrace": "query:;nid:229080030;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:229080030_BD;price:499;client:desktop;supplier_id:1033835;asc_category_id:4861;item_id:229080030;sku_id:1172777427;shop_id:39788",
+            "addToCartSkus": [
+                {
+                    "sku": "229080030_BD-1172777427",
+                    "title": "Int M",
+                    "skuId": "1172777427",
+                    "count": 0
+                },
+                {
+                    "sku": "229080030_BD-1172777428",
+                    "title": "Int L",
+                    "skuId": "1172777428",
+                    "count": 0
+                },
+                {
+                    "sku": "229080030_BD-1172777429",
+                    "title": "Int XL",
+                    "skuId": "1172777429",
+                    "count": 0
+                },
+                {
+                    "sku": "229080030_BD-1172777430",
+                    "title": "Int XXL",
+                    "skuId": "1172777430",
+                    "count": 0
+                }
+            ],
+            "itemId": "229080030",
+            "skuId": "1172777427",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "cycling Hand sleevs",
+            "nid": "227157375",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227157375",
+                "scene_pre": "search",
+                "current_price": "38.00",
+                "x_sku_ids": "1171369401",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "227157375"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i227157375-s1171369401.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/dbfb4d7a7eb42d6972197ee79f2f98c2.jpg",
+            "originalPrice": "99.00",
+            "originalPriceShow": "৳ 99",
+            "price": "38.00",
+            "promotionId": "null",
+            "priceShow": "৳ 38",
+            "discount": "-62%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227157375_BD-1171369401",
+            "sku": "227157375_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510137060",
+            "mainSellerId": "",
+            "sellerName": "Dcoom BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/dbfb4d7a7eb42d6972197ee79f2f98c2.jpg",
+                    "productUrl": "/products/-i227157375-s1171369401.html",
+                    "sku": "227157375_BD",
+                    "skuId": "1171369401"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                10000844,
+                10000919
+            ],
+            "clickTrace": "query:;nid:227157375;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:227157375_BD;price:38.00;client:desktop;supplier_id:700510137060;asc_category_id:10000919;item_id:227157375;sku_id:1171369401;shop_id:230934",
+            "addToCartSkus": [
+                {
+                    "sku": "227157375_BD-1171369401",
+                    "title": "Int: One size",
+                    "skuId": "1171369401",
+                    "count": 0
+                }
+            ],
+            "itemId": "227157375",
+            "skuId": "1171369401",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sleeves Cooling Arm, Sun Ray protection, UV ray Protected",
+            "nid": "183449794",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183449794",
+                "scene_pre": "search",
+                "current_price": "120.00",
+                "x_sku_ids": "1127811561",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "183449794"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i183449794-s1127811561.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8e6c6d02406934efb38087e1e3023b99.jpg",
+            "price": "120.00",
+            "promotionId": "null",
+            "priceShow": "৳ 120",
+            "ratingScore": "4.72727",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183449794_BD-1127811561",
+            "sku": "183449794_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507698023",
+            "mainSellerId": "",
+            "sellerName": "Expert Solutions",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8e6c6d02406934efb38087e1e3023b99.jpg",
+                    "productUrl": "/products/-i183449794-s1127811561.html",
+                    "sku": "183449794_BD",
+                    "skuId": "1127811561"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8da0be70894354ab4cb21fd9365a4fb6.jpg",
+                    "productUrl": "/products/-i183449794-s1139260386.html",
+                    "sku": "183449794_BD",
+                    "skuId": "1139260386"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ade82ad3b9892638d4d1a4723e45969e.jpg",
+                    "productUrl": "/products/-i183449794-s1138114373.html",
+                    "sku": "183449794_BD",
+                    "skuId": "1138114373"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e33a65fa6e58001b1b0bf9f2ebef46f3.jpg",
+                    "productUrl": "/products/-i183449794-s1128743170.html",
+                    "sku": "183449794_BD",
+                    "skuId": "1128743170"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f57eafdd9f33c165ee66323bcbe28926.jpg",
+                    "productUrl": "/products/-i183449794-s1138114370.html",
+                    "sku": "183449794_BD",
+                    "skuId": "1138114370"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a1b3dac1d5787cfeccfbd888dd379b9a.jpg",
+                    "productUrl": "/products/-i183449794-s1138114372.html",
+                    "sku": "183449794_BD",
+                    "skuId": "1138114372"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/15e9d477060f4868fa3c5b000250adbb.jpg",
+                    "productUrl": "/products/-i183449794-s1139260388.html",
+                    "sku": "183449794_BD",
+                    "skuId": "1139260388"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1a5ee17ac10851dea234553e4f909337.jpg",
+                    "productUrl": "/products/-i183449794-s1128743172.html",
+                    "sku": "183449794_BD",
+                    "skuId": "1128743172"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fc54be20fa8ba4f447e4f71477c4afdb.jpg",
+                    "productUrl": "/products/-i183449794-s1128743171.html",
+                    "sku": "183449794_BD",
+                    "skuId": "1128743171"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                10000844,
+                10000919
+            ],
+            "clickTrace": "query:;nid:183449794;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:183449794_BD;price:120.00;client:desktop;supplier_id:700507698023;asc_category_id:10000919;item_id:183449794;sku_id:1127811561;shop_id:106882",
+            "addToCartSkus": [
+                {
+                    "sku": "183449794_BD-1127811561",
+                    "title": "Int: One size",
+                    "skuId": "1127811561",
+                    "count": 0
+                }
+            ],
+            "itemId": "183449794",
+            "skuId": "1127811561",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Hand Sleeves uv outdoor sports sun protection Black Color",
+            "nid": "232883908",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "232883908",
+                "scene_pre": "search",
+                "current_price": "38.00",
+                "x_sku_ids": "1175644207",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "232883908"
+            },
+            "productUrl": "//www.daraz.com.bd/products/uv-i232883908-s1175644207.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e70e608d34df6632611772754bfe451c.jpg",
+            "originalPrice": "90.00",
+            "originalPriceShow": "৳ 90",
+            "price": "38.00",
+            "promotionId": "null",
+            "priceShow": "৳ 38",
+            "discount": "-58%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "232883908_BD-1175644207",
+            "sku": "232883908_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511646667",
+            "mainSellerId": "",
+            "sellerName": "Top Express BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e70e608d34df6632611772754bfe451c.jpg",
+                    "productUrl": "/products/uv-i232883908-s1175644207.html",
+                    "sku": "232883908_BD",
+                    "skuId": "1175644207"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                10000844,
+                10000919
+            ],
+            "clickTrace": "query:;nid:232883908;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:232883908_BD;price:38.00;client:desktop;supplier_id:700511646667;asc_category_id:10000919;item_id:232883908;sku_id:1175644207;shop_id:237697",
+            "addToCartSkus": [
+                {
+                    "sku": "232883908_BD-1175644207",
+                    "title": "Int: One size",
+                    "skuId": "1175644207",
+                    "count": 0
+                }
+            ],
+            "itemId": "232883908",
+            "skuId": "1175644207",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Gym Bag With Extra Chamber for shoes -Multicolor",
+            "nid": "151320956",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "151320956",
+                "scene_pre": "search",
+                "current_price": "340",
+                "x_sku_ids": "1147785047",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "151320956"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i151320956-s1147785047.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/eb5cfdbe17808fbc5414c45cb601cec2.jpg",
+            "originalPrice": "1500.00",
+            "originalPriceShow": "৳ 1,500",
+            "price": "340",
+            "promotionId": "null",
+            "priceShow": "৳ 340",
+            "discount": "-77%",
+            "ratingScore": "4.85",
+            "review": "20",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "151320956_BD-1147785047",
+            "sku": "151320956_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507503210",
+            "mainSellerId": "",
+            "sellerName": "Sports Home",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/eb5cfdbe17808fbc5414c45cb601cec2.jpg",
+                    "productUrl": "/products/-i151320956-s1147785047.html",
+                    "sku": "151320956_BD",
+                    "skuId": "1147785047"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                10000845,
+                10000925
+            ],
+            "clickTrace": "query:;nid:151320956;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:151320956_BD;price:340;client:desktop;supplier_id:700507503210;asc_category_id:10000925;item_id:151320956;sku_id:1147785047;shop_id:96927",
+            "addToCartSkus": [
+                {
+                    "sku": "151320956_BD-1147785047",
+                    "title": "Medium",
+                    "skuId": "1147785047",
+                    "count": 0
+                }
+            ],
+            "itemId": "151320956",
+            "skuId": "1147785047",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Classy Sneakers  for Men",
+            "nid": "151620194",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "151620194",
+                "scene_pre": "search",
+                "current_price": "279",
+                "x_sku_ids": "1143471666",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "151620194"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i151620194-s1143471666.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/18064c5d88cc6fbeae5630445cad45f5.jpg",
+            "originalPrice": "1450.00",
+            "originalPriceShow": "৳ 1,450",
+            "price": "279",
+            "promotionId": "null",
+            "priceShow": "৳ 279",
+            "discount": "-81%",
+            "ratingScore": "4.0102",
+            "review": "98",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "151620194_BD-1143471666",
+            "sku": "151620194_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507629296",
+            "mainSellerId": "",
+            "sellerName": "Light & Tools",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/18064c5d88cc6fbeae5630445cad45f5.jpg",
+                    "productUrl": "/products/-i151620194-s1143471666.html",
+                    "sku": "151620194_BD",
+                    "skuId": "1143471666"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bbdf31f4456acbf3e2402c7aaa0ef18b.jpg",
+                    "productUrl": "/products/-i151620194-s1143471673.html",
+                    "sku": "151620194_BD",
+                    "skuId": "1143471673"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/750270acd7c073b3d8105093223aa269.jpg",
+                    "productUrl": "/products/-i151620194-s1143471677.html",
+                    "sku": "151620194_BD",
+                    "skuId": "1143471677"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4845,
+                10077
+            ],
+            "clickTrace": "query:;nid:151620194;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:151620194_BD;price:279;client:desktop;supplier_id:700507629296;asc_category_id:10077;item_id:151620194;sku_id:1143471666;shop_id:101928",
+            "addToCartSkus": [
+                {
+                    "sku": "151620194_BD-1143471667",
+                    "title": "EU 40",
+                    "skuId": "1143471667",
+                    "count": 0
+                },
+                {
+                    "sku": "151620194_BD-1143471666",
+                    "title": "EU 41",
+                    "skuId": "1143471666",
+                    "count": 0
+                },
+                {
+                    "sku": "151620194_BD-1143471669",
+                    "title": "EU 42",
+                    "skuId": "1143471669",
+                    "count": 0
+                },
+                {
+                    "sku": "151620194_BD-1143471668",
+                    "title": "EU 43",
+                    "skuId": "1143471668",
+                    "count": 0
+                }
+            ],
+            "itemId": "151620194",
+            "skuId": "1143471666",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Paris Saint Germain (PSG) Third Kit Short Sleeve Jersey",
+            "nid": "203953308",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "203953308",
+                "scene_pre": "search",
+                "current_price": "375",
+                "x_sku_ids": "1152038826",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "203953308"
+            },
+            "productUrl": "//www.daraz.com.bd/products/paris-saint-germain-psg-third-kit-short-sleeve-jersey-i203953308-s1152038826.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6b094c7b50fd42ee3d5985b029d105cd.jpg",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "375",
+            "promotionId": "null",
+            "priceShow": "৳ 375",
+            "discount": "-50%",
+            "ratingScore": "4.6",
+            "review": "50",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "203953308_BD-1152038826",
+            "sku": "203953308_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508265002",
+            "mainSellerId": "",
+            "sellerName": "Aurora (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6b094c7b50fd42ee3d5985b029d105cd.jpg",
+                    "productUrl": "/products/paris-saint-germain-psg-third-kit-short-sleeve-jersey-i203953308-s1152038826.html",
+                    "sku": "203953308_BD",
+                    "skuId": "1152038826"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                10091,
+                10092
+            ],
+            "clickTrace": "query:;nid:203953308;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:203953308_BD;price:375;client:desktop;supplier_id:700508265002;asc_category_id:10092;item_id:203953308;sku_id:1152038826;shop_id:137614",
+            "addToCartSkus": [
+                {
+                    "sku": "203953308_BD-1152038826",
+                    "title": "Int M",
+                    "skuId": "1152038826",
+                    "count": 0
+                },
+                {
+                    "sku": "203953308_BD-1152038827",
+                    "title": "Int L",
+                    "skuId": "1152038827",
+                    "count": 0
+                },
+                {
+                    "sku": "203953308_BD-1152038828",
+                    "title": "Int XL",
+                    "skuId": "1152038828",
+                    "count": 0
+                },
+                {
+                    "sku": "203953308_BD-1152038829",
+                    "title": "Int XXL",
+                    "skuId": "1152038829",
+                    "count": 0
+                }
+            ],
+            "itemId": "203953308",
+            "skuId": "1152038826",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Argentina football jersey",
+            "nid": "200092155",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "200092155",
+                "scene_pre": "search",
+                "current_price": "119.00",
+                "x_sku_ids": "1147325583",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "200092155"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i200092155-s1147325583.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c4835e1dd6dc554b74af034deb4b03ab.jpg",
+            "price": "119.00",
+            "promotionId": "null",
+            "priceShow": "৳ 119",
+            "ratingScore": "4.51613",
+            "review": "62",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "200092155_BD-1147325583",
+            "sku": "200092155_BD",
+            "skus": [],
+            "description": [
+                "Product Type: T-shirt",
+                "Print: 100% Quality",
+                "Color: 100% Guarantee",
+                "Product: Same as Design",
+                "Main Material: Poly Cotton Fabric (jersey fabric)",
+                "Gender: Men",
+                "Stylish and Fashionable",
+                "Color: White, Yellow, Orenge, Lemon, Light Blue, Past",
+                "Gsm: 125-130",
+                "Size: M, L, XL",
+                "Size: M-Length 26,Chest 36",
+                "Size: L-Length 27,Chest 38",
+                "Size : XL-Length 28,Chest 40"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507878061",
+            "mainSellerId": "",
+            "sellerName": "Samaro",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c4835e1dd6dc554b74af034deb4b03ab.jpg",
+                    "productUrl": "/products/-i200092155-s1147325583.html",
+                    "sku": "200092155_BD",
+                    "skuId": "1147325583"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/da03bb668b470d99108a070ae345448f.jpg",
+                    "productUrl": "/products/-i200092155-s1147325588.html",
+                    "sku": "200092155_BD",
+                    "skuId": "1147325588"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ea3dfab9a0a583e61d9656976d833d29.jpg",
+                    "productUrl": "/products/-i200092155-s1147325591.html",
+                    "sku": "200092155_BD",
+                    "skuId": "1147325591"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/dd69c60d703cf1af3c881ba16eca14b4.jpg",
+                    "productUrl": "/products/-i200092155-s1147325597.html",
+                    "sku": "200092155_BD",
+                    "skuId": "1147325597"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e85f9f302a81326b63c88c3fb9615228.jpg",
+                    "productUrl": "/products/-i200092155-s1147325594.html",
+                    "sku": "200092155_BD",
+                    "skuId": "1147325594"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                10091,
+                10092
+            ],
+            "clickTrace": "query:;nid:200092155;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:200092155_BD;price:119.00;client:desktop;supplier_id:700507878061;asc_category_id:10092;item_id:200092155;sku_id:1147325583;shop_id:117498",
+            "addToCartSkus": [
+                {
+                    "sku": "200092155_BD-1147325583",
+                    "title": "Int M",
+                    "skuId": "1147325583",
+                    "count": 0
+                },
+                {
+                    "sku": "200092155_BD-1147325584",
+                    "title": "Int L",
+                    "skuId": "1147325584",
+                    "count": 0
+                },
+                {
+                    "sku": "200092155_BD-1147325585",
+                    "title": "Int XL",
+                    "skuId": "1147325585",
+                    "count": 0
+                }
+            ],
+            "itemId": "200092155",
+            "skuId": "1147325583",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jersey - Real Madrid - Home Kit - 21-22 - Thai Premium",
+            "nid": "193176842",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "193176842",
+                "scene_pre": "search",
+                "current_price": "293",
+                "x_sku_ids": "1139949238",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "193176842"
+            },
+            "productUrl": "//www.daraz.com.bd/products/21-22-i193176842-s1139949238.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ea5361de784050ac3dd5da1a74c3862c.jpg",
+            "originalPrice": "950.00",
+            "originalPriceShow": "৳ 950",
+            "price": "293",
+            "promotionId": "null",
+            "priceShow": "৳ 293",
+            "discount": "-69%",
+            "ratingScore": "4.53125",
+            "review": "32",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "193176842_BD-1139949238",
+            "sku": "193176842_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507668277",
+            "mainSellerId": "",
+            "sellerName": "Fashion Plus BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ea5361de784050ac3dd5da1a74c3862c.jpg",
+                    "productUrl": "/products/21-22-i193176842-s1139949238.html",
+                    "sku": "193176842_BD",
+                    "skuId": "1139949238"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                4846,
+                10091,
+                10092
+            ],
+            "clickTrace": "query:;nid:193176842;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:193176842_BD;price:293;client:desktop;supplier_id:700507668277;asc_category_id:10092;item_id:193176842;sku_id:1139949238;shop_id:105005",
+            "addToCartSkus": [
+                {
+                    "sku": "193176842_BD-1139949238",
+                    "title": "Int M",
+                    "skuId": "1139949238",
+                    "count": 0
+                },
+                {
+                    "sku": "193176842_BD-1139949239",
+                    "title": "Int L",
+                    "skuId": "1139949239",
+                    "count": 0
+                },
+                {
+                    "sku": "193176842_BD-1139949240",
+                    "title": "Int XL",
+                    "skuId": "1139949240",
+                    "count": 0
+                },
+                {
+                    "sku": "193176842_BD-1139949241",
+                    "title": "Int XXL",
+                    "skuId": "1139949241",
+                    "count": 0
+                }
+            ],
+            "itemId": "193176842",
+            "skuId": "1139949238",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Good Quality Wrist Band -(2pcs) - Black",
+            "nid": "133310655",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "133310655",
+                "scene_pre": "search",
+                "current_price": "75.00",
+                "x_sku_ids": "1054974850",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "133310655"
+            },
+            "productUrl": "//www.daraz.com.bd/products/2-i133310655-s1054974850.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6f797d74e66cc1c9e50c0c9f00cca0ab.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "75.00",
+            "promotionId": "null",
+            "priceShow": "৳ 75",
+            "discount": "-63%",
+            "ratingScore": "4.5",
+            "review": "92",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "133310655_BD-1054974850",
+            "sku": "133310655_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506393409",
+            "mainSellerId": "",
+            "sellerName": "TS Sports & Music",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6f797d74e66cc1c9e50c0c9f00cca0ab.jpg",
+                    "productUrl": "/products/2-i133310655-s1054974850.html",
+                    "sku": "133310655_BD",
+                    "skuId": "1054974850"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                10000844,
+                10000920
+            ],
+            "clickTrace": "query:;nid:133310655;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:133310655_BD;price:75.00;client:desktop;supplier_id:700506393409;asc_category_id:10000920;item_id:133310655;sku_id:1054974850;shop_id:78870",
+            "addToCartSkus": [
+                {
+                    "sku": "133310655_BD-1054974850",
+                    "skuId": "1054974850",
+                    "count": 0
+                }
+            ],
+            "itemId": "133310655",
+            "skuId": "1054974850",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Wrist Band 2 Pcs",
+            "nid": "191004382",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "191004382",
+                "scene_pre": "search",
+                "current_price": "144",
+                "x_sku_ids": "1138186928",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "191004382"
+            },
+            "productUrl": "//www.daraz.com.bd/products/wrist-band-2-pcs-i191004382-s1138186928.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d6a2f990034061e9236094381df428a8.jpg",
+            "originalPrice": "400.00",
+            "originalPriceShow": "৳ 400",
+            "price": "144",
+            "promotionId": "null",
+            "priceShow": "৳ 144",
+            "discount": "-64%",
+            "ratingScore": "4.86667",
+            "review": "15",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "191004382_BD-1138186928",
+            "sku": "191004382_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508538217",
+            "mainSellerId": "",
+            "sellerName": "SS Shop Dubai",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d6a2f990034061e9236094381df428a8.jpg",
+                    "productUrl": "/products/wrist-band-2-pcs-i191004382-s1138186928.html",
+                    "sku": "191004382_BD",
+                    "skuId": "1138186928"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                10000844,
+                10000920
+            ],
+            "clickTrace": "query:;nid:191004382;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:191004382_BD;price:144;client:desktop;supplier_id:700508538217;asc_category_id:10000920;item_id:191004382;sku_id:1138186928;shop_id:165847",
+            "addToCartSkus": [
+                {
+                    "sku": "191004382_BD-1138186928",
+                    "skuId": "1138186928",
+                    "count": 0
+                }
+            ],
+            "itemId": "191004382",
+            "skuId": "1138186928",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Cotton and Nylon ankle Socks for Men 03 Pair",
+            "nid": "227343289",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227343289",
+                "scene_pre": "search",
+                "current_price": "65.00",
+                "x_sku_ids": "1171504082",
+                "SN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "x_ad": "1",
+                "x_object_id": "227343289"
+            },
+            "productUrl": "//www.daraz.com.bd/products/03-i227343289-s1171504082.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/df74126e79ef5baec0f33b7205ec46fb.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "65.00",
+            "promotionId": "null",
+            "priceShow": "৳ 65",
+            "discount": "-57%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227343289_BD-1171504082",
+            "sku": "227343289_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510155042",
+            "mainSellerId": "",
+            "sellerName": "Brindabon Express",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/df74126e79ef5baec0f33b7205ec46fb.jpg",
+                    "productUrl": "/products/03-i227343289-s1171504082.html",
+                    "sku": "227343289_BD",
+                    "skuId": "1171504082"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1970,
+                4645,
+                4844,
+                10000844,
+                10000923
+            ],
+            "clickTrace": "query:;nid:227343289;src:LazadaMainSrp;rn:8525f56a68bfdd41f8d646b8ea97a2c1;region:bd;sku:227343289_BD;price:65.00;client:desktop;supplier_id:700510155042;asc_category_id:10000923;item_id:227343289;sku_id:1171504082;shop_id:231005",
+            "addToCartSkus": [
+                {
+                    "sku": "227343289_BD-1171504082",
+                    "title": "Int: One size",
+                    "skuId": "1171504082",
+                    "count": 0
+                }
+            ],
+            "itemId": "227343289",
+            "skuId": "1171504082",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/sports-travel/",
+            "title": "Sports & Outdoors"
+        },
+        {
+            "url": "/shoes-clothing/",
+            "title": "Shoes & Clothing"
+        },
+        {
+            "url": "/mens-sports/",
+            "title": "Men"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/mens-sports/?referer_rn=8525f56a68bfdd41f8d646b8ea97a2c1&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Cbr%2F%3E%3Ca%20href%3D%22%2Fmens-sports%2Fcreative-sports_1%2F%22%20%3ECreative%20Sports%201%20Mens%20Sports%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fmens-sports%2Fpuma%2F%22%20%3EPuma%20Mens%20Sports%3C%2Fa%3E"
+    },
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/mens-sports-football-shirts-and-merchandise/?item_id=206329814&from=onesearch_category_4844",
+                "name": "Football",
+                "image": "//static-01.daraz.com.bd/p/87774d406b08b67d20bdf727f70cbc0c.jpg",
+                "id": "10092"
+            },
+            {
+                "url": "/mens-sports-shirts-and-tops/?item_id=218522306&from=onesearch_category_4844",
+                "name": "T-Shirts & Tops",
+                "image": "//static-01.daraz.com.bd/p/af5737c6cf4e5749dd728354410966b9.jpg",
+                "id": "4861"
+            },
+            {
+                "url": "/mens-sport-sneakers/?item_id=214781375&from=onesearch_category_4844",
+                "name": "Sports Sneakers",
+                "image": "//static-01.daraz.com.bd/p/216edb40a5e406be3120c06030cde4dd.jpg",
+                "id": "10077"
+            },
+            {
+                "url": "/mens-running-training/?item_id=127315889&from=onesearch_category_4844",
+                "name": "Running Shoes",
+                "image": "//static-01.daraz.com.bd/p/f281fef1057f433b2a841a8c4fea5058.jpg",
+                "id": "4847"
+            },
+            {
+                "url": "/mens-sports-shoes-sandals/?item_id=201886860&from=onesearch_category_4844",
+                "name": "Sports Sandals",
+                "image": "//static-01.daraz.com.bd/p/f3f905d329e949e3cdf70971377d13cf.jpg",
+                "id": "10078"
+            },
+            {
+                "url": "/men-sports-clothing-pants-shorts/?item_id=195935674&from=onesearch_category_4844",
+                "name": "Pants",
+                "image": "//static-01.daraz.com.bd/p/fac0aa90d504b942ce3e32af70e0beee.jpg",
+                "id": "4859"
+            },
+            {
+                "url": "/mens-sports-trousers/?item_id=231139036&from=onesearch_category_4844",
+                "name": "Shorts",
+                "image": "//static-01.daraz.com.bd/p/50d4cdd468f817391128649969a6f653.jpg",
+                "id": "10096"
+            },
+            {
+                "url": "/mens-sports-backpacks-rucksacks/?item_id=225049373&from=onesearch_category_4844",
+                "name": "Sport Backpacks",
+                "image": "//static-01.daraz.com.bd/p/b6f0d2e80d0b5bd23fe83c6b79e00909.jpg",
+                "id": "10000925"
+            },
+            {
+                "url": "/mens-sports-shoulder-bags/?item_id=184382159&from=onesearch_category_4844",
+                "name": "Sport Duffels",
+                "image": "//static-01.daraz.com.bd/p/a402438a20dcdfcd72b5be3992fd323c.jpg",
+                "id": "10000927"
+            },
+            {
+                "url": "/men-sleeves/?item_id=203508232&from=onesearch_category_4844",
+                "name": "Sleeves",
+                "image": "//static-01.daraz.com.bd/p/3cceb8ba005e5b29545ba113b48acf9d.jpg",
+                "id": "10000919"
+            },
+            {
+                "url": "/mens-underwear/?item_id=151248550&from=onesearch_category_4844",
+                "name": "Underwears",
+                "image": "//static-01.daraz.com.bd/p/95943e7ed18c4bc034f7f3fd69dd85f6.jpg",
+                "id": "10000922"
+            },
+            {
+                "url": "/mens-cricket-football/?item_id=195976553&from=onesearch_category_4844",
+                "name": "Football Shoes",
+                "image": "//static-01.daraz.com.bd/p/54c608c09e398caf5d94c8f03f2fe272.jpg",
+                "id": "4854"
+            },
+            {
+                "url": "/men-wristbands/?item_id=133310655&from=onesearch_category_4844",
+                "name": "Wristbands",
+                "image": "//static-01.daraz.com.bd/p/6f797d74e66cc1c9e50c0c9f00cca0ab.jpg",
+                "id": "10000920"
+            },
+            {
+                "url": "/mens-sports-hats-and-caps/?item_id=183981646&from=onesearch_category_4844",
+                "name": "Hats & Caps",
+                "image": "//static-01.daraz.com.bd/p/ee09b54e33590d44ab6e12e1b18c0a40.jpg",
+                "id": "10000917"
+            },
+            {
+                "url": "/mens-sports-trekking/?item_id=115738608&from=onesearch_category_4844",
+                "name": "Hiking Shoes",
+                "image": "//static-01.daraz.com.bd/p/0ed8e0e8c0d38169c470f269dbc7aad1.jpg",
+                "id": "4857"
+            },
+            {
+                "url": "/temporary-url-sport-catl5-54/?item_id=199140109&from=onesearch_category_4844",
+                "name": "Hoodies",
+                "image": "//static-01.daraz.com.bd/p/7d95f9ef67b153e8d1be04e1c18e60ec.jpg",
+                "id": "10000915"
+            },
+            {
+                "url": "/mens-sports-socks/?item_id=184187857&from=onesearch_category_4844",
+                "name": "Socks",
+                "image": "//static-01.daraz.com.bd/p/08995c9f35cb55e9fe51a4edfcb98241.png",
+                "id": "10000923"
+            },
+            {
+                "url": "/mens-sports-glasses/?item_id=183087412&from=onesearch_category_4844",
+                "name": "Sunglasses",
+                "image": "//static-01.daraz.com.bd/p/7928a80b57c031cb178423eb2bac70db.jpg",
+                "id": "10000918"
+            },
+            {
+                "url": "/men-cycling-jersey/?item_id=221499785&from=onesearch_category_4844",
+                "name": "Cycling",
+                "image": "//static-01.daraz.com.bd/p/11e05badad89e76de1ecb65f492aed53.jpg",
+                "id": "10095"
+            },
+            {
+                "url": "/mens-sports-jackets/?item_id=113478830&from=onesearch_category_4844",
+                "name": "Jackets",
+                "image": "//static-01.daraz.com.bd/p/437e2ac2c9c9edb9cc2af365ca54e725.jpg",
+                "id": "4862"
+            },
+            {
+                "url": "/men-sports-clothing-swim-wear-shorts/?item_id=204422996&from=onesearch_category_4844",
+                "name": "Swim Shorts",
+                "image": "//static-01.daraz.com.bd/p/bd59e186fde46b6ab448399a75f3d465.jpg",
+                "id": "4867"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_4844"
+        },
+        "title": "",
+        "bizId": "onesearch_category_4844",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "52740 items found in {$0}",
+        "title": "Men",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Men"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Men",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "8525f56a68bfdd41f8d646b8ea97a2c1",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "4844",
+            "category": "4844"
+        },
+        "categoryRegionalKey": "110702000000",
+        "mainCategoryRegionalKey": "110000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Sports Shoes For Men In Bangladesh At Best Price - Daraz.com.bd",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "true",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Sports & Outdoors,Shoes & Clothing,Men",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "110702000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=4844&_p_asc_cateid=4844",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "mens-sports",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "8525f56a68bfdd41f8d646b8ea97a2c1",
+                "resultNr": 52740,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1166336161",
+                "1166473347",
+                "1156990241"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "4844",
+            "category": "4844"
+        }
+    }
+}

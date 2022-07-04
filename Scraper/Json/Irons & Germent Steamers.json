@@ -1,0 +1,3614 @@
+{
+    "listItems": [
+        {
+            "name": "Handheld Garment Steamer Clothing",
+            "nid": "157968321",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "157968321",
+                "scene_pre": "search",
+                "current_price": "1737",
+                "x_sku_ids": "1089102822",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "157968321"
+            },
+            "productUrl": "//www.daraz.com.bd/products/handheld-garment-steamer-clothing-i157968321-s1089102822.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/5682405f20d693e7126ee74554f1ee08.jpg",
+            "originalPrice": "2300.00",
+            "originalPriceShow": "৳ 2,300",
+            "price": "1737",
+            "promotionId": "null",
+            "priceShow": "৳ 1,737",
+            "discount": "-24%",
+            "ratingScore": "4.49206",
+            "review": "63",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "157968321_BD-1089102822",
+            "sku": "157968321_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506933009",
+            "mainSellerId": "",
+            "sellerName": "Easylife Online Retailer",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/5682405f20d693e7126ee74554f1ee08.jpg",
+                    "productUrl": "/products/handheld-garment-steamer-clothing-i157968321-s1089102822.html",
+                    "sku": "157968321_BD",
+                    "skuId": "1089102822"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                376
+            ],
+            "clickTrace": "query:;nid:157968321;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:157968321_BD;price:1737;client:desktop;supplier_id:700506933009;asc_category_id:376;item_id:157968321;sku_id:1089102822;shop_id:87026",
+            "addToCartSkus": [
+                {
+                    "sku": "157968321_BD-1089102822",
+                    "skuId": "1089102822",
+                    "count": 0
+                }
+            ],
+            "itemId": "157968321",
+            "skuId": "1089102822",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "PHILIPS Easy Touch Plus Garment Steamers GC518.",
+            "nid": "221214151",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "221214151",
+                "scene_pre": "search",
+                "current_price": "8990",
+                "x_sku_ids": "1168154339",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "221214151"
+            },
+            "productUrl": "//www.daraz.com.bd/products/gc518-i221214151-s1168154339.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/06b047218e546f1a546e7acd866b7387.jpg",
+            "originalPrice": "12500.00",
+            "originalPriceShow": "৳ 12,500",
+            "price": "8990",
+            "promotionId": "null",
+            "priceShow": "৳ 8,990",
+            "discount": "-28%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "221214151_BD-1168154339",
+            "sku": "221214151_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505943090",
+            "mainSellerId": "",
+            "sellerName": "Fujico Electronics",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/06b047218e546f1a546e7acd866b7387.jpg",
+                    "productUrl": "/products/gc518-i221214151-s1168154339.html",
+                    "sku": "221214151_BD",
+                    "skuId": "1168154339"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                376
+            ],
+            "clickTrace": "query:;nid:221214151;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:221214151_BD;price:8990;client:desktop;supplier_id:700505943090;asc_category_id:376;item_id:221214151;sku_id:1168154339;shop_id:67672",
+            "addToCartSkus": [
+                {
+                    "sku": "221214151_BD-1168154339",
+                    "skuId": "1168154339",
+                    "count": 0
+                }
+            ],
+            "itemId": "221214151",
+            "skuId": "1168154339",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bajaj DX-7 1000W Dry Iron with Advance Soleplate and Anti-bacterial German Coating Technology, White",
+            "nid": "223638400",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223638400",
+                "scene_pre": "search",
+                "current_price": "1093",
+                "x_sku_ids": "1169622120",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "223638400"
+            },
+            "productUrl": "//www.daraz.com.bd/products/bajaj-dx-7-w-i223638400-s1169622120.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/297ef72791c1fcdd937e58f86593e773.jpg",
+            "originalPrice": "1450.00",
+            "originalPriceShow": "৳ 1,450",
+            "price": "1093",
+            "promotionId": "null",
+            "priceShow": "৳ 1,093",
+            "discount": "-25%",
+            "ratingScore": "4.71429",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223638400_BD-1169622120",
+            "sku": "223638400_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "22486",
+            "brandName": "Bajaj",
+            "sellerId": "700510014017",
+            "mainSellerId": "",
+            "sellerName": "Sheba Trading BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/297ef72791c1fcdd937e58f86593e773.jpg",
+                    "productUrl": "/products/bajaj-dx-7-w-i223638400-s1169622120.html",
+                    "sku": "223638400_BD",
+                    "skuId": "1169622120"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:223638400;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:223638400_BD;price:1093;client:desktop;supplier_id:700510014017;asc_category_id:373;item_id:223638400;sku_id:1169622120;shop_id:223890",
+            "addToCartSkus": [
+                {
+                    "sku": "223638400_BD-1169622120",
+                    "skuId": "1169622120",
+                    "count": 0
+                }
+            ],
+            "itemId": "223638400",
+            "skuId": "1169622120",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "VISION Electronic Dry Iron VIS-DEI-011 Pink",
+            "nid": "207572587",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "207572587",
+                "scene_pre": "search",
+                "current_price": "1019",
+                "x_sku_ids": "1157358178",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "207572587"
+            },
+            "productUrl": "//www.daraz.com.bd/products/vision-electronic-dry-iron-vis-dei-011-pink-i207572587-s1157358178.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f79cb998b29a43f8f55da10fc67b54f4.jpg",
+            "originalPrice": "1175.00",
+            "originalPriceShow": "৳ 1,175",
+            "price": "1019",
+            "promotionId": "null",
+            "priceShow": "৳ 1,019",
+            "discount": "-13%",
+            "ratingScore": "4.8",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "207572587_BD-1157358178",
+            "sku": "207572587_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "32969",
+            "brandName": "VISION",
+            "sellerId": "1011125",
+            "mainSellerId": "",
+            "sellerName": "Siddique Electronics (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f79cb998b29a43f8f55da10fc67b54f4.jpg",
+                    "productUrl": "/products/vision-electronic-dry-iron-vis-dei-011-pink-i207572587-s1157358178.html",
+                    "sku": "207572587_BD",
+                    "skuId": "1157358178"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:207572587;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:207572587_BD;price:1019;client:desktop;supplier_id:1011125;asc_category_id:373;item_id:207572587;sku_id:1157358178;shop_id:17254",
+            "addToCartSkus": [
+                {
+                    "sku": "207572587_BD-1157358178",
+                    "skuId": "1157358178",
+                    "count": 0
+                }
+            ],
+            "itemId": "207572587",
+            "skuId": "1157358178",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Xiaomii Mijia Lofans Cordless Electric Stream Iron - Purple",
+            "nid": "225346942",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "225346942",
+                "scene_pre": "search",
+                "current_price": "2269",
+                "x_sku_ids": "1170580972",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "225346942"
+            },
+            "productUrl": "//www.daraz.com.bd/products/vivimi-lofan-ifron-i225346942-s1170580972.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7ed277569cffa1c574e0282442ff3496.jpg",
+            "originalPrice": "3600.00",
+            "originalPriceShow": "৳ 3,600",
+            "price": "2269",
+            "promotionId": "null",
+            "priceShow": "৳ 2,269",
+            "discount": "-37%",
+            "ratingScore": "4.75",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "225346942_BD-1170580972",
+            "sku": "225346942_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123778481",
+            "brandName": "Viomi",
+            "sellerId": "700508364256",
+            "mainSellerId": "",
+            "sellerName": "Smart Zone dk",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7ed277569cffa1c574e0282442ff3496.jpg",
+                    "productUrl": "/products/vivimi-lofan-ifron-i225346942-s1170580972.html",
+                    "sku": "225346942_BD",
+                    "skuId": "1170580972"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:225346942;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:225346942_BD;price:2269;client:desktop;supplier_id:700508364256;asc_category_id:373;item_id:225346942;sku_id:1170580972;shop_id:150668",
+            "addToCartSkus": [
+                {
+                    "sku": "225346942_BD-1170580972",
+                    "skuId": "1170580972",
+                    "count": 0
+                }
+            ],
+            "itemId": "225346942",
+            "skuId": "1170580972",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "VISION ELECTRIC HEAVY WEIGHT DRY IRON-005",
+            "nid": "224450608",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "224450608",
+                "scene_pre": "search",
+                "current_price": "1238",
+                "x_sku_ids": "1170153710",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "224450608"
+            },
+            "productUrl": "//www.daraz.com.bd/products/005-i224450608-s1170153710.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/54f73f8cb2f253af9da276d150e79711.jpg",
+            "originalPrice": "1380.00",
+            "originalPriceShow": "৳ 1,380",
+            "price": "1238",
+            "promotionId": "null",
+            "priceShow": "৳ 1,238",
+            "discount": "-10%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "224450608_BD-1170153710",
+            "sku": "224450608_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "32969",
+            "brandName": "VISION",
+            "sellerId": "1043352",
+            "mainSellerId": "",
+            "sellerName": "toor mega shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/54f73f8cb2f253af9da276d150e79711.jpg",
+                    "productUrl": "/products/005-i224450608-s1170153710.html",
+                    "sku": "224450608_BD",
+                    "skuId": "1170153710"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:224450608;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:224450608_BD;price:1238;client:desktop;supplier_id:1043352;asc_category_id:373;item_id:224450608;sku_id:1170153710;shop_id:49029",
+            "addToCartSkus": [
+                {
+                    "sku": "224450608_BD-1170153710",
+                    "skuId": "1170153710",
+                    "count": 0
+                }
+            ],
+            "itemId": "224450608",
+            "skuId": "1170153710",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "VISION Electronic Iron VIS-DEI-005",
+            "nid": "157344015",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "157344015",
+                "scene_pre": "search",
+                "current_price": "1159",
+                "x_sku_ids": "1087996328",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "157344015"
+            },
+            "productUrl": "//www.daraz.com.bd/products/vis-dei-005-i157344015-s1087996328.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2822d9a3c1752372b8f898ea824a1ff2.jpg",
+            "originalPrice": "1450.00",
+            "originalPriceShow": "৳ 1,450",
+            "price": "1159",
+            "promotionId": "null",
+            "priceShow": "৳ 1,159",
+            "discount": "-20%",
+            "ratingScore": "4.75",
+            "review": "12",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "157344015_BD-1087996328",
+            "sku": "157344015_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1011125",
+            "mainSellerId": "",
+            "sellerName": "Siddique Electronics (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2822d9a3c1752372b8f898ea824a1ff2.jpg",
+                    "productUrl": "/products/vis-dei-005-i157344015-s1087996328.html",
+                    "sku": "157344015_BD",
+                    "skuId": "1087996328"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:157344015;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:157344015_BD;price:1159;client:desktop;supplier_id:1011125;asc_category_id:373;item_id:157344015;sku_id:1087996328;shop_id:17254",
+            "addToCartSkus": [
+                {
+                    "sku": "157344015_BD-1087996328",
+                    "skuId": "1087996328",
+                    "count": 0
+                }
+            ],
+            "itemId": "157344015",
+            "skuId": "1087996328",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "VISION DRY IRON VIS-DEI-009",
+            "nid": "212976643",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "212976643",
+                "scene_pre": "search",
+                "current_price": "678",
+                "x_sku_ids": "1162415639",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "212976643"
+            },
+            "productUrl": "//www.daraz.com.bd/products/vis-dei-009-i212976643-s1162415639.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8e7d986127c8e783daada42c8bb334ec.jpg",
+            "originalPrice": "800.00",
+            "originalPriceShow": "৳ 800",
+            "price": "678",
+            "promotionId": "null",
+            "priceShow": "৳ 678",
+            "discount": "-15%",
+            "ratingScore": "4.375",
+            "review": "16",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "212976643_BD-1162415639",
+            "sku": "212976643_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "32969",
+            "brandName": "VISION",
+            "sellerId": "1043352",
+            "mainSellerId": "",
+            "sellerName": "toor mega shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8e7d986127c8e783daada42c8bb334ec.jpg",
+                    "productUrl": "/products/vis-dei-009-i212976643-s1162415639.html",
+                    "sku": "212976643_BD",
+                    "skuId": "1162415639"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/722a025352305d0dec5c492c7e38b438.jpg",
+                    "productUrl": "/products/vis-dei-009-i212976643-s1165639227.html",
+                    "sku": "212976643_BD",
+                    "skuId": "1165639227"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:212976643;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:212976643_BD;price:678;client:desktop;supplier_id:1043352;asc_category_id:373;item_id:212976643;sku_id:1162415639;shop_id:49029",
+            "addToCartSkus": [
+                {
+                    "sku": "212976643_BD-1162415639",
+                    "skuId": "1162415639",
+                    "count": 0
+                }
+            ],
+            "itemId": "212976643",
+            "skuId": "1162415639",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Philips GC1740/20 Steam Iron EasySpeed",
+            "nid": "168452679",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168452679",
+                "scene_pre": "search",
+                "current_price": "2249",
+                "x_sku_ids": "1102582744",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "168452679"
+            },
+            "productUrl": "//www.daraz.com.bd/products/gc174020-i168452679-s1102582744.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/893b15c4d9b2a049b08b2682e27ed72a.jpg",
+            "originalPrice": "3350.00",
+            "originalPriceShow": "৳ 3,350",
+            "price": "2249",
+            "promotionId": "null",
+            "priceShow": "৳ 2,249",
+            "discount": "-33%",
+            "ratingScore": "3.66667",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168452679_BD-1102582744",
+            "sku": "168452679_BD",
+            "skus": [],
+            "description": [
+                "1-Year International Seller Warranty",
+                "220 ml water tank for longer ironing sessions",
+                "Calc Clean slider for durable steam performance",
+                "Continuous steam up to 25g/min for good crease removal",
+                "Integrated water spray evenly moistens the fabric",
+                "Power up to 2000 W enabling constant high steam output",
+                "Larger soleplate to cover more in one go",
+                "The wider hole for easy water filling",
+                "Non-stick soleplate for easy and fast gliding on all fabrics",
+                "Triple precision tip to reach the most tricky areas"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1021420",
+            "mainSellerId": "",
+            "sellerName": "aangana",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/893b15c4d9b2a049b08b2682e27ed72a.jpg",
+                    "productUrl": "/products/gc174020-i168452679-s1102582744.html",
+                    "sku": "168452679_BD",
+                    "skuId": "1102582744"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:168452679;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:168452679_BD;price:2249;client:desktop;supplier_id:1021420;asc_category_id:373;item_id:168452679;sku_id:1102582744;shop_id:27646",
+            "addToCartSkus": [
+                {
+                    "sku": "168452679_BD-1102582744",
+                    "skuId": "1102582744",
+                    "count": 0
+                }
+            ],
+            "itemId": "168452679",
+            "skuId": "1102582744",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Panasonic NI-317T Automatic Dry Iron",
+            "nid": "196273129",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "196273129",
+                "scene_pre": "search",
+                "current_price": "1371",
+                "x_sku_ids": "1142583487",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "196273129"
+            },
+            "productUrl": "//www.daraz.com.bd/products/panasonic-ni-317t-i196273129-s1142583487.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c3dfe030e0b794039bce5e1dfba2a6b5.jpg",
+            "originalPrice": "2250.00",
+            "originalPriceShow": "৳ 2,250",
+            "price": "1371",
+            "promotionId": "null",
+            "priceShow": "৳ 1,371",
+            "discount": "-39%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "196273129_BD-1142583487",
+            "sku": "196273129_BD",
+            "skus": [],
+            "description": [
+                "1-year international seller warranty",
+                "Comfortable handle with texturing for easy grip",
+                "Lightweight and stylish design",
+                "Non-stick coating soleplate",
+                "Clear thermostatic pilot lamp",
+                "Swivel cord left &amp; right-hand operation",
+                "Extra-stable heel-rest for improved stability",
+                "1000 Watts for faster heating"
+            ],
+            "brandId": "25077",
+            "brandName": "Panasonic",
+            "sellerId": "1021420",
+            "mainSellerId": "",
+            "sellerName": "aangana",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c3dfe030e0b794039bce5e1dfba2a6b5.jpg",
+                    "productUrl": "/products/panasonic-ni-317t-i196273129-s1142583487.html",
+                    "sku": "196273129_BD",
+                    "skuId": "1142583487"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:196273129;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:196273129_BD;price:1371;client:desktop;supplier_id:1021420;asc_category_id:373;item_id:196273129;sku_id:1142583487;shop_id:27646",
+            "addToCartSkus": [
+                {
+                    "sku": "196273129_BD-1142583487",
+                    "skuId": "1142583487",
+                    "count": 0
+                }
+            ],
+            "itemId": "196273129",
+            "skuId": "1142583487",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Philips HD1172/01 Dry Iron Classic",
+            "nid": "167564783",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "167564783",
+                "scene_pre": "search",
+                "current_price": "1438",
+                "x_sku_ids": "1101340570",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "167564783"
+            },
+            "productUrl": "//www.daraz.com.bd/products/philips-hd117201-i167564783-s1101340570.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3507da00b75b40bb7fbf05b132242130.jpg",
+            "originalPrice": "2150.00",
+            "originalPriceShow": "৳ 2,150",
+            "price": "1438",
+            "promotionId": "null",
+            "priceShow": "৳ 1,438",
+            "discount": "-33%",
+            "ratingScore": "4.625",
+            "review": "8",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "167564783_BD-1101340570",
+            "sku": "167564783_BD",
+            "skus": [],
+            "description": [
+                "1-Year International Seller Warranty",
+                "Pointed tip for ironing tricky areas",
+                "Linished soleplate for easy gliding on your clothes",
+                "Button groove speeds up ironing along with buttons and seams",
+                "Iron temperature-ready light",
+                "Easy temperature control",
+                "Slim tip soleplate reaches easily in tricky areas",
+                "Cord winder for easy cord storage",
+                "Long-lasting cord for extended lifetime",
+                "Temperature light indicates when the iron is hot enough",
+                "Tested design for maximum durability",
+                "Fast and efficient-guaranteed"
+            ],
+            "brandId": "25090",
+            "brandName": "Philips",
+            "sellerId": "1021420",
+            "mainSellerId": "",
+            "sellerName": "aangana",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3507da00b75b40bb7fbf05b132242130.jpg",
+                    "productUrl": "/products/philips-hd117201-i167564783-s1101340570.html",
+                    "sku": "167564783_BD",
+                    "skuId": "1101340570"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:167564783;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:167564783_BD;price:1438;client:desktop;supplier_id:1021420;asc_category_id:373;item_id:167564783;sku_id:1101340570;shop_id:27646",
+            "addToCartSkus": [
+                {
+                    "sku": "167564783_BD-1101340570",
+                    "skuId": "1101340570",
+                    "count": 0
+                }
+            ],
+            "itemId": "167564783",
+            "skuId": "1101340570",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "GC181/80 - Dry Irons  - Black and Silver",
+            "nid": "622979",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "850362",
+                "scene_pre": "search",
+                "current_price": "2499",
+                "x_sku_ids": "3519384",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "850362"
+            },
+            "productUrl": "//www.daraz.com.bd/products/gc18180-i850362-s3519384.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/dcf4f524bdf531c08903319127de906d.png",
+            "originalPrice": "3000.00",
+            "originalPriceShow": "৳ 3,000",
+            "price": "2499",
+            "promotionId": "null",
+            "priceShow": "৳ 2,499",
+            "discount": "-17%",
+            "ratingScore": "4.7",
+            "review": "20",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "PH094HL1MATK8NAFAMZ-903023",
+            "sku": "PH094HL1MATK8NAFAMZ",
+            "skus": [],
+            "description": [
+                "Soleplate: Black American Heritage",
+                "Power: 1000 W",
+                "Modern Looks",
+                "Voltage: 220-240 V",
+                "Easy to Use",
+                "Lightweight",
+                "Effective performance"
+            ],
+            "brandId": "25090",
+            "brandName": "Philips",
+            "sellerId": "4437",
+            "mainSellerId": "",
+            "sellerName": "SHEBA TM",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/dcf4f524bdf531c08903319127de906d.png",
+                    "productUrl": "/products/gc18180-i850362-s3519384.html",
+                    "sku": "PH094HL1MATK8NAFAMZ",
+                    "skuId": "3519384"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:622979;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:PH094HL1MATK8NAFAMZ;price:2499;client:desktop;supplier_id:4437;asc_category_id:373;item_id:850362;sku_id:3519384;shop_id:4508",
+            "addToCartSkus": [
+                {
+                    "sku": "PH094HL1MATK8NAFAMZ-903023",
+                    "skuId": "3519384",
+                    "count": 0
+                }
+            ],
+            "itemId": "850362",
+            "skuId": "3519384",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jack Pot Iron, (TAIWAN) JP-76B.",
+            "nid": "134616174",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "134616174",
+                "scene_pre": "search",
+                "current_price": "1550",
+                "x_sku_ids": "1056462634",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "134616174"
+            },
+            "productUrl": "//www.daraz.com.bd/products/jp-76b-i134616174-s1056462634.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0a8d6f6c6a7c309ded43c90e843f3477.jpg",
+            "originalPrice": "1990.00",
+            "originalPriceShow": "৳ 1,990",
+            "price": "1550",
+            "promotionId": "null",
+            "priceShow": "৳ 1,550",
+            "discount": "-22%",
+            "ratingScore": "5",
+            "review": "8",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "134616174_BD-1056462634",
+            "sku": "134616174_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700505943090",
+            "mainSellerId": "",
+            "sellerName": "Fujico Electronics",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0a8d6f6c6a7c309ded43c90e843f3477.jpg",
+                    "productUrl": "/products/jp-76b-i134616174-s1056462634.html",
+                    "sku": "134616174_BD",
+                    "skuId": "1056462634"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:134616174;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:134616174_BD;price:1550;client:desktop;supplier_id:700505943090;asc_category_id:373;item_id:134616174;sku_id:1056462634;shop_id:67672",
+            "addToCartSkus": [
+                {
+                    "sku": "134616174_BD-1056462634",
+                    "skuId": "1056462634",
+                    "count": 0
+                }
+            ],
+            "itemId": "134616174",
+            "skuId": "1056462634",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Philips Automatic Heavy Weight Dry Iron",
+            "nid": "209569450",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "209569450",
+                "scene_pre": "search",
+                "current_price": "1165",
+                "x_sku_ids": "1159853052",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "209569450"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i209569450-s1159853052.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/caf495e15c33b93f73c6011b4905d8d7.jpg",
+            "originalPrice": "1500.00",
+            "originalPriceShow": "৳ 1,500",
+            "price": "1165",
+            "promotionId": "null",
+            "priceShow": "৳ 1,165",
+            "discount": "-22%",
+            "ratingScore": "4.375",
+            "review": "8",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "209569450_BD-1159853052",
+            "sku": "209569450_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "25090",
+            "brandName": "Philips",
+            "sellerId": "700509060022",
+            "mainSellerId": "",
+            "sellerName": "SHOHAN ELECTRIC STORE",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/caf495e15c33b93f73c6011b4905d8d7.jpg",
+                    "productUrl": "/products/-i209569450-s1159853052.html",
+                    "sku": "209569450_BD",
+                    "skuId": "1159853052"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:209569450;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:209569450_BD;price:1165;client:desktop;supplier_id:700509060022;asc_category_id:373;item_id:209569450;sku_id:1159853052;shop_id:203850",
+            "addToCartSkus": [
+                {
+                    "sku": "209569450_BD-1159853052",
+                    "skuId": "1159853052",
+                    "count": 0
+                }
+            ],
+            "itemId": "209569450",
+            "skuId": "1159853052",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "VISION Steam Iron VIS-YPF-6138 Orange",
+            "nid": "104176015",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "104176015",
+                "scene_pre": "search",
+                "current_price": "1310",
+                "x_sku_ids": "1018894538",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "104176015"
+            },
+            "productUrl": "//www.daraz.com.bd/products/vision-steam-iron-vis-ypf-6138-orange-i104176015-s1018894538.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/24d9256a94d20571bf789157fab6e876.jpg",
+            "originalPrice": "1450.00",
+            "originalPriceShow": "৳ 1,450",
+            "price": "1310",
+            "promotionId": "null",
+            "priceShow": "৳ 1,310",
+            "discount": "-10%",
+            "ratingScore": "4.71429",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "104176015_BD-1018894538",
+            "sku": "104176015_BD",
+            "skus": [],
+            "description": [
+                "VISION Steam Iron",
+                "Brand: VISION",
+                "Item code: 94733",
+                "Product type: Steam iron",
+                "Ceramic Coating Sole-plate",
+                "230V/2200W",
+                "230V/2200W",
+                "Self Clean Function"
+            ],
+            "brandId": "32969",
+            "brandName": "VISION",
+            "sellerId": "1011125",
+            "mainSellerId": "",
+            "sellerName": "Siddique Electronics (CTG)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/24d9256a94d20571bf789157fab6e876.jpg",
+                    "productUrl": "/products/vision-steam-iron-vis-ypf-6138-orange-i104176015-s1018894538.html",
+                    "sku": "104176015_BD",
+                    "skuId": "1018894538"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:104176015;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:104176015_BD;price:1310;client:desktop;supplier_id:1011125;asc_category_id:373;item_id:104176015;sku_id:1018894538;shop_id:17254",
+            "addToCartSkus": [
+                {
+                    "sku": "104176015_BD-1018894538",
+                    "skuId": "1018894538",
+                    "count": 0
+                }
+            ],
+            "itemId": "104176015",
+            "skuId": "1018894538",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mini Hand Sewing Machine - Red",
+            "nid": "229651322",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "229651322",
+                "scene_pre": "search",
+                "current_price": "120.00",
+                "x_sku_ids": "1173222464",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "229651322"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i229651322-s1173222464.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3dd1b7578b36f1bae86314d4c32550da.jpg",
+            "originalPrice": "234.00",
+            "originalPriceShow": "৳ 234",
+            "price": "120.00",
+            "promotionId": "null",
+            "priceShow": "৳ 120",
+            "discount": "-49%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "229651322_BD-1173222464",
+            "sku": "229651322_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510680531",
+            "mainSellerId": "",
+            "sellerName": "ClickMe BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3dd1b7578b36f1bae86314d4c32550da.jpg",
+                    "productUrl": "/products/-i229651322-s1173222464.html",
+                    "sku": "229651322_BD",
+                    "skuId": "1173222464"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                10000307
+            ],
+            "clickTrace": "query:;nid:229651322;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:229651322_BD;price:120.00;client:desktop;supplier_id:700510680531;asc_category_id:10000307;item_id:229651322;sku_id:1173222464;shop_id:233723",
+            "addToCartSkus": [
+                {
+                    "sku": "229651322_BD-1173222464",
+                    "skuId": "1173222464",
+                    "count": 0
+                }
+            ],
+            "itemId": "229651322",
+            "skuId": "1173222464",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bajaj Majesty One 1000-Watt Dry Iron (Red/Black)",
+            "nid": "223645192",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223645192",
+                "scene_pre": "search",
+                "current_price": "1392",
+                "x_sku_ids": "1169626282",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "223645192"
+            },
+            "productUrl": "//www.daraz.com.bd/products/bajaj-majesty-one-1000-i223645192-s1169626282.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1e8b7b6287bae42c80a6f21be80dca3d.jpg",
+            "originalPrice": "1800.00",
+            "originalPriceShow": "৳ 1,800",
+            "price": "1392",
+            "promotionId": "null",
+            "priceShow": "৳ 1,392",
+            "discount": "-23%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223645192_BD-1169626282",
+            "sku": "223645192_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "22486",
+            "brandName": "Bajaj",
+            "sellerId": "700510014017",
+            "mainSellerId": "",
+            "sellerName": "Sheba Trading BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1e8b7b6287bae42c80a6f21be80dca3d.jpg",
+                    "productUrl": "/products/bajaj-majesty-one-1000-i223645192-s1169626282.html",
+                    "sku": "223645192_BD",
+                    "skuId": "1169626282"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:223645192;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:223645192_BD;price:1392;client:desktop;supplier_id:700510014017;asc_category_id:373;item_id:223645192;sku_id:1169626282;shop_id:223890",
+            "addToCartSkus": [
+                {
+                    "sku": "223645192_BD-1169626282",
+                    "skuId": "1169626282",
+                    "count": 0
+                }
+            ],
+            "itemId": "223645192",
+            "skuId": "1169626282",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bajaj New Popular 1000 Watts Dry Iron White/Lavender",
+            "nid": "223628723",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223628723",
+                "scene_pre": "search",
+                "current_price": "1066",
+                "x_sku_ids": "1169612704",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "223628723"
+            },
+            "productUrl": "//www.daraz.com.bd/products/bajaj-1000-watts-i223628723-s1169612704.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4f8b477df38f7e936d8396fe0b153dba.jpg",
+            "originalPrice": "1400.00",
+            "originalPriceShow": "৳ 1,400",
+            "price": "1066",
+            "promotionId": "null",
+            "priceShow": "৳ 1,066",
+            "discount": "-24%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223628723_BD-1169612704",
+            "sku": "223628723_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "22486",
+            "brandName": "Bajaj",
+            "sellerId": "700510014017",
+            "mainSellerId": "",
+            "sellerName": "Sheba Trading BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4f8b477df38f7e936d8396fe0b153dba.jpg",
+                    "productUrl": "/products/bajaj-1000-watts-i223628723-s1169612704.html",
+                    "sku": "223628723_BD",
+                    "skuId": "1169612704"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:223628723;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:223628723_BD;price:1066;client:desktop;supplier_id:700510014017;asc_category_id:373;item_id:223628723;sku_id:1169612704;shop_id:223890",
+            "addToCartSkus": [
+                {
+                    "sku": "223628723_BD-1169612704",
+                    "skuId": "1169612704",
+                    "count": 0
+                }
+            ],
+            "itemId": "223628723",
+            "skuId": "1169612704",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Vision Electric Heavy Weight Iron VIS-DEI-005",
+            "nid": "223584166",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223584166",
+                "scene_pre": "search",
+                "current_price": "1294.00",
+                "x_sku_ids": "1169586786",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "223584166"
+            },
+            "productUrl": "//www.daraz.com.bd/products/vis-dei-005-i223584166-s1169586786.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b595fc6a29c3f0d4b7dbaede2bace39b.jpg",
+            "originalPrice": "1400.00",
+            "originalPriceShow": "৳ 1,400",
+            "price": "1294.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,294",
+            "discount": "-8%",
+            "ratingScore": "5",
+            "review": "6",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223584166_BD-1169586786",
+            "sku": "223584166_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "32969",
+            "brandName": "VISION",
+            "sellerId": "700509099021",
+            "mainSellerId": "",
+            "sellerName": "Baneswar Eletronics House (RAJ)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b595fc6a29c3f0d4b7dbaede2bace39b.jpg",
+                    "productUrl": "/products/vis-dei-005-i223584166-s1169586786.html",
+                    "sku": "223584166_BD",
+                    "skuId": "1169586786"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:223584166;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:223584166_BD;price:1294.00;client:desktop;supplier_id:700509099021;asc_category_id:373;item_id:223584166;sku_id:1169586786;shop_id:203791",
+            "addToCartSkus": [
+                {
+                    "sku": "223584166_BD-1169586786",
+                    "skuId": "1169586786",
+                    "count": 0
+                }
+            ],
+            "itemId": "223584166",
+            "skuId": "1169586786",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Portable Travel Iron - White and Blue",
+            "nid": "223794403",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223794403",
+                "scene_pre": "search",
+                "current_price": "799.00",
+                "x_sku_ids": "1169693228",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "223794403"
+            },
+            "productUrl": "//www.daraz.com.bd/products/portable-travel-iron-white-and-blue-i223794403-s1169693228.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ff20e8cc2108fd536c093baefd67f539.jpg",
+            "originalPrice": "990.00",
+            "originalPriceShow": "৳ 990",
+            "price": "799.00",
+            "promotionId": "null",
+            "priceShow": "৳ 799",
+            "discount": "-19%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223794403_BD-1169693228",
+            "sku": "223794403_BD",
+            "skus": [],
+            "description": [
+                "Shell Material: Plastic",
+                "Power: 700W",
+                "Voltage: 220V.",
+                "Small and Portable",
+                "Controlled by use of fabrics",
+                "Water storage",
+                "The handle can be folded",
+                "Lightweight, comfortable to carry",
+                "Ideal for travel",
+                "Are rare in the mall rarely sold",
+                "Convenient to carry a small"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508148186",
+            "mainSellerId": "",
+            "sellerName": "Dhaka Shopping Zone",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ff20e8cc2108fd536c093baefd67f539.jpg",
+                    "productUrl": "/products/portable-travel-iron-white-and-blue-i223794403-s1169693228.html",
+                    "sku": "223794403_BD",
+                    "skuId": "1169693228"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:223794403;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:223794403_BD;price:799.00;client:desktop;supplier_id:700508148186;asc_category_id:373;item_id:223794403;sku_id:1169693228;shop_id:129842",
+            "addToCartSkus": [
+                {
+                    "sku": "223794403_BD-1169693228",
+                    "skuId": "1169693228",
+                    "count": 0
+                }
+            ],
+            "itemId": "223794403",
+            "skuId": "1169693228",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Havells Jio Dry Iron 1000W Non Stick Coating - Purple and White",
+            "nid": "137174446",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "137174446",
+                "scene_pre": "search",
+                "current_price": "1000",
+                "x_sku_ids": "1059624333",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "137174446"
+            },
+            "productUrl": "//www.daraz.com.bd/products/havells-jio-1000w-i137174446-s1059624333.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/54e00c69cdb81f8b4d6ddda2b55adedb.jpg",
+            "originalPrice": "1100.00",
+            "originalPriceShow": "৳ 1,100",
+            "price": "1000",
+            "promotionId": "null",
+            "priceShow": "৳ 1,000",
+            "discount": "-9%",
+            "ratingScore": "4.75",
+            "review": "16",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "137174446_BD-1059624333",
+            "sku": "137174446_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "154016",
+            "brandName": "Havells",
+            "sellerId": "4790",
+            "mainSellerId": "",
+            "sellerName": "HAMKO CORPORATION LTD.",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/54e00c69cdb81f8b4d6ddda2b55adedb.jpg",
+                    "productUrl": "/products/havells-jio-1000w-i137174446-s1059624333.html",
+                    "sku": "137174446_BD",
+                    "skuId": "1059624333"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:137174446;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:137174446_BD;price:1000;client:desktop;supplier_id:4790;asc_category_id:373;item_id:137174446;sku_id:1059624333;shop_id:4824",
+            "addToCartSkus": [
+                {
+                    "sku": "137174446_BD-1059624333",
+                    "skuId": "1059624333",
+                    "count": 0
+                }
+            ],
+            "itemId": "137174446",
+            "skuId": "1059624333",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Dr Small heat seal machines",
+            "nid": "222376803",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "222376803",
+                "scene_pre": "search",
+                "current_price": "129.00",
+                "x_sku_ids": "1168782568",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "222376803"
+            },
+            "productUrl": "//www.daraz.com.bd/products/dr-i222376803-s1168782568.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c23c1f075c583bbbd852feebf749dc02.jpg",
+            "originalPrice": "211.00",
+            "originalPriceShow": "৳ 211",
+            "price": "129.00",
+            "promotionId": "null",
+            "priceShow": "৳ 129",
+            "discount": "-39%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "222376803_BD-1168782568",
+            "sku": "222376803_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509900106",
+            "mainSellerId": "",
+            "sellerName": "ClickMe",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c23c1f075c583bbbd852feebf749dc02.jpg",
+                    "productUrl": "/products/dr-i222376803-s1168782568.html",
+                    "sku": "222376803_BD",
+                    "skuId": "1168782568"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                10000307
+            ],
+            "clickTrace": "query:;nid:222376803;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:222376803_BD;price:129.00;client:desktop;supplier_id:700509900106;asc_category_id:10000307;item_id:222376803;sku_id:1168782568;shop_id:219796",
+            "addToCartSkus": [
+                {
+                    "sku": "222376803_BD-1168782568",
+                    "skuId": "1168782568",
+                    "count": 0
+                }
+            ],
+            "itemId": "222376803",
+            "skuId": "1168782568",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bajaj DX 7 NEO Dry Iron (White/Levender) 1000 Watt",
+            "nid": "223642039",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223642039",
+                "scene_pre": "search",
+                "current_price": "1098",
+                "x_sku_ids": "1169626016",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "223642039"
+            },
+            "productUrl": "//www.daraz.com.bd/products/bajaj-dx-7-neo-1000-i223642039-s1169626016.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/db87a25734b08dd3540d31051cae12ce.jpg",
+            "originalPrice": "1500.00",
+            "originalPriceShow": "৳ 1,500",
+            "price": "1098",
+            "promotionId": "null",
+            "priceShow": "৳ 1,098",
+            "discount": "-27%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223642039_BD-1169626016",
+            "sku": "223642039_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "22486",
+            "brandName": "Bajaj",
+            "sellerId": "700510014017",
+            "mainSellerId": "",
+            "sellerName": "Sheba Trading BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/db87a25734b08dd3540d31051cae12ce.jpg",
+                    "productUrl": "/products/bajaj-dx-7-neo-1000-i223642039-s1169626016.html",
+                    "sku": "223642039_BD",
+                    "skuId": "1169626016"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:223642039;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:223642039_BD;price:1098;client:desktop;supplier_id:700510014017;asc_category_id:373;item_id:223642039;sku_id:1169626016;shop_id:223890",
+            "addToCartSkus": [
+                {
+                    "sku": "223642039_BD-1169626016",
+                    "skuId": "1169626016",
+                    "count": 0
+                }
+            ],
+            "itemId": "223642039",
+            "skuId": "1169626016",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bajaj DX-2 600W Dry Iron with Advance Soleplate and Anti-Bacterial German Coating Technology, Grey",
+            "nid": "223629488",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223629488",
+                "scene_pre": "search",
+                "current_price": "969",
+                "x_sku_ids": "1169619189",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "223629488"
+            },
+            "productUrl": "//www.daraz.com.bd/products/bajaj-dx-2-w-i223629488-s1169619189.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a8be8aa11f7a6097cbc9009e8bb89aac.jpg",
+            "originalPrice": "1300.00",
+            "originalPriceShow": "৳ 1,300",
+            "price": "969",
+            "promotionId": "null",
+            "priceShow": "৳ 969",
+            "discount": "-25%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223629488_BD-1169619189",
+            "sku": "223629488_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "22486",
+            "brandName": "Bajaj",
+            "sellerId": "700510014017",
+            "mainSellerId": "",
+            "sellerName": "Sheba Trading BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a8be8aa11f7a6097cbc9009e8bb89aac.jpg",
+                    "productUrl": "/products/bajaj-dx-2-w-i223629488-s1169619189.html",
+                    "sku": "223629488_BD",
+                    "skuId": "1169619189"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:223629488;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:223629488_BD;price:969;client:desktop;supplier_id:700510014017;asc_category_id:373;item_id:223629488;sku_id:1169619189;shop_id:223890",
+            "addToCartSkus": [
+                {
+                    "sku": "223629488_BD-1169619189",
+                    "skuId": "1169619189",
+                    "count": 0
+                }
+            ],
+            "itemId": "223629488",
+            "skuId": "1169619189",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Steam Travel Irons â White and Blue",
+            "nid": "416320",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "860735",
+                "scene_pre": "search",
+                "current_price": "715",
+                "x_sku_ids": "3545169",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "860735"
+            },
+            "productUrl": "//www.daraz.com.bd/products/steam-travel-irons-a-white-and-blue-i860735-s3545169.html?search=1",
+            "image": "https://static-01.daraz.com.bd/original/767bf5056f86dd919ee3e025b366ad4b.jpg",
+            "originalPrice": "850.00",
+            "originalPriceShow": "৳ 850",
+            "price": "715",
+            "promotionId": "null",
+            "priceShow": "৳ 715",
+            "discount": "-16%",
+            "ratingScore": "4.07143",
+            "review": "14",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "HE975HL01EM2GNAFAMZ-620016",
+            "sku": "HE975HL01EM2GNAFAMZ",
+            "skus": [],
+            "description": [
+                "Travel steam Iron",
+                "Flat folding handle",
+                "Push button for steam",
+                "Variable temperature",
+                "Power On indicator",
+                "Power Consumption: 700W",
+                "It's lightweight, compact, convenient and durable",
+                "AC220-240V - 50/60Hz"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1648",
+            "mainSellerId": "",
+            "sellerName": "24 Bazaar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/original/767bf5056f86dd919ee3e025b366ad4b.jpg",
+                    "productUrl": "/products/steam-travel-irons-a-white-and-blue-i860735-s3545169.html",
+                    "sku": "HE975HL01EM2GNAFAMZ",
+                    "skuId": "3545169"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:416320;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:HE975HL01EM2GNAFAMZ;price:715;client:desktop;supplier_id:1648;asc_category_id:373;item_id:860735;sku_id:3545169;shop_id:2363",
+            "addToCartSkus": [
+                {
+                    "sku": "HE975HL01EM2GNAFAMZ-620016",
+                    "skuId": "3545169",
+                    "count": 0
+                }
+            ],
+            "itemId": "860735",
+            "skuId": "3545169",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bajaj Majesty DX-8 1000-Watt Dry Iron (Grey/White)",
+            "nid": "223629886",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223629886",
+                "scene_pre": "search",
+                "current_price": "1097",
+                "x_sku_ids": "1169618285",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "223629886"
+            },
+            "productUrl": "//www.daraz.com.bd/products/bajaj-dx-8-i223629886-s1169618285.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e11164ffad1e26210e07dcb940bace21.jpg",
+            "originalPrice": "1500.00",
+            "originalPriceShow": "৳ 1,500",
+            "price": "1097",
+            "promotionId": "null",
+            "priceShow": "৳ 1,097",
+            "discount": "-27%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223629886_BD-1169618285",
+            "sku": "223629886_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "22486",
+            "brandName": "Bajaj",
+            "sellerId": "700510014017",
+            "mainSellerId": "",
+            "sellerName": "Sheba Trading BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e11164ffad1e26210e07dcb940bace21.jpg",
+                    "productUrl": "/products/bajaj-dx-8-i223629886-s1169618285.html",
+                    "sku": "223629886_BD",
+                    "skuId": "1169618285"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:223629886;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:223629886_BD;price:1097;client:desktop;supplier_id:700510014017;asc_category_id:373;item_id:223629886;sku_id:1169618285;shop_id:223890",
+            "addToCartSkus": [
+                {
+                    "sku": "223629886_BD-1169618285",
+                    "skuId": "1169618285",
+                    "count": 0
+                }
+            ],
+            "itemId": "223629886",
+            "skuId": "1169618285",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bajaj DHX-9 1000W Heavy Weight with Advance Soleplate and Anti-Bacterial German Coating Technology, Ivory",
+            "nid": "223644336",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223644336",
+                "scene_pre": "search",
+                "current_price": "1391",
+                "x_sku_ids": "1169615803",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "223644336"
+            },
+            "productUrl": "//www.daraz.com.bd/products/bajaj-dhx-9-w-i223644336-s1169615803.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e03da3d7b097ba9fca428fe5068f899e.jpg",
+            "originalPrice": "1800.00",
+            "originalPriceShow": "৳ 1,800",
+            "price": "1391",
+            "promotionId": "null",
+            "priceShow": "৳ 1,391",
+            "discount": "-23%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223644336_BD-1169615803",
+            "sku": "223644336_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "22486",
+            "brandName": "Bajaj",
+            "sellerId": "700510014017",
+            "mainSellerId": "",
+            "sellerName": "Sheba Trading BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e03da3d7b097ba9fca428fe5068f899e.jpg",
+                    "productUrl": "/products/bajaj-dhx-9-w-i223644336-s1169615803.html",
+                    "sku": "223644336_BD",
+                    "skuId": "1169615803"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:223644336;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:223644336_BD;price:1391;client:desktop;supplier_id:700510014017;asc_category_id:373;item_id:223644336;sku_id:1169615803;shop_id:223890",
+            "addToCartSkus": [
+                {
+                    "sku": "223644336_BD-1169615803",
+                    "skuId": "1169615803",
+                    "count": 0
+                }
+            ],
+            "itemId": "223644336",
+            "skuId": "1169615803",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Orient Electric Kratos 1000-Watt Heavy Dry Iron (Ivory)",
+            "nid": "183491985",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183491985",
+                "scene_pre": "search",
+                "current_price": "1629",
+                "x_sku_ids": "1172474507",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "183491985"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1000-i183491985-s1172474507.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/88ffdbe3bd3288fdcbbba7035bab31b4.jpg",
+            "originalPrice": "1800.00",
+            "originalPriceShow": "৳ 1,800",
+            "price": "1629",
+            "promotionId": "null",
+            "priceShow": "৳ 1,629",
+            "discount": "-10%",
+            "ratingScore": "4.85714",
+            "review": "7",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183491985_BD-1172474507",
+            "sku": "183491985_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "32322",
+            "brandName": "Orient",
+            "sellerId": "700508433296",
+            "mainSellerId": "",
+            "sellerName": "Tech International",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/88ffdbe3bd3288fdcbbba7035bab31b4.jpg",
+                    "productUrl": "/products/1000-i183491985-s1172474507.html",
+                    "sku": "183491985_BD",
+                    "skuId": "1172474507"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:183491985;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:183491985_BD;price:1629;client:desktop;supplier_id:700508433296;asc_category_id:373;item_id:183491985;sku_id:1172474507;shop_id:160046",
+            "addToCartSkus": [
+                {
+                    "sku": "183491985_BD-1172474507",
+                    "skuId": "1172474507",
+                    "count": 0
+                }
+            ],
+            "itemId": "183491985",
+            "skuId": "1172474507",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Vision Electric Dry Iron -007",
+            "nid": "217362281",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "217362281",
+                "scene_pre": "search",
+                "current_price": "672",
+                "x_sku_ids": "1165402222",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "217362281"
+            },
+            "productUrl": "//www.daraz.com.bd/products/007-i217362281-s1165402222.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b5a964f3766342c263f0d35a5ab207f0.jpg",
+            "originalPrice": "700.00",
+            "originalPriceShow": "৳ 700",
+            "price": "672",
+            "promotionId": "null",
+            "priceShow": "৳ 672",
+            "discount": "-4%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "217362281_BD-1165402222",
+            "sku": "217362281_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700509657008",
+            "mainSellerId": "",
+            "sellerName": "KAZI ELECTRONIC(FAR)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b5a964f3766342c263f0d35a5ab207f0.jpg",
+                    "productUrl": "/products/007-i217362281-s1165402222.html",
+                    "sku": "217362281_BD",
+                    "skuId": "1165402222"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:217362281;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:217362281_BD;price:672;client:desktop;supplier_id:700509657008;asc_category_id:373;item_id:217362281;sku_id:1165402222;shop_id:215580",
+            "addToCartSkus": [
+                {
+                    "sku": "217362281_BD-1165402222",
+                    "skuId": "1165402222",
+                    "count": 0
+                }
+            ],
+            "itemId": "217362281",
+            "skuId": "1165402222",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Portable Travel Iron - Cl-258B - 700Watt - White and Blue",
+            "nid": "835949",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "1180493",
+                "scene_pre": "search",
+                "current_price": "850.00",
+                "x_sku_ids": "11982531",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "1180493"
+            },
+            "productUrl": "//www.daraz.com.bd/products/cl-258b-700-i1180493-s11982531.html?search=1",
+            "image": "https://static-01.daraz.com.bd/original/8d26677c8eed6a5a5e64d7bc8c8d6d0a.jpg",
+            "price": "850.00",
+            "promotionId": "null",
+            "priceShow": "৳ 850",
+            "ratingScore": "4.5",
+            "review": "12",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "HE975HL1KJ6TKNAFAMZ-1185078",
+            "sku": "HE975HL1KJ6TKNAFAMZ",
+            "skus": [],
+            "description": [
+                "Fuse thermostat builds, So use safer",
+                "700 Watt",
+                "High-Quality Products",
+                "Good Quality Material",
+                "Adjustable Teflon Plate"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "3645",
+            "mainSellerId": "",
+            "sellerName": "bdgadget24",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/original/8d26677c8eed6a5a5e64d7bc8c8d6d0a.jpg",
+                    "productUrl": "/products/cl-258b-700-i1180493-s11982531.html",
+                    "sku": "HE975HL1KJ6TKNAFAMZ",
+                    "skuId": "11982531"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:835949;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:HE975HL1KJ6TKNAFAMZ;price:850.00;client:desktop;supplier_id:3645;asc_category_id:373;item_id:1180493;sku_id:11982531;shop_id:3844",
+            "addToCartSkus": [
+                {
+                    "sku": "HE975HL1KJ6TKNAFAMZ-1185078",
+                    "skuId": "11982531",
+                    "count": 0
+                }
+            ],
+            "itemId": "1180493",
+            "skuId": "11982531",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Philips GC160/22 Dry Iron with DynaGlide",
+            "nid": "168434038",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168434038",
+                "scene_pre": "search",
+                "current_price": "2169",
+                "x_sku_ids": "1102554360",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "168434038"
+            },
+            "productUrl": "//www.daraz.com.bd/products/philips-gc16022-i168434038-s1102554360.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7ee1a4406eefae987ed1d0682292f2c9.jpg",
+            "originalPrice": "3250.00",
+            "originalPriceShow": "৳ 3,250",
+            "price": "2169",
+            "promotionId": "null",
+            "priceShow": "৳ 2,169",
+            "discount": "-33%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168434038_BD-1102554360",
+            "sku": "168434038_BD",
+            "skus": [],
+            "description": [
+                "1-Year International Seller Warranty",
+                "DynaGlide soleplate for easy gliding on all garments",
+                "Slim tip soleplate reaches easily in tricky areas",
+                "Button groove speeds up ironing along with buttons and seams",
+                "Comfortable handle with texturing for easy grip",
+                "Cord winder for easy cord storage",
+                "Easy temperature control",
+                "Temperature light indicates when the iron is hot enough",
+                "The best gliding soleplate"
+            ],
+            "brandId": "25090",
+            "brandName": "Philips",
+            "sellerId": "1021420",
+            "mainSellerId": "",
+            "sellerName": "aangana",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7ee1a4406eefae987ed1d0682292f2c9.jpg",
+                    "productUrl": "/products/philips-gc16022-i168434038-s1102554360.html",
+                    "sku": "168434038_BD",
+                    "skuId": "1102554360"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:168434038;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:168434038_BD;price:2169;client:desktop;supplier_id:1021420;asc_category_id:373;item_id:168434038;sku_id:1102554360;shop_id:27646",
+            "addToCartSkus": [
+                {
+                    "sku": "168434038_BD-1102554360",
+                    "skuId": "1102554360",
+                    "count": 0
+                }
+            ],
+            "itemId": "168434038",
+            "skuId": "1102554360",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bajaj Majesty Esteela 1000-Watt Dry Iron (White/Maroon)",
+            "nid": "223639651",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "223639651",
+                "scene_pre": "search",
+                "current_price": "1269",
+                "x_sku_ids": "1169619464",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "223639651"
+            },
+            "productUrl": "//www.daraz.com.bd/products/bajaj-majesty-esteela-1000-i223639651-s1169619464.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b6b6510c8766d37719bf4aeb55d56344.jpg",
+            "originalPrice": "1700.00",
+            "originalPriceShow": "৳ 1,700",
+            "price": "1269",
+            "promotionId": "null",
+            "priceShow": "৳ 1,269",
+            "discount": "-25%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "223639651_BD-1169619464",
+            "sku": "223639651_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "22486",
+            "brandName": "Bajaj",
+            "sellerId": "700510014017",
+            "mainSellerId": "",
+            "sellerName": "Sheba Trading BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b6b6510c8766d37719bf4aeb55d56344.jpg",
+                    "productUrl": "/products/bajaj-majesty-esteela-1000-i223639651-s1169619464.html",
+                    "sku": "223639651_BD",
+                    "skuId": "1169619464"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:223639651;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:223639651_BD;price:1269;client:desktop;supplier_id:700510014017;asc_category_id:373;item_id:223639651;sku_id:1169619464;shop_id:223890",
+            "addToCartSkus": [
+                {
+                    "sku": "223639651_BD-1169619464",
+                    "skuId": "1169619464",
+                    "count": 0
+                }
+            ],
+            "itemId": "223639651",
+            "skuId": "1169619464",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Deluxe ZE-2021 Jake Pot Automatic Iron",
+            "nid": "191048051",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "191048051",
+                "scene_pre": "search",
+                "current_price": "820.00",
+                "x_sku_ids": "1138232393",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "191048051"
+            },
+            "productUrl": "//www.daraz.com.bd/products/deluxe-ze-2021-jake-pot-automatic-iron-i191048051-s1138232393.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/afd8634eac6f8e6669d20a95521354d5.jpg",
+            "originalPrice": "1000.00",
+            "originalPriceShow": "৳ 1,000",
+            "price": "820.00",
+            "promotionId": "null",
+            "priceShow": "৳ 820",
+            "discount": "-18%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "191048051_BD-1138232393",
+            "sku": "191048051_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508760130",
+            "mainSellerId": "",
+            "sellerName": "SMM Super Shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/afd8634eac6f8e6669d20a95521354d5.jpg",
+                    "productUrl": "/products/deluxe-ze-2021-jake-pot-automatic-iron-i191048051-s1138232393.html",
+                    "sku": "191048051_BD",
+                    "skuId": "1138232393"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:191048051;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:191048051_BD;price:820.00;client:desktop;supplier_id:700508760130;asc_category_id:373;item_id:191048051;sku_id:1138232393;shop_id:181035",
+            "addToCartSkus": [
+                {
+                    "sku": "191048051_BD-1138232393",
+                    "skuId": "1138232393",
+                    "count": 0
+                }
+            ],
+            "itemId": "191048051",
+            "skuId": "1138232393",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "VISION Electronic Iron VIS-DEI-007",
+            "nid": "238477300",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "238477300",
+                "scene_pre": "search",
+                "current_price": "840.00",
+                "x_sku_ids": "1181968011",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "238477300"
+            },
+            "productUrl": "//www.daraz.com.bd/products/vision-electronic-iron-vis-dei-007-i238477300-s1181968011.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4b3032112461d17c09fbecb43d3a3a13.jpg",
+            "originalPrice": "950.00",
+            "originalPriceShow": "৳ 950",
+            "price": "840.00",
+            "promotionId": "null",
+            "priceShow": "৳ 840",
+            "discount": "-12%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "238477300_BD-1181968011",
+            "sku": "238477300_BD",
+            "skus": [],
+            "description": [
+                "Non-Sticky coating soleplate",
+                "220V, 50Hz. 1150Watt",
+                "Weight: 600gm",
+                "Thermostat Temperature Control",
+                "Flexible 360-degree swivel cord guard",
+                "Overheat protection",
+                "Auto power off when the temperature reaches the target",
+                "Color: Blue (As given picture)."
+            ],
+            "brandId": "32969",
+            "brandName": "VISION",
+            "sellerId": "700512678641",
+            "mainSellerId": "",
+            "sellerName": "Mamun Enterprise (SKR)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4b3032112461d17c09fbecb43d3a3a13.jpg",
+                    "productUrl": "/products/vision-electronic-iron-vis-dei-007-i238477300-s1181968011.html",
+                    "sku": "238477300_BD",
+                    "skuId": "1181968011"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:238477300;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:238477300_BD;price:840.00;client:desktop;supplier_id:700512678641;asc_category_id:373;item_id:238477300;sku_id:1181968011;shop_id:241356",
+            "addToCartSkus": [
+                {
+                    "sku": "238477300_BD-1181968011",
+                    "skuId": "1181968011",
+                    "count": 0
+                }
+            ],
+            "itemId": "238477300",
+            "skuId": "1181968011",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Xiaomi_Mijia Lofans Hair Ball Trimmer Rechargeable Hairball Removal Shaving Machine",
+            "nid": "208258165",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "208258165",
+                "scene_pre": "search",
+                "current_price": "919",
+                "x_sku_ids": "1158444117",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "208258165"
+            },
+            "productUrl": "//www.daraz.com.bd/products/mijia-lofan-cs-622-i208258165-s1158444117.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8e35fec817d4ef853a6a076d4f351021.jpg",
+            "originalPrice": "1909.00",
+            "originalPriceShow": "৳ 1,909",
+            "price": "919",
+            "promotionId": "null",
+            "priceShow": "৳ 919",
+            "discount": "-52%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "208258165_BD-1158444117",
+            "sku": "208258165_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507983130",
+            "mainSellerId": "",
+            "sellerName": "Gadget Master RP",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8e35fec817d4ef853a6a076d4f351021.jpg",
+                    "productUrl": "/products/mijia-lofan-cs-622-i208258165-s1158444117.html",
+                    "sku": "208258165_BD",
+                    "skuId": "1158444117"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                10000307
+            ],
+            "clickTrace": "query:;nid:208258165;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:208258165_BD;price:919;client:desktop;supplier_id:700507983130;asc_category_id:10000307;item_id:208258165;sku_id:1158444117;shop_id:122550",
+            "addToCartSkus": [
+                {
+                    "sku": "208258165_BD-1158444117",
+                    "skuId": "1158444117",
+                    "count": 0
+                }
+            ],
+            "itemId": "208258165",
+            "skuId": "1158444117",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SOAPCASE SUS 304",
+            "nid": "176974269",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "176974269",
+                "scene_pre": "search",
+                "current_price": "339",
+                "x_sku_ids": "1116858757",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "176974269"
+            },
+            "productUrl": "//www.daraz.com.bd/products/soapcase-sus-304-i176974269-s1116858757.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ba85be6054f26b990d96c01d24b08f73.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "339",
+            "promotionId": "null",
+            "priceShow": "৳ 339",
+            "discount": "-3%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "176974269_BD-1116858757",
+            "sku": "176974269_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506846070",
+            "mainSellerId": "",
+            "sellerName": "MOON SANITARY & GALLERY",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ba85be6054f26b990d96c01d24b08f73.jpg",
+                    "productUrl": "/products/soapcase-sus-304-i176974269-s1116858757.html",
+                    "sku": "176974269_BD",
+                    "skuId": "1116858757"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                10000307
+            ],
+            "clickTrace": "query:;nid:176974269;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:176974269_BD;price:339;client:desktop;supplier_id:700506846070;asc_category_id:10000307;item_id:176974269;sku_id:1116858757;shop_id:85449",
+            "addToCartSkus": [
+                {
+                    "sku": "176974269_BD-1116858757",
+                    "skuId": "1116858757",
+                    "count": 0
+                }
+            ],
+            "itemId": "176974269",
+            "skuId": "1116858757",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "ORIENT Enduro Dry Iron  1000 watt",
+            "nid": "131632506",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "131632506",
+                "scene_pre": "search",
+                "current_price": "1500.00",
+                "x_sku_ids": "1052016847",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "131632506"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1000-i131632506-s1052016847.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/434097ee356b44f70ac276a081dbd269.png",
+            "price": "1500.00",
+            "promotionId": "null",
+            "priceShow": "৳ 1,500",
+            "ratingScore": "4.84",
+            "review": "50",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "131632506_BD-1052016847",
+            "sku": "131632506_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "32322",
+            "brandName": "Orient",
+            "sellerId": "700505214034",
+            "mainSellerId": "",
+            "sellerName": "Orient Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/434097ee356b44f70ac276a081dbd269.png",
+                    "productUrl": "/products/1000-i131632506-s1052016847.html",
+                    "sku": "131632506_BD",
+                    "skuId": "1052016847"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:131632506;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:131632506_BD;price:1500.00;client:desktop;supplier_id:700505214034;asc_category_id:373;item_id:131632506;sku_id:1052016847;shop_id:58464",
+            "addToCartSkus": [
+                {
+                    "sku": "131632506_BD-1052016847",
+                    "skuId": "1052016847",
+                    "count": 0
+                }
+            ],
+            "itemId": "131632506",
+            "skuId": "1052016847",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Vision Dry Iron VIS-DEI-002",
+            "nid": "195939221",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "195939221",
+                "scene_pre": "search",
+                "current_price": "776",
+                "x_sku_ids": "1142191881",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "195939221"
+            },
+            "productUrl": "//www.daraz.com.bd/products/vis-dei-002-i195939221-s1142191881.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/75959ba104b018ed6711936bded0df7a.jpg",
+            "originalPrice": "1500.00",
+            "originalPriceShow": "৳ 1,500",
+            "price": "776",
+            "promotionId": "null",
+            "priceShow": "৳ 776",
+            "discount": "-48%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "195939221_BD-1142191881",
+            "sku": "195939221_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508802129",
+            "mainSellerId": "",
+            "sellerName": "Maria Trading BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/75959ba104b018ed6711936bded0df7a.jpg",
+                    "productUrl": "/products/vis-dei-002-i195939221-s1142191881.html",
+                    "sku": "195939221_BD",
+                    "skuId": "1142191881"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:195939221;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:195939221_BD;price:776;client:desktop;supplier_id:700508802129;asc_category_id:373;item_id:195939221;sku_id:1142191881;shop_id:187997",
+            "addToCartSkus": [
+                {
+                    "sku": "195939221_BD-1142191881",
+                    "skuId": "1142191881",
+                    "count": 0
+                }
+            ],
+            "itemId": "195939221",
+            "skuId": "1142191881",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "VISION DRY IRON 007",
+            "nid": "183477867",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183477867",
+                "scene_pre": "search",
+                "current_price": "749.00",
+                "x_sku_ids": "1127849677",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "183477867"
+            },
+            "productUrl": "//www.daraz.com.bd/products/007-i183477867-s1127849677.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/c21ccc1b86c2099db339352dba603ccf.jpg",
+            "originalPrice": "999.00",
+            "originalPriceShow": "৳ 999",
+            "price": "749.00",
+            "promotionId": "null",
+            "priceShow": "৳ 749",
+            "discount": "-25%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183477867_BD-1127849677",
+            "sku": "183477867_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507407023",
+            "mainSellerId": "",
+            "sellerName": "Maya Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/c21ccc1b86c2099db339352dba603ccf.jpg",
+                    "productUrl": "/products/007-i183477867-s1127849677.html",
+                    "sku": "183477867_BD",
+                    "skuId": "1127849677"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:183477867;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:183477867_BD;price:749.00;client:desktop;supplier_id:700507407023;asc_category_id:373;item_id:183477867;sku_id:1127849677;shop_id:91188",
+            "addToCartSkus": [
+                {
+                    "sku": "183477867_BD-1127849677",
+                    "skuId": "1127849677",
+                    "count": 0
+                }
+            ],
+            "itemId": "183477867",
+            "skuId": "1127849677",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "VISION Dry Iron VIS-DEI-009",
+            "nid": "233258692",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233258692",
+                "scene_pre": "search",
+                "current_price": "720.00",
+                "x_sku_ids": "1175948371",
+                "SN": "e1b10b0cfa64f9401d6068a84803b467",
+                "x_ad": "1",
+                "x_object_id": "233258692"
+            },
+            "productUrl": "//www.daraz.com.bd/products/vis-dei-009-i233258692-s1175948371.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4cb16ab4c9a1a2b176eed7bf3bd8202a.jpg",
+            "originalPrice": "850.00",
+            "originalPriceShow": "৳ 850",
+            "price": "720.00",
+            "promotionId": "null",
+            "priceShow": "৳ 720",
+            "discount": "-15%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233258692_BD-1175948371",
+            "sku": "233258692_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "32969",
+            "brandName": "VISION",
+            "sellerId": "700509099021",
+            "mainSellerId": "",
+            "sellerName": "Baneswar Eletronics House (RAJ)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4cb16ab4c9a1a2b176eed7bf3bd8202a.jpg",
+                    "productUrl": "/products/vis-dei-009-i233258692-s1175948371.html",
+                    "sku": "233258692_BD",
+                    "skuId": "1175948371"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/99851d3eec1c6e05490b69058ac2c8ed.jpg",
+                    "productUrl": "/products/vis-dei-009-i233258692-s1175948372.html",
+                    "sku": "233258692_BD",
+                    "skuId": "1175948372"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                275,
+                372,
+                373
+            ],
+            "clickTrace": "query:;nid:233258692;src:LazadaMainSrp;rn:e1b10b0cfa64f9401d6068a84803b467;region:bd;sku:233258692_BD;price:720.00;client:desktop;supplier_id:700509099021;asc_category_id:373;item_id:233258692;sku_id:1175948371;shop_id:203791",
+            "addToCartSkus": [
+                {
+                    "sku": "233258692_BD-1175948371",
+                    "skuId": "1175948371",
+                    "count": 0
+                }
+            ],
+            "itemId": "233258692",
+            "skuId": "1175948371",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/home-appliances/",
+            "title": "Home Appliances"
+        },
+        {
+            "url": "/garment-care/",
+            "title": "Irons & Garment Steamers"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/garment-care/?referer_rn=e1b10b0cfa64f9401d6068a84803b467&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {},
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "4501 items found in {$0}",
+        "title": "Irons & Garment Steamers",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Irons & Garment Steamers"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Irons & Garment Steamers",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "e1b10b0cfa64f9401d6068a84803b467",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "372",
+            "category": "372"
+        },
+        "categoryRegionalKey": "050200000000",
+        "mainCategoryRegionalKey": "050000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "আয়রণ ও গার্মেন্টস স্টিমারস at Best Price | 20% Off on Daraz | Buy Online",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Home Appliances,Irons & Garment Steamers",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "050200000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=372&_p_asc_cateid=372",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "garment-care",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "e1b10b0cfa64f9401d6068a84803b467",
+                "resultNr": 4501,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1089102822",
+                "1168154339",
+                "1169622120"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "372",
+            "category": "372"
+        }
+    }
+}

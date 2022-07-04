@@ -1,0 +1,4610 @@
+{
+    "listItems": [
+        {
+            "name": "Light Black Jeans Pants for Men, Express Denim",
+            "nid": "171960037",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "171960037",
+                "scene_pre": "search",
+                "current_price": "945.00",
+                "x_sku_ids": "1108068263",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "171960037"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i171960037-s1108068263.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d194e62628e04da77ea302487f3e4e03.jpg",
+            "originalPrice": "1890.00",
+            "originalPriceShow": "৳ 1,890",
+            "price": "945.00",
+            "promotionId": "null",
+            "priceShow": "৳ 945",
+            "discount": "-50%",
+            "ratingScore": "4.34078",
+            "review": "179",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "171960037_BD-1108068263",
+            "sku": "171960037_BD",
+            "skus": [],
+            "description": [
+                "ব্র্যান্ড নাম : EXPRESS",
+                "ফ্যাব্রিক : 98% তুলা 2% স্প্যানডেক্স",
+                "স্টাইল : স্ট্রেচ জিন্স",
+                "GSM 10.50 OZ",
+                "ফিটিং: স্লিম ফিট",
+                "কোমর : মিড-কোমর",
+                "ইনসিম : 32 ইঞ্চি।"
+            ],
+            "brandId": "45363",
+            "brandName": "Lotto",
+            "sellerId": "1034176",
+            "mainSellerId": "",
+            "sellerName": "Lotto-Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d194e62628e04da77ea302487f3e4e03.jpg",
+                    "productUrl": "/products/-i171960037-s1108068263.html",
+                    "sku": "171960037_BD",
+                    "skuId": "1108068263"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:171960037;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:171960037_BD;price:945.00;client:desktop;supplier_id:1034176;asc_category_id:1789;item_id:171960037;sku_id:1108068263;shop_id:40125",
+            "addToCartSkus": [
+                {
+                    "sku": "171960037_BD-1108068262",
+                    "title": "Waist:30",
+                    "skuId": "1108068262",
+                    "count": 0
+                },
+                {
+                    "sku": "171960037_BD-1108068263",
+                    "title": "Waist:32",
+                    "skuId": "1108068263",
+                    "count": 0
+                },
+                {
+                    "sku": "171960037_BD-1108068264",
+                    "title": "Waist:34",
+                    "skuId": "1108068264",
+                    "count": 0
+                },
+                {
+                    "sku": "171960037_BD-1108068265",
+                    "title": "Waist:36",
+                    "skuId": "1108068265",
+                    "count": 0
+                }
+            ],
+            "itemId": "171960037",
+            "skuId": "1108068263",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jeans Pant for Men - Blue",
+            "nid": "204585133",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "204585133",
+                "scene_pre": "search",
+                "current_price": "945.00",
+                "x_sku_ids": "1152619585",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "204585133"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i204585133-s1152619585.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e1e362dcf716ffd0ad50b209fa0bacbd.jpg",
+            "originalPrice": "1890.00",
+            "originalPriceShow": "৳ 1,890",
+            "price": "945.00",
+            "promotionId": "null",
+            "priceShow": "৳ 945",
+            "discount": "-50%",
+            "ratingScore": "4.53801",
+            "review": "171",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "204585133_BD-1152619585",
+            "sku": "204585133_BD",
+            "skus": [],
+            "description": [
+                "একটি আশ্চর্যজনক চুক্তির জন্য বিশেষ ডেনিম প্যান্ট।"
+            ],
+            "brandId": "45363",
+            "brandName": "Lotto",
+            "sellerId": "1034176",
+            "mainSellerId": "",
+            "sellerName": "Lotto-Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e1e362dcf716ffd0ad50b209fa0bacbd.jpg",
+                    "productUrl": "/products/-i204585133-s1152619585.html",
+                    "sku": "204585133_BD",
+                    "skuId": "1152619585"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:204585133;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:204585133_BD;price:945.00;client:desktop;supplier_id:1034176;asc_category_id:1789;item_id:204585133;sku_id:1152619585;shop_id:40125",
+            "addToCartSkus": [
+                {
+                    "sku": "204585133_BD-1152619584",
+                    "title": "Waist:30",
+                    "skuId": "1152619584",
+                    "count": 0
+                },
+                {
+                    "sku": "204585133_BD-1152619585",
+                    "title": "Waist:32",
+                    "skuId": "1152619585",
+                    "count": 0
+                },
+                {
+                    "sku": "204585133_BD-1169098569",
+                    "title": "Waist:34",
+                    "skuId": "1169098569",
+                    "count": 0
+                },
+                {
+                    "sku": "204585133_BD-1152619587",
+                    "title": "Waist:36",
+                    "skuId": "1152619587",
+                    "count": 0
+                }
+            ],
+            "itemId": "204585133",
+            "skuId": "1152619585",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Express Blue jeans pant for Men, Denim Trouser",
+            "nid": "204564210",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "204564210",
+                "scene_pre": "search",
+                "current_price": "945.00",
+                "x_sku_ids": "1152623417",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "204564210"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i204564210-s1152623417.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/36f461a4be8745da1eca94d830fed4d1.jpg",
+            "originalPrice": "1890.00",
+            "originalPriceShow": "৳ 1,890",
+            "price": "945.00",
+            "promotionId": "null",
+            "priceShow": "৳ 945",
+            "discount": "-50%",
+            "ratingScore": "4.74528",
+            "review": "106",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "204564210_BD-1152623417",
+            "sku": "204564210_BD",
+            "skus": [],
+            "description": [
+                "একটি আশ্চর্যজনক চুক্তির জন্য বিশেষ ডেনিম প্যান্ট।"
+            ],
+            "brandId": "45363",
+            "brandName": "Lotto",
+            "sellerId": "1034176",
+            "mainSellerId": "",
+            "sellerName": "Lotto-Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/36f461a4be8745da1eca94d830fed4d1.jpg",
+                    "productUrl": "/products/-i204564210-s1152623417.html",
+                    "sku": "204564210_BD",
+                    "skuId": "1152623417"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:204564210;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:204564210_BD;price:945.00;client:desktop;supplier_id:1034176;asc_category_id:1789;item_id:204564210;sku_id:1152623417;shop_id:40125",
+            "addToCartSkus": [
+                {
+                    "sku": "204564210_BD-1152623415",
+                    "title": "Waist:30",
+                    "skuId": "1152623415",
+                    "count": 0
+                },
+                {
+                    "sku": "204564210_BD-1152623416",
+                    "title": "Waist:32",
+                    "skuId": "1152623416",
+                    "count": 0
+                },
+                {
+                    "sku": "204564210_BD-1152623417",
+                    "title": "Waist:34",
+                    "skuId": "1152623417",
+                    "count": 0
+                },
+                {
+                    "sku": "204564210_BD-1169099350",
+                    "title": "Waist:36",
+                    "skuId": "1169099350",
+                    "count": 0
+                }
+            ],
+            "itemId": "204564210",
+            "skuId": "1152623417",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Express Black jeans pant for Men, Denim Trouser",
+            "nid": "204581457",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "204581457",
+                "scene_pre": "search",
+                "current_price": "795.00",
+                "x_sku_ids": "1152634001",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "204581457"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i204581457-s1152634001.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ed3102cadc9a121c5e1253cfd80db7f8.jpg",
+            "originalPrice": "1590.00",
+            "originalPriceShow": "৳ 1,590",
+            "price": "795.00",
+            "promotionId": "null",
+            "priceShow": "৳ 795",
+            "discount": "-50%",
+            "ratingScore": "4.08475",
+            "review": "59",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "204581457_BD-1152634001",
+            "sku": "204581457_BD",
+            "skus": [],
+            "description": [
+                "Special Denim Pants for an amazing deal."
+            ],
+            "brandId": "45363",
+            "brandName": "Lotto",
+            "sellerId": "1034176",
+            "mainSellerId": "",
+            "sellerName": "Lotto-Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ed3102cadc9a121c5e1253cfd80db7f8.jpg",
+                    "productUrl": "/products/-i204581457-s1152634001.html",
+                    "sku": "204581457_BD",
+                    "skuId": "1152634001"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:204581457;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:204581457_BD;price:795.00;client:desktop;supplier_id:1034176;asc_category_id:1789;item_id:204581457;sku_id:1152634001;shop_id:40125",
+            "addToCartSkus": [
+                {
+                    "sku": "204581457_BD-1152618998",
+                    "title": "Waist:30",
+                    "skuId": "1152618998",
+                    "count": 0
+                },
+                {
+                    "sku": "204581457_BD-1152618999",
+                    "title": "Waist:32",
+                    "skuId": "1152618999",
+                    "count": 0
+                },
+                {
+                    "sku": "204581457_BD-1152619000",
+                    "title": "Waist:34",
+                    "skuId": "1152619000",
+                    "count": 0
+                },
+                {
+                    "sku": "204581457_BD-1152634001",
+                    "title": "Waist:36",
+                    "skuId": "1152634001",
+                    "count": 0
+                }
+            ],
+            "itemId": "204581457",
+            "skuId": "1152634001",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Denim Jeans for Men - Black",
+            "nid": "179946",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "721951",
+                "scene_pre": "search",
+                "current_price": "590",
+                "x_sku_ids": "1068208150",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "721951"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i721951-s1068208150.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e9f756abd19d7d74345cc4e6552b827e.jpg",
+            "originalPrice": "1199.00",
+            "originalPriceShow": "৳ 1,199",
+            "price": "590",
+            "promotionId": "null",
+            "priceShow": "৳ 590",
+            "discount": "-51%",
+            "ratingScore": "4.0557",
+            "review": "377",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "721951_BD-1068208150",
+            "sku": "721951_BD",
+            "skus": [],
+            "description": [
+                "Brand : DUDE STYLE",
+                "Size : 28,30,32,34,36,38,40",
+                "Product Type : Jeans",
+                "Main Material : Denim",
+                "Gender : Male",
+                "Stretchable : Yes(10%)",
+                "Wash and Care : Machine Wash",
+                "Waist : Mid-rise",
+                "Zip : Fly",
+                "Pocket : Two front and Two Back Pockets.",
+                "100% Authentic Product",
+                "Product color may slightly vary due to our photography and Sometimes it&rsquo;s vary on our devices"
+            ],
+            "brandId": "154141",
+            "brandName": "DUDE STYLE",
+            "sellerId": "671",
+            "mainSellerId": "",
+            "sellerName": "Dude Style",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e9f756abd19d7d74345cc4e6552b827e.jpg",
+                    "productUrl": "/products/-i721951-s1068208150.html",
+                    "sku": "721951_BD",
+                    "skuId": "1068208150"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:179946;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:721951_BD;price:590;client:desktop;supplier_id:671;asc_category_id:1789;item_id:721951;sku_id:1068208150;shop_id:1729",
+            "addToCartSkus": [
+                {
+                    "sku": "721951_BD-1068208149",
+                    "title": "Waist:30",
+                    "skuId": "1068208149",
+                    "count": 0
+                },
+                {
+                    "sku": "721951_BD-1068208150",
+                    "title": "Waist:32",
+                    "skuId": "1068208150",
+                    "count": 0
+                },
+                {
+                    "sku": "721951_BD-1068208151",
+                    "title": "Waist:34",
+                    "skuId": "1068208151",
+                    "count": 0
+                },
+                {
+                    "sku": "721951_BD-1068208152",
+                    "title": "Waist:36",
+                    "skuId": "1068208152",
+                    "count": 0
+                },
+                {
+                    "sku": "721951_BD-1138244487",
+                    "title": "Waist:38",
+                    "skuId": "1138244487",
+                    "count": 0
+                }
+            ],
+            "itemId": "721951",
+            "skuId": "1068208150",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "BLUE Denim Jeans Pant For Men",
+            "nid": "232960920",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "232960920",
+                "scene_pre": "search",
+                "current_price": "288",
+                "x_sku_ids": "1175710708",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "232960920"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i232960920-s1175710708.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/81dc1693db214d484489820f0826fac7.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "288",
+            "promotionId": "null",
+            "priceShow": "৳ 288",
+            "discount": "-56%",
+            "ratingScore": "4.87879",
+            "review": "33",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "232960920_BD-1175710708",
+            "sku": "232960920_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511520170",
+            "mainSellerId": "",
+            "sellerName": "FLY BUY FASHION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/81dc1693db214d484489820f0826fac7.jpg",
+                    "productUrl": "/products/-i232960920-s1175710708.html",
+                    "sku": "232960920_BD",
+                    "skuId": "1175710708"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:232960920;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:232960920_BD;price:288;client:desktop;supplier_id:700511520170;asc_category_id:1789;item_id:232960920;sku_id:1175710708;shop_id:237055",
+            "addToCartSkus": [
+                {
+                    "sku": "232960920_BD-1175710712",
+                    "title": "Int:28",
+                    "skuId": "1175710712",
+                    "count": 0
+                },
+                {
+                    "sku": "232960920_BD-1175710711",
+                    "title": "Int:30",
+                    "skuId": "1175710711",
+                    "count": 0
+                },
+                {
+                    "sku": "232960920_BD-1175710710",
+                    "title": "Int:32",
+                    "skuId": "1175710710",
+                    "count": 0
+                },
+                {
+                    "sku": "232960920_BD-1175710709",
+                    "title": "Int:34",
+                    "skuId": "1175710709",
+                    "count": 0
+                },
+                {
+                    "sku": "232960920_BD-1175710708",
+                    "title": "Int:36",
+                    "skuId": "1175710708",
+                    "count": 0
+                }
+            ],
+            "itemId": "232960920",
+            "skuId": "1175710708",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Smart Stylish Denim Jeans Pant For Men",
+            "nid": "233891693",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233891693",
+                "scene_pre": "search",
+                "current_price": "288",
+                "x_sku_ids": "1176705141",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "233891693"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233891693-s1176705141.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/87e6d35768deaa92e1eba18ee51908ef.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "288",
+            "promotionId": "null",
+            "priceShow": "৳ 288",
+            "discount": "-56%",
+            "ratingScore": "4.11111",
+            "review": "18",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233891693_BD-1176705141",
+            "sku": "233891693_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511838660",
+            "mainSellerId": "",
+            "sellerName": "SOJIB FASHION WORLD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/87e6d35768deaa92e1eba18ee51908ef.jpg",
+                    "productUrl": "/products/-i233891693-s1176705141.html",
+                    "sku": "233891693_BD",
+                    "skuId": "1176705141"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:233891693;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:233891693_BD;price:288;client:desktop;supplier_id:700511838660;asc_category_id:1789;item_id:233891693;sku_id:1176705141;shop_id:238349",
+            "addToCartSkus": [
+                {
+                    "sku": "233891693_BD-1176705145",
+                    "title": "Int:28",
+                    "skuId": "1176705145",
+                    "count": 0
+                },
+                {
+                    "sku": "233891693_BD-1176705144",
+                    "title": "Int:30",
+                    "skuId": "1176705144",
+                    "count": 0
+                },
+                {
+                    "sku": "233891693_BD-1176705143",
+                    "title": "Int:32",
+                    "skuId": "1176705143",
+                    "count": 0
+                },
+                {
+                    "sku": "233891693_BD-1176705142",
+                    "title": "Int:34",
+                    "skuId": "1176705142",
+                    "count": 0
+                },
+                {
+                    "sku": "233891693_BD-1176705141",
+                    "title": "Int:36",
+                    "skuId": "1176705141",
+                    "count": 0
+                }
+            ],
+            "itemId": "233891693",
+            "skuId": "1176705141",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Smart Stylish Denim Jeans Pant For Men",
+            "nid": "233899084",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233899084",
+                "scene_pre": "search",
+                "current_price": "288",
+                "x_sku_ids": "1176710062",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "233899084"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233899084-s1176710062.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fce942e37a214b68e1b2a24e612146de.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "288",
+            "promotionId": "null",
+            "priceShow": "৳ 288",
+            "discount": "-56%",
+            "ratingScore": "4.21053",
+            "review": "19",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233899084_BD-1176710062",
+            "sku": "233899084_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511838660",
+            "mainSellerId": "",
+            "sellerName": "SOJIB FASHION WORLD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fce942e37a214b68e1b2a24e612146de.jpg",
+                    "productUrl": "/products/-i233899084-s1176710062.html",
+                    "sku": "233899084_BD",
+                    "skuId": "1176710062"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:233899084;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:233899084_BD;price:288;client:desktop;supplier_id:700511838660;asc_category_id:1789;item_id:233899084;sku_id:1176710062;shop_id:238349",
+            "addToCartSkus": [
+                {
+                    "sku": "233899084_BD-1176710066",
+                    "title": "Int:28",
+                    "skuId": "1176710066",
+                    "count": 0
+                },
+                {
+                    "sku": "233899084_BD-1176710065",
+                    "title": "Int:30",
+                    "skuId": "1176710065",
+                    "count": 0
+                },
+                {
+                    "sku": "233899084_BD-1176710064",
+                    "title": "Int:32",
+                    "skuId": "1176710064",
+                    "count": 0
+                },
+                {
+                    "sku": "233899084_BD-1176710063",
+                    "title": "Int:34",
+                    "skuId": "1176710063",
+                    "count": 0
+                },
+                {
+                    "sku": "233899084_BD-1176710062",
+                    "title": "Int:36",
+                    "skuId": "1176710062",
+                    "count": 0
+                }
+            ],
+            "itemId": "233899084",
+            "skuId": "1176710062",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Stylish Denim jeans  for men",
+            "nid": "127798676",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "127798676",
+                "scene_pre": "search",
+                "current_price": "599",
+                "x_sku_ids": "1047748394",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "127798676"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i127798676-s1047748394.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6ea1d7a45bb408f30571bf76765f31a0.jpg",
+            "originalPrice": "1199.00",
+            "originalPriceShow": "৳ 1,199",
+            "price": "599",
+            "promotionId": "null",
+            "priceShow": "৳ 599",
+            "discount": "-50%",
+            "ratingScore": "4.54839",
+            "review": "62",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "127798676_BD-1047748394",
+            "sku": "127798676_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "154141",
+            "brandName": "DUDE STYLE",
+            "sellerId": "671",
+            "mainSellerId": "",
+            "sellerName": "Dude Style",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6ea1d7a45bb408f30571bf76765f31a0.jpg",
+                    "productUrl": "/products/-i127798676-s1047748394.html",
+                    "sku": "127798676_BD",
+                    "skuId": "1047748394"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:127798676;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:127798676_BD;price:599;client:desktop;supplier_id:671;asc_category_id:1789;item_id:127798676;sku_id:1047748394;shop_id:1729",
+            "addToCartSkus": [
+                {
+                    "sku": "127798676_BD-1047748394",
+                    "title": "Waist:30",
+                    "skuId": "1047748394",
+                    "count": 0
+                },
+                {
+                    "sku": "127798676_BD-1047748395",
+                    "title": "Waist:32",
+                    "skuId": "1047748395",
+                    "count": 0
+                },
+                {
+                    "sku": "127798676_BD-1047748396",
+                    "title": "Waist:34",
+                    "skuId": "1047748396",
+                    "count": 0
+                },
+                {
+                    "sku": "127798676_BD-1164225869",
+                    "title": "Waist:36",
+                    "skuId": "1164225869",
+                    "count": 0
+                }
+            ],
+            "itemId": "127798676",
+            "skuId": "1047748394",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jeans Pant for Men",
+            "nid": "233061144",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233061144",
+                "scene_pre": "search",
+                "current_price": "231",
+                "x_sku_ids": "1175801042",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "233061144"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233061144-s1175801042.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/360777e03325935356258f38bc566ea9.jpg",
+            "originalPrice": "1050.00",
+            "originalPriceShow": "৳ 1,050",
+            "price": "231",
+            "promotionId": "null",
+            "priceShow": "৳ 231",
+            "discount": "-78%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233061144_BD-1175801042",
+            "sku": "233061144_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508880415",
+            "mainSellerId": "",
+            "sellerName": "Radika Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/360777e03325935356258f38bc566ea9.jpg",
+                    "productUrl": "/products/-i233061144-s1175801042.html",
+                    "sku": "233061144_BD",
+                    "skuId": "1175801042"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:233061144;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:233061144_BD;price:231;client:desktop;supplier_id:700508880415;asc_category_id:1789;item_id:233061144;sku_id:1175801042;shop_id:198366",
+            "addToCartSkus": [
+                {
+                    "sku": "233061144_BD-1175801042",
+                    "skuId": "1175801042",
+                    "count": 0
+                }
+            ],
+            "itemId": "233061144",
+            "skuId": "1175801042",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jeans Pant for Men",
+            "nid": "233052694",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233052694",
+                "scene_pre": "search",
+                "current_price": "231",
+                "x_sku_ids": "1175798245",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "233052694"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233052694-s1175798245.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4ee4f224468e68d3c02267ee32679107.png",
+            "originalPrice": "1050.00",
+            "originalPriceShow": "৳ 1,050",
+            "price": "231",
+            "promotionId": "null",
+            "priceShow": "৳ 231",
+            "discount": "-78%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233052694_BD-1175798245",
+            "sku": "233052694_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508880415",
+            "mainSellerId": "",
+            "sellerName": "Radika Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4ee4f224468e68d3c02267ee32679107.png",
+                    "productUrl": "/products/-i233052694-s1175798245.html",
+                    "sku": "233052694_BD",
+                    "skuId": "1175798245"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:233052694;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:233052694_BD;price:231;client:desktop;supplier_id:700508880415;asc_category_id:1789;item_id:233052694;sku_id:1175798245;shop_id:198366",
+            "addToCartSkus": [
+                {
+                    "sku": "233052694_BD-1175798245",
+                    "skuId": "1175798245",
+                    "count": 0
+                }
+            ],
+            "itemId": "233052694",
+            "skuId": "1175798245",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jeans Pant for Men",
+            "nid": "233046649",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233046649",
+                "scene_pre": "search",
+                "current_price": "184",
+                "x_sku_ids": "1175783897",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "233046649"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233046649-s1175783897.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2b56099894d657e452442b0d043bdaaf.jpg",
+            "originalPrice": "1050.00",
+            "originalPriceShow": "৳ 1,050",
+            "price": "184",
+            "promotionId": "null",
+            "priceShow": "৳ 184",
+            "discount": "-82%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233046649_BD-1175783897",
+            "sku": "233046649_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508880415",
+            "mainSellerId": "",
+            "sellerName": "Radika Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2b56099894d657e452442b0d043bdaaf.jpg",
+                    "productUrl": "/products/-i233046649-s1175783897.html",
+                    "sku": "233046649_BD",
+                    "skuId": "1175783897"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:233046649;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:233046649_BD;price:184;client:desktop;supplier_id:700508880415;asc_category_id:1789;item_id:233046649;sku_id:1175783897;shop_id:198366",
+            "addToCartSkus": [
+                {
+                    "sku": "233046649_BD-1175783897",
+                    "skuId": "1175783897",
+                    "count": 0
+                }
+            ],
+            "itemId": "233046649",
+            "skuId": "1175783897",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jeans Pant for Men",
+            "nid": "233063002",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233063002",
+                "scene_pre": "search",
+                "current_price": "231",
+                "x_sku_ids": "1175800204",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "233063002"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233063002-s1175800204.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d48445de29fefeb561a82dc21bb98c10.jpg",
+            "originalPrice": "1050.00",
+            "originalPriceShow": "৳ 1,050",
+            "price": "231",
+            "promotionId": "null",
+            "priceShow": "৳ 231",
+            "discount": "-78%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233063002_BD-1175800204",
+            "sku": "233063002_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508880415",
+            "mainSellerId": "",
+            "sellerName": "Radika Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d48445de29fefeb561a82dc21bb98c10.jpg",
+                    "productUrl": "/products/-i233063002-s1175800204.html",
+                    "sku": "233063002_BD",
+                    "skuId": "1175800204"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:233063002;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:233063002_BD;price:231;client:desktop;supplier_id:700508880415;asc_category_id:1789;item_id:233063002;sku_id:1175800204;shop_id:198366",
+            "addToCartSkus": [
+                {
+                    "sku": "233063002_BD-1175800204",
+                    "skuId": "1175800204",
+                    "count": 0
+                }
+            ],
+            "itemId": "233063002",
+            "skuId": "1175800204",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Smart Stylish Denim Jeans Pant For Men",
+            "nid": "233660308",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233660308",
+                "scene_pre": "search",
+                "current_price": "288",
+                "x_sku_ids": "1176354724",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "233660308"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233660308-s1176354724.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/04815b206b8572de2485d75fb699297a.jpg",
+            "originalPrice": "1250.00",
+            "originalPriceShow": "৳ 1,250",
+            "price": "288",
+            "promotionId": "null",
+            "priceShow": "৳ 288",
+            "discount": "-77%",
+            "ratingScore": "4.77778",
+            "review": "18",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233660308_BD-1176354724",
+            "sku": "233660308_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511835749",
+            "mainSellerId": "",
+            "sellerName": "READY TO FASHION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/04815b206b8572de2485d75fb699297a.jpg",
+                    "productUrl": "/products/-i233660308-s1176354724.html",
+                    "sku": "233660308_BD",
+                    "skuId": "1176354724"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:233660308;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:233660308_BD;price:288;client:desktop;supplier_id:700511835749;asc_category_id:1789;item_id:233660308;sku_id:1176354724;shop_id:238353",
+            "addToCartSkus": [
+                {
+                    "sku": "233660308_BD-1176354728",
+                    "title": "Int:28",
+                    "skuId": "1176354728",
+                    "count": 0
+                },
+                {
+                    "sku": "233660308_BD-1176354727",
+                    "title": "Int:30",
+                    "skuId": "1176354727",
+                    "count": 0
+                },
+                {
+                    "sku": "233660308_BD-1176354726",
+                    "title": "Int:32",
+                    "skuId": "1176354726",
+                    "count": 0
+                },
+                {
+                    "sku": "233660308_BD-1176354725",
+                    "title": "Int:34",
+                    "skuId": "1176354725",
+                    "count": 0
+                },
+                {
+                    "sku": "233660308_BD-1176354724",
+                    "title": "Int:36",
+                    "skuId": "1176354724",
+                    "count": 0
+                }
+            ],
+            "itemId": "233660308",
+            "skuId": "1176354724",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Marine Blue Jeans",
+            "nid": "214271310",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "214271310",
+                "scene_pre": "search",
+                "current_price": "1100",
+                "x_sku_ids": "1163301377",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "214271310"
+            },
+            "productUrl": "//www.daraz.com.bd/products/marine-blue-jeans-i214271310-s1163301377.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9bb9b2536f4082a1ead190cd40e5585e.jpg",
+            "originalPrice": "1255.00",
+            "originalPriceShow": "৳ 1,255",
+            "price": "1100",
+            "promotionId": "null",
+            "priceShow": "৳ 1,100",
+            "discount": "-12%",
+            "ratingScore": "4.90909",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "214271310_BD-1163301377",
+            "sku": "214271310_BD",
+            "skus": [],
+            "description": [
+                "Fabric Composition: 96% cotton; 4% spandex",
+                "Stretch Factor: comfort stretch, regular fit",
+                "Style: five-pocket style ",
+                "Care instructions:  please wash in cold water"
+            ],
+            "brandId": "123796010",
+            "brandName": "Deen",
+            "sellerId": "700508151034",
+            "mainSellerId": "",
+            "sellerName": "Deen",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9bb9b2536f4082a1ead190cd40e5585e.jpg",
+                    "productUrl": "/products/marine-blue-jeans-i214271310-s1163301377.html",
+                    "sku": "214271310_BD",
+                    "skuId": "1163301377"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:214271310;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:214271310_BD;price:1100;client:desktop;supplier_id:700508151034;asc_category_id:1789;item_id:214271310;sku_id:1163301377;shop_id:129263",
+            "addToCartSkus": [
+                {
+                    "sku": "214271310_BD-1163301376",
+                    "title": "Int:30",
+                    "skuId": "1163301376",
+                    "count": 0
+                },
+                {
+                    "sku": "214271310_BD-1163301377",
+                    "title": "Int:32",
+                    "skuId": "1163301377",
+                    "count": 0
+                },
+                {
+                    "sku": "214271310_BD-1163301378",
+                    "title": "Int:34",
+                    "skuId": "1163301378",
+                    "count": 0
+                },
+                {
+                    "sku": "214271310_BD-1163301379",
+                    "title": "Int:36",
+                    "skuId": "1163301379",
+                    "count": 0
+                },
+                {
+                    "sku": "214271310_BD-1163301380",
+                    "title": "Int:38",
+                    "skuId": "1163301380",
+                    "count": 0
+                },
+                {
+                    "sku": "214271310_BD-1163301381",
+                    "title": "Int:40",
+                    "skuId": "1163301381",
+                    "count": 0
+                }
+            ],
+            "itemId": "214271310",
+            "skuId": "1163301377",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Men's Fashion New  Stylish Jeans Denim Pants For Men",
+            "nid": "236898112",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "236898112",
+                "scene_pre": "search",
+                "current_price": "285",
+                "x_sku_ids": "1180224450",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "236898112"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i236898112-s1180224450.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/31a0b132519e5b6d07eaa7d7f03fd361.jpg",
+            "originalPrice": "1450.00",
+            "originalPriceShow": "৳ 1,450",
+            "price": "285",
+            "promotionId": "null",
+            "priceShow": "৳ 285",
+            "discount": "-80%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "236898112_BD-1180224450",
+            "sku": "236898112_BD",
+            "skus": [],
+            "description": [
+                "Brand Name:Tanjila Collection",
+                "Fabric:Denim Jeans",
+                "Spandex: 2%",
+                "Wash: 1 (Deep faded blue and the light faded with granding)",
+                "Gender: Men",
+                "Item Type: Full Length",
+                "Pant Style: Non Straight",
+                "Style: Smart Casual",
+                "Fit Type: REGULAR",
+                "Material: Cotton",
+                "Closure Type: Zipper Fly",
+                "Colour: Deep/Light jeans",
+                "Waist Type: Mid",
+                "Length: Full Length",
+                "Thickness: Lightweight",
+                "Closure Type: Drawstring",
+                "Jeans Stylish Denim pants for me"
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700510890602",
+            "mainSellerId": "",
+            "sellerName": "Tanjila Collection",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/31a0b132519e5b6d07eaa7d7f03fd361.jpg",
+                    "productUrl": "/products/-i236898112-s1180224450.html",
+                    "sku": "236898112_BD",
+                    "skuId": "1180224450"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:236898112;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:236898112_BD;price:285;client:desktop;supplier_id:700510890602;asc_category_id:1789;item_id:236898112;sku_id:1180224450;shop_id:234646",
+            "addToCartSkus": [
+                {
+                    "sku": "236898112_BD-1180224450",
+                    "skuId": "1180224450",
+                    "count": 0
+                }
+            ],
+            "itemId": "236898112",
+            "skuId": "1180224450",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Smart Stylish Denim Jeans Pant For Men",
+            "nid": "233884837",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233884837",
+                "scene_pre": "search",
+                "current_price": "288",
+                "x_sku_ids": "1176687892",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "233884837"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233884837-s1176687892.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7b96e7390c5b69607cb9e4dcc8dbd4f6.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "288",
+            "promotionId": "null",
+            "priceShow": "৳ 288",
+            "discount": "-56%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233884837_BD-1176687892",
+            "sku": "233884837_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511838660",
+            "mainSellerId": "",
+            "sellerName": "SOJIB FASHION WORLD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7b96e7390c5b69607cb9e4dcc8dbd4f6.jpg",
+                    "productUrl": "/products/-i233884837-s1176687892.html",
+                    "sku": "233884837_BD",
+                    "skuId": "1176687892"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:233884837;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:233884837_BD;price:288;client:desktop;supplier_id:700511838660;asc_category_id:1789;item_id:233884837;sku_id:1176687892;shop_id:238349",
+            "addToCartSkus": [
+                {
+                    "sku": "233884837_BD-1176687896",
+                    "title": "Int:28",
+                    "skuId": "1176687896",
+                    "count": 0
+                },
+                {
+                    "sku": "233884837_BD-1176687895",
+                    "title": "Int:30",
+                    "skuId": "1176687895",
+                    "count": 0
+                },
+                {
+                    "sku": "233884837_BD-1176687894",
+                    "title": "Int:32",
+                    "skuId": "1176687894",
+                    "count": 0
+                },
+                {
+                    "sku": "233884837_BD-1176687893",
+                    "title": "Int:34",
+                    "skuId": "1176687893",
+                    "count": 0
+                },
+                {
+                    "sku": "233884837_BD-1176687892",
+                    "title": "Int:36",
+                    "skuId": "1176687892",
+                    "count": 0
+                }
+            ],
+            "itemId": "233884837",
+            "skuId": "1176687892",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "BLUE Denim Jeans Pant For Men",
+            "nid": "233444146",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233444146",
+                "scene_pre": "search",
+                "current_price": "288",
+                "x_sku_ids": "1176121312",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "233444146"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233444146-s1176121312.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/aa2684136545589703bfa25215b34a5a.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "288",
+            "promotionId": "null",
+            "priceShow": "৳ 288",
+            "discount": "-56%",
+            "ratingScore": "5",
+            "review": "3",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233444146_BD-1176121312",
+            "sku": "233444146_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511520170",
+            "mainSellerId": "",
+            "sellerName": "FLY BUY FASHION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/aa2684136545589703bfa25215b34a5a.jpg",
+                    "productUrl": "/products/-i233444146-s1176121312.html",
+                    "sku": "233444146_BD",
+                    "skuId": "1176121312"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:233444146;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:233444146_BD;price:288;client:desktop;supplier_id:700511520170;asc_category_id:1789;item_id:233444146;sku_id:1176121312;shop_id:237055",
+            "addToCartSkus": [
+                {
+                    "sku": "233444146_BD-1176121316",
+                    "title": "Int:28",
+                    "skuId": "1176121316",
+                    "count": 0
+                },
+                {
+                    "sku": "233444146_BD-1176121315",
+                    "title": "Int:30",
+                    "skuId": "1176121315",
+                    "count": 0
+                },
+                {
+                    "sku": "233444146_BD-1176121314",
+                    "title": "Int:32",
+                    "skuId": "1176121314",
+                    "count": 0
+                },
+                {
+                    "sku": "233444146_BD-1176121313",
+                    "title": "Int:34",
+                    "skuId": "1176121313",
+                    "count": 0
+                },
+                {
+                    "sku": "233444146_BD-1176121312",
+                    "title": "Int:36",
+                    "skuId": "1176121312",
+                    "count": 0
+                }
+            ],
+            "itemId": "233444146",
+            "skuId": "1176121312",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Smart Stylish Denim Jeans Pant For Men",
+            "nid": "234262597",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "234262597",
+                "scene_pre": "search",
+                "current_price": "288",
+                "x_sku_ids": "1177079750",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "234262597"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i234262597-s1177079750.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3d77f6eb69bff77d34c21fb509e3fdb8.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "288",
+            "promotionId": "null",
+            "priceShow": "৳ 288",
+            "discount": "-56%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "234262597_BD-1177079750",
+            "sku": "234262597_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511835749",
+            "mainSellerId": "",
+            "sellerName": "READY TO FASHION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3d77f6eb69bff77d34c21fb509e3fdb8.jpg",
+                    "productUrl": "/products/-i234262597-s1177079750.html",
+                    "sku": "234262597_BD",
+                    "skuId": "1177079750"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:234262597;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:234262597_BD;price:288;client:desktop;supplier_id:700511835749;asc_category_id:1789;item_id:234262597;sku_id:1177079750;shop_id:238353",
+            "addToCartSkus": [
+                {
+                    "sku": "234262597_BD-1177079754",
+                    "title": "Int:28",
+                    "skuId": "1177079754",
+                    "count": 0
+                },
+                {
+                    "sku": "234262597_BD-1177079753",
+                    "title": "Int:30",
+                    "skuId": "1177079753",
+                    "count": 0
+                },
+                {
+                    "sku": "234262597_BD-1177079752",
+                    "title": "Int:32",
+                    "skuId": "1177079752",
+                    "count": 0
+                },
+                {
+                    "sku": "234262597_BD-1177079751",
+                    "title": "Int:34",
+                    "skuId": "1177079751",
+                    "count": 0
+                },
+                {
+                    "sku": "234262597_BD-1177079750",
+                    "title": "Int:36",
+                    "skuId": "1177079750",
+                    "count": 0
+                }
+            ],
+            "itemId": "234262597",
+            "skuId": "1177079750",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jeans Pant for Men",
+            "nid": "233055446",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233055446",
+                "scene_pre": "search",
+                "current_price": "231",
+                "x_sku_ids": "1175790978",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "233055446"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233055446-s1175790978.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8709cf287f31b649b668135ba13343da.jpg",
+            "originalPrice": "1050.00",
+            "originalPriceShow": "৳ 1,050",
+            "price": "231",
+            "promotionId": "null",
+            "priceShow": "৳ 231",
+            "discount": "-78%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233055446_BD-1175790978",
+            "sku": "233055446_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508880415",
+            "mainSellerId": "",
+            "sellerName": "Radika Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8709cf287f31b649b668135ba13343da.jpg",
+                    "productUrl": "/products/-i233055446-s1175790978.html",
+                    "sku": "233055446_BD",
+                    "skuId": "1175790978"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:233055446;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:233055446_BD;price:231;client:desktop;supplier_id:700508880415;asc_category_id:1789;item_id:233055446;sku_id:1175790978;shop_id:198366",
+            "addToCartSkus": [
+                {
+                    "sku": "233055446_BD-1175790978",
+                    "skuId": "1175790978",
+                    "count": 0
+                }
+            ],
+            "itemId": "233055446",
+            "skuId": "1175790978",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Smart Stylish Denim Jeans Pant For Men",
+            "nid": "233883857",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233883857",
+                "scene_pre": "search",
+                "current_price": "288",
+                "x_sku_ids": "1176687703",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "233883857"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233883857-s1176687703.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3d77f6eb69bff77d34c21fb509e3fdb8.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "288",
+            "promotionId": "null",
+            "priceShow": "৳ 288",
+            "discount": "-56%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233883857_BD-1176687703",
+            "sku": "233883857_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511838660",
+            "mainSellerId": "",
+            "sellerName": "SOJIB FASHION WORLD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3d77f6eb69bff77d34c21fb509e3fdb8.jpg",
+                    "productUrl": "/products/-i233883857-s1176687703.html",
+                    "sku": "233883857_BD",
+                    "skuId": "1176687703"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:233883857;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:233883857_BD;price:288;client:desktop;supplier_id:700511838660;asc_category_id:1789;item_id:233883857;sku_id:1176687703;shop_id:238349",
+            "addToCartSkus": [
+                {
+                    "sku": "233883857_BD-1176687707",
+                    "title": "Int:28",
+                    "skuId": "1176687707",
+                    "count": 0
+                },
+                {
+                    "sku": "233883857_BD-1176687705",
+                    "title": "Int:30",
+                    "skuId": "1176687705",
+                    "count": 0
+                },
+                {
+                    "sku": "233883857_BD-1176687706",
+                    "title": "Int:32",
+                    "skuId": "1176687706",
+                    "count": 0
+                },
+                {
+                    "sku": "233883857_BD-1176687704",
+                    "title": "Int:34",
+                    "skuId": "1176687704",
+                    "count": 0
+                },
+                {
+                    "sku": "233883857_BD-1176687703",
+                    "title": "Int:36",
+                    "skuId": "1176687703",
+                    "count": 0
+                }
+            ],
+            "itemId": "233883857",
+            "skuId": "1176687703",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jeans Pant for Men",
+            "nid": "227947289",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227947289",
+                "scene_pre": "search",
+                "current_price": "172",
+                "x_sku_ids": "1171955508",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "227947289"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i227947289-s1171955508.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7b23a80cc77a540f667f0dee40ebff89.jpg",
+            "originalPrice": "1020.00",
+            "originalPriceShow": "৳ 1,020",
+            "price": "172",
+            "promotionId": "null",
+            "priceShow": "৳ 172",
+            "discount": "-83%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227947289_BD-1171955508",
+            "sku": "227947289_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508880415",
+            "mainSellerId": "",
+            "sellerName": "Radika Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7b23a80cc77a540f667f0dee40ebff89.jpg",
+                    "productUrl": "/products/-i227947289-s1171955508.html",
+                    "sku": "227947289_BD",
+                    "skuId": "1171955508"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:227947289;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:227947289_BD;price:172;client:desktop;supplier_id:700508880415;asc_category_id:1789;item_id:227947289;sku_id:1171955508;shop_id:198366",
+            "addToCartSkus": [
+                {
+                    "sku": "227947289_BD-1171955508",
+                    "title": "Waist:28",
+                    "skuId": "1171955508",
+                    "count": 0
+                },
+                {
+                    "sku": "227947289_BD-1171955509",
+                    "title": "Waist:30",
+                    "skuId": "1171955509",
+                    "count": 0
+                },
+                {
+                    "sku": "227947289_BD-1171955510",
+                    "title": "Waist:32",
+                    "skuId": "1171955510",
+                    "count": 0
+                },
+                {
+                    "sku": "227947289_BD-1171955511",
+                    "title": "Waist:34",
+                    "skuId": "1171955511",
+                    "count": 0
+                },
+                {
+                    "sku": "227947289_BD-1171955512",
+                    "title": "Waist:36",
+                    "skuId": "1171955512",
+                    "count": 0
+                }
+            ],
+            "itemId": "227947289",
+            "skuId": "1171955508",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jeans Pant for Men",
+            "nid": "234273873",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "234273873",
+                "scene_pre": "search",
+                "current_price": "288",
+                "x_sku_ids": "1177103210",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "234273873"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i234273873-s1177103210.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a91661fa32c0de88910a39dd8891b73b.png",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "288",
+            "promotionId": "null",
+            "priceShow": "৳ 288",
+            "discount": "-56%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "234273873_BD-1177103210",
+            "sku": "234273873_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511520170",
+            "mainSellerId": "",
+            "sellerName": "FLY BUY FASHION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a91661fa32c0de88910a39dd8891b73b.png",
+                    "productUrl": "/products/-i234273873-s1177103210.html",
+                    "sku": "234273873_BD",
+                    "skuId": "1177103210"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:234273873;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:234273873_BD;price:288;client:desktop;supplier_id:700511520170;asc_category_id:1789;item_id:234273873;sku_id:1177103210;shop_id:237055",
+            "addToCartSkus": [
+                {
+                    "sku": "234273873_BD-1177103214",
+                    "title": "Int:28",
+                    "skuId": "1177103214",
+                    "count": 0
+                },
+                {
+                    "sku": "234273873_BD-1177103213",
+                    "title": "Int:30",
+                    "skuId": "1177103213",
+                    "count": 0
+                },
+                {
+                    "sku": "234273873_BD-1177103212",
+                    "title": "Int:32",
+                    "skuId": "1177103212",
+                    "count": 0
+                },
+                {
+                    "sku": "234273873_BD-1177103211",
+                    "title": "Int:34",
+                    "skuId": "1177103211",
+                    "count": 0
+                },
+                {
+                    "sku": "234273873_BD-1177103210",
+                    "title": "Int:36",
+                    "skuId": "1177103210",
+                    "count": 0
+                }
+            ],
+            "itemId": "234273873",
+            "skuId": "1177103210",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "BLUE Denim Jeans Pant For Men",
+            "nid": "233434262",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233434262",
+                "scene_pre": "search",
+                "current_price": "288",
+                "x_sku_ids": "1176111126",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "233434262"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233434262-s1176111126.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7f17541c8ecacc16379af6bab132140f.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "288",
+            "promotionId": "null",
+            "priceShow": "৳ 288",
+            "discount": "-56%",
+            "ratingScore": "5",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233434262_BD-1176111126",
+            "sku": "233434262_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511520170",
+            "mainSellerId": "",
+            "sellerName": "FLY BUY FASHION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7f17541c8ecacc16379af6bab132140f.jpg",
+                    "productUrl": "/products/-i233434262-s1176111126.html",
+                    "sku": "233434262_BD",
+                    "skuId": "1176111126"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:233434262;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:233434262_BD;price:288;client:desktop;supplier_id:700511520170;asc_category_id:1789;item_id:233434262;sku_id:1176111126;shop_id:237055",
+            "addToCartSkus": [
+                {
+                    "sku": "233434262_BD-1176111130",
+                    "title": "Int:28",
+                    "skuId": "1176111130",
+                    "count": 0
+                },
+                {
+                    "sku": "233434262_BD-1176111129",
+                    "title": "Int:30",
+                    "skuId": "1176111129",
+                    "count": 0
+                },
+                {
+                    "sku": "233434262_BD-1176111128",
+                    "title": "Int:32",
+                    "skuId": "1176111128",
+                    "count": 0
+                },
+                {
+                    "sku": "233434262_BD-1176111127",
+                    "title": "Int:34",
+                    "skuId": "1176111127",
+                    "count": 0
+                },
+                {
+                    "sku": "233434262_BD-1176111126",
+                    "title": "Int:36",
+                    "skuId": "1176111126",
+                    "count": 0
+                }
+            ],
+            "itemId": "233434262",
+            "skuId": "1176111126",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "BLUE Denim Jeans Pant For Men",
+            "nid": "233434636",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233434636",
+                "scene_pre": "search",
+                "current_price": "288",
+                "x_sku_ids": "1176110814",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "233434636"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233434636-s1176110814.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/06383dc0cf62c3562294cf0f7ce20d4b.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "288",
+            "promotionId": "null",
+            "priceShow": "৳ 288",
+            "discount": "-56%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233434636_BD-1176110814",
+            "sku": "233434636_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511520170",
+            "mainSellerId": "",
+            "sellerName": "FLY BUY FASHION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/06383dc0cf62c3562294cf0f7ce20d4b.jpg",
+                    "productUrl": "/products/-i233434636-s1176110814.html",
+                    "sku": "233434636_BD",
+                    "skuId": "1176110814"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:233434636;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:233434636_BD;price:288;client:desktop;supplier_id:700511520170;asc_category_id:1789;item_id:233434636;sku_id:1176110814;shop_id:237055",
+            "addToCartSkus": [
+                {
+                    "sku": "233434636_BD-1176110818",
+                    "title": "Int:28",
+                    "skuId": "1176110818",
+                    "count": 0
+                },
+                {
+                    "sku": "233434636_BD-1176110817",
+                    "title": "Int:30",
+                    "skuId": "1176110817",
+                    "count": 0
+                },
+                {
+                    "sku": "233434636_BD-1176110816",
+                    "title": "Int:32",
+                    "skuId": "1176110816",
+                    "count": 0
+                },
+                {
+                    "sku": "233434636_BD-1176110815",
+                    "title": "Int:34",
+                    "skuId": "1176110815",
+                    "count": 0
+                },
+                {
+                    "sku": "233434636_BD-1176110814",
+                    "title": "Int:36",
+                    "skuId": "1176110814",
+                    "count": 0
+                }
+            ],
+            "itemId": "233434636",
+            "skuId": "1176110814",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Men's/Boy's Black Pants",
+            "nid": "237781629",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "237781629",
+                "scene_pre": "search",
+                "current_price": "305.00",
+                "x_sku_ids": "1181140156",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "237781629"
+            },
+            "productUrl": "//www.daraz.com.bd/products/mensboys-black-pants-i237781629-s1181140156.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9cd652989c8dde9586aa5b8df58e321c.jpg",
+            "originalPrice": "890.00",
+            "originalPriceShow": "৳ 890",
+            "price": "305.00",
+            "promotionId": "null",
+            "priceShow": "৳ 305",
+            "discount": "-66%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "237781629_BD-1181140156",
+            "sku": "237781629_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511592849",
+            "mainSellerId": "",
+            "sellerName": "Xentle Club",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9cd652989c8dde9586aa5b8df58e321c.jpg",
+                    "productUrl": "/products/mensboys-black-pants-i237781629-s1181140156.html",
+                    "sku": "237781629_BD",
+                    "skuId": "1181140156"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:237781629;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:237781629_BD;price:305.00;client:desktop;supplier_id:700511592849;asc_category_id:1789;item_id:237781629;sku_id:1181140156;shop_id:237536",
+            "addToCartSkus": [
+                {
+                    "sku": "237781629_BD-1181140156",
+                    "title": "Waist:28",
+                    "skuId": "1181140156",
+                    "count": 0
+                },
+                {
+                    "sku": "237781629_BD-1181140157",
+                    "title": "Waist:29",
+                    "skuId": "1181140157",
+                    "count": 0
+                },
+                {
+                    "sku": "237781629_BD-1181140158",
+                    "title": "Waist:30",
+                    "skuId": "1181140158",
+                    "count": 0
+                },
+                {
+                    "sku": "237781629_BD-1181140159",
+                    "title": "Waist:31",
+                    "skuId": "1181140159",
+                    "count": 0
+                },
+                {
+                    "sku": "237781629_BD-1181140160",
+                    "title": "Waist:32",
+                    "skuId": "1181140160",
+                    "count": 0
+                },
+                {
+                    "sku": "237781629_BD-1181140161",
+                    "title": "Waist:33",
+                    "skuId": "1181140161",
+                    "count": 0
+                },
+                {
+                    "sku": "237781629_BD-1181140162",
+                    "title": "Waist:34",
+                    "skuId": "1181140162",
+                    "count": 0
+                },
+                {
+                    "sku": "237781629_BD-1181140163",
+                    "title": "Waist:35",
+                    "skuId": "1181140163",
+                    "count": 0
+                },
+                {
+                    "sku": "237781629_BD-1181140164",
+                    "title": "Waist:36",
+                    "skuId": "1181140164",
+                    "count": 0
+                }
+            ],
+            "itemId": "237781629",
+            "skuId": "1181140156",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jeans Pant for Men",
+            "nid": "233063066",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233063066",
+                "scene_pre": "search",
+                "current_price": "231",
+                "x_sku_ids": "1175793503",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "233063066"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233063066-s1175793503.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8bd595db20eefa3a4af05c4cc0284504.jpg",
+            "originalPrice": "1050.00",
+            "originalPriceShow": "৳ 1,050",
+            "price": "231",
+            "promotionId": "null",
+            "priceShow": "৳ 231",
+            "discount": "-78%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233063066_BD-1175793503",
+            "sku": "233063066_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508880415",
+            "mainSellerId": "",
+            "sellerName": "Radika Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8bd595db20eefa3a4af05c4cc0284504.jpg",
+                    "productUrl": "/products/-i233063066-s1175793503.html",
+                    "sku": "233063066_BD",
+                    "skuId": "1175793503"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:233063066;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:233063066_BD;price:231;client:desktop;supplier_id:700508880415;asc_category_id:1789;item_id:233063066;sku_id:1175793503;shop_id:198366",
+            "addToCartSkus": [
+                {
+                    "sku": "233063066_BD-1175793503",
+                    "skuId": "1175793503",
+                    "count": 0
+                }
+            ],
+            "itemId": "233063066",
+            "skuId": "1175793503",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jeans Pant for Men",
+            "nid": "227841123",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227841123",
+                "scene_pre": "search",
+                "current_price": "172",
+                "x_sku_ids": "1171864755",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "227841123"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i227841123-s1171864755.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/29921756aca331829a544dc75c265e51.jpg",
+            "originalPrice": "1020.00",
+            "originalPriceShow": "৳ 1,020",
+            "price": "172",
+            "promotionId": "null",
+            "priceShow": "৳ 172",
+            "discount": "-83%",
+            "ratingScore": "4",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227841123_BD-1171864755",
+            "sku": "227841123_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508880415",
+            "mainSellerId": "",
+            "sellerName": "Radika Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/29921756aca331829a544dc75c265e51.jpg",
+                    "productUrl": "/products/-i227841123-s1171864755.html",
+                    "sku": "227841123_BD",
+                    "skuId": "1171864755"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:227841123;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:227841123_BD;price:172;client:desktop;supplier_id:700508880415;asc_category_id:1789;item_id:227841123;sku_id:1171864755;shop_id:198366",
+            "addToCartSkus": [
+                {
+                    "sku": "227841123_BD-1171864755",
+                    "title": "Waist:28",
+                    "skuId": "1171864755",
+                    "count": 0
+                },
+                {
+                    "sku": "227841123_BD-1171864756",
+                    "title": "Waist:30",
+                    "skuId": "1171864756",
+                    "count": 0
+                },
+                {
+                    "sku": "227841123_BD-1171864757",
+                    "title": "Waist:32",
+                    "skuId": "1171864757",
+                    "count": 0
+                },
+                {
+                    "sku": "227841123_BD-1171864758",
+                    "title": "Waist:34",
+                    "skuId": "1171864758",
+                    "count": 0
+                },
+                {
+                    "sku": "227841123_BD-1171864759",
+                    "title": "Waist:36",
+                    "skuId": "1171864759",
+                    "count": 0
+                }
+            ],
+            "itemId": "227841123",
+            "skuId": "1171864755",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Smart Stylish Denim Jeans Pant For Men",
+            "nid": "234270607",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "234270607",
+                "scene_pre": "search",
+                "current_price": "288",
+                "x_sku_ids": "1177080977",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "234270607"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i234270607-s1177080977.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/81dc1693db214d484489820f0826fac7.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "288",
+            "promotionId": "null",
+            "priceShow": "৳ 288",
+            "discount": "-56%",
+            "ratingScore": "5",
+            "review": "1",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "234270607_BD-1177080977",
+            "sku": "234270607_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511835749",
+            "mainSellerId": "",
+            "sellerName": "READY TO FASHION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/81dc1693db214d484489820f0826fac7.jpg",
+                    "productUrl": "/products/-i234270607-s1177080977.html",
+                    "sku": "234270607_BD",
+                    "skuId": "1177080977"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:234270607;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:234270607_BD;price:288;client:desktop;supplier_id:700511835749;asc_category_id:1789;item_id:234270607;sku_id:1177080977;shop_id:238353",
+            "addToCartSkus": [
+                {
+                    "sku": "234270607_BD-1177080981",
+                    "title": "Int:28",
+                    "skuId": "1177080981",
+                    "count": 0
+                },
+                {
+                    "sku": "234270607_BD-1177080980",
+                    "title": "Int:30",
+                    "skuId": "1177080980",
+                    "count": 0
+                },
+                {
+                    "sku": "234270607_BD-1177080979",
+                    "title": "Int:32",
+                    "skuId": "1177080979",
+                    "count": 0
+                },
+                {
+                    "sku": "234270607_BD-1177080978",
+                    "title": "Int:34",
+                    "skuId": "1177080978",
+                    "count": 0
+                },
+                {
+                    "sku": "234270607_BD-1177080977",
+                    "title": "Int:36",
+                    "skuId": "1177080977",
+                    "count": 0
+                }
+            ],
+            "itemId": "234270607",
+            "skuId": "1177080977",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jeans Pant for Men",
+            "nid": "227821091",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227821091",
+                "scene_pre": "search",
+                "current_price": "171",
+                "x_sku_ids": "1171853548",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "227821091"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i227821091-s1171853548.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1fc0ac0734e34a6e729daabdb33c9269.jpg",
+            "originalPrice": "1020.00",
+            "originalPriceShow": "৳ 1,020",
+            "price": "171",
+            "promotionId": "null",
+            "priceShow": "৳ 171",
+            "discount": "-83%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227821091_BD-1171853548",
+            "sku": "227821091_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508880415",
+            "mainSellerId": "",
+            "sellerName": "Radika Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1fc0ac0734e34a6e729daabdb33c9269.jpg",
+                    "productUrl": "/products/-i227821091-s1171853548.html",
+                    "sku": "227821091_BD",
+                    "skuId": "1171853548"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:227821091;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:227821091_BD;price:171;client:desktop;supplier_id:700508880415;asc_category_id:1789;item_id:227821091;sku_id:1171853548;shop_id:198366",
+            "addToCartSkus": [
+                {
+                    "sku": "227821091_BD-1171853548",
+                    "title": "Waist:28",
+                    "skuId": "1171853548",
+                    "count": 0
+                },
+                {
+                    "sku": "227821091_BD-1171853549",
+                    "title": "Waist:30",
+                    "skuId": "1171853549",
+                    "count": 0
+                },
+                {
+                    "sku": "227821091_BD-1171853550",
+                    "title": "Waist:32",
+                    "skuId": "1171853550",
+                    "count": 0
+                },
+                {
+                    "sku": "227821091_BD-1171853551",
+                    "title": "Waist:34",
+                    "skuId": "1171853551",
+                    "count": 0
+                },
+                {
+                    "sku": "227821091_BD-1171853552",
+                    "title": "Waist:36",
+                    "skuId": "1171853552",
+                    "count": 0
+                }
+            ],
+            "itemId": "227821091",
+            "skuId": "1171853548",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Smart Stylish Denim Jeans Pant For Men",
+            "nid": "234260857",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "234260857",
+                "scene_pre": "search",
+                "current_price": "255",
+                "x_sku_ids": "1177079833",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "234260857"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i234260857-s1177079833.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7f17541c8ecacc16379af6bab132140f.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "255",
+            "promotionId": "null",
+            "priceShow": "৳ 255",
+            "discount": "-61%",
+            "ratingScore": "3",
+            "review": "2",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "234260857_BD-1177079833",
+            "sku": "234260857_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511835749",
+            "mainSellerId": "",
+            "sellerName": "READY TO FASHION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7f17541c8ecacc16379af6bab132140f.jpg",
+                    "productUrl": "/products/-i234260857-s1177079833.html",
+                    "sku": "234260857_BD",
+                    "skuId": "1177079833"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:234260857;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:234260857_BD;price:255;client:desktop;supplier_id:700511835749;asc_category_id:1789;item_id:234260857;sku_id:1177079833;shop_id:238353",
+            "addToCartSkus": [
+                {
+                    "sku": "234260857_BD-1177079837",
+                    "title": "Int:28",
+                    "skuId": "1177079837",
+                    "count": 0
+                },
+                {
+                    "sku": "234260857_BD-1177079836",
+                    "title": "Int:30",
+                    "skuId": "1177079836",
+                    "count": 0
+                },
+                {
+                    "sku": "234260857_BD-1177079835",
+                    "title": "Int:32",
+                    "skuId": "1177079835",
+                    "count": 0
+                },
+                {
+                    "sku": "234260857_BD-1177079834",
+                    "title": "Int:34",
+                    "skuId": "1177079834",
+                    "count": 0
+                },
+                {
+                    "sku": "234260857_BD-1177079833",
+                    "title": "Int:36",
+                    "skuId": "1177079833",
+                    "count": 0
+                }
+            ],
+            "itemId": "234260857",
+            "skuId": "1177079833",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Smart Stylish Denim Jeans Pant For Men",
+            "nid": "233884801",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233884801",
+                "scene_pre": "search",
+                "current_price": "288",
+                "x_sku_ids": "1176693187",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "233884801"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233884801-s1176693187.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0c23887a9d86e447309b90ea4ace4144.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "288",
+            "promotionId": "null",
+            "priceShow": "৳ 288",
+            "discount": "-56%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233884801_BD-1176693187",
+            "sku": "233884801_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511838660",
+            "mainSellerId": "",
+            "sellerName": "SOJIB FASHION WORLD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0c23887a9d86e447309b90ea4ace4144.jpg",
+                    "productUrl": "/products/-i233884801-s1176693187.html",
+                    "sku": "233884801_BD",
+                    "skuId": "1176693187"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:233884801;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:233884801_BD;price:288;client:desktop;supplier_id:700511838660;asc_category_id:1789;item_id:233884801;sku_id:1176693187;shop_id:238349",
+            "addToCartSkus": [
+                {
+                    "sku": "233884801_BD-1176693191",
+                    "title": "Int:28",
+                    "skuId": "1176693191",
+                    "count": 0
+                },
+                {
+                    "sku": "233884801_BD-1176693190",
+                    "title": "Int:30",
+                    "skuId": "1176693190",
+                    "count": 0
+                },
+                {
+                    "sku": "233884801_BD-1176693189",
+                    "title": "Int:32",
+                    "skuId": "1176693189",
+                    "count": 0
+                },
+                {
+                    "sku": "233884801_BD-1176693188",
+                    "title": "Int:34",
+                    "skuId": "1176693188",
+                    "count": 0
+                },
+                {
+                    "sku": "233884801_BD-1176693187",
+                    "title": "Int:36",
+                    "skuId": "1176693187",
+                    "count": 0
+                }
+            ],
+            "itemId": "233884801",
+            "skuId": "1176693187",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Smart Stylish Denim Jeans Pant For Men",
+            "nid": "233653684",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233653684",
+                "scene_pre": "search",
+                "current_price": "288",
+                "x_sku_ids": "1176358393",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "233653684"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233653684-s1176358393.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e159fdced3c72cdd87368988268a0182.jpg",
+            "originalPrice": "1250.00",
+            "originalPriceShow": "৳ 1,250",
+            "price": "288",
+            "promotionId": "null",
+            "priceShow": "৳ 288",
+            "discount": "-77%",
+            "ratingScore": "5",
+            "review": "11",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233653684_BD-1176358393",
+            "sku": "233653684_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511835749",
+            "mainSellerId": "",
+            "sellerName": "READY TO FASHION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e159fdced3c72cdd87368988268a0182.jpg",
+                    "productUrl": "/products/-i233653684-s1176358393.html",
+                    "sku": "233653684_BD",
+                    "skuId": "1176358393"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:233653684;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:233653684_BD;price:288;client:desktop;supplier_id:700511835749;asc_category_id:1789;item_id:233653684;sku_id:1176358393;shop_id:238353",
+            "addToCartSkus": [
+                {
+                    "sku": "233653684_BD-1176358397",
+                    "title": "Int:28",
+                    "skuId": "1176358397",
+                    "count": 0
+                },
+                {
+                    "sku": "233653684_BD-1176358396",
+                    "title": "Int:30",
+                    "skuId": "1176358396",
+                    "count": 0
+                },
+                {
+                    "sku": "233653684_BD-1176358395",
+                    "title": "Int:32",
+                    "skuId": "1176358395",
+                    "count": 0
+                },
+                {
+                    "sku": "233653684_BD-1176358394",
+                    "title": "Int:34",
+                    "skuId": "1176358394",
+                    "count": 0
+                },
+                {
+                    "sku": "233653684_BD-1176358393",
+                    "title": "Int:36",
+                    "skuId": "1176358393",
+                    "count": 0
+                }
+            ],
+            "itemId": "233653684",
+            "skuId": "1176358393",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Express Dark Blue Denim Jeans Pant For Men (Slim Fit)",
+            "nid": "234669305",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "234669305",
+                "scene_pre": "search",
+                "current_price": "895.00",
+                "x_sku_ids": "1177595816",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "234669305"
+            },
+            "productUrl": "//www.daraz.com.bd/products/express-light-blue-denim-jeans-pant-for-men-slim-fit-i234669305-s1177595816.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ad98baf3abaed69cafaad0f2ef5b6819.jpg",
+            "originalPrice": "1790.00",
+            "originalPriceShow": "৳ 1,790",
+            "price": "895.00",
+            "promotionId": "null",
+            "priceShow": "৳ 895",
+            "discount": "-50%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "234669305_BD-1177595816",
+            "sku": "234669305_BD",
+            "skus": [],
+            "description": [
+                "HD Photo is provided. Please Check detailed quality from the last photo to have better idea about the color, accessories, fabric and quality."
+            ],
+            "brandId": "45363",
+            "brandName": "Lotto",
+            "sellerId": "1034176",
+            "mainSellerId": "",
+            "sellerName": "Lotto-Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ad98baf3abaed69cafaad0f2ef5b6819.jpg",
+                    "productUrl": "/products/express-light-blue-denim-jeans-pant-for-men-slim-fit-i234669305-s1177595816.html",
+                    "sku": "234669305_BD",
+                    "skuId": "1177595816"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:234669305;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:234669305_BD;price:895.00;client:desktop;supplier_id:1034176;asc_category_id:1789;item_id:234669305;sku_id:1177595816;shop_id:40125",
+            "addToCartSkus": [
+                {
+                    "sku": "234669305_BD-1177595816",
+                    "title": "Waist:30",
+                    "skuId": "1177595816",
+                    "count": 0
+                },
+                {
+                    "sku": "234669305_BD-1177595817",
+                    "title": "Waist:32",
+                    "skuId": "1177595817",
+                    "count": 0
+                },
+                {
+                    "sku": "234669305_BD-1177595818",
+                    "title": "Waist:34",
+                    "skuId": "1177595818",
+                    "count": 0
+                },
+                {
+                    "sku": "234669305_BD-1177595819",
+                    "title": "Waist:36",
+                    "skuId": "1177595819",
+                    "count": 0
+                }
+            ],
+            "itemId": "234669305",
+            "skuId": "1177595816",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Smart Stylish Denim Jeans Pant For Men",
+            "nid": "233899009",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233899009",
+                "scene_pre": "search",
+                "current_price": "288",
+                "x_sku_ids": "1176702261",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "233899009"
+            },
+            "productUrl": "//www.daraz.com.bd/products/smart-stylish-denim-jeans-pant-for-men-i233899009-s1176702261.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/676b83fc48b01b98943528c894e20fff.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "288",
+            "promotionId": "null",
+            "priceShow": "৳ 288",
+            "discount": "-56%",
+            "ratingScore": "4.75",
+            "review": "12",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233899009_BD-1176702261",
+            "sku": "233899009_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511838660",
+            "mainSellerId": "",
+            "sellerName": "SOJIB FASHION WORLD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/676b83fc48b01b98943528c894e20fff.jpg",
+                    "productUrl": "/products/smart-stylish-denim-jeans-pant-for-men-i233899009-s1176702261.html",
+                    "sku": "233899009_BD",
+                    "skuId": "1176702261"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:233899009;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:233899009_BD;price:288;client:desktop;supplier_id:700511838660;asc_category_id:1789;item_id:233899009;sku_id:1176702261;shop_id:238349",
+            "addToCartSkus": [
+                {
+                    "sku": "233899009_BD-1176702265",
+                    "title": "Int:28",
+                    "skuId": "1176702265",
+                    "count": 0
+                },
+                {
+                    "sku": "233899009_BD-1176702264",
+                    "title": "Int:30",
+                    "skuId": "1176702264",
+                    "count": 0
+                },
+                {
+                    "sku": "233899009_BD-1176702263",
+                    "title": "Int:32",
+                    "skuId": "1176702263",
+                    "count": 0
+                },
+                {
+                    "sku": "233899009_BD-1176702262",
+                    "title": "Int:34",
+                    "skuId": "1176702262",
+                    "count": 0
+                },
+                {
+                    "sku": "233899009_BD-1176702261",
+                    "title": "Int:36",
+                    "skuId": "1176702261",
+                    "count": 0
+                }
+            ],
+            "itemId": "233899009",
+            "skuId": "1176702261",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "BLUE Denim Jeans Pant For Men",
+            "nid": "233432573",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "233432573",
+                "scene_pre": "search",
+                "current_price": "288",
+                "x_sku_ids": "1176107507",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "233432573"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i233432573-s1176107507.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/905c93eb1225ecdbaafc2f5b9096b4b7.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "288",
+            "promotionId": "null",
+            "priceShow": "৳ 288",
+            "discount": "-56%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "233432573_BD-1176107507",
+            "sku": "233432573_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511520170",
+            "mainSellerId": "",
+            "sellerName": "FLY BUY FASHION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/905c93eb1225ecdbaafc2f5b9096b4b7.jpg",
+                    "productUrl": "/products/-i233432573-s1176107507.html",
+                    "sku": "233432573_BD",
+                    "skuId": "1176107507"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:233432573;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:233432573_BD;price:288;client:desktop;supplier_id:700511520170;asc_category_id:1789;item_id:233432573;sku_id:1176107507;shop_id:237055",
+            "addToCartSkus": [
+                {
+                    "sku": "233432573_BD-1176107511",
+                    "title": "Int:28",
+                    "skuId": "1176107511",
+                    "count": 0
+                },
+                {
+                    "sku": "233432573_BD-1176107510",
+                    "title": "Int:30",
+                    "skuId": "1176107510",
+                    "count": 0
+                },
+                {
+                    "sku": "233432573_BD-1176107509",
+                    "title": "Int:32",
+                    "skuId": "1176107509",
+                    "count": 0
+                },
+                {
+                    "sku": "233432573_BD-1176107508",
+                    "title": "Int:34",
+                    "skuId": "1176107508",
+                    "count": 0
+                },
+                {
+                    "sku": "233432573_BD-1176107507",
+                    "title": "Int:36",
+                    "skuId": "1176107507",
+                    "count": 0
+                }
+            ],
+            "itemId": "233432573",
+            "skuId": "1176107507",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jeans Pant for Men",
+            "nid": "228001708",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "228001708",
+                "scene_pre": "search",
+                "current_price": "171",
+                "x_sku_ids": "1171992880",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "228001708"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i228001708-s1171992880.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5505dec0fb58f9a488ef40e1840f0900.jpg",
+            "originalPrice": "1020.00",
+            "originalPriceShow": "৳ 1,020",
+            "price": "171",
+            "promotionId": "null",
+            "priceShow": "৳ 171",
+            "discount": "-83%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "228001708_BD-1171992880",
+            "sku": "228001708_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508880415",
+            "mainSellerId": "",
+            "sellerName": "Radika Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5505dec0fb58f9a488ef40e1840f0900.jpg",
+                    "productUrl": "/products/-i228001708-s1171992880.html",
+                    "sku": "228001708_BD",
+                    "skuId": "1171992880"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:228001708;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:228001708_BD;price:171;client:desktop;supplier_id:700508880415;asc_category_id:1789;item_id:228001708;sku_id:1171992880;shop_id:198366",
+            "addToCartSkus": [
+                {
+                    "sku": "228001708_BD-1171992880",
+                    "title": "Waist:28",
+                    "skuId": "1171992880",
+                    "count": 0
+                },
+                {
+                    "sku": "228001708_BD-1171992881",
+                    "title": "Waist:30",
+                    "skuId": "1171992881",
+                    "count": 0
+                },
+                {
+                    "sku": "228001708_BD-1171992882",
+                    "title": "Waist:32",
+                    "skuId": "1171992882",
+                    "count": 0
+                },
+                {
+                    "sku": "228001708_BD-1171992883",
+                    "title": "Waist:34",
+                    "skuId": "1171992883",
+                    "count": 0
+                },
+                {
+                    "sku": "228001708_BD-1171992884",
+                    "title": "Waist:36",
+                    "skuId": "1171992884",
+                    "count": 0
+                }
+            ],
+            "itemId": "228001708",
+            "skuId": "1171992880",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jeans Pant for Men",
+            "nid": "227840441",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227840441",
+                "scene_pre": "search",
+                "current_price": "172",
+                "x_sku_ids": "1171866722",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "227840441"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i227840441-s1171866722.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/96dcdafd4f88504fe7ceab3e8b4866e3.jpg",
+            "originalPrice": "1020.00",
+            "originalPriceShow": "৳ 1,020",
+            "price": "172",
+            "promotionId": "null",
+            "priceShow": "৳ 172",
+            "discount": "-83%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227840441_BD-1171866722",
+            "sku": "227840441_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508880415",
+            "mainSellerId": "",
+            "sellerName": "Radika Fashion",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/96dcdafd4f88504fe7ceab3e8b4866e3.jpg",
+                    "productUrl": "/products/-i227840441-s1171866722.html",
+                    "sku": "227840441_BD",
+                    "skuId": "1171866722"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:227840441;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:227840441_BD;price:172;client:desktop;supplier_id:700508880415;asc_category_id:1789;item_id:227840441;sku_id:1171866722;shop_id:198366",
+            "addToCartSkus": [
+                {
+                    "sku": "227840441_BD-1171866722",
+                    "title": "Waist:28",
+                    "skuId": "1171866722",
+                    "count": 0
+                },
+                {
+                    "sku": "227840441_BD-1171866723",
+                    "title": "Waist:30",
+                    "skuId": "1171866723",
+                    "count": 0
+                },
+                {
+                    "sku": "227840441_BD-1171866724",
+                    "title": "Waist:32",
+                    "skuId": "1171866724",
+                    "count": 0
+                },
+                {
+                    "sku": "227840441_BD-1171866725",
+                    "title": "Waist:34",
+                    "skuId": "1171866725",
+                    "count": 0
+                },
+                {
+                    "sku": "227840441_BD-1171866726",
+                    "title": "Waist:36",
+                    "skuId": "1171866726",
+                    "count": 0
+                }
+            ],
+            "itemId": "227840441",
+            "skuId": "1171866722",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jeans Pant for Men",
+            "nid": "232965798",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "232965798",
+                "scene_pre": "search",
+                "current_price": "288",
+                "x_sku_ids": "1175725098",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "232965798"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i232965798-s1175725098.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f76dc43ffc3cd28e788faeb275861d6a.jpg",
+            "originalPrice": "650.00",
+            "originalPriceShow": "৳ 650",
+            "price": "288",
+            "promotionId": "null",
+            "priceShow": "৳ 288",
+            "discount": "-56%",
+            "ratingScore": "4.58621",
+            "review": "29",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "232965798_BD-1175725098",
+            "sku": "232965798_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700511520170",
+            "mainSellerId": "",
+            "sellerName": "FLY BUY FASHION",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f76dc43ffc3cd28e788faeb275861d6a.jpg",
+                    "productUrl": "/products/-i232965798-s1175725098.html",
+                    "sku": "232965798_BD",
+                    "skuId": "1175725098"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:232965798;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:232965798_BD;price:288;client:desktop;supplier_id:700511520170;asc_category_id:1789;item_id:232965798;sku_id:1175725098;shop_id:237055",
+            "addToCartSkus": [
+                {
+                    "sku": "232965798_BD-1175725102",
+                    "title": "Int:28",
+                    "skuId": "1175725102",
+                    "count": 0
+                },
+                {
+                    "sku": "232965798_BD-1175725101",
+                    "title": "Int:30",
+                    "skuId": "1175725101",
+                    "count": 0
+                },
+                {
+                    "sku": "232965798_BD-1175725100",
+                    "title": "Int:32",
+                    "skuId": "1175725100",
+                    "count": 0
+                },
+                {
+                    "sku": "232965798_BD-1175725099",
+                    "title": "Int:34",
+                    "skuId": "1175725099",
+                    "count": 0
+                },
+                {
+                    "sku": "232965798_BD-1175725098",
+                    "title": "Int:36",
+                    "skuId": "1175725098",
+                    "count": 0
+                }
+            ],
+            "itemId": "232965798",
+            "skuId": "1175725098",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Denim Jeans For Men's",
+            "nid": "181472073",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "181472073",
+                "scene_pre": "search",
+                "current_price": "599",
+                "x_sku_ids": "1123147198",
+                "SN": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "x_ad": "1",
+                "x_object_id": "181472073"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i181472073-s1123147198.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/036f00a993b435ef658c936d259ccdfc.jpg",
+            "originalPrice": "1199.00",
+            "originalPriceShow": "৳ 1,199",
+            "price": "599",
+            "promotionId": "null",
+            "priceShow": "৳ 599",
+            "discount": "-50%",
+            "ratingScore": "4.93333",
+            "review": "15",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "181472073_BD-1123147198",
+            "sku": "181472073_BD",
+            "skus": [],
+            "description": [
+                "Brand : DUDE STYLE",
+                "Size : 30,32,34,36",
+                "Product Type : Jeans",
+                "Main Material : Denim",
+                "Gender : Male",
+                "Stretchable : Yes(10%)",
+                "Wash and Care : Machine Wash",
+                "Waist : Mid-rise",
+                "Zip : Fly",
+                "Pocket : Two front and Two Back Pockets.",
+                "100% Authentic Product",
+                "Product color may slightly vary due to our photography and Sometimes it varies on our devices"
+            ],
+            "brandId": "154141",
+            "brandName": "DUDE STYLE",
+            "sellerId": "671",
+            "mainSellerId": "",
+            "sellerName": "Dude Style",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/036f00a993b435ef658c936d259ccdfc.jpg",
+                    "productUrl": "/products/-i181472073-s1123147198.html",
+                    "sku": "181472073_BD",
+                    "skuId": "1123147198"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                1854,
+                1782,
+                1789
+            ],
+            "clickTrace": "query:;nid:181472073;src:LazadaMainSrp;rn:b8f9bda029ebc5ac26738c4cdb28d206;region:bd;sku:181472073_BD;price:599;client:desktop;supplier_id:671;asc_category_id:1789;item_id:181472073;sku_id:1123147198;shop_id:1729",
+            "addToCartSkus": [
+                {
+                    "sku": "181472073_BD-1123147198",
+                    "title": "Waist:30",
+                    "skuId": "1123147198",
+                    "count": 0
+                },
+                {
+                    "sku": "181472073_BD-1176298071",
+                    "title": "Waist:32",
+                    "skuId": "1176298071",
+                    "count": 0
+                },
+                {
+                    "sku": "181472073_BD-1156228938",
+                    "title": "Waist:34",
+                    "skuId": "1156228938",
+                    "count": 0
+                },
+                {
+                    "sku": "181472073_BD-1156228939",
+                    "title": "Waist:36",
+                    "skuId": "1156228939",
+                    "count": 0
+                }
+            ],
+            "itemId": "181472073",
+            "skuId": "1123147198",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/fashion/",
+            "title": "Fashion"
+        },
+        {
+            "url": "/mens-fashion/",
+            "title": "Men"
+        },
+        {
+            "url": "/mens-clothing/",
+            "title": "Clothing"
+        },
+        {
+            "url": "/mens-jeans/",
+            "title": "Jeans"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/mens-jeans/?referer_rn=b8f9bda029ebc5ac26738c4cdb28d206&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Cbr%2F%3E%3Ca%20href%3D%22%2Fmens-jeans%2Fdiesel%2F%22%20%3EDiesel%20Mens%20Jeans%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fmens-jeans%2Fecstasy%2F%22%20%3EEcstasy%20Mens%20Jeans%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fmens-jeans%2Fstraw%2F%22%20%3EStraw%20Mens%20Jeans%3C%2Fa%3E%7C%20%3Ca%20href%3D%22%2Fmens-jeans%2Fzaara%2F%22%20%3EZaara%20Mens%20Jeans%3C%2Fa%3E"
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "20326 items found in {$0}",
+        "title": "Men's Jeans",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Jeans"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Men's Jeans",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "b8f9bda029ebc5ac26738c4cdb28d206",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "1789",
+            "category": "1789"
+        },
+        "categoryRegionalKey": "090205010000",
+        "mainCategoryRegionalKey": "090000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Men's Regular Fit Jeans In Bangladesh At Best Price - Daraz.com.bd",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Fashion,Men,Clothing,Jeans",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "090205010000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=1789&_p_asc_cateid=1789",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "mens-jeans",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "b8f9bda029ebc5ac26738c4cdb28d206",
+                "resultNr": 20326,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1108068263",
+                "1152619584",
+                "1169099350"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "1789",
+            "category": "1789"
+        }
+    }
+}

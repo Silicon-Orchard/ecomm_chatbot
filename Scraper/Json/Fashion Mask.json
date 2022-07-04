@@ -1,0 +1,4340 @@
+{
+    "listItems": [
+        {
+            "name": "Fashion_Mask_For boys and girls",
+            "nid": "216333336",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "216333336",
+                "scene_pre": "search",
+                "current_price": "70",
+                "x_sku_ids": "1164594990",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "216333336"
+            },
+            "productUrl": "//www.daraz.com.bd/products/__-i216333336-s1164594990.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/951d1a72b68907016adfa4634bc0ed8d.jpg",
+            "originalPrice": "140.00",
+            "originalPriceShow": "৳ 140",
+            "price": "70",
+            "promotionId": "null",
+            "priceShow": "৳ 70",
+            "discount": "-50%",
+            "ratingScore": "4.24786",
+            "review": "234",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "216333336_BD-1164594990",
+            "sku": "216333336_BD",
+            "skus": [],
+            "description": [
+                "100% guranteed good quality",
+                "Washable",
+                "Reuseable",
+                "Competitive price, Direct importer",
+                "more than 19 colours and types",
+                "100% good quality product in a very reasonable rate.",
+                "Please visit and follow our shop in Daraz and enjoy the feeling of trust and happiness."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508337335",
+            "mainSellerId": "",
+            "sellerName": "All in one 360",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/951d1a72b68907016adfa4634bc0ed8d.jpg",
+                    "productUrl": "/products/__-i216333336-s1164594990.html",
+                    "sku": "216333336_BD",
+                    "skuId": "1164594990"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:216333336;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:216333336_BD;price:70;client:desktop;supplier_id:700508337335;asc_category_id:20000352;item_id:216333336;sku_id:1164594990;shop_id:148673",
+            "addToCartSkus": [
+                {
+                    "sku": "216333336_BD-1164594990",
+                    "title": "Free Size",
+                    "skuId": "1164594990",
+                    "count": 0
+                }
+            ],
+            "itemId": "216333336",
+            "skuId": "1164594990",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fabrilife 7 Layer Cotton Fashion Mask - Black",
+            "nid": "142540006",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "142540006",
+                "scene_pre": "search",
+                "current_price": "185",
+                "x_sku_ids": "1146334686",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "142540006"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fabrilife-7-layer-cotton-fashion-mask-black-i142540006-s1146334686.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/85d9c3ee75181c97e213ec54f81b0e38.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "185",
+            "promotionId": "null",
+            "priceShow": "৳ 185",
+            "discount": "-47%",
+            "ratingScore": "4.67811",
+            "review": "2097",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "142540006_BD-1146334686",
+            "sku": "142540006_BD",
+            "skus": [],
+            "description": [
+                "Return policy is not applicable",
+                " Seven Layer cotton masks",
+                " Made of 100% premium ringspun combed compact cotton,electrostatic filter cotton,polypropylene,melt-blown filter",
+                " Washable & reusable",
+                " Straps are made from Spandex",
+                " Space for your chin & nose",
+                " Comfortable, secure fit",
+                " Made by Fabrilife in Bangladesh",
+                " Unisex: One size fits most",
+                " Single Jersey variant fabric is made from premium ringspun combed compact cotton"
+            ],
+            "brandId": "123289466",
+            "brandName": "Fabrilife",
+            "sellerId": "700505718006",
+            "mainSellerId": "",
+            "sellerName": "Fabrilife",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/85d9c3ee75181c97e213ec54f81b0e38.jpg",
+                    "productUrl": "/products/fabrilife-7-layer-cotton-fashion-mask-black-i142540006-s1146334686.html",
+                    "sku": "142540006_BD",
+                    "skuId": "1146334686"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:142540006;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:142540006_BD;price:185;client:desktop;supplier_id:700505718006;asc_category_id:20000352;item_id:142540006;sku_id:1146334686;shop_id:61874",
+            "addToCartSkus": [
+                {
+                    "sku": "142540006_BD-1146334686",
+                    "title": "Free Size",
+                    "skuId": "1146334686",
+                    "count": 0
+                }
+            ],
+            "itemId": "142540006",
+            "skuId": "1146334686",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Lotto Washable Face Mask (SGS Certified)",
+            "nid": "183371778",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183371778",
+                "scene_pre": "search",
+                "current_price": "80.00",
+                "x_sku_ids": "1127653497",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "183371778"
+            },
+            "productUrl": "//www.daraz.com.bd/products/lotto-i183371778-s1127653497.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/f2953d130fd9704d954c8fad85df9f07.jpg",
+            "originalPrice": "100.00",
+            "originalPriceShow": "৳ 100",
+            "price": "80.00",
+            "promotionId": "null",
+            "priceShow": "৳ 80",
+            "discount": "-20%",
+            "ratingScore": "4.55433",
+            "review": "2264",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183371778_BD-1127653497",
+            "sku": "183371778_BD",
+            "skus": [],
+            "description": [
+                "WHO Standard (3-Layer Fabric Face Masks for Germs Protection)",
+                "Anti-Pollution, Anti-Dust",
+                "Washable and Reusable",
+                "Easy Breathe",
+                "Comfortable fit with Nose Point &amp; Chin Guard",
+                "Non-medical purpose only"
+            ],
+            "brandId": "45363",
+            "brandName": "Lotto",
+            "sellerId": "1034176",
+            "mainSellerId": "",
+            "sellerName": "Lotto-Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/f2953d130fd9704d954c8fad85df9f07.jpg",
+                    "productUrl": "/products/lotto-i183371778-s1127653497.html",
+                    "sku": "183371778_BD",
+                    "skuId": "1127653497"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/f49af952df942be9d7eaff09c4f3fbc3.jpg",
+                    "productUrl": "/products/lotto-i183371778-s1127653498.html",
+                    "sku": "183371778_BD",
+                    "skuId": "1127653498"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:183371778;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:183371778_BD;price:80.00;client:desktop;supplier_id:1034176;asc_category_id:20000352;item_id:183371778;sku_id:1127653497;shop_id:40125",
+            "addToCartSkus": [
+                {
+                    "sku": "183371778_BD-1127653497",
+                    "skuId": "1127653497",
+                    "count": 0
+                }
+            ],
+            "itemId": "183371778",
+            "skuId": "1127653497",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pack of 4 Fabrilife 7 Layer Cotton Mask -Black Navy Maroon Charcoal",
+            "nid": "151166099",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "151166099",
+                "scene_pre": "search",
+                "current_price": "660",
+                "x_sku_ids": "1146334599",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "151166099"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pack-of-4-fabrilife-7-layer-cotton-mask-black-navy-maroon-charcoal-i151166099-s1146334599.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/849c5349c400bd228a653cdcb19d202c.jpg",
+            "originalPrice": "1400.00",
+            "originalPriceShow": "৳ 1,400",
+            "price": "660",
+            "promotionId": "null",
+            "priceShow": "৳ 660",
+            "discount": "-53%",
+            "ratingScore": "4.74421",
+            "review": "1165",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "151166099_BD-1146334599",
+            "sku": "151166099_BD",
+            "skus": [],
+            "description": [
+                "Return policy is not applicable",
+                "Seven Layer cotton masks",
+                "Made of 100% premium ringspun combed compact cotton,electrostatic filter cotton,polypropylene,melt-blown filter",
+                "Washable & reusable",
+                "Straps are made from Spandex",
+                "Space for your chin & nose",
+                "Comfortable, secure fit",
+                "Made by Fabrilife in Bangladesh",
+                "Unisex: One size fits most",
+                "Single Jersey variant fabric is made from premium ringspun combed compact cotton"
+            ],
+            "brandId": "123289466",
+            "brandName": "Fabrilife",
+            "sellerId": "700505718006",
+            "mainSellerId": "",
+            "sellerName": "Fabrilife",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/849c5349c400bd228a653cdcb19d202c.jpg",
+                    "productUrl": "/products/pack-of-4-fabrilife-7-layer-cotton-mask-black-navy-maroon-charcoal-i151166099-s1146334599.html",
+                    "sku": "151166099_BD",
+                    "skuId": "1146334599"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:151166099;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:151166099_BD;price:660;client:desktop;supplier_id:700505718006;asc_category_id:20000352;item_id:151166099;sku_id:1146334599;shop_id:61874",
+            "addToCartSkus": [
+                {
+                    "sku": "151166099_BD-1146334599",
+                    "title": "Free Size",
+                    "skuId": "1146334599",
+                    "count": 0
+                }
+            ],
+            "itemId": "151166099",
+            "skuId": "1146334599",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pack of 4 Fabrilife Premium 7 Layer Cotton Mask - (Denim, Grayish White, Gray Striped, Charcoal)",
+            "nid": "151168038",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "151168038",
+                "scene_pre": "search",
+                "current_price": "660",
+                "x_sku_ids": "1146332732",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "151168038"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pack-of-4-fabrilife-premium-7-layer-cotton-mask-denim-grayish-white-gray-striped-charcoal-i151168038-s1146332732.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/39e36a121e9d3d2e7aca6994dfb701bb.jpg",
+            "originalPrice": "1400.00",
+            "originalPriceShow": "৳ 1,400",
+            "price": "660",
+            "promotionId": "null",
+            "priceShow": "৳ 660",
+            "discount": "-53%",
+            "ratingScore": "4.70705",
+            "review": "454",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "151168038_BD-1146332732",
+            "sku": "151168038_BD",
+            "skus": [],
+            "description": [
+                "Return policy is not applicable",
+                "Seven Layer cotton masks",
+                "Made of 100% premium ringspun combed compact cotton,electrostatic filter cotton,polypropylene,melt-blown filter",
+                "Washable & reusable",
+                "Straps are made from Spandex",
+                "Space for your chin & nose",
+                "Comfortable, secure fit",
+                "Made by Fabrilife in Bangladesh",
+                "Unisex: One size fits most",
+                "Single Jersey variant fabric is made from premium ringspun combed compact cotton"
+            ],
+            "brandId": "123289466",
+            "brandName": "Fabrilife",
+            "sellerId": "700505718006",
+            "mainSellerId": "",
+            "sellerName": "Fabrilife",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/39e36a121e9d3d2e7aca6994dfb701bb.jpg",
+                    "productUrl": "/products/pack-of-4-fabrilife-premium-7-layer-cotton-mask-denim-grayish-white-gray-striped-charcoal-i151168038-s1146332732.html",
+                    "sku": "151168038_BD",
+                    "skuId": "1146332732"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:151168038;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:151168038_BD;price:660;client:desktop;supplier_id:700505718006;asc_category_id:20000352;item_id:151168038;sku_id:1146332732;shop_id:61874",
+            "addToCartSkus": [
+                {
+                    "sku": "151168038_BD-1146332732",
+                    "title": "Free Size",
+                    "skuId": "1146332732",
+                    "count": 0
+                }
+            ],
+            "itemId": "151168038",
+            "skuId": "1146332732",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "[Pack of 01] Turaag Protex Serenity Mask",
+            "nid": "183821579",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183821579",
+                "scene_pre": "search",
+                "current_price": "153",
+                "x_sku_ids": "1128378743",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "183821579"
+            },
+            "productUrl": "//www.daraz.com.bd/products/01-turaag-protex-serenity-i183821579-s1128378743.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/fcb2a4ca86a021106cd004a4c7f7fc9a.jpg",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "153",
+            "promotionId": "null",
+            "priceShow": "৳ 153",
+            "discount": "-15%",
+            "ratingScore": "4.75581",
+            "review": "86",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183821579_BD-1128378743",
+            "sku": "183821579_BD",
+            "skus": [],
+            "description": [
+                "Single mask in a box.",
+                "Gender: Men",
+                "Soft adjustable elastic loops for extra comfort.",
+                "Wide face coverage with chain rest for stability.",
+                "Head-strap for temporarily hanging from the neck.",
+                "Washable and reusable up to 25 times.",
+                "Easy Maintenance.",
+                "Special design for Ramadan Kareem."
+            ],
+            "brandId": "123522222",
+            "brandName": "Turaag ProteX",
+            "sellerId": "700507740131",
+            "mainSellerId": "",
+            "sellerName": "Turaag",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/fcb2a4ca86a021106cd004a4c7f7fc9a.jpg",
+                    "productUrl": "/products/01-turaag-protex-serenity-i183821579-s1128378743.html",
+                    "sku": "183821579_BD",
+                    "skuId": "1128378743"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:183821579;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:183821579_BD;price:153;client:desktop;supplier_id:700507740131;asc_category_id:20000352;item_id:183821579;sku_id:1128378743;shop_id:108601",
+            "addToCartSkus": [
+                {
+                    "sku": "183821579_BD-1128378743",
+                    "title": "Int: One size",
+                    "skuId": "1128378743",
+                    "count": 0
+                }
+            ],
+            "itemId": "183821579",
+            "skuId": "1128378743",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Naruto Sasuke Uchiha Three Layer Face_Mask For Men And Women  Free Size With Adjustable Ear Loop And Digital Femal Print flower Bts Face_Mask Design Red Black White Colorful Print Anime Cartoon Formal And Casual Face_Mask",
+            "nid": "212186145",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "212186145",
+                "scene_pre": "search",
+                "current_price": "111",
+                "x_sku_ids": "1161890422",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "212186145"
+            },
+            "productUrl": "//www.daraz.com.bd/products/naruto-sasuke-uchiha-_-bts-_-_-i212186145-s1161890422.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/63e4daac832f86e80afe2cfa93e13c1a.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "111",
+            "promotionId": "null",
+            "priceShow": "৳ 111",
+            "discount": "-63%",
+            "ratingScore": "4.48077",
+            "review": "52",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "212186145_BD-1161890422",
+            "sku": "212186145_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Face Mask for Men And Women ",
+                "Adjustable Ear loop ",
+                "Multi Protective Layers ",
+                "Main Material: 100% Cotton, Microfiber Polyester ",
+                "Stylish and trendy ",
+                "Comfortable ",
+                "Smart look ",
+                "99+ Times Washable ",
+                "Made in Bangladesh ",
+                "A perfect for casual wear."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508880612",
+            "mainSellerId": "",
+            "sellerName": "Rhapsoo",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/63e4daac832f86e80afe2cfa93e13c1a.jpg",
+                    "productUrl": "/products/naruto-sasuke-uchiha-_-bts-_-_-i212186145-s1161890422.html",
+                    "sku": "212186145_BD",
+                    "skuId": "1161890422"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:212186145;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:212186145_BD;price:111;client:desktop;supplier_id:700508880612;asc_category_id:20000352;item_id:212186145;sku_id:1161890422;shop_id:198957",
+            "addToCartSkus": [
+                {
+                    "sku": "212186145_BD-1161890422",
+                    "title": "Free Size",
+                    "skuId": "1161890422",
+                    "count": 0
+                }
+            ],
+            "itemId": "212186145",
+            "skuId": "1161890422",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mashoor Party Maker Vendetta Comic Anonymous Hacker Joker Face Muzzle (White)",
+            "nid": "196128081",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "196128081",
+                "scene_pre": "search",
+                "current_price": "100",
+                "x_sku_ids": "1164840597",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "196128081"
+            },
+            "productUrl": "//www.daraz.com.bd/products/mashoor-party-maker-vendetta-comic-anonymous-hacker-joker-face-muzzle-white-i196128081-s1164840597.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b0f26ea3ea0ec907c926c0a06a794dfc.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "100",
+            "promotionId": "null",
+            "priceShow": "৳ 100",
+            "discount": "-67%",
+            "ratingScore": "4.60577",
+            "review": "104",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "196128081_BD-1164840597",
+            "sku": "196128081_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507353045",
+            "mainSellerId": "",
+            "sellerName": "de Papel",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b0f26ea3ea0ec907c926c0a06a794dfc.jpg",
+                    "productUrl": "/products/mashoor-party-maker-vendetta-comic-anonymous-hacker-joker-face-muzzle-white-i196128081-s1164840597.html",
+                    "sku": "196128081_BD",
+                    "skuId": "1164840597"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:196128081;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:196128081_BD;price:100;client:desktop;supplier_id:700507353045;asc_category_id:20000352;item_id:196128081;sku_id:1164840597;shop_id:93529",
+            "addToCartSkus": [
+                {
+                    "sku": "196128081_BD-1164840597",
+                    "skuId": "1164840597",
+                    "count": 0
+                }
+            ],
+            "itemId": "196128081",
+            "skuId": "1164840597",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Mashoor Party Maker Vendetta Comic Anonymous Hacker Joker Face Mussk (Black))",
+            "nid": "197732515",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "197732515",
+                "scene_pre": "search",
+                "current_price": "75",
+                "x_sku_ids": "1163618026",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "197732515"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i197732515-s1163618026.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e44d3fcfb26f895524fdf1439a3bb7bc.jpg",
+            "originalPrice": "220.00",
+            "originalPriceShow": "৳ 220",
+            "price": "75",
+            "promotionId": "null",
+            "priceShow": "৳ 75",
+            "discount": "-66%",
+            "ratingScore": "4.66949",
+            "review": "118",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "197732515_BD-1163618026",
+            "sku": "197732515_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507353045",
+            "mainSellerId": "",
+            "sellerName": "de Papel",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e44d3fcfb26f895524fdf1439a3bb7bc.jpg",
+                    "productUrl": "/products/-i197732515-s1163618026.html",
+                    "sku": "197732515_BD",
+                    "skuId": "1163618026"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:197732515;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:197732515_BD;price:75;client:desktop;supplier_id:700507353045;asc_category_id:20000352;item_id:197732515;sku_id:1163618026;shop_id:93529",
+            "addToCartSkus": [
+                {
+                    "sku": "197732515_BD-1163618026",
+                    "title": "Free Size",
+                    "skuId": "1163618026",
+                    "count": 0
+                }
+            ],
+            "itemId": "197732515",
+            "skuId": "1163618026",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Bts  Face Mask_Ruber Printed Face_Mask 4 Layer Face_Mask For Men And Women Face  Loop Face Maks  Washable Mask_Nose Bar",
+            "nid": "221871762",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "221871762",
+                "scene_pre": "search",
+                "current_price": "39.00",
+                "x_sku_ids": "1177555675",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "221871762"
+            },
+            "productUrl": "//www.daraz.com.bd/products/_-_-4-_-i221871762-s1177555675.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6d2280a2eeabe29c4e334d29958b77b3.jpg",
+            "originalPrice": "170.00",
+            "originalPriceShow": "৳ 170",
+            "price": "39.00",
+            "promotionId": "null",
+            "priceShow": "৳ 39",
+            "discount": "-77%",
+            "ratingScore": "4.48718",
+            "review": "39",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "221871762_BD-1177555675",
+            "sku": "221871762_BD",
+            "skus": [],
+            "description": [
+                "A perfect casual wear."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508787989",
+            "mainSellerId": "",
+            "sellerName": "Afrin Fashion World BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6d2280a2eeabe29c4e334d29958b77b3.jpg",
+                    "productUrl": "/products/_-_-4-_-i221871762-s1177555675.html",
+                    "sku": "221871762_BD",
+                    "skuId": "1177555675"
+                },
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d40ee4fda02f4af5928ebbe845f3f5ad.png",
+                    "productUrl": "/products/_-_-4-_-i221871762-s1168472527.html",
+                    "sku": "221871762_BD",
+                    "skuId": "1168472527"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:221871762;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:221871762_BD;price:39.00;client:desktop;supplier_id:700508787989;asc_category_id:20000352;item_id:221871762;sku_id:1177555675;shop_id:187574",
+            "addToCartSkus": [
+                {
+                    "sku": "221871762_BD-1173889160",
+                    "title": "Free Size",
+                    "skuId": "1173889160",
+                    "count": 0
+                }
+            ],
+            "itemId": "221871762",
+            "skuId": "1177555675",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Lotto Premium 3 Layer Fashionable Fabric Face Mask (SGS Certified)",
+            "nid": "192861290",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "192861290",
+                "scene_pre": "search",
+                "current_price": "80.00",
+                "x_sku_ids": "1139647812",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "192861290"
+            },
+            "productUrl": "//www.daraz.com.bd/products/lotto-3-i192861290-s1139647812.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/448169e2ed062a455ba8ae3b925abcb1.jpg",
+            "originalPrice": "100.00",
+            "originalPriceShow": "৳ 100",
+            "price": "80.00",
+            "promotionId": "null",
+            "priceShow": "৳ 80",
+            "discount": "-20%",
+            "ratingScore": "4.64609",
+            "review": "243",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "192861290_BD-1139647812",
+            "sku": "192861290_BD",
+            "skus": [],
+            "description": [
+                "WHO Standard (3-Layer Fabric Face Masks for Germs Protection)",
+                "Anti-Pollution, Anti-Dust",
+                "Washable and Reusable",
+                "Easy Breathe",
+                "Comfortable fit with Nose Point &amp; Chin Guard",
+                "Non-medical purpose only"
+            ],
+            "brandId": "45363",
+            "brandName": "Lotto",
+            "sellerId": "1034176",
+            "mainSellerId": "",
+            "sellerName": "Lotto-Bangladesh",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/448169e2ed062a455ba8ae3b925abcb1.jpg",
+                    "productUrl": "/products/lotto-3-i192861290-s1139647812.html",
+                    "sku": "192861290_BD",
+                    "skuId": "1139647812"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:192861290;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:192861290_BD;price:80.00;client:desktop;supplier_id:1034176;asc_category_id:20000352;item_id:192861290;sku_id:1139647812;shop_id:40125",
+            "addToCartSkus": [
+                {
+                    "sku": "192861290_BD-1139647812",
+                    "skuId": "1139647812",
+                    "count": 0
+                }
+            ],
+            "itemId": "192861290",
+            "skuId": "1139647812",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Stylish cotton tow layer hand print face cover clothes",
+            "nid": "215332427",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "215332427",
+                "scene_pre": "search",
+                "current_price": "58",
+                "x_sku_ids": "1163896984",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "215332427"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i215332427-s1163896984.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/272e182b401a282ba92421a22203fe65.jpg",
+            "originalPrice": "65.00",
+            "originalPriceShow": "৳ 65",
+            "price": "58",
+            "promotionId": "null",
+            "priceShow": "৳ 58",
+            "discount": "-11%",
+            "ratingScore": "4",
+            "review": "55",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "215332427_BD-1163896984",
+            "sku": "215332427_BD",
+            "skus": [],
+            "description": [
+                "Return policy is not applicable",
+                "Product type :hand printed face masks",
+                "Work:hand print",
+                "Product look:as same as picture",
+                "High quality product",
+                "Easy to wash",
+                "Reusable, washable product",
+                "Home made product "
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508268793",
+            "mainSellerId": "",
+            "sellerName": "Moumita'z Handicrafts",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/272e182b401a282ba92421a22203fe65.jpg",
+                    "productUrl": "/products/-i215332427-s1163896984.html",
+                    "sku": "215332427_BD",
+                    "skuId": "1163896984"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:215332427;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:215332427_BD;price:58;client:desktop;supplier_id:700508268793;asc_category_id:20000352;item_id:215332427;sku_id:1163896984;shop_id:140609",
+            "addToCartSkus": [
+                {
+                    "sku": "215332427_BD-1163896984",
+                    "title": "Free Size",
+                    "skuId": "1163896984",
+                    "count": 0
+                }
+            ],
+            "itemId": "215332427",
+            "skuId": "1163896984",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fabrilife 7 Layer Cotton Fashion Mask - Charcoal",
+            "nid": "142538598",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "142538598",
+                "scene_pre": "search",
+                "current_price": "185",
+                "x_sku_ids": "1146337390",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "142538598"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fabrilife-7-layer-cotton-fashion-mask-charcoal-i142538598-s1146337390.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a3ce3ec1547461c29d27d4efe1babf78.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "185",
+            "promotionId": "null",
+            "priceShow": "৳ 185",
+            "discount": "-47%",
+            "ratingScore": "4.56106",
+            "review": "303",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "142538598_BD-1146337390",
+            "sku": "142538598_BD",
+            "skus": [],
+            "description": [
+                "Return policy is not applicable",
+                "Seven Layer cotton masks",
+                "Made of 100% premium ringspun combed compact cotton,electrostatic filter cotton,polypropylene,melt-blown filter",
+                "Washable & reusable",
+                "Straps are made from Spandex",
+                "Space for your chin & nose",
+                "Comfortable, secure fit",
+                "Made by Fabrilife in Bangladesh",
+                "Unisex: One size fits most",
+                "Single Jersey variant fabric is made from premium ringspun combed compact cotton"
+            ],
+            "brandId": "123289466",
+            "brandName": "Fabrilife",
+            "sellerId": "700505718006",
+            "mainSellerId": "",
+            "sellerName": "Fabrilife",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a3ce3ec1547461c29d27d4efe1babf78.jpg",
+                    "productUrl": "/products/fabrilife-7-layer-cotton-fashion-mask-charcoal-i142538598-s1146337390.html",
+                    "sku": "142538598_BD",
+                    "skuId": "1146337390"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:142538598;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:142538598_BD;price:185;client:desktop;supplier_id:700505718006;asc_category_id:20000352;item_id:142538598;sku_id:1146337390;shop_id:61874",
+            "addToCartSkus": [
+                {
+                    "sku": "142538598_BD-1146337390",
+                    "title": "Free Size",
+                    "skuId": "1146337390",
+                    "count": 0
+                }
+            ],
+            "itemId": "142538598",
+            "skuId": "1146337390",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Three Layer Face_Mask For Men And Women  Free Size With Adjustable Ear Loop And Digital Femal Print flower Bts Face_Mask Design Red Black White Multicolorful Print Anime Cartoon Formal And Casual Face_Mask",
+            "nid": "210888363",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "210888363",
+                "scene_pre": "search",
+                "current_price": "113",
+                "x_sku_ids": "1160803059",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "210888363"
+            },
+            "productUrl": "//www.daraz.com.bd/products/_-bts-_-_-i210888363-s1160803059.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e8f47a1a2c71eb5e8a5889a11a25074e.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "113",
+            "promotionId": "null",
+            "priceShow": "৳ 113",
+            "discount": "-62%",
+            "ratingScore": "4.38462",
+            "review": "91",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "210888363_BD-1160803059",
+            "sku": "210888363_BD",
+            "skus": [],
+            "description": [
+                "&bull;    Product Type: Face Mask for Men And Women",
+                "&bull;    Adjustable Ear loop",
+                "&bull;    Multi Protective Layers",
+                "&bull;    Main Material: 100% Cotton, Microfiber Polyester",
+                "&bull;    Stylish and trendy",
+                "&bull;    Comfortable",
+                "&bull;    Smart look",
+                "&bull;    99+ Times Washable",
+                "&bull;    Made in Bangladesh",
+                "&bull;    A perfect casual wear."
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508880612",
+            "mainSellerId": "",
+            "sellerName": "Rhapsoo",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e8f47a1a2c71eb5e8a5889a11a25074e.jpg",
+                    "productUrl": "/products/_-bts-_-_-i210888363-s1160803059.html",
+                    "sku": "210888363_BD",
+                    "skuId": "1160803059"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:210888363;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:210888363_BD;price:113;client:desktop;supplier_id:700508880612;asc_category_id:20000352;item_id:210888363;sku_id:1160803059;shop_id:198957",
+            "addToCartSkus": [
+                {
+                    "sku": "210888363_BD-1160803059",
+                    "title": "Free Size",
+                    "skuId": "1160803059",
+                    "count": 0
+                }
+            ],
+            "itemId": "210888363",
+            "skuId": "1160803059",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pack of 2 Fabrilife 7 Layer Cotton Mask - Denim Gray",
+            "nid": "151156561",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "151156561",
+                "scene_pre": "search",
+                "current_price": "361",
+                "x_sku_ids": "1146339381",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "151156561"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pack-of-2-fabrilife-premium-7-layer-cotton-mask-denim-gray-i151156561-s1146339381.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a01ed6536db64f5541aec3347f146fc9.jpg",
+            "originalPrice": "700.00",
+            "originalPriceShow": "৳ 700",
+            "price": "361",
+            "promotionId": "null",
+            "priceShow": "৳ 361",
+            "discount": "-48%",
+            "ratingScore": "4.69524",
+            "review": "315",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "151156561_BD-1146339381",
+            "sku": "151156561_BD",
+            "skus": [],
+            "description": [
+                "Return policy is not applicable",
+                "Seven Layer cotton masks",
+                "Made of 100% premium ringspun combed compact cotton,electrostatic filter cotton,polypropylene,melt-blown filter",
+                "Washable & reusable",
+                "Straps are made from Spandex",
+                "Space for your chin & nose",
+                "Comfortable, secure fit",
+                "Made by Fabrilife in Bangladesh",
+                "Unisex: One size fits most",
+                "Single Jersey variant fabric is made from premium ringspun combed compact cotton"
+            ],
+            "brandId": "123289466",
+            "brandName": "Fabrilife",
+            "sellerId": "700505718006",
+            "mainSellerId": "",
+            "sellerName": "Fabrilife",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a01ed6536db64f5541aec3347f146fc9.jpg",
+                    "productUrl": "/products/pack-of-2-fabrilife-premium-7-layer-cotton-mask-denim-gray-i151156561-s1146339381.html",
+                    "sku": "151156561_BD",
+                    "skuId": "1146339381"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:151156561;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:151156561_BD;price:361;client:desktop;supplier_id:700505718006;asc_category_id:20000352;item_id:151156561;sku_id:1146339381;shop_id:61874",
+            "addToCartSkus": [
+                {
+                    "sku": "151156561_BD-1146339381",
+                    "title": "Free Size",
+                    "skuId": "1146339381",
+                    "count": 0
+                }
+            ],
+            "itemId": "151156561",
+            "skuId": "1146339381",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fabrilife 7 Layer Cotton Fashion Mask - Maroon",
+            "nid": "142546753",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "142546753",
+                "scene_pre": "search",
+                "current_price": "185",
+                "x_sku_ids": "1146333701",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "142546753"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fabrilife-7-layer-cotton-fashion-mask-maroon-i142546753-s1146333701.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8cea481f88ed71e575db6145b16824e0.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "185",
+            "promotionId": "null",
+            "priceShow": "৳ 185",
+            "discount": "-47%",
+            "ratingScore": "4.68712",
+            "review": "326",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "142546753_BD-1146333701",
+            "sku": "142546753_BD",
+            "skus": [],
+            "description": [
+                "Return policy is not applicable",
+                "Seven Layer cotton masks",
+                "Made of 100% premium ringspun combed compact cotton,electrostatic filter cotton,polypropylene,melt-blown filter",
+                "Washable & reusable",
+                "Straps are made from Spandex",
+                "Space for your chin & nose",
+                "Comfortable, secure fit",
+                "Made by Fabrilife in Bangladesh",
+                "Unisex: One size fits most",
+                "Single Jersey variant fabric is made from premium ringspun combed compact cotton"
+            ],
+            "brandId": "123289466",
+            "brandName": "Fabrilife",
+            "sellerId": "700505718006",
+            "mainSellerId": "",
+            "sellerName": "Fabrilife",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8cea481f88ed71e575db6145b16824e0.jpg",
+                    "productUrl": "/products/fabrilife-7-layer-cotton-fashion-mask-maroon-i142546753-s1146333701.html",
+                    "sku": "142546753_BD",
+                    "skuId": "1146333701"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:142546753;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:142546753_BD;price:185;client:desktop;supplier_id:700505718006;asc_category_id:20000352;item_id:142546753;sku_id:1146333701;shop_id:61874",
+            "addToCartSkus": [
+                {
+                    "sku": "142546753_BD-1146333701",
+                    "title": "Free Size",
+                    "skuId": "1146333701",
+                    "count": 0
+                }
+            ],
+            "itemId": "142546753",
+            "skuId": "1146333701",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "[Pack of 02] Turaag Protex Reusable Face Mask for Men",
+            "nid": "156216593",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "156216593",
+                "scene_pre": "search",
+                "current_price": "306",
+                "x_sku_ids": "1085666760",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "156216593"
+            },
+            "productUrl": "//www.daraz.com.bd/products/02-turaag-protex-i156216593-s1085666760.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/96682622b3ddbea707682dafae53e575.jpg",
+            "originalPrice": "360.00",
+            "originalPriceShow": "৳ 360",
+            "price": "306",
+            "promotionId": "null",
+            "priceShow": "৳ 306",
+            "discount": "-15%",
+            "ratingScore": "4.72779",
+            "review": "529",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "156216593_BD-1085666760",
+            "sku": "156216593_BD",
+            "skus": [],
+            "description": [
+                "2 pcs in a box",
+                "Soft adjustable elastic loops for extra comfort",
+                "Wide face coverage with chin rest for stability",
+                "Head-strap for temporarily hanging from the neck",
+                "Washable and reusable up to 25 times",
+                "Easy Maintenance"
+            ],
+            "brandId": "123522222",
+            "brandName": "Turaag ProteX",
+            "sellerId": "700507740131",
+            "mainSellerId": "",
+            "sellerName": "Turaag",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/96682622b3ddbea707682dafae53e575.jpg",
+                    "productUrl": "/products/02-turaag-protex-i156216593-s1085666760.html",
+                    "sku": "156216593_BD",
+                    "skuId": "1085666760"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:156216593;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:156216593_BD;price:306;client:desktop;supplier_id:700507740131;asc_category_id:20000352;item_id:156216593;sku_id:1085666760;shop_id:108601",
+            "addToCartSkus": [
+                {
+                    "sku": "156216593_BD-1085666760",
+                    "title": "Int: One size",
+                    "skuId": "1085666760",
+                    "count": 0
+                }
+            ],
+            "itemId": "156216593",
+            "skuId": "1085666760",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fabrilife Premium Designer Edition Cotton Face Mask  Iconic",
+            "nid": "184667114",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184667114",
+                "scene_pre": "search",
+                "current_price": "238",
+                "x_sku_ids": "1146335069",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "184667114"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fabrilife-premium-designer-edition-cotton-face-mask-iconic-i184667114-s1146335069.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ff73455bddb6e923302fb01bb6b8e8c1.jpg",
+            "originalPrice": "370.00",
+            "originalPriceShow": "৳ 370",
+            "price": "238",
+            "promotionId": "null",
+            "priceShow": "৳ 238",
+            "discount": "-36%",
+            "ratingScore": "4.77778",
+            "review": "324",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184667114_BD-1146335069",
+            "sku": "184667114_BD",
+            "skus": [],
+            "description": [
+                "Return Policy is not available",
+                "Seven Layer cotton masks made of 100% premium ringspun combed compact cotton, electrostatic filter cotton, polypropylene,melt-blown filter",
+                "Washable &amp; reusable",
+                "Straps are made from Spandex",
+                "Space for your chin &amp; nose",
+                "Comfortable, secure fit",
+                "Made by Fabrilife in Bangladesh",
+                "Unisex: One size fits most",
+                "Single Jersey variant fabric is made from premium ringspun combed compact cotton."
+            ],
+            "brandId": "123289466",
+            "brandName": "Fabrilife",
+            "sellerId": "700505718006",
+            "mainSellerId": "",
+            "sellerName": "Fabrilife",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ff73455bddb6e923302fb01bb6b8e8c1.jpg",
+                    "productUrl": "/products/fabrilife-premium-designer-edition-cotton-face-mask-iconic-i184667114-s1146335069.html",
+                    "sku": "184667114_BD",
+                    "skuId": "1146335069"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:184667114;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:184667114_BD;price:238;client:desktop;supplier_id:700505718006;asc_category_id:20000352;item_id:184667114;sku_id:1146335069;shop_id:61874",
+            "addToCartSkus": [
+                {
+                    "sku": "184667114_BD-1146335069",
+                    "title": "Free Size",
+                    "skuId": "1146335069",
+                    "count": 0
+                }
+            ],
+            "itemId": "184667114",
+            "skuId": "1146335069",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fabrilife Women's Designer Edition Mask - Aspen",
+            "nid": "162638444",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "162638444",
+                "scene_pre": "search",
+                "current_price": "219",
+                "x_sku_ids": "1146325998",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "162638444"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fabrilife-womens-designer-edition-mask-aspen-i162638444-s1146325998.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d8f1143b2516e4b8c51f0dc4fc5e8e7f.jpg",
+            "originalPrice": "370.00",
+            "originalPriceShow": "৳ 370",
+            "price": "219",
+            "promotionId": "null",
+            "priceShow": "৳ 219",
+            "discount": "-41%",
+            "ratingScore": "4.67416",
+            "review": "267",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "162638444_BD-1146325998",
+            "sku": "162638444_BD",
+            "skus": [],
+            "description": [
+                "Return policy is not applicable",
+                "Construction Type: Knit",
+                "Reusable, washable cotton face masks",
+                "Made with premium breathable, soft cotton, and fit the CDC cloth mask recommendations",
+                "Seven Layer cotton masks made of 100% premium ringspun combed compact cotton",
+                "Electrostatic filter cotton, polypropylene, melt-blown filter",
+                "Washable &amp; reusable",
+                "Straps are made from Spandex",
+                "Space for your chin &amp; nose",
+                "Comfortable, secure fit",
+                "Made by Fabrilife in Bangladesh",
+                "Single Jersey variant fabric is made from premium ringspun combed compact cotton."
+            ],
+            "brandId": "123289466",
+            "brandName": "Fabrilife",
+            "sellerId": "700505718006",
+            "mainSellerId": "",
+            "sellerName": "Fabrilife",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d8f1143b2516e4b8c51f0dc4fc5e8e7f.jpg",
+                    "productUrl": "/products/fabrilife-womens-designer-edition-mask-aspen-i162638444-s1146325998.html",
+                    "sku": "162638444_BD",
+                    "skuId": "1146325998"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:162638444;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:162638444_BD;price:219;client:desktop;supplier_id:700505718006;asc_category_id:20000352;item_id:162638444;sku_id:1146325998;shop_id:61874",
+            "addToCartSkus": [
+                {
+                    "sku": "162638444_BD-1146325998",
+                    "title": "Free Size",
+                    "skuId": "1146325998",
+                    "count": 0
+                }
+            ],
+            "itemId": "162638444",
+            "skuId": "1146325998",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "[Pack of 02] Turaag Protex Reusable Face Mask for Men",
+            "nid": "156222607",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "156222607",
+                "scene_pre": "search",
+                "current_price": "306",
+                "x_sku_ids": "1085672738",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "156222607"
+            },
+            "productUrl": "//www.daraz.com.bd/products/02-turaag-protex-i156222607-s1085672738.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/32a2c9799b43fd6075c967999f347505.jpg",
+            "originalPrice": "360.00",
+            "originalPriceShow": "৳ 360",
+            "price": "306",
+            "promotionId": "null",
+            "priceShow": "৳ 306",
+            "discount": "-15%",
+            "ratingScore": "4.73408",
+            "review": "267",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "156222607_BD-1085672738",
+            "sku": "156222607_BD",
+            "skus": [],
+            "description": [
+                "2 pcs in a box",
+                "Soft adjustable elastic loops for extra comfort",
+                "Wide face coverage with chin rest for stability",
+                "Head-strap for temporarily hanging from the neck",
+                "Washable and reusable up to 25 times",
+                "Easy Maintenance"
+            ],
+            "brandId": "123522222",
+            "brandName": "Turaag ProteX",
+            "sellerId": "700507740131",
+            "mainSellerId": "",
+            "sellerName": "Turaag",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/32a2c9799b43fd6075c967999f347505.jpg",
+                    "productUrl": "/products/02-turaag-protex-i156222607-s1085672738.html",
+                    "sku": "156222607_BD",
+                    "skuId": "1085672738"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:156222607;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:156222607_BD;price:306;client:desktop;supplier_id:700507740131;asc_category_id:20000352;item_id:156222607;sku_id:1085672738;shop_id:108601",
+            "addToCartSkus": [
+                {
+                    "sku": "156222607_BD-1085672738",
+                    "title": "Int: One size",
+                    "skuId": "1085672738",
+                    "count": 0
+                }
+            ],
+            "itemId": "156222607",
+            "skuId": "1085672738",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "[Pack of 01] Turaag Protex Nokshi Face Mask",
+            "nid": "183824480",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183824480",
+                "scene_pre": "search",
+                "current_price": "170",
+                "x_sku_ids": "1128388495",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "183824480"
+            },
+            "productUrl": "//www.daraz.com.bd/products/01-i183824480-s1128388495.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/28b87dc7a305f2a269c673a99c125d72.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "170",
+            "promotionId": "null",
+            "priceShow": "৳ 170",
+            "discount": "-15%",
+            "ratingScore": "4.66667",
+            "review": "90",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183824480_BD-1128388495",
+            "sku": "183824480_BD",
+            "skus": [],
+            "description": [
+                "Single mask in a box",
+                "Soft adjustable elastic loops for extra comfort",
+                "Wide face coverage with chin rest for stability",
+                "Head-strap for temporarily hanging from the neck",
+                "Washable and reusable up to 25 times",
+                "Easy Maintenance",
+                "Elegant designs for women"
+            ],
+            "brandId": "123522222",
+            "brandName": "Turaag ProteX",
+            "sellerId": "700507740131",
+            "mainSellerId": "",
+            "sellerName": "Turaag",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/28b87dc7a305f2a269c673a99c125d72.jpg",
+                    "productUrl": "/products/01-i183824480-s1128388495.html",
+                    "sku": "183824480_BD",
+                    "skuId": "1128388495"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:183824480;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:183824480_BD;price:170;client:desktop;supplier_id:700507740131;asc_category_id:20000352;item_id:183824480;sku_id:1128388495;shop_id:108601",
+            "addToCartSkus": [
+                {
+                    "sku": "183824480_BD-1128388495",
+                    "title": "Int: One size",
+                    "skuId": "1128388495",
+                    "count": 0
+                }
+            ],
+            "itemId": "183824480",
+            "skuId": "1128388495",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pack of 2 Fabrilife Premium 7 Layer Cotton Mask - Black Navy Blue",
+            "nid": "151154585",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "151154585",
+                "scene_pre": "search",
+                "current_price": "361",
+                "x_sku_ids": "1146341209",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "151154585"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pack-of-2-fabrilife-premium-7-layer-cotton-mask-black-navy-blue-i151154585-s1146341209.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/3873429a61bcf4b4d6b7a2affaf24d45.jpg",
+            "originalPrice": "700.00",
+            "originalPriceShow": "৳ 700",
+            "price": "361",
+            "promotionId": "null",
+            "priceShow": "৳ 361",
+            "discount": "-48%",
+            "ratingScore": "4.70243",
+            "review": "1072",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "151154585_BD-1146341209",
+            "sku": "151154585_BD",
+            "skus": [],
+            "description": [
+                "Return policy is not applicable",
+                "Seven Layer cotton masks",
+                "Made of 100% premium ringspun combed compact cotton,electrostatic filter cotton,polypropylene,melt-blown filter",
+                "Washable & reusable",
+                "Straps are made from Spandex",
+                "Space for your chin & nose",
+                "Comfortable, secure fit",
+                "Made by Fabrilife in Bangladesh",
+                "Unisex: One size fits most",
+                "Single Jersey variant fabric is made from premium ringspun combed compact cotton"
+            ],
+            "brandId": "123289466",
+            "brandName": "Fabrilife",
+            "sellerId": "700505718006",
+            "mainSellerId": "",
+            "sellerName": "Fabrilife",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/3873429a61bcf4b4d6b7a2affaf24d45.jpg",
+                    "productUrl": "/products/pack-of-2-fabrilife-premium-7-layer-cotton-mask-black-navy-blue-i151154585-s1146341209.html",
+                    "sku": "151154585_BD",
+                    "skuId": "1146341209"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:151154585;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:151154585_BD;price:361;client:desktop;supplier_id:700505718006;asc_category_id:20000352;item_id:151154585;sku_id:1146341209;shop_id:61874",
+            "addToCartSkus": [
+                {
+                    "sku": "151154585_BD-1146341209",
+                    "title": "Free Size",
+                    "skuId": "1146341209",
+                    "count": 0
+                }
+            ],
+            "itemId": "151154585",
+            "skuId": "1146341209",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fabrilife Kids Designer Edition Cotton Mask Combo (Spider, Rider, Explorer)",
+            "nid": "197606202",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "197606202",
+                "scene_pre": "search",
+                "current_price": "379",
+                "x_sku_ids": "1146327463",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "197606202"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fabrilife-kids-designer-edition-cotton-mask-combo-spider-rider-explorer-i197606202-s1146327463.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/f9b1878d179ebb4987d6369071b7f7a2.png",
+            "originalPrice": "510.00",
+            "originalPriceShow": "৳ 510",
+            "price": "379",
+            "promotionId": "null",
+            "priceShow": "৳ 379",
+            "discount": "-26%",
+            "ratingScore": "4.77273",
+            "review": "44",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "197606202_BD-1146327463",
+            "sku": "197606202_BD",
+            "skus": [],
+            "description": [
+                "Return policy is not applicable",
+                "Construction Type: Knit",
+                "Reusable, Washable cotton face masks",
+                "Made with premium breathable, soft cotton, and fit the CDC cloth mask recommendations",
+                "Seven Layer cotton masks made of 100% premium ringspun combed compact cotton",
+                "Electrostatic filter cotton, polypropylene,melt-blown filter",
+                "Washable &amp; reusable",
+                "Straps are made from Spandex",
+                "Space for your chin &amp; nose",
+                "Comfortable, secure fit",
+                "Made by Fabrilife in Bangladesh",
+                "Kids mask (year 6 to 11)",
+                "Single Jersey variant fabric is made from premium ringspun combed compact cotton."
+            ],
+            "brandId": "123289466",
+            "brandName": "Fabrilife",
+            "sellerId": "700505718006",
+            "mainSellerId": "",
+            "sellerName": "Fabrilife",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/f9b1878d179ebb4987d6369071b7f7a2.png",
+                    "productUrl": "/products/fabrilife-kids-designer-edition-cotton-mask-combo-spider-rider-explorer-i197606202-s1146327463.html",
+                    "sku": "197606202_BD",
+                    "skuId": "1146327463"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:197606202;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:197606202_BD;price:379;client:desktop;supplier_id:700505718006;asc_category_id:20000352;item_id:197606202;sku_id:1146327463;shop_id:61874",
+            "addToCartSkus": [
+                {
+                    "sku": "197606202_BD-1146327463",
+                    "title": "Free Size",
+                    "skuId": "1146327463",
+                    "count": 0
+                }
+            ],
+            "itemId": "197606202",
+            "skuId": "1146327463",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fabrilife Kids Designer Edition Mask - Royale",
+            "nid": "163266518",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "163266518",
+                "scene_pre": "search",
+                "current_price": "162",
+                "x_sku_ids": "1146336186",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "163266518"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fabrilife-kids-designer-edition-mask-royale-i163266518-s1146336186.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/63ae037dfbe64c42d92a5674d3478193.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "162",
+            "promotionId": "null",
+            "priceShow": "৳ 162",
+            "discount": "-46%",
+            "ratingScore": "4.45783",
+            "review": "83",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "163266518_BD-1146336186",
+            "sku": "163266518_BD",
+            "skus": [],
+            "description": [
+                "Return policy is not applicable",
+                "Construction Type: Knit",
+                "Reusable, Washable cotton face masks",
+                "Made with premium breathable, soft cotton, and fit the CDC cloth mask recommendations",
+                "Seven Layer cotton masks made of 100% premium ringspun combed compact cotton",
+                "Electrostatic filter cotton, polypropylene,melt-blown filter",
+                "Washable &amp; reusable",
+                "Straps are made from Spandex",
+                "Space for your chin &amp; nose",
+                "Comfortable, secure fit",
+                "Made by Fabrilife in Bangladesh",
+                "Kids mask (year 6 to 11)",
+                "Single Jersey variant fabric is made from premium ringspun combed compact cotton."
+            ],
+            "brandId": "123289466",
+            "brandName": "Fabrilife",
+            "sellerId": "700505718006",
+            "mainSellerId": "",
+            "sellerName": "Fabrilife",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/63ae037dfbe64c42d92a5674d3478193.jpg",
+                    "productUrl": "/products/fabrilife-kids-designer-edition-mask-royale-i163266518-s1146336186.html",
+                    "sku": "163266518_BD",
+                    "skuId": "1146336186"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:163266518;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:163266518_BD;price:162;client:desktop;supplier_id:700505718006;asc_category_id:20000352;item_id:163266518;sku_id:1146336186;shop_id:61874",
+            "addToCartSkus": [
+                {
+                    "sku": "163266518_BD-1146336186",
+                    "title": "Free Size",
+                    "skuId": "1146336186",
+                    "count": 0
+                }
+            ],
+            "itemId": "163266518",
+            "skuId": "1146336186",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fabrilife Kids Designer Edition Mask - Hazel",
+            "nid": "163260876",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "163260876",
+                "scene_pre": "search",
+                "current_price": "162",
+                "x_sku_ids": "1146324990",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "163260876"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fabrilife-kids-designer-edition-mask-hazel-i163260876-s1146324990.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/156f9a377a8d633bd7302117ecd1c970.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "162",
+            "promotionId": "null",
+            "priceShow": "৳ 162",
+            "discount": "-46%",
+            "ratingScore": "4.76923",
+            "review": "39",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "163260876_BD-1146324990",
+            "sku": "163260876_BD",
+            "skus": [],
+            "description": [
+                "Return policy is not applicable",
+                "Construction Type: Knit",
+                "Reusable, Washable cotton face masks",
+                "Made with premium breathable, soft cotton, and fit the CDC cloth mask recommendations",
+                "Seven Layer cotton masks made of 100% premium ringspun combed compact cotton",
+                "Electrostatic filter cotton, polypropylene,melt-blown filter",
+                "Washable &amp; reusable",
+                "Straps are made from Spandex",
+                "Space for your chin &amp; nose",
+                "Comfortable, secure fit",
+                "Made by Fabrilife in Bangladesh",
+                "Kids mask (year 6 to 11)",
+                "Single Jersey variant fabric is made from premium ringspun combed compact cotton."
+            ],
+            "brandId": "123289466",
+            "brandName": "Fabrilife",
+            "sellerId": "700505718006",
+            "mainSellerId": "",
+            "sellerName": "Fabrilife",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/156f9a377a8d633bd7302117ecd1c970.jpg",
+                    "productUrl": "/products/fabrilife-kids-designer-edition-mask-hazel-i163260876-s1146324990.html",
+                    "sku": "163260876_BD",
+                    "skuId": "1146324990"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:163260876;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:163260876_BD;price:162;client:desktop;supplier_id:700505718006;asc_category_id:20000352;item_id:163260876;sku_id:1146324990;shop_id:61874",
+            "addToCartSkus": [
+                {
+                    "sku": "163260876_BD-1146324990",
+                    "title": "Free Size",
+                    "skuId": "1146324990",
+                    "count": 0
+                }
+            ],
+            "itemId": "163260876",
+            "skuId": "1146324990",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fabrilife 7 Layer Cotton Fashion Mask - Blue",
+            "nid": "142550585",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "142550585",
+                "scene_pre": "search",
+                "current_price": "185",
+                "x_sku_ids": "1146331985",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "142550585"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fabrilife-7-layer-cotton-fashion-mask-blue-i142550585-s1146331985.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9c7e7386c6ed3097f1fadb4e41c37604.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "185",
+            "promotionId": "null",
+            "priceShow": "৳ 185",
+            "discount": "-47%",
+            "ratingScore": "4.60294",
+            "review": "68",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "142550585_BD-1146331985",
+            "sku": "142550585_BD",
+            "skus": [],
+            "description": [
+                "Return policy is not applicable",
+                "Seven Layer cotton masks",
+                "Made of 100% premium ringspun combed compact cotton,electrostatic filter cotton,polypropylene,melt-blown filter",
+                "Washable & reusable",
+                "Straps are made from Spandex",
+                "Space for your chin & nose",
+                "Comfortable, secure fit",
+                "Made by Fabrilife in Bangladesh",
+                "Unisex: One size fits most",
+                "Single Jersey variant fabric is made from premium ringspun combed compact cotton"
+            ],
+            "brandId": "123289466",
+            "brandName": "Fabrilife",
+            "sellerId": "700505718006",
+            "mainSellerId": "",
+            "sellerName": "Fabrilife",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9c7e7386c6ed3097f1fadb4e41c37604.jpg",
+                    "productUrl": "/products/fabrilife-7-layer-cotton-fashion-mask-blue-i142550585-s1146331985.html",
+                    "sku": "142550585_BD",
+                    "skuId": "1146331985"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:142550585;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:142550585_BD;price:185;client:desktop;supplier_id:700505718006;asc_category_id:20000352;item_id:142550585;sku_id:1146331985;shop_id:61874",
+            "addToCartSkus": [
+                {
+                    "sku": "142550585_BD-1146331985",
+                    "title": "Free Size",
+                    "skuId": "1146331985",
+                    "count": 0
+                }
+            ],
+            "itemId": "142550585",
+            "skuId": "1146331985",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fabrilife Premium Designer Edition Cotton Face Mask  Alpha",
+            "nid": "184671049",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "184671049",
+                "scene_pre": "search",
+                "current_price": "238",
+                "x_sku_ids": "1146334042",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "184671049"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fabrilife-premium-designer-edition-cotton-face-mask-alpha-i184671049-s1146334042.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/66383752a65242f041ce212729086047.png",
+            "originalPrice": "370.00",
+            "originalPriceShow": "৳ 370",
+            "price": "238",
+            "promotionId": "null",
+            "priceShow": "৳ 238",
+            "discount": "-36%",
+            "ratingScore": "4.77778",
+            "review": "99",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "184671049_BD-1146334042",
+            "sku": "184671049_BD",
+            "skus": [],
+            "description": [
+                "Return Policy is not available",
+                "Seven Layer cotton masks made of 100% premium ringspun combed compact cotton, electrostatic filter cotton, polypropylene,melt-blown filter",
+                "Washable &amp; reusable",
+                "Straps are made from Spandex",
+                "Space for your chin &amp; nose",
+                "Comfortable, secure fit",
+                "Made by Fabrilife in Bangladesh",
+                "Unisex: One size fits most",
+                "Single Jersey variant fabric is made from premium ringspun combed compact cotton."
+            ],
+            "brandId": "123289466",
+            "brandName": "Fabrilife",
+            "sellerId": "700505718006",
+            "mainSellerId": "",
+            "sellerName": "Fabrilife",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/66383752a65242f041ce212729086047.png",
+                    "productUrl": "/products/fabrilife-premium-designer-edition-cotton-face-mask-alpha-i184671049-s1146334042.html",
+                    "sku": "184671049_BD",
+                    "skuId": "1146334042"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:184671049;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:184671049_BD;price:238;client:desktop;supplier_id:700505718006;asc_category_id:20000352;item_id:184671049;sku_id:1146334042;shop_id:61874",
+            "addToCartSkus": [
+                {
+                    "sku": "184671049_BD-1146334042",
+                    "title": "Free Size",
+                    "skuId": "1146334042",
+                    "count": 0
+                }
+            ],
+            "itemId": "184671049",
+            "skuId": "1146334042",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fabrilife Kids Designer Edition Mask - Spider",
+            "nid": "163260708",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "163260708",
+                "scene_pre": "search",
+                "current_price": "162",
+                "x_sku_ids": "1146336189",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "163260708"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fabrilife-kids-designer-edition-mask-spider-i163260708-s1146336189.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d7e4ec41f83b49e5b1aa208d6f8eee56.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "162",
+            "promotionId": "null",
+            "priceShow": "৳ 162",
+            "discount": "-46%",
+            "ratingScore": "4.73963",
+            "review": "434",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "163260708_BD-1146336189",
+            "sku": "163260708_BD",
+            "skus": [],
+            "description": [
+                "Return policy is not applicable",
+                "Construction Type: Knit",
+                "Reusable, Washable cotton face masks",
+                "Made with premium breathable, soft cotton, and fit the CDC cloth mask recommendations",
+                "Seven Layer cotton masks made of 100% premium ringspun combed compact cotton",
+                "Electrostatic filter cotton, polypropylene,melt-blown filter",
+                "Washable &amp; reusable",
+                "Straps are made from Spandex",
+                "Space for your chin &amp; nose",
+                "Comfortable, secure fit",
+                "Made by Fabrilife in Bangladesh",
+                "Kids mask (year 6 to 11)",
+                "Single Jersey variant fabric is made from premium ringspun combed compact cotton."
+            ],
+            "brandId": "123289466",
+            "brandName": "Fabrilife",
+            "sellerId": "700505718006",
+            "mainSellerId": "",
+            "sellerName": "Fabrilife",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d7e4ec41f83b49e5b1aa208d6f8eee56.jpg",
+                    "productUrl": "/products/fabrilife-kids-designer-edition-mask-spider-i163260708-s1146336189.html",
+                    "sku": "163260708_BD",
+                    "skuId": "1146336189"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:163260708;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:163260708_BD;price:162;client:desktop;supplier_id:700505718006;asc_category_id:20000352;item_id:163260708;sku_id:1146336189;shop_id:61874",
+            "addToCartSkus": [
+                {
+                    "sku": "163260708_BD-1146336189",
+                    "title": "Free Size",
+                    "skuId": "1146336189",
+                    "count": 0
+                }
+            ],
+            "itemId": "163260708",
+            "skuId": "1146336189",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Black Surgical Masks, 50Pcs Box",
+            "nid": "227077179",
+            "icons": [
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "227077179",
+                "scene_pre": "search",
+                "current_price": "110.00",
+                "x_sku_ids": "1171314842",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "227077179"
+            },
+            "productUrl": "//www.daraz.com.bd/products/50-i227077179-s1171314842.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/fbae3537bc95722e5803afb5115b07f1.jpg",
+            "originalPrice": "280.00",
+            "originalPriceShow": "৳ 280",
+            "price": "110.00",
+            "promotionId": "null",
+            "priceShow": "৳ 110",
+            "discount": "-61%",
+            "ratingScore": "5",
+            "review": "4",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "227077179_BD-1171314842",
+            "sku": "227077179_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508325588",
+            "mainSellerId": "",
+            "sellerName": "HANLI BAZAR BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/fbae3537bc95722e5803afb5115b07f1.jpg",
+                    "productUrl": "/products/50-i227077179-s1171314842.html",
+                    "sku": "227077179_BD",
+                    "skuId": "1171314842"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:227077179;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:227077179_BD;price:110.00;client:desktop;supplier_id:700508325588;asc_category_id:20000352;item_id:227077179;sku_id:1171314842;shop_id:145941",
+            "addToCartSkus": [
+                {
+                    "sku": "227077179_BD-1171314842",
+                    "title": "Free Size",
+                    "skuId": "1171314842",
+                    "count": 0
+                }
+            ],
+            "itemId": "227077179",
+            "skuId": "1171314842",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "SiBTS Face Mask Jeon Jungkook Kim Taehyung V Jimin J-Hope Suga Jin Rap Monster Face Mask For BTS Loversx Layer Face Mask For Men And Women Gaming Mask With Adjustable Ear Loop And Digital Print Face Mask Graphics Print Anime Mask",
+            "nid": "230900760",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "230900760",
+                "scene_pre": "search",
+                "current_price": "145",
+                "x_sku_ids": "1174184908",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "230900760"
+            },
+            "productUrl": "//www.daraz.com.bd/products/bts-i230900760-s1174184908.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8d9fc091025829ac3ff8e84ff396bdbd.jpg",
+            "originalPrice": "500.00",
+            "originalPriceShow": "৳ 500",
+            "price": "145",
+            "promotionId": "null",
+            "priceShow": "৳ 145",
+            "discount": "-71%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "230900760_BD-1174184908",
+            "sku": "230900760_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508373902",
+            "mainSellerId": "",
+            "sellerName": "VENT BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8d9fc091025829ac3ff8e84ff396bdbd.jpg",
+                    "productUrl": "/products/bts-i230900760-s1174184908.html",
+                    "sku": "230900760_BD",
+                    "skuId": "1174184908"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:230900760;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:230900760_BD;price:145;client:desktop;supplier_id:700508373902;asc_category_id:20000352;item_id:230900760;sku_id:1174184908;shop_id:155684",
+            "addToCartSkus": [
+                {
+                    "sku": "230900760_BD-1174184908",
+                    "title": "Free Size",
+                    "skuId": "1174184908",
+                    "count": 0
+                }
+            ],
+            "itemId": "230900760",
+            "skuId": "1174184908",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fabrilife Kids Designer Edition Mask - Dino",
+            "nid": "163268489",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "163268489",
+                "scene_pre": "search",
+                "current_price": "162",
+                "x_sku_ids": "1146324995",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "163268489"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fabrilife-kids-designer-edition-mask-dino-i163268489-s1146324995.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/1a0f86b282fe3af6efd5b51142a96585.jpg",
+            "originalPrice": "300.00",
+            "originalPriceShow": "৳ 300",
+            "price": "162",
+            "promotionId": "null",
+            "priceShow": "৳ 162",
+            "discount": "-46%",
+            "ratingScore": "4.8141",
+            "review": "156",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "163268489_BD-1146324995",
+            "sku": "163268489_BD",
+            "skus": [],
+            "description": [
+                "Return policy is not applicable",
+                "Construction Type: Knit",
+                "Reusable, Washable cotton face masks",
+                "Made with premium breathable, soft cotton, and fit the CDC cloth mask recommendations",
+                "Seven Layer cotton masks made of 100% premium ringspun combed compact cotton",
+                "Electrostatic filter cotton, polypropylene,melt-blown filter",
+                "Washable &amp; reusable",
+                "Straps are made from Spandex",
+                "Space for your chin &amp; nose",
+                "Comfortable, secure fit",
+                "Made by Fabrilife in Bangladesh",
+                "Kids mask (year 6 to 11)",
+                "Single Jersey variant fabric is made from premium ringspun combed compact cotton."
+            ],
+            "brandId": "123289466",
+            "brandName": "Fabrilife",
+            "sellerId": "700505718006",
+            "mainSellerId": "",
+            "sellerName": "Fabrilife",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/1a0f86b282fe3af6efd5b51142a96585.jpg",
+                    "productUrl": "/products/fabrilife-kids-designer-edition-mask-dino-i163268489-s1146324995.html",
+                    "sku": "163268489_BD",
+                    "skuId": "1146324995"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:163268489;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:163268489_BD;price:162;client:desktop;supplier_id:700505718006;asc_category_id:20000352;item_id:163268489;sku_id:1146324995;shop_id:61874",
+            "addToCartSkus": [
+                {
+                    "sku": "163268489_BD-1146324995",
+                    "title": "Free Size",
+                    "skuId": "1146324995",
+                    "count": 0
+                }
+            ],
+            "itemId": "163268489",
+            "skuId": "1146324995",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "[Pack of 02] Turaag Protex Reusable Face Mask for Men",
+            "nid": "156206854",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "156206854",
+                "scene_pre": "search",
+                "current_price": "306",
+                "x_sku_ids": "1085662668",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "156206854"
+            },
+            "productUrl": "//www.daraz.com.bd/products/02-turaag-protex-i156206854-s1085662668.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/28546bac24b089120a526d86fa809012.jpg",
+            "originalPrice": "360.00",
+            "originalPriceShow": "৳ 360",
+            "price": "306",
+            "promotionId": "null",
+            "priceShow": "৳ 306",
+            "discount": "-15%",
+            "ratingScore": "4.69666",
+            "review": "867",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "156206854_BD-1085662668",
+            "sku": "156206854_BD",
+            "skus": [],
+            "description": [
+                "2 pcs in a box",
+                "Soft adjustable elastic loops for extra comfort",
+                "Wide face coverage with chin rest for stability",
+                "Head-strap for temporarily hanging from the neck",
+                "Washable and reusable up to 25 times",
+                "Easy Maintenance"
+            ],
+            "brandId": "123522222",
+            "brandName": "Turaag ProteX",
+            "sellerId": "700507740131",
+            "mainSellerId": "",
+            "sellerName": "Turaag",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/28546bac24b089120a526d86fa809012.jpg",
+                    "productUrl": "/products/02-turaag-protex-i156206854-s1085662668.html",
+                    "sku": "156206854_BD",
+                    "skuId": "1085662668"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:156206854;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:156206854_BD;price:306;client:desktop;supplier_id:700507740131;asc_category_id:20000352;item_id:156206854;sku_id:1085662668;shop_id:108601",
+            "addToCartSkus": [
+                {
+                    "sku": "156206854_BD-1085662668",
+                    "title": "Int: One size",
+                    "skuId": "1085662668",
+                    "count": 0
+                }
+            ],
+            "itemId": "156206854",
+            "skuId": "1085662668",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fabrilife 7 Layer Cotton Fashion Mask - White",
+            "nid": "142548736",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "142548736",
+                "scene_pre": "search",
+                "current_price": "185",
+                "x_sku_ids": "1146341215",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "142548736"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fabrilife-7-layer-cotton-fashion-mask-white-i142548736-s1146341215.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/187bc0e48bdce6f925d4dda21a5ddd43.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "185",
+            "promotionId": "null",
+            "priceShow": "৳ 185",
+            "discount": "-47%",
+            "ratingScore": "4.72308",
+            "review": "130",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "142548736_BD-1146341215",
+            "sku": "142548736_BD",
+            "skus": [],
+            "description": [
+                "Return policy is not applicable",
+                "Seven Layer cotton masks",
+                "Made of 100% premium ringspun combed compact cotton,electrostatic filter cotton,polypropylene,melt-blown filter",
+                "Washable & reusable",
+                "Straps are made from Spandex",
+                "Space for your chin & nose",
+                "Comfortable, secure fit",
+                "Made by Fabrilife in Bangladesh",
+                "Unisex: One size fits most",
+                "Single Jersey variant fabric is made from premium ringspun combed compact cotton"
+            ],
+            "brandId": "123289466",
+            "brandName": "Fabrilife",
+            "sellerId": "700505718006",
+            "mainSellerId": "",
+            "sellerName": "Fabrilife",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/187bc0e48bdce6f925d4dda21a5ddd43.jpg",
+                    "productUrl": "/products/fabrilife-7-layer-cotton-fashion-mask-white-i142548736-s1146341215.html",
+                    "sku": "142548736_BD",
+                    "skuId": "1146341215"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:142548736;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:142548736_BD;price:185;client:desktop;supplier_id:700505718006;asc_category_id:20000352;item_id:142548736;sku_id:1146341215;shop_id:61874",
+            "addToCartSkus": [
+                {
+                    "sku": "142548736_BD-1146341215",
+                    "title": "Free Size",
+                    "skuId": "1146341215",
+                    "count": 0
+                }
+            ],
+            "itemId": "142548736",
+            "skuId": "1146341215",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fabrilife 7 Layer Cotton Fashion Mask - Denim",
+            "nid": "142560021",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "142560021",
+                "scene_pre": "search",
+                "current_price": "185",
+                "x_sku_ids": "1146333700",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "142560021"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fabrilife-7-layer-cotton-fashion-mask-denim-i142560021-s1146333700.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8043d556a0ee98f2ca4a350856cccfa1.jpg",
+            "originalPrice": "350.00",
+            "originalPriceShow": "৳ 350",
+            "price": "185",
+            "promotionId": "null",
+            "priceShow": "৳ 185",
+            "discount": "-47%",
+            "ratingScore": "4.65942",
+            "review": "414",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "142560021_BD-1146333700",
+            "sku": "142560021_BD",
+            "skus": [],
+            "description": [
+                "Return policy is not applicable",
+                "Seven Layer cotton masks",
+                "Made of 100% premium ringspun combed compact cotton,electrostatic filter cotton,polypropylene,melt-blown filter",
+                "Washable & reusable",
+                "Straps are made from Spandex",
+                "Space for your chin & nose",
+                "Comfortable, secure fit",
+                "Made by Fabrilife in Bangladesh",
+                "Unisex: One size fits most",
+                "Single Jersey variant fabric is made from premium ringspun combed compact cotton"
+            ],
+            "brandId": "123289466",
+            "brandName": "Fabrilife",
+            "sellerId": "700505718006",
+            "mainSellerId": "",
+            "sellerName": "Fabrilife",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8043d556a0ee98f2ca4a350856cccfa1.jpg",
+                    "productUrl": "/products/fabrilife-7-layer-cotton-fashion-mask-denim-i142560021-s1146333700.html",
+                    "sku": "142560021_BD",
+                    "skuId": "1146333700"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:142560021;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:142560021_BD;price:185;client:desktop;supplier_id:700505718006;asc_category_id:20000352;item_id:142560021;sku_id:1146333700;shop_id:61874",
+            "addToCartSkus": [
+                {
+                    "sku": "142560021_BD-1146333700",
+                    "title": "Free Size",
+                    "skuId": "1146333700",
+                    "count": 0
+                }
+            ],
+            "itemId": "142560021",
+            "skuId": "1146333700",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "[Pack of 01] Turaag Protex Reusable Face Mask for Men - Army Green",
+            "nid": "180985685",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "180985685",
+                "scene_pre": "search",
+                "current_price": "153",
+                "x_sku_ids": "1122349878",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "180985685"
+            },
+            "productUrl": "//www.daraz.com.bd/products/01-turaag-protex-i180985685-s1122349878.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/30f80e672881e349bae38cd87e2548e3.jpg",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "153",
+            "promotionId": "null",
+            "priceShow": "৳ 153",
+            "discount": "-15%",
+            "ratingScore": "4.74396",
+            "review": "207",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "180985685_BD-1122349878",
+            "sku": "180985685_BD",
+            "skus": [],
+            "description": [
+                "1 pcs in a box",
+                "Soft adjustable elastic loops for extra comfort",
+                "Wide face coverage with chin rest for stability",
+                "Head-strap for temporarily hanging from neck",
+                "Washable and reusable up to 25 times",
+                "Easy Maintenance"
+            ],
+            "brandId": "123511448",
+            "brandName": "Turaag",
+            "sellerId": "700507740131",
+            "mainSellerId": "",
+            "sellerName": "Turaag",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/30f80e672881e349bae38cd87e2548e3.jpg",
+                    "productUrl": "/products/01-turaag-protex-i180985685-s1122349878.html",
+                    "sku": "180985685_BD",
+                    "skuId": "1122349878"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:180985685;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:180985685_BD;price:153;client:desktop;supplier_id:700507740131;asc_category_id:20000352;item_id:180985685;sku_id:1122349878;shop_id:108601",
+            "addToCartSkus": [
+                {
+                    "sku": "180985685_BD-1122349878",
+                    "title": "Int: One size",
+                    "skuId": "1122349878",
+                    "count": 0
+                }
+            ],
+            "itemId": "180985685",
+            "skuId": "1122349878",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "[Pack of 01] Turaag Protex Reusable Face Mask for Men - Navy Blue",
+            "nid": "180979933",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "180979933",
+                "scene_pre": "search",
+                "current_price": "153",
+                "x_sku_ids": "1122365101",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "180979933"
+            },
+            "productUrl": "//www.daraz.com.bd/products/01-turaag-protex-i180979933-s1122365101.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/5330bf68470b0786f562a72ff11202dc.jpg",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "153",
+            "promotionId": "null",
+            "priceShow": "৳ 153",
+            "discount": "-15%",
+            "ratingScore": "4.67385",
+            "review": "325",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "180979933_BD-1122365101",
+            "sku": "180979933_BD",
+            "skus": [],
+            "description": [
+                "1 pcs in a box",
+                "Soft adjustable elastic loops for extra comfort",
+                "Wide face coverage with chin rest for stability",
+                "Head-strap for temporarily hanging from neck",
+                "Washable and reusable up to 25 times",
+                "Easy Maintenance"
+            ],
+            "brandId": "123511448",
+            "brandName": "Turaag",
+            "sellerId": "700507740131",
+            "mainSellerId": "",
+            "sellerName": "Turaag",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/5330bf68470b0786f562a72ff11202dc.jpg",
+                    "productUrl": "/products/01-turaag-protex-i180979933-s1122365101.html",
+                    "sku": "180979933_BD",
+                    "skuId": "1122365101"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:180979933;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:180979933_BD;price:153;client:desktop;supplier_id:700507740131;asc_category_id:20000352;item_id:180979933;sku_id:1122365101;shop_id:108601",
+            "addToCartSkus": [
+                {
+                    "sku": "180979933_BD-1122365101",
+                    "title": "Int: One size",
+                    "skuId": "1122365101",
+                    "count": 0
+                }
+            ],
+            "itemId": "180979933",
+            "skuId": "1122365101",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ertugrul Gazi Kayi Tribe Kurulus Osman Design Six Layer Face Mask For Men And Women Gaming Mask With Adjustable Ear Loop And Digital Print Face Mask Graphics Print Anime Mask",
+            "nid": "192017723",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "192017723",
+                "scene_pre": "search",
+                "current_price": "128",
+                "x_sku_ids": "1138880349",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "192017723"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i192017723-s1138880349.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e5c49005229cc582adab78c8c3db3f97.jpg",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "128",
+            "promotionId": "null",
+            "priceShow": "৳ 128",
+            "discount": "-29%",
+            "ratingScore": "0",
+            "review": "0",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "192017723_BD-1138880349",
+            "sku": "192017723_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508373902",
+            "mainSellerId": "",
+            "sellerName": "VENT BD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e5c49005229cc582adab78c8c3db3f97.jpg",
+                    "productUrl": "/products/-i192017723-s1138880349.html",
+                    "sku": "192017723_BD",
+                    "skuId": "1138880349"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:192017723;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:192017723_BD;price:128;client:desktop;supplier_id:700508373902;asc_category_id:20000352;item_id:192017723;sku_id:1138880349;shop_id:155684",
+            "addToCartSkus": [
+                {
+                    "sku": "192017723_BD-1138880349",
+                    "title": "M",
+                    "skuId": "1138880349",
+                    "count": 0
+                }
+            ],
+            "itemId": "192017723",
+            "skuId": "1138880349",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Naruto Anime Akatsuki Anime Series Six Layer Face_Mask Tiktok_Mask For Men And Women Gaming_Mask With Adjustable Ear Loop And Digital Print Face_Mask Graphics Print Anime_Mask",
+            "nid": "198751696",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "198751696",
+                "scene_pre": "search",
+                "current_price": "130",
+                "x_sku_ids": "1146086113",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "198751696"
+            },
+            "productUrl": "//www.daraz.com.bd/products/naruto-anime-akatsuki-_-tiktok_mask-_-_-i198751696-s1146086113.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/356312389c0bd9f289f40f91d1803d66.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "130",
+            "promotionId": "null",
+            "priceShow": "৳ 130",
+            "discount": "-13%",
+            "ratingScore": "4.78947",
+            "review": "19",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "198751696_BD-1146086113",
+            "sku": "198751696_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Face Mask For Men And Women",
+                "Adjustable Earloop",
+                "Protective Layers",
+                "Main Material: 100% Cotton, Microfiber Polyester",
+                "Stylish and trendy",
+                "Comfortable",
+                "Smart look",
+                "100+ Times Washable",
+                "GSM 140/150/160/170+",
+                "Made in Bangladesh",
+                "A perfect casual wear.. "
+            ],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508823127",
+            "mainSellerId": "",
+            "sellerName": "KM Clothings",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/356312389c0bd9f289f40f91d1803d66.jpg",
+                    "productUrl": "/products/naruto-anime-akatsuki-_-tiktok_mask-_-_-i198751696-s1146086113.html",
+                    "sku": "198751696_BD",
+                    "skuId": "1146086113"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:198751696;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:198751696_BD;price:130;client:desktop;supplier_id:700508823127;asc_category_id:20000352;item_id:198751696;sku_id:1146086113;shop_id:191268",
+            "addToCartSkus": [
+                {
+                    "sku": "198751696_BD-1146086113",
+                    "title": "Free Size",
+                    "skuId": "1146086113",
+                    "count": 0
+                }
+            ],
+            "itemId": "198751696",
+            "skuId": "1146086113",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "[Pack of 01] Turaag Protex Face Mask For Women-MAROON",
+            "nid": "183834188",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "183834188",
+                "scene_pre": "search",
+                "current_price": "153",
+                "x_sku_ids": "1128381573",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "183834188"
+            },
+            "productUrl": "//www.daraz.com.bd/products/01-turaag-protex-i183834188-s1128381573.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/127627deabb9f52b495e7db8c8e0a9a6.jpg",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "153",
+            "promotionId": "null",
+            "priceShow": "৳ 153",
+            "discount": "-15%",
+            "ratingScore": "4.58333",
+            "review": "36",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "183834188_BD-1128381573",
+            "sku": "183834188_BD",
+            "skus": [],
+            "description": [
+                "Single mask in a box",
+                "Soft adjustable elastic loops for extra comfort",
+                "Wide face coverage with chin rest for stability",
+                "Head-strap for temporarily hanging from the neck",
+                "Washable and reusable up to 25 times",
+                "Easy Maintenance",
+                "Elegant designs for women"
+            ],
+            "brandId": "123522222",
+            "brandName": "Turaag ProteX",
+            "sellerId": "700507740131",
+            "mainSellerId": "",
+            "sellerName": "Turaag",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/127627deabb9f52b495e7db8c8e0a9a6.jpg",
+                    "productUrl": "/products/01-turaag-protex-i183834188-s1128381573.html",
+                    "sku": "183834188_BD",
+                    "skuId": "1128381573"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:183834188;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:183834188_BD;price:153;client:desktop;supplier_id:700507740131;asc_category_id:20000352;item_id:183834188;sku_id:1128381573;shop_id:108601",
+            "addToCartSkus": [
+                {
+                    "sku": "183834188_BD-1128381573",
+                    "title": "Int: One size",
+                    "skuId": "1128381573",
+                    "count": 0
+                }
+            ],
+            "itemId": "183834188",
+            "skuId": "1128381573",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pack Of 2 Fabrilife Premium 7 Layer Cotton Mask - (Maroon, Purple)",
+            "nid": "151148752",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "151148752",
+                "scene_pre": "search",
+                "current_price": "361",
+                "x_sku_ids": "1146329961",
+                "SN": "e182a571d1798be12085cc22cab255e1",
+                "x_ad": "1",
+                "x_object_id": "151148752"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pack-of-2-fabrilife-premium-7-layer-cotton-mask-maroon-purple-i151148752-s1146329961.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d114e82600a3561c672479b063540eae.jpg",
+            "originalPrice": "700.00",
+            "originalPriceShow": "৳ 700",
+            "price": "361",
+            "promotionId": "null",
+            "priceShow": "৳ 361",
+            "discount": "-48%",
+            "ratingScore": "4.73958",
+            "review": "96",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "151148752_BD-1146329961",
+            "sku": "151148752_BD",
+            "skus": [],
+            "description": [
+                "Return policy is not applicable",
+                "Seven Layer cotton masks",
+                "Made of 100% premium ringspun combed compact cotton,electrostatic filter cotton,polypropylene,melt-blown filter",
+                "Washable & reusable",
+                "Straps are made from Spandex",
+                "Space for your chin & nose",
+                "Comfortable, secure fit",
+                "Made by Fabrilife in Bangladesh",
+                "Unisex: One size fits most",
+                "Single Jersey variant fabric is made from premium ringspun combed compact cotton"
+            ],
+            "brandId": "123289466",
+            "brandName": "Fabrilife",
+            "sellerId": "700505718006",
+            "mainSellerId": "",
+            "sellerName": "Fabrilife",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d114e82600a3561c672479b063540eae.jpg",
+                    "productUrl": "/products/pack-of-2-fabrilife-premium-7-layer-cotton-mask-maroon-purple-i151148752-s1146329961.html",
+                    "sku": "151148752_BD",
+                    "skuId": "1146329961"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                1819,
+                10001925,
+                10001933,
+                20000352
+            ],
+            "clickTrace": "query:;nid:151148752;src:LazadaMainSrp;rn:e182a571d1798be12085cc22cab255e1;region:bd;sku:151148752_BD;price:361;client:desktop;supplier_id:700505718006;asc_category_id:20000352;item_id:151148752;sku_id:1146329961;shop_id:61874",
+            "addToCartSkus": [
+                {
+                    "sku": "151148752_BD-1146329961",
+                    "title": "Free Size",
+                    "skuId": "1146329961",
+                    "count": 0
+                }
+            ],
+            "itemId": "151148752",
+            "skuId": "1146329961",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/fashion/",
+            "title": "Fashion"
+        },
+        {
+            "url": "/invisible-unisex-fashion-1/",
+            "title": "Unisex"
+        },
+        {
+            "url": "/invisible-unisex-fashion-10/",
+            "title": "Accessories"
+        },
+        {
+            "url": "/fashion-masks/",
+            "title": "Fashion Masks"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/fashion-masks/?referer_rn=e182a571d1798be12085cc22cab255e1&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Ch2%3EBest%20Fashion%20Mask%20in%20Bangladesh%20at%20Cheap%20Price%3C%2Fh2%3E%0A%0A%3Cp%3ELooking%20for%20masks%20to%20be%20safe%20from%20Covid-19%3F%20Daraz.com.bd%20is%20providing%20a%20variety%20of%20fashion%20masks%20with%20cheaper%20price%20in%20Bangladesh.%20You%20can%20also%20buy%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ftag%2Fn95-mask%2F%22%3EN95%20mask%3C%2Fa%3E%2C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ftag%2Fsurgical-mask%2F%22%3ESurgical%20Mask%3C%2Fa%3E%20at%20best%20price%20as%20well%20with%20some%20superb%20discount%20offers.%3C%2Fp%3E%0A%0A%3Cp%3E%3Cstrong%3EDo%20check%20also%3A%3C%2Fstrong%3E%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ftag%2Fsepnil-disinfectant-spray%2F%22%3ESepnil%20Disinfectant%20Spray%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ftag%2Fsepnil-face-mask%2F%22%3ESepnil%20Face%20Mask%3C%2Fa%3E%3C%2Fp%3E%0A"
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "16435 items found in {$0}",
+        "title": "Fashion Masks",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Fashion Masks"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Fashion Masks",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "e182a571d1798be12085cc22cab255e1",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "20000352",
+            "category": "20000352"
+        },
+        "categoryRegionalKey": "1260000013755",
+        "mainCategoryRegionalKey": "090000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Fashion Masks - Buy Fashion Masks at Best Price in Bangladesh | www.daraz.com.bd",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Fashion,Unisex,Accessories,Fashion Masks",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "1260000013755",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=20000352&_p_asc_cateid=20000352",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "fashion-masks",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "e182a571d1798be12085cc22cab255e1",
+                "resultNr": 16435,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "1164594990",
+                "1146334686",
+                "1127653497"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "20000352",
+            "category": "20000352"
+        }
+    }
+}

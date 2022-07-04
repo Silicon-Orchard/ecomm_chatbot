@@ -1,0 +1,4337 @@
+{
+    "listItems": [
+        {
+            "name": "Pran Salt - 1 Kg",
+            "nid": "555498",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "17279",
+                "scene_pre": "search",
+                "current_price": "27",
+                "x_sku_ids": "152103",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "17279"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pran-salt-1-kg-i17279-s152103.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0864e8e452e139b1fe90efc93c1a4170.jpg",
+            "originalPrice": "38.00",
+            "originalPriceShow": "৳ 38",
+            "price": "27",
+            "promotionId": "null",
+            "priceShow": "৳ 27",
+            "discount": "-29%",
+            "ratingScore": "4.82669",
+            "review": "1379",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "PR012GR1DIPONNAFAMZ-812647",
+            "sku": "PR012GR1DIPONNAFAMZ",
+            "skus": [],
+            "description": [
+                "Premium Quality",
+                "Product of Bangladesh",
+                "Brand : Pran",
+                "Size : 1 Kg"
+            ],
+            "brandId": "144838",
+            "brandName": "Pran",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0864e8e452e139b1fe90efc93c1a4170.jpg",
+                    "productUrl": "/products/pran-salt-1-kg-i17279-s152103.html",
+                    "sku": "PR012GR1DIPONNAFAMZ",
+                    "skuId": "152103"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002425
+            ],
+            "clickTrace": "query:;nid:555498;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:PR012GR1DIPONNAFAMZ;price:27;client:desktop;supplier_id:1000000;asc_category_id:10002425;item_id:17279;sku_id:152103;shop_id:7483",
+            "addToCartSkus": [
+                {
+                    "sku": "PR012GR1DIPONNAFAMZ-812647",
+                    "skuId": "152103",
+                    "count": 0
+                }
+            ],
+            "itemId": "17279",
+            "skuId": "152103",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Himalayan Pink Salt/pink Salt/Rock Salt/Salt- 1kg (100% authentict products)",
+            "nid": "199954976",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "199954976",
+                "scene_pre": "search",
+                "current_price": "94",
+                "x_sku_ids": "1147131609",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "199954976"
+            },
+            "productUrl": "//www.daraz.com.bd/products/himalayan-pink-saltpink-saltrock-saltsalt-1kg-100-authentict-products-i199954976-s1147131609.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ed7afbf5a32a744dc0e3a9f18de9be32.jpg",
+            "originalPrice": "220.00",
+            "originalPriceShow": "৳ 220",
+            "price": "94",
+            "promotionId": "null",
+            "priceShow": "৳ 94",
+            "discount": "-57%",
+            "ratingScore": "4.60294",
+            "review": "68",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "199954976_BD-1147131609",
+            "sku": "199954976_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700506426060",
+            "mainSellerId": "",
+            "sellerName": "Sk GroWth shop",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ed7afbf5a32a744dc0e3a9f18de9be32.jpg",
+                    "productUrl": "/products/himalayan-pink-saltpink-saltrock-saltsalt-1kg-100-authentict-products-i199954976-s1147131609.html",
+                    "sku": "199954976_BD",
+                    "skuId": "1147131609"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002425
+            ],
+            "clickTrace": "query:;nid:199954976;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:199954976_BD;price:94;client:desktop;supplier_id:700506426060;asc_category_id:10002425;item_id:199954976;sku_id:1147131609;shop_id:73871",
+            "addToCartSkus": [
+                {
+                    "sku": "199954976_BD-1147131609",
+                    "skuId": "1147131609",
+                    "count": 0
+                }
+            ],
+            "itemId": "199954976",
+            "skuId": "1147131609",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Radhuni Radhuni Coriander Powder - 200gm",
+            "nid": "404984",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "26409",
+                "scene_pre": "search",
+                "current_price": "54.00",
+                "x_sku_ids": "227408",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "26409"
+            },
+            "productUrl": "//www.daraz.com.bd/products/radhuni-radhuni-coriander-powder-200gm-i26409-s227408.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/40beb48d567485258226972fb943a529.jpg",
+            "originalPrice": "63.00",
+            "originalPriceShow": "৳ 63",
+            "price": "54.00",
+            "promotionId": "null",
+            "priceShow": "৳ 54",
+            "discount": "-14%",
+            "ratingScore": "4.83821",
+            "review": "649",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "RA015GR3SHAANNAFAMZ-601066",
+            "sku": "RA015GR3SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Premium Quality",
+                "Product of Bangladesh",
+                "Brand: Radhuni",
+                "Size: 200gm",
+                "Coriander/Dhania Powder ",
+                "Improves taste, aroma of food",
+                "Mild, sweet, pleasant flavor",
+                "Very healthy",
+                "Anti-inflammatory properties, may help reduce symptoms of arthritis",
+                "Aids in digestion",
+                "Reduces gas, prevents nausea",
+                "Lowers blood sugar",
+                "Lowers bad cholesterol, increases good cholesterol",
+                "Good source of iron, magnesium,fiber",
+                "Contains phytonutrients, falconoid"
+            ],
+            "brandId": "154981",
+            "brandName": "Radhuni",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/40beb48d567485258226972fb943a529.jpg",
+                    "productUrl": "/products/radhuni-radhuni-coriander-powder-200gm-i26409-s227408.html",
+                    "sku": "RA015GR3SHAANNAFAMZ",
+                    "skuId": "227408"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002427
+            ],
+            "clickTrace": "query:;nid:404984;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:RA015GR3SHAANNAFAMZ;price:54.00;client:desktop;supplier_id:1000000;asc_category_id:10002427;item_id:26409;sku_id:227408;shop_id:7555",
+            "addToCartSkus": [
+                {
+                    "sku": "RA015GR3SHAANNAFAMZ-601066",
+                    "skuId": "227408",
+                    "count": 0
+                }
+            ],
+            "itemId": "26409",
+            "skuId": "227408",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Radhuni Biriany Masala - 40gm",
+            "nid": "131644892",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "131644892",
+                "scene_pre": "search",
+                "current_price": "48",
+                "x_sku_ids": "1052074481",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "131644892"
+            },
+            "productUrl": "//www.daraz.com.bd/products/radhuni-biriany-masala-40gm-i131644892-s1052074481.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b6a5b013d884a6cf51c865d2107a56f6.jpg",
+            "originalPrice": "55.00",
+            "originalPriceShow": "৳ 55",
+            "price": "48",
+            "promotionId": "null",
+            "priceShow": "৳ 48",
+            "discount": "-13%",
+            "ratingScore": "4.88608",
+            "review": "474",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "131644892_BD-1052074481",
+            "sku": "131644892_BD",
+            "skus": [],
+            "description": [
+                "Product type: Biriany Masala",
+                "Brand:Radhuni",
+                "Capacity:40gm",
+                "Product of Bangladesh"
+            ],
+            "brandId": "154981",
+            "brandName": "Radhuni",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b6a5b013d884a6cf51c865d2107a56f6.jpg",
+                    "productUrl": "/products/radhuni-biriany-masala-40gm-i131644892-s1052074481.html",
+                    "sku": "131644892_BD",
+                    "skuId": "1052074481"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002427
+            ],
+            "clickTrace": "query:;nid:131644892;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:131644892_BD;price:48;client:desktop;supplier_id:1000000;asc_category_id:10002427;item_id:131644892;sku_id:1052074481;shop_id:7555",
+            "addToCartSkus": [
+                {
+                    "sku": "131644892_BD-1052074481",
+                    "skuId": "1052074481",
+                    "count": 0
+                }
+            ],
+            "itemId": "131644892",
+            "skuId": "1052074481",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Fresh Premium Salt - 1kg",
+            "nid": "430365",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "26639",
+                "scene_pre": "search",
+                "current_price": "32.00",
+                "x_sku_ids": "227877",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "26639"
+            },
+            "productUrl": "//www.daraz.com.bd/products/fresh-premium-salt-1kg-i26639-s227877.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a19812795d2bc3b0ed60bc4c4f330cb5.jpg",
+            "originalPrice": "35.00",
+            "originalPriceShow": "৳ 35",
+            "price": "32.00",
+            "promotionId": "null",
+            "priceShow": "৳ 32",
+            "discount": "-9%",
+            "ratingScore": "4.78824",
+            "review": "1020",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "FR023GR0HIMELNAFAMZ-639178",
+            "sku": "FR023GR0HIMELNAFAMZ",
+            "skus": [],
+            "description": [
+                "Product Type: Salt",
+                "Brand: Fresh",
+                "Net Weight: 1kg",
+                "Premium Quality Salt",
+                "Air Tight Container for Freshness",
+                "Produced Using Latest Technology",
+                "Ensures Natural Balance of Calcium and Magnesium"
+            ],
+            "brandId": "14647",
+            "brandName": "Fresh",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a19812795d2bc3b0ed60bc4c4f330cb5.jpg",
+                    "productUrl": "/products/fresh-premium-salt-1kg-i26639-s227877.html",
+                    "sku": "FR023GR0HIMELNAFAMZ",
+                    "skuId": "227877"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002425
+            ],
+            "clickTrace": "query:;nid:430365;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:FR023GR0HIMELNAFAMZ;price:32.00;client:desktop;supplier_id:1000000;asc_category_id:10002425;item_id:26639;sku_id:227877;shop_id:25523",
+            "addToCartSkus": [
+                {
+                    "sku": "FR023GR0HIMELNAFAMZ-639178",
+                    "skuId": "227877",
+                    "count": 0
+                }
+            ],
+            "itemId": "26639",
+            "skuId": "227877",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Beauty Fruit Detox Plum (Made in Japan)",
+            "nid": "234474708",
+            "icons": [],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "234474708",
+                "scene_pre": "search",
+                "current_price": "375.00",
+                "x_sku_ids": "1177316710",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "234474708"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i234474708-s1177316710.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/7bf31c77845b0c1707e743906b97320c.jpg",
+            "originalPrice": "750.00",
+            "originalPriceShow": "৳ 750",
+            "price": "375.00",
+            "promotionId": "null",
+            "priceShow": "৳ 375",
+            "discount": "-50%",
+            "ratingScore": "5",
+            "review": "5",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "234474708_BD-1177316710",
+            "sku": "234474708_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700512024381",
+            "mainSellerId": "",
+            "sellerName": "smart express 24",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/7bf31c77845b0c1707e743906b97320c.jpg",
+                    "productUrl": "/products/-i234474708-s1177316710.html",
+                    "sku": "234474708_BD",
+                    "skuId": "1177316710"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002427
+            ],
+            "clickTrace": "query:;nid:234474708;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:234474708_BD;price:375.00;client:desktop;supplier_id:700512024381;asc_category_id:10002427;item_id:234474708;sku_id:1177316710;shop_id:239205",
+            "addToCartSkus": [
+                {
+                    "sku": "234474708_BD-1177316710",
+                    "skuId": "1177316710",
+                    "count": 0
+                }
+            ],
+            "itemId": "234474708",
+            "skuId": "1177316710",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Radhuni Chili Powder -100gm",
+            "nid": "404981",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "26406",
+                "scene_pre": "search",
+                "current_price": "46.00",
+                "x_sku_ids": "227402",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "26406"
+            },
+            "productUrl": "//www.daraz.com.bd/products/radhuni-chili-powder-100gm-i26406-s227402.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/8ab8e5e1d5a188f2a2f542e906dbf6fc.jpg",
+            "originalPrice": "53.00",
+            "originalPriceShow": "৳ 53",
+            "price": "46.00",
+            "promotionId": "null",
+            "priceShow": "৳ 46",
+            "discount": "-13%",
+            "ratingScore": "4.88",
+            "review": "175",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "RA012GR3SHAANNAFAMZ-601063",
+            "sku": "RA012GR3SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Premium Quality",
+                "Product of Bangladesh",
+                "Brand: Radhuni",
+                "Size: 100gm",
+                "Flavor: Chili",
+                "Made from freshly dried chili peppers",
+                "Spices up any dish",
+                "Perfect for meat, poultry, vegetable dishes",
+                "Has excellent antiseptic, antibacterial properties"
+            ],
+            "brandId": "154981",
+            "brandName": "Radhuni",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/8ab8e5e1d5a188f2a2f542e906dbf6fc.jpg",
+                    "productUrl": "/products/radhuni-chili-powder-100gm-i26406-s227402.html",
+                    "sku": "RA012GR3SHAANNAFAMZ",
+                    "skuId": "227402"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002427
+            ],
+            "clickTrace": "query:;nid:404981;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:RA012GR3SHAANNAFAMZ;price:46.00;client:desktop;supplier_id:1000000;asc_category_id:10002427;item_id:26406;sku_id:227402;shop_id:7555",
+            "addToCartSkus": [
+                {
+                    "sku": "RA012GR3SHAANNAFAMZ-601063",
+                    "skuId": "227402",
+                    "count": 0
+                }
+            ],
+            "itemId": "26406",
+            "skuId": "227402",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "3 Pack Combo Muri Masala/মুড়ির মসলা-60gm",
+            "nid": "186097760",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "186097760",
+                "scene_pre": "search",
+                "current_price": "97",
+                "x_sku_ids": "1132316327",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "186097760"
+            },
+            "productUrl": "//www.daraz.com.bd/products/3-pack-combo-muri-masala-60gm-i186097760-s1132316327.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/ff03f722ed3e21b901df5e1358283616.jpg",
+            "originalPrice": "130.00",
+            "originalPriceShow": "৳ 130",
+            "price": "97",
+            "promotionId": "null",
+            "priceShow": "৳ 97",
+            "discount": "-25%",
+            "ratingScore": "4.61538",
+            "review": "156",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "186097760_BD-1132316327",
+            "sku": "186097760_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123517490",
+            "brandName": "Sunlight Food and Chemical Industries",
+            "sellerId": "700507527042",
+            "mainSellerId": "",
+            "sellerName": "Sunlight Food and Chemical Industries",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/ff03f722ed3e21b901df5e1358283616.jpg",
+                    "productUrl": "/products/3-pack-combo-muri-masala-60gm-i186097760-s1132316327.html",
+                    "sku": "186097760_BD",
+                    "skuId": "1132316327"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002427
+            ],
+            "clickTrace": "query:;nid:186097760;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:186097760_BD;price:97;client:desktop;supplier_id:700507527042;asc_category_id:10002427;item_id:186097760;sku_id:1132316327;shop_id:92111",
+            "addToCartSkus": [
+                {
+                    "sku": "186097760_BD-1132316327",
+                    "skuId": "1132316327",
+                    "count": 0
+                }
+            ],
+            "itemId": "186097760",
+            "skuId": "1132316327",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Kishwan Halim Mix 200gm (Buy 3 get 1 FREE)",
+            "nid": "181768519",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "181768519",
+                "scene_pre": "search",
+                "current_price": "142",
+                "x_sku_ids": "1123530956",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "181768519"
+            },
+            "productUrl": "//www.daraz.com.bd/products/kishwan-halim-mix-200gm-buy-3-get-1-free-i181768519-s1123530956.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2e4c021f4b98cc53b36d427e4b1749a2.jpg",
+            "originalPrice": "150.00",
+            "originalPriceShow": "৳ 150",
+            "price": "142",
+            "promotionId": "null",
+            "priceShow": "৳ 142",
+            "discount": "-5%",
+            "ratingScore": "4.87931",
+            "review": "116",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "181768519_BD-1123530956",
+            "sku": "181768519_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "124030699",
+            "brandName": "Kishwan",
+            "sellerId": "700506861067",
+            "mainSellerId": "",
+            "sellerName": "Kishwan Snacks",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2e4c021f4b98cc53b36d427e4b1749a2.jpg",
+                    "productUrl": "/products/kishwan-halim-mix-200gm-buy-3-get-1-free-i181768519-s1123530956.html",
+                    "sku": "181768519_BD",
+                    "skuId": "1123530956"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002427
+            ],
+            "clickTrace": "query:;nid:181768519;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:181768519_BD;price:142;client:desktop;supplier_id:700506861067;asc_category_id:10002427;item_id:181768519;sku_id:1123530956;shop_id:85375",
+            "addToCartSkus": [
+                {
+                    "sku": "181768519_BD-1123530956",
+                    "skuId": "1123530956",
+                    "count": 0
+                }
+            ],
+            "itemId": "181768519",
+            "skuId": "1123530956",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Radhuni Kala Bhuna- 80gm",
+            "nid": "101094344",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101094344",
+                "scene_pre": "search",
+                "current_price": "57.00",
+                "x_sku_ids": "1015082297",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "101094344"
+            },
+            "productUrl": "//www.daraz.com.bd/products/radhuni-kala-bhuna-80gm-i101094344-s1015082297.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bfa442cd95ef84169129b33617ca0031.jpg",
+            "originalPrice": "70.00",
+            "originalPriceShow": "৳ 70",
+            "price": "57.00",
+            "promotionId": "null",
+            "priceShow": "৳ 57",
+            "discount": "-19%",
+            "ratingScore": "4.83923",
+            "review": "311",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101094344_BD-1015082297",
+            "sku": "101094344_BD",
+            "skus": [],
+            "description": [
+                "Premium Quality",
+                "Product of Bangladesh"
+            ],
+            "brandId": "154981",
+            "brandName": "Radhuni",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bfa442cd95ef84169129b33617ca0031.jpg",
+                    "productUrl": "/products/radhuni-kala-bhuna-80gm-i101094344-s1015082297.html",
+                    "sku": "101094344_BD",
+                    "skuId": "1015082297"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002427
+            ],
+            "clickTrace": "query:;nid:101094344;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:101094344_BD;price:57.00;client:desktop;supplier_id:1000000;asc_category_id:10002427;item_id:101094344;sku_id:1015082297;shop_id:7555",
+            "addToCartSkus": [
+                {
+                    "sku": "101094344_BD-1015082297",
+                    "skuId": "1015082297",
+                    "count": 0
+                }
+            ],
+            "itemId": "101094344",
+            "skuId": "1015082297",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pran Turmeric Powder – 500gm",
+            "nid": "369900",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "26250",
+                "scene_pre": "search",
+                "current_price": "162",
+                "x_sku_ids": "227085",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "26250"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pran-turmeric-powder-500gm-i26250-s227085.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/facdcd38ba2554ad2175940512f6569d.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "162",
+            "promotionId": "null",
+            "priceShow": "৳ 162",
+            "discount": "-19%",
+            "ratingScore": "4.87143",
+            "review": "70",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "PR028GR2MASUMNAFAMZ-556443",
+            "sku": "PR028GR2MASUMNAFAMZ",
+            "skus": [],
+            "description": [
+                "Product Type: Spices",
+                "Capacity: 500gm",
+                "Brand: Pran",
+                "Good Quality Product"
+            ],
+            "brandId": "144838",
+            "brandName": "Pran",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/facdcd38ba2554ad2175940512f6569d.jpg",
+                    "productUrl": "/products/pran-turmeric-powder-500gm-i26250-s227085.html",
+                    "sku": "PR028GR2MASUMNAFAMZ",
+                    "skuId": "227085"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002427
+            ],
+            "clickTrace": "query:;nid:369900;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:PR028GR2MASUMNAFAMZ;price:162;client:desktop;supplier_id:1000000;asc_category_id:10002427;item_id:26250;sku_id:227085;shop_id:7483",
+            "addToCartSkus": [
+                {
+                    "sku": "PR028GR2MASUMNAFAMZ-556443",
+                    "skuId": "227085",
+                    "count": 0
+                }
+            ],
+            "itemId": "26250",
+            "skuId": "227085",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Beauty Fruit Detox Plum for body sliming",
+            "nid": "191520000",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "191520000",
+                "scene_pre": "search",
+                "current_price": "410",
+                "x_sku_ids": "1138500901",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "191520000"
+            },
+            "productUrl": "//www.daraz.com.bd/products/beauty-fruit-detox-plum-for-body-sliming-i191520000-s1138500901.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/63ff87ffe64775c13c12de4905c70fdb.jpg",
+            "originalPrice": "1150.00",
+            "originalPriceShow": "৳ 1,150",
+            "price": "410",
+            "promotionId": "null",
+            "priceShow": "৳ 410",
+            "discount": "-64%",
+            "ratingScore": "4.52632",
+            "review": "114",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "191520000_BD-1138500901",
+            "sku": "191520000_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508172063",
+            "mainSellerId": "",
+            "sellerName": "Fair Sports and Fitness",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/63ff87ffe64775c13c12de4905c70fdb.jpg",
+                    "productUrl": "/products/beauty-fruit-detox-plum-for-body-sliming-i191520000-s1138500901.html",
+                    "sku": "191520000_BD",
+                    "skuId": "1138500901"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002427
+            ],
+            "clickTrace": "query:;nid:191520000;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:191520000_BD;price:410;client:desktop;supplier_id:700508172063;asc_category_id:10002427;item_id:191520000;sku_id:1138500901;shop_id:131514",
+            "addToCartSkus": [
+                {
+                    "sku": "191520000_BD-1138500901",
+                    "skuId": "1138500901",
+                    "count": 0
+                }
+            ],
+            "itemId": "191520000",
+            "skuId": "1138500901",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Apple Cider Vinegar with The Mother (Raw-Unfiltered) - 473ml (USA)",
+            "nid": "185676670",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "185676670",
+                "scene_pre": "search",
+                "current_price": "385",
+                "x_sku_ids": "1131472285",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "185676670"
+            },
+            "productUrl": "//www.daraz.com.bd/products/apple-cider-vinegar-with-the-mother-raw-unfiltered-473ml-i185676670-s1131472285.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/0c8ab99bd461cfac268cc805677c5e58.jpg",
+            "originalPrice": "950.00",
+            "originalPriceShow": "৳ 950",
+            "price": "385",
+            "promotionId": "null",
+            "priceShow": "৳ 385",
+            "discount": "-59%",
+            "ratingScore": "4.70833",
+            "review": "96",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "185676670_BD-1131472285",
+            "sku": "185676670_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700508262582",
+            "mainSellerId": "",
+            "sellerName": "STS Global Collection",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/0c8ab99bd461cfac268cc805677c5e58.jpg",
+                    "productUrl": "/products/apple-cider-vinegar-with-the-mother-raw-unfiltered-473ml-i185676670-s1131472285.html",
+                    "sku": "185676670_BD",
+                    "skuId": "1131472285"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002429
+            ],
+            "clickTrace": "query:;nid:185676670;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:185676670_BD;price:385;client:desktop;supplier_id:700508262582;asc_category_id:10002429;item_id:185676670;sku_id:1131472285;shop_id:139894",
+            "addToCartSkus": [
+                {
+                    "sku": "185676670_BD-1131472285",
+                    "skuId": "1131472285",
+                    "count": 0
+                }
+            ],
+            "itemId": "185676670",
+            "skuId": "1131472285",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Muskan Salt - 500gm",
+            "nid": "140554843",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "140554843",
+                "scene_pre": "search",
+                "current_price": "17.00",
+                "x_sku_ids": "1064020665",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "140554843"
+            },
+            "productUrl": "//www.daraz.com.bd/products/muskan-salt-500gm-i140554843-s1064020665.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/632edea749b7658dae999dbc9b9ece68.jpg",
+            "originalPrice": "18.00",
+            "originalPriceShow": "৳ 18",
+            "price": "17.00",
+            "promotionId": "null",
+            "priceShow": "৳ 17",
+            "discount": "-6%",
+            "ratingScore": "4.7476",
+            "review": "1561",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "140554843_BD-1064020665",
+            "sku": "140554843_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "194822",
+            "brandName": "Muskan",
+            "sellerId": "700507494058",
+            "mainSellerId": "",
+            "sellerName": "Muskan & Goalini",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/632edea749b7658dae999dbc9b9ece68.jpg",
+                    "productUrl": "/products/muskan-salt-500gm-i140554843-s1064020665.html",
+                    "sku": "140554843_BD",
+                    "skuId": "1064020665"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002425
+            ],
+            "clickTrace": "query:;nid:140554843;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:140554843_BD;price:17.00;client:desktop;supplier_id:700507494058;asc_category_id:10002425;item_id:140554843;sku_id:1064020665;shop_id:92537",
+            "addToCartSkus": [
+                {
+                    "sku": "140554843_BD-1064020665",
+                    "skuId": "1064020665",
+                    "count": 0
+                }
+            ],
+            "itemId": "140554843",
+            "skuId": "1064020665",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Radhuni Panchforan Powder - 50gm",
+            "nid": "405003",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "26428",
+                "scene_pre": "search",
+                "current_price": "19",
+                "x_sku_ids": "227444",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "26428"
+            },
+            "productUrl": "//www.daraz.com.bd/products/radhuni-panchforan-powder-50gm-i26428-s227444.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/91a055d99e3e83a82a8ca4ce8155f4c3.jpg",
+            "originalPrice": "22.00",
+            "originalPriceShow": "৳ 22",
+            "price": "19",
+            "promotionId": "null",
+            "priceShow": "৳ 19",
+            "discount": "-14%",
+            "ratingScore": "4.82857",
+            "review": "140",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "RA034GR3SHAANNAFAMZ-601085",
+            "sku": "RA034GR3SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Premium Quality",
+                "Product of Bangladesh"
+            ],
+            "brandId": "154981",
+            "brandName": "Radhuni",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/91a055d99e3e83a82a8ca4ce8155f4c3.jpg",
+                    "productUrl": "/products/radhuni-panchforan-powder-50gm-i26428-s227444.html",
+                    "sku": "RA034GR3SHAANNAFAMZ",
+                    "skuId": "227444"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002427
+            ],
+            "clickTrace": "query:;nid:405003;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:RA034GR3SHAANNAFAMZ;price:19;client:desktop;supplier_id:1000000;asc_category_id:10002427;item_id:26428;sku_id:227444;shop_id:7555",
+            "addToCartSkus": [
+                {
+                    "sku": "RA034GR3SHAANNAFAMZ-601085",
+                    "skuId": "227444",
+                    "count": 0
+                }
+            ],
+            "itemId": "26428",
+            "skuId": "227444",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "(1kg) Himalayan Natural Pink Salt Rock Salt",
+            "nid": "156786259",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "156786259",
+                "scene_pre": "search",
+                "current_price": "98",
+                "x_sku_ids": "1086588969",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "156786259"
+            },
+            "productUrl": "//www.daraz.com.bd/products/1kg-i156786259-s1086588969.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1fa4c456301e8b89bf1466c693f045a8.jpg",
+            "originalPrice": "225.00",
+            "originalPriceShow": "৳ 225",
+            "price": "98",
+            "promotionId": "null",
+            "priceShow": "৳ 98",
+            "discount": "-56%",
+            "ratingScore": "4.53878",
+            "review": "245",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "156786259_BD-1086588969",
+            "sku": "156786259_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507104001",
+            "mainSellerId": "",
+            "sellerName": "Indo-Bangla 1 To 99 Plus (KHL)",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1fa4c456301e8b89bf1466c693f045a8.jpg",
+                    "productUrl": "/products/1kg-i156786259-s1086588969.html",
+                    "sku": "156786259_BD",
+                    "skuId": "1086588969"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002425
+            ],
+            "clickTrace": "query:;nid:156786259;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:156786259_BD;price:98;client:desktop;supplier_id:700507104001;asc_category_id:10002425;item_id:156786259;sku_id:1086588969;shop_id:88044",
+            "addToCartSkus": [
+                {
+                    "sku": "156786259_BD-1086588969",
+                    "skuId": "1086588969",
+                    "count": 0
+                }
+            ],
+            "itemId": "156786259",
+            "skuId": "1086588969",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "রাঁধুনী ধনিয়া গুঁড়ো-100গ্রাম",
+            "nid": "404986",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "26411",
+                "scene_pre": "search",
+                "current_price": "28.00",
+                "x_sku_ids": "227412",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "26411"
+            },
+            "productUrl": "//www.daraz.com.bd/products/radhuni-coriander-powder-100-g-i26411-s227412.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/45143abcfd4e4cee11782db57b130fa6.jpg",
+            "originalPrice": "33.00",
+            "originalPriceShow": "৳ 33",
+            "price": "28.00",
+            "promotionId": "null",
+            "priceShow": "৳ 28",
+            "discount": "-15%",
+            "ratingScore": "4.86842",
+            "review": "114",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "RA017GR3SHAANNAFAMZ-601068",
+            "sku": "RA017GR3SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Premium Quality",
+                "Product of Bangladesh",
+                "Brand: Radhuni",
+                "Size: 100gm",
+                "Coriander/Dhania Powder ",
+                "Improves taste, aroma of food",
+                "Mild, sweet, pleasant flavor",
+                "Very healthy",
+                "Anti-inflammatory properties, may help reduce symptoms of arthritis",
+                "Aids in digestion",
+                "Reduces gas, prevents nausea",
+                "Lowers blood sugar",
+                "Lowers bad cholesterol, increases good cholesterol",
+                "Good source of iron, magnesium,fiber",
+                "Contains phytonutrients, falconoid"
+            ],
+            "brandId": "154981",
+            "brandName": "Radhuni",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/45143abcfd4e4cee11782db57b130fa6.jpg",
+                    "productUrl": "/products/radhuni-coriander-powder-100-g-i26411-s227412.html",
+                    "sku": "RA017GR3SHAANNAFAMZ",
+                    "skuId": "227412"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002427
+            ],
+            "clickTrace": "query:;nid:404986;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:RA017GR3SHAANNAFAMZ;price:28.00;client:desktop;supplier_id:1000000;asc_category_id:10002427;item_id:26411;sku_id:227412;shop_id:7555",
+            "addToCartSkus": [
+                {
+                    "sku": "RA017GR3SHAANNAFAMZ-601068",
+                    "skuId": "227412",
+                    "count": 0
+                }
+            ],
+            "itemId": "26411",
+            "skuId": "227412",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Radhuni Kheer Mix- 150gm",
+            "nid": "101084374",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101084374",
+                "scene_pre": "search",
+                "current_price": "34",
+                "x_sku_ids": "1015072395",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "101084374"
+            },
+            "productUrl": "//www.daraz.com.bd/products/radhuni-kheer-mix-150gm-i101084374-s1015072395.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1fe5cdd5f4b1c2723c008534af0748b7.jpg",
+            "originalPrice": "45.00",
+            "originalPriceShow": "৳ 45",
+            "price": "34",
+            "promotionId": "null",
+            "priceShow": "৳ 34",
+            "discount": "-24%",
+            "ratingScore": "4.83901",
+            "review": "323",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101084374_BD-1015072395",
+            "sku": "101084374_BD",
+            "skus": [],
+            "description": [
+                "Premium Quality",
+                "Product of Bangladesh"
+            ],
+            "brandId": "154981",
+            "brandName": "Radhuni",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1fe5cdd5f4b1c2723c008534af0748b7.jpg",
+                    "productUrl": "/products/radhuni-kheer-mix-150gm-i101084374-s1015072395.html",
+                    "sku": "101084374_BD",
+                    "skuId": "1015072395"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002427
+            ],
+            "clickTrace": "query:;nid:101084374;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:101084374_BD;price:34;client:desktop;supplier_id:1000000;asc_category_id:10002427;item_id:101084374;sku_id:1015072395;shop_id:7555",
+            "addToCartSkus": [
+                {
+                    "sku": "101084374_BD-1015072395",
+                    "skuId": "1015072395",
+                    "count": 0
+                }
+            ],
+            "itemId": "101084374",
+            "skuId": "1015072395",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Radhuni Radhuni Chilli Powder - 50gm",
+            "nid": "404977",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "26403",
+                "scene_pre": "search",
+                "current_price": "25.00",
+                "x_sku_ids": "227396",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "26403"
+            },
+            "productUrl": "//www.daraz.com.bd/products/radhuni-radhuni-chilli-powder-50gm-i26403-s227396.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/88cf556a81e428e4181db4a9e928521e.jpg",
+            "price": "25.00",
+            "promotionId": "null",
+            "priceShow": "৳ 25",
+            "ratingScore": "4.84783",
+            "review": "46",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "RA009GR3SHAANNAFAMZ-601059",
+            "sku": "RA009GR3SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Premium Quality",
+                "Product of Bangladesh",
+                "Brand: Radhuni",
+                "Size: 50gm",
+                "Flavor: Chili",
+                "Made from freshly dried chili peppers",
+                "Spices up any dish",
+                "Perfect for meat, poultry, vegetable dishes",
+                "Has excellent antiseptic, antibacterial properties"
+            ],
+            "brandId": "154981",
+            "brandName": "Radhuni",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/88cf556a81e428e4181db4a9e928521e.jpg",
+                    "productUrl": "/products/radhuni-radhuni-chilli-powder-50gm-i26403-s227396.html",
+                    "sku": "RA009GR3SHAANNAFAMZ",
+                    "skuId": "227396"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002427
+            ],
+            "clickTrace": "query:;nid:404977;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:RA009GR3SHAANNAFAMZ;price:25.00;client:desktop;supplier_id:1000000;asc_category_id:10002427;item_id:26403;sku_id:227396;shop_id:7555",
+            "addToCartSkus": [
+                {
+                    "sku": "RA009GR3SHAANNAFAMZ-601059",
+                    "skuId": "227396",
+                    "count": 0
+                }
+            ],
+            "itemId": "26403",
+            "skuId": "227396",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Radhuni Beef Masala - 25gm",
+            "nid": "405013",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "26438",
+                "scene_pre": "search",
+                "current_price": "16.00",
+                "x_sku_ids": "227464",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "26438"
+            },
+            "productUrl": "//www.daraz.com.bd/products/radhuni-beef-masala-25gm-i26438-s227464.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/bd955fcbb4e21b3a9df252cfde15fb7e.jpg",
+            "originalPrice": "18.00",
+            "originalPriceShow": "৳ 18",
+            "price": "16.00",
+            "promotionId": "null",
+            "priceShow": "৳ 16",
+            "discount": "-11%",
+            "ratingScore": "4.92",
+            "review": "100",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "RA044GR3SHAANNAFAMZ-601095",
+            "sku": "RA044GR3SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Premium Quality",
+                "Product of Bangladesh"
+            ],
+            "brandId": "154981",
+            "brandName": "Radhuni",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/bd955fcbb4e21b3a9df252cfde15fb7e.jpg",
+                    "productUrl": "/products/radhuni-beef-masala-25gm-i26438-s227464.html",
+                    "sku": "RA044GR3SHAANNAFAMZ",
+                    "skuId": "227464"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002427
+            ],
+            "clickTrace": "query:;nid:405013;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:RA044GR3SHAANNAFAMZ;price:16.00;client:desktop;supplier_id:1000000;asc_category_id:10002427;item_id:26438;sku_id:227464;shop_id:7555",
+            "addToCartSkus": [
+                {
+                    "sku": "RA044GR3SHAANNAFAMZ-601095",
+                    "skuId": "227464",
+                    "count": 0
+                }
+            ],
+            "itemId": "26438",
+            "skuId": "227464",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "NESTLE MAGGI Fusian Fried Rice Seasoning Mix - 6g",
+            "nid": "151500656",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "151500656",
+                "scene_pre": "search",
+                "current_price": "9.00",
+                "x_sku_ids": "1078662459",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "151500656"
+            },
+            "productUrl": "//www.daraz.com.bd/products/nestle-maggi-fusian-fried-rice-seasoning-mix-6g-i151500656-s1078662459.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/65841e889d1d574e6da5ede88f41378e.jpg",
+            "originalPrice": "10.00",
+            "originalPriceShow": "৳ 10",
+            "price": "9.00",
+            "promotionId": "null",
+            "priceShow": "৳ 9",
+            "discount": "-10%",
+            "ratingScore": "4.64838",
+            "review": "802",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "151500656_BD-1078662459",
+            "sku": "151500656_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Seasoning Mix",
+                "Brand: Maggi",
+                "Capacity: 6g",
+                "Flavor: Fusian Fried Rice",
+                "Easy to enjoy anytime"
+            ],
+            "brandId": "69981",
+            "brandName": "Maggi",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/65841e889d1d574e6da5ede88f41378e.jpg",
+                    "productUrl": "/products/nestle-maggi-fusian-fried-rice-seasoning-mix-6g-i151500656-s1078662459.html",
+                    "sku": "151500656_BD",
+                    "skuId": "1078662459"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002427
+            ],
+            "clickTrace": "query:;nid:151500656;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:151500656_BD;price:9.00;client:desktop;supplier_id:1000000;asc_category_id:10002427;item_id:151500656;sku_id:1078662459;shop_id:5978",
+            "addToCartSkus": [
+                {
+                    "sku": "151500656_BD-1078662459",
+                    "skuId": "1078662459",
+                    "count": 0
+                }
+            ],
+            "itemId": "151500656",
+            "skuId": "1078662459",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Sajeeb Hot Tomato Sauce - 340gm",
+            "nid": "569365",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "17642",
+                "scene_pre": "search",
+                "current_price": "70",
+                "x_sku_ids": "152814",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "17642"
+            },
+            "productUrl": "//www.daraz.com.bd/products/sajeeb-hot-tomato-sauce-340gm-i17642-s152814.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/5985b331817c5a39acf9ac6115a94f05.jpg",
+            "originalPrice": "95.00",
+            "originalPriceShow": "৳ 95",
+            "price": "70",
+            "promotionId": "null",
+            "priceShow": "৳ 70",
+            "discount": "-26%",
+            "ratingScore": "4.76119",
+            "review": "67",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "SA125GR0ALIULNAFMAZ-833129",
+            "sku": "SA125GR0ALIULNAFMAZ",
+            "skus": [],
+            "description": [
+                "Brand: Sajeeb",
+                "Type: Hot Tomato Sauce",
+                "Package: Bottle",
+                "Weight: 340gm",
+                "The taste of it is absolutely mind blowing",
+                "Sajeeb Hot Tomato Sauce is completely free from saturated fat and cholestero"
+            ],
+            "brandId": "155724",
+            "brandName": "Sajeeb",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/5985b331817c5a39acf9ac6115a94f05.jpg",
+                    "productUrl": "/products/sajeeb-hot-tomato-sauce-340gm-i17642-s152814.html",
+                    "sku": "SA125GR0ALIULNAFMAZ",
+                    "skuId": "152814"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002426
+            ],
+            "clickTrace": "query:;nid:569365;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:SA125GR0ALIULNAFMAZ;price:70;client:desktop;supplier_id:1000000;asc_category_id:10002426;item_id:17642;sku_id:152814;shop_id:9485",
+            "addToCartSkus": [
+                {
+                    "sku": "SA125GR0ALIULNAFMAZ-833129",
+                    "skuId": "152814",
+                    "count": 0
+                }
+            ],
+            "itemId": "17642",
+            "skuId": "152814",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Pran Fish Masala - 100gm",
+            "nid": "764643",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "38252",
+                "scene_pre": "search",
+                "current_price": "45.00",
+                "x_sku_ids": "343043",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "38252"
+            },
+            "productUrl": "//www.daraz.com.bd/products/pran-fish-masala-100gm-i38252-s343043.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/423f9c5c99be2d7f31fbc4a94b7d8c3c.jpg",
+            "originalPrice": "58.00",
+            "originalPriceShow": "৳ 58",
+            "price": "45.00",
+            "promotionId": "null",
+            "priceShow": "৳ 45",
+            "discount": "-22%",
+            "ratingScore": "4.87952",
+            "review": "83",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "PR237GRAFNANNAFAMZ-1088714",
+            "sku": "PR237GRAFNANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Product type: Fish Masala",
+                "Capacity: 100gm",
+                "Brand: Pran",
+                "Great snack for any occasion"
+            ],
+            "brandId": "144838",
+            "brandName": "Pran",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/423f9c5c99be2d7f31fbc4a94b7d8c3c.jpg",
+                    "productUrl": "/products/pran-fish-masala-100gm-i38252-s343043.html",
+                    "sku": "PR237GRAFNANNAFAMZ",
+                    "skuId": "343043"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002427
+            ],
+            "clickTrace": "query:;nid:764643;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:PR237GRAFNANNAFAMZ;price:45.00;client:desktop;supplier_id:1000000;asc_category_id:10002427;item_id:38252;sku_id:343043;shop_id:7483",
+            "addToCartSkus": [
+                {
+                    "sku": "PR237GRAFNANNAFAMZ-1088714",
+                    "skuId": "343043",
+                    "count": 0
+                }
+            ],
+            "itemId": "38252",
+            "skuId": "343043",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Radhuni Kasundi - 285 ml",
+            "nid": "100126390",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "100126390",
+                "scene_pre": "search",
+                "current_price": "43",
+                "x_sku_ids": "1014010308",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "100126390"
+            },
+            "productUrl": "//www.daraz.com.bd/products/radhuni-kasundi-285-ml-i100126390-s1014010308.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/2bca03e1e81d8b0d383daf0f6338af5a.jpg",
+            "originalPrice": "50.00",
+            "originalPriceShow": "৳ 50",
+            "price": "43",
+            "promotionId": "null",
+            "priceShow": "৳ 43",
+            "discount": "-14%",
+            "ratingScore": "4.85787",
+            "review": "197",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "100126390_BD-1014010308",
+            "sku": "100126390_BD",
+            "skus": [],
+            "description": [
+                "Product Type: Kasundhi",
+                "Brand: Radhuni",
+                "Weight: 280ml",
+                "It is used as a condiment and taste enhancer"
+            ],
+            "brandId": "154981",
+            "brandName": "Radhuni",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/2bca03e1e81d8b0d383daf0f6338af5a.jpg",
+                    "productUrl": "/products/radhuni-kasundi-285-ml-i100126390-s1014010308.html",
+                    "sku": "100126390_BD",
+                    "skuId": "1014010308"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002427
+            ],
+            "clickTrace": "query:;nid:100126390;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:100126390_BD;price:43;client:desktop;supplier_id:1000000;asc_category_id:10002427;item_id:100126390;sku_id:1014010308;shop_id:7555",
+            "addToCartSkus": [
+                {
+                    "sku": "100126390_BD-1014010308",
+                    "skuId": "1014010308",
+                    "count": 0
+                }
+            ],
+            "itemId": "100126390",
+            "skuId": "1014010308",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Radhuni Mango Flavored Falooda Mix - 250gm (10.TK OFF)",
+            "nid": "405025",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "26450",
+                "scene_pre": "search",
+                "current_price": "55",
+                "x_sku_ids": "227488",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "26450"
+            },
+            "productUrl": "//www.daraz.com.bd/products/radhuni-mango-flavored-falooda-mix-250gm-10tk-off-i26450-s227488.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/230513a9c1c0f1d76f0792dc44d11896.jpg",
+            "originalPrice": "75.00",
+            "originalPriceShow": "৳ 75",
+            "price": "55",
+            "promotionId": "null",
+            "priceShow": "৳ 55",
+            "discount": "-27%",
+            "ratingScore": "4.86747",
+            "review": "166",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "RA056GR3SHAANNAFAMZ-601107",
+            "sku": "RA056GR3SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Premium Quality",
+                "Product of Bangladesh"
+            ],
+            "brandId": "154981",
+            "brandName": "Radhuni",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/230513a9c1c0f1d76f0792dc44d11896.jpg",
+                    "productUrl": "/products/radhuni-mango-flavored-falooda-mix-250gm-10tk-off-i26450-s227488.html",
+                    "sku": "RA056GR3SHAANNAFAMZ",
+                    "skuId": "227488"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002427
+            ],
+            "clickTrace": "query:;nid:405025;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:RA056GR3SHAANNAFAMZ;price:55;client:desktop;supplier_id:1000000;asc_category_id:10002427;item_id:26450;sku_id:227488;shop_id:7555",
+            "addToCartSkus": [
+                {
+                    "sku": "RA056GR3SHAANNAFAMZ-601107",
+                    "skuId": "227488",
+                    "count": 0
+                }
+            ],
+            "itemId": "26450",
+            "skuId": "227488",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Kishwan Kashundi 300ml",
+            "nid": "221961064",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "221961064",
+                "scene_pre": "search",
+                "current_price": "38",
+                "x_sku_ids": "1168530253",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "221961064"
+            },
+            "productUrl": "//www.daraz.com.bd/products/kishwan-kashundi-300ml-i221961064-s1168530253.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/44ede622a6f9d26014eb5d7425e0485b.jpg",
+            "originalPrice": "45.00",
+            "originalPriceShow": "৳ 45",
+            "price": "38",
+            "promotionId": "null",
+            "priceShow": "৳ 38",
+            "discount": "-16%",
+            "ratingScore": "4.66667",
+            "review": "27",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "221961064_BD-1168530253",
+            "sku": "221961064_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123414240",
+            "brandName": "Kishwan Snacks",
+            "sellerId": "700506861067",
+            "mainSellerId": "",
+            "sellerName": "Kishwan Snacks",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/44ede622a6f9d26014eb5d7425e0485b.jpg",
+                    "productUrl": "/products/kishwan-kashundi-300ml-i221961064-s1168530253.html",
+                    "sku": "221961064_BD",
+                    "skuId": "1168530253"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002419
+            ],
+            "clickTrace": "query:;nid:221961064;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:221961064_BD;price:38;client:desktop;supplier_id:700506861067;asc_category_id:10002419;item_id:221961064;sku_id:1168530253;shop_id:85375",
+            "addToCartSkus": [
+                {
+                    "sku": "221961064_BD-1168530253",
+                    "skuId": "1168530253",
+                    "count": 0
+                }
+            ],
+            "itemId": "221961064",
+            "skuId": "1168530253",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Radhuni Haleem Mix - 200gm",
+            "nid": "405021",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "26446",
+                "scene_pre": "search",
+                "current_price": "47.00",
+                "x_sku_ids": "227480",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "26446"
+            },
+            "productUrl": "//www.daraz.com.bd/products/radhuni-haleem-mix-200gm-i26446-s227480.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/4eeca3be6efcda24b0a16474753e5d5b.jpg",
+            "originalPrice": "55.00",
+            "originalPriceShow": "৳ 55",
+            "price": "47.00",
+            "promotionId": "null",
+            "priceShow": "৳ 47",
+            "discount": "-15%",
+            "ratingScore": "4.84869",
+            "review": "879",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "RA052GR3SHAANNAFAMZ-601103",
+            "sku": "RA052GR3SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Premium Quality",
+                "Product of Bangladesh"
+            ],
+            "brandId": "154981",
+            "brandName": "Radhuni",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/4eeca3be6efcda24b0a16474753e5d5b.jpg",
+                    "productUrl": "/products/radhuni-haleem-mix-200gm-i26446-s227480.html",
+                    "sku": "RA052GR3SHAANNAFAMZ",
+                    "skuId": "227480"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002430
+            ],
+            "clickTrace": "query:;nid:405021;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:RA052GR3SHAANNAFAMZ;price:47.00;client:desktop;supplier_id:1000000;asc_category_id:10002430;item_id:26446;sku_id:227480;shop_id:7555",
+            "addToCartSkus": [
+                {
+                    "sku": "RA052GR3SHAANNAFAMZ-601103",
+                    "skuId": "227480",
+                    "count": 0
+                }
+            ],
+            "itemId": "26446",
+            "skuId": "227480",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Radhuni Hyderabdi Birayani Masala- 45gm (8.TK OFF)",
+            "nid": "101084372",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "101084372",
+                "scene_pre": "search",
+                "current_price": "65.00",
+                "x_sku_ids": "1015076310",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "101084372"
+            },
+            "productUrl": "//www.daraz.com.bd/products/radhuni-hyderabdi-birayani-masala-45gm-8tk-off-i101084372-s1015076310.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/101a16ca657a97ccff9b5a92bf063eb8.jpg",
+            "originalPrice": "80.00",
+            "originalPriceShow": "৳ 80",
+            "price": "65.00",
+            "promotionId": "null",
+            "priceShow": "৳ 65",
+            "discount": "-19%",
+            "ratingScore": "4.88889",
+            "review": "261",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "101084372_BD-1015076310",
+            "sku": "101084372_BD",
+            "skus": [],
+            "description": [
+                "Premium Quality",
+                "Product of Bangladesh"
+            ],
+            "brandId": "154981",
+            "brandName": "Radhuni",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/101a16ca657a97ccff9b5a92bf063eb8.jpg",
+                    "productUrl": "/products/radhuni-hyderabdi-birayani-masala-45gm-8tk-off-i101084372-s1015076310.html",
+                    "sku": "101084372_BD",
+                    "skuId": "1015076310"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002430
+            ],
+            "clickTrace": "query:;nid:101084372;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:101084372_BD;price:65.00;client:desktop;supplier_id:1000000;asc_category_id:10002430;item_id:101084372;sku_id:1015076310;shop_id:7555",
+            "addToCartSkus": [
+                {
+                    "sku": "101084372_BD-1015076310",
+                    "skuId": "1015076310",
+                    "count": 0
+                }
+            ],
+            "itemId": "101084372",
+            "skuId": "1015076310",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Masala Family Pack-Chat Masala+Magic Masala+Muri Masala+Bit Lobon",
+            "nid": "164344455",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "164344455",
+                "scene_pre": "search",
+                "current_price": "117",
+                "x_sku_ids": "1097080016",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "164344455"
+            },
+            "productUrl": "//www.daraz.com.bd/products/masala-family-pack-chat-masalamagic-masalamuri-masalabit-lobon-i164344455-s1097080016.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/aacc93404457ad9b1614a449e9b5401a.jpg",
+            "originalPrice": "170.00",
+            "originalPriceShow": "৳ 170",
+            "price": "117",
+            "promotionId": "null",
+            "priceShow": "৳ 117",
+            "discount": "-31%",
+            "ratingScore": "4.74219",
+            "review": "256",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "164344455_BD-1097080016",
+            "sku": "164344455_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123517490",
+            "brandName": "Sunlight Food and Chemical Industries",
+            "sellerId": "700507527042",
+            "mainSellerId": "",
+            "sellerName": "Sunlight Food and Chemical Industries",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/aacc93404457ad9b1614a449e9b5401a.jpg",
+                    "productUrl": "/products/masala-family-pack-chat-masalamagic-masalamuri-masalabit-lobon-i164344455-s1097080016.html",
+                    "sku": "164344455_BD",
+                    "skuId": "1097080016"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002430
+            ],
+            "clickTrace": "query:;nid:164344455;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:164344455_BD;price:117;client:desktop;supplier_id:700507527042;asc_category_id:10002430;item_id:164344455;sku_id:1097080016;shop_id:92111",
+            "addToCartSkus": [
+                {
+                    "sku": "164344455_BD-1097080016",
+                    "skuId": "1097080016",
+                    "count": 0
+                }
+            ],
+            "itemId": "164344455",
+            "skuId": "1097080016",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ashwagandha Powder (100 gm)",
+            "nid": "113230052",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "113230052",
+                "scene_pre": "search",
+                "current_price": "148",
+                "x_sku_ids": "1030412011",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "113230052"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i113230052-s1030412011.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/e1279856a6c32daf3feac54d5daf6380.jpg",
+            "originalPrice": "180.00",
+            "originalPriceShow": "৳ 180",
+            "price": "148",
+            "promotionId": "null",
+            "priceShow": "৳ 148",
+            "discount": "-18%",
+            "ratingScore": "4.72523",
+            "review": "444",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "113230052_BD-1030412011",
+            "sku": "113230052_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "194732",
+            "brandName": "Rongon Herbals",
+            "sellerId": "3325",
+            "mainSellerId": "",
+            "sellerName": "Rely Foods",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/e1279856a6c32daf3feac54d5daf6380.jpg",
+                    "productUrl": "/products/-i113230052-s1030412011.html",
+                    "sku": "113230052_BD",
+                    "skuId": "1030412011"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002430
+            ],
+            "clickTrace": "query:;nid:113230052;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:113230052_BD;price:148;client:desktop;supplier_id:3325;asc_category_id:10002430;item_id:113230052;sku_id:1030412011;shop_id:3591",
+            "addToCartSkus": [
+                {
+                    "sku": "113230052_BD-1030412011",
+                    "skuId": "1030412011",
+                    "count": 0
+                }
+            ],
+            "itemId": "113230052",
+            "skuId": "1030412011",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Alkushi Powder -  100 gm",
+            "nid": "190294579",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "190294579",
+                "scene_pre": "search",
+                "current_price": "86",
+                "x_sku_ids": "1137684544",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "190294579"
+            },
+            "productUrl": "//www.daraz.com.bd/products/-i190294579-s1137684544.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/mdc/092565fe2433bd6890c3ce11df668d84.jpg",
+            "originalPrice": "200.00",
+            "originalPriceShow": "৳ 200",
+            "price": "86",
+            "promotionId": "null",
+            "priceShow": "৳ 86",
+            "discount": "-57%",
+            "ratingScore": "4.75",
+            "review": "60",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "190294579_BD-1137684544",
+            "sku": "190294579_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507977182",
+            "mainSellerId": "",
+            "sellerName": "ALMAQ Shops",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/mdc/092565fe2433bd6890c3ce11df668d84.jpg",
+                    "productUrl": "/products/-i190294579-s1137684544.html",
+                    "sku": "190294579_BD",
+                    "skuId": "1137684544"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002430
+            ],
+            "clickTrace": "query:;nid:190294579;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:190294579_BD;price:86;client:desktop;supplier_id:700507977182;asc_category_id:10002430;item_id:190294579;sku_id:1137684544;shop_id:122930",
+            "addToCartSkus": [
+                {
+                    "sku": "190294579_BD-1137684544",
+                    "skuId": "1137684544",
+                    "count": 0
+                }
+            ],
+            "itemId": "190294579",
+            "skuId": "1137684544",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Ceylon Naturals Organic Extra Virgin Coconut Oil 200ml",
+            "nid": "167418442",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "167418442",
+                "scene_pre": "search",
+                "current_price": "369",
+                "x_sku_ids": "1101148228",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "167418442"
+            },
+            "productUrl": "//www.daraz.com.bd/products/ceylon-naturals-organic-extra-virgin-coconut-oil-200ml-i167418442-s1101148228.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/43e7a71b5921cafc95e1a77d7715950c.jpg",
+            "originalPrice": "430.00",
+            "originalPriceShow": "৳ 430",
+            "price": "369",
+            "promotionId": "null",
+            "priceShow": "৳ 369",
+            "discount": "-14%",
+            "ratingScore": "4.77778",
+            "review": "81",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "167418442_BD-1101148228",
+            "sku": "167418442_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "123355205",
+            "brandName": "Ceylon",
+            "sellerId": "1031545",
+            "mainSellerId": "",
+            "sellerName": "ContourThat",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/43e7a71b5921cafc95e1a77d7715950c.jpg",
+                    "productUrl": "/products/ceylon-naturals-organic-extra-virgin-coconut-oil-200ml-i167418442-s1101148228.html",
+                    "sku": "167418442_BD",
+                    "skuId": "1101148228"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                20000244,
+                20000254
+            ],
+            "clickTrace": "query:;nid:167418442;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:167418442_BD;price:369;client:desktop;supplier_id:1031545;asc_category_id:20000254;item_id:167418442;sku_id:1101148228;shop_id:37560",
+            "addToCartSkus": [
+                {
+                    "sku": "167418442_BD-1101148228",
+                    "skuId": "1101148228",
+                    "count": 0
+                }
+            ],
+            "itemId": "167418442",
+            "skuId": "1101148228",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Radhuni Fish Curry Masala - 100gm",
+            "nid": "405015",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "26440",
+                "scene_pre": "search",
+                "current_price": "45.00",
+                "x_sku_ids": "227468",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "26440"
+            },
+            "productUrl": "//www.daraz.com.bd/products/radhuni-fish-curry-masala-100gm-i26440-s227468.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a9abe1da3d1d60ba3df49acb57989e7c.jpg",
+            "originalPrice": "55.00",
+            "originalPriceShow": "৳ 55",
+            "price": "45.00",
+            "promotionId": "null",
+            "priceShow": "৳ 45",
+            "discount": "-18%",
+            "ratingScore": "4.84211",
+            "review": "247",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "RA046GR3SHAANNAFAMZ-601097",
+            "sku": "RA046GR3SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Premium Quality",
+                "Product of Bangladesh"
+            ],
+            "brandId": "154981",
+            "brandName": "Radhuni",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a9abe1da3d1d60ba3df49acb57989e7c.jpg",
+                    "productUrl": "/products/radhuni-fish-curry-masala-100gm-i26440-s227468.html",
+                    "sku": "RA046GR3SHAANNAFAMZ",
+                    "skuId": "227468"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002430
+            ],
+            "clickTrace": "query:;nid:405015;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:RA046GR3SHAANNAFAMZ;price:45.00;client:desktop;supplier_id:1000000;asc_category_id:10002430;item_id:26440;sku_id:227468;shop_id:7555",
+            "addToCartSkus": [
+                {
+                    "sku": "RA046GR3SHAANNAFAMZ-601097",
+                    "skuId": "227468",
+                    "count": 0
+                }
+            ],
+            "itemId": "26440",
+            "skuId": "227468",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Farmroots Bay Leaf - Tejpata 50gm",
+            "nid": "168134670",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "168134670",
+                "scene_pre": "search",
+                "current_price": "34",
+                "x_sku_ids": "1102080045",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "168134670"
+            },
+            "productUrl": "//www.daraz.com.bd/products/farmroots-50-i168134670-s1102080045.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/cb94f3a788323d79d8edd73550872673.jpg",
+            "originalPrice": "39.00",
+            "originalPriceShow": "৳ 39",
+            "price": "34",
+            "promotionId": "null",
+            "priceShow": "৳ 34",
+            "discount": "-13%",
+            "ratingScore": "4.78947",
+            "review": "19",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "168134670_BD-1102080045",
+            "sku": "168134670_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "121217473",
+            "brandName": "FARMROOTS",
+            "sellerId": "700504950119",
+            "mainSellerId": "",
+            "sellerName": "FARMROOTS",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/cb94f3a788323d79d8edd73550872673.jpg",
+                    "productUrl": "/products/farmroots-50-i168134670-s1102080045.html",
+                    "sku": "168134670_BD",
+                    "skuId": "1102080045"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002430
+            ],
+            "clickTrace": "query:;nid:168134670;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:168134670_BD;price:34;client:desktop;supplier_id:700504950119;asc_category_id:10002430;item_id:168134670;sku_id:1102080045;shop_id:52238",
+            "addToCartSkus": [
+                {
+                    "sku": "168134670_BD-1102080045",
+                    "skuId": "1102080045",
+                    "count": 0
+                }
+            ],
+            "itemId": "168134670",
+            "skuId": "1102080045",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Radhuni Mustard Oil - 500ml",
+            "nid": "405036",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "26460",
+                "scene_pre": "search",
+                "current_price": "141",
+                "x_sku_ids": "227506",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "26460"
+            },
+            "productUrl": "//www.daraz.com.bd/products/radhuni-mustard-oil-500ml-i26460-s227506.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/a21462373714158b47518d877c7cd76f.jpg",
+            "originalPrice": "185.00",
+            "originalPriceShow": "৳ 185",
+            "price": "141",
+            "promotionId": "null",
+            "priceShow": "৳ 141",
+            "discount": "-24%",
+            "ratingScore": "4.82496",
+            "review": "577",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "RA066GR3SHAANNAFAMZ-601118",
+            "sku": "RA066GR3SHAANNAFAMZ",
+            "skus": [],
+            "description": [
+                "Premium Quality",
+                "Product of Bangladesh"
+            ],
+            "brandId": "154981",
+            "brandName": "Radhuni",
+            "sellerId": "1000000",
+            "mainSellerId": "",
+            "sellerName": "Daraz Retail Seller",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/a21462373714158b47518d877c7cd76f.jpg",
+                    "productUrl": "/products/radhuni-mustard-oil-500ml-i26460-s227506.html",
+                    "sku": "RA066GR3SHAANNAFAMZ",
+                    "skuId": "227506"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                20000244,
+                20000246
+            ],
+            "clickTrace": "query:;nid:405036;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:RA066GR3SHAANNAFAMZ;price:141;client:desktop;supplier_id:1000000;asc_category_id:20000246;item_id:26460;sku_id:227506;shop_id:7555",
+            "addToCartSkus": [
+                {
+                    "sku": "RA066GR3SHAANNAFAMZ-601118",
+                    "skuId": "227506",
+                    "count": 0
+                }
+            ],
+            "itemId": "26460",
+            "skuId": "227506",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "কিশোয়ান হালিম মিক্স 200 গ্রাম",
+            "nid": "133546180",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "133546180",
+                "scene_pre": "search",
+                "current_price": "42",
+                "x_sku_ids": "1055270352",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "133546180"
+            },
+            "productUrl": "//www.daraz.com.bd/products/200-i133546180-s1055270352.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/9e780ffa43f93b755379da98d838f97a.jpg",
+            "originalPrice": "50.00",
+            "originalPriceShow": "৳ 50",
+            "price": "42",
+            "promotionId": "null",
+            "priceShow": "৳ 42",
+            "discount": "-16%",
+            "ratingScore": "4.73196",
+            "review": "97",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "133546180_BD-1055270352",
+            "sku": "133546180_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "124030699",
+            "brandName": "Kishwan",
+            "sellerId": "700506861067",
+            "mainSellerId": "",
+            "sellerName": "Kishwan Snacks",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/9e780ffa43f93b755379da98d838f97a.jpg",
+                    "productUrl": "/products/200-i133546180-s1055270352.html",
+                    "sku": "133546180_BD",
+                    "skuId": "1055270352"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002430
+            ],
+            "clickTrace": "query:;nid:133546180;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:133546180_BD;price:42;client:desktop;supplier_id:700506861067;asc_category_id:10002430;item_id:133546180;sku_id:1055270352;shop_id:85375",
+            "addToCartSkus": [
+                {
+                    "sku": "133546180_BD-1055270352",
+                    "skuId": "1055270352",
+                    "count": 0
+                }
+            ],
+            "itemId": "133546180",
+            "skuId": "1055270352",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Farmroots Turmeric Powder - Holuder Gura 500gm",
+            "nid": "128618220",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "128618220",
+                "scene_pre": "search",
+                "current_price": "200",
+                "x_sku_ids": "1048460670",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "128618220"
+            },
+            "productUrl": "//www.daraz.com.bd/products/farmroots-500-i128618220-s1048460670.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/1168705b3ec2520c98928bec815a3fe2.jpg",
+            "originalPrice": "219.00",
+            "originalPriceShow": "৳ 219",
+            "price": "200",
+            "promotionId": "null",
+            "priceShow": "৳ 200",
+            "discount": "-9%",
+            "ratingScore": "5",
+            "review": "26",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "128618220_BD-1048460670",
+            "sku": "128618220_BD",
+            "skus": [],
+            "description": [
+                "PRODUCT TYPE : TURMERIC POWDER",
+                "BRAND : FARMROOTS",
+                "WEIGHT : 500 gm",
+                "PRODUCT OF BANGLADESH",
+                "100% PURE & SAFE",
+                "PACKAGING : 3 LAYER POLY BAG",
+                "PREMIER QUALITY PRODUCT"
+            ],
+            "brandId": "121217473",
+            "brandName": "FARMROOTS",
+            "sellerId": "700504950119",
+            "mainSellerId": "",
+            "sellerName": "FARMROOTS",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/1168705b3ec2520c98928bec815a3fe2.jpg",
+                    "productUrl": "/products/farmroots-500-i128618220-s1048460670.html",
+                    "sku": "128618220_BD",
+                    "skuId": "1048460670"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002430
+            ],
+            "clickTrace": "query:;nid:128618220;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:128618220_BD;price:200;client:desktop;supplier_id:700504950119;asc_category_id:10002430;item_id:128618220;sku_id:1048460670;shop_id:52238",
+            "addToCartSkus": [
+                {
+                    "sku": "128618220_BD-1048460670",
+                    "skuId": "1048460670",
+                    "count": 0
+                }
+            ],
+            "itemId": "128618220",
+            "skuId": "1048460670",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Jazaa Chat Masala - 100 gm",
+            "nid": "157218517",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "157218517",
+                "scene_pre": "search",
+                "current_price": "110",
+                "x_sku_ids": "1087604097",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "157218517"
+            },
+            "productUrl": "//www.daraz.com.bd/products/jazaa-100-i157218517-s1087604097.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/d30a52a548e96b49fd61558f36f3cff8.jpg",
+            "originalPrice": "120.00",
+            "originalPriceShow": "৳ 120",
+            "price": "110",
+            "promotionId": "null",
+            "priceShow": "৳ 110",
+            "discount": "-8%",
+            "ratingScore": "4.56863",
+            "review": "51",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "157218517_BD-1087604097",
+            "sku": "157218517_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "1040381",
+            "mainSellerId": "",
+            "sellerName": "Jazaa",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/d30a52a548e96b49fd61558f36f3cff8.jpg",
+                    "productUrl": "/products/jazaa-100-i157218517-s1087604097.html",
+                    "sku": "157218517_BD",
+                    "skuId": "1087604097"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002430
+            ],
+            "clickTrace": "query:;nid:157218517;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:157218517_BD;price:110;client:desktop;supplier_id:1040381;asc_category_id:10002430;item_id:157218517;sku_id:1087604097;shop_id:46160",
+            "addToCartSkus": [
+                {
+                    "sku": "157218517_BD-1087604097",
+                    "skuId": "1087604097",
+                    "count": 0
+                }
+            ],
+            "itemId": "157218517",
+            "skuId": "1087604097",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "Forest Moon Agar Agar Powder -30g Agar Agar Powder",
+            "nid": "142878044",
+            "icons": [
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "freeShipping",
+                    "text": "FreeShipping",
+                    "alias": "FsAlias",
+                    "type": "img",
+                    "group": "2",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "142878044",
+                "scene_pre": "search",
+                "current_price": "124",
+                "x_sku_ids": "1066928886",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "142878044"
+            },
+            "productUrl": "//www.daraz.com.bd/products/forest-moon-agar-agar-powder-30g-i142878044-s1066928886.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/b50c4862aad1da152d2b206591978aad.jpg",
+            "originalPrice": "130.00",
+            "originalPriceShow": "৳ 130",
+            "price": "124",
+            "promotionId": "null",
+            "priceShow": "৳ 124",
+            "discount": "-5%",
+            "ratingScore": "4.82353",
+            "review": "51",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "142878044_BD-1066928886",
+            "sku": "142878044_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "39704",
+            "brandName": "No Brand",
+            "sellerId": "700507314098",
+            "mainSellerId": "",
+            "sellerName": "Rara bazar",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/b50c4862aad1da152d2b206591978aad.jpg",
+                    "productUrl": "/products/forest-moon-agar-agar-powder-30g-i142878044-s1066928886.html",
+                    "sku": "142878044_BD",
+                    "skuId": "1066928886"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002430
+            ],
+            "clickTrace": "query:;nid:142878044;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:142878044_BD;price:124;client:desktop;supplier_id:700507314098;asc_category_id:10002430;item_id:142878044;sku_id:1066928886;shop_id:91257",
+            "addToCartSkus": [
+                {
+                    "sku": "142878044_BD-1066928886",
+                    "skuId": "1066928886",
+                    "count": 0
+                }
+            ],
+            "itemId": "142878044",
+            "skuId": "1066928886",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        },
+        {
+            "name": "KHAAS FOOD Ashwagandha Powder- 100 gm",
+            "nid": "122455784",
+            "icons": [
+                {
+                    "domClass": "lazMall",
+                    "text": "LazMall",
+                    "alias": "LazMallAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "redmart",
+                    "text": "RedMart",
+                    "alias": "RedMartAlias",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                },
+                {
+                    "domClass": "1010Badge",
+                    "text": "",
+                    "alias": "1010Badge",
+                    "type": "img",
+                    "group": "1",
+                    "showType": "0",
+                    "order": 0,
+                    "font-size": 0,
+                    "coins": false
+                }
+            ],
+            "utLogMap": {
+                "x_object_type": "item",
+                "x_item_ids": "122455784",
+                "scene_pre": "search",
+                "current_price": "136",
+                "x_sku_ids": "1042424619",
+                "SN": "24d80f01d167692db45f2b366319bbcf",
+                "x_ad": "1",
+                "x_object_id": "122455784"
+            },
+            "productUrl": "//www.daraz.com.bd/products/khaas-food-ashwagandha-powder-100-gm-i122455784-s1042424619.html?search=1",
+            "image": "https://static-01.daraz.com.bd/p/6f3dc16ca9ce70e1d991bfaae91bf0b3.jpg",
+            "originalPrice": "145.00",
+            "originalPriceShow": "৳ 145",
+            "price": "136",
+            "promotionId": "null",
+            "priceShow": "৳ 136",
+            "discount": "-6%",
+            "ratingScore": "4.61157",
+            "review": "121",
+            "installment": "",
+            "tItemType": "nt_product",
+            "location": "Bangladesh",
+            "cheapest_sku": "122455784_BD-1042424619",
+            "sku": "122455784_BD",
+            "skus": [],
+            "description": [],
+            "brandId": "155395",
+            "brandName": "KHAAS FOOD",
+            "sellerId": "1970",
+            "mainSellerId": "",
+            "sellerName": "KHAAS FOOD",
+            "thumbs": [
+                {
+                    "image": "https://static-01.daraz.com.bd/p/6f3dc16ca9ce70e1d991bfaae91bf0b3.jpg",
+                    "productUrl": "/products/khaas-food-ashwagandha-powder-100-gm-i122455784-s1042424619.html",
+                    "sku": "122455784_BD",
+                    "skuId": "1042424619"
+                }
+            ],
+            "restrictedAge": 0,
+            "categories": [
+                3752,
+                7195,
+                10002136,
+                10002430
+            ],
+            "clickTrace": "query:;nid:122455784;src:LazadaMainSrp;rn:24d80f01d167692db45f2b366319bbcf;region:bd;sku:122455784_BD;price:136;client:desktop;supplier_id:1970;asc_category_id:10002430;item_id:122455784;sku_id:1042424619;shop_id:2579",
+            "addToCartSkus": [
+                {
+                    "sku": "122455784_BD-1042424619",
+                    "skuId": "1042424619",
+                    "count": 0
+                }
+            ],
+            "itemId": "122455784",
+            "skuId": "1042424619",
+            "inStock": true,
+            "isAD": 0,
+            "addToCart": false
+        }
+    ],
+    "breadcrumb": [
+        {
+            "url": "https://www.daraz.com.bd",
+            "title": "Home"
+        },
+        {
+            "url": "/grocers-shop/",
+            "title": "Groceries"
+        },
+        {
+            "url": "/baking-and-cooking/",
+            "title": "Baking & Cooking"
+        },
+        {
+            "url": "/groceries-baking-cooking-cooking-ingredients/",
+            "title": "Cooking Ingredients"
+        }
+    ],
+    "sortBar": {
+        "tItemType": "nt_sortbar",
+        "filter": "Filter",
+        "style": "wf",
+        "sortItems": [
+            {
+                "name": "Popularity",
+                "tip": "Best Match",
+                "isActive": "true",
+                "value": "popularity",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-ASC",
+                "tip": "Price low to high",
+                "value": "priceasc",
+                "key": "sort",
+                "tabName": ""
+            },
+            {
+                "name": "Price-DESC",
+                "tip": "Price high to low",
+                "value": "pricedesc",
+                "key": "sort",
+                "tabName": ""
+            }
+        ],
+        "hiddenLayoutBtn": false,
+        "showFilterBtn": true,
+        "hasFilter": true
+    },
+    "bestShown": {
+        "title": "Seller Picks",
+        "url": "//www.daraz.com.bd/groceries-baking-cooking-cooking-ingredients/?referer_rn=24d80f01d167692db45f2b366319bbcf&q=&m=best_shown&ajax=true&n=12&best_shown=1"
+    },
+    "promotionfilter": {
+        "tItemType": "nt_promotionfilter",
+        "selectType": "single",
+        "filters": [
+            {
+                "paramKey": "pfilter",
+                "paramValue": "1010Badge_173463",
+                "selected": {
+                    "backgroundColor": "#f85606",
+                    "textColor": "#c2fffa",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#c2fffa",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "normal": {
+                    "backgroundColor": "#f6f6f6",
+                    "textColor": "#40003a",
+                    "borderColor": "#f85606",
+                    "img": "",
+                    "replaceColor": "#40003a",
+                    "imgWidth": "",
+                    "imgHeight": "39",
+                    "title": "বৈশাখী অফারের পণ্য গুলো দেখুন",
+                    "replaceText": "বৈশাখী অফারের",
+                    "startColor": "",
+                    "endColor": ""
+                },
+                "status": "normal",
+                "trace": "1010Badge"
+            }
+        ],
+        "bizData": "1010Badge,",
+        "pos": 0
+    },
+    "LazadaDecoration": {
+        "footer": "%3Cp%3EFind%20Best%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Fsoybean-oil%2F%22%3ESoyabean%20Oil%20Price%20in%20Bangladesh%3C%2Fa%3E%20at%20Daraz%20App%20Now.%3C%2Fp%3E%0A%0A%3Cp%3E%3Cstrong%3ESoyabean%20Oils%20by%20Sizes%3A%20%3C%2Fstrong%3E%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ftag%2F500ml-soybean-oil%2F%22%3E500mL%20Soybean%20Oil%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ftag%2F1l-soybean-oil%2F%22%3E1L%20Soybean%20Oil%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ftag%2F2l-soybean-oil%2F%22%3E2L%20Soybean%20Oil%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ftag%2F3l-soybean-oil%2F%22%3E3L%20Soybean%20Oil%3C%2Fa%3E%20%7C%20%3Ca%20href%3D%22https%3A%2F%2Fwww.daraz.com.bd%2Ftag%2F5l-soybean-oil%2F%22%3E5L%20Soybean%20Oil%3C%2Fa%3E%3C%2Fp%3E%0A"
+    },
+    "categoryBar": {
+        "tItemType": "nx_categoryBar",
+        "items": [
+            {
+                "url": "/whole-spices-seeds-herbs/?item_id=26446&from=onesearch_category_10002136",
+                "name": "Herbs & Spices",
+                "image": "//static-01.daraz.com.bd/p/4eeca3be6efcda24b0a16474753e5d5b.jpg",
+                "id": "10002430"
+            },
+            {
+                "url": "/groceries-baking-cooking-cooking-ingredients-seasoning/?item_id=56489&from=onesearch_category_10002136",
+                "name": "Seasoning",
+                "image": "//static-01.daraz.com.bd/p/8891c8a8ba91bf570a5058c551970e2f.jpg",
+                "id": "10002427"
+            },
+            {
+                "url": "/soybean-oil/?item_id=214617784&from=onesearch_category_10002136",
+                "name": "Soybean Oil",
+                "image": "//static-01.daraz.com.bd/p/d40349e1adf2cf281be7e38a6f419861.jpg",
+                "id": "20000247"
+            },
+            {
+                "url": "/salt/?item_id=17279&from=onesearch_category_10002136",
+                "name": "Salt",
+                "image": "//static-01.daraz.com.bd/p/0864e8e452e139b1fe90efc93c1a4170.jpg",
+                "id": "10002425"
+            },
+            {
+                "url": "/olive-oil/?item_id=168336944&from=onesearch_category_10002136",
+                "name": "Olive Oil",
+                "image": "//static-01.daraz.com.bd/p/e17878444ce4504731df8ef946c0f72c.jpg",
+                "id": "20000249"
+            },
+            {
+                "url": "/groceries-baking-cooking-cooking-ingredients-sauce/?item_id=221956135&from=onesearch_category_10002136",
+                "name": "Sauce",
+                "image": "//static-01.daraz.com.bd/p/b7d0d0bb1a13d0083683e8236a0db2c1.jpg",
+                "id": "10002426"
+            },
+            {
+                "url": "/mustard-oil/?item_id=213660493&from=onesearch_category_10002136",
+                "name": "Mustard Oil",
+                "image": "//static-01.daraz.com.bd/p/ecdda3c5632a580d3f0f4689829e9c67.jpg",
+                "id": "20000246"
+            },
+            {
+                "url": "/vinegar/?item_id=192008122&from=onesearch_category_10002136",
+                "name": "Vinegar & Cooking Wine",
+                "image": "//static-01.daraz.com.bd/p/11e4aa6cd633fcf29c485d6c93ad6ce3.jpg",
+                "id": "10002429"
+            },
+            {
+                "url": "/sunflower-oil/?item_id=225691395&from=onesearch_category_10002136",
+                "name": "Sunflower Oil",
+                "image": "//static-01.daraz.com.bd/p/bf4a7dc9374ca02d6435c3573c4cfd69.jpg",
+                "id": "20000245"
+            },
+            {
+                "url": "/other-oil/?item_id=168232620&from=onesearch_category_10002136",
+                "name": "Other Cooking Oil",
+                "image": "//static-01.daraz.com.bd/p/4c7cb346b1c2616739f8256ca977ae5f.jpg",
+                "id": "20000254"
+            },
+            {
+                "url": "/groceries-baking-cooking-cooking-ingredients-soy-sauce/?item_id=228415228&from=onesearch_category_10002136",
+                "name": "Soy Sauce",
+                "image": "//static-01.daraz.com.bd/p/7bcbfbbab920feb52a66cda151cb5b94.jpg",
+                "id": "10002421"
+            },
+            {
+                "url": "/sesame-oil/?item_id=221059500&from=onesearch_category_10002136",
+                "name": "Sesame Oil",
+                "image": "//static-01.daraz.com.bd/p/46bd5fbd8bded61304e6674b5fae7037.jpg",
+                "id": "20000252"
+            },
+            {
+                "url": "/groceries-baking-cooking-cooking-ingredients-pepper/?item_id=109452202&from=onesearch_category_10002136",
+                "name": "Pepper",
+                "image": "//static-01.daraz.com.bd/p/aff5f96229382bf8dbdc1b40953425e7.jpg",
+                "id": "10002424"
+            },
+            {
+                "url": "/ghee/?item_id=133544109&from=onesearch_category_10002136",
+                "name": "Ghee",
+                "image": "//static-01.daraz.com.bd/p/b078c1d411b9b032419a5c91a4cbdb8f.jpg",
+                "id": "20000251"
+            },
+            {
+                "url": "/coconut-oil/?item_id=167268904&from=onesearch_category_10002136",
+                "name": "Coconut Oil",
+                "image": "//static-01.daraz.com.bd/p/b87bacb9b13f1cbb085b9ae29fb89bde.jpg",
+                "id": "20000253"
+            },
+            {
+                "url": "/canola-oil/?item_id=141236817&from=onesearch_category_10002136",
+                "name": "Canola Oil",
+                "image": "//static-01.daraz.com.bd/p/30821fba4fcf8c2d14a5702e107ddb2e.jpg",
+                "id": "20000321"
+            },
+            {
+                "url": "/groceries-baking-cooking-cooking-ingredients-stock-gravy-broth/?item_id=165090637&from=onesearch_category_10002136",
+                "name": "Stock Gravy Broth",
+                "image": "//static-01.daraz.com.bd/p/c2dd9d5a128e7c3fff462cb85df51c7b.jpg",
+                "id": "10002428"
+            },
+            {
+                "url": "/groceries-baking-cooking-cooking-ingredients-coconut-milk/?item_id=215572261&from=onesearch_category_10002136",
+                "name": "Coconut Milk",
+                "image": "//static-01.daraz.com.bd/p/f13cebb242a3d9e8fb42e94dd7806e7b.jpg",
+                "id": "10002418"
+            },
+            {
+                "url": "/rice-bran-oil/?item_id=100595884&from=onesearch_category_10002136",
+                "name": "Rice Bran Oil",
+                "image": "//static-01.daraz.com.bd/p/1ed677f2f7e06c5ed04d6134509fc9bd.jpg",
+                "id": "20000248"
+            },
+            {
+                "url": "/groceries-baking-cooking-cooking-ingredients-fish-sauce/?item_id=214205724&from=onesearch_category_10002136",
+                "name": "Fish Sauce",
+                "image": "//static-01.daraz.com.bd/p/ce47c6144867e6489eba720faaff0ad5.jpg",
+                "id": "10002420"
+            },
+            {
+                "url": "/groceries-baking-cooking-cooking-ingredients-cooking-sauces-kits/?item_id=221961064&from=onesearch_category_10002136",
+                "name": "Cooking Sauces & Kits",
+                "image": "//static-01.daraz.com.bd/p/44ede622a6f9d26014eb5d7425e0485b.jpg",
+                "id": "10002419"
+            }
+        ],
+        "utTrack": {
+            "from": "onesearch_category_10002136"
+        },
+        "title": "",
+        "bizId": "onesearch_category_10002136",
+        "pos": 0
+    },
+    "resultTips": {
+        "tItemType": "nt_resulttips",
+        "tips": "17870 items found in {$0}",
+        "title": "Cooking Ingredients",
+        "brandLink": "",
+        "keywords": [
+            {
+                "text": "Cooking Ingredients"
+            }
+        ]
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "title": "Cooking Ingredients",
+        "isShowFloatCart": false,
+        "isHideAddToCart": false,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "RN": "24d80f01d167692db45f2b366319bbcf",
+        "style": "wf",
+        "layoutInfo": {
+            "listHeader": [
+                "highlight",
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "promotionRegion",
+                "promotionInfo",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ]
+        },
+        "pageType": "SearchListCategory",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "10002136",
+            "category": "10002136"
+        },
+        "categoryRegionalKey": "140912000000",
+        "mainCategoryRegionalKey": "140000000000",
+        "anonUid": "7c22ee26-f7d7-4532-82f8-7ba4c8a1091e",
+        "pageTitle": "Cooking Ingredients at Best Price | 20% Off on Daraz | Buy Online",
+        "cate_id": "",
+        "hyperspaceInfo": "",
+        "lang": "en",
+        "venture": "BD",
+        "currency": "৳ ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "addToCartURL": "//cart.daraz.com.bd/cart/api/add",
+        "themes": [
+            {
+                "key": "freeShipping",
+                "isImgIcon": "1",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 45.0,
+                    "height": 28.0
+                },
+                "dcPushId": 1142192.0,
+                "source_desc": "FreeShipping",
+                "source_name": "BJBby2",
+                "text": ""
+            },
+            {
+                "key": "redmart",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i1/O1CN01KudGev1Gpot9jcneM_!!6000000000672-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056412.0,
+                "source_desc": "dMart New",
+                "source_name": "EVJzEj",
+                "text": ""
+            },
+            {
+                "key": "lazMall",
+                "isImgIcon": "1",
+                "url": "//img.alicdn.com/imgextra/i2/O1CN0192vi4w22yc3IH1uKk_!!6000000007189-2-tps-192-96.png",
+                "locaLang": "",
+                "enLang": "",
+                "style": {
+                    "width": 54.0,
+                    "height": 26.0
+                },
+                "dcPushId": 2056411.0,
+                "source_desc": "Dmall New",
+                "source_name": "Nnaui2",
+                "text": ""
+            }
+        ],
+        "q": "",
+        "dataLayer": {
+            "pdt_category": "Groceries,Baking & Cooking,Cooking Ingredients",
+            "pagetype": "category",
+            "core": {
+                "country": "BD",
+                "layoutType": "desktop",
+                "language": "en",
+                "currencyCode": "৳ "
+            },
+            "seller_name": "undefined",
+            "v_voya": 1,
+            "search_engine_used": "HA3",
+            "brand_name": "undefined",
+            "page": {
+                "bucket_id": "v6",
+                "internalSearchTerm": "undefined",
+                "regCategoryId": "140912000000",
+                "xParams": "_p_typ=cate&_p_iscap=1&_p_cateid=10002136&_p_asc_cateid=10002136",
+                "SortingPattern": "default",
+                "filters": [
+                    {
+                        "filterCheckedValues": "groceries-baking-cooking-cooking-ingredients",
+                        "filterName": "category"
+                    }
+                ],
+                "rn": "24d80f01d167692db45f2b366319bbcf",
+                "resultNr": 17870,
+                "internalSearchResultType": "Search Results"
+            },
+            "seller_id": "undefined",
+            "top_catalog_skus": [
+                "152103",
+                "1147131609",
+                "227408"
+            ],
+            "brand_id": "undefined"
+        },
+        "column": 2,
+        "bucketId": "v6",
+        "auctionType": 1,
+        "selectedFilters": {
+            "categoryAsc": "10002136",
+            "category": "10002136"
+        }
+    }
+}
